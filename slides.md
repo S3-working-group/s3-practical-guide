@@ -1,4 +1,4 @@
-footer: Sociocracy 3.0 - Patterns for Agile Organizations © 2016 by Bernhard Bockelbrink and James Priest (v2016-09-13) - evolvingcollaboration.com
+footer: Sociocracy 3.0 - Patterns for Agile Organizations © 2016 by Bernhard Bockelbrink and James Priest (v2016-11-21) - evolvingcollaboration.com
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 2
@@ -134,7 +134,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 ---
 
 
-![inline,fit](img/pattern-groups/group-1.png)
+![inline,fit](img/pattern-group-headers/header-group-1.png)
 
 
 
@@ -366,7 +366,7 @@ Proposal Forming...
 
 ## P1.9: Strategy
 
-![right,fit](img/tension-driver-domain/domain-model.png)
+![right,fit](img/tension-driver-domain/driver-strategy-agreements-domain.png)
 
 _A **strategy** is the approach towards creating value within a domain._
 
@@ -383,7 +383,13 @@ _A **strategy** is the approach towards creating value within a domain._
 
 Strategies are implemented and refined through a serieses of experiments.
 
-![inline](img/drivers-and-subdrivers/driver-strategy-experiment.png)
+![inline,fit](img/drivers-and-subdrivers/driver-strategy-experiment.png)
+
+---
+
+## Strategy (cont.)
+
+![inline,fit](img/tension-driver-domain/domain-model.png)
 
 
 ---
@@ -500,7 +506,7 @@ Consider why, how and when to respond to a stimulus, instead of defaulting to ac
 ---
 
 
-![inline,fit](img/pattern-groups/group-2.png)
+![inline,fit](img/pattern-group-headers/header-group-2.png)
 
 
 
@@ -585,7 +591,7 @@ Circles meet at regular intervals to create and evolve agreements in response to
 ---
 
 
-![inline,fit](img/pattern-groups/group-3.png)
+![inline,fit](img/pattern-group-headers/header-group-3.png)
 
 
 
@@ -810,7 +816,7 @@ The role may be assigned temporarily (i.e. for one specific event) or permanentl
 ---
 
 
-![inline,fit](img/pattern-groups/group-4.png)
+![inline,fit](img/pattern-group-headers/header-group-4.png)
 
 
 
@@ -1004,7 +1010,7 @@ Responsibilities:
 ---
 
 
-![inline,fit](img/pattern-groups/group-5.png)
+![inline,fit](img/pattern-group-headers/header-group-5.png)
 
 
 
@@ -1047,26 +1053,28 @@ In the addition to the patterns in this sections there's also two subsections:
 
 ---
 
-## P5.2: Organize In Nested Domains
+## P5.2: Domain
 
-
-![right,fit](img/tension-driver-domain/nested-domains.png)
+![right,fit](img/tension-driver-domain/driver-response-full.png)
 
 _A **domain** is an area of influence, autonomy and accountability._
 
 Building an organization from domains defined along organizational drivers facilitates effective collaboration by creating enabling constraints and clear and logical boundaries for accountablility.
 
+When defining a domain in relation to an organisational driver, consider  
+responsibilities, the resources and skills required, and the constraints to the domain's autonomy necessary for collaboration and exchange with other domains. 
 
 ---
 
-## Drivers Define Domains of Accountability
+## Domains and Accountability
 
-![right,fit](img/tension-driver-domain/driver-response-full.png)
+![right,fit](img/tension-driver-domain/nested-domains.png)
 
 * accountability applies to all agreements, including the organization itself, circles, and roles
 * everyone's primary accountability is for effective collaboration in response to drivers
-* circles are accountable their work, their body of agreements and for their own development
+* circles are accountable their work, for their body of agreements and for their own development
 * everyone in an organization is accountable for upholding organizational values and principles
+
 
 
 ---
@@ -1098,7 +1106,7 @@ Keep the system open by adding connections as temporary or permanent members in 
 ---
 
 
-![inline,fit](img/pattern-groups/group-6.png)
+![inline,fit](img/pattern-group-headers/header-group-6.png)
 
 
 
@@ -1239,7 +1247,7 @@ Support roles may be operational only, external contractors opt-in to role descr
 ---
 
 
-![inline,fit](img/pattern-groups/group-7.png)
+![inline,fit](img/pattern-group-headers/header-group-7.png)
 
 
 
@@ -1399,7 +1407,7 @@ A group of people with the mandate to execute on rules and guidelines set by its
 ---
 
 
-![inline,fit](img/pattern-groups/group-8.png)
+![inline,fit](img/pattern-group-headers/header-group-8.png)
 
 
 
@@ -1505,7 +1513,7 @@ Secure S3 principles and patterns in your bylaws as needed, to protect **legal i
 ---
 
 
-![inline,fit](img/pattern-groups/group-9.png)
+![inline,fit](img/pattern-group-headers/header-group-9.png)
 
 
 

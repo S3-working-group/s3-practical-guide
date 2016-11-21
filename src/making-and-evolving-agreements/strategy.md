@@ -1,6 +1,6 @@
 ## Strategy
 
-![right,fit](img/tension-driver-domain/domain-model.png)
+![right,fit](img/tension-driver-domain/driver-strategy-agreements-domain.png)
 
 _A **strategy** is the approach towards creating value within a domain._
 
@@ -17,4 +17,10 @@ _A **strategy** is the approach towards creating value within a domain._
 
 Strategies are implemented and refined through a serieses of experiments.
 
-![inline](img/drivers-and-subdrivers/driver-strategy-experiment.png)
+![inline,fit](img/drivers-and-subdrivers/driver-strategy-experiment.png)
+
+---
+
+## Strategy (cont.)
+
+![inline,fit](img/tension-driver-domain/domain-model.png)
