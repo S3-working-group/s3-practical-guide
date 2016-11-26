@@ -1,15 +1,14 @@
 ## Evaluate Agreements
 
 
-The periodical review of agreements is an essential practice for a learning organization: continuously improving the body of agreements, and eliminating waste:
+Regular review of agreements is an essential practice for a learning organization: continuously evolving the body of agreements, and eliminating waste:
 
-* adapt to changes in context
-* integrate emerging knowledge
-* adjust expectations and actual outcome
+* adapt to changing context
+* integrate learning
 
 *Is the agreement still relevant?*
 
-*Is the agreement still good enough for now and safe enough to try?*
+*Is the agreement still good enough for now and safe enough to continue?*
 
 *Is there a reason why NOT to continue with this agreement?*
 
@@ -17,14 +16,13 @@ The periodical review of agreements is an essential practice for a learning orga
 
 ## Evaluate Agreements (cont.)
 
-![right,fit](img/agreements/evaluate-agreements.png)
+![left,fit](img/agreements/evaluate-agreements.png)
 
 * preparation
     * schedule review
-    * update documents and metrics
-    * prepare report(s) (optional)
+    * ensure necessary information is available
 
-* address consequences
+* follow-up
     * agree on next review date
     * documentation / notification
     * tracking tasks and decisions
@@ -34,9 +32,9 @@ The periodical review of agreements is an essential practice for a learning orga
 
 ## Evaluate Agreements (cont.)
 
-* schedule a separate session for updating agreement if necessary 
-* review usually takes place in *Governance Meetings* 
-* reviews are scheduled per agreement
-* adjust review cadence with **expected stability** of the agreement
-* trigger early review when necessary
+* evaluating agreements can be as simple as checking there's no objections to the agreemens as is
+* review often takes place in *Governance Meetings* 
+* sometimes it's effective to schedule a dedicated session for reviewing an agreement 
+* adjust review frequency as necessary
+* review earlier if required
 

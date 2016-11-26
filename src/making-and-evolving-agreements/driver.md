@@ -6,9 +6,9 @@
 * describes a **specific situation**: conditions and the **needs** we associate with it
 * focus on the **present**, not future or assumptions
 * precedes goals, objectives, aims, mission, vision, purpose
-* **incrementally refined**, easy to review 
+* drivers can change
 
-The response to a driver is usually an experiment, that evolves over time with what is learned along the way.
+The response to a driver is usually an experiment that evolves over time with what is learned.
 
 ---
 

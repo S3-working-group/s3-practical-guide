@@ -1,24 +1,29 @@
 ## Artful Participation
 
-![right,fit](img/agreements/balance.png)
+![right,fit](img/agreements/artful-participation.png)
 
-**Artful participation** is the commitment of an individual to participate in a **proactive, coherent and elegant way** in all aspects of collaboration.
+A commitment to developing helpful interactions and effective collaboration 
+
+Participating artfully may include interrupting, objecting or breaking  agreements.
 
 
-* makes better agreements and more effective evolution
-* is an individual choice, but much more powerful when embraced by the whole team
-* develops trust (being accountable is a learned skill)
-* makes stronger teams (collaboration is an individual skill)
-* makes happier people (culture of mutual support and close collaboration)
+* enables **co-creation and evolution** of agreements
+* is an **individual choice**, and powerful when embraced by many
+* building self-accountability and integrity develops **trust**
+* indivduals devloping collaboration skills makes for **stronger teams**
+* culture of mutual support and close collaboration makes for **happier people**
 
 ---
+
+![right,fit](img/people-and-roles/autonomy-collaboration.png)
+
 
 ## Artful participation (cont.)
 
 An **individual commitment** to…
 
-* actively **keeping and following-up on all agreements** made, in the best way possible, given the circumstances
-* consciously **balancing personal needs with those of a team** and the organization as a whole 
+* actively **consider and follow-up on all agreements** made, in the best way possible, given the circumstances
+* consciously **balance personal needs with those of a team** and organization as a whole 
 * **developing the necessary skills** to do so
 * **supporting others** in doing the same 
 * bringing impediments to the attention of the circle if necessary
@@ -28,9 +33,9 @@ An **individual commitment** to…
 ### Artful Participation: Self-Assessment
 
 * How will I support myself and others in participating more artfully? 
-* Where are my interactions with others not particularly helpful or effective?
-* Which are the agreements I find hard to keep or contribute to? What can I do to change that?
-* What are skills that would support me in artful participation?
+* Where are my interactions with others unhelpful or ineffective?
+* Which agreements do I find hard to keep or contribute to? What can I do to address this?
+* What are skills that would support me to participate more artfully?
 * What would artful participation mean in relation to...
     * ... my daily activities 
     * ...collaboration and interaction with others?

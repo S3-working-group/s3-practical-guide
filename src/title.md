@@ -1,11 +1,11 @@
-# Sociocracy 3.0 - Patterns for Agile Organizations
+# [fit] Sociocracy 3.0
 
 ![fit](img/general/logo.png)
 
-## All Patterns Explained
+# All Patterns Explained
 
 #### Bernhard Bockelbrink and James Priest
-#### <http://evolvingcollaboration.com/sociocracy-30/>
+#### <http://sociocracy30.org>
 
 ---
 
@@ -13,8 +13,8 @@
 
 _A **pattern** is a template for successfully navigating a specific context._
 
-* patterns are discovered through observing many organizations as they solve problems
-* patterns may need to be adapted and evolved to suit differing contexts
+* patterns are discovered through observing many organizations as they solve problems and respond to opportunities
+* patterns can be evolved and adapted to suit differing contexts
 
 ---
 
@@ -26,29 +26,27 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 ## All Patterns are based on The Seven Principles
 
-![inline,fit](img/general/s3-principles.png)
+![inline,fit](img/general/s3-principles-plain.png)
 
 ---
 
 ## The Seven Principles
 
-
 **Effectiveness:** *Devote time only to what brings you closer towards achieving your objectives.*
 
+**Consent:** *Do things in the absence of reasons not to.*
 
-**Consent:** *Do things only in the absence of reasons why doing so would stand in the way of (more) effectively meeting shared objectives.*
-
-**Empiricism:** *Test all assumptions about an organization and its interactions through experiments, continuous revision and falsification.*
+**Empiricism:** *Test all assumptions through experiments, continuous revision and falsification.*
 
 ---
 
 ## The Seven Principles (cont.)
 
-**Continuous Improvement:** *Respond to change in small increments, by building on and transforming what is already there, to reduce risk and resistance, and to accommodate steady empirical learning*
+**Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
 
-**Equivalence:** *People affected by decisions can influence and change them on the basis of reason to do so.*
+**Equivalence:** *People affected by decisions can influence and change them on the basis of reasons to do so.*
 
-**Transparency:** *Make all information accessible to anyone in an organization. Confidentiality requires consent.*
+**Transparency:** *All information is availble to everyone in an organization, unless there's a reason for confidentiality.*
 
 **Accountability:** *Respond when something is needed and be accountable for doing what you agreed to.*
 

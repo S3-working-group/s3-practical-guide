@@ -1,6 +1,6 @@
 ## Meeting Facilitation
 
-Make sure all meetings are facilitated. Even an inexperienced facilitator makes a difference.
+Choose someone to facilitate a meeting. Even an inexperienced facilitator makes a difference.
 
 * prepare an agenda of topics
 * select a facilitator who

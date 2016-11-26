@@ -1,43 +1,48 @@
-## Objections
+## Objection
 
-_An **objection** is an important reason why doing what is proposed stands in the way of (more) effective response to a driver._
+_An **objection** is a reason why doing something stands in the way of (more) effective response to a driver._
 
-Objections...
+Objections:
 
-* ...stop proposals from becoming agreements.
-* ...contain emergent information that can be used to improve proposals and agreements
-* ...reveal both opportunities or impediments
+* stop proposals from becoming agreements
+* reveal information that can be used to improve proposals and existing agreements
+* reveal both opportunities or impediments
 
 ---
 
-## Objections (cont.)
+## Objection (cont.)
 
+It's the accountability of the individual to raise objections, and the accountability of the group to address them. 
 
-It's the decision of the individual who raised the objection to stay or withdraw the objection.
-
-Withholding objections could harm the aims of a group or organization
+Withholding objections could harm the aims of a group or organization.
 
 Being able to raise objections at any time means that proposals only need to be *good enough for now, safe enough to try*
 
 ---
 
-## Questions to Understand Objections ##
+# Qualifying Objections
 
-* Does the objection relate to this specific proposal or agreement?
-* Does this objection reveal how a (proposed or existing) **agreement**...
-
-    * ...jeopardizes the response to a driver?
-    * ...is in conflict with the organization's values?
-    * ...prevents or diminishes someone's contribution to responding to a driver?
-    * ...can be improved significantly?
+> How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?
 
 ---
 
-# Concerns... #
+## Understanding Objections ##
 
-* ...are not objections
-* ...are not important enough to prevent an agreement
-* ...often contain wisdom 
-* ...can be recorded in the logbook
-    * ...to further evolve agreements
-    * ...to set evaluation criteria (including review date)
+## Some Helpful Questions
+
+* Does the objection relate to this specific proposal or agreement?
+* Does this objection reveal how a (proposed or existing) **agreement**...
+    * ...jeopardizes the response to a driver?
+    * ...is in conflict with the organization's values?
+    * ...prevents or diminishes someone's contribution to responding to a driver?
+    * ...can be improved right now?
+
+---
+
+# Concerns #
+
+* are not objections
+* are recorded in the logbook 
+* are heard if there's time or they're considered important
+* often contain wisdom 
+* can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation)

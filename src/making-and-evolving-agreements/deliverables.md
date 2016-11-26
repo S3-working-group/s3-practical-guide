@@ -1,10 +1,9 @@
-## Deliverables
+## Describing Deliverables
 
-A **deliverable** is something which is provided as a result of an agreement, usually framed as a product, a service, or an expectation.
+A **deliverable** is something which is provided as a result of an agreement, usually framed as a product, a service.
 
-**Describing deliverables:**
+**In the context of an agreement, clearly describing deliverables supports shared understanding**
 
-* goal: shared understanding
 * include reasonable amount of detail
 * reference other documents when helpful or necessary
 
@@ -12,11 +11,10 @@ A **deliverable** is something which is provided as a result of an agreement, us
 
 ## Deliverables (cont.)
 
-Deliverables are useful for: 
+Explicitly defining deliverables can be useful for improving: 
 
 * organizational strategy
 * circle strategy
 * development plans
 * role descriptions
-* process policy
-* any other agreement
+* any other agreement (e.g. business goals, process policy)

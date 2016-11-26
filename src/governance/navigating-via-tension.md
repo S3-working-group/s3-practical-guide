@@ -1,20 +1,22 @@
 ## Navigating Via Tension
 
-![right,fit](img/tension-driver-domain/navigate-condensed.png)
+### ...for identifying and accounting for organizational drivers.
 
-* individuals act as sensors for the organization
-* tensions arise whenever our perception of what is happening is in conflict with our **expectations** or our **values** (and principles)
-* problems, challenges, and feelings of unease are all tensions
-* investigating tension leads to the discovery of drivers
-* to identify a possible driver behind a tension we:
-    * **describe** the situation
-    * **identify** the needs we associate with it 
-* in the process, a tensions may be resolved as **misunderstandings**
+**All members** bring awareness to what might help or harm the organization, and aim to account for drivers in an effective way. 
+
+A **tension** is an personal experience: a symptom of dissonance between an individual's perception and their expectations (or preferences). 
+
+**Challenges and opportinities** for an organizations are revealed as people become aware of tensions they are experiencing in relation to them.
+
+Looking behind tensions by describing what's happening and what's needed, we can often **discover drivers**. Sometimes in our inquiry reveals misconceptions and the tension goes away.
+
+**Organizational drivers** can then be passed to the appropriate domain to address.
+
 
 ---
 
 ## Navigating Via Tension (cont.)
 
 
-![inline,fit](img/tension-driver-domain/navigate-via-tensions-alt.png)
+![inline,fit](img/tension-driver-domain/qualify-drivers.png)
 

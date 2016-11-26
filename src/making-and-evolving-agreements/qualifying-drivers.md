@@ -1,13 +1,8 @@
-## Qualifying Drivers
+## Qualifying Organizational Drivers
 
-Consider why, how and when to respond to a stimulus, instead of defaulting to action.
+Some situations might be helpful to address in the context of an organizations primary driver, others are not within an organization's domain.
 
->_Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom._ (Viktor E. Frankl)
+A simple way to qualifying organizational drivers is by checking:
 
-* only act on **important** drivers
-* take drivers to the **appropriate domain** (role or circle)
-* both the individual sensing tension and the domain is accountable for making a conscious choice whether or not to act on the driver
+_Would responding to this driver improve - or avoid impeding - flow of value to an existing Organizational Driver? a.k.a. can it help or harm us?_
 
----
-
-![inline,fit](img/tension-driver-domain/qualify-drivers.png)

@@ -2,11 +2,10 @@
 
 ![right,fit](img/tension-driver-domain/driver-strategy-agreements-domain.png)
 
-_A **strategy** is the approach towards creating value within a domain._
+_A **strategy** is a high level approach towards creating value within a domain._
 
-* describes high level approach 
-    * not a detailed plan or a full product description
-* an organization, circle or role can have their own strategy
+* an organization, circle or a person in a role can have their own strategy
+* not a detailed plan or a full product description
 * often includes a description of the intended outcome (a.k.a. "vision")
 * is regularly reviewed and updated as necessary
 * helps in the decision whether to continue or change course (*pivot or persevere*)
@@ -15,12 +14,10 @@ _A **strategy** is the approach towards creating value within a domain._
 
 ## Strategy (cont.)
 
-Strategies are implemented and refined through a serieses of experiments.
+### Strategies are implemented and refined through experimentation and learning. 
 
-![inline,fit](img/drivers-and-subdrivers/driver-strategy-experiment.png)
+![right,fit](img/tension-driver-domain/domain-driver-strategy-exeriments.png)
 
----
 
-## Strategy (cont.)
 
-![inline,fit](img/tension-driver-domain/domain-model.png)
+

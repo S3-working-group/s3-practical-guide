@@ -1,10 +1,10 @@
 ## Governance Backlog
 
-The governance backlog is a prioritized list of agenda items a circle needs to deal with:
+The governance backlog is a prioritized list of items (drivers) that require or may benefit from a group decision.
 
-* tensions to process
-* proposals
+* decisions to make
+* proposals to create and consider
 * agreements for review
-* selections to roles
+* selecting people for roles
 * upcoming effectiveness reviews
-* other agenda items
+
