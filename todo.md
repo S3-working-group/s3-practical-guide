@@ -8,15 +8,16 @@
 * by building on and transforming what is already there, to reduce risk and resistance
 * define organization
 
+
 ## making and evolving agreements
 
 * [ ] Review: Those affected decide
 * [ ] Driver: new illustrations and text (rename patterns)
 * [ ] Rename Pattern: objections to objection
-* [ ] Move pattern "circle"  to building organizations
 * [ ] Decide: driver is not a pattern? What is is then?
 * [ ] rename "qualfying drivers" to "qualifying organizational drivers"
 * [ ] rename "Deliverables": "Describing deliverables"
+* [ ] delete nested circle
 
 
 ## Illustration:
@@ -39,6 +40,13 @@
 ## Other 
 
 * clarify service circle and delegate circle
+* [ ] update domain description (was "role description")
+* [ ] create ask for help
+* [ ] create peer feedback
+* [ ] create operations backlog
+* [ ] create limit wip
+* [ ] create nested domains
+* 
 
 
 
