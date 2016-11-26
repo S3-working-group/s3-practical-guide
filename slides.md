@@ -69,84 +69,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 ---
 
 
-![inline,fit](img/grouped-patterns/group-1.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-2.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-3.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-4.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-5.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-6.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-7.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-8.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-9.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-10.png)
-
-
-
----
-
-
 ![inline,fit](img/pattern-group-headers/header-group-1.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-1.png)
 
 
 
@@ -404,13 +327,6 @@ This also applies to review and evolution of decisions.
 
 ---
 
-
-![inline,fit](img/grouped-patterns/group-2.png)
-
-
-
----
-
 ## Roles implement functions
 
 ![inline,fit](img/people-and-roles/driver-role-selection-development.png)
@@ -486,13 +402,6 @@ This also applies to review and evolution of decisions.
 
 
 ![inline,fit](img/pattern-group-headers/header-group-3.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-3.png)
 
 
 
@@ -749,13 +658,6 @@ To protect organizational culture, help new members have a smooth start, and pro
 
 ---
 
-
-![inline,fit](img/grouped-patterns/group-4.png)
-
-
-
----
-
 ## S3 promotes a hypothesis-driven approach to decision making
 
 ![inline,fit](img/experiments/experiments.png)
@@ -983,13 +885,6 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 ---
 
-
-![inline,fit](img/grouped-patterns/group-5.png)
-
-
-
----
-
 ## P5.1: Governance Meeting
 
 ![right,fit](img/meetings/governance-meeting.png)
@@ -1116,13 +1011,6 @@ Meet on a regular basis (usually weekly) for reporting on and coordinating work.
 
 ---
 
-
-![inline,fit](img/grouped-patterns/group-6.png)
-
-
-
----
-
 ## P6.1: Rounds
 
 ![right,fit](img/circle/rounds.png) 
@@ -1230,13 +1118,6 @@ The governance backlog is a prioritized list of items (drivers) that require or 
 
 
 ![inline,fit](img/pattern-group-headers/header-group-7.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-7.png)
 
 
 
@@ -1405,13 +1286,6 @@ Responsibilities:
 
 ---
 
-
-![inline,fit](img/grouped-patterns/group-8.png)
-
-
-
----
-
 ## Building Organizations
 
 Patterns for growing an organization along the principles behind S3. 
@@ -1499,13 +1373,6 @@ A circle:
 
 ---
 
-
-![inline,fit](img/grouped-patterns/group-9.png)
-
-
-
----
-
 ## P9.1: Linking
 
 **Connecting two circles**
@@ -1547,13 +1414,6 @@ Representatives (a.k.a Links)...:
 
 
 ![inline,fit](img/pattern-group-headers/header-group-10.png)
-
-
-
----
-
-
-![inline,fit](img/grouped-patterns/group-10.png)
 
 
 
