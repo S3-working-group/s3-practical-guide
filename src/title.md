@@ -52,10 +52,4 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 ---
 
-## 65 Patterns
-
-![inline,fit](img/general/s3-patterns-map.png)
-
----
-
 ![inline,fit](img/general/s3-pattern-groups.png)
