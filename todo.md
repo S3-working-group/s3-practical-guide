@@ -73,3 +73,41 @@ Consider why, how and when to respond to a stimulus, instead of defaulting to ac
 * take drivers to the **appropriate domain** (role or circle)
 * both the individual sensing tension and the domain is accountable for making a conscious choice whether or not to act on the driver
 
+
+
+
+# Website 
+
+Menu:
+
+* home
+* What's S3?
+* The Patterns
+* events
+* ressources
+* blog
+* contacts
+* About Us
+
+
+Ressource library: only all patterns explained
+
+--> Recommend events plugin
+
+Sections on the homepage
+* illustration 
+* 4 sections: leave as is
+* all patterns explained - download
+* illustrations repository
+* next events
+* press kit 
+* latest news
+* newsletter subscription / twitter
+* (big picture when ready)
+* 
+
+
+
+
+
+

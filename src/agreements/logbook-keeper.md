@@ -1,11 +1,9 @@
 ## Logbook Keeper (Role)
 
-The logbook keeper is responsible for maintaining a circle's logbook:
+The logbook keeper is accountable for maintaining a circle's logbook by: 
 
-* recording all relevant information and adding it to the logbook
-    * all agreements, role descriptions, selections etc.
-    * making sure minutes of meetings are recorded and approved by participants
-* keeping the logbook is up do date
-* continuously improve organization of the logbook
-* making the logbook and accessible to everyone in the circle (and in the wide organization as agreed)
-* tending to all technical aspects of logbook keeping
+* recording details of agreements, role descriptions, selections, evaluation dates, minutes of meetings etc.
+* organizing relevant information and improving the system when valuable
+* keeping records up to date
+* ensuring accessibility to everyone in the circle (and in the wider organization as agreed)
+• tending to all technical aspects of logbook keeping

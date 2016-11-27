@@ -1,30 +1,27 @@
 ## Logbook
 
-A logbook is a (digital) system to store all information relevant for the running an organizations or circle. The logbook is accessible to all members of an organization, information is hidden only when there is a good reason to do so.
+A logbook is a (digital) system to store all information relevant for the running an organization and its teams. The logbook is accessible to all members of an organization, information is hidden only when there is a good reason to do so.
 
-Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki, Content Management Systems (e.g. Wordpress), or Google Drive, Evernote or Trello.
+Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Management Systems (e.g. Wordpress), Google Drive, Evernote or Trello etc.
 
 ---
 
 ## Logbook Contents
 
 * Organization: 
-    * driver, strategy
+    * primary driver and strategy
     * organizational values
-    * organizational structure
+    * organizational structure (domains and connections)
     * agreements 
 
 * Circle: 
-    * driver, strategy
-    * agreements
-    * role definitions and role improvement plans
+    * circle description and strategy
+    * agreements (including subset circle/s descriptions and strategy, role descriptions, development plans)
 
 ---
 
 ## Logbook Contents (cont.)
 
 * Personal logbooks
-    * role descriptions
-    * tasks
-    * personal strategy and personal policy
-
+    * role description/s, strategy/s and development plants
+    * operational backlog
