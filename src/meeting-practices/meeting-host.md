@@ -1,8 +1,8 @@
 ## Meeting Host (Role)
 
-The meeting host is accountable for proper preparation and follow-up of meetings, workshops or other events. 
+The meeting host is accountable for preparation and follow-up of meetings, workshops or other events. 
 
-The role may be assigned temporarily (i.e. for one specific event) or permanently. e.g. for all events of one circle.
+The role may be assigned temporarily (i.e. for one specific event) or for a duration of time.
 
 ---
 
