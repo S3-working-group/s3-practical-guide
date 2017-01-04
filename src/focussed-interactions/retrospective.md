@@ -1,8 +1,8 @@
 ## Retrospective
 
-**Building in continuous improvement of process**
+**Building in continuous improvement of process.**
 
-* goal: reflection on the past to guide process improvement
+* goal: reflection on the past to improve work process
 * output: proposals for agreements, tensions, drivers or tasks
 * facilitated meeting (~1hr)
 * regular intervals (1-4 weeks)
@@ -11,7 +11,7 @@
 
 ---
 
-## Retrospective: A time to reflect on process improvement ##
+## Output of a Retrospective ##
 
 ![inline,fit](img/meetings/retrospective.png)
 
@@ -19,10 +19,10 @@
 
 ## Five Phases of a Retrospective Meeting ##
 
-1. Set the Stage 
-2. Gather Data
-3. Generate Insights
-4. Decide What to Do
-5. Close the Retrospective
+1. Set the stage 
+2. Gather data
+3. Generate insights
+4. Decide what to do
+5. Close the retrospective
 
 Activities for each phase can be found at [plans-for-retrospectives.com](http://www.plans-for-retrospectives.com/)

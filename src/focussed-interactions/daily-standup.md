@@ -6,6 +6,6 @@
 
 * ~15 min
 * every day at the same time
-* circle gathers around the task board
+* circle or team gathers around the task board
 * coordination of daily work
 * adaptation of existing agreements or creation of new agreements on the spot
