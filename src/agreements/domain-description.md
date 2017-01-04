@@ -1,18 +1,12 @@
-## Role Description
+## Domain Description 
 
-* manage expectations for roles
-* role descriptions can be created using proposal forming 
-* a minimal role description contains:
-    * driver
-    * term
-    * key responsibilities
-    * time requirements
-    * resources, budget, privileges
-    * preferable skills, experience and qualities
-    * cadence of effectiveness reviews
+A domain description contains:
 
----
+* driver
+* key responsibilities
+* preferred/required skills, qualities, experience
+* resources, budget, time 
+* evaluation criteria and frequency
+* previous versions
 
-## Template for Role Descriptions
-
-![inline,fit](img/people-and-roles/role-description-template.png)
+If the domain is accounted for by a role, the description would also include the **term**
