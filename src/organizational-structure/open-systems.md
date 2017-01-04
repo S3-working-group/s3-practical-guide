@@ -1,9 +1,12 @@
 ## Open Systems
 
-An organization is not a closed system, it is an open network with many connections to the "outside".
+An organization (or it's various sub-domains) can benefit from intentionally communicating with and learning from others.
 
-Keep the system open by adding connections as temporary or permanent members in decision making and experiments:
+An organization is an interdependent system that benefits from consciously inviting **information and influence** from people who can assist with making decisions and experimenting to learn.
 
-* external experts: benefit from outside perspective and knowledge
-* representatives of affected parties: integrate existing relationships ( ➤ Those Affected Decide)
+---
 
+## Open Systems (cont.)
+
+* **External experts** can offer an outside perspective and bring knowledge, understanding and skills
+* **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (➤ Those Affected Decide)
