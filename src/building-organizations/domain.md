@@ -2,12 +2,14 @@
 
 ![right,fit](img/tension-driver-domain/driver-response-full.png)
 
-_A **domain** is an area of influence, autonomy and accountability._
+_A **domain** is an area of influence, (semi-) autonomy and accountability._
 
-Building an organization from domains defined along organizational drivers facilitates effective collaboration by creating enabling constraints and clear and logical boundaries for accountablility.
+
+Building an organization from domains defined along organizational drivers facilitates effective collaboration by creating enabling constraints and clear and logical parameters for accountablility.
 
 When defining a domain in relation to an organisational driver, consider  
 responsibilities, the resources and skills required, and the constraints to the domain's autonomy necessary for collaboration and exchange with other domains. 
+
 
 ---
 

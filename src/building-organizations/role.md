@@ -4,8 +4,6 @@
 
 * roles are more flexible than positions
 * people can wear many hats
-* (s)election by consent…
+* selection by consent…
 * …and for a limited term
-* peers support development in roles
-
-
+* peers support one another to development in roles
