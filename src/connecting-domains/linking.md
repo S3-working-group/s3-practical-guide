@@ -4,6 +4,9 @@
 
 ![right,fit](img/structural-patterns/link.png)
 
-* two circles each select a delegate to the other circle
-* delegates represent their parent circles in important decisions and take part in governance meetings
+Flowing information and influence between circles
+
+A group selects one of it's members to represent their interests in governance decision making of another group.
+
+
 
