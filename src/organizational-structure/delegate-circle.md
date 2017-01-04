@@ -1,6 +1,6 @@
 ## Delegate Circle
 
-![inline,fit](img/structural-patterns/delegate-circle.png)
+![right,fit](img/structural-patterns/delegate-circle.png)
 
 ### A pattern for addressing drivers affecting multiple domains.
 

@@ -1,6 +1,6 @@
 ## Service Circle
 
-![inline,fit](img/structural-patterns/service-circle.png)
+![right,fit](img/structural-patterns/service-circle.png)
 
 ### A pattern for outsourcing services required by two or more domains 
 
