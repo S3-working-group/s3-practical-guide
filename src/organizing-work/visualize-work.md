@@ -2,8 +2,8 @@
 
 ![right,fit](img/workflow-and-value/simple-process.png)
 
-* transparency about the state of all work items currently in planning, in progress or completed.
-* essential for self-organization and pull-systems
+* transparency about the state of all work items currently pending, in progress or completed.
+* valuable for self-organization and pull-systems
 * system must be accessible to everyone affected
 * **analog**: post-its on a wall, or index cards, magnets and white board
 * **digital**: Google Sheets, Trello, Kanbanery, Leankit, Google Sheets, etc.

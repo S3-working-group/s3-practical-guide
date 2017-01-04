@@ -1,15 +1,10 @@
 ## Coordinator (Role)
 
-The coordinator is accountable for **coordinating a circle's
-collaboration**, and is **selected by the circle for a limited term.**
+A person in the role of a coordinator is accountable for **coordinating a circle's operations** and is **selected for a limited term.**
 
-Responsibilities:
+The coordinator may be selected by the circle itslef or a superset circle.
 
-- project management
-- task assignment
-- stewarding delveopment of the circle
-- supporting circle members in
-    - keeping agreements
-    - personal development
-    - developing artful participation
-    - understanding S3 principles and patterns
+The coordinator role is an optional pattern for coordination of a cicle's work.
+
+Coordinators may collaborate to syncronize work across multiple domains.
+
