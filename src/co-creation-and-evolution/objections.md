@@ -12,9 +12,9 @@ Objections:
 
 ## Objection (cont.)
 
-It's the accountability of the individual to raise objections, and the accountability of the group to address them. 
+It's the accountability of individuals to raise objections, and the accountability of the group to address them. 
 
-Withholding objections could harm the aims of a group or organization.
+Withholding objections can harm the aims of a group or organization.
 
 Being able to raise objections at any time means that proposals only need to be *good enough for now, safe enough to try*
 

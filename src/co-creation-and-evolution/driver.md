@@ -1,14 +1,14 @@
 ## Driver
 
-![right,fit](img/drivers-and-subdrivers/elements-of-a-driver-alt.png)
+_What's happening and what's needed?_
 
 * **shared understanding** of our motivation for action (the "why")
-* describes a **specific situation**: conditions and the **needs** we associate with it
+* describes a **specific situation**: conditions and the **needs** we associate with it 
 * focus on the **present**, not future or assumptions
 * precedes goals, objectives, aims, mission, vision, purpose
 * drivers can change
 
-The response to a driver is usually an experiment that evolves over time with what is learned.
+The response to a driver is usually an experiment that is evolved over time, based on learning.
 
 ---
 
@@ -25,16 +25,12 @@ The response to a driver is usually an experiment that evolves over time with wh
 
 ### Drivers: Value and Waste ###
 
-_**Value** is the importance, worth or usefulness of something in relation to responding to a driver._
+_**Value:** is the importance, worth or usefulness of something in relation to responding to a driver._
 
-**Waste** _is anything not necessary for - or standing in the way of - effective response of a driver._
+_**Waste:** is anything not necessary for - or standing in the way of - effective response of a driver._
 
-Adopting the concept of value and waste makes many tools and ideas from **lean production** and **lean software development** available to support organizations running on Sociocracy 3.0:
+By adopting the concept of value and waste, many practices and ideas from **lean production** and **lean software development** can be utilized by organizations pulling in S3 patterns:
 
 * value stream mapping
 * various strategies for eliminating waste
 * the Kanban Method
-
-
-
-

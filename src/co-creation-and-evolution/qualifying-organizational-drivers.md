@@ -1,6 +1,6 @@
 ## Qualifying Organizational Drivers
 
-Some situations might be helpful to address in the context of an organizations primary driver, others are not within an organization's domain.
+Some situations might be helpful to address in the context of an organizations primary driver. Others are not within an organization's domain.
 
 A simple way to qualifying organizational drivers is by checking:
 

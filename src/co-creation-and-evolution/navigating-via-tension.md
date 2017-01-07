@@ -6,12 +6,11 @@
 
 A **tension** is an personal experience: a symptom of dissonance between an individual's perception and their expectations (or preferences). 
 
-**Challenges and opportinities** for an organizations are revealed as people become aware of tensions they are experiencing in relation to them.
+**Challenges and opportunities** for an organizations are revealed as people become aware of tensions they experience in relation to them.
 
-Looking behind tensions by describing what's happening and what's needed, we can often **discover drivers**. Sometimes in our inquiry reveals misconceptions and the tension goes away.
+To **discover drivers**, look behind tensions and describe what's happening and what's needed. Sometimes our inquiry reveals misconceptions and the tension goes away.
 
-**Organizational drivers** can then be passed to the appropriate domain to address.
-
+Awareness of **organizational drivers** can passed to an appropriate domain to be addressed.
 
 ---
 
