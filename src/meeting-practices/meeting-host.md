@@ -19,6 +19,6 @@ The role may be assigned temporarily (i.e. for one specific event) or for a dura
     - set up the space, provide required materials and information
 * follow-up
     - clean up location, return keys etc.
-    - make sure minutes are distributed and approved
+    - ensure minutes are distributed and approved
     
 
