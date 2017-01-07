@@ -4,7 +4,7 @@
 
 # All Patterns Explained
 
-#### Bernhard Bockelbrink and James Priest
+#### James Priest and Bernhard Bockelbrink
 #### <http://sociocracy30.org>
 
 ---
@@ -13,8 +13,8 @@
 
 _A **pattern** is a template for successfully navigating a specific context._
 
-* patterns are discovered through observing many organizations as they solve problems and respond to opportunities
-* patterns can be evolved and adapted to suit differing contexts
+* S3 patterns are discovered through observing many organizations as they solve problems and respond to opportunities
+* S3 patterns can be evolved and adapted to suit differing contexts
 
 ---
 
