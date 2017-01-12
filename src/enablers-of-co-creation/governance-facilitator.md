@@ -15,7 +15,7 @@ A governance facilitator:
 ## Governance Facilitator (cont.)
 
 
-The governance facilitator familiarizes themselves with the follwing decision making formats:
+The governance facilitator familiarizes themselves with the following decision making formats:
 
 * rounds
 * proposal forming

@@ -1,8 +1,9 @@
-## Development Plan
+## Development Plan (for a Role or Circle)
 
-* an agreement for how to more effectively fulfill a role
-* contents:
-    - current role description
+An agreement supporting people to more effectively collaborate as a group or fulfill a role.
+
+* contents
+    - current domain description
     - appreciations
     - areas for improvement
     - action items to improve effectiveness

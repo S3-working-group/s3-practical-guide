@@ -8,7 +8,7 @@ The individual holding the role initiates the process and is the first to speak 
 
 Invite people with complementing perspectives to contribute to the review, and a facilitator.
 
-Improvement suggestions apply to personal development, or updates to role description or driver.
+Improvement suggestions apply to personal development, or updates to role description or driver statement.
 
 
 

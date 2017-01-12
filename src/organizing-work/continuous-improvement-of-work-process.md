@@ -19,5 +19,5 @@
 
 * waste exists in many different forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
 * establishing a process for ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness
-* adaptation to changing environment is built into the process
+* adaptation to changing context is built into the process
 

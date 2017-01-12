@@ -1,15 +1,24 @@
 ## Coordination Meeting
 
-![right,fit](img/meetings/coordination-meeting.png)
 
 Meet on a regular basis (usually weekly) for reporting on and coordinating work.
 
-* facilitate the meeting, use rounds instead of discussions
+* facilitate the meeting and use rounds instead of discussions
+* where possible, compile the agenda before the meeting
+    - include any prerequisites for attendees to prepare
+    - further items may come up during the status reports
+
+
+--- 
+
+## Coordination Meeting
+
+![right,fit](img/meetings/coordination-meeting.png)
+
 * Status Reports: 
-    * circle metrics (if any)
-    * projects and tasks
+    - circle metrics (if any)
+    - projects and tasks
 * Agenda Items: 
-    * sharing of information
-    * add or update tasks or projects
-    * propose new or updated agreements
-* if possible agenda items are compiled before the meeting (some items may come up during the status reports)
+    - sharing of information
+    - add or update tasks or projects
+    - propose new or updated agreements

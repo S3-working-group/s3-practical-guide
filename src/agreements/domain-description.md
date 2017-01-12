@@ -9,4 +9,4 @@ A domain description contains:
 * evaluation criteria and frequency
 * previous versions
 
-If the domain is accounted for by a role, the description would also include the **term**
+If the domain is accounted for by a role, the description would also include the **term** of appointment.

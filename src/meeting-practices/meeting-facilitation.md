@@ -1,9 +1,9 @@
 ## Meeting Facilitation
 
-Choose someone to facilitate a meeting. Even an inexperienced facilitator makes a difference.
+Choose someone to facilitate a meeting. Even an inexperienced facilitator can help to focus a meeting and make a positice difference.
 
 * prepare an agenda of topics
-* select a facilitator who
-    * picks an activity or format for each topic that fits the topic and the number of participants
+* select a facilitator who:
+    * facilitates a suitable activity or format for each topic
     * holds the space, keeps the time and navigates the agenda during the meeting
-    * evaluates the meeting at the end
+    * facilitates an evaluation of the meeting at the end

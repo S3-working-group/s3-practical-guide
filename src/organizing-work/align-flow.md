@@ -2,8 +2,8 @@
 
 ![right,fit](img/workflow-and-value/types-of-flow.png)
 
-* in an effective organization, **flow of information and influence supports continuous flow of value**
-* alignment is achieved and maintained through continuous improvement of agreements
+* in an effective organization, **flow of information and influence supports the continuous flow of value**
+* alignment is achieved and maintained through the continuous improvement of agreements
 
 ---
 

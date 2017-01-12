@@ -4,12 +4,10 @@
 
 _A **strategy** is a high level approach towards creating value within a domain._
 
-* an organization, circle or a person in a role can have their own strategy
-* not a detailed plan or a full product description
-* often includes a description of the intended outcome (a.k.a. "vision")
-* it's a good idea to test a strategy with the superset circle
-* strategy is regularly reviewed and updated as necessary
-* helps in the decision whether to continue or change course (*pivot or persevere*)
+* an organization, circle or a person in a role can develop their own strategy
+* a strategy often includes a description of the intended outcome (a.k.a. "vision")
+* for roles and circles it's often helpful to invite peeers, or a superset circle, to look over a strategy and offer any objections and improvement suggestions
+* strategy is regularly reviewed and updated as necessary (*pivot or persevere*)
 
 ---
 

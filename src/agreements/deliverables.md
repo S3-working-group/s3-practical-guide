@@ -1,6 +1,6 @@
 ## Describing Deliverables
 
-A **deliverable** is something which is provided as a result of an agreement, usually framed as a product, a service.
+A **deliverable** is something which is provided as a result of an agreement, usually framed as products, raw materials, services, experiences or transformation.
 
 **In the context of an agreement, clearly describing deliverables supports shared understanding**
 

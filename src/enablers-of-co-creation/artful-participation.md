@@ -8,9 +8,9 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 
 * enables **co-creation and evolution** of agreements
-* is an **individual choice**, and powerful when embraced by many
+* is an **individual choice** and powerful when embraced by many
 * building self-accountability and integrity develops **trust**
-* indivduals devloping collaboration skills makes for **stronger teams**
+* individuals developing collaboration skills makes for **stronger teams**
 * culture of mutual support and close collaboration makes for **happier people**
 
 ---
@@ -26,7 +26,7 @@ An **individual commitment** to…
 * consciously **balance personal needs with those of a team** and organization as a whole 
 * **developing the necessary skills** to do so
 * **supporting others** in doing the same 
-* bringing impediments to the attention of the circle if necessary
+* bringing impediments to the attention of others if necessary
 
 ---
 
@@ -35,9 +35,9 @@ An **individual commitment** to…
 * How will I support myself and others in participating more artfully? 
 * Where are my interactions with others unhelpful or ineffective?
 * Which agreements do I find hard to keep or contribute to? What can I do to address this?
-* What are skills that would support me to participate more artfully?
+* What skills could I develop, that would support me to participate more artfully?
 * What would artful participation mean in relation to...
-    * ... my daily activities 
+    * ... my daily activities?
     * ...collaboration and interaction with others?
     * ...the organization? ...our customers or clients?
     * ...the wider environment?

@@ -23,5 +23,5 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
 ## Logbook Contents (cont.)
 
 * Personal logbooks
-    * role description/s, strategy/s and development plants
+    * role description/s, strategy/s and development plans
     * operational backlog

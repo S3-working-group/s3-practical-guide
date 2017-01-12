@@ -1,8 +1,8 @@
 ## Support Roles
 
-### Apply roles to external contractors ###
+### Apply roles to external contractors
     
-* identify driver for the role
+* clarify and describe driver for the role
 * define the domain
 * implement a selection process
 * limit term of the contract

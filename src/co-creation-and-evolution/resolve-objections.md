@@ -4,9 +4,11 @@
 
 ---
 
-* Resolve Objections:
+## A way for resolving objections
+
+* Resolve Objections
     * Hear One Objection
     * Amend Proposal 
-    * Collect Objections to Amendment
-    * Resolve Objections to Amendment (Hear/Amend/Collect/Resolve)
-    * Process Next Objections 
+    * Ask for Any Objections to Amendment
+    * Resolve Objections to Amendment (Hear/Amend/Ask/Resolve)
+    * Process Next Objection

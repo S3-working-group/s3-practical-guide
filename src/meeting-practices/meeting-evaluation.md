@@ -3,7 +3,8 @@
 
 ![right,fit](img/meetings/evaluate-interactions.png)
 
-Take time at the end of each meeting or workshop to reflect on your interactions, celebrate successes and learn how to improved.
+Take time for learning at the end of each meeting or workshop.
+ Reflect on your interactions, celebrate successes and share suggestions for improvement.
 
 * before the closing round
 * reserve 5 minutes for 1 hour, and 15 minutes for a full-day workshop
@@ -16,10 +17,10 @@ Take time at the end of each meeting or workshop to reflect on your interactions
 
 ## Meeting Evaluation: Long Format
 
-Ask everyone in a round to briefly contribute to any or all of the following topics: 
+Ask everyone in a round to contribute to any or all of the following topics in a brief sharing: 
 
-* effectiveness
-* facilitation and format
+* effectiveness and format
+* facilitation and participation
 * emotional tone
 * I liked... (appreciations and achievements)
 * I wish... (growing edges and improvement suggestions)
