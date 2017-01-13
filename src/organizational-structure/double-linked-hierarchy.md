@@ -4,6 +4,6 @@
 
 ### A pattern for bringing equivalence to governance in a typical organizational hierarchy.
 
-* power in governance decision making moves from individuals to self-governing circles 
-* circles select a member to represent their interests in governance decision making in the next higher circle
+* power in governance decision making rests with self-governing circles (not individuals)
+* circles select a member to represent their interests in governance decision making in the next higher (superset) circle
 * functional hierarchy is still possible if valuable
