@@ -2,6 +2,8 @@
 
 ![right,fit](img/tension-driver-domain/driver-response-full.png)
 
+_A domain is the set of subdrivers an organization may benefit from addressing when  responding to a driver._
+
 _A **domain** is an area of influence, (semi-) autonomy and accountability._
 
 Building an organization from domains defined along organizational drivers facilitates effective collaboration by creating enabling constraints and clear and logical parameters for accountablility.
