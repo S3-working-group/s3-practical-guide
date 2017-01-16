@@ -16,12 +16,12 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
 
 * Circle: 
     * circle description and strategy
-    * agreements (including subset circle/s descriptions and strategy, role descriptions, development plans)
+    * agreements (including subset circles' descriptions and strategies, role descriptions, development plans)
 
 ---
 
 ## Logbook Contents (cont.)
 
 * Personal logbooks
-    * role description/s, strategy/s and development plans
+    * role descriptions, strategies and development plans
     * operational backlog
