@@ -1,10 +1,10 @@
 ## Adopt The Seven Principles
 
-![inline,fit](img/general/s3-principles.png)
+![inline,fit](img/general/s3-principles-plain.png)
 
 ---
 
-![right,fit](img/collaboration-values/values-step3.png)
+![right,fit](img/collaboration-values/values-7principles.png)
 
 ## Adopt The Seven Principles (cont.)
 

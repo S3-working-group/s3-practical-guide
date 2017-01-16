@@ -1,6 +1,6 @@
 ## Agree On Values
 
-![right,fit](img/collaboration-values/values-step2.png)
+![right,fit](img/collaboration-values/chosen-values.png)
 
 A pattern for intentionally shaping culture in an organization
 

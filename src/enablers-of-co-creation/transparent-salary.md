@@ -10,3 +10,8 @@
 * consider remuneration for changing roles
 * create strategy for transitioning towards new contracts and compensation agreements
 
+---
+
+## Opening Salaries
+
+![inline,fill](img/people-and-roles/opening-salaries.png)

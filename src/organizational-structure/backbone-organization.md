@@ -1,7 +1,7 @@
 ## Backbone Organization
 
 
-![right,fit](img/structural-patterns/backbone-organization.png)
+![right,fit](img/structural-patterns/backbone-organization-text.png)
 
 
 ### A pattern for multi-stakeholder collaboration and alignment towards a shared driver.

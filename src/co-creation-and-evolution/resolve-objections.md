@@ -6,6 +6,8 @@
 
 ## A way for resolving objections
 
+![right,fit](img/agreements/resolve-objections-process.png)
+
 * Resolve Objections
     * Hear One Objection
     * Amend Proposal 
