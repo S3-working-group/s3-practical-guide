@@ -24,4 +24,4 @@ Building in continuous improvement of process.
 4. Decide what to do
 5. Close the retrospective
 
-Many differenct activities for each phase can be found at [plans-for-retrospectives.com](http://www.plans-for-retrospectives.com/)
+Many different activities for each phase can be found at [plans-for-retrospectives.com](http://www.plans-for-retrospectives.com/)

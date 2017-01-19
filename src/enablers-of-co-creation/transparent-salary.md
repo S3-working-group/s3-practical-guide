@@ -14,4 +14,4 @@
 
 ## Opening Salaries
 
-![inline,fill](img/people-and-roles/opening-salaries.png)
+![inline,fit](img/people-and-roles/opening-salaries.png)

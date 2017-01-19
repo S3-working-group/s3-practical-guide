@@ -46,7 +46,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 **Equivalence:** *People affected by decisions can influence and change them on the basis of reasons to do so.*
 
-**Transparency:** *All information is availble to everyone in an organization, unless there's a reason for confidentiality.*
+**Transparency:** *All information is available to everyone in an organization, unless there's a reason for confidentiality.*
 
 **Accountability:** *Respond when something is needed and be accountable for doing what you agreed to.*
 

@@ -6,7 +6,7 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 
 * agreements are created in response to drivers 
 * agreements are the **accountability of the people** that make them
-* agreements are **regularily reviewed**
+* agreements are **regularly reviewed**
 
 ---
 

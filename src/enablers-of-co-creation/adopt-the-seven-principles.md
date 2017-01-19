@@ -9,5 +9,5 @@
 ## Adopt The Seven Principles (cont.)
 
 * align collaboration with the Seven Principles
-* adopting the Seven Principles reduces the number of explicit agreements requied, and guides adaptation of S3 patterns to suit the organization's context
+* adopting the Seven Principles reduces the number of explicit agreements required, and guides adaptation of S3 patterns to suit the organization's context
 * an organization's actual values need to embrace Sociocracy 3.0 principles

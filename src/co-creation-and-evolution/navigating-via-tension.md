@@ -17,5 +17,5 @@ Awareness of **organizational drivers** can passed to an appropriate domain to b
 ## Navigating Via Tension (cont.)
 
 
-![inline,fit](img/tension-driver-domain/navigate-via-tension-slides)
+![inline,fit](img/tension-driver-domain/navigate-via-tension-slides.png)
 
