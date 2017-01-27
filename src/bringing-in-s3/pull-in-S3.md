@@ -1,4 +1,6 @@
-## Pull in S3
+## Invite Change
+
+A way for indivduals to initiate and facilitate change.
 
 * be the change you want to see
 * use and adapt S3 patterns to address drivers when it's helpful to do so
