@@ -3,8 +3,7 @@
 A workshop format to identify an effective response to a complex situation: organize start-ups, kick-off projects, tackle major impediments or opportunities, align organizational structure to the flow of value.
 
 * inspired by Gojko Adzic’s Impact Mapping
-* in the workshop small or large teams self-organize, innovate, and take full ownership from start to finish and progress quickly from concept to fully functioning collaboration
-
+* small or large groups identify and prioritize drivers, progressing quickly from concept to action in self-organizing teams.
 
 ---
 

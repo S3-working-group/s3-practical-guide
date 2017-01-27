@@ -12,12 +12,12 @@ handbook_group_order:
 
 s3_patterns:
   co-creation and evolution:
-    - driver
-    - qualifying organizational drivers
+    - respond to organizational drivers
+    - qualify organizational drivers
     - objection
     - resolve objections
     - consent decision making
-    - navigating via tension
+    - navigate via tension
     - proposal forming
     - those affected decide
     - role selection
@@ -36,17 +36,17 @@ s3_patterns:
     - breaking agreements
     - contracting and accountability
     - transparent salary
-    - support roles
+    - support role
     - bylaws
   bringing in s3:
     - adapt patterns to context
-    - pull-system for organizational change
+    - create a pull-system for organizational change
     - be the change
-    - pull in S3
+    - invite change
     - open S3 adoption
     - continuous improvement of work process
   defining agreements:
-    - agreements
+    - agreement
     - strategy
     - domain description
     - intended outcome
@@ -62,18 +62,18 @@ s3_patterns:
     - coordination meeting
   meeting practices:
     - rounds
-    - meeting facilitation
-    - meeting evaluation
+    - facilitate meetings
+    - evaluate meetings
     - meeting host
     - governance backlog
   organizing work:
-    - operations backlog
-    - prioritized backlog
+    - backlog
+    - prioritize backlogs
     - visualize work
     - pull-system for work
     - limit work in progress
     - align flow
-    - coordinator role
+    - coordinator
   building organizations:
     - nested domains
     - circle

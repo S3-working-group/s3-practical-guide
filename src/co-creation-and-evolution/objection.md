@@ -2,15 +2,17 @@
 
 _An **objection** is a reason why doing something stands in the way of (more) effective response to a driver._
 
-Objections:
 
-* reveal information that can be used to improve proposals and existing agreements
-* stop (TODO: make more concise)
-    * proposals from becoming agreements
-    * people acting on decisions
-    * action (continuing to act)
-    * existing agreements 
-* reveal both opportunities or impediments
+Objections contain informations that reveals:
+- certain or likely consequence of harm (not considered safe enough to try)
+- ways to improve proposals, decisions, existing agreements or actions
+
+Objections stop: 
+
+* actions
+* people from executing on decisions
+* existing agreements 
+* proposals from becoming agreements
 
 ---
 
@@ -35,17 +37,26 @@ Being able to raise objections at any time means that decisions only need to be 
 ## Some Helpful Questions
 
 * Does the objection relate to this specific proposal or agreement?
-* Does this objection reveal how a (proposed or current) **action or agreement**...
-    * ...harm the response to a driver?
-    * ...is in conflict with the organization's values?
-    * ...prevents or diminishes someone's contribution to responding to a driver?
-    * ...can be improved right now?
+* Does this objection reveal how a (proposed or current) **action or agreement**:
+    * harms response to any organizational driver?
+    * can be improved right now?
+    * prevents or diminishes someone's contribution to responding to a driver?
+    * is in conflict with the organization's values?
+    * is considered not ‘safe enough’ to try?
 
 ---
 
-# Concerns #
+# Concerns
 
-* can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation) even if they are already considered *good enough for now, safe enough to try*
-* are heard if there's time or they're considered important
-* are often argued as a chance or possibility
+A **concern** is an _opinion_ that doing something (even if already considered _good enough for now, safe enough to try_) **might** impede – or miss an opportunity to improve – flow of value to an organizational driver.
+
+
+In consent decision making, concerns:
+
+* can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation) 
+* are heard if there's time or they are considered important
 * are recorded in the logbook
+
+People can raise concerns as objections to seek others opinion of likely risk, if they believe a proposal may not be ‘safe enough to try’.
+
+

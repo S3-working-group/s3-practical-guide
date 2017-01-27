@@ -1,4 +1,4 @@
-## Meeting Evaluation
+## Evaluate Meetings
 
 
 ![right,fit](img/meetings/evaluate-interactions.png)
@@ -15,7 +15,7 @@ Take time for learning at the end of each meeting or workshop.
 
 ---
 
-## Meeting Evaluation: Long Format
+## Evaluate Meetings: Long Format
 
 Ask everyone in a round to reflect on any or all of the following topics in a brief sharing: 
 

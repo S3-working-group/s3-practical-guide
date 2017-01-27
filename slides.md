@@ -75,6 +75,24 @@ A **driver** is the source of motivation for action in a specific situation (the
 * precedes goals, objectives, aims, mission, vision, purpose
 * drivers can change
 
+---
+
+##  Primary Driver, Subdriver and Superdriver
+
+A **driver** can be understood in relation to the **domain** it defines and its relationship to other **drivers**.
+
+
+The driver that defines a domain is called the **primary driver** of that domain.
+
+The **primary priver** is the **superdriver** of all other **drivers** that arise as a consequence of people responding to it. 
+
+
+A **primary driver** is itself a **subdriver** of its **superdriver**, except in the case of the organization itself, in which case it is referred to as the **organizations primary driver**.
+
+Two **drivers** existing as a direct consequence of a response to the same **superdriver**, are described as **peer drivers**.
+
+The prefixes **primary**, **peer**, **sub-** and **super-**, can refer to both **drivers** and **domains**.
+
 
 ---
 
@@ -128,7 +146,7 @@ Building an organization from domains defined along organizational drivers facil
 
 ---
 
-## P1.1: Respond to Organizational Drivers
+## # Respond to Organizational Drivers
 
 ![right,fit](img/experiments/kaizen.png)
 
@@ -154,11 +172,11 @@ based on learning.
 
 ---
 
-## P1.2: Qualifying Organizational Drivers
+## # Qualify Organizational Drivers
 
 Some situations might be helpful to address in the context of an organization's primary driver. Others are not within an organization's domain.
 
-A simple way to qualifying organizational drivers is by checking:
+A simple way to qualify organizational drivers is by checking:
 
 _Would responding to this driver improve - or avoid impeding - flow of value to an existing Organizational Driver? a.k.a. can it help or harm us?_
 
@@ -166,19 +184,21 @@ _Would responding to this driver improve - or avoid impeding - flow of value to 
 
 ---
 
-## P1.3: Objection
+## # Objection
 
 _An **objection** is a reason why doing something stands in the way of (more) effective response to a driver._
 
-Objections:
 
-* reveal information that can be used to improve proposals and existing agreements
-* stop (TODO: make more concise)
-    * proposals from becoming agreements
-    * people acting on decisions
-    * action (continuing to act)
-    * existing agreements 
-* reveal both opportunities or impediments
+Objections contain informations that reveals:
+- certain or likely consequence of harm (not considered safe enough to try)
+- ways to improve proposals, decisions, existing agreements or actions
+
+Objections stop: 
+
+* actions
+* people from executing on decisions
+* existing agreements 
+* proposals from becoming agreements
 
 ---
 
@@ -203,25 +223,34 @@ Being able to raise objections at any time means that decisions only need to be 
 ## Some Helpful Questions
 
 * Does the objection relate to this specific proposal or agreement?
-* Does this objection reveal how a (proposed or current) **action or agreement**...
-    * ...harm the response to a driver?
-    * ...is in conflict with the organization's values?
-    * ...prevents or diminishes someone's contribution to responding to a driver?
-    * ...can be improved right now?
+* Does this objection reveal how a (proposed or current) **action or agreement**:
+    * harms response to any organizational driver?
+    * can be improved right now?
+    * prevents or diminishes someone's contribution to responding to a driver?
+    * is in conflict with the organization's values?
+    * is considered not ‘safe enough’ to try?
 
 ---
 
-# Concerns #
+# Concerns
 
-* can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation) even if they are already considered *good enough for now, safe enough to try*
-* are heard if there's time or they're considered important
-* are often argued as a chance or possibility
+A **concern** is an _opinion_ that doing something (even if already considered _good enough for now, safe enough to try_) **might** impede – or miss an opportunity to improve – flow of value to an organizational driver.
+
+
+In consent decision making, concerns:
+
+* can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation) 
+* are heard if there's time or they are considered important
 * are recorded in the logbook
 
+People can raise concerns as objections to seek others opinion of likely risk, if they believe a proposal may not be ‘safe enough to try’.
+
+
+
 
 ---
 
-## P1.4: Resolve Objections
+## # Resolve Objections
 
 ![inline,fit](img/agreements/resolve-objections.png)
 
@@ -241,7 +270,7 @@ Being able to raise objections at any time means that decisions only need to be 
 
 ---
 
-## P1.5: Consent Decision Making
+## # Consent Decision Making
 
 ![right,fit](img/agreements/cdm-condensed.png)
 
@@ -261,7 +290,7 @@ Being able to raise objections at any time means that decisions only need to be 
 
 ---
 
-## P1.6: Navigating Via Tension
+## # Navigate Via Tension
 
 ### ...for identifying and accounting for organizational drivers.
 
@@ -277,7 +306,7 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ---
 
-## Navigating Via Tension (cont.)
+## Navigate Via Tension (cont.)
 
 
 ![inline,fit](img/tension-driver-domain/navigate-via-tension-slides.png)
@@ -286,7 +315,7 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ---
 
-## P1.7: Proposal Forming
+## # Proposal Forming
 
 ![right,fit](img/agreements/proposal-forming-medium.png)
 
@@ -318,7 +347,7 @@ Proposal Forming:
 
 ---
 
-## P1.8: Those Affected Decide
+## # Those Affected Decide
 
 To make decisions with the maximum amount of information on the subject, involve everyone who is affected by the decision.
 
@@ -332,7 +361,7 @@ Treat review and evolution of decisions accordingly.
 
 ---
 
-## P1.9: Role Selection
+## # Role Selection
 
 ![right,fit](img/people-and-roles/selection.png)
 
@@ -346,13 +375,12 @@ Objections to a nominee taking on the role may be resolved in many ways includin
 
 ---
 
-## P1.10: Driver Mapping
+## # Driver Mapping
 
 A workshop format to identify an effective response to a complex situation: organize start-ups, kick-off projects, tackle major impediments or opportunities, align organizational structure to the flow of value.
 
 * inspired by Gojko Adzic’s Impact Mapping
-* in the workshop small or large teams self-organize, innovate, and take full ownership from start to finish and progress quickly from concept to fully functioning collaboration
-
+* small or large groups identify and prioritize drivers, progressing quickly from concept to action in self-organizing teams.
 
 ---
 
@@ -374,7 +402,7 @@ A workshop format to identify an effective response to a complex situation: orga
 
 ---
 
-## P2.1: Ask For Help
+## # Ask For Help
 
 A simple protocol for learning, skill sharing, and building connections, while respecting people's autonomy.
 
@@ -389,7 +417,7 @@ Ask someone, "would you be willing to help me with ...?" the person asked answer
 
 ---
 
-## P2.2: Peer Feedback
+## # Peer Feedback
 
 Invite a peer to give you feedback on: 
 
@@ -407,7 +435,7 @@ Considerations:
 
 ---
 
-## P2.3: Effectiveness Review
+## # Effectiveness Review
 
 ![right,fit](img/people-and-roles/effectiveness-review.png)
 
@@ -437,7 +465,7 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 ---
 
-## P2.4: Development Plan (for an Individual or Group)
+## # Development Plan (for an Individual or Group)
 
 An agreement supporting people to more effectively collaborate as a group or fulfill a role.
 
@@ -466,7 +494,7 @@ Following the development plan is part of the strategy of people in roles, or gr
 
 ---
 
-## P3.1: Artful Participation
+## # Artful Participation
 
 ![right,fit](img/agreements/artful-participation.png)
 
@@ -513,7 +541,7 @@ An **individual commitment** to…
 
 ---
 
-## P3.2: Adopt The Seven Principles
+## # Adopt The Seven Principles
 
 ![inline,fit](img/general/s3-principles-plain.png)
 
@@ -530,7 +558,7 @@ An **individual commitment** to…
 
 ---
 
-## P3.3: Agree On Values
+## # Agree On Values
 
 ![right,fit](img/collaboration-values/chosen-values.png)
 
@@ -558,7 +586,7 @@ _A **value** is a principle that guides behavior. Values define scope for action
 
 ---
 
-## P3.4: Governance Facilitator (Role)
+## # Governance Facilitator (Role)
 
 ![right,fit](img/circle/facilitator.png)
 
@@ -588,7 +616,7 @@ When using S3 for governance, the facilitator familiarizes themselves with the f
 
 ---
 
-## P3.5: Evaluate Agreements
+## # Evaluate Agreements
 
 
 Regular review of agreements is an essential practice for a learning organization; continuously evolving the body of agreements, and eliminating waste:
@@ -634,7 +662,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 ---
 
-## P3.6: Breaking Agreements
+## # Breaking Agreements
 
 * is sometimes **necessary**...
 * ...but may come at a **cost** to the community
@@ -646,7 +674,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 ---
 
-## P3.7: Contracting And Accountability
+## # Contracting And Accountability
 
 When entering into formal or informal agreements with others:
 
@@ -676,7 +704,7 @@ To preserve organizational culture, maintain self-accountability and help new me
 
 ---
 
-## P3.8: Transparent Salary
+## # Transparent Salary
 
 * transparent salaries need to be fair
 * fairness has several orthogonal dimensions    
@@ -697,7 +725,7 @@ To preserve organizational culture, maintain self-accountability and help new me
 
 ---
 
-## P3.9: Support Role
+## # Support Role
 
 ### Apply roles to external contractors
     
@@ -712,7 +740,7 @@ Support roles may be operational only, and external contractors consent to accou
 
 ---
 
-## P3.10: Bylaws
+## # Bylaws
 
 To secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture**, consider:
     
@@ -739,7 +767,7 @@ A body of patterns for understanding and evolving an organization aligned with t
 
 ---
 
-## P4.1: Organize in Nested Domains
+## # Organize in Nested Domains
 
 ## Organize in (semi-)autonomous Units
 
@@ -752,7 +780,7 @@ When defining a domain in relation to an organizational driver, consider respons
 
 ---
 
-## P4.2: Circle
+## # Circle
 
 ![right,fit](img/circle/circle-driver.png)  
 
@@ -778,7 +806,7 @@ A circle:
 
 ---
 
-## P4.3: Role
+## # Role
 
 ![right,fit](img/people-and-roles/roles.png)
 
@@ -800,7 +828,7 @@ People selected into roles are autonomous to decide and act within these constra
 
 ---
 
-## P4.4: Linking
+## # Linking
 
 **Connecting two circles**
 
@@ -816,7 +844,7 @@ A group selects one of it's members to represent their interests in governance d
 
 ---
 
-## P4.5: Double Linking
+## # Double Linking
 
 ![right,fit](img/structural-patterns/double-link.png)
 
@@ -829,7 +857,7 @@ A group selects one of it's members to represent their interests in governance d
 
 ---
 
-## P4.6: Representative
+## # Representative
 
 Representatives (a.k.a links):
 
@@ -851,7 +879,7 @@ Representatives (a.k.a links):
 
 ---
 
-## P5.1: Adapt Patterns To Context
+## # Adapt Patterns To Context
 
 ![right,fit](img/agreements/adapt-pattern-to-context.png)
 
@@ -866,7 +894,7 @@ Representatives (a.k.a links):
 
 ---
 
-## P5.2: Pull-System For Organizational Change
+## # Create a Pull-System For Organizational Change
 
 Change things when there is value in doing so.
 
@@ -880,14 +908,14 @@ Create an environment that invites and enables members of the organization to dr
 
 ---
 
-## P5.3: Be The Change
+## # Be The Change
 
 Lead by example, behave and act in the ways you would like others to behave and act.
 
 
 ---
 
-## P5.4: Invite Change
+## # Invite Change
 
 A way for indivduals to initiate and facilitate change.
 
@@ -899,7 +927,7 @@ A way for indivduals to initiate and facilitate change.
 
 ---
 
-## P5.5: Open S3 Adoption
+## # Open S3 Adoption
 
 * indentify the driver for pulling in S3 patterns
 * schedule regular of open space events:
@@ -911,7 +939,7 @@ A way for indivduals to initiate and facilitate change.
 
 ---
 
-## P5.6: Continuous Improvement Of Work Process
+## # Continuous Improvement Of Work Process
 
 ### To reveal drivers and establish a metrics-based pull-system for organizational change.
 
@@ -958,7 +986,7 @@ A way for indivduals to initiate and facilitate change.
 
 ---
 
-## P6.1: Agreement
+## # Agreement
 
 ![right,fit](img/tension-driver-domain/driver-agreement-improvement.png)
 
@@ -978,7 +1006,7 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 
 ---
 
-## P6.2: Strategy
+## # Strategy
 
 ![right,fit](img/tension-driver-domain/driver-strategy-agreements-domain.png)
 
@@ -1000,24 +1028,24 @@ _A **strategy** is a high level approach towards creating value within a domain.
 
 ---
 
-## P6.3: Domain Description 
+## # Domain Description 
 
-A domain description contains:
+![right,fit](img/people-and-roles/domain-description-template.png)
 
-* domain:
-    * driver
-    * key subdrivers (key responsibilities)
-* constraints:
+A domain description is used as a circle, open location and role description too. It contains:
+
+* a description of the domain: primary driver and key subdrivers (key responsibilities)
+* details of any constraints in relation to people accounting for the domain:
     - preferred/required skills, qualities, experience
     - resources, budget, time, privileges
     - evaluation criteria and frequency
     - term (for a role)
-* previous versions
+* (previous versions)
 
 
 ---
 
-## P6.4: Intended Outcome
+## # Intended Outcome
 
 ![right,fit](img/agreements/outcome-and-criteria.png)
 
@@ -1027,7 +1055,7 @@ A domain description contains:
 
 ---
 
-## P6.5: Describing Deliverables
+## # Describing Deliverables
 
 A **deliverable** is something which is provided as a result of an agreement, usually framed as products, raw materials, services, experiences or transformation.
 
@@ -1051,7 +1079,7 @@ Explicitly defining deliverables can be useful for improving:
 
 ---
 
-## P6.6: Evaluation Criteria
+## # Evaluation Criteria
 
 ![right,fit](img/agreements/outcome-and-criteria.png)
 
@@ -1063,7 +1091,7 @@ Defining evaluation criteria can help to understand whether or not an agreement 
 
 ---
 
-## P6.7: Logbook
+## # Logbook
 
 A logbook is a (digital) system to store all information relevant for the running an organization and its teams. The logbook is accessible to all members of an organization, information is hidden only when there is a good reason to do so.
 
@@ -1094,7 +1122,7 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
 
 ---
 
-## P6.8: Logbook Keeper (Role)
+## # Logbook Keeper (Role)
 
 The logbook keeper is accountable for maintaining a circle's logbook by: 
 
@@ -1114,7 +1142,7 @@ The logbook keeper is accountable for maintaining a circle's logbook by:
 
 ---
 
-## P7.1: Governance Meeting
+## # Governance Meeting
 
 ![right,fit](img/meetings/governance-meeting.png)
 
@@ -1159,7 +1187,7 @@ A governance meeting is usually:
 
 ---
 
-## P7.2: Retrospective
+## # Retrospective
 
 Building in continuous improvement of process.
 
@@ -1190,7 +1218,7 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 ---
 
-## P7.3: Daily Standup
+## # Daily Standup
 
 ![right,fit](img/meetings/planning-review-standup.png)
 
@@ -1206,7 +1234,7 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 ---
 
-## P7.4: Planning And Review Meetings
+## # Planning And Review Meetings
 
 ![right,fit](img/meetings/planning-review.png)
 
@@ -1220,7 +1248,7 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 ---
 
-## P7.5: Coordination Meeting
+## # Coordination Meeting
 
 
 Meet on a regular basis (usually weekly) for reporting on and coordinating work.
@@ -1254,7 +1282,7 @@ Meet on a regular basis (usually weekly) for reporting on and coordinating work.
 
 ---
 
-## P8.1: Rounds
+## # Rounds
 
 ![right,fit](img/circle/rounds.png) 
 
@@ -1269,7 +1297,7 @@ There are a number of ways that experienced groups can fast track certain rounds
 
 ---
 
-## P8.2: Meeting Facilitation
+## # Facilitate Meetings
 
 Choose someone to facilitate a meeting. Even an inexperienced facilitator can help to focus a meeting and make a positive difference.
 
@@ -1282,7 +1310,7 @@ Choose someone to facilitate a meeting. Even an inexperienced facilitator can he
 
 ---
 
-## P8.3: Meeting Evaluation
+## # Evaluate Meetings
 
 
 ![right,fit](img/meetings/evaluate-interactions.png)
@@ -1299,7 +1327,7 @@ Take time for learning at the end of each meeting or workshop.
 
 ---
 
-## Meeting Evaluation: Long Format
+## Evaluate Meetings: Long Format
 
 Ask everyone in a round to reflect on any or all of the following topics in a brief sharing: 
 
@@ -1313,7 +1341,7 @@ Ask everyone in a round to reflect on any or all of the following topics in a br
 
 ---
 
-## P8.4: Meeting Host (Role)
+## # Meeting Host (Role)
 
 The meeting host is accountable for preparation and follow-up of meetings, workshops or other events. 
 
@@ -1341,7 +1369,7 @@ The role may be assigned temporarily (i.e. for one specific event) or for a dura
 
 ---
 
-## P8.5: Governance Backlog
+## # Governance Backlog
 
 A governance backlog is a visible, prioritized list of items (drivers) that require (or may benefit from) a group decision.
 
@@ -1362,41 +1390,32 @@ A governance backlog is a visible, prioritized list of items (drivers) that requ
 
 ---
 
-## P9.1: Operations Backlog
+## # Backlog
 
-An operations backlog (to-do-list) is a visible, prioritized list of work items (drivers) that need to be addressed.
+A backlog (to-do-list) is a visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
 
+Types of backlog include:
 
-
----
-
-## P9.2: Prioritized Backlog
-
-A prioritized backlog is a **list of all uncompleted work items** with the **most important items on top**:
-
-* work items are pulled from the top whenever there is new capacity
-* no two items can be of equal importance, meaning it is 
-necessary to agree on priorities and make tough choices
+* operations backlog
+* sprint backlog
+* product backlog
+* impediments backlog
 
 ---
 
-## Prioritized Backlog (cont.)
+##  Backlog (cont.)
 
-* **Benefits**
-    - focus on most important items
-    - keep track of everything
-    - shared understanding of priorities enables more effective collaboration
 * **Implementation**
     - **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
     - **digital backlog**: e.g. Google Sheets, Trello
 
 ---
 
-## Elements of a prioritized backlog 
+## Elements of a (prioritized) backlog 
 
 * a **short description** or a driver statement
 * a **unique reference number** (or link) for each work item
-* the **order of work items**
+* (the **order of work items**)
 * **dependencies** to other work items or projects
 * **due date** (if necessary)
 * (optional) a measure for **value** 
@@ -1404,10 +1423,24 @@ necessary to agree on priorities and make tough choices
 
 
 
+---
+
+## # Prioritize Backlogs
+
+Order **all uncompleted work items** with the most important items first:
+
+* work items are pulled from the top whenever there is new capacity
+* no two items can be of equal importance, meaning it is necessary to agree on priorities and make tough choices
+* **Benefits**
+    - focus on most important items
+    - shared understanding of priorities enables more effective collaboration
+
+
+
 
 ---
 
-## P9.3: Visualize Work
+## # Visualize Work
 
 ![right,fit](img/workflow-and-value/simple-process.png)
 
@@ -1441,7 +1474,7 @@ Transparency about the state of all work items currently pending, in progress or
 
 ---
 
-## P9.4: Pull-System For Work
+## # Pull-System For Work
 
 * people pull in new items when they have capacity (instead of work being pushed at them)
 * prioritize available work items to ensure that important items are worked on first
@@ -1450,7 +1483,7 @@ Transparency about the state of all work items currently pending, in progress or
 
 ---
 
-## P9.5: Limit Work in Progress
+## # Limit Work in Progress
 
 Limit the number of work item in any stage of your work process. 
 
@@ -1466,7 +1499,7 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 ---
 
-## P9.6: Align Flow
+## # Align Flow
 
 ![right,fit](img/workflow-and-value/types-of-flow.png)
 
@@ -1485,7 +1518,7 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 ---
 
-## P9.7: Coordinator (Role)
+## # Coordinator (Role)
 
 A person in the role of a coordinator is accountable for **coordinating a group's operations** and is **selected for a limited term.**
 
@@ -1540,7 +1573,7 @@ Domains can be linked in a hierarchy or a **heterarchy** (a.k.a. complex adaptiv
 
 ---
 
-## P10.1: Helping Team
+## # Helping Team
 
 ![right,fit](img/structural-patterns/helping-circle.png)
 
@@ -1558,7 +1591,7 @@ members of the helping circle:
 
 ---
 
-## P10.2: Service Circle
+## # Service Circle
 
 ![right,fit](img/structural-patterns/service-circle.png)
 
@@ -1574,7 +1607,7 @@ A service circle can be populated by members of the domains it serves, and/or by
 
 ---
 
-## P10.3: Delegate Circle
+## # Delegate Circle
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
@@ -1589,7 +1622,7 @@ Delegate circles provide a way of steering organizations from the ground up, and
 
 ---
 
-## P10.4: Coordination Circle
+## # Coordination Circle
 
 ![right,fit](img/structural-patterns/coordination-circle.png)
 
@@ -1602,7 +1635,7 @@ A coordination circle is populated by coordinators of the various circles, along
 
 ---
 
-## P10.5: Peach Organization
+## # Peach Organization
 
 ### 
 
@@ -1617,7 +1650,7 @@ A pattern for decentralized organizations to deliver value in complex and compet
 
 ---
 
-## P10.6: Double-Linked Hierarchy
+## # Double-Linked Hierarchy
 
 ![right,fit](img/structural-patterns/double-linked-hierarchy.png)
 
@@ -1630,7 +1663,7 @@ A pattern for decentralized organizations to deliver value in complex and compet
 
 ---
 
-## P10.7: Open Systems
+## # Open Systems
 
 An organization (or it's various sub-domains) can benefit from intentionally communicating with and learning from others.
 
@@ -1646,7 +1679,7 @@ An organization is an interdependent system that benefits from consciously invit
 
 ---
 
-## P10.8: Backbone Organization
+## # Backbone Organization
 
 
 ![right,fit](img/structural-patterns/backbone-organization-text.png)
@@ -1663,7 +1696,7 @@ An organization is an interdependent system that benefits from consciously invit
 
 ---
 
-## P10.9: Fractal Organization
+## # Fractal Organization
 
 ![right,fit](img/structural-patterns/fractal-organization.png)
 

@@ -1,4 +1,4 @@
-## Meeting Facilitation
+## Facilitate Meetings
 
 Choose someone to facilitate a meeting. Even an inexperienced facilitator can help to focus a meeting and make a positive difference.
 

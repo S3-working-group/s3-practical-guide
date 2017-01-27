@@ -1,4 +1,4 @@
-## Pull-System For Organizational Change
+## Create a Pull-System For Organizational Change
 
 Change things when there is value in doing so.
 

@@ -1,4 +1,4 @@
-## Navigating Via Tension
+## Navigate Via Tension
 
 ### ...for identifying and accounting for organizational drivers.
 
@@ -14,7 +14,7 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ---
 
-## Navigating Via Tension (cont.)
+## Navigate Via Tension (cont.)
 
 
 ![inline,fit](img/tension-driver-domain/navigate-via-tension-slides.png)
