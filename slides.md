@@ -773,6 +773,9 @@ A circle:
 * **self-governing**:
     * leads in creating its strategy and agreements
 
+![inline,fit](img/tension-driver-domain/driver-domain-selection-development.png)
+
+
 ---
 
 ## P4.3: Role
@@ -1205,7 +1208,7 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 ## P7.4: Planning And Review Meetings
 
-![right,fit](img/meetings/planning-review-standup.png)
+![right,fit](img/meetings/planning-review.png)
 
 * planning and review meetings happen at regular intervals (1-4 weeks)
 * planning meeting: 

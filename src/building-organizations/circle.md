@@ -18,3 +18,5 @@ A circle:
     * each circle responds to a primary driver, can create value independently, and organizes day-to-day-work
 * **self-governing**:
     * leads in creating its strategy and agreements
+
+![inline,fit](img/tension-driver-domain/driver-domain-selection-development.png)
