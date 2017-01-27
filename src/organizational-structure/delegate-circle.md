@@ -2,7 +2,7 @@
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
-### A pattern for addressing drivers affecting multiple domains.
+### A pattern for deciding how to address drivers affecting multiple domains.
 
 Decisions of a delegate circle are acted upon in the various domains.
 

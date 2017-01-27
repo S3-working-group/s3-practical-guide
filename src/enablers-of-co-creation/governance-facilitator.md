@@ -8,14 +8,13 @@ A governance facilitator:
 * is (usually) selected by a group from among it members
 * familiarizes themselves with the governance backlog
 * often invites others to facilitate some agenda items
-* is familiar with the governance backlog
 
 ---
 
 ## Governance Facilitator (cont.)
 
 
-The governance facilitator familiarizes themselves with the following decision making formats:
+When using S3 for governance, the facilitator familiarizes themselves with the following patterns:
 
 * rounds
 * proposal forming

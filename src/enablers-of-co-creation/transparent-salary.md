@@ -12,6 +12,6 @@
 
 ---
 
-## Opening Salaries
+## Two Ways of Opening Salaries
 
 ![inline,fit](img/people-and-roles/opening-salaries.png)

@@ -2,11 +2,12 @@
 
 A domain description contains:
 
-* driver
-* key responsibilities
-* preferred/required skills, qualities, experience
-* resources, budget, time 
-* evaluation criteria and frequency
+* domain:
+    * driver
+    * key subdrivers (key responsibilities)
+* constraints:
+    - preferred/required skills, qualities, experience
+    - resources, budget, time, privileges
+    - evaluation criteria and frequency
+    - term (for a role)
 * previous versions
-
-If the domain is accounted for by a role, the description would also include the **term** of appointment.

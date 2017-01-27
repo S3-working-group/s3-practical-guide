@@ -2,9 +2,9 @@
 
 A prioritized backlog is a **list of all uncompleted work items** with the **most important items on top**:
 
-* work items are pulled from the top whenever there's new capacity.
-* no two items can be of equal importance, it's 
-essential to agree on priorities and make tough choices.
+* work items are pulled from the top whenever there is new capacity
+* no two items can be of equal importance, meaning it is 
+necessary to agree on priorities and make tough choices
 
 ---
 
@@ -22,8 +22,8 @@ essential to agree on priorities and make tough choices.
 
 ## Elements of a prioritized backlog 
 
-* a **unique reference number** (or link) for each work item
 * a **short description** or a driver statement
+* a **unique reference number** (or link) for each work item
 * the **order of work items**
 * **dependencies** to other work items or projects
 * **due date** (if necessary)

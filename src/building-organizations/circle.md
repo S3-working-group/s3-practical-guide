@@ -2,7 +2,7 @@
 
 ![right,fit](img/circle/circle-driver.png)  
 
-_A **circle** is a semi-autonomous, self-governing group of people collaborating to respond to a driver._
+_A **circle** is a semi-autonomous, self-governing, and self-organizing group of people collaborating to respond to a driver._
 
 A circle:
 
@@ -13,7 +13,7 @@ A circle:
 
 ## Circle (cont.)
 
-* **semi-autonomous**: 
+* **semi-autonomous and self-organizing**: 
     * a circle acts within the constraints of the surrounding organization
     * each circle responds to a primary driver, can create value independently, and organizes day-to-day-work
 * **self-governing**:

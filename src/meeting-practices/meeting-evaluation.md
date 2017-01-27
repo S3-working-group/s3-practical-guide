@@ -17,11 +17,11 @@ Take time for learning at the end of each meeting or workshop.
 
 ## Meeting Evaluation: Long Format
 
-Ask everyone in a round to contribute to any or all of the following topics in a brief sharing: 
+Ask everyone in a round to reflect on any or all of the following topics in a brief sharing: 
 
 * effectiveness and format
 * facilitation and participation
 * emotional tone
-* I liked... (appreciations and achievements)
-* I wish... (growing edges and improvement suggestions)
-* What if... (wild ideas and radical suggestions)
+* appreciations and achievements (I liked...)
+* growing edges and improvement suggestions (I wish...)
+* wild ideas and radical suggestions (What if...)

@@ -32,9 +32,11 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 ## Evaluate Agreements (cont.)
 
-* evaluating agreements can be as simple as checking there's no objections to the agreement as it is
+* evaluating agreements can be as simple as checking that it is still relevant, and there's no objections to keeping the agreement as it is 
 * agreements are often reviewed in *Governance Meetings* 
 * sometimes it's effective to schedule a dedicated session for reviewing an agreement 
 * adjust review frequency as necessary
 * review earlier if required
+* elements of this process can also be used by individuals to evaluate decisions they made
+
 

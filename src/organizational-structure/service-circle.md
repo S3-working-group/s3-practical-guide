@@ -1,4 +1,4 @@
-    ## Service Circle
+## Service Circle
 
 ![right,fit](img/structural-patterns/service-circle.png)
 

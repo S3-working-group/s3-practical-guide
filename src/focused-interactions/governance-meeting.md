@@ -13,11 +13,11 @@ A governance meeting is usually:
 
 ---
 
-## A typical Governance Meeting structure includes: 
+## A typical Governance Meeting includes: 
 
-* opening round: attune with each other and to the purpose of the group
+* opening round: attune with each other and to the driver of the group
 * administrative matters 
-    * consent to last minutes, dates, 
+    * consent to last minutes, date for next meeting, etc.
     * check for last-minute agenda items and consent to agenda
 * agenda items 
 * meeting evaluation: reflect on your interactions, celebrate successes and share suggestions for improvement.

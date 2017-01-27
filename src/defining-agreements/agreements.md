@@ -1,4 +1,4 @@
-## Agreements
+## Agreement
 
 ![right,fit](img/tension-driver-domain/driver-agreement-improvement.png)
 

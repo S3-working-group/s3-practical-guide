@@ -1,14 +1,15 @@
-## Development Plan (for a Role or Circle)
+## Development Plan (for an Individual or Group)
 
 An agreement supporting people to more effectively collaborate as a group or fulfill a role.
 
 * contents
     - current domain description
     - appreciations
-    - areas for improvement
-    - action items to improve effectiveness
+    - actionable improvement suggestions
     - evaluation criteria
-    - suggested amendments to role description or driver statement
+    - suggested amendments to domain description and driver statement
+
+Following the development plan is part of the strategy of people in roles, or groups.
 
 ---
 

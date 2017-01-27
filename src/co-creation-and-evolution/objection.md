@@ -4,19 +4,23 @@ _An **objection** is a reason why doing something stands in the way of (more) ef
 
 Objections:
 
-* stop proposals from becoming agreements
 * reveal information that can be used to improve proposals and existing agreements
+* stop (TODO: make more concise)
+    * proposals from becoming agreements
+    * people acting on decisions
+    * action (continuing to act)
+    * existing agreements 
 * reveal both opportunities or impediments
 
 ---
 
 ## Objection (cont.)
 
-It's the accountability of individuals to raise objections, and the accountability of the group to address them. 
+It's the accountability of individuals to raise objections. Those accountable for the action or (proposed) agreement they relate to, are responsible for addressing them.
 
-Withholding objections can harm the aims of a group or organization.
+Withholding objections can harm the ability of individuals, groups or the whole organization to respond to organiational drivers.
 
-Being able to raise objections at any time means that proposals only need to be *good enough for now, safe enough to try*
+Being able to raise objections at any time means that decisions only need to be *good enough for now, safe enough to try*.
 
 ---
 
@@ -31,8 +35,8 @@ Being able to raise objections at any time means that proposals only need to be 
 ## Some Helpful Questions
 
 * Does the objection relate to this specific proposal or agreement?
-* Does this objection reveal how a (proposed or existing) **agreement**...
-    * ...jeopardizes the response to a driver?
+* Does this objection reveal how a (proposed or current) **action or agreement**...
+    * ...harm the response to a driver?
     * ...is in conflict with the organization's values?
     * ...prevents or diminishes someone's contribution to responding to a driver?
     * ...can be improved right now?
@@ -41,8 +45,7 @@ Being able to raise objections at any time means that proposals only need to be 
 
 # Concerns #
 
-* are not objections
-* are recorded in the logbook 
+* can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation) even if they are already considered *good enough for now, safe enough to try*
 * are heard if there's time or they're considered important
-* often contain wisdom 
-* can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation)
+* are often argued as a chance or possibility
+* are recorded in the logbook

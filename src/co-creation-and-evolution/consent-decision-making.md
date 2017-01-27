@@ -2,7 +2,7 @@
 
 ![right,fit](img/agreements/cdm-condensed.png)
 
-* a decision making process, often facilitated
+* a decision making process (often facilitated)
 * invite objections, and integrate the wisdom they reveal, to evolve proposals or existing agreements
 * withholding objections can harm the aims of a group or organization
 * unaddressed objections prevent proposals becoming agreements
