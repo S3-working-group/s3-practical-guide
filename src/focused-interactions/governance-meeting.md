@@ -20,7 +20,7 @@ A governance meeting is usually:
     * consent to last minutes, date for next meeting, etc.
     * check for last-minute agenda items and consent to agenda
 * agenda items 
-* meeting evaluation: reflect on your interactions, celebrate successes and share suggestions for improvement.
+* meeting evaluation: reflect on your interactions, celebrate successes and share suggestions for improvement
 * closing
 
 ---

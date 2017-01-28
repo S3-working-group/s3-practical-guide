@@ -2,8 +2,8 @@
 
 When entering into formal or informal agreements with others:
 
-* ensure all parties understand what's expected of them and intend to keep the agreement
-* verify the agreement is beneficial to all parties and expectations are realistic
+* ensure all parties understand what's expected of them and intend to keep to the agreement
+* verify the agreement is beneficial to all parties, and that expectations are realistic
 
 Be accountable for breaking agreements. 
 
@@ -18,9 +18,4 @@ To preserve organizational culture, maintain self-accountability and help new me
 - define expectations for new members (both cultural fit and the skills required)
 - align contract with both organizational culture and legal requirements
 - consider a probationary period
-- have clear procedures about breaches of contract
-
-
-
-
-
+- have clear procedures for breaches of contract

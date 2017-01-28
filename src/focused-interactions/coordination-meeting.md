@@ -4,11 +4,11 @@
 Meet on a regular basis (usually weekly) for reporting on and coordinating work.
 
 * facilitate the meeting, and use rounds instead of discussions where valuable
-* where possible, compile the agenda before the meeting
+* if possible, compile the agenda before the meeting
     - include any prerequisites for attendees to prepare
-    - further items may come up during the status reports
+    - further items may come up when hearing status reports
 
---- 
+---
 
 ## Coordination Meeting
 

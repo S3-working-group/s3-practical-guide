@@ -1,11 +1,11 @@
-## Continuous Improvement Of Work Process
+## Continuous Improvement Of Work Process with S3
 
 ### To reveal drivers and establish a metrics-based pull-system for organizational change.
 
-* introduce the principle of consent to evolve work process in one team
+* introduce the principle of consent and _Navigate Via Tension_ to evolve work process in one team
 * consider selecting a facilitator and agreeing on values
 * trigger continuous improvement (e.g through Kanban)
-* team pulls in patterns 
+* team members pull in S3 patterns as required
 * expand the scope of the experiment iteratively
 * intentionally look out for impediments  
 

@@ -6,7 +6,7 @@
 * invite objections, and integrate the wisdom they reveal, to evolve proposals or existing agreements
 * withholding objections can harm the aims of a group or organization
 * unaddressed objections prevent proposals becoming agreements
-* "can you *live with it* until the review?" ➤ proposals only need to be *good enough for now, safe enough to try*
+* "can you *live with it* until the review?" ➤ proposals only need to be *good enough for now and safe enough to try*
 
 ---
 

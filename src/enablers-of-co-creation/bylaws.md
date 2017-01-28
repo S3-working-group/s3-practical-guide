@@ -2,8 +2,8 @@
 
 To secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture**, consider:
     
-* consent decision making
+* consent and equivalence in decision making
 * selection process for leadership roles
-* governance structure
+* organizational structure, values and principles
 * influence of owners or shareholders
 * sharing gains and costs

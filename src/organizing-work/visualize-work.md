@@ -7,7 +7,7 @@ Transparency about the state of all work items currently pending, in progress or
 * valuable for self-organization and pull-systems
 * system must be accessible to everyone affected
 * **analog**: post-its on a wall, or index cards, magnets and white board
-* **digital**: Google Sheets, Trello, Kanbanery, Leankit, Google Sheets, etc.
+* **digital**: Trello, Kanbanery, Leankit, Jira, Google Sheets, etc.
 
 ---
 

@@ -1,6 +1,6 @@
 ## Limit Work in Progress
 
-Limit the number of work item in any stage of your work process. 
+Limit the number of work items in any stage of your work process. 
 
 Work in Progress includes:
 

@@ -9,7 +9,7 @@ An agreement supporting people to more effectively collaborate as a group or ful
     - evaluation criteria
     - suggested amendments to domain description and driver statement
 
-Following the development plan is part of the strategy of people in roles, or groups.
+Acting on development plans is an integral part of the strategy of people in roles, and of groups.
 
 ---
 

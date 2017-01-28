@@ -20,7 +20,7 @@ The latest version of this document is available at <http://sociocracy30.org>
 
 ![fit](img/general/logo.png)
 
-**James Priest** is an interdependent consultant, facilitator and learning facilitator specializing in holistic organizational development, distributed leadership implementation and complex systems harmonization.
+**James Priest** serves internationally, providing organizational development consultancy, learning facilitation, mentoring and conflict resolution for people wishing to evolve collaborative, adaptive organizations at scale.
 
 [thriveincollaboration.com](http://thriveincollaboration.com)  -- [james@thriveincollaboration.com](mailto:james@thriveincollaboration.com)
 

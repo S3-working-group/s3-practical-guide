@@ -15,7 +15,7 @@ Types of backlog include:
 
 * **Implementation**
     - **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
-    - **digital backlog**: e.g. Google Sheets, Trello
+    - **digital backlog**: e.g. Google Sheets, Trello, Kanban Flow, Jira
 
 ---
 

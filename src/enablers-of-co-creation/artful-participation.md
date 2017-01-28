@@ -9,9 +9,9 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 * enables **co-creation and evolution** of agreements
 * is an **individual choice** and powerful when embraced by many
-* building self-accountability and integrity develops **trust**
+* building **self-accountability** and integrity develops **trust**
 * individuals developing collaboration skills makes for **stronger teams**
-* culture of mutual support and close collaboration makes for **happier people**
+* a culture of mutual support and close collaboration makes for **happier people**
 
 ---
 
@@ -20,7 +20,7 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 ## Artful participation (cont.)
 
-An **individual commitment** to…
+An **individual commitment** to:
 
 * actively **consider and follow-up on all agreements** made, in the best way possible, given the circumstances
 * consciously **balance personal needs with those of a team** and organization as a whole 

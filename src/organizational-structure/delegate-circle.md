@@ -4,7 +4,7 @@
 
 ### A pattern for deciding how to address drivers affecting multiple domains.
 
-Decisions of a delegate circle are acted upon in the various domains.
+Decisions of a delegate circle are acted upon in the various domains it serves.
 
 Each circle selects one or more members as representative(s) to a delegate circle.
 

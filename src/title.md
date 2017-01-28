@@ -13,8 +13,8 @@
 
 ### Effective collaboration at any scale
 
-* **principles-based**: a coherent guide for growing organizational intergrity
-* **flexible**: adaptable patterns, independent but mutually reinforcing
+* **principles-based**: a coherent guide for growing organizational integrity
+* **flexible**: adaptable patterns, independent and mutually reinforcing
 * **free**: licensed under a Creative Commons Free Culture License
 
 ---
@@ -54,11 +54,11 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 **Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
 
-**Equivalence:** *People affected by decisions can influence and change them on the basis of reasons to do so.*
+**Equivalence:** *People affected by decisions influence and change them on the basis of reasons to do so.*
 
-**Transparency:** *All information is available to everyone in an organization, unless there's a reason for confidentiality.*
+**Transparency:** *All information is available to everyone in an organization, unless there is a reason for confidentiality.*
 
-**Accountability:** *Respond when something is needed and be accountable for doing what you agreed to.*
+**Accountability:** *Respond when something is needed, do what you agreed to and take ownership for the course of the organization.*
 
 ---
 
@@ -66,9 +66,11 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 A **driver** is the source of motivation for action in a specific situation (the "why"): something an individual, a group, or organization needs (or requires) in the context of achieving their objectives.
 
-* focus on the **present**, not future or assumptions
-* precedes goals, objectives, aims, mission, vision, purpose
-* drivers can change
+Drivers: 
+
+* focus on the **present** (not the future or assumptions)
+* precede goals, objectives, aims, mission, vision, purpose
+* can change
 
 ---
 
@@ -79,7 +81,7 @@ A **driver** can be understood in relation to the **domain** it defines and its 
 
 The driver that defines a domain is called the **primary driver** of that domain.
 
-The **primary priver** is the **superdriver** of all other **drivers** that arise as a consequence of people responding to it. 
+The **primary driver** is the **superdriver** of all other **drivers** that arise as a consequence of people responding to it. 
 
 
 A **primary driver** is itself a **subdriver** of its **superdriver**, except in the case of the organization itself, in which case it is referred to as the **organizations primary driver**.
@@ -113,7 +115,7 @@ _A **domain** is the set of subdrivers an organization may benefit from addressi
 
 Domains need to be accounted for by people, but exist independently.
 
-Building an organization from domains defined along organizational drivers facilitates effective collaboration by creating enabling constraints and clear and logical parameters for accountability.
+Building an organization from domains defined in relation to organizational drivers facilitates effective collaboration by creating enabling constraints with clear and coherent parameters for accountability.
 
 ---
 
@@ -122,11 +124,10 @@ Building an organization from domains defined along organizational drivers facil
 ![right,fit](img/tension-driver-domain/nested-domains.png)
 
 * accountability applies to all agreements, including the organization itself, circles, and roles
-* everyone's primary accountability is for effective collaboration in response to drivers
+* everyone's primary accountability is for effective collaboration in response to organizational drivers
 * circles are accountable their work, for their body of agreements and for their own development
-* everyone in an organization is accountable for acting in accordance with organizational values and principles
+* everyone in an organization is accountable for aligning action with organizational values and principles
 
 ---
-
 
 ![inline,fit](img/general/s3-pattern-groups.png)

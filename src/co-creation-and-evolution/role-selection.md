@@ -7,4 +7,4 @@
 * You can nominate yourself or pass
 * When checking for objections, ask the person nominated last
 
-Objections to a nominee taking on the role may be resolved in many ways including making changes to the role description or by nominating someone else instead.
+Objections to a nominee may be resolved in many ways, including amending the role description or by nominating someone else.

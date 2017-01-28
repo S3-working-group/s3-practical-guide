@@ -2,7 +2,7 @@
 
 * is sometimes **necessary**...
 * ...but may come at a **cost** to the community
-* we are accountable:
+* be accountable!
     * **clean up** disturbances
     * **follow up** ASAP with those affected or accountable
     * **initiate changes** instead of repeatedly breaking the same agreement

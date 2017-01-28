@@ -8,9 +8,9 @@
 
 ![right,fit](img/agreements/resolve-objections-process.png)
 
-* Resolve Objections
-    * Hear One Objection
-    * Amend Proposal 
-    * Ask for Any Objections to Amendment
-    * Resolve Objections to Amendment (Hear/Amend/Ask/Resolve)
-    * Process Next Objection
+* resolve objections: 
+    * hear one objection
+    * amend proposal 
+    * ask for any objections to amendment
+    * resolve objections to amendment (hear/amend/ask/resolve)
+    * process next objection

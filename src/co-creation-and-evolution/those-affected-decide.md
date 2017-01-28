@@ -1,6 +1,6 @@
 ## Those Affected Decide
 
-To make decisions with the maximum amount of information on the subject, involve everyone who is affected by the decision.
+Involve everyone who will be affected by a decision, to maintain equivalence and accountability, and increase the amount of information available on the subject.
 
 For larger groups:
 

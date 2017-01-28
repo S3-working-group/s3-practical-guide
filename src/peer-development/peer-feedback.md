@@ -1,6 +1,6 @@
 ## Peer Feedback
 
-Invite a peer to give you feedback on: 
+Invite a peer to give you some constructive feedback on: 
 
 * performance in a role
 * general feedback about your participation and collaboration
@@ -8,7 +8,7 @@ Invite a peer to give you feedback on:
 
 Considerations:
 
-* peers have time to prepare
-* collect appreciations and actionable improvement suggestions
-* you may inquire to better understand the feedback, but not discuss or judge it
-* the one who asks for feedback decides what to do with it 
+* ask peers to take some time to prepare
+* invite both **appreciations** and **actionable improvement suggestions**
+* inquire to better understand the feedback, and avoid to discuss or judge it
+* decide for yourself what you will do with the feedback

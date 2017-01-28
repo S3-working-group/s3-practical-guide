@@ -6,4 +6,4 @@ The logbook keeper is accountable for maintaining a circle's logbook by:
 * organizing relevant information and improving the system when valuable
 * keeping records up to date
 * ensuring accessibility to everyone in the circle (and in the wider organization as agreed)
-• tending to all technical aspects of logbook keeping
+• attending to all technical aspects of logbook keeping

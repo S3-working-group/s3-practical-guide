@@ -8,7 +8,7 @@ A workshop format to identify an effective response to a complex situation: orga
 ---
 
 
-![inline,fit](img/tension-driver-domain/driver-mapping.png)
+![inline,fit](img/tension-driver-domain/driver-mapping-print.png)
 
 ---
 

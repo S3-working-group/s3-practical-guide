@@ -19,6 +19,6 @@ _A **value** is a principle that guides behavior. Values define scope for action
     * reduces potential for **misunderstanding**
     * **aligns** decision making and action
     * **attracts new members, partners and customers** who are aligned with the organization
-* values are an agreement and thus subject to **regular reviews**
+* values are an agreement and thus subject to **regular review**
 
 
