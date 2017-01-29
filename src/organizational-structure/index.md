@@ -12,7 +12,7 @@ An effective organizational structure:
 
 ---
 
-## Organizational Structure (cont.) ##
+## Organizational Structure (cont.)
 
 
 The basic building blocks for organizational structure are interdependent, connected domains.
@@ -21,7 +21,7 @@ Domains can be linked in a hierarchy or a **heterarchy** (a.k.a. complex adaptiv
 
 ---
 
-## Structural Patterns ##
+## Structural Patterns
 
 Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 

@@ -34,7 +34,7 @@ theme: Plain Jane, 2
 
 ---
 
-## Core concepts for understanding S3. 
+## Core concepts for understanding S3: 
 
 - patterns
 - the seven principles
@@ -160,7 +160,7 @@ Building an organization from domains defined in relation to organizational driv
 
 ---
 
-## P1.1: Respond to Organizational Drivers
+## Pattern 1.1: Respond to Organizational Drivers
 
 ![right,fit](img/experiments/kaizen.png)
 
@@ -186,7 +186,7 @@ based on learning.
 
 ---
 
-## P1.2: Qualify Organizational Drivers
+## Pattern 1.2: Qualify Organizational Drivers
 
 Some situations might be helpful to address in the context of an organization's primary driver. Others are not within an organization's domain.
 
@@ -198,7 +198,7 @@ _Would responding to this driver improve - or avoid impeding - flow of value to 
 
 ---
 
-## P1.3: Objection
+## Pattern 1.3: Objection
 
 _An **objection** is a reason why doing something stands in the way of (more) effective response to a driver._
 
@@ -265,7 +265,7 @@ If people believe a proposal may not be ‘safe enough to try’, they can raise
 
 ---
 
-## P1.4: Resolve Objections
+## Pattern 1.4: Resolve Objections
 
 ![inline,fit](img/agreements/resolve-objections.png)
 
@@ -285,7 +285,7 @@ If people believe a proposal may not be ‘safe enough to try’, they can raise
 
 ---
 
-## P1.5: Consent Decision Making
+## Pattern 1.5: Consent Decision Making
 
 ![right,fit](img/agreements/cdm-condensed.png)
 
@@ -305,7 +305,7 @@ If people believe a proposal may not be ‘safe enough to try’, they can raise
 
 ---
 
-## P1.6: Navigate Via Tension
+## Pattern 1.6: Navigate Via Tension
 
 ### Identify and accounting for organizational drivers.
 
@@ -334,7 +334,7 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ---
 
-## P1.7: Proposal Forming
+## Pattern 1.7: Proposal Forming
 
 ![right,fit](img/agreements/proposal-forming-medium.png)
 
@@ -366,7 +366,7 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ---
 
-## P1.8: Those Affected Decide
+## Pattern 1.8: Those Affected Decide
 
 Involve everyone who will be affected by a decision, to maintain equivalence and accountability, and increase the amount of information available on the subject.
 
@@ -380,7 +380,7 @@ Treat review and evolution of decisions accordingly.
 
 ---
 
-## P1.9: Role Selection
+## Pattern 1.9: Role Selection
 
 ![right,fit](img/people-and-roles/selection.png)
 
@@ -396,7 +396,7 @@ Objections to a nominee may be resolved in many ways, including amending the rol
 
 ---
 
-## P1.10: Driver Mapping
+## Pattern 1.10: Driver Mapping
 
 A workshop format to identify an effective response to a complex situation: organize start-ups, kick-off projects, tackle major impediments or opportunities, align organizational structure to the flow of value.
 
@@ -425,7 +425,7 @@ A workshop format to identify an effective response to a complex situation: orga
 
 ---
 
-## P2.1: Ask For Help
+## Pattern 2.1: Ask For Help
 
 A simple protocol for learning, skill sharing, and building connections, with respect for people's autonomy.
 
@@ -440,7 +440,7 @@ Ask someone, "_would you be willing to help me with ..._?"  The person asked ans
 
 ---
 
-## P2.2: Peer Feedback
+## Pattern 2.2: Peer Feedback
 
 Invite a peer to give you some constructive feedback on: 
 
@@ -458,7 +458,7 @@ Considerations:
 
 ---
 
-## P2.3: Effectiveness Review
+## Pattern 2.3: Effectiveness Review
 
 ![right,fit](img/people-and-roles/effectiveness-review.png)
 
@@ -488,7 +488,7 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 ---
 
-## P2.4: Development Plan (for an Individual or Group)
+## Pattern 2.4: Development Plan (for an Individual or Group)
 
 An agreement supporting people to more effectively collaborate as a group or fulfill a role.
 
@@ -518,7 +518,7 @@ Acting on development plans is an integral part of the strategy of people in rol
 
 ---
 
-## P3.1: Artful Participation
+## Pattern 3.1: Artful Participation
 
 ![right,fit](img/agreements/artful-participation.png)
 
@@ -563,7 +563,7 @@ An **individual commitment** to:
 
 ---
 
-## P3.2: Adopt The Seven Principles
+## Pattern 3.2: Adopt The Seven Principles
 
 ![inline,fit](img/general/s3-principles-plain.png)
 
@@ -580,7 +580,7 @@ An **individual commitment** to:
 
 ---
 
-## P3.3: Agree On Values
+## Pattern 3.3: Agree On Values
 
 ![right,fit](img/collaboration-values/chosen-values.png)
 
@@ -608,7 +608,7 @@ _A **value** is a principle that guides behavior. Values define scope for action
 
 ---
 
-## P3.4: Governance Facilitator (Role)
+## Pattern 3.4: Governance Facilitator (Role)
 
 ![right,fit](img/circle/facilitator.png)
 
@@ -638,7 +638,7 @@ When using S3 for governance, the facilitator familiarizes themselves with the f
 
 ---
 
-## P3.5: Evaluate Agreements
+## Pattern 3.5: Evaluate Agreements
 
 
 Regular review of agreements is an essential practice for a learning organization; continuously evolving the body of agreements, and eliminating waste:
@@ -684,7 +684,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 ---
 
-## P3.6: Breaking Agreements
+## Pattern 3.6: Breaking Agreements
 
 * is sometimes **necessary**...
 * ...but may come at a **cost** to the community
@@ -696,7 +696,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 ---
 
-## P3.7: Contracting And Accountability
+## Pattern 3.7: Contracting And Accountability
 
 When entering into formal or informal agreements with others:
 
@@ -721,7 +721,7 @@ To preserve organizational culture, maintain self-accountability and help new me
 
 ---
 
-## P3.8: Transparent Salary
+## Pattern 3.8: Transparent Salary
 
 * transparent salaries need to be fair
 * fairness has several orthogonal dimensions    
@@ -742,7 +742,7 @@ To preserve organizational culture, maintain self-accountability and help new me
 
 ---
 
-## P3.9: Support Role
+## Pattern 3.9: Support Role
 
 ### Apply the role pattern to external contractors
     
@@ -757,7 +757,7 @@ Support roles may be operational only, and external contractors consent to accou
 
 ---
 
-## P3.10: Bylaws
+## Pattern 3.10: Bylaws
 
 Secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture**
 
@@ -779,7 +779,7 @@ Consider:
 
 ---
 
-## P4.1: Nested Domains
+## Pattern 4.1: Nested Domains
 
 ![right,fit](img/tension-driver-domain/nested-domains.png)
 
@@ -790,7 +790,7 @@ When defining a domain in relation to an organizational driver, consider respons
 
 ---
 
-## P4.2: Circle
+## Pattern 4.2: Circle
 
 ![right,fit](img/circle/circle-driver.png)  
 
@@ -814,7 +814,7 @@ A circle:
 
 ---
 
-## P4.3: Role
+## Pattern 4.3: Role
 
 ![right,fit](img/people-and-roles/roles.png)
 
@@ -836,7 +836,7 @@ People selected into roles are autonomous to decide and act within these constra
 
 ---
 
-## P4.4: Linking
+## Pattern 4.4: Linking
 
 ![right,fit](img/structural-patterns/link.png)
 
@@ -847,7 +847,7 @@ A circle (or team) selects one of its members to represent their interests in th
 
 ---
 
-## P4.5: Double Linking
+## Pattern 4.5: Double Linking
 
 ![right,fit](img/structural-patterns/double-link.png)
 
@@ -861,7 +861,7 @@ Two interdependent circles (or teams) each select one of their members to repres
 
 ---
 
-## P4.6: Representative
+## Pattern 4.6: Representative
 
 Representatives (a.k.a. links):
 
@@ -882,7 +882,7 @@ Representatives (a.k.a. links):
 
 ---
 
-## P5.1: Adapt Patterns To Context
+## Pattern 5.1: Adapt Patterns To Context
 
 ![right,fit](img/agreements/adapt-pattern-to-context.png)
 
@@ -898,7 +898,7 @@ Representatives (a.k.a. links):
 
 ---
 
-## P5.2: Create a Pull-System For Organizational Change
+## Pattern 5.2: Create a Pull-System For Organizational Change
 
 Change things when there is value in doing so.
 
@@ -912,7 +912,7 @@ Create an environment that invites and enables members of the organization to dr
 
 ---
 
-## P5.3: Be The Change
+## Pattern 5.3: Be The Change
 
 Lead by example.
 
@@ -921,7 +921,7 @@ Behave and act in the ways you would like others to behave and act.
 
 ---
 
-## P5.4: Invite Change
+## Pattern 5.4: Invite Change
 
 A way for individuals to initiate and facilitate change.
 
@@ -933,7 +933,7 @@ A way for individuals to initiate and facilitate change.
 
 ---
 
-## P5.5: Open S3 Adoption
+## Pattern 5.5: Open S3 Adoption
 
 * identify the driver for pulling in S3 patterns
 * schedule regular open space events:
@@ -945,7 +945,7 @@ A way for individuals to initiate and facilitate change.
 
 ---
 
-## P5.6: Continuous Improvement Of Work Process With S3
+## Pattern 5.6: Continuous Improvement Of Work Process With S3
 
 ### To reveal drivers and establish a metrics-based pull-system for organizational change.
 
@@ -992,7 +992,7 @@ A way for individuals to initiate and facilitate change.
 
 ---
 
-## P6.1: Agreement
+## Pattern 6.1: Agreement
 
 ![right,fit](img/tension-driver-domain/driver-agreement-improvement.png)
 
@@ -1012,7 +1012,7 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 
 ---
 
-## P6.2: Strategy
+## Pattern 6.2: Strategy
 
 ![right,fit](img/tension-driver-domain/driver-strategy-agreements-domain.png)
 
@@ -1034,7 +1034,7 @@ _A **strategy** is a high level approach towards creating value within a domain.
 
 ---
 
-## P6.3: Domain Description 
+## Pattern 6.3: Domain Description 
 
 ![right,fit](img/people-and-roles/domain-description-template.png)
 
@@ -1051,7 +1051,7 @@ A domain description is used as a circle, open location and role description too
 
 ---
 
-## P6.4: Intended Outcome
+## Pattern 6.4: Intended Outcome
 
 ![right,fit](img/agreements/outcome-and-criteria.png)
 
@@ -1061,7 +1061,7 @@ A domain description is used as a circle, open location and role description too
 
 ---
 
-## P6.5: Describing Deliverables
+## Pattern 6.5: Describing Deliverables
 
 A **deliverable** is something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformation.
 
@@ -1085,7 +1085,7 @@ Explicitly defining deliverables can be useful for improving:
 
 ---
 
-## P6.6: Evaluation Criteria
+## Pattern 6.6: Evaluation Criteria
 
 ![right,fit](img/agreements/outcome-and-criteria.png)
 
@@ -1097,7 +1097,7 @@ Defining evaluation criteria can help to understand whether or not an agreement 
 
 ---
 
-## P6.7: Logbook
+## Pattern 6.7: Logbook
 
 A logbook is a (digital) system to store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, and information is kept confidential only when there is good reason to do so.
 
@@ -1128,7 +1128,7 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
 
 ---
 
-## P6.8: Logbook Keeper (Role)
+## Pattern 6.8: Logbook Keeper (Role)
 
 The logbook keeper is accountable for maintaining a circle's logbook by: 
 
@@ -1148,7 +1148,7 @@ The logbook keeper is accountable for maintaining a circle's logbook by:
 
 ---
 
-## P7.1: Governance Meeting
+## Pattern 7.1: Governance Meeting
 
 ![right,fit](img/meetings/governance-meeting.png)
 
@@ -1193,7 +1193,7 @@ A governance meeting is usually:
 
 ---
 
-## P7.2: Retrospective
+## Pattern 7.2: Retrospective
 
 Building in continuous improvement of work process through reflection and learning from past experience.
 
@@ -1223,7 +1223,7 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 ---
 
-## P7.3: Daily Standup
+## Pattern 7.3: Daily Standup
 
 ![right,fit](img/meetings/planning-review-standup.png)
 
@@ -1239,7 +1239,7 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 ---
 
-## P7.4: Planning And Review Meetings
+## Pattern 7.4: Planning And Review Meetings
 
 ![right,fit](img/meetings/planning-review.png)
 
@@ -1253,7 +1253,7 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 ---
 
-## P7.5: Coordination Meeting
+## Pattern 7.5: Coordination Meeting
 
 
 Meet on a regular basis (usually weekly) for reporting on and coordinating work.
@@ -1287,7 +1287,7 @@ Meet on a regular basis (usually weekly) for reporting on and coordinating work.
 
 ---
 
-## P8.1: Rounds
+## Pattern 8.1: Rounds
 
 ![right,fit](img/circle/rounds.png) 
 
@@ -1302,7 +1302,7 @@ There are a number of ways that experienced groups can fast track certain rounds
 
 ---
 
-## P8.2: Facilitate Meetings
+## Pattern 8.2: Facilitate Meetings
 
 Choose someone to facilitate a meeting. Even an inexperienced facilitator can help to focus a meeting and make a positive difference.
 
@@ -1315,7 +1315,7 @@ Choose someone to facilitate a meeting. Even an inexperienced facilitator can he
 
 ---
 
-## P8.3: Evaluate Meetings
+## Pattern 8.3: Evaluate Meetings
 
 
 ![right,fit](img/meetings/evaluate-interactions.png)
@@ -1346,7 +1346,7 @@ Ask everyone in a round to reflect on any or all of the following topics in a br
 
 ---
 
-## P8.4: Meeting Host (Role)
+## Pattern 8.4: Meeting Host (Role)
 
 The meeting host is accountable for preparation and follow-up of meetings, workshops or other events. 
 
@@ -1372,7 +1372,7 @@ The role may be assigned temporarily (i.e. for one specific event) or for a dura
 
 ---
 
-## P8.5: Governance Backlog
+## Pattern 8.5: Governance Backlog
 
 A governance backlog is a visible, prioritized list of items (drivers) that require (or may benefit from) a group decision.
 
@@ -1393,7 +1393,7 @@ A governance backlog is a visible, prioritized list of items (drivers) that requ
 
 ---
 
-## P9.1: Backlog
+## Pattern 9.1: Backlog
 
 A backlog (to-do-list) is a visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
 
@@ -1428,7 +1428,7 @@ Types of backlog include:
 
 ---
 
-## P9.2: Prioritize Backlogs
+## Pattern 9.2: Prioritize Backlogs
 
 Order **all uncompleted work items** with the most important items first:
 
@@ -1443,7 +1443,7 @@ Order **all uncompleted work items** with the most important items first:
 
 ---
 
-## P9.3: Visualize Work
+## Pattern 9.3: Visualize Work
 
 ![right,fit](img/workflow-and-value/simple-process.png)
 
@@ -1477,7 +1477,7 @@ Transparency about the state of all work items currently pending, in progress or
 
 ---
 
-## P9.4: Pull-System For Work
+## Pattern 9.4: Pull-System For Work
 
 * people pull in new items when they have capacity (instead of work being pushed at them)
 * prioritize available work items to ensure that important items are worked on first
@@ -1486,7 +1486,7 @@ Transparency about the state of all work items currently pending, in progress or
 
 ---
 
-## P9.5: Limit Work in Progress
+## Pattern 9.5: Limit Work in Progress
 
 Limit the number of work items in any stage of your work process. 
 
@@ -1502,7 +1502,7 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 ---
 
-## P9.6: Align Flow
+## Pattern 9.6: Align Flow
 
 ![right,fit](img/workflow-and-value/types-of-flow.png)
 
@@ -1521,7 +1521,7 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 ---
 
-## P9.7: Coordinator (Role)
+## Pattern 9.7: Coordinator (Role)
 
 A person in the role of a coordinator is accountable for **coordinating a group's operations** and is **selected for a limited term.**
 
@@ -1553,7 +1553,7 @@ An effective organizational structure:
 
 ---
 
-## Organizational Structure (cont.) ##
+## Organizational Structure (cont.)
 
 
 The basic building blocks for organizational structure are interdependent, connected domains.
@@ -1562,7 +1562,7 @@ Domains can be linked in a hierarchy or a **heterarchy** (a.k.a. complex adaptiv
 
 ---
 
-## Structural Patterns ##
+## Structural Patterns
 
 Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 
@@ -1574,7 +1574,7 @@ Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 
 ---
 
-## P10.1: Helping Team
+## Pattern 10.1: Helping Team
 
 ![right,fit](img/structural-patterns/helping-circle.png)
 
@@ -1592,7 +1592,7 @@ members of the helping circle:
 
 ---
 
-## P10.2: Service Circle
+## Pattern 10.2: Service Circle
 
 ![right,fit](img/structural-patterns/service-circle.png)
 
@@ -1608,7 +1608,7 @@ A service circle can be populated by members of the domains it serves, and/or by
 
 ---
 
-## P10.3: Delegate Circle
+## Pattern 10.3: Delegate Circle
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
@@ -1623,7 +1623,7 @@ Delegate circles provide a way of steering organizations from the ground up, and
 
 ---
 
-## P10.4: Coordination Circle
+## Pattern 10.4: Coordination Circle
 
 ![right,fit](img/structural-patterns/coordination-circle.png)
 
@@ -1636,7 +1636,7 @@ A coordination circle is populated by coordinators of the various circles, along
 
 ---
 
-## P10.5: Peach Organization
+## Pattern 10.5: Peach Organization
 
 ![right,fit](img/structural-patterns/peach-organization.png)
 
@@ -1649,7 +1649,7 @@ A pattern for decentralized organizations to deliver value in complex and compet
 
 ---
 
-## P10.6: Double-Linked Hierarchy
+## Pattern 10.6: Double-Linked Hierarchy
 
 ![right,fit](img/structural-patterns/double-linked-hierarchy.png)
 
@@ -1662,7 +1662,7 @@ A pattern for decentralized organizations to deliver value in complex and compet
 
 ---
 
-## P10.7: Open Systems
+## Pattern 10.7: Open Systems
 
 An organization (or it's various sub-domains) can benefit from intentionally communicating with and learning from others.
 
@@ -1678,7 +1678,7 @@ An organization is an interdependent system that benefits from consciously invit
 
 ---
 
-## P10.8: Backbone Organization
+## Pattern 10.8: Backbone Organization
 
 
 ![right,fit](img/structural-patterns/backbone-organization-text.png)
@@ -1695,7 +1695,7 @@ An organization is an interdependent system that benefits from consciously invit
 
 ---
 
-## P10.9: Fractal Organization
+## Pattern 10.9: Fractal Organization
 
 ![right,fit](img/structural-patterns/fractal-organization.png)
 

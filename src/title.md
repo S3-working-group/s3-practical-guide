@@ -29,7 +29,7 @@
 
 ---
 
-## Core concepts for understanding S3. 
+## Core concepts for understanding S3: 
 
 - patterns
 - the seven principles
