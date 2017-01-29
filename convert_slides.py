@@ -21,7 +21,7 @@ conversion finished
 files processed: {0}
 """
 
-IMG_TEMPLATE = '![](/static-images/slides/{0}'
+IMG_TEMPLATE = '![](/static-images/{0}'
 
 # TODO: make output of filename optional
 # TODO: create line writer object with prev_line_empty 
@@ -104,10 +104,13 @@ def convert_file_for_web(source_path, result_path, footer, increase_headline_lev
                     # omit line, do not change empty line marker!
                     pass 
                 elif l.startswith('#'):
-                    if increase_headline_level: 
-                        lw.write(increase_headline_level(l))
-                    else: 
-                        lw.write(line)
+                    if l.endswith("(cont.)"):
+                        pass # omit slides with continued headlines
+                    else:
+                        if increase_headline_level: 
+                            lw.write(increase_headline_level(l))
+                        else: 
+                            lw.write(line)
                 elif line.lstrip().startswith("!["):
                     # fix image
                     pos = l.find('(')
@@ -126,5 +129,15 @@ def increase_headline_level(line):
 
 
 if __name__ == "__main__":
-    convert_to_web('web', 'web-out', '\n\n©2016 by Bernhard Bockelbrink and James Priest. Licensed under  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)', False)
+    convert_to_web('web', 'web-out', """
+        
+
+        **Read next:** [next_page]
+
+        ---
+
+        © 2017 by Bernhard Bockelbrink and James Priest. Licensed under [CC BY-SA 4.0](/license/)
+
+        """,
+         False)
 
