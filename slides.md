@@ -16,11 +16,33 @@ theme: Plain Jane, 2
 
 # Sociocracy 3.0 - An open framework for evolving agile and resilient organizations 
 
-### Effective collaboration at any scale
+### Effective Collaboration At Any Scale
 
 * **principles-based**: a coherent guide for growing organizational integrity
 * **flexible**: adaptable patterns, independent and mutually reinforcing
 * **free**: licensed under a Creative Commons Free Culture License
+
+---
+
+![inline,fit](img/general/s3-pattern-groups.png)
+
+---
+
+## Influences and History
+
+![inline, fit](img/general/history.png)
+
+---
+
+## Core concepts for understanding S3. 
+
+- patterns
+- the seven principles
+- driver
+- value 
+- waste
+- domain
+
 
 ---
 
@@ -33,17 +55,12 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 ---
 
-## Influences and History
-
-![inline, fit](img/general/history.png)
-
----
-
 ## All Patterns are based on The Seven Principles
 
 ![inline,fit](img/general/s3-principles-plain.png)
 
 ---
+
 
 ## The Seven Principles
 
@@ -130,12 +147,8 @@ Building an organization from domains defined in relation to organizational driv
 
 * accountability applies to all agreements, including the organization itself, circles, and roles
 * everyone's primary accountability is for effective collaboration in response to organizational drivers
-* circles are accountable their work, for their body of agreements and for their own development
+* circles are accountable for their work, their body of agreements and their own development
 * everyone in an organization is accountable for aligning action with organizational values and principles
-
----
-
-![inline,fit](img/general/s3-pattern-groups.png)
 
 
 ---
@@ -247,7 +260,7 @@ In consent decision making, concerns:
 * are heard if there is time or they are considered important
 * are recorded in the logbook
 
-If they believe a proposal may not be ‘safe enough to try’, people can raise concerns as objections to check with others about likelyhood of harm.
+If people believe a proposal may not be ‘safe enough to try’, they can raise concerns as objections to check with others about likelyhood of harm.
 
 
 ---
@@ -294,11 +307,16 @@ If they believe a proposal may not be ‘safe enough to try’, people can raise
 
 ## P1.6: Navigate Via Tension
 
-### ...for identifying and accounting for organizational drivers.
+### Identify and accounting for organizational drivers.
 
 **All members** bring awareness to what might help or harm the organization, and aim to account for drivers in an effective way. 
 
 A **tension** is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences). 
+
+---
+
+## Navigate Via Tension (cont.)
+
 
 **Challenges and opportunities** for an organization are revealed as people become aware of tension they experience in relation to them.
 
@@ -310,7 +328,6 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ## Navigate Via Tension (cont.)
 
-
 ![inline,fit](img/tension-driver-domain/navigate-via-tension-slides.png)
 
 
@@ -321,9 +338,9 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ![right,fit](img/agreements/proposal-forming-medium.png)
 
-Proposal Forming:
 
-* is a (facilitated) format for co-creating a response to a driver
+### A (facilitated) format for co-creating a response to a driver.
+
 * draws on the collective intelligence and diversity of perspective within a group
 * involves people in co-creating agreements
 * fosters accountability and sense of ownership
@@ -332,12 +349,12 @@ Proposal Forming:
   
 ## Proposal Forming Process ##
 
-1. **Present and consent to driver**: _Is this driver relevant to respond to and a clear enough articulation of what's happening and what's needed_?
-2. **Deepen shared understanding of driver**: invite essential questions to understand more detail about the driver
-3. **Collect considerations** relating to possible solutions, as questions that reveal constraints and the scope of possibility (information gathering questions and generative questions)
-4. **Answer** any information gathering questions if possible
-5. **Gather ideas** as possible ingredients for a proposal
-6. **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by an individual or a smaller group.
+- **Present and consent to driver**: _Is this driver relevant to respond to and a clear enough articulation of what's happening and what's needed_?
+- **Deepen shared understanding of driver**: invite essential questions to understand more detail about the driver
+- **Collect considerations** relating to possible solutions, as questions that reveal constraints and the scope of possibility (information gathering questions and generative questions)
+- **Answer** any information gathering questions if possible
+- **Gather ideas** as possible ingredients for a proposal
+- **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by an individual or a smaller group.
   
 ---
 
@@ -367,6 +384,8 @@ Treat review and evolution of decisions accordingly.
 
 ![right,fit](img/people-and-roles/selection.png)
 
+### A pattern for selecting people for roles.
+
 * People avoid expressing interest before the selection
 * Nominations are made on the strength of the reason, not according to the majority
 * You can nominate yourself or pass
@@ -385,6 +404,8 @@ A workshop format to identify an effective response to a complex situation: orga
 * small or large groups identify and prioritize drivers, progressing quickly from concept to action in self-organizing teams.
 
 ---
+
+## Driver Mapping (cont.)
 
 
 ![inline,fit](img/tension-driver-domain/driver-mapping-print.png)
@@ -408,7 +429,7 @@ A workshop format to identify an effective response to a complex situation: orga
 
 A simple protocol for learning, skill sharing, and building connections, with respect for people's autonomy.
 
-Ask someone, "_would you be willing to help me with ..._?" the person asked answers with a simple "_yes_" or "_no_".
+Ask someone, "_would you be willing to help me with ..._?"  The person asked answers with a simple "_yes_" or "_no_".
 
 * if the request is declined, the person asking accepts the answer without negotiation or inquiry
 * if the request is unclear, inquire for more information
@@ -471,12 +492,13 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 An agreement supporting people to more effectively collaborate as a group or fulfill a role.
 
-* contents
-    - current domain description
-    - appreciations
-    - actionable improvement suggestions
-    - evaluation criteria
-    - suggested amendments to domain description and driver statement
+Contents:
+
+- current domain description
+- appreciations
+- actionable improvement suggestions
+- evaluation criteria
+- suggested amendments to domain description and driver statement
 
 Acting on development plans is an integral part of the strategy of people in roles, and of groups.
 
@@ -500,10 +522,9 @@ Acting on development plans is an integral part of the strategy of people in rol
 
 ![right,fit](img/agreements/artful-participation.png)
 
-A commitment to developing helpful interactions and effective collaboration 
+A commitment to developing helpful interactions and effective collaboration. 
 
 Participating artfully may include interrupting, objecting or breaking  agreements.
-
 
 * enables **co-creation and evolution** of agreements
 * is an **individual choice** and powerful when embraced by many
@@ -514,7 +535,6 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 ---
 
 ![right,fit](img/people-and-roles/autonomy-collaboration.png)
-
 
 ## Artful participation (cont.)
 
@@ -564,7 +584,7 @@ An **individual commitment** to:
 
 ![right,fit](img/collaboration-values/chosen-values.png)
 
-A pattern for intentionally shaping culture in an organization
+A pattern for intentionally shaping culture in an organization.
 
 _A **value** is a principle that guides behavior. Values define scope for action and ethical constraints._
 
@@ -724,7 +744,7 @@ To preserve organizational culture, maintain self-accountability and help new me
 
 ## P3.9: Support Role
 
-### Apply roles to external contractors
+### Apply the role pattern to external contractors
     
 * clarify and describe driver for the role
 * create domain description
@@ -739,7 +759,9 @@ Support roles may be operational only, and external contractors consent to accou
 
 ## P3.10: Bylaws
 
-To secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture**, consider:
+Secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture**
+
+Consider:
     
 * consent and equivalence in decision making
 * selection process for leadership roles
@@ -753,13 +775,6 @@ To secure S3 principles and patterns in your bylaws as needed to protect **legal
 
 ![inline,fit](img/pattern-group-headers/header-group-4.png)
 
-
-
----
-
-## Building Organizations
-
-A body of patterns for understanding and evolving an organization aligned with the principles behind S3. 
 
 
 ---
@@ -792,7 +807,7 @@ A circle:
 
 * **semi-autonomous and self-organizing**: 
     * a circle acts within the constraints of the surrounding organization
-    * each circle responds to a primary driver, can create value independently, and organizes day-to-day-work
+    * each circle responds to a primary driver, can create value independently, and organizes its day-to-day-work
 * **self-governing**:
     * leads in creating its strategy and agreements
 
@@ -823,16 +838,11 @@ People selected into roles are autonomous to decide and act within these constra
 
 ## P4.4: Linking
 
-**Connecting two circles**
-
 ![right,fit](img/structural-patterns/link.png)
 
-Flowing information and influence between circles
+### Facilitates flow of information and influence between two circles (or teams).
 
-A group selects one of it's members to represent their interests in governance decision making of another group.
-
-
-
+A circle (or team) selects one of its members to represent their interests in the governance decision making of another group.
 
 
 ---
@@ -841,10 +851,11 @@ A group selects one of it's members to represent their interests in governance d
 
 ![right,fit](img/structural-patterns/double-link.png)
 
-### Facilitates two-way flow of information and influence
+### Facilitates **two-way** flow of information and influence between two circles (or teams).
 
-* two interdependent circles each select a representative to participate in both circles' governance decision making
-* creates equivalence between circles
+Two interdependent circles (or teams) each select one of their members to represent their interests in the governance decision making of the other group.
+
+* creates equivalence between two groups
 * can be used to draw out valuable information in hierarchical structures
 
 
@@ -852,15 +863,14 @@ A group selects one of it's members to represent their interests in governance d
 
 ## P4.6: Representative
 
-Representatives (a.k.a links):
+Representatives (a.k.a. links):
 
-* stand for the interests of one circle in another circle
-* are elected for a limited term
-* participate as full members in governance meetings of the other circle and can:
+* stand for the interests of a circle (or team) in another circle
+* are selected for a limited term
+* participate as full members in the **governance decision making** of the circle they are delegated to, and can:
     * raise items for the agenda
     * participate in forming proposals
     * object to agreements and proposals (when there is reason to do so)
-
 
 
 ---
@@ -904,7 +914,9 @@ Create an environment that invites and enables members of the organization to dr
 
 ## P5.3: Be The Change
 
-Lead by example, behave and act in the ways you would like others to behave and act.
+Lead by example.
+
+Behave and act in the ways you would like others to behave and act.
 
 
 ---
@@ -924,7 +936,7 @@ A way for individuals to initiate and facilitate change.
 ## P5.5: Open S3 Adoption
 
 * identify the driver for pulling in S3 patterns
-* schedule regular of open space events:
+* schedule regular open space events:
     * invite all members to create and run experiments
     * define constraints for experiments: e.g. S3 principles
     * review and learn from experimentation in the next open space
@@ -933,7 +945,7 @@ A way for individuals to initiate and facilitate change.
 
 ---
 
-## P5.6: Continuous Improvement Of Work Process with S3
+## P5.6: Continuous Improvement Of Work Process With S3
 
 ### To reveal drivers and establish a metrics-based pull-system for organizational change.
 
@@ -946,7 +958,7 @@ A way for individuals to initiate and facilitate change.
 
 ---
 
-## Waste and Continuous Improvement
+## Waste And Continuous Improvement
 
 ![right,fit](img/workflow-and-value/drivers-value-waste.png)
 
@@ -1051,16 +1063,16 @@ A domain description is used as a circle, open location and role description too
 
 ## P6.5: Describing Deliverables
 
-A **deliverable** is something which is provided as a result of an agreement, usually framed as products, raw materials, services, experiences or transformation.
+A **deliverable** is something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformation.
 
-**In the context of an agreement, clearly describing deliverables supports shared understanding**
+In the context of an agreement, clearly describing deliverables supports shared understanding:
 
 * include the necessary amount of detail
 * reference other documents when helpful or necessary
 
 ---
 
-## Deliverables (cont.)
+## Describing Deliverables (cont.)
 
 Explicitly defining deliverables can be useful for improving: 
 
@@ -1087,7 +1099,7 @@ Defining evaluation criteria can help to understand whether or not an agreement 
 
 ## P6.7: Logbook
 
-A logbook is a (digital) system to store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, information is hidden only when there is a good reason to do so.
+A logbook is a (digital) system to store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, and information is kept confidential only when there is good reason to do so.
 
 Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Management Systems (e.g. Wordpress), Google Drive, Evernote or Trello etc.
 
@@ -1140,7 +1152,7 @@ The logbook keeper is accountable for maintaining a circle's logbook by:
 
 ![right,fit](img/meetings/governance-meeting.png)
 
-Groups of people meet at regular intervals to create and evolve agreements relating to matters they are accountable for.
+Groups of people meet at regular intervals to create and evolve agreements relating to drivers they are accountable for.
 
 A governance meeting is usually:
 
@@ -1151,7 +1163,7 @@ A governance meeting is usually:
 
 ---
 
-## A typical Governance Meeting includes: 
+## A typical governance meeting includes: 
 
 * opening round: attune with each other and to the driver of the group
 * administrative matters 
@@ -1167,7 +1179,7 @@ A governance meeting is usually:
 
 * any short reports 
 * evaluation of existing agreements due review
-* new matters requiring decisions to be made, including: 
+* new drivers requiring decisions to be made, including: 
     * understanding and agreeing on situations that require attention 
     * forming proposals and making agreements 
     * creating and defining new roles and teams 
@@ -1183,7 +1195,7 @@ A governance meeting is usually:
 
 ## P7.2: Retrospective
 
-Building in continuous improvement of work process through reflection and learning from past experience
+Building in continuous improvement of work process through reflection and learning from past experience.
 
 * output: changes to work process, new tasks, on-the-fly agreements, and drivers requiring an agreement
 * facilitated meeting (~1hr)
@@ -1626,8 +1638,6 @@ A coordination circle is populated by coordinators of the various circles, along
 
 ## P10.5: Peach Organization
 
-### 
-
 ![right,fit](img/structural-patterns/peach-organization.png)
 
 A pattern for decentralized organizations to deliver value in complex and competitive environments.
@@ -1710,9 +1720,11 @@ Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 
 # License
 
-This work by Bernhard Bockelbrink and James Priest is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
+This work by Bernhard Bockelbrink and James Priest is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
+[http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
 
-The latest version of this document is available at <http://sociocracy30.org>
+The latest version of this document is available at 
+<http://sociocracy30.org>
 
 ---
 

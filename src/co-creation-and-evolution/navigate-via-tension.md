@@ -1,10 +1,15 @@
 ## Navigate Via Tension
 
-### ...for identifying and accounting for organizational drivers.
+### Identify and accounting for organizational drivers.
 
 **All members** bring awareness to what might help or harm the organization, and aim to account for drivers in an effective way. 
 
 A **tension** is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences). 
+
+---
+
+## Navigate Via Tension (cont.)
+
 
 **Challenges and opportunities** for an organization are revealed as people become aware of tension they experience in relation to them.
 
@@ -15,7 +20,6 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 ---
 
 ## Navigate Via Tension (cont.)
-
 
 ![inline,fit](img/tension-driver-domain/navigate-via-tension-slides.png)
 

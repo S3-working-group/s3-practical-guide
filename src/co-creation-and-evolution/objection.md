@@ -60,4 +60,4 @@ In consent decision making, concerns:
 * are heard if there is time or they are considered important
 * are recorded in the logbook
 
-If they believe a proposal may not be ‘safe enough to try’, people can raise concerns as objections to check with others about likelyhood of harm.
+If people believe a proposal may not be ‘safe enough to try’, they can raise concerns as objections to check with others about likelyhood of harm.

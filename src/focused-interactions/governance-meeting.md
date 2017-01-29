@@ -2,7 +2,7 @@
 
 ![right,fit](img/meetings/governance-meeting.png)
 
-Groups of people meet at regular intervals to create and evolve agreements relating to matters they are accountable for.
+Groups of people meet at regular intervals to create and evolve agreements relating to drivers they are accountable for.
 
 A governance meeting is usually:
 
@@ -13,7 +13,7 @@ A governance meeting is usually:
 
 ---
 
-## A typical Governance Meeting includes: 
+## A typical governance meeting includes: 
 
 * opening round: attune with each other and to the driver of the group
 * administrative matters 
@@ -29,7 +29,7 @@ A governance meeting is usually:
 
 * any short reports 
 * evaluation of existing agreements due review
-* new matters requiring decisions to be made, including: 
+* new drivers requiring decisions to be made, including: 
     * understanding and agreeing on situations that require attention 
     * forming proposals and making agreements 
     * creating and defining new roles and teams 

@@ -2,10 +2,9 @@
 
 ![right,fit](img/agreements/artful-participation.png)
 
-A commitment to developing helpful interactions and effective collaboration 
+A commitment to developing helpful interactions and effective collaboration. 
 
 Participating artfully may include interrupting, objecting or breaking  agreements.
-
 
 * enables **co-creation and evolution** of agreements
 * is an **individual choice** and powerful when embraced by many
@@ -16,7 +15,6 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 ---
 
 ![right,fit](img/people-and-roles/autonomy-collaboration.png)
-
 
 ## Artful participation (cont.)
 

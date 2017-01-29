@@ -15,6 +15,6 @@ A circle:
 
 * **semi-autonomous and self-organizing**: 
     * a circle acts within the constraints of the surrounding organization
-    * each circle responds to a primary driver, can create value independently, and organizes day-to-day-work
+    * each circle responds to a primary driver, can create value independently, and organizes its day-to-day-work
 * **self-governing**:
     * leads in creating its strategy and agreements

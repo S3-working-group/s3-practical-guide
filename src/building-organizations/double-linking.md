@@ -2,8 +2,9 @@
 
 ![right,fit](img/structural-patterns/double-link.png)
 
-### Facilitates two-way flow of information and influence
+### Facilitates **two-way** flow of information and influence between two circles (or teams).
 
-* two interdependent circles each select a representative to participate in both circles' governance decision making
-* creates equivalence between circles
+Two interdependent circles (or teams) each select one of their members to represent their interests in the governance decision making of the other group.
+
+* creates equivalence between two groups
 * can be used to draw out valuable information in hierarchical structures

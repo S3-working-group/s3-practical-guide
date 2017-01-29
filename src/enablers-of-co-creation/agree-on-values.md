@@ -2,7 +2,7 @@
 
 ![right,fit](img/collaboration-values/chosen-values.png)
 
-A pattern for intentionally shaping culture in an organization
+A pattern for intentionally shaping culture in an organization.
 
 _A **value** is a principle that guides behavior. Values define scope for action and ethical constraints._
 

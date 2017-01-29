@@ -11,11 +11,33 @@
 
 # Sociocracy 3.0 - An open framework for evolving agile and resilient organizations 
 
-### Effective collaboration at any scale
+### Effective Collaboration At Any Scale
 
 * **principles-based**: a coherent guide for growing organizational integrity
 * **flexible**: adaptable patterns, independent and mutually reinforcing
 * **free**: licensed under a Creative Commons Free Culture License
+
+---
+
+![inline,fit](img/general/s3-pattern-groups.png)
+
+---
+
+## Influences and History
+
+![inline, fit](img/general/history.png)
+
+---
+
+## Core concepts for understanding S3. 
+
+- patterns
+- the seven principles
+- driver
+- value 
+- waste
+- domain
+
 
 ---
 
@@ -28,17 +50,12 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 ---
 
-## Influences and History
-
-![inline, fit](img/general/history.png)
-
----
-
 ## All Patterns are based on The Seven Principles
 
 ![inline,fit](img/general/s3-principles-plain.png)
 
 ---
+
 
 ## The Seven Principles
 
@@ -125,9 +142,5 @@ Building an organization from domains defined in relation to organizational driv
 
 * accountability applies to all agreements, including the organization itself, circles, and roles
 * everyone's primary accountability is for effective collaboration in response to organizational drivers
-* circles are accountable their work, for their body of agreements and for their own development
+* circles are accountable for their work, their body of agreements and their own development
 * everyone in an organization is accountable for aligning action with organizational values and principles
-
----
-
-![inline,fit](img/general/s3-pattern-groups.png)

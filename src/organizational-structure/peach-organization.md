@@ -1,7 +1,5 @@
 ## Peach Organization
 
-### 
-
 ![right,fit](img/structural-patterns/peach-organization.png)
 
 A pattern for decentralized organizations to deliver value in complex and competitive environments.

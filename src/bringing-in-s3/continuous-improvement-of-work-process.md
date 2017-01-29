@@ -1,4 +1,4 @@
-## Continuous Improvement Of Work Process with S3
+## Continuous Improvement Of Work Process With S3
 
 ### To reveal drivers and establish a metrics-based pull-system for organizational change.
 
@@ -11,7 +11,7 @@
 
 ---
 
-## Waste and Continuous Improvement
+## Waste And Continuous Improvement
 
 ![right,fit](img/workflow-and-value/drivers-value-waste.png)
 

@@ -12,9 +12,11 @@ Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 
 # License
 
-This work by Bernhard Bockelbrink and James Priest is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
+This work by Bernhard Bockelbrink and James Priest is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
+[http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
 
-The latest version of this document is available at <http://sociocracy30.org>
+The latest version of this document is available at 
+<http://sociocracy30.org>
 
 ---
 
