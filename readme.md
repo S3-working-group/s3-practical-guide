@@ -31,6 +31,23 @@ Information in this section is preliminary, and needs further testing.
 * Headline Level 1 is always the only content on the slide (apart from background images)
 * Headline level 2  or more is increased by one for reveal.js
 
+## Translations
+
+Slides are translated in a [dedicated crowdin project](https://crowdin.com/project/sociocracy-30). The repository contains `crowdin.yaml` for use with the [crowdin CLI](https://support.crowdin.com/cli-tool/). 
+
+Uploading sources is handled through this command (remove `--dryrun` to run):
+
+`crowdin --identity ~/crowdin-s3-patterns.yaml --dryrun upload sources`
+
+We can create branches (e.g. to preserve old translations) but at the moment we don't need them:
+
+`crowdin --identity ~/crowdin-s3-patterns.yaml --dryrun upload sources -b {branch name} --dryrun`
+
+The config file can be checked using 
+`crowdin --identity ~/crowdin-s3-patterns.yaml lint`
+
+ These commands assume [crowdin credentials](https://support.crowdin.com/configuration-file/#cli-2) in `~/crowdin-s3-patterns.yaml`
+
 
 ## License 
 

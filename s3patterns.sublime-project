@@ -3,8 +3,7 @@
 	[
 		{
 			"path": ".",
-			"folder_exclude_patterns": ["web", "web-out"]
-
+			"folder_exclude_patterns": ["web", "reveal.js/plugin", "reveal.js/lib", "reveal.js/js"]
 		}
 	]
 }

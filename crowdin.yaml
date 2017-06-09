@@ -1,0 +1,8 @@
+"preserve_hierarchy": true
+
+"files": [
+  {
+    "source": "/src/**/*.md",
+    "translation": "/translations/%two_letters_code%/src/**/%original_file_name%"
+  }
+]
