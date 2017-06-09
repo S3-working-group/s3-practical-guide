@@ -1,6 +1,6 @@
 # Sociocracy 3.0 - All Patterns Explained
 
-This is a slide deck for teaching the patterns in Sociocravy 3.0. The deck is currently built in [Deckset](decksetapp.com), with plans to create a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/).
+This is a slide deck for teaching the patterns in Sociocracy 3.0. The deck is currently built in [Deckset](decksetapp.com), with plans to create a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/).
 
 The deck is available for download as pdf or as an archive with individual pngs for each slide in the [releases section](https://github.com/bboc/s3-patterns/releases)
 
@@ -8,23 +8,21 @@ Translated versions will be available later this year.
 
 ## Build Process
 
-The Markdown-files for the individual patterns are grouped in directories per patterns group and built using a build script. Input format is deckset (for now), i.e. slide separators are "---".
+The Markdown files for the individual patterns are grouped in directories per patterns group and built using a build script. Input format is Deckset (for now), i.e. slide separators are "---".
 
 The image folder is symlinked to all subfolders, so images can easily be added without relative paths.
 
-The build process requires [s3tools](https://github.com/S3-working-group/s3-tools) to compile the individual files into the deckset file `slides.md`, which is then exported to the pdf and png versions. 
+The build process requires [s3tools](https://github.com/S3-working-group/s3-tools) to compile the individual files into the Deckset file `slides.md`, which is then exported to the pdf and png versions. 
 
 ## Future Plans
 
-Since Decset is nice to hack together a quick presentation, but is a bit lacking when it comes to navigating larger presentations, and it's a Mac-Only app, we will move to a more open format in the future. 
+Since Deckset is nice to hack together a quick presentation, but is a bit lacking when it comes to navigating larger presentations, and it's a Mac-Only app, we will move to a more open format in the future. 
 
 There is already a generator for reveal.js, but as of now there's still issues with images, and a few other glitches. Maybe Multimarkdown and Beamer is also an option for the future.
-
 
 [Reveal.js docs](https://github.com/hakimel/reveal.js/blob/master/README.md)
 
 ## Markdown Styleguide
-
 
 Information in this section is preliminary, and needs further testing.
 
