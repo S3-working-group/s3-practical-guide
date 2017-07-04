@@ -1,6 +1,6 @@
 
 # build reveal.js
-s3tools slides s3patterns.yml --reveal --target=reveal.js/slides.html src/
+s3slides build revealjs s3patterns.yml  src/ reveal.js/slides.html 
 
 # build deckset
-s3tools slides s3patterns.yml --deckset --target=slides.md src/
+s3slides build deckset s3patterns.yml src/ slides.md 
