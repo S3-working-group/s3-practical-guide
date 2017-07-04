@@ -4,13 +4,20 @@
 
 .reveal section img {
   border: 0px; 
-  box-shadow: 0 0 0 0;
-  max-height: 600px;
+  xbox-shadow: 0 0 0 0;
+  xmax-height: 600px;
 }
 
-.reveal img.float-right {
+.reveal .float-right {
   float: right; 
   margin: 0px 0px 15px 15px;
-  width: 50%;
+  width: 48%;
+
+}
+
+.reveal div.float-left {
+  float: left; 
+  margin: 0px 0px 15px 15px;
+  width: 48%;
 
 }
