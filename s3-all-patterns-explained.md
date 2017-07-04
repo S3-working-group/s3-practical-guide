@@ -260,7 +260,7 @@ In consent decision making, concerns:
 * are heard if there is time or they are considered important
 * are recorded in the logbook
 
-If people believe a proposal may not be ‘safe enough to try’, they can raise concerns as objections to check with others about likelyhood of harm.
+If people believe a proposal may not be ‘safe enough to try’, they can raise concerns as objections to check with others about likelihood of harm.
 
 
 ---
@@ -292,7 +292,7 @@ If people believe a proposal may not be ‘safe enough to try’, they can raise
 * a decision making process (often facilitated)
 * invite objections, and integrate the wisdom they reveal, to evolve proposals or existing agreements
 * withholding objections can harm the aims of a group or organization
-* unaddressed objections prevent proposals becoming agreements
+* unaddressed objections prevent proposals from becoming agreements
 * "can you *live with it* until the review?" ➤ proposals only need to be *good enough for now and safe enough to try*
 
 ---
@@ -785,7 +785,7 @@ Consider:
 
 Understanding an organization in terms of nested domains to account for - and areas where the people responding have semi-autonomy to decide - facilitates more effective collaboration.
 
-When defining a domain in relation to an organizational driver, consider responsibilities, the resources and skills required, and the constraints to  people's autonomy to account for it, considering necessary collaboration and exchange with other domains. 
+When defining a domain in relation to an organizational driver, consider responsibilities, the resources and skills required, and the constraints to  people's autonomy to account for it, considering {>>TODO: repetition, sentence is too long anyway <<} necessary collaboration and exchange with other domains. 
 
 
 ---
