@@ -1,4 +1,14 @@
-handbook_group_order:
+title: title.md
+end: end.md
+
+introduction:
+  - overview and history
+  - patterns
+  - principles
+  - driver
+  - domain
+
+chapter_order:
   - co-creation and evolution
   - peer development
   - enablers of co-creation
@@ -10,7 +20,7 @@ handbook_group_order:
   - organizing work
   - organizational structure
 
-s3_patterns:
+chapters:
   co-creation and evolution:
     - respond to organizational drivers
     - qualify organizational drivers

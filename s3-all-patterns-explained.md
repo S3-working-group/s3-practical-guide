@@ -1,7 +1,7 @@
 footer: ![] (img/by-sa-sm.png) Bernhard Bockelbrink and James Priest (v2017-01-28) - sociocracy30.org
 slidenumbers: true
 autoscale: true
-theme: Plain Jane, 2
+theme: Plain Jane, 1
 
 # [fit] Sociocracy 3.0
 
@@ -11,6 +11,7 @@ theme: Plain Jane, 2
 
 #### James Priest and Bernhard Bockelbrink
 #### <http://sociocracy30.org>
+
 
 ---
 
@@ -53,6 +54,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 * S3 patterns are discovered through observing many organizations as they solve problems and respond to opportunities
 * S3 patterns can be evolved and adapted to suit differing contexts
 
+
 ---
 
 ## All Patterns are based on The Seven Principles
@@ -81,6 +83,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 **Transparency:** *All information is available to everyone in an organization, unless there is a reason for confidentiality.*
 
 **Accountability:** *Respond when something is needed, do what you agreed to and take ownership for the course of the organization.*
+
 
 ---
 
@@ -115,7 +118,7 @@ The prefixes **primary**, **peer**, **sub-** and **super-**, can refer to both *
 
 ---
 
-### Drivers: Value and Waste ###
+### Drivers: Value and Waste
 
 _**Value:** is the importance, worth or usefulness of something in relation to a driver._
 
@@ -126,6 +129,7 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 * value stream mapping
 * various strategies for eliminating waste
 * the Kanban Method
+
 
 ---
 
