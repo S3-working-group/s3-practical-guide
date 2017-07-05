@@ -3,7 +3,7 @@
  * http://lab.hakim.se/reveal-js
  * MIT licensed
  *
- * Copyright (C) 2016 Hakim El Hattab, http://hakim.se
+ * Copyright (C) 2017 Hakim El Hattab, http://hakim.se
  */
 /*********************************************
  * RESET STYLES
@@ -47,12 +47,6 @@ body {
   background-color: #fff;
   color: #000; }
 
-html:-webkit-full-screen-ancestor {
-  background-color: inherit; }
-
-html:-moz-full-screen-ancestor {
-  background-color: inherit; }
-
 /*********************************************
  * VIEW FRAGMENTS
  *********************************************/
@@ -63,18 +57,18 @@ html:-moz-full-screen-ancestor {
           transition: all .2s ease; }
   .reveal .slides section .fragment.visible {
     opacity: 1;
-    visibility: visible; }
+    visibility: inherit; }
 
 .reveal .slides section .fragment.grow {
   opacity: 1;
-  visibility: visible; }
+  visibility: inherit; }
   .reveal .slides section .fragment.grow.visible {
     -webkit-transform: scale(1.3);
             transform: scale(1.3); }
 
 .reveal .slides section .fragment.shrink {
   opacity: 1;
-  visibility: visible; }
+  visibility: inherit; }
   .reveal .slides section .fragment.shrink.visible {
     -webkit-transform: scale(0.7);
             transform: scale(0.7); }
@@ -88,21 +82,21 @@ html:-moz-full-screen-ancestor {
 
 .reveal .slides section .fragment.fade-out {
   opacity: 1;
-  visibility: visible; }
+  visibility: inherit; }
   .reveal .slides section .fragment.fade-out.visible {
     opacity: 0;
     visibility: hidden; }
 
 .reveal .slides section .fragment.semi-fade-out {
   opacity: 1;
-  visibility: visible; }
+  visibility: inherit; }
   .reveal .slides section .fragment.semi-fade-out.visible {
     opacity: 0.5;
-    visibility: visible; }
+    visibility: inherit; }
 
 .reveal .slides section .fragment.strike {
   opacity: 1;
-  visibility: visible; }
+  visibility: inherit; }
   .reveal .slides section .fragment.strike.visible {
     text-decoration: line-through; }
 
@@ -139,7 +133,7 @@ html:-moz-full-screen-ancestor {
   visibility: hidden; }
   .reveal .slides section .fragment.current-visible.current-fragment {
     opacity: 1;
-    visibility: visible; }
+    visibility: inherit; }
 
 .reveal .slides section .fragment.highlight-red,
 .reveal .slides section .fragment.highlight-current-red,
@@ -148,7 +142,7 @@ html:-moz-full-screen-ancestor {
 .reveal .slides section .fragment.highlight-blue,
 .reveal .slides section .fragment.highlight-current-blue {
   opacity: 1;
-  visibility: visible; }
+  visibility: inherit; }
 
 .reveal .slides section .fragment.highlight-red.visible {
   color: #ff2c2d; }
@@ -329,6 +323,7 @@ html:-moz-full-screen-ancestor {
   bottom: 0;
   left: 0;
   margin: auto;
+  pointer-events: none;
   overflow: visible;
   z-index: 1;
   text-align: center;
@@ -346,9 +341,10 @@ html:-moz-full-screen-ancestor {
   position: absolute;
   width: 100%;
   padding: 20px 0px;
+  pointer-events: auto;
   z-index: 10;
-  -webkit-transform-style: preserve-3d;
-          transform-style: preserve-3d;
+  -webkit-transform-style: flat;
+          transform-style: flat;
   -webkit-transition: -webkit-transform-origin 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), -webkit-transform 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), visibility 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), opacity 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
           transition: transform-origin 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), transform 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), visibility 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985), opacity 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
 
@@ -379,6 +375,12 @@ html:-moz-full-screen-ancestor {
   display: block;
   z-index: 11;
   opacity: 1; }
+
+.reveal .slides > section:empty,
+.reveal .slides > section > section:empty,
+.reveal .slides > section[data-background-interactive],
+.reveal .slides > section > section[data-background-interactive] {
+  pointer-events: none; }
 
 .reveal.center,
 .reveal.center .slides,
@@ -469,6 +471,11 @@ html:-moz-full-screen-ancestor {
  * CONVEX TRANSITION
  * Aliased 'default' for backwards compatibility
  *********************************************/
+.reveal .slides section[data-transition=default].stack,
+.reveal.default .slides section.stack {
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d; }
+
 .reveal .slides > section[data-transition=default].past,
 .reveal .slides > section[data-transition~=default-out].past,
 .reveal.default .slides > section:not([data-transition]).past {
@@ -492,6 +499,11 @@ html:-moz-full-screen-ancestor {
 .reveal.default .slides > section > section:not([data-transition]).future {
   -webkit-transform: translate3d(0, 300px, 0) rotateX(-70deg) translate3d(0, 300px, 0);
           transform: translate3d(0, 300px, 0) rotateX(-70deg) translate3d(0, 300px, 0); }
+
+.reveal .slides section[data-transition=convex].stack,
+.reveal.convex .slides section.stack {
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d; }
 
 .reveal .slides > section[data-transition=convex].past,
 .reveal .slides > section[data-transition~=convex-out].past,
@@ -520,6 +532,11 @@ html:-moz-full-screen-ancestor {
 /*********************************************
  * CONCAVE TRANSITION
  *********************************************/
+.reveal .slides section[data-transition=concave].stack,
+.reveal.concave .slides section.stack {
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d; }
+
 .reveal .slides > section[data-transition=concave].past,
 .reveal .slides > section[data-transition~=concave-out].past,
 .reveal.concave .slides > section:not([data-transition]).past {
@@ -580,6 +597,10 @@ html:-moz-full-screen-ancestor {
 
 /*********************************************
  * CUBE TRANSITION
+ *
+ * WARNING:
+ * this is deprecated and will be removed in a
+ * future version.
  *********************************************/
 .reveal.cube .slides {
   -webkit-perspective: 1300px;
@@ -590,7 +611,9 @@ html:-moz-full-screen-ancestor {
   min-height: 700px;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d; }
 
 .reveal.center.cube .slides section {
   min-height: 0; }
@@ -653,6 +676,10 @@ html:-moz-full-screen-ancestor {
 
 /*********************************************
  * PAGE TRANSITION
+ *
+ * WARNING:
+ * this is deprecated and will be removed in a
+ * future version.
  *********************************************/
 .reveal.page .slides {
   -webkit-perspective-origin: 0% 50%;
@@ -663,7 +690,9 @@ html:-moz-full-screen-ancestor {
 .reveal.page .slides section {
   padding: 30px;
   min-height: 700px;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d; }
 
 .reveal.page .slides section.past {
   z-index: 12; }
@@ -826,6 +855,7 @@ html:-moz-full-screen-ancestor {
   height: 100%;
   opacity: 0;
   visibility: hidden;
+  overflow: hidden;
   background-color: transparent;
   background-position: 50% 50%;
   background-repeat: no-repeat;
@@ -838,7 +868,8 @@ html:-moz-full-screen-ancestor {
 
 .reveal .slide-background.present {
   opacity: 1;
-  visibility: visible; }
+  visibility: visible;
+  z-index: 2; }
 
 .print-pdf .reveal .slide-background {
   opacity: 1 !important;
@@ -852,7 +883,13 @@ html:-moz-full-screen-ancestor {
   max-width: none;
   max-height: none;
   top: 0;
-  left: 0; }
+  left: 0;
+  -o-object-fit: cover;
+     object-fit: cover; }
+
+.reveal .slide-background[data-background-size="contain"] video {
+  -o-object-fit: contain;
+     object-fit: contain; }
 
 /* Immediate transition style */
 .reveal[data-background-transition=none] > .backgrounds .slide-background,
@@ -988,6 +1025,8 @@ html:-moz-full-screen-ancestor {
           perspective-origin: 50% 50%;
   -webkit-perspective: 700px;
           perspective: 700px; }
+  .reveal.overview .slides {
+    -moz-transform-style: preserve-3d; }
   .reveal.overview .slides section {
     height: 100%;
     top: 0 !important;
@@ -1015,12 +1054,15 @@ html:-moz-full-screen-ancestor {
     overflow: visible; }
   .reveal.overview .backgrounds {
     -webkit-perspective: inherit;
-            perspective: inherit; }
+            perspective: inherit;
+    -moz-transform-style: preserve-3d; }
   .reveal.overview .backgrounds .slide-background {
     opacity: 1;
     visibility: visible;
     outline: 10px solid rgba(150, 150, 150, 0.1);
     outline-offset: 10px; }
+  .reveal.overview .backgrounds .slide-background.stack {
+    overflow: visible; }
 
 .reveal.overview .slides section,
 .reveal.overview-deactivating .slides section {
@@ -1031,10 +1073,6 @@ html:-moz-full-screen-ancestor {
 .reveal.overview-deactivating .backgrounds .slide-background {
   -webkit-transition: none;
           transition: none; }
-
-.reveal.overview-animated .slides {
-  -webkit-transition: -webkit-transform 0.4s ease;
-          transition: transform 0.4s ease; }
 
 /*********************************************
  * RTL SUPPORT
@@ -1124,6 +1162,7 @@ html:-moz-full-screen-ancestor {
   display: inline-block;
   width: 40px;
   height: 40px;
+  line-height: 36px;
   padding: 0 10px;
   float: right;
   opacity: 0.6;
@@ -1171,6 +1210,23 @@ html:-moz-full-screen-ancestor {
 .reveal .overlay.overlay-preview.loaded .viewport iframe {
   opacity: 1;
   visibility: visible; }
+
+.reveal .overlay.overlay-preview.loaded .viewport-inner {
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  top: 45%;
+  width: 100%;
+  text-align: center;
+  letter-spacing: normal; }
+
+.reveal .overlay.overlay-preview .x-frame-error {
+  opacity: 0;
+  -webkit-transition: opacity 0.3s ease 0.3s;
+          transition: opacity 0.3s ease 0.3s; }
+
+.reveal .overlay.overlay-preview.loaded .x-frame-error {
+  opacity: 1; }
 
 .reveal .overlay.overlay-preview.loaded .spinner {
   opacity: 0;
