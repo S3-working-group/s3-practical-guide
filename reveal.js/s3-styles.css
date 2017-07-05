@@ -4,8 +4,8 @@
 
 .reveal section img {
   border: 0px; 
-  xbox-shadow: 0 0 0 0;
-  xmax-height: 600px;
+  box-shadow: 0 0 0 0;
+  max-height: 600px;
 }
 
 .reveal .float-right {
