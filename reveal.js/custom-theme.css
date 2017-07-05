@@ -3,7 +3,8 @@
  *
  * By Hakim El Hattab, http://hakim.se
  */
-@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto:100');
 section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
   color: #fff; }
 
@@ -15,9 +16,9 @@ body {
   background-color: #fff; }
 
 .reveal {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-size: 42px;
-  font-weight: normal;
+  font-family: "Open Sans script=all rev=2", sans-serif;
+  font-size: 30px;
+  font-weight: 100;
   color: #222; }
 
 ::selection {
@@ -46,25 +47,25 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #222;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: "Roboto", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
-  text-transform: uppercase;
+  text-transform: none;
   text-shadow: none;
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 2.0em; }
 
 .reveal h2 {
   font-size: 1.6em; }
 
 .reveal h3 {
-  font-size: 1.3em; }
+  font-size: 1em; }
 
 .reveal h4 {
-  font-size: 1em; }
+  font-size: 0.8em; }
 
 .reveal h1 {
   text-shadow: none; }
@@ -85,7 +86,7 @@ body {
 
 .reveal strong,
 .reveal b {
-  font-weight: bold; }
+  font-weight: 500; }
 
 .reveal em {
   font-style: italic; }

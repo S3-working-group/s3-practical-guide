@@ -1,6 +1,6 @@
 # Sociocracy 3.0 - All Patterns Explained
 
-This is a slide deck for teaching the patterns in Sociocracy 3.0. The deck is currently built in [Deckset](decksetapp.com), with plans to create a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/).
+This is a slide deck for teaching the patterns in Sociocracy 3.0. The deck is currently built in [Deckset](decksetapp.com), and a preliminary html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/).
 
 The deck is available for download as pdf or as an archive with individual pngs for each slide in the [releases section](https://github.com/bboc/s3-patterns/releases)
 
@@ -18,7 +18,7 @@ The build process requires [s3tools](https://github.com/S3-working-group/s3-tool
 
 Since Deckset is nice to hack together a quick presentation, but is a bit lacking when it comes to navigating larger presentations, and it's a Mac-Only app, we will move to a more open format in the future. 
 
-There is already a generator for reveal.js, but as of now there's still issues with images, and a few other glitches. Maybe Multimarkdown and Beamer is also an option for the future.
+There is already a generator for reveal.js, but as of now there's still a few small glitches. Maybe Multimarkdown and Beamer is also an option for the future.
 
 [Reveal.js docs](https://github.com/hakimel/reveal.js/blob/master/README.md)
 
@@ -30,6 +30,12 @@ Information in this section is preliminary, and needs further testing.
 * single images on slides: [inline,fit]
 * Headline Level 1 is always the only content on the slide (apart from background images)
 * Headline level 2  or more is increased by one for reveal.js
+
+## Updating reveal.js
+
+Download zip from the [official repo](https://github.com/hakimel/reveal.js) and copy files over to `reveal.js`. Diff `templates/revealjs-template.html` with `demo.html` to see if there are some changes to the basic html structure.
+
+Keep `custom-styles.css` and `custom-theme.css` (derived from `css/theme/white.css`.
 
 ## Translations
 
@@ -53,7 +59,8 @@ The config file can be checked using
 
 [![](http://creativecommons.org/images/deed/seal.png)](http://creativecommons.org/freeworks)
 
-This slide deck is created by Bernhard Bockelbrink and James Priest, using illustrations from the [S3-Illustrations Repository](https://github.com/S3-working-group/s3-illustrations).
+This slide deck is created by Bernhard Bockelbrink and James Priest, using illustrations from the [S3-Illustrations Repository](https://github.com/S3-working-group/s3-illustrations) and [reveal.js](https://github.com/hakimel/reveal.js) by Hakim El Hattab.
+
 
 _Sociocracy 3.0 - All Patterns Explained_ is licensed to you under a **Creative Commons Free Culture License**. The exact license can be viewed [here](http://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -65,3 +72,4 @@ Basically this license grants you
 4. Freedom to make and share remixes and other derivatives for any purpose. 
 
 You need to attribute the original creator of the materials, and all derivatives need to be shared under the same license. There's more on the topic of free culture on the [Creative Commons website.](http://creativecommons.org/freeworks)
+
