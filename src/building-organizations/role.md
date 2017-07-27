@@ -1,6 +1,6 @@
 ## Role
 
-![right,fit](img/people-and-roles/roles.png)
+![right,fit](img/illustrations/roles.png)
 
 _A **role** is a set of constraints for how an individual can account for a domain._
 
@@ -15,4 +15,4 @@ People selected into roles are autonomous to decide and act within these constra
 
 ## Role: one way to account for a domain
 
-![inline,fit](img/people-and-roles/driver-role-selection-development.png)
+![inline,fit](img/evolution/driver-role-selection-development.png)

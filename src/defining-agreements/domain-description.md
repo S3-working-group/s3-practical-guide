@@ -1,6 +1,6 @@
 ## Domain Description 
 
-![right,fit](img/people-and-roles/domain-description-template.png)
+![right,fit](img/templates/domain-description-template.png)
 
 A domain description is used as a circle, open location and role description too. It contains:
 

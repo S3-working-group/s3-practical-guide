@@ -8,13 +8,13 @@
 
 ---
 
-![inline,fit](img/general/s3-pattern-groups.png)
+![inline,fit](img/framework/s3-pattern-groups.png)
 
 ---
 
 ## Influences and History
 
-![inline, fit](img/general/history.png)
+![inline, fit](img/context/history.png)
 
 ---
 

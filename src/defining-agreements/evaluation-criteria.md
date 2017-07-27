@@ -1,6 +1,6 @@
 ## Evaluation Criteria
 
-![right,fit](img/agreements/outcome-and-criteria.png)
+![right,fit](img/templates/outcome-and-criteria.png)
 
 Defining evaluation criteria can help to understand whether or not an agreement has the desired effect. 
 

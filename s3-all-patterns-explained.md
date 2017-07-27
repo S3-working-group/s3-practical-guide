@@ -5,7 +5,7 @@ theme: Plain Jane, 1
 
 # [fit] Sociocracy 3.0
 
-![fit](img/general/logo.png)
+![fit](img/framework/logo.png)
 
 # All Patterns Explained
 
@@ -25,13 +25,13 @@ theme: Plain Jane, 1
 
 ---
 
-![inline,fit](img/general/s3-pattern-groups.png)
+![inline,fit](img/framework/s3-pattern-groups.png)
 
 ---
 
 ## Influences and History
 
-![inline, fit](img/general/history.png)
+![inline, fit](img/context/history.png)
 
 ---
 
@@ -59,7 +59,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 ## All Patterns are based on The Seven Principles
 
-![inline,fit](img/general/s3-principles-plain.png)
+![inline,fit](img/framework/s3-principles-plain.png)
 
 ---
 
@@ -135,7 +135,7 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 
 ## Domain
 
-![right,fit](img/tension-driver-domain/driver-response-full.png)
+![right,fit](img/driver-domain/driver-response-full.png)
 
 _A **domain** is the set of subdrivers an organization may benefit from addressing when responding to a driver._
 
@@ -147,7 +147,7 @@ Building an organization from domains defined in relation to organizational driv
 
 ## Domains and Accountability
 
-![right,fit](img/tension-driver-domain/nested-domains.png)
+![right,fit](img/driver-domain/nested-domains.png)
 
 * accountability applies to all agreements, including the organization itself, circles, and roles
 * everyone's primary accountability is for effective collaboration in response to organizational drivers
@@ -166,7 +166,7 @@ Building an organization from domains defined in relation to organizational driv
 
 ## Pattern 1.1: Respond to Organizational Drivers
 
-![right,fit](img/experiments/kaizen.png)
+![right,fit](img/evolution/kaizen.png)
 
 _Clarify what's happening and what's needed in relation to the organization, and respond as required._
 
@@ -332,7 +332,7 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ## Navigate Via Tension (cont.)
 
-![inline,fit](img/tension-driver-domain/navigate-via-tension-slides.png)
+![inline,fit](img/process/navigate-via-tension-slides.png)
 
 
 
@@ -365,7 +365,7 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 ## Template for Proposals 
 
 
-![right,fit](img/agreements/proposal-template.png)
+![right,fit](img/templates/proposal-template.png)
 
 
 ---
@@ -386,7 +386,7 @@ Treat review and evolution of decisions accordingly.
 
 ## Pattern 1.9: Role Selection
 
-![right,fit](img/people-and-roles/selection.png)
+![right,fit](img/agreements/selection.png)
 
 ### A pattern for selecting people for roles.
 
@@ -412,13 +412,13 @@ A workshop format to identify an effective response to a complex situation: orga
 ## Driver Mapping (cont.)
 
 
-![inline,fit](img/tension-driver-domain/driver-mapping-print.png)
+![inline,fit](img/facilitation-guides/driver-mapping-print.png)
 
 ---
 
 ## Driver Mapping: Template for Domains 
 
-![inline,fit](img/tension-driver-domain/domain-template.png)
+![inline,fit](img/templates/domain-template.png)
 
 ---
 
@@ -464,7 +464,7 @@ Considerations:
 
 ## Pattern 2.3: Effectiveness Review
 
-![right,fit](img/people-and-roles/effectiveness-review.png)
+![right,fit](img/process/effectiveness-review.png)
 
 People support each other to learn and grow in the roles, teams and circles  they serve.
 
@@ -481,7 +481,7 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 ### Continuous improvement of people's ability to effectively fulfill roles or collaborate together in groups (or teams and circles)
 
-![inline,fit](img/people-and-roles/development-process.png)
+![inline,fit](img/evolution/development-process.png)
 
 
 
@@ -510,7 +510,7 @@ Acting on development plans is an integral part of the strategy of people in rol
 
 ## Template for Development Plan
 
-![inline,fit](img/people-and-roles/development-plan-template.png)
+![inline,fit](img/templates/development-plan-template.png)
 
 
 ---
@@ -524,7 +524,7 @@ Acting on development plans is an integral part of the strategy of people in rol
 
 ## Pattern 3.1: Artful Participation
 
-![right,fit](img/agreements/artful-participation.png)
+![right,fit](img/collaboration-values/artful-participation.png)
 
 A commitment to developing helpful interactions and effective collaboration. 
 
@@ -538,7 +538,7 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 ---
 
-![right,fit](img/people-and-roles/autonomy-collaboration.png)
+![right,fit](img/illustrations/balance-autonomy-collaboration.png)
 
 ## Artful participation (cont.)
 
@@ -569,7 +569,7 @@ An **individual commitment** to:
 
 ## Pattern 3.2: Adopt The Seven Principles
 
-![inline,fit](img/general/s3-principles-plain.png)
+![inline,fit](img/framework/s3-principles-plain.png)
 
 ---
 
@@ -741,7 +741,7 @@ To preserve organizational culture, maintain self-accountability and help new me
 
 ## Two Ways of Opening Salaries
 
-![inline,fit](img/people-and-roles/opening-salaries.png)
+![inline,fit](img/process/opening-salaries.png)
 
 
 ---
@@ -785,7 +785,7 @@ Consider:
 
 ## Pattern 4.1: Nested Domains
 
-![right,fit](img/tension-driver-domain/nested-domains.png)
+![right,fit](img/driver-domain/nested-domains.png)
 
 Understanding an organization in terms of nested domains to account for - and areas where the people responding have semi-autonomy to decide - facilitates more effective collaboration.
 
@@ -820,7 +820,7 @@ A circle:
 
 ## Pattern 4.3: Role
 
-![right,fit](img/people-and-roles/roles.png)
+![right,fit](img/illustrations/roles.png)
 
 _A **role** is a set of constraints for how an individual can account for a domain._
 
@@ -835,7 +835,7 @@ People selected into roles are autonomous to decide and act within these constra
 
 ## Role: one way to account for a domain
 
-![inline,fit](img/people-and-roles/driver-role-selection-development.png)
+![inline,fit](img/evolution/driver-role-selection-development.png)
 
 
 ---
@@ -888,7 +888,7 @@ Representatives (a.k.a. links):
 
 ## Pattern 5.1: Adapt Patterns To Context
 
-![right,fit](img/agreements/adapt-pattern-to-context.png)
+![right,fit](img/process/adapt-pattern-to-context.png)
 
 * adapting and evolving S3 patterns is a hypothesis-driven process
 * ensure everyone affected by adaptation:
@@ -985,20 +985,20 @@ A way for individuals to initiate and facilitate change.
 
 ## S3 promotes a hypothesis-driven approach to decision making
 
-![inline,fit](img/experiments/experiments.png)
+![inline,fit](img/evolution/experiments.png)
 
 ---
 
 ## Agreement Life-Cycle
 
-![inline,fit](img/agreements/agreement-lifecycle-long.png)
+![inline,fit](img/evolution/agreement-lifecycle-long.png)
 
 
 ---
 
 ## Pattern 6.1: Agreement
 
-![right,fit](img/tension-driver-domain/driver-agreement-improvement.png)
+![right,fit](img/evolution/driver-agreement-improvement.png)
 
 _An **agreement** is an agreed upon guideline, process or protocol designed to guide the flow of value._
 
@@ -1010,7 +1010,7 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 
 ## Template for Agreements
 
-![inline,fit](img/agreements/agreement-template.png)
+![inline,fit](img/templates/agreement-template.png)
 
 
 
@@ -1018,7 +1018,7 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 
 ## Pattern 6.2: Strategy
 
-![right,fit](img/tension-driver-domain/driver-strategy-agreements-domain.png)
+![right,fit](img/driver-domain/driver-strategy-agreements-domain.png)
 
 _A **strategy** is a high level approach towards creating value within a domain._
 
@@ -1033,14 +1033,14 @@ _A **strategy** is a high level approach towards creating value within a domain.
 
 ### Strategies are implemented and refined through experimentation and learning. 
 
-![right,fit](img/tension-driver-domain/domain-driver-strategy-exeriments.png)
+![right,fit](img/evolution/domain-driver-strategy-exeriments.png)
 
 
 ---
 
 ## Pattern 6.3: Domain Description 
 
-![right,fit](img/people-and-roles/domain-description-template.png)
+![right,fit](img/templates/domain-description-template.png)
 
 A domain description is used as a circle, open location and role description too. It contains:
 
@@ -1057,7 +1057,7 @@ A domain description is used as a circle, open location and role description too
 
 ## Pattern 6.4: Intended Outcome
 
-![right,fit](img/agreements/outcome-and-criteria.png)
+![right,fit](img/templates/outcome-and-criteria.png)
 
 * a concise description of the expected result of an agreement, action, project or strategy
 * specific *Evaluation Criteria* and metrics can be helpful for reviewing the actual outcome
@@ -1091,7 +1091,7 @@ Explicitly defining deliverables can be useful for improving:
 
 ## Pattern 6.6: Evaluation Criteria
 
-![right,fit](img/agreements/outcome-and-criteria.png)
+![right,fit](img/templates/outcome-and-criteria.png)
 
 Defining evaluation criteria can help to understand whether or not an agreement has the desired effect. 
 
@@ -1580,7 +1580,7 @@ Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 
 ## Pattern 10.1: Helping Team
 
-![right,fit](img/structural-patterns/helping-circle.png)
+![right,fit](img/structural-patterns/helping-team.png)
 
 A group of people with the mandate to execute on requirements defined by a circle in response to a driver.
 
@@ -1712,7 +1712,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ## Links
 
-![fit](img/general/logo.png)
+![fit](img/framework/logo.png)
 
 **S3 website**: [http://sociocracy30.org](http://sociocracy30.org)
 
@@ -1720,7 +1720,7 @@ Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 
 ---
 
-![fit](img/general/logo.png)
+![fit](img/framework/logo.png)
 
 # License
 
@@ -1732,7 +1732,7 @@ The latest version of this document is available at
 
 ---
 
-![fit](img/general/logo.png)
+![fit](img/framework/logo.png)
 
 **James Priest** serves internationally, providing organizational development consultancy, learning facilitation, mentoring and conflict resolution for people wishing to evolve collaborative, adaptive organizations at scale.
 

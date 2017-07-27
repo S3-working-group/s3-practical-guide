@@ -1,6 +1,6 @@
 ## Links
 
-![fit](img/general/logo.png)
+![fit](img/framework/logo.png)
 
 **S3 website**: [http://sociocracy30.org](http://sociocracy30.org)
 
@@ -8,7 +8,7 @@ Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 
 ---
 
-![fit](img/general/logo.png)
+![fit](img/framework/logo.png)
 
 # License
 
@@ -20,7 +20,7 @@ The latest version of this document is available at
 
 ---
 
-![fit](img/general/logo.png)
+![fit](img/framework/logo.png)
 
 **James Priest** serves internationally, providing organizational development consultancy, learning facilitation, mentoring and conflict resolution for people wishing to evolve collaborative, adaptive organizations at scale.
 

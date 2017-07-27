@@ -1,6 +1,6 @@
 ## Respond to Organizational Drivers
 
-![right,fit](img/experiments/kaizen.png)
+![right,fit](img/evolution/kaizen.png)
 
 _Clarify what's happening and what's needed in relation to the organization, and respond as required._
 

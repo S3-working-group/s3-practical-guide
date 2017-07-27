@@ -1,6 +1,6 @@
 ## Effectiveness Review
 
-![right,fit](img/people-and-roles/effectiveness-review.png)
+![right,fit](img/process/effectiveness-review.png)
 
 People support each other to learn and grow in the roles, teams and circles  they serve.
 
@@ -17,7 +17,7 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 ### Continuous improvement of people's ability to effectively fulfill roles or collaborate together in groups (or teams and circles)
 
-![inline,fit](img/people-and-roles/development-process.png)
+![inline,fit](img/evolution/development-process.png)
 
 
 

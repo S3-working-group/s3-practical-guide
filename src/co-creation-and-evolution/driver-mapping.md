@@ -10,10 +10,10 @@ A workshop format to identify an effective response to a complex situation: orga
 ## Driver Mapping (cont.)
 
 
-![inline,fit](img/tension-driver-domain/driver-mapping-print.png)
+![inline,fit](img/facilitation-guides/driver-mapping-print.png)
 
 ---
 
 ## Driver Mapping: Template for Domains 
 
-![inline,fit](img/tension-driver-domain/domain-template.png)
+![inline,fit](img/templates/domain-template.png)

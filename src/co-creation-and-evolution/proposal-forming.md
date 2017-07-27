@@ -25,4 +25,4 @@
 ## Template for Proposals 
 
 
-![right,fit](img/agreements/proposal-template.png)
+![right,fit](img/templates/proposal-template.png)

@@ -1,6 +1,6 @@
 ## Artful Participation
 
-![right,fit](img/agreements/artful-participation.png)
+![right,fit](img/collaboration-values/artful-participation.png)
 
 A commitment to developing helpful interactions and effective collaboration. 
 
@@ -14,7 +14,7 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 ---
 
-![right,fit](img/people-and-roles/autonomy-collaboration.png)
+![right,fit](img/illustrations/balance-autonomy-collaboration.png)
 
 ## Artful participation (cont.)
 

@@ -16,4 +16,4 @@ Acting on development plans is an integral part of the strategy of people in rol
 
 ## Template for Development Plan
 
-![inline,fit](img/people-and-roles/development-plan-template.png)
+![inline,fit](img/templates/development-plan-template.png)

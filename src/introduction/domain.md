@@ -1,6 +1,6 @@
 ## Domain
 
-![right,fit](img/tension-driver-domain/driver-response-full.png)
+![right,fit](img/driver-domain/driver-response-full.png)
 
 _A **domain** is the set of subdrivers an organization may benefit from addressing when responding to a driver._
 
@@ -12,7 +12,7 @@ Building an organization from domains defined in relation to organizational driv
 
 ## Domains and Accountability
 
-![right,fit](img/tension-driver-domain/nested-domains.png)
+![right,fit](img/driver-domain/nested-domains.png)
 
 * accountability applies to all agreements, including the organization itself, circles, and roles
 * everyone's primary accountability is for effective collaboration in response to organizational drivers
