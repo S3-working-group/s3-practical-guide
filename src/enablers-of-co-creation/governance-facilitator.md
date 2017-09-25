@@ -20,7 +20,6 @@ When using S3 for governance, the facilitator familiarizes themselves with the f
 * proposal forming
 * consent decision making
 * role selection
-* meeting evaluation
-* evaluating meetings
-* resolving objections
+* evaluate meetings
+* resolve objections
 * effectiveness reviews
