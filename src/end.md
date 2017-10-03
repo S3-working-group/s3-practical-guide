@@ -1,18 +1,36 @@
 # Appendix
 
+
+* Changelog
+* Links
+* License
+* Authors
+* Pattern Index
+
 ---
 
-## Changelog
+# Changelog
 
-## 2017-10-03
+2017-10-03
 
-- renamed "backbone organization" to "service organization"
-- renamed "effectiveness review" to "peer review"
-- added Liliana David to authors
-- clarfied objections
-- added pattern "open domain"
-- clarified domains and domain descriptions
+- renamed pattern _Backbone Organization_ to _Service Organization_
+- renamed pattern _Effectiveness Review_ to _Peer Review_
+- clarifed qualifying objections
+- added pattern _Open Domain_
+- clarified domains and their relationship to drivers
+
+---
+ 
+# Changelog
+
+2017-10-03 (cont.)
+
+- added Liliana David as authors
 - corrected typos
+- introduced the term "role keeper" for a person in a role
+- updated pattern _Domain Description_
+- lots of updates to illustrations
+- added an index of all the patterns
 
 ---
 
