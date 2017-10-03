@@ -1,6 +1,6 @@
 ## Peer Review
 
-![right,fit](img/process/effectiveness-review.png)
+![right,fit](img/process/peer-review.png)
 
 People support each other to learn and grow in the roles, teams and circles  they serve.
 
