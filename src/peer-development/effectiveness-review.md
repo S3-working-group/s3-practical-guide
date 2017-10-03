@@ -1,4 +1,4 @@
-## Effectiveness Review
+## Peer Review
 
 ![right,fit](img/process/effectiveness-review.png)
 
@@ -12,7 +12,7 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 ---
 
-## Effectiveness Review (cont.)
+## Peer Review (cont.)
 
 
 ### Continuous improvement of people's ability to effectively fulfill roles or collaborate together in groups (or teams and circles)

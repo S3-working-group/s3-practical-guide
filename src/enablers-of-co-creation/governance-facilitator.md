@@ -22,4 +22,4 @@ When using S3 for governance, the facilitator familiarizes themselves with the f
 * role selection
 * evaluate meetings
 * resolve objections
-* effectiveness reviews
+* peer reviews
