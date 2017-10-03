@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) Bernhard Bockelbrink and James Priest (v2017-01-28) - sociocracy30.org
+footer: ![] (img/by-sa-sm.png) Bernhard Bockelbrink, James Priest, Liliana David (v2017-10-03) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
