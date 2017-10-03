@@ -12,7 +12,7 @@ Objections contain information that reveals:
 ---
 
 
-# Qualifying Objections
+# Qualify Objections
 
 _How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?_
 
@@ -33,6 +33,20 @@ It's the accountability of individuals to raise objections. Those accountable fo
 Withholding objections can harm the ability of individuals, groups or the whole organization to respond to organizational drivers.
 
 Being able to raise objections at any time means decisions only need to be *good enough for now and safe enough to try*.
+
+---
+
+## Qualify Objections (cont.)
+
+It's the accountability of individuals to raise potential objections. 
+
+Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing qualified objections.*
+
+Withholding objections can harm the ability of individuals, groups or
+the whole organization to respond to organizational drivers.
+
+Being able to raise *potential* objections at any time means decisions only need **to be good enough for now and safe enough to try**.
+
 
 ---
 
