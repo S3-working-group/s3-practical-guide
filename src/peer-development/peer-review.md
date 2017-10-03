@@ -4,7 +4,7 @@
 
 People support each other to learn and grow in the roles, teams and circles  they serve.
 
-The individual holding the role - or the team or circle - initiates the process and speaks first in each step.
+The role keeper - or the team or circle - initiates the process and speaks first in each step.
 
 Invite people with complementing perspectives to contribute to the review, and a facilitator.
 
