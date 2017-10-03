@@ -1,3 +1,21 @@
+# Appendix
+
+---
+
+## Changelog
+
+## 2017-10-03
+
+- renamed "backbone organization" to "service organization"
+- renamed "effectiveness review" to "peer review"
+- added Liliana David to authors
+- clarfied objections
+- added pattern "open domain"
+- clarified domains and domain descriptions
+- corrected typos
+
+---
+
 ## Links
 
 ![fit](img/framework/logo.png)
@@ -20,12 +38,35 @@ The latest version of this document is available at
 
 ---
 
-![fit](img/framework/logo.png)
+![right,fit](img/james-round.png)
 
-**James Priest** serves internationally, providing organizational development consultancy, learning facilitation, mentoring and conflict resolution for people wishing to evolve collaborative, adaptive organizations at scale.
+# James Priest
+... serves internationally, providing organizational development consultancy, learning facilitation, mentoring and conflict resolution for people wishing to evolve collaborative, adaptive organizations at scale.
 
-[thriveincollaboration.com](http://thriveincollaboration.com)  -- [james@thriveincollaboration.com](mailto:james@thriveincollaboration.com)
+[thriveincollaboration.com](http://thriveincollaboration.com)
 
-**Bernhard Bockelbrink** is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
+[james@thriveincollaboration.com](mailto:james@thriveincollaboration.com)
 
-[evolvingcollaboration.com](http://evolvingcollaboration.com) -- [bernhard.bockelbrink@gmail.com](mailto:bernhard.bockelbrink@gmail.com)
+---
+
+![right,fit](img/bernhard-round.png)
+
+# Bernhard Bockelbrink 
+
+... is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
+
+[evolvingcollaboration.com](http://evolvingcollaboration.com)
+
+[bernhard.bockelbrink@gmail.com](mailto:bernhard.bockelbrink@gmail.com)
+
+---
+
+![right,fit](img/lili-round-transparent.png)
+
+# Liliana David
+
+... serves internationally, providing training, facilitation and mentoring to groups and organizations wishing to develop greater effectiveness and equivalence in collaboration.
+
+[thriveincollaboration.com](http://thriveincollaboration.com)
+
+[lili@thriveincollaboration.com](mailto:lili@thriveincollaboration.com)
