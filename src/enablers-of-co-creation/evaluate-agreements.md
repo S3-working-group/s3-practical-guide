@@ -10,7 +10,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 *Is the agreement still good enough for now and safe enough to continue?*
 
-*Is there a reason why **not*** to continue with this agreement?*
+*Is there a reason why **not** to continue with this agreement?*
 
 ---
 
