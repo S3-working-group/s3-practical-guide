@@ -25,17 +25,6 @@ Objections stop:
 
 ---
 
-
-## Objection (cont.)
-
-It's the accountability of individuals to raise objections. Those accountable for the action or (proposed) agreement they relate to, are responsible for addressing them.
-
-Withholding objections can harm the ability of individuals, groups or the whole organization to respond to organizational drivers.
-
-Being able to raise objections at any time means decisions only need to be *good enough for now and safe enough to try*.
-
----
-
 ## Qualify Objections (cont.)
 
 It's the accountability of individuals to raise potential objections. 
@@ -45,12 +34,12 @@ Those accountable for the action or (proposed) agreement in question, are respon
 Withholding objections can harm the ability of individuals, groups or
 the whole organization to respond to organizational drivers.
 
-Being able to raise *potential* objections at any time means decisions only need **to be good enough for now and safe enough to try**.
+Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
 
 
 ---
 
-## Understanding Objections ##
+## Understanding Objections
 
 ## Some Helpful Questions
 
