@@ -12,7 +12,7 @@ Domains are delegated to people (e.g. a unit, department, team or individuals), 
 
 ## Delegating Domains
 
-Those delegating a domain still retain overall accountability for that domain, and often define:
+Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
 
 * **key responsibilities** (specifics of the work and decision making being delegated)
 * **constraints to autonomy and influence** for those the domain is delegated to, usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
@@ -32,10 +32,9 @@ A domain can be defined in relation to an organizational driver - known as the d
 A domain’s subdrivers include both:
 
 * key responsibilities that **follow directly** from its primary driver
-* constraints to autonomy and influence relating to the **organisations wider context**.
+* constraints to autonomy and influence relating to the **organization's wider context**.
 
-Some subdrivers may be explicitly stated as essential (necessary to attend to) by those delegating the domain. These are called **key subdrivers**.
-
+Some subdrivers may be explicitly stated as essential (necessary to attend to) by the delegator. These are called **key subdrivers**.
 
 ---
 
