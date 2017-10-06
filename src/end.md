@@ -15,9 +15,10 @@
 
 - renamed pattern _Backbone Organization_ to _Service Organization_
 - renamed pattern _Effectiveness Review_ to _Peer Review_
-- clarifed qualifying objections
+- clarified qualifying objections
 - added pattern _Open Domain_
 - clarified domains and their relationship to drivers
+- updated development plan
 
 ---
  
@@ -25,7 +26,7 @@
 
 2017-10-03 (cont.)
 
-- added Liliana David as authors
+- added Liliana David to authors
 - corrected typos
 - introduced the term "role keeper" for a person in a role
 - updated pattern _Domain Description_
@@ -48,7 +49,7 @@ Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 
 # License
 
-This work by Bernhard Bockelbrink and James Priest is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
+This work by Bernhard Bockelbrink, James Priest and Liliana David is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
 [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
 
 The latest version of this document is available at 
