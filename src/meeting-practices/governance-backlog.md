@@ -6,5 +6,5 @@ A governance backlog is a visible, prioritized list of items (drivers) that requ
 * proposals to create and consider
 * agreements for review
 * selecting people for roles
-* upcoming effectiveness reviews
+
 

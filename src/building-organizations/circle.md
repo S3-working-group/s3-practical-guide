@@ -7,7 +7,7 @@ _A **circle** is a semi-autonomous, self-governing, and self-organizing group of
 A circle:
 
 * may be permanent or temporary
-* is accountable for its own development
+* is accountable for its own development and its body of agreements and
 
 ---
 

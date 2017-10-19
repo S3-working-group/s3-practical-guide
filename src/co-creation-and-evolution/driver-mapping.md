@@ -10,7 +10,7 @@ A workshop format to identify an effective response to a complex situation: orga
 ## Driver Mapping (cont.)
 
 
-![inline,fit](img/facilitation-guides/driver-mapping-print.png)
+![inline,fit](img/facilitation-guides/driver-mapping-fg-print.png)
 
 ---
 

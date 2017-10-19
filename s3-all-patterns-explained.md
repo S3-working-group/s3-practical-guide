@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) Bernhard Bockelbrink and James Priest (v2017-01-28) - sociocracy30.org
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-10-04) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -9,7 +9,7 @@ theme: Plain Jane, 1
 
 # All Patterns Explained
 
-#### James Priest and Bernhard Bockelbrink
+#### James Priest, Bernhard Bockelbrink, Liliana David
 #### <http://sociocracy30.org>
 
 
@@ -135,13 +135,41 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 
 ## Domain
 
-![right,fit](img/driver-domain/driver-response-full.png)
+![right,fit](img/driver-domain/domains-in-organizations.png)
 
-_A **domain** is the set of subdrivers an organization may benefit from addressing when responding to a driver._
+_A **domain** is a distinct area of influence, activity and decision making within an organization_.
 
-Domains need to be accounted for by people, but exist independently.
+All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 
-Building an organization from domains defined in relation to organizational drivers facilitates effective collaboration by creating enabling constraints with clear and coherent parameters for accountability.
+Domains are delegated to people (e.g. a unit, department, team or individuals), who take accountability for the domain, within the domain’s defined constraints on influence and autonomy.
+
+---
+
+## Delegating Domains
+
+Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
+
+* **key responsibilities** (specifics of the work and decision making being delegated)
+* **constraints to autonomy and influence** for those the domain is delegated to, usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
+
+---
+
+# Drivers and Domains
+
+![right,fit](img/driver-domain/domain-primay-sub.png)
+
+A domain can be defined in relation to an organizational driver - known as the domain’s **primary driver** - by the set of sub-drivers the organization may benefit from addressing when responding to that driver. 
+
+---
+
+# Drivers and Domains (cont.)
+
+A domain’s subdrivers include both:
+
+* key responsibilities that **follow directly** from its primary driver
+* constraints to autonomy and influence relating to the **organization's wider context**.
+
+Some subdrivers may be explicitly stated as essential (necessary to attend to) by the delegator. These are called **key subdrivers**.
 
 ---
 
@@ -151,7 +179,7 @@ Building an organization from domains defined in relation to organizational driv
 
 * accountability applies to all agreements, including the organization itself, circles, and roles
 * everyone's primary accountability is for effective collaboration in response to organizational drivers
-* circles are accountable for their work, their body of agreements and their own development
+* individuals and groups are accountable for their work and their own development
 * everyone in an organization is accountable for aligning action with organizational values and principles
 
 
@@ -166,21 +194,24 @@ Building an organization from domains defined in relation to organizational driv
 
 ## Pattern 1.1: Respond to Organizational Drivers
 
-![right,fit](img/evolution/kaizen.png)
+
+![right,fit](img/driver-domain/driver-response-full.png)
+
 
 _Clarify what's happening and what's needed in relation to the organization, and respond as required._
 
 Responses to drivers:
 
 * action
-* agreement (including creating a role, circle, team or open domain)
-
-The response to a driver is usually an experiment that is evolved over time, 
-based on learning.
+* agreement (including creating a role, circle, helping team or open domain)
 
 ---
 
 ## Review of Drivers
+
+![right,fit](img/evolution/kaizen.png)
+
+The response to a driver is usually an experiment that is evolved over time, based on learning.
 
 * Is the description of the situation still correct?
 * Do we still associate the same needs with the situation?
@@ -216,7 +247,7 @@ Objections contain information that reveals:
 ---
 
 
-# Qualifying Objections
+# Qualify Objections
 
 _How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?_
 
@@ -229,18 +260,21 @@ Objections stop:
 
 ---
 
+## Qualify Objections (cont.)
 
-## Objection (cont.)
+It's the accountability of individuals to raise potential objections. 
 
-It's the accountability of individuals to raise objections. Those accountable for the action or (proposed) agreement they relate to, are responsible for addressing them.
+Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing qualified objections.*
 
-Withholding objections can harm the ability of individuals, groups or the whole organization to respond to organizational drivers.
+Withholding objections can harm the ability of individuals, groups or
+the whole organization to respond to organizational drivers.
 
-Being able to raise objections at any time means decisions only need to be *good enough for now and safe enough to try*.
+Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
+
 
 ---
 
-## Understanding Objections ##
+## Understanding Objections
 
 ## Some Helpful Questions
 
@@ -412,7 +446,7 @@ A workshop format to identify an effective response to a complex situation: orga
 ## Driver Mapping (cont.)
 
 
-![inline,fit](img/facilitation-guides/driver-mapping-print.png)
+![inline,fit](img/facilitation-guides/driver-mapping-fg-print.png)
 
 ---
 
@@ -462,13 +496,13 @@ Considerations:
 
 ---
 
-## Pattern 2.3: Effectiveness Review
+## Pattern 2.3: Peer Review
 
-![right,fit](img/process/effectiveness-review.png)
+![right,fit](img/process/peer-review.png)
 
 People support each other to learn and grow in the roles, teams and circles  they serve.
 
-The individual holding the role - or the team or circle - initiates the process and speaks first in each step.
+The role keeper - or the team or circle - initiates the process and speaks first in each step.
 
 Invite people with complementing perspectives to contribute to the review, and a facilitator.
 
@@ -476,7 +510,7 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 ---
 
-## Effectiveness Review (cont.)
+## Peer Review (cont.)
 
 
 ### Continuous improvement of people's ability to effectively fulfill roles or collaborate together in groups (or teams and circles)
@@ -492,25 +526,28 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 ---
 
-## Pattern 2.4: Development Plan (for an Individual or Group)
+## Pattern 2.4: Development Plan
 
 An agreement supporting people to more effectively collaborate as a group or fulfill a role.
 
-Contents:
-
-- current domain description
-- appreciations
-- actionable improvement suggestions
-- evaluation criteria
-- suggested amendments to domain description and driver statement
+A development plan is passed as a proposal to the delgator to test for objections and concerns.
 
 Acting on development plans is an integral part of the strategy of people in roles, and of groups.
 
 ---
 
-## Template for Development Plan
+## Development Plan (cont.)
 
-![inline,fit](img/templates/development-plan-template.png)
+![right,fit](img/templates/development-plan-template.png)
+
+Contents of a development plan for individuals or groups:
+
+- current domain description
+- appreciations
+- actionable improvement suggestions
+- specific action items
+- evaluation criteria
+- suggested amendments to domain description and driver statement
 
 
 ---
@@ -634,10 +671,9 @@ When using S3 for governance, the facilitator familiarizes themselves with the f
 * proposal forming
 * consent decision making
 * role selection
-* meeting evaluation
-* evaluating meetings
-* resolving objections
-* effectiveness reviews
+* evaluate meetings
+* resolve objections
+* peer reviews
 
 
 ---
@@ -650,11 +686,11 @@ Regular review of agreements is an essential practice for a learning organizatio
 * adapt to changing context
 * integrate learning
 
-*Is the agreement still relevant?*
+_Is the agreement still relevant?_
 
-*Is the agreement still good enough for now and safe enough to continue?*
+_Is the agreement still good enough for now and safe enough to continue?_
 
-*Is there a reason why NOT to continue with this agreement?*
+_Is there a reason why **not** to continue with this agreement?_
 
 ---
 
@@ -682,7 +718,6 @@ Regular review of agreements is an essential practice for a learning organizatio
 * adjust review frequency as necessary
 * review earlier if required
 * elements of this process can also be used by individuals to evaluate decisions they make
-
 
 
 
@@ -754,7 +789,7 @@ To preserve organizational culture, maintain self-accountability and help new me
 * create domain description
 * implement a selection process
 * limit term of the contract
-* build in regular effectiveness reviews
+* build in regular peer reviews
 
 Support roles may be operational only, and external contractors consent to account for their role.
 
@@ -803,7 +838,7 @@ _A **circle** is a semi-autonomous, self-governing, and self-organizing group of
 A circle:
 
 * may be permanent or temporary
-* is accountable for its own development
+* is accountable for its own development and its body of agreements and
 
 ---
 
@@ -824,11 +859,11 @@ A circle:
 
 _A **role** is a set of constraints for how an individual can account for a domain._
 
-People selected into roles are autonomous to decide and act within these constraints.
+A _role keeper_ (individual selected into a role) is autonomous to decide and act within these constraints.
 
 - people can be in more than one role
 - selection is by consent and for a limited term
-- people in roles lead in creating strategy for how to account for the role's domain, checking for objections with the parent circle
+- the role keeper leads in creating strategy for how to account for the role's domain, checking for objections with the parent circle
 - peers support one another to develop in the roles they fulfill
 
 ---
@@ -1042,14 +1077,15 @@ _A **strategy** is a high level approach towards creating value within a domain.
 
 ![right,fit](img/templates/domain-description-template.png)
 
-A domain description is used as a circle, open location and role description too. It contains:
+A domain description defines the scope of accountability and autonomy of people in the organization, e.g. in the context of roles, circles, helping teams or open domains. 
 
-* a description of the domain: primary driver and key subdrivers (key responsibilities)
-* details of any constraints in relation to people accounting for the domain:
-    - preferred/required skills, qualities, experience
-    - resources, budget, time, privileges
-    - evaluation criteria and frequency
-    - term (for a role)
+It includes a description of:
+
+* primary driver
+* key responsibilities
+* constraints
+* evaluation criteria for peer review
+* term (for a role)
 * (previous versions)
 
 
@@ -1384,7 +1420,7 @@ A governance backlog is a visible, prioritized list of items (drivers) that requ
 * proposals to create and consider
 * agreements for review
 * selecting people for roles
-* upcoming effectiveness reviews
+
 
 
 
@@ -1508,7 +1544,7 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 ## Pattern 9.6: Align Flow
 
-![right,fit](img/workflow-and-value/types-of-flow.png)
+![right,fit](img/workflow-and-value/align-flow.png)
 
 * in an effective organization, **flow of information and influence supports the continuous flow of value**
 * alignment is achieved and maintained through the continuous improvement of agreements (and individual's decisions)
@@ -1682,14 +1718,13 @@ An organization is an interdependent system that benefits from consciously invit
 
 ---
 
-## Pattern 10.8: Backbone Organization
+## Pattern 10.8: Service Organization
 
 
-![right,fit](img/structural-patterns/backbone-organization-text.png)
+![right,fit](img/structural-patterns/service-organization-text.png)
 
 
-### A pattern for multi-stakeholder collaboration and alignment towards a shared driver.
-
+### A pattern for multi-stakeholder collaboration and alignment towards a shared driver (often referred to as a backbone organization).
 
 * improves potential for equivalence between various entities
 * increases cross-departmental/organizational alignment
@@ -1710,6 +1745,62 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
+## Pattern 10.10: Open Domain
+
+![right,fit](img/structural-patterns/open-domain.png)
+
+An open domain is a way to intentionally account for a domain by invitation rather than assignment.
+ 
+The delegator of the open domain clarifies:
+ 
+- primary driver, key responsibilities and constraints of the open domain
+- who is invited to contribute to the open domain
+- constraints relating to the delegator’s participation in the open domain’s governance
+ 
+The delegator of the open domain is accountable for ensuring regular review of the open domain.
+
+Contributors may account for both work and governance of the open domain.
+
+
+---
+
+# Appendix
+
+
+* Changelog
+* Links
+* License
+* Authors
+* Pattern Index
+
+---
+
+# Changelog
+
+2017-10-03
+
+- renamed pattern _Backbone Organization_ to _Service Organization_
+- renamed pattern _Effectiveness Review_ to _Peer Review_
+- clarified qualifying objections
+- added pattern _Open Domain_
+- clarified domains and their relationship to drivers
+- updated development plan
+
+---
+ 
+# Changelog
+
+2017-10-03 (cont.)
+
+- added Liliana David to authors
+- corrected typos
+- introduced the term "role keeper" for a person in a role
+- updated pattern _Domain Description_
+- lots of updates to illustrations
+- added an index of all the patterns
+
+---
+
 ## Links
 
 ![fit](img/framework/logo.png)
@@ -1724,7 +1815,7 @@ Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 
 # License
 
-This work by Bernhard Bockelbrink and James Priest is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
+This work by Bernhard Bockelbrink, James Priest and Liliana David is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
 [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
 
 The latest version of this document is available at 
@@ -1732,12 +1823,55 @@ The latest version of this document is available at
 
 ---
 
-![fit](img/framework/logo.png)
+![right,fit](img/james-round.png)
 
-**James Priest** serves internationally, providing organizational development consultancy, learning facilitation, mentoring and conflict resolution for people wishing to evolve collaborative, adaptive organizations at scale.
+# James Priest
+... serves internationally, providing organizational development consultancy, learning facilitation, mentoring and conflict resolution for people wishing to evolve collaborative, adaptive organizations at scale.
 
-[thriveincollaboration.com](http://thriveincollaboration.com)  -- [james@thriveincollaboration.com](mailto:james@thriveincollaboration.com)
+[thriveincollaboration.com](http://thriveincollaboration.com)
 
-**Bernhard Bockelbrink** is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
+[james@thriveincollaboration.com](mailto:james@thriveincollaboration.com)
 
-[evolvingcollaboration.com](http://evolvingcollaboration.com) -- [bernhard.bockelbrink@gmail.com](mailto:bernhard.bockelbrink@gmail.com)
+---
+
+![right,fit](img/bernhard-round.png)
+
+# Bernhard Bockelbrink 
+
+... is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
+
+[evolvingcollaboration.com](http://evolvingcollaboration.com)
+
+[bernhard.bockelbrink@gmail.com](mailto:bernhard.bockelbrink@gmail.com)
+
+---
+
+![right,fit](img/lili-round-transparent.png)
+
+# Liliana David
+
+... serves internationally, providing training, facilitation and mentoring to groups and organizations wishing to develop greater effectiveness and equivalence in collaboration.
+
+[thriveincollaboration.com](http://thriveincollaboration.com)
+
+[lili@thriveincollaboration.com](mailto:lili@thriveincollaboration.com)
+
+
+---
+
+
+
+Patterns  | Patterns (cont.)
+--- | ---
+Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.6<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.6<br\>Bylaws - 3.10<br\>Circle - 4.2<br\>Consent Decision Making - 1.5<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.7<br\>Coordination Circle - 10.4<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.7<br\>Create A Pull-System For Organizational Change - 5.2<br\>Daily Standup - 7.3 | Delegate Circle - 10.3<br\>Describing Deliverables - 6.5<br\>Development Plan - 2.4<br\>Domain Description - 6.3<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.6<br\>Driver Mapping - 1.10<br\>Evaluate Agreements - 3.5<br\>Evaluate Meetings - 8.3<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.9<br\>Governance Backlog - 8.5<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 10.1<br\>Intended Outcome - 6.4<br\>Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4
+
+
+
+---
+
+
+
+Patterns (cont.) | Patterns (cont.)
+--- | ---
+Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.4<br\>Navigate Via Tension - 1.6<br\>Nested Domains - 4.1<br\>Objection - 1.3<br\>Open Domain - 10.10<br\>Open S3 Adoption - 5.5<br\>Open Systems - 10.7<br\>Peach Organization - 10.5<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.7<br\>Pull-System For Work - 9.4<br\>Qualify Organizational Drivers - 1.2<br\>Representative - 4.6<br\>Resolve Objections - 1.4<br\>Respond To Organizational Drivers - 1.1 | Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.9<br\>Rounds - 8.1<br\>Service Circle - 10.2<br\>Service Organization - 10.8<br\>Strategy - 6.2<br\>Support Role - 3.9<br\>Those Affected Decide - 1.8<br\>Transparent Salary - 3.8<br\>Visualize Work - 9.3
+

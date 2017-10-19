@@ -4,5 +4,5 @@
 
 # All Patterns Explained
 
-#### James Priest and Bernhard Bockelbrink
+#### James Priest, Bernhard Bockelbrink, Liliana David
 #### <http://sociocracy30.org>
