@@ -7,7 +7,7 @@ _A **circle** is a semi-autonomous, self-governing, and self-organizing group of
 A circle:
 
 * may be permanent or temporary
-* is accountable for its own development and its body of agreements and
+* is accountable for its own development and its body of agreements
 
 ---
 
@@ -17,4 +17,4 @@ A circle:
     * a circle acts within the constraints of the surrounding organization
     * each circle responds to a primary driver, can create value independently, and organizes its day-to-day-work
 * **self-governing**:
-    * leads in creating its strategy and agreements
+    * evolves their strategy and system for delivering value
