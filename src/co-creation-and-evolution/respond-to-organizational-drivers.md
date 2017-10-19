@@ -1,20 +1,23 @@
 ## Respond to Organizational Drivers
 
-![right,fit](img/experiments/kaizen.png)
+
+![right,fit](img/driver-domain/driver-response-full.png)
+
 
 _Clarify what's happening and what's needed in relation to the organization, and respond as required._
 
 Responses to drivers:
 
 * action
-* agreement (including creating a role, circle, team or open domain)
-
-The response to a driver is usually an experiment that is evolved over time, 
-based on learning.
+* agreement (including creating a role, circle, helping team or open domain)
 
 ---
 
 ## Review of Drivers
+
+![right,fit](img/evolution/kaizen.png)
+
+The response to a driver is usually an experiment that is evolved over time, based on learning.
 
 * Is the description of the situation still correct?
 * Do we still associate the same needs with the situation?

@@ -10,7 +10,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 *Is the agreement still good enough for now and safe enough to continue?*
 
-*Is there a reason why NOT to continue with this agreement?*
+*Is there a reason why **not** to continue with this agreement?*
 
 ---
 
@@ -38,5 +38,4 @@ Regular review of agreements is an essential practice for a learning organizatio
 * adjust review frequency as necessary
 * review earlier if required
 * elements of this process can also be used by individuals to evaluate decisions they make
-
 

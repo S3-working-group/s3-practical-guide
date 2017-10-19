@@ -2,6 +2,9 @@
 # build deckset
 mdslides compile s3-all-patterns-explained.yaml src/ tmp/ --chapter-title=img
 mdslides build deckset s3-all-patterns-explained.yaml tmp/ s3-all-patterns-explained.md --template=templates/deckset-template.md
+# append pattern-index
+python build_index.py >>s3-all-patterns-explained.md
+
 
 # build reveal.js
 mdslides compile s3-all-patterns-explained.yaml src/ tmp/ --chapter-title=text

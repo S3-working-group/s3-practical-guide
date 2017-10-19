@@ -31,7 +31,7 @@
 
 *  Ask For Help
 *  Peer Feedback
-*  Effectiveness Review
+*  Peer Review
 *  Development Plan
 
 
@@ -115,7 +115,7 @@
 *  Coordination Circle
 *  Peach Organization
 *  Double-Linked Hierarchy
-*  Backbone Organization
+*  Service Organization
 *  Fractal Organization
 *  Open Systems
 

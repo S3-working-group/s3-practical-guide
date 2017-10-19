@@ -1,6 +1,6 @@
 ## All Patterns are based on The Seven Principles
 
-![inline,fit](img/general/s3-principles-plain.png)
+![inline,fit](img/framework/s3-principles-plain.png)
 
 ---
 

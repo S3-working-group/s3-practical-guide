@@ -6,6 +6,6 @@
 * create domain description
 * implement a selection process
 * limit term of the contract
-* build in regular effectiveness reviews
+* build in regular peer reviews
 
 Support roles may be operational only, and external contractors consent to account for their role.

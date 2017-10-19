@@ -1,6 +1,6 @@
 ## Adapt Patterns To Context
 
-![right,fit](img/agreements/adapt-pattern-to-context.png)
+![right,fit](img/process/adapt-pattern-to-context.png)
 
 * adapting and evolving S3 patterns is a hypothesis-driven process
 * ensure everyone affected by adaptation:

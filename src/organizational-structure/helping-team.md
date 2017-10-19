@@ -1,6 +1,6 @@
 ## Helping Team
 
-![right,fit](img/structural-patterns/helping-circle.png)
+![right,fit](img/structural-patterns/helping-team.png)
 
 A group of people with the mandate to execute on requirements defined by a circle in response to a driver.
 

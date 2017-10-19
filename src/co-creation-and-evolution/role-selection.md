@@ -1,6 +1,6 @@
 ## Role Selection
 
-![right,fit](img/people-and-roles/selection.png)
+![right,fit](img/agreements/selection.png)
 
 ### A pattern for selecting people for roles.
 
