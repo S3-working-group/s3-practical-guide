@@ -6,7 +6,7 @@ _A **domain** is a distinct area of influence, activity and decision making with
 
 All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 
-Domains are delegated to people (e.g. a unit, department, team or individuals), who take accountability for the domain, within the domain’s defined constraints on influence and autonomy.
+Domains are delegated to people (e.g. to a unit, department, team or individuals), who take accountability for the domain, within the domain’s defined constraints on influence and autonomy.
 
 ---
 
@@ -46,3 +46,4 @@ Some subdrivers may be explicitly stated as essential (necessary to attend to) b
 * everyone's primary accountability is for effective collaboration in response to organizational drivers
 * individuals and groups are accountable for their work and their own development
 * everyone in an organization is accountable for aligning action with organizational values and principles
+
