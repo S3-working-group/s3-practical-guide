@@ -10,25 +10,6 @@ Drivers:
 
 ---
 
-##  Primary Driver, Subdriver and Superdriver
-
-A **driver** can be understood in relation to the **domain** it defines and its relationship to other **drivers**.
-
-
-The driver that defines a domain is called the **primary driver** of that domain.
-
-The **primary driver** is the **superdriver** of all other **drivers** that arise as a consequence of people responding to it. 
-
-
-A **primary driver** is itself a **subdriver** of its **superdriver**, except in the case of the organization itself, in which case it is referred to as the **organizations primary driver**.
-
-Two **drivers** existing as a direct consequence of a response to the same **superdriver**, are described as **peer drivers**.
-
-The prefixes **primary**, **peer**, **sub-** and **super-**, can refer to both **drivers** and **domains**.
-
-
----
-
 ### Drivers: Value and Waste
 
 _**Value:** is the importance, worth or usefulness of something in relation to a driver._
