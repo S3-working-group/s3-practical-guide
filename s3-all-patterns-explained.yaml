@@ -1,5 +1,4 @@
 title: title
-end: end
 
 introduction:
   - overview and history
@@ -7,6 +6,14 @@ introduction:
   - principles
   - driver
   - domain
+  - governance
+
+closing:
+  - changelog
+  - links
+  - license
+  - authors
+  - glossary
 
 chapter_order:
   - co-creation and evolution
@@ -57,10 +64,10 @@ chapters:
     - continuous improvement of work process
   defining agreements:
     - agreement
-    - strategy
-    - domain description
+    - develop strategy
+    - clarify domains
     - intended outcome
-    - describing deliverables
+    - describe deliverables
     - evaluation criteria
     - logbook
     - logbook keeper
@@ -85,7 +92,7 @@ chapters:
     - align flow
     - coordinator
   building organizations:
-    - nested domains
+    - delegate influence
     - circle
     - role
     - linking
