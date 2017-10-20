@@ -21,6 +21,7 @@
 - _Artful Participation_: refined description
 - _Clarify Domains_: refined description
 - _Circle_: updated definition, refined description
+- _Driver_: updated definition
 - _Development Plan_: refined template and description
 - _Develop Strategy_: clarified definition of strategy,refined description
 - _Governance Backlog_: updated definition

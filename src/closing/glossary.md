@@ -9,7 +9,7 @@
 **Deliverable**: Something which is provided as a result of an _agreement_ in response to a _driver_. _Deliverables_ include products, raw materials, services, experiences and transformation.
 **Doing the Work** (Operations): People doing what needs to be done, guided by coordination and _governance_.
 **Domain**: A distinct area of influence, activity and decision making within an _organization_.
-**Driver**: The source of motivation for action in a specific situation (the "why"): something an individual, a group, or _organization_ needs (or requires) in the context of achieving their objectives.
+**Driver**: A driver is a person’s or a group's motive for responding to a specific situation.
 **Effectiveness**: Devote time only to what brings you closer towards achieving your objectives.
 **Empiricism**: Test all assumptions through experiments, continuous revision and falsification.
 **Equivalence**: People affected by decisions influence and change them on the basis of reasons to do so.

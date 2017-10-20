@@ -1,6 +1,6 @@
 ## Drivers
 
-A **driver** is the source of motivation for action in a specific situation (the "why"): something an individual, a group, or organization needs (or requires) in the context of achieving their objectives.
+A **driver** is a person’s or a group's motive for responding to a specific situation.
 
 Drivers: 
 
