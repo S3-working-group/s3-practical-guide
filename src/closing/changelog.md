@@ -1,16 +1,16 @@
 # Changelog
 
-2017-10-19 (cont.)
+2017-10-19
 
 - many small clarifications and corrections
 - added Liliana David to authors
 - lots of updates to illustrations
-- added an index of all the patterns
-- added a glossary
+- added an index of all the patterns, glossary and acknowledgements
 - dropped the term "framework" (replaced with "practical guide")
 - Introduction:
     - added definitions for governance, self-organization, semi-autonomy, operations to introduction
     - clarified domains and their relationship to drivers
+    - fleshod out core concepts
 
 ---
 
