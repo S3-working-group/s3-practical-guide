@@ -14,5 +14,5 @@ Finally to acknowledge our numerous colleagues, customers, clients and attendees
 
 By no means an exhaustive list, we’d like to offer our appreciation to the following people who directly contributed towards developing Sociocracy 3.0, or whose work influenced what it is today:
 
-Lysa Adkins, David Anderson, Ruth Andrade, Jurgen Appelo, Ken Beck, Sue Bell, Kees Boeke, John Buck, Betty Cadbury, Diana Leafe Christian, Jef Cumps, David Deida, Frands Frydendal, Gerarld Endenberg, Francois Knuckel, Andrei Iuoraia, Daniel Mezick, Jim and Michele McCarthy, Brian Robertson,Marshall Rosenburg, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber.
+Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Jesper Boeg, Kent Beck, Sue Bell, Kees Boeke, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Jef Cumps, David Deida, Esther Derby, Frands Frydendal, Gerarld Endenburg, Andreas Hertel, Andrei Iuoraia, Francois Knuckel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Daniel Mezick, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber.
 
