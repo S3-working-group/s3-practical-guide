@@ -13,16 +13,23 @@
   
 ## Proposal Forming Process ##
 
-- **Present and consent to driver**: _Is this driver relevant to respond to and a clear enough articulation of what's happening and what's needed_?
-- **Deepen shared understanding of driver**: invite essential questions to understand more detail about the driver
-- **Collect considerations** relating to possible solutions, as questions that reveal constraints and the scope of possibility (information gathering questions and generative questions)
-- **Answer** any information gathering questions if possible
-- **Gather ideas** as possible ingredients for a proposal
-- **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by an individual or a smaller group.
+- **Consent to driver**: _Is this driver relevant for us to respond to? Is the driver statement an accurate description of what is happening and what is needed?_
+- **Deepen shared understanding of driver**: invite essential questions to understand more detail about the driver.
+- **Collect considerations** phrased as questions relating to possible solutions. Questions either reveal constraints (information gathering questions) or possibilities (generative questions).
+- **Answer** any information gathering questions if possible.
+- **Prioritize** considerations.
+- **Gather ideas** as possible ingredients for a proposal.
+- **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group (tuners).
   
 ---
 
-## Template for Proposals 
+## Selecting Tuners
+
+* who should be there?
+* who wants to be there?
+* who else may have a valuable contribution to make?
+* consider expertise, outside view, and inspiration
+* any objections to this group?
 
 
 ![right,fit](img/templates/proposal-template.png)
