@@ -17,11 +17,11 @@
 
 Tracking, reviewing and evolving decisions made to achieve objectives enables an organization to continuously learn and improve.
 
-_Does it require or benefit from a decision?_
+_Does it require or benefit from an individual or group decision?_
 
 * yes ➤ governance
-    - not covered by a pervious decision
-    - need to agree/decide/amend
+    - not covered by a previous decision
+    - needs to be agreed, decided or amended
 * no ➤ operations
-    - need to act
-    - covered by previous decision
+    - covered by previous decision (those accountable are free to act)
+    - needs to be done
