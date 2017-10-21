@@ -1,7 +1,9 @@
 title: title
 
 introduction:
-  - overview and history
+  - s3-overview
+  - history
+  - basic-concepts
   - patterns
   - principles
   - driver
@@ -12,6 +14,7 @@ closing:
   - changelog
   - links
   - license
+  - acknowledgements
   - authors
   - glossary
 
@@ -30,13 +33,15 @@ chapter_order:
 chapters:
   co-creation and evolution:
     - respond to organizational drivers
+    - navigate via tension
+    - describe drivers
     - qualify organizational drivers
+    - consent decision making
     - objection
     - resolve objections
-    - consent decision making
-    - navigate via tension
-    - proposal forming
+    - evaluate agreements
     - those affected decide
+    - proposal forming
     - role selection
     - driver mapping
   peer development:
@@ -49,7 +54,6 @@ chapters:
     - adopt the seven principles
     - agree on values
     - governance facilitator
-    - evaluate agreements
     - breaking agreements
     - contracting and accountability
     - transparent salary
