@@ -1,6 +1,6 @@
 ## Navigate Via Tension
 
-### Identify and accounting for organizational drivers.
+### Identify and account for organizational drivers.
 
 **All members** bring awareness to what might help or harm the organization, and aim to account for drivers in an effective way. 
 

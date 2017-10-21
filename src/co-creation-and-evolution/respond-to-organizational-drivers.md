@@ -1,15 +1,13 @@
 ## Respond to Organizational Drivers
 
-
 ![right,fit](img/driver-domain/driver-response-full.png)
-
 
 _Clarify what's happening and what's needed in relation to the organization, and respond as required._
 
 Responses to drivers:
 
 * action
-* agreement (including creating a role, circle, helping team or open domain)
+* decision (including creating a role, circle, helping team or open domain)
 
 ---
 
