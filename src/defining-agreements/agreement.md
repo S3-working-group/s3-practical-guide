@@ -8,6 +8,8 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 * agreements are the **accountability of the people** that make them
 * agreements are **regularly reviewed**
 
+**Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
+
 ---
 
 ## Template for Agreements
