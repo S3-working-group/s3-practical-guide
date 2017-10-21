@@ -5,12 +5,14 @@
 - many small clarifications and corrections
 - added Liliana David to authors
 - lots of updates to illustrations
+- updated order of patterns
 - added an index of all the patterns, glossary and acknowledgements
 - dropped the term "framework" (replaced with "practical guide")
 - Introduction:
+    - added "what's in it for me?"
     - added definitions for governance, self-organization, semi-autonomy, operations to introduction
     - clarified domains and their relationship to drivers
-    - fleshod out core concepts
+    - fleshed out core concepts
 
 ---
 
@@ -23,7 +25,7 @@
 - _Circle_: updated definition, refined description
 - _Driver_: updated definition
 - _Development Plan_: refined template and description
-- _Develop Strategy_: clarified definition of strategy,refined description
+- _Develop Strategy_: clarified definition of strategy, refined description
 - _Governance Backlog_: updated definition
 - _Logbook_: added details about governance to personal logbook
 - _Objections_: clarified qualifying objections
@@ -44,6 +46,7 @@
     - _Domain Description_ to _Clarify Domains_ 
     - _Describing Deliverables_ to _Describe Deliverables_
 - added patterns:
+    - _Describe Drivers_ 
     - _Open Domain_
     - _Delegate Influence_
 - removed pattern _Nested Domains_
