@@ -12,7 +12,7 @@
 **Driver**: A driver is a person’s or a group's motive for responding to a specific situation.
 **Effectiveness**: Devote time only to what brings you closer towards achieving your objectives.
 **Empiricism**: Test all assumptions through experiments, continuous revision and falsification.
-**Equivalence**: People affected by decisions influence and change them on the basis of reasons to do so.
+**Equivalence**: Involve people in making and evolving decisions that affect them.
 **Governance**: Continuously deciding what to do to achieve objectives, and setting constraints on how and when things will be done.
 **Logbook**: A (digital) system to store all information relevant for running an _organization_ and its teams. 
 **Objection**: A reason why doing something stands in the way of (more) effective response to a _driver_.
@@ -36,6 +36,6 @@
 **Subdriver**: A subdriver arises as a consequence of people responding to another driver (the _superdriver_) and are necessary to address to respond to the superdriver. 
 **Super driver**: see _subdriver_.
 **Superdomain**: A _domain_ that fully contains another domain. 
-**Transparency**: All information is available to everyone in an organization, unless there is a reason for confidentiality.
+**Transparency**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
 **Value**: The importance, worth or usefulness of something in relation to a _driver_.
 **Waste**: Anything not necessary for - or standing in the way of - effective response of a _driver_.
