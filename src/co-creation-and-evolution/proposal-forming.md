@@ -2,16 +2,17 @@
 
 ![right,fit](img/agreements/proposal-forming-medium.png)
 
-
-### A (facilitated) format for co-creating a response to a driver.
+### A (facilitated) group process for co-creating a response to a driver
 
 * draws on the collective intelligence and diversity of perspective within a group
 * involves people in co-creating agreements
 * fosters accountability and sense of ownership
 
+Proposal forming may be also be used by an individual.
+
 ---
   
-## Proposal Forming Process ##
+## Proposal Forming Steps
 
 - **Consent to driver**: _Is this driver relevant for us to respond to? Is the driver statement an accurate description of what is happening and what is needed?_
 - **Deepen shared understanding of driver**: invite essential questions to understand more detail about the driver.

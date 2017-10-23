@@ -2,7 +2,7 @@
 
 ![right,fit](img/circle/circle-driver.png)  
 
-_A **circle** is an equivalent semi-autonomous and self-governing group of people collaborating to respond to a driver._
+_A **circle** is an equivalent, semi-autonomous and self-governing group of people collaborating to respond to a driver._
 
 A circle:
 

@@ -1,8 +1,8 @@
 ## Create a Pull-System For Organizational Change
 
-Change things when there is value in doing so.
+**Create an environment that invites and enables members of the organization to drive change.**
 
-Create an environment that invites and enables members of the organization to drive change:
+Change things when there is value in doing so:
 
 * bring in patterns that solve current and important problems
   * don't break what's already working!
