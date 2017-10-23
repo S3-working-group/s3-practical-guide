@@ -19,8 +19,8 @@
 
 **Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
 
-**Equivalence:** *People affected by decisions influence and change them on the basis of reasons to do so.*
+**Equivalence:** *Involve people in making and evolving decisions that affect them.*
 
-**Transparency:** *All information is available to everyone in an organization, unless there is a reason for confidentiality.*
+**Transparency:** *Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.*
 
 **Accountability:** *Respond when something is needed, do what you agreed to and take ownership for the course of the organization.*

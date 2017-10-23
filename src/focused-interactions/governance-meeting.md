@@ -25,7 +25,7 @@ A governance meeting is usually:
 
 ---
 
-## Typical agenda items include
+## Typical agenda items include:
 
 * any short reports 
 * evaluation of existing agreements due review

@@ -1,31 +1,11 @@
 ## Drivers
 
-A **driver** is the source of motivation for action in a specific situation (the "why"): something an individual, a group, or organization needs (or requires) in the context of achieving their objectives.
+A **driver** is a person’s or a group's motive for responding to a specific situation.
 
 Drivers: 
 
-* focus on the **present** (not the future or assumptions)
-* precede goals, objectives, aims, mission, vision, purpose
+* can be used to derive goals, objectives, aims, mission, vision, purpose
 * can change
-
----
-
-##  Primary Driver, Subdriver and Superdriver
-
-A **driver** can be understood in relation to the **domain** it defines and its relationship to other **drivers**.
-
-
-The driver that defines a domain is called the **primary driver** of that domain.
-
-The **primary driver** is the **superdriver** of all other **drivers** that arise as a consequence of people responding to it. 
-
-
-A **primary driver** is itself a **subdriver** of its **superdriver**, except in the case of the organization itself, in which case it is referred to as the **organizations primary driver**.
-
-Two **drivers** existing as a direct consequence of a response to the same **superdriver**, are described as **peer drivers**.
-
-The prefixes **primary**, **peer**, **sub-** and **super-**, can refer to both **drivers** and **domains**.
-
 
 ---
 

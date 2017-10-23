@@ -2,9 +2,7 @@
 
 ![right,fit](img/meetings/planning-review.png)
 
-* planning and review meetings happen at regular intervals (1-4 weeks)
-* planning meeting: 
-    - select and estimate work items for iteration
-* review meeting: 
-    - review completed work items
-    - decide on re-work and changes for next iteration
+People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and review work.
+
+- select and estimate work items for the next iteration in a planning meeting
+* review completed work items and decide on re-work and changes for the next iteration in a review meeting

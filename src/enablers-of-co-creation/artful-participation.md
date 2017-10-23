@@ -2,29 +2,27 @@
 
 ![right,fit](img/collaboration-values/artful-participation.png)
 
-A commitment to developing helpful interactions and effective collaboration. 
+An **individual commitment** to developing helpful interactions and effective collaboration:
+
+* actively **consider and follow-up on all agreements** made, in the best way possible, given the circumstances
+* **develop awareness and understanding** of individual and collective needs
+* **grow the necessary skills** to do so
+* **support others** in doing the same 
+* bring impediments to the attention of others if necessary
 
 Participating artfully may include interrupting, objecting or breaking  agreements.
 
-* enables **co-creation and evolution** of agreements
-* is an **individual choice** and powerful when embraced by many
-* building **self-accountability** and integrity develops **trust**
-* individuals developing collaboration skills makes for **stronger teams**
-* a culture of mutual support and close collaboration makes for **happier people**
-
 ---
 
-![right,fit](img/illustrations/balance-autonomy-collaboration.png)
+## Benefits Of Artful Participation
 
-## Artful participation (cont.)
+![right,fit](img/illustrations/balance-autonomy-collaboration-alt.png)
 
-An **individual commitment** to:
-
-* actively **consider and follow-up on all agreements** made, in the best way possible, given the circumstances
-* consciously **balance personal needs with those of a team** and organization as a whole 
-* **developing the necessary skills** to do so
-* **supporting others** in doing the same 
-* bringing impediments to the attention of others if necessary
+- enables co-creation and evolution of agreements
+- helps to grow stronger teams
+- builds self-accountability, integrity and trust
+- generates a culture of mutual support and close collaboration
+- even more powerful when embraced by many
 
 ---
 

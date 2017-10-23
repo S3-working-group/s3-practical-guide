@@ -1,12 +1,22 @@
 title: title
-end: end
 
 introduction:
-  - overview and history
+  - s3-overview
+  - history
+  - basic-concepts
   - patterns
   - principles
   - driver
   - domain
+  - governance
+
+closing:
+  - changelog
+  - links
+  - license
+  - acknowledgements
+  - authors
+  - glossary
 
 chapter_order:
   - co-creation and evolution
@@ -23,13 +33,14 @@ chapter_order:
 chapters:
   co-creation and evolution:
     - respond to organizational drivers
-    - qualify organizational drivers
+    - navigate via tension
+    - describe drivers
+    - consent decision making
     - objection
     - resolve objections
-    - consent decision making
-    - navigate via tension
-    - proposal forming
+    - evaluate agreements
     - those affected decide
+    - proposal forming
     - role selection
     - driver mapping
   peer development:
@@ -42,7 +53,6 @@ chapters:
     - adopt the seven principles
     - agree on values
     - governance facilitator
-    - evaluate agreements
     - breaking agreements
     - contracting and accountability
     - transparent salary
@@ -57,10 +67,10 @@ chapters:
     - continuous improvement of work process
   defining agreements:
     - agreement
-    - strategy
-    - domain description
+    - develop strategy
+    - clarify domains
     - intended outcome
-    - describing deliverables
+    - describe deliverables
     - evaluation criteria
     - logbook
     - logbook keeper
@@ -85,7 +95,7 @@ chapters:
     - align flow
     - coordinator
   building organizations:
-    - nested domains
+    - delegate influence
     - circle
     - role
     - linking
@@ -95,7 +105,6 @@ chapters:
     - helping team
     - service circle
     - delegate circle
-    - coordination circle
     - peach organization
     - double-linked hierarchy
     - open systems
