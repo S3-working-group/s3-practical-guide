@@ -11,7 +11,7 @@ Responses to drivers:
 
 ---
 
-## Qualify Organizational Drivers
+### Qualify Organizational Drivers
 
 Some situations might be helpful to address in the context of an organization's primary driver. Others are not within an organization's domain.
 
@@ -21,7 +21,7 @@ _Would responding to this driver improve - or avoid impeding - flow of value to 
 
 ---
 
-## Review of Drivers
+### Review of Drivers
 
 ![right,fit](img/evolution/kaizen.png)
 

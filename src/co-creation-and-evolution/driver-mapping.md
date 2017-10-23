@@ -13,6 +13,6 @@ Small or large groups identify and prioritize drivers, progressing quickly from 
 
 ---
 
-## Driver Mapping: Template for Domains 
+### Driver Mapping: Template for Domains 
 
 ![inline,fit](img/templates/domain-template.png)

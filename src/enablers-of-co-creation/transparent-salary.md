@@ -12,6 +12,6 @@
 
 ---
 
-## Two Ways of Opening Salaries
+### Two Ways of Opening Salaries
 
 ![inline,fit](img/process/opening-salaries.png)

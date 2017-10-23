@@ -11,7 +11,7 @@ Transparency about the state of all work items currently pending, in progress or
 
 ---
 
-## Things to track: 
+### Things to track: 
 
 ![right,fit](img/workflow-and-value/card.png)
 
