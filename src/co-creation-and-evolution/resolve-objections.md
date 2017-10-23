@@ -4,7 +4,7 @@
 
 ---
 
-## A way for resolving objections
+### A way for resolving objections
 
 ![inline,fit](img/agreements/resolve-objections-process.png)
 

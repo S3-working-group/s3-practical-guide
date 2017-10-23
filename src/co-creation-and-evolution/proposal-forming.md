@@ -2,7 +2,7 @@
 
 ![right,fit](img/agreements/proposal-forming-medium.png)
 
-### A (facilitated) group process for co-creating a response to a driver
+**A (facilitated) group process for co-creating a response to a driver**
 
 * draws on the collective intelligence and diversity of perspective within a group
 * involves people in co-creating agreements
@@ -12,7 +12,7 @@ Proposal forming may be also be used by an individual.
 
 ---
   
-## Proposal Forming Steps
+### Proposal Forming Steps
 
 - **Consent to driver**: _Is this driver relevant for us to respond to? Is the driver statement an accurate description of what is happening and what is needed?_
 - **Deepen shared understanding of driver**: invite essential questions to understand more detail about the driver.
@@ -24,13 +24,12 @@ Proposal forming may be also be used by an individual.
   
 ---
 
-## Selecting Tuners
+### Selecting Tuners
+
+![right,fit](img/templates/proposal-template.png)
 
 * who should be there?
 * who wants to be there?
 * who else may have a valuable contribution to make?
 * consider expertise, outside view, and inspiration
 * any objections to this group?
-
-
-![right,fit](img/templates/proposal-template.png)

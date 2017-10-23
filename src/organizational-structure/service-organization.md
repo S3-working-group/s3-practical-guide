@@ -1,10 +1,8 @@
 ## Service Organization
 
-
 ![right,fit](img/structural-patterns/service-organization-text.png)
 
-
-### A pattern for multi-stakeholder collaboration and alignment towards a shared driver (often referred to as a backbone organization).
+**A pattern for multi-stakeholder collaboration and alignment towards a shared driver** (often referred to as a backbone organization).
 
 * improves potential for equivalence between various entities
 * increases cross-departmental/organizational alignment

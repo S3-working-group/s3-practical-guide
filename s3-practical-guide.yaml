@@ -1,0 +1,113 @@
+title: title
+
+introduction:
+  - s3-overview
+  - history
+  - basic-concepts
+  - patterns
+  - principles
+  - driver
+  - domain
+  - governance
+
+closing:
+  - changelog
+  - links
+  - license
+  - acknowledgements
+  - authors
+  - glossary
+
+chapter_order:
+  - co-creation and evolution
+  - peer development
+  - enablers of co-creation
+  - building organizations
+  - bringing in s3
+  - defining agreements
+  - focused interactions
+  - meeting practices
+  - organizing work
+  - organizational structure
+
+chapters:
+  co-creation and evolution:
+    - respond to organizational drivers
+    - navigate via tension
+    - describe drivers
+    - consent decision making
+    - objection
+    - resolve objections
+    - evaluate agreements
+    - those affected decide
+    - proposal forming
+    - role selection
+    - driver mapping
+  peer development:
+    - ask for help
+    - peer feedback
+    - peer review
+    - development plan
+  enablers of co-creation:
+    - artful participation
+    - adopt the seven principles
+    - agree on values
+    - governance facilitator
+    - breaking agreements
+    - contracting and accountability
+    - transparent salary
+    - support role
+    - bylaws
+  bringing in s3:
+    - adapt patterns to context
+    - create a pull-system for organizational change
+    - be the change
+    - invite change
+    - open S3 adoption
+    - continuous improvement of work process
+  defining agreements:
+    - agreement
+    - develop strategy
+    - clarify domains
+    - intended outcome
+    - describe deliverables
+    - evaluation criteria
+    - logbook
+    - logbook keeper
+  focused interactions:
+    - governance meeting
+    - retrospective
+    - daily standup
+    - planning and review meetings
+    - coordination meeting
+  meeting practices:
+    - rounds
+    - facilitate meetings
+    - evaluate meetings
+    - meeting host
+    - governance backlog
+  organizing work:
+    - backlog
+    - prioritize backlogs
+    - visualize work
+    - pull-system for work
+    - limit work in progress
+    - align flow
+    - coordinator
+  building organizations:
+    - delegate influence
+    - circle
+    - role
+    - linking
+    - double linking
+    - representative
+  organizational structure:
+    - helping team
+    - service circle
+    - delegate circle
+    - peach organization
+    - double-linked hierarchy
+    - open systems
+    - service organization
+    - fractal organization
+    - open domain

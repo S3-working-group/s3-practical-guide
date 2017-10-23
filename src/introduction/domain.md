@@ -1,4 +1,4 @@
-## Domain
+## Domains
 
 ![right,fit](img/driver-domain/domains-in-organizations.png)
 
@@ -19,7 +19,7 @@ Those delegating a domain (the _delegators_) still retain overall accountability
 
 ---
 
-# Drivers and Domains
+## Drivers and Domains
 
 ![right,fit](img/driver-domain/domain-primay-sub.png)
 

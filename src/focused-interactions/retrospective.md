@@ -9,13 +9,13 @@ Building in continuous improvement of work process through reflection and learni
 
 ---
 
-## Output of a Retrospective 
+### Output of a Retrospective 
 
 ![inline,fit](img/meetings/retrospective.png)
 
 ---
 
-## Five Phases of a Retrospective Meeting ##
+### Five Phases of a Retrospective Meeting
 
 1. Set the stage 
 2. Gather data

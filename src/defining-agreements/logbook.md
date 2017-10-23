@@ -6,7 +6,7 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
 
 ---
 
-## Logbook Contents
+### Logbook Contents
 
 * Organization: 
     * primary driver, strategy and organizational values
@@ -20,7 +20,7 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
 
 ---
 
-## Logbook Contents (cont.)
+### Logbook Contents (cont.)
 
 * Personal logbooks
     * domain descriptions, strategies and development plans

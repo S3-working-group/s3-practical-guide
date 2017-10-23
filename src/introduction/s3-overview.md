@@ -8,7 +8,7 @@
 
 ---
 
-# What's in it for me?
+## What's in it for me?
 
 Sociocracy 3.0 brings you an extensive collection of guidelines and practices (patterns)  that have proven helpful for organizations for **improving performance, alignment, fulfillment and wellbeing**. 
 

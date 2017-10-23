@@ -1,8 +1,8 @@
-# Sociocracy 3.0 - All Patterns Explained
+# Sociocracy 3.0 - A Practical Guide
 
-This is a slide deck for teaching the patterns in Sociocracy 3.0. The deck is currently built in [Deckset](decksetapp.com), and a preliminary html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/).
+This is a slide deck for teaching the patterns in Sociocracy 3.0. The deck is currently built in [Deckset](decksetapp.com), and a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/).
 
-The deck is available for download as pdf or as an archive with individual pngs for each slide in the [releases section](https://github.com/bboc/s3-patterns/releases)
+The deck is available for download as pdf or as an archive with individual pngs from [sociocracy30.org/guide](http://sociocracy30.org/guide)) or as [online presentation](http://sociocracy30.org/slides/s3-practical-guide.html). 
 
 Translated versions will be available later this year.
 
@@ -18,7 +18,7 @@ The build process requires [s3tools](https://github.com/S3-working-group/s3-tool
 
 Since Deckset is nice to hack together a quick presentation, but is a bit lacking when it comes to navigating larger presentations, and it's a Mac-Only app, we will move to a more open format in the future. 
 
-There is already a generator for reveal.js, but as of now there's still a few small glitches. Maybe Multimarkdown and Beamer is also an option for the future.
+There is already a generator for reveal.js, but as of now there might still a few small glitches in the CSS. Ping me if you find one. 
 
 [Reveal.js docs](https://github.com/hakimel/reveal.js/blob/master/README.md)
 
@@ -30,6 +30,7 @@ Information in this section is preliminary, and needs further testing.
 * single images on slides: [inline,fit]
 * Headline Level 1 is always the only content on the slide (apart from background images)
 * Headline level 2  or more is increased by one for reveal.js
+* within each pattern, the pattern title is headline level 2, all slides in patterns with a dedicated title need to use headline level 3, so it does not show up in the TOC on the website
 
 ## Updating reveal.js
 

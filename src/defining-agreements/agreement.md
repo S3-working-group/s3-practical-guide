@@ -12,7 +12,7 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 
 ---
 
-## Template for Agreements
+### Template for Agreements
 
 ![inline,fit](img/templates/agreement-template.png)
 

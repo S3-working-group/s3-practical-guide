@@ -6,7 +6,7 @@ The role may be assigned temporarily (i.e. for one specific event) or for a dura
 
 ---
 
-## Meeting Host: Responsibilities
+### Responsibilities Of A Meeting Host
 
 * preparation
     - identify goals and deliverables

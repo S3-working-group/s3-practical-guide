@@ -10,7 +10,7 @@ Objections contain information that reveals:
 
 ---
 
-# Qualify Objections
+### Qualify Objections
 
 _How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?_
 
@@ -23,7 +23,7 @@ Objections stop:
 
 ---
 
-## Qualify Objections (cont.)
+### Qualify Objections (cont.)
 
 It's the accountability of individuals to raise potential objections. 
 
@@ -36,9 +36,9 @@ Being able to raise *potential* objections at any time means decisions only need
 
 ---
 
-## Understanding Objections
+### Understanding Objections
 
-## Some Helpful Questions
+Some Helpful Questions:
 
 * How does the argument relate to this specific proposal or agreement?
 * Does the argument reveal how a (proposed or current) **action or agreement**:
@@ -50,7 +50,7 @@ Being able to raise *potential* objections at any time means decisions only need
 
 ---
 
-# Concerns
+### Concerns
 
 A **concern** is an _opinion_ that doing something (even if already considered _good enough for now and safe enough to try_) **might** impede – or miss an opportunity to improve – flow of value to an organizational driver.
 

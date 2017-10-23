@@ -13,7 +13,9 @@ A governance meeting is usually:
 
 ---
 
-## A typical governance meeting includes: 
+## Governance Meeting (cont.)
+
+A typical governance meeting includes: 
 
 * opening round: attune with each other and to the driver of the group
 * administrative matters 
@@ -25,7 +27,9 @@ A governance meeting is usually:
 
 ---
 
-## Typical agenda items include:
+## Governance Meeting (cont.)
+
+Typical agenda items include:
 
 * any short reports 
 * evaluation of existing agreements due review

@@ -19,7 +19,7 @@ Types of backlog include:
 
 ---
 
-## Elements of a (prioritized) backlog 
+### Elements of a (prioritized) backlog 
 
 * a **short description** or a driver statement
 * a **unique reference number** (or link) for each work item

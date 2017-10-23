@@ -14,7 +14,7 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 ---
 
-## Benefits Of Artful Participation
+### Benefits Of Artful Participation
 
 ![right,fit](img/illustrations/balance-autonomy-collaboration-alt.png)
 

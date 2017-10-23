@@ -2,7 +2,7 @@
 
 ![fit](img/framework/logo.png)
 
-# All Patterns Explained
+# A Practical Guide
 
 #### James Priest, Bernhard Bockelbrink, Liliana David
 #### <http://sociocracy30.org>

@@ -1,9 +1,9 @@
-## S3 promotes a hypothesis-driven approach to decision making
+### S3 promotes a hypothesis-driven approach to decision making
 
 ![inline,fit](img/evolution/experiments.png)
 
 ---
 
-## Agreement Life-Cycle
+### Agreement Life-Cycle
 
 ![inline,fit](img/evolution/agreement-lifecycle-long.png)

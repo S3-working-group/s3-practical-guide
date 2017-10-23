@@ -1,6 +1,6 @@
 
 
-## Changelog (2017-10-21)
+## Changelog 2017-10-21
 
 - added Liliana David to authors
 - dropped the term "framework" (replaced with "practical guide")
@@ -12,7 +12,7 @@
 
 ---
 
-## Changelog (2017-10-21 cont.)
+## Changelog 2017-10-21 (cont.)
 
 - Introduction:
     - added "what's in it for me?"
@@ -23,7 +23,7 @@
 
 ---
 
-## Changelog (2017-10-21 cont.)
+## Changelog 2017-10-21 (cont.)
 
 - _Artful Participation_: refined description
 - _Agreement_: clarified that the concept of agreements is applicable to people in roles
@@ -50,7 +50,7 @@
 
 ---
 
-# Changelog (2017-10-21 cont.)
+## Changelog (2017-10-21 cont.)
 
 **Renamed Patterns:** 
 
