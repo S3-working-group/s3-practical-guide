@@ -96,6 +96,6 @@ def alphabetical_index(config, per_page=20):
 
 
 if __name__ == "__main__":
-    c = read_config("s3-all-patterns-explained.yaml")
+    c = read_config("s3-practical-guide.yaml")
     # index_by_group(c)
     alphabetical_index(c)
