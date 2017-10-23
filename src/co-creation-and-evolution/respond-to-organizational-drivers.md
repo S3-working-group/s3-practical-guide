@@ -1,15 +1,23 @@
 ## Respond to Organizational Drivers
 
-
 ![right,fit](img/driver-domain/driver-response-full.png)
-
 
 _Clarify what's happening and what's needed in relation to the organization, and respond as required._
 
 Responses to drivers:
 
 * action
-* agreement (including creating a role, circle, helping team or open domain)
+* decision (including creating a role, circle, helping team or open domain)
+
+---
+
+## Qualify Organizational Drivers
+
+Some situations might be helpful to address in the context of an organization's primary driver. Others are not within an organization's domain.
+
+A simple way to qualify organizational drivers is by checking:
+
+_Would responding to this driver improve - or avoid impeding - flow of value to an existing organizational driver? a.k.a. can it help or harm us?_
 
 ---
 

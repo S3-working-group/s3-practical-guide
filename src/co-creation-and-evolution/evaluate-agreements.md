@@ -1,16 +1,12 @@
 ## Evaluate Agreements
 
-
 Regular review of agreements is an essential practice for a learning organization; continuously evolving the body of agreements, and eliminating waste:
 
 * adapt to changing context
-* integrate learning
-
-*Is the agreement still relevant?*
-
-*Is the agreement still good enough for now and safe enough to continue?*
-
-*Is there a reason why **not** to continue with this agreement?*
+* integrate learning:
+    - _How has this agreement helped us?_
+    - _How can this agreement be improved?_
+    - _Is there any reason why not to continue with this agreement?_
 
 ---
 

@@ -8,9 +8,7 @@ Objections contain information that reveals:
 - a certain or likely consequence of harm (not considered safe enough to try)
 - ways to improve proposals, decisions, existing agreements or actions
 
-
 ---
-
 
 # Qualify Objections
 
@@ -36,15 +34,14 @@ the whole organization to respond to organizational drivers.
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
 
-
 ---
 
 ## Understanding Objections
 
 ## Some Helpful Questions
 
-* Does the objection relate to this specific proposal or agreement?
-* Does this objection reveal how a (proposed or current) **action or agreement**:
+* How does the argument relate to this specific proposal or agreement?
+* Does the argument reveal how a (proposed or current) **action or agreement**:
     * harms response to any organizational driver?
     * can be improved right now?
     * prevents or diminishes someone's contribution towards responding to a driver?
