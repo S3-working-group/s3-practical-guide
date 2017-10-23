@@ -13,6 +13,10 @@ A simple way to clarify domains is with a **domain description** that contains:
 * term (for a role)
 * (previous versions)
 
+---
+
+## Clarify Domains (cont.)
+
 Domain descriptions can be created for a role, position, circle, team, open domain, department, unit, or the whole organization.
 
 Start by clarifying existing domains and consider defining new ones.

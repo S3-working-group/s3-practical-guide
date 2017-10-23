@@ -2,11 +2,11 @@
 
 Decentralize power to influence within defined constraints. Enable people to decide and act for themselves in response to organizational drivers.
 
-Delegator supports people to deliver value:
+The delegator supports people in delivering value by:
 
-- define domains of accountability and autonomy clearly,
-- ensure ongoing learning and development,
-- provide support as needed.
+- defining domains of accountability and autonomy clearly
+- ensuring ongoing learning and development
+- providing support as needed
 
 Adjust constraints incrementally, considering capabilities, reliability and outcome.
 

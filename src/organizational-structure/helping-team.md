@@ -12,4 +12,4 @@ Members of the helping circle:
 
 * can object to decisions made by the parent circle that affect them
 * can add items to the governance backlog of the parent circle
-* may be invited to select a representative to participate in the governance decision making of the parent circle
+* may be invited to select a representative to participate in governance decisions of the parent circle

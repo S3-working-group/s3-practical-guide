@@ -1,7 +1,7 @@
 ![right,fit](img/james-round.png)
 
 # James Priest
-... serves internationally, providing organizational development consultancy, learning facilitation, mentoring and conflict resolution for people wishing to evolve collaborative, adaptive organizations at scale.
+... serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
 
 [thriveincollaboration.com](http://thriveincollaboration.com)
 

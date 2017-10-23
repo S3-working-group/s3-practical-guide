@@ -2,11 +2,12 @@
 
 ![right,fit](img/agreements/cdm-condensed.png)
 
-* a decision making process (often facilitated)
+A (facilitated) group process for decision making
+
 * invite objections, and integrate the wisdom they reveal, to evolve proposals or existing agreements
-* withholding objections can harm the aims of a group or organization
-* unaddressed objections prevent proposals from becoming agreements
-* "can you *live with it* until the review?" ➤ proposals only need to be *good enough for now and safe enough to try*
+* withholding objections can harm the objectives of a group or organization
+* unresolved objections prevent proposals from becoming agreements
+* proposals only need to be *good enough for now and safe enough to try* until the next review
 
 ---
 

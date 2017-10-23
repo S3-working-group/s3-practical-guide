@@ -2,7 +2,7 @@
 
 **Accountability**: Respond when something is needed, do what you agreed to and take ownership for the course of the organization.
 **Agreement**: An agreed upon guideline, process or protocol designed to guide the flow of _value_.
-**Circle**: An _equivalent_ _semi-autonomous_ and _self-governing_ group of people collaborating to respond to a _driver_.
+**Circle**: An _equivalent_, _semi-autonomous_ and _self-governing_ group of people collaborating to respond to a _driver_.
 **Concern**: An opinion that doing something might impede – or miss an opportunity to improve – flow of value to an organizational _driver_.
 **Consent**: Do things in the absence of reasons not to.
 **Continuous Improvement**: Change incrementally to accommodate steady empirical learning.
@@ -26,7 +26,7 @@
 **Peer Drivers**: Two _drivers_ existing as a direct consequence of a response to the same _superdriver_, are called peer drivers.
 **Pattern**: A template for successfully navigating a specific context.
 **Primary Driver**: The driver that defines a _domain_ is called the primary driver of that domain, except in the case of the organization itself, in which case it is referred to as the **organization's primary driver**.
-**Principle**: A guideline for guideline for behavior.
+**Principle**: A guideline for behavior.
 **Role**: A set of constraints for how an individual can account for a _domain_.
 **Self-Governance**: People governing themselves within the constraints of a domain. 
 **Self-Organization**: People coordinating work within constraints defined through _governance_.

@@ -1,10 +1,10 @@
 ## Evaluate Meetings
 
-
 ![right,fit](img/meetings/evaluate-interactions.png)
 
 Take time for learning at the end of each meeting or workshop.
- Reflect on interactions, celebrate successes and share suggestions for improvement.
+
+Reflect on interactions, celebrate successes and share suggestions for improvement.
 
 * before the closing round
 * reserve 5 minutes for 1 hour, and 15 minutes for a full-day workshop
