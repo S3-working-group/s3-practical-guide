@@ -1,6 +1,6 @@
 ## Patterns 
 
-![right,fit](img/framework/pattern-group-headers/all-groups-dark.png)
+![right,fit](img/pattern-group-headers/all-groups-dark.png)
 
 
 _A **pattern** is a template for successfully navigating a specific context._

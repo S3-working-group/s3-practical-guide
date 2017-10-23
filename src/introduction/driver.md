@@ -4,8 +4,7 @@ A **driver** is a person’s or a group's motive for responding to a specific si
 
 Drivers: 
 
-* focus on the **present** (not the future or assumptions)
-* precede goals, objectives, aims, mission, vision, purpose
+* can be used to derive goals, objectives, aims, mission, vision, purpose
 * can change
 
 ---
