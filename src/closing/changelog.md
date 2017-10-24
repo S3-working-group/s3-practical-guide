@@ -9,6 +9,7 @@
 - added a glossary 
 - added acknowledgements
 - various small clarifications and corrections to text and illustrations
+- updated templates for agreement and development plan
 
 ---
 
