@@ -8,21 +8,21 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
 
 ### Logbook Contents
 
-* Organization: 
-    * primary driver, strategy and organizational values
-    * organizational structure (domains and connections)
-    * agreements 
+-   Organization: 
+    -   primary driver, strategy and organizational values
+    -   organizational structure (domains and connections)
+    -   agreements 
 
-* Circle: 
-    * circle description and strategy
-    * agreements (including delegatees' domain descriptions, strategies and development plans)
-    * backlogs and other information relating to a circle's work and governance
+-   Circle: 
+    -   circle description and strategy
+    -   agreements (including delegatees' domain descriptions, strategies and development plans)
+    -   backlogs and other information relating to a circle's work and governance
 
 ---
 
 ### Logbook Contents (cont.)
 
-* Personal logbooks
-    * domain descriptions, strategies and development plans
-    * governance and operational backlogs for roles
-    * decisions related to delivering value in a role
+-   Personal logbooks
+    -   domain descriptions, strategies and development plans
+    -   governance and operational backlogs for roles
+    -   decisions related to delivering value in a role

@@ -6,12 +6,12 @@ A clear understanding of people's area of accountability and autonomy enables gr
 
 A simple way to clarify domains is with a **domain description** that contains:
 
-* primary driver
-* key responsibilities
-* constraints
-* evaluation criteria for peer review
-* term (for a role)
-* (previous versions)
+-   primary driver
+-   key responsibilities
+-   constraints
+-   evaluation criteria for peer review
+-   term (for a role)
+-   (previous versions)
 
 ---
 

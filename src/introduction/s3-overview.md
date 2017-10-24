@@ -2,9 +2,9 @@
 
 ### Effective Collaboration At Any Scale
 
-* **principles-based**: A coherent way for growing organizational integrity and developing an agile mindset
-* **flexible**: adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
-* **free**: licensed under a Creative Commons Free Culture License
+-   **principles-based**: A coherent way for growing organizational integrity and developing an agile mindset
+-   **flexible**: adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
+-   **free**: licensed under a Creative Commons Free Culture License
 
 ---
 

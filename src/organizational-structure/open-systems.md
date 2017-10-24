@@ -8,5 +8,5 @@ An organization is an interdependent system that benefits from consciously invit
 
 ## Open Systems (cont.)
 
-* **External experts** can offer an outside perspective and bring knowledge, understanding and skills
-* **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)
+-   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
+-   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)

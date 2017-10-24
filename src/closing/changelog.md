@@ -15,11 +15,11 @@
 ## Changelog 2017-10-21 (cont.)
 
 - Introduction:
-    - added "what's in it for me?"
-    - added definitions for governance, self-organization, semi-autonomy, operations to introduction
-    - clarified domains and their relationship to drivers
-    - fleshed out core concepts
-    - made all principles actionable
+    -   added "what's in it for me?"
+    -   added definitions for governance, self-organization, semi-autonomy, operations to introduction
+    -   clarified domains and their relationship to drivers
+    -   fleshed out core concepts
+    -   made all principles actionable
 
 ---
 

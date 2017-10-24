@@ -6,5 +6,5 @@
 
 Two interdependent circles (or teams) each select one of their members to represent their interests in the governance decisions of the other group.
 
-* creates equivalence between two groups
-* can be used to draw out valuable information in hierarchical structures
+-   creates equivalence between two groups
+-   can be used to draw out valuable information in hierarchical structures

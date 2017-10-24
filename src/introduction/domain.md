@@ -14,8 +14,8 @@ Domains are delegated to people (e.g. to a unit, department, team or individuals
 
 Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
 
-* **key responsibilities** (specifics of the work and decision making being delegated)
-* **constraints to autonomy and influence** for those the domain is delegated to, usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
+-   **key responsibilities** (specifics of the work and decision making being delegated)
+-   **constraints to autonomy and influence** for those the domain is delegated to, usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
 
 ---
 
@@ -34,8 +34,8 @@ A domain can be defined in relation to an organizational driver - known as the d
 
 ![right,fit](img/driver-domain/nested-domains.png)
 
-* accountability applies to all agreements, including the organization itself, circles, and roles
-* everyone's primary accountability is for effective collaboration in response to organizational drivers
-* individuals and groups are accountable for their work and their own development
-* everyone in an organization is accountable for aligning action with organizational values
+-   accountability applies to all agreements, including the organization itself, circles, and roles
+-   everyone's primary accountability is for effective collaboration in response to organizational drivers
+-   individuals and groups are accountable for their work and their own development
+-   everyone in an organization is accountable for aligning action with organizational values
 

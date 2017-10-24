@@ -16,10 +16,10 @@ _How would doing this impede - or miss an opportunity to improve - flow of value
 
 Objections stop: 
 
-* current and planned action
-* people from executing on decisions
-* existing agreements from continuing without being reconsidered
-* proposals from becoming agreements
+-   current and planned action
+-   people from executing on decisions
+-   existing agreements from continuing without being reconsidered
+-   proposals from becoming agreements
 
 ---
 
@@ -40,13 +40,13 @@ Being able to raise *potential* objections at any time means decisions only need
 
 Some Helpful Questions:
 
-* How does the argument relate to this specific proposal or agreement?
-* Does the argument reveal how a (proposed or current) **action or agreement**:
-    * harms response to any organizational driver?
-    * can be improved right now?
-    * prevents or diminishes someone's contribution towards responding to a driver?
-    * is in conflict with the organization's values?
-    * is considered not ‘safe enough’ to try?
+-   How does the argument relate to this specific proposal or agreement?
+-   Does the argument reveal how a (proposed or current) **action or agreement**:
+    -   harms response to any organizational driver?
+    -   can be improved right now?
+    -   prevents or diminishes someone's contribution towards responding to a driver?
+    -   is in conflict with the organization's values?
+    -   is considered not ‘safe enough’ to try?
 
 ---
 
@@ -56,8 +56,8 @@ A **concern** is an _opinion_ that doing something (even if already considered _
 
 In consent decision making, concerns:
 
-* can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation) 
-* are heard if there is time or they are considered important
-* are recorded in the logbook
+-   can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation) 
+-   are heard if there is time or they are considered important
+-   are recorded in the logbook
 
 If people believe a proposal may not be ‘safe enough to try’, they can raise concerns as objections to check with others about likelihood of harm.

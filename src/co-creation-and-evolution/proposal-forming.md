@@ -4,9 +4,9 @@
 
 **A (facilitated) group process for co-creating a response to a driver**
 
-* draws on the collective intelligence and diversity of perspective within a group
-* involves people in co-creating agreements
-* fosters accountability and sense of ownership
+-   draws on the collective intelligence and diversity of perspective within a group
+-   involves people in co-creating agreements
+-   fosters accountability and sense of ownership
 
 Proposal forming may be also be used by an individual.
 
@@ -28,8 +28,8 @@ Proposal forming may be also be used by an individual.
 
 ![right,fit](img/templates/proposal-template.png)
 
-* who should be there?
-* who wants to be there?
-* who else may have a valuable contribution to make?
-* consider expertise, outside view, and inspiration
-* any objections to this group?
+-   who should be there?
+-   who wants to be there?
+-   who else may have a valuable contribution to make?
+-   consider expertise, outside view, and inspiration
+-   any objections to this group?

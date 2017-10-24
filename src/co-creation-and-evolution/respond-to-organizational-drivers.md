@@ -6,8 +6,8 @@ _Clarify what's happening and what's needed in relation to the organization, and
 
 Responses to drivers:
 
-* action
-* decision (including creating a role, circle, helping team or open domain)
+-   action
+-   decision (including creating a role, circle, helping team or open domain)
 
 ---
 
@@ -27,7 +27,7 @@ _Would responding to this driver improve - or avoid impeding - flow of value to 
 
 The response to a driver is usually an experiment that is evolved over time, based on learning.
 
-* Is the description of the situation still correct?
-* Do we still associate the same needs with the situation?
-* Is the driver still within our domain?
-* Is the driver still relevant?
+-   Is the description of the situation still correct?
+-   Do we still associate the same needs with the situation?
+-   Is the driver still within our domain?
+-   Is the driver still relevant?

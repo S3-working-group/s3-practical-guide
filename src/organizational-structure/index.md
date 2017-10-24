@@ -4,11 +4,11 @@ Organizational structure is the actual arrangement of domains and their connecti
 
 An effective organizational structure:
 
-* supports flow of value
-* enables collaboration
-* ensures information is available to those who need it
-* distributes power to influence as required
-* evolves continuously to adapt to changing context
+-   supports flow of value
+-   enables collaboration
+-   ensures information is available to those who need it
+-   distributes power to influence as required
+-   evolves continuously to adapt to changing context
 
 ---
 
@@ -25,7 +25,7 @@ Domains can be linked in a hierarchy or a **heterarchy** (a.k.a. complex adaptiv
 
 Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 
-* patterns apply to different layers of abstraction
-* different structural patterns serve different drivers
-* structural patterns can be adapted and combined as needed
-* more patterns are out there and will be discovered
+-   patterns apply to different layers of abstraction
+-   different structural patterns serve different drivers
+-   structural patterns can be adapted and combined as needed
+-   more patterns are out there and will be discovered

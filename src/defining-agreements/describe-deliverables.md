@@ -4,8 +4,8 @@ A **deliverable** is something which is provided as a result of an agreement in 
 
 In the context of an agreement, clearly describing deliverables supports shared understanding:
 
-* include the necessary amount of detail
-* reference other documents when helpful or necessary
+-   include the necessary amount of detail
+-   reference other documents when helpful or necessary
 
 ---
 
@@ -13,8 +13,8 @@ In the context of an agreement, clearly describing deliverables supports shared 
 
 Explicitly defining deliverables can be useful for improving: 
 
-* organizational strategy
-* circle strategy
-* development plans
-* domain descriptions
-* any other agreement (e.g. business goals, process policy, customer communication)
+-   organizational strategy
+-   circle strategy
+-   development plans
+-   domain descriptions
+-   any other agreement (e.g. business goals, process policy, customer communication)
