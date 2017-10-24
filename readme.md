@@ -1,12 +1,12 @@
 # Sociocracy 3.0 - A Practical Guide
 
-This is a slide deck for teaching the patterns in Sociocracy 3.0. The deck is currently built in [Deckset](decksetapp.com), and a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/).
+This repository contains the source file for  a slide deck for teaching Sociocracy 3.0, available as [online presentation](http://sociocracy30.org/slides/s3-practical-guide.html), or for download from [sociocracy30.org/guide](http://sociocracy30.org/guide) (as pdf or as an archive with one image per slide)
 
-The deck is available for download as pdf or as an archive with individual pngs from [sociocracy30.org/guide](http://sociocracy30.org/guide)) or as [online presentation](http://sociocracy30.org/slides/s3-practical-guide.html). 
-
-Translated versions will be available later this year.
+Translated versions will be available later this year, if you want to help with translations, please take a look at the [translations page](http://sociocracy30.org/translations/).
 
 ## Build Process
+
+The deck is currently built in [Deckset](decksetapp.com), and a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/).
 
 The Markdown files for the individual patterns are grouped in directories per patterns group and built using a build script. Input format is Deckset (for now), i.e. slide separators are "---".
 
