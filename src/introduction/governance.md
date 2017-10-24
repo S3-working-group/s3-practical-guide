@@ -19,9 +19,9 @@ Tracking, reviewing and evolving decisions made to achieve objectives enables an
 
 _Does it require or benefit from an individual or group decision?_
 
--   yes ➤ governance
+-   yes: governance
     -   not covered by a previous agreement
     -   needs to be agreed, decided or amended
--   no ➤ operations
+-   no: operations
     -   covered by previous agreement (those accountable are free to act)
     -   needs to be done
