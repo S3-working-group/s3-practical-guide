@@ -8,7 +8,7 @@ A _role keeper_ (individual selected into a role) is autonomous to decide and ac
 
 - people can be in more than one role
 - selection is by consent and for a limited term
-- the role keeper leads in creating strategy for how to account for the role's domain, checking for objections with the parent circle
+- the role keeper leads in creating strategy for how to account for their domain, and updates their strategy to resolve the delegator's objections
 - peers support one another to develop in the roles they fulfill
 
 A role keeper may maintain a logbook and a governance backlog to evolve their approach towards delivering value.

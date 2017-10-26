@@ -5,7 +5,7 @@ A **driver** is a person’s or a group's motive for responding to a specific si
 Drivers: 
 
 -   can be used to derive goals, objectives, aims, mission, vision, purpose
--   can change
+-   can change over time
 
 ---
 

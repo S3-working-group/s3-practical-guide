@@ -19,5 +19,4 @@ A simple way to clarify domains is with a **domain description** that contains:
 
 Domain descriptions can be created for a role, position, circle, team, open domain, department, unit, or the whole organization.
 
-Start by clarifying existing domains and consider defining new ones.
-
+You can either start by clarifying existing domains, or at least clarify new ones.

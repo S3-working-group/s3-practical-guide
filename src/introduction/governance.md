@@ -9,7 +9,7 @@
 
 **Operations** (Doing the Work): People doing what needs to be done, guided by coordination and governance.
 
-**Semi-Autonomy**: People with autonomy to create value, limited by the constraints of their domain.
+**Semi-Autonomy**: The autonomy of people to create value, which is limited by the constraints of their domain.
 
 ---
 

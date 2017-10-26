@@ -1,6 +1,6 @@
 ## Open S3 Adoption
 
-**Invite everyone to evolve to create and run experiments for evolving the organization.**
+**Invite everyone to create and run experiments for evolving the organization.**
 
 -   identify the driver for pulling in S3 patterns
 -   schedule regular open space events:
