@@ -13,7 +13,7 @@ Responses to drivers:
 
 ### Qualify Organizational Drivers
 
-Some situations might be helpful to address in the context of an organization's primary driver. Others are not within an organization's domain.
+Some drivers are (directly or indirectly) related to an organization's primary driver, these are considered **organizational drivers**. Other drivers do not fall within the organization's domain.
 
 A simple way to qualify organizational drivers is by checking:
 
