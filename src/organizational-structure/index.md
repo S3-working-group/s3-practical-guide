@@ -6,6 +6,7 @@ An effective organizational structure:
 
 -   supports flow of value
 -   enables collaboration
+-   addresses dependencies and makes them explicit
 -   ensures information is available to those who need it
 -   distributes power to influence as required
 -   evolves continuously to adapt to changing context
@@ -17,7 +18,7 @@ An effective organizational structure:
 
 The basic building blocks for organizational structure are interdependent, connected domains.
 
-Domains can be linked in a hierarchy or a **heterarchy** (a.k.a. complex adaptive system, or network), where different functional structures co-exist.
+Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex  adaptive system, or network, where multiple functional structures can co-exist).
 
 ---
 
