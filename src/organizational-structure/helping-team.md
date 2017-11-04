@@ -2,14 +2,17 @@
 
 ![right,fit](img/structural-patterns/helping-team.png)
 
-A group of people with the mandate to execute on requirements defined by a circle in response to a driver.
+A group of people with the mandate to execute on a specific set of requirements defined by a delegator.
 
--   a way for a circle to expand its capacity
--   may be self-organizing or guided by a coordinator chosen by the parent circle
--   is governed by the parent circle
+A helping team: 
 
-Members of the helping circle:
+-   is a way for a delegator to expand their capacity
+-   may be self-organizing, or guided by a coordinator chosen by the delegator
+-   is governed by the delegator
+-   benefits from a clearly defined domain
+
+Members of the helping team:
 
 -   can object to decisions made by the parent circle that affect them
--   can add items to the governance backlog of the parent circle
--   may be invited to select a representative to participate in governance decisions of the parent circle
+-   can add items to the delegator's governance backlog
+-   may be invited to select a representative to participate in the governance decisions of the delegator
