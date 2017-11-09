@@ -7,7 +7,7 @@
 - updated order of patterns
 - added an index of all the patterns 
 - added a glossary 
-- added acknowledgements
+- added acknowledgments
 - various small clarifications and corrections to text and illustrations
 - updated templates for agreement and development plan
 

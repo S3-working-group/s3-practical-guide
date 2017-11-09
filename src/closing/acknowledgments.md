@@ -1,4 +1,4 @@
-## Acknowledgements 
+## Acknowledgments 
 
 The content of Sociocracy 3.0 reflects the accumulated experience and wisdom of contributors across generations. These people have shared a common quest to evolve more effective, harmonious and conscious ways of collaborating together.
 
@@ -10,7 +10,7 @@ Finally to acknowledge our numerous colleagues, customers, clients and attendees
 
 ---
 
-## Acknowledgements (cont.)
+## Acknowledgments (cont.)
 
 By no means an exhaustive list, we’d like to offer our appreciation to the following people who directly contributed towards developing Sociocracy 3.0, or whose work influenced what it is today:
 

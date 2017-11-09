@@ -1,8 +1,8 @@
-## Representative
+## Representative (role)
 
 Representatives (a.k.a. links):
 
--   stand for the interests of a circle (or team) in another circle
+-   stand for the interests one group in another group
 -   are selected for a limited term
 -   participate as full members in the **governance decisions** of the circle they are delegated to, and can:
     -   raise items for the agenda

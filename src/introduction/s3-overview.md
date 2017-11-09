@@ -22,6 +22,6 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 
 ## Contents
 
--   a brief introduction of some basic concepts behind S3
+-   a brief overview of some basic concepts behind S3
 -   a description of all the patterns in S3
--   an appendix with a changelog, acknowledgements, info about authors and license, a glossary and an index
+-   an appendix with a changelog, acknowledgments, info about authors and license, a glossary and an index
