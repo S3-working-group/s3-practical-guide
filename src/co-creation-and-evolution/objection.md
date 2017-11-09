@@ -2,24 +2,10 @@
 
 _An **objection** is a reason why doing something stands in the way of (more) effective response to a driver._
 
-
 Objections contain information that reveals:
 
 - a certain or likely consequence of harm (not considered safe enough to try)
 - ways to improve proposals, decisions, existing agreements or actions
-
----
-
-### Qualify Objections
-
-_How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?_
-
-Objections stop: 
-
--   current and planned action
--   people from executing on decisions
--   existing agreements from continuing without being reconsidered
--   proposals from becoming agreements
 
 ---
 
@@ -33,6 +19,19 @@ Withholding objections can harm the ability of individuals, groups or
 the whole organization to respond to organizational drivers.
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
+
+---
+
+### Qualify Objections
+
+_How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?_
+
+Objections stop: 
+
+-   current and planned action
+-   people from executing on decisions
+-   existing agreements from continuing without being reconsidered
+-   proposals from becoming agreements
 
 ---
 
