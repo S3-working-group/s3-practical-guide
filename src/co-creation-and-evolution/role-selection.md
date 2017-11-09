@@ -2,7 +2,7 @@
 
 ![right,fit](img/agreements/selection.png)
 
-**A group process for selecting people for roles**
+**A group process for selecting people for roles.**
 
 -   People avoid expressing interest before the selection
 -   Nominations are made on the strength of the reason, not according to the majority

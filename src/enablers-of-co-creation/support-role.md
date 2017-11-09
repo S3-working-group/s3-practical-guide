@@ -1,6 +1,6 @@
 ## Support Role
 
-### Apply the role pattern to external contractors
+**Apply the role pattern to external contractors.**
     
 -   clarify and describe driver for the role
 -   create domain description

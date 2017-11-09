@@ -1,6 +1,6 @@
 ## Continuous Improvement Of Work Process With S3
 
-**To reveal drivers and establish a metrics-based pull-system for organizational change**
+**To reveal drivers and establish a metrics-based pull-system for organizational change.**
 
 -   introduce the principle of consent and _Navigate Via Tension_ to evolve work process in one team
 -   consider selecting a facilitator and agreeing on values

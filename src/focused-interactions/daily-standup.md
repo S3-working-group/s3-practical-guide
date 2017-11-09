@@ -2,7 +2,7 @@
 
 ![right,fit](img/meetings/planning-review-standup.png)
 
-**A meeting to coordinate work, facilitate learning, improve productivity and effectiveness**
+**A meeting to coordinate work, facilitate learning, improve productivity and effectiveness.**
 
 -   time-boxed (usually 15 minutes)
 -   held daily at the same time

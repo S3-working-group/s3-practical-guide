@@ -37,7 +37,7 @@ Typical agenda items include:
     -   understanding and agreeing on situations that require attention 
     -   forming proposals and making agreements 
     -   creating and defining new roles and groups 
-    -   reviewing existing roles and teams 
+    -   reviewing existing roles or groups
     -   selecting people to roles 
 
 

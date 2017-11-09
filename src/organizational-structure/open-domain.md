@@ -2,7 +2,7 @@
 
 ![right,fit](img/structural-patterns/open-domain.png)
 
-An open domain is a way to intentionally account for a domain by invitation rather than assignment.
+**A way to intentionally account for a domain by invitation rather than assignment.**
  
 The delegator of the open domain clarifies:
  

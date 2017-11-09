@@ -1,6 +1,6 @@
 ## Development Plan
 
-An agreement supporting people to more effectively collaborate as a group or fulfill a role.
+**An agreement supporting people to more effectively collaborate as a group or fulfill a role.**
 
 A development plan is passed as a proposal to the delegator to test for objections and concerns.
 

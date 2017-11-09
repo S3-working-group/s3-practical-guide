@@ -2,7 +2,7 @@
 
 ![right,fit](img/agreements/proposal-forming-medium.png)
 
-**A (facilitated) group process for co-creating a response to a driver**
+**A (facilitated) group process for co-creating a response to a driver.**
 
 -   draws on the collective intelligence and diversity of perspective within a group
 -   involves people in co-creating agreements

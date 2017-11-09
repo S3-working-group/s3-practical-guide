@@ -2,7 +2,7 @@
 
 ![right,fit](img/meetings/evaluate-interactions.png)
 
-Take time for learning at the end of each meeting or workshop.
+**Take time for learning at the end of each meeting or workshop.**
 
 Reflect on interactions, celebrate successes and share suggestions for improvement.
 

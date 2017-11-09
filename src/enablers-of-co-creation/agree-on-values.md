@@ -2,7 +2,7 @@
 
 ![right,fit](img/collaboration-values/chosen-values.png)
 
-**Intentionally shape the culture in your organization**
+**Intentionally shape the culture in your organization.**
 
 _A **value** is a principle that guides behavior. Values define scope for action and ethical constraints._
 
