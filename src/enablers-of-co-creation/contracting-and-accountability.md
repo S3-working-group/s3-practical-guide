@@ -2,8 +2,8 @@
 
 When entering into formal or informal agreements with others:
 
-* ensure all parties understand what's expected of them and intend to keep to the agreement
-* verify the agreement is beneficial to all parties, and that expectations are realistic
+-   ensure all parties understand what's expected of them and intend to keep to the agreement
+-   verify the agreement is beneficial to all parties, and that expectations are realistic
 
 Be accountable for breaking agreements. 
 

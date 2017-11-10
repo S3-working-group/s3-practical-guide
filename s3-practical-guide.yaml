@@ -14,7 +14,7 @@ closing:
   - changelog
   - links
   - license
-  - acknowledgements
+  - acknowledgments
   - authors
   - glossary
 
@@ -101,13 +101,13 @@ chapters:
     - linking
     - double linking
     - representative
-  organizational structure:
     - helping team
+    - open domain
+    - open systems
+  organizational structure:
     - service circle
     - delegate circle
     - peach organization
     - double-linked hierarchy
-    - open systems
     - service organization
     - fractal organization
-    - open domain

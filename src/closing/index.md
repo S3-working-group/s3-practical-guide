@@ -1,8 +1,8 @@
 # Appendix
 
-* Changelog
-* Links
-* License
-* Authors
-* Glossary
-* Pattern Index
+-   Changelog
+-   Links
+-   License
+-   Authors
+-   Glossary
+-   Pattern Index

@@ -4,8 +4,8 @@ A **driver** is a person’s or a group's motive for responding to a specific si
 
 Drivers: 
 
-* can be used to derive goals, objectives, aims, mission, vision, purpose
-* can change
+-   can be used to derive goals, objectives, aims, mission, vision, purpose
+-   can change over time
 
 ---
 
@@ -17,6 +17,6 @@ _**Waste:** is anything not necessary for - or standing in the way of - effectiv
 
 By adopting the concept of value and waste, many practices and ideas from **lean production** and **lean software development** can be utilized by organizations pulling in S3 patterns:
 
-* value stream mapping
-* various strategies for eliminating waste
-* the Kanban Method
+-   value stream mapping
+-   various strategies for eliminating waste
+-   the Kanban Method

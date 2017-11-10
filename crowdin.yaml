@@ -4,5 +4,9 @@
   {
     "source": "/src/**/*.md",
     "translation": "/translations/%two_letters_code%/src/**/%original_file_name%"
+  },
+  {
+    "source": "glossary.yaml",
+    "translation": "/translations/%two_letters_code%/%original_file_name%"
   }
 ]

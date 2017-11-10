@@ -4,28 +4,30 @@ A backlog (to-do-list) is a visible list of (often prioritized) uncompleted work
 
 Types of backlog include:
 
-* operations backlog
-* sprint backlog
-* product backlog
-* impediments backlog
+-   operations backlog
+-   sprint backlog
+-   product backlog
+-   impediments backlog
 
 ---
 
 ##  Backlog (cont.)
 
-* **Implementation**
-    - **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
-    - **digital backlog**: e.g. Google Sheets, Trello, Kanban Flow, Jira
+-   **Implementation**
+    -   **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
+    -   **digital backlog**: e.g. Google Sheets, Trello, Kanban Flow, Jira
 
 ---
 
-### Elements of a (prioritized) backlog 
+## Backlog (cont.)
 
-* a **short description** or a driver statement
-* a **unique reference number** (or link) for each work item
-* (the **order of work items**)
-* **dependencies** to other work items or projects
-* **due date** (if necessary)
-* (optional) a measure for **value** 
-* (optional) a measure for **investment** (often an estimate of time or complexity)
+Each item on a (prioritized) backlog contains:
+
+-   a **short description** or a driver statement
+-   a **unique reference number** (or link) for each work item
+-   (the **order of work items**)
+-   **dependencies** to other work items or projects
+-   **due date** (if necessary)
+-   (optional) a measure for **value** 
+-   (optional) a measure for **investment** (often an estimate of time or complexity)
 

@@ -2,19 +2,25 @@
 
 ![right,fit](img/illustrations/roles.png)
 
-_A **role** is a set of constraints for how an individual can account for a domain._
+**Delegate accountability for a domain to individuals.**
 
-A _role keeper_ (individual selected into a role) is autonomous to decide and act within these constraints.
+A role is an area of accountability defined by a domain and assigned to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
-- people can be in more than one role
-- selection is by consent and for a limited term
-- the role keeper leads in creating strategy for how to account for the role's domain, checking for objections with the parent circle
+The role keeper leads in creating strategy for how to account for their domain, evolving it in the case of objections from the delegator.
+
+A role is a simple way for a group to delegate recurring tasks or a specific area of work to one of its members.
+
+--- 
+
+## Role (cont.)
+
+- people can be in more than one role, and roles can be fulfilled by more than one person
+- role keepers are selected by consent and for a limited term
 - peers support one another to develop in the roles they fulfill
 
 A role keeper may maintain a logbook and a governance backlog to evolve their approach towards delivering value.
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
-
 
 ---
 
