@@ -2,7 +2,7 @@
 
 ![right,fit](img/driver-domain/driver-strategy-agreements-domain.png)
 
-_A **strategy** is a high level approach how people will create value to successfully account for a domain._
+{{define:strategy}}
 
 -   an organization, group or role keeper develop their own strategy
 -   a strategy often includes a description of the intended outcome

@@ -1,6 +1,6 @@
 ## Backlog
 
-A backlog (to-do-list) is a visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
+{{define:backlog}}
 
 Types of backlog include:
 

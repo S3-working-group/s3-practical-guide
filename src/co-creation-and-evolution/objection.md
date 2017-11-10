@@ -1,6 +1,6 @@
 ## Objection
 
-_An **objection** is a reason why doing something stands in the way of (more) effective response to a driver._
+{{define:objection}}
 
 Objections contain information that reveals:
 

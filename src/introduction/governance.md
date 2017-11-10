@@ -1,15 +1,15 @@
 
 ## Governance, Semi-Autonomy and  Self-Organization
 
-**Governance**: Continuously deciding what to do to achieve objectives, and setting constraints on how and when things will be done.
+**Governance**: {{glossary:governance}}
 
-**Self-Governance**: People governing themselves within the constraints of a domain. 
+**Self-Governance**: {{glossary:self-governance}}
 
-**Self-Organization**: People coordinating work within constraints defined through governance.
+**Self-Organization**: {{glossary:self-organization}}
 
-**Operations** (Doing the Work): People doing what needs to be done, guided by coordination and governance.
+**Operations** (Doing the Work): {{glossary:operations}}
 
-**Semi-Autonomy**: The autonomy of people to create value, which is limited by the constraints of their domain.
+**Semi-Autonomy**: {{glossary:semi-autonomy}}
 
 ---
 

@@ -1,2 +1,2 @@
 
-{{glossary:full}}
+{{insert-full-glossary}}

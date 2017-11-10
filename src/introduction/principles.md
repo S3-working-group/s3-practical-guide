@@ -4,23 +4,22 @@
 
 ---
 
-
 ## The Seven Principles
 
-**Effectiveness:** *Devote time only to what brings you closer towards achieving your objectives.*
+**Effectiveness:** *{{glossary:effectiveness}}*
 
-**Consent:** *Do things in the absence of reasons not to.*
+**Consent:** *{{glossary:consent}}*
 
-**Empiricism:** *Test all assumptions through experiments, continuous revision and falsification.*
+**Empiricism:** *{{glossary:empiricism}}*
 
 ---
 
 ## The Seven Principles (cont.)
 
-**Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
+**Continuous Improvement:** *{{glossary:continuous-improvement}}*
 
-**Equivalence:** *Involve people in making and evolving decisions that affect them.*
+**Equivalence:** *{{glossary:equivalence}}*
 
-**Transparency:** *Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.*
+**Transparency:** *{{glossary:transparency}}*
 
-**Accountability:** *Respond when something is needed, do what you agreed to and take ownership for the course of the organization.*
+**Accountability:** *{{glossary:accountability}}*

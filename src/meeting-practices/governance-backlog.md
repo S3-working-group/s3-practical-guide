@@ -1,6 +1,6 @@
 ## Governance Backlog
 
-A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
+{{define:governance-backlog}}
 
 -   upcoming reports
 -   decisions to make
