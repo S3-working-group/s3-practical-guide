@@ -1,6 +1,6 @@
 ## Circle
 
-![right,fit](img/circle/circle-driver.png)  
+![right,fit](img/circle/circle.png)  
 
 {{define:circle}}
 
