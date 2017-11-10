@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-08) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-10) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -154,7 +154,7 @@ Domains are delegated to people (e.g. to a unit, department, team or individuals
 
 Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
 
--   **key responsibilities** (specifics of the work and decision making being delegated)
+-   **key responsibilities** (essential work and decision making being delegated)
 -   **constraints to autonomy and influence** for those the domain is delegated to, usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
 
 ---
@@ -614,11 +614,13 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 ## Pattern 2.4: Development Plan
 
-**An agreement supporting people to more effectively collaborate as a group or fulfill a role.**
+**A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.**
 
-A development plan is passed as a proposal to the delegator to test for objections and concerns.
+The development plan may relate to a person in a role, or a group (e.g. a department, circle, team or open domain).
 
-Acting on development plans is an integral part of the strategy of people in roles, and of groups.
+Development may happen in the form of refining description of driver and domain, amendments to strategy, new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
+
+The development plan proposal along with recommendations for changes to the domain description and / or the driver statement is passed to the delegator to test for objections and concerns.
 
 ---
 
@@ -865,9 +867,9 @@ Decentralize as much as possible, retain as much influence as necessary.
 
 ## Pattern 4.2: Circle
 
-![right,fit](img/circle/circle-driver.png)  
+![right,fit](img/circle/circle.png)  
 
-_A **circle** is an equivalent, semi-autonomous and self-governing group of people collaborating to respond to a driver._
+_A **circle** is an equivalent, self-governing, and semi-autonomous group of people collaborating to account for a domain._
 
 A circle:
 
@@ -892,19 +894,25 @@ A circle:
 
 ![right,fit](img/illustrations/roles.png)
 
-_A **role** is a set of constraints for how an individual can account for a domain._
+**Delegate accountability for a domain to individuals.**
 
-A _role keeper_ (individual selected into a role) is autonomous to decide and act within these constraints.
+A role is an area of accountability defined by a domain and assigned to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
-- people can be in more than one role
-- selection is by consent and for a limited term
-- the role keeper leads in creating strategy for how to account for their domain, and updates their strategy to resolve the delegator's objections
+The role keeper leads in creating strategy for how to account for their domain, evolving it in the case of objections from the delegator.
+
+A role is a simple way for a group to delegate recurring tasks or a specific area of work to one of its members.
+
+--- 
+
+## Role (cont.)
+
+- people can be in more than one role, and roles can be fulfilled by more than one person
+- role keepers are selected by consent and for a limited term
 - peers support one another to develop in the roles they fulfill
 
 A role keeper may maintain a logbook and a governance backlog to evolve their approach towards delivering value.
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
-
 
 ---
 
@@ -950,6 +958,62 @@ Representatives (a.k.a. links):
     -   raise items for the agenda
     -   participate in forming proposals
     -   object to agreements and proposals (when there is reason to do so)
+
+
+---
+
+## Pattern 4.7: Helping Team
+
+![right,fit](img/structural-patterns/helping-team.png)
+
+A group of people with the mandate to execute on a specific set of requirements defined by a delegator.
+
+A helping team: 
+
+-   is a way for a delegator to expand their capacity
+-   may be self-organizing, or guided by a coordinator chosen by the delegator
+-   is governed by the delegator
+-   benefits from a clearly defined domain
+
+Members of the helping team:
+
+-   can object to the delegator's decisions that affect them
+-   can add items to the delegator's governance backlog
+-   may be invited to select a representative to participate in the governance decisions of the delegator
+
+---
+
+## Pattern 4.8: Open Domain
+
+![right,fit](img/structural-patterns/open-domain.png)
+
+**A way to intentionally account for a domain by invitation rather than assignment.**
+ 
+The delegator of the open domain clarifies:
+ 
+- primary driver, key responsibilities and constraints of the open domain
+- who is invited to contribute to the open domain
+- constraints relating to the delegator’s participation in the open domain’s governance
+ 
+The delegator of the open domain is accountable for ensuring regular review of the open domain.
+
+Depending on the constraints set by delegators, contributors may account for work and/or governance of the open domain.
+
+
+---
+
+## Pattern 4.9: Open Systems
+
+An organization can benefit from intentionally communicating with and learning from others.
+
+Acknowledging its interdependence, an organization can consciously invite **outside information, influence or skills** to assist with making decisions and to support collective learning.
+
+---
+
+## Open Systems (cont.)
+
+-   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
+-   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)
 
 
 ---
@@ -1391,7 +1455,7 @@ People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and 
 -   go around the circle giving everyone the chance to speak
 -   begin each round with a different person, and change direction (clockwise or ccw) to bring variation to who speaks first and last, and to the order of people's contributions.
 
-There are a number of ways that experienced groups can fast track certain rounds.
+Experienced groups might sometimes choose to fast-track certain rounds in S3 group processes.
 
 
 ---
@@ -1468,7 +1532,7 @@ The role may be assigned temporarily (i.e. for one specific event) or for a dura
 
 ## Pattern 8.5: Governance Backlog
 
-A **governance backlog** is a visible, prioritized list of items (drivers) related to governing a domain, that require attention.
+A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
 
 -   upcoming reports
 -   decisions to make
@@ -1619,12 +1683,11 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 ## Pattern 9.7: Coordinator (Role)
 
-A person in the role of a coordinator is accountable for **coordinating a group's operations** and is **selected for a limited term.**
+A person in the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
 
-- the coordinator may be selected by the group itself, or by a superset circle
-- the coordinator role is an optional pattern for coordinating work within a domain
-- coordinators may collaborate to synchronize work across multiple domains
-
+-   the coordinator may be selected by the group itself, or by the delegator
+-   several coordinators may collaborate to synchronize work across multiple domains
+-   instead of selecting a coordinator, a group may choose to self-organize
 
 ---
 
@@ -1671,28 +1734,7 @@ Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 
 ---
 
-## Pattern 10.1: Helping Team
-
-![right,fit](img/structural-patterns/helping-team.png)
-
-A group of people with the mandate to execute on a specific set of requirements defined by a delegator.
-
-A helping team: 
-
--   is a way for a delegator to expand their capacity
--   may be self-organizing, or guided by a coordinator chosen by the delegator
--   is governed by the delegator
--   benefits from a clearly defined domain
-
-Members of the helping team:
-
--   can object to decisions made by the parent circle that affect them
--   can add items to the delegator's governance backlog
--   may be invited to select a representative to participate in the governance decisions of the delegator
-
----
-
-## Pattern 10.2: Service Circle
+## Pattern 10.1: Service Circle
 
 ![right,fit](img/structural-patterns/service-circle.png)
 
@@ -1703,7 +1745,7 @@ A service circle can be populated by members of the domains it serves, and/or by
 
 ---
 
-## Pattern 10.3: Delegate Circle
+## Pattern 10.2: Delegate Circle
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
@@ -1718,7 +1760,7 @@ Delegate circles provide a way of steering organizations in alignment to the flo
 
 ---
 
-## Pattern 10.4: Peach Organization
+## Pattern 10.3: Peach Organization
 
 ![right,fit](img/structural-patterns/peach-organization.png)
 
@@ -1732,7 +1774,7 @@ Deliver value in complex and competitive environments through **decentralization
 
 ---
 
-## Pattern 10.5: Double-Linked Hierarchy
+## Pattern 10.4: Double-Linked Hierarchy
 
 ![right,fit](img/structural-patterns/double-linked-hierarchy.png)
 
@@ -1745,23 +1787,7 @@ Deliver value in complex and competitive environments through **decentralization
 
 ---
 
-## Pattern 10.6: Open Systems
-
-An organization (or it's various sub-domains) can benefit from intentionally communicating with and learning from others.
-
-An organization is an interdependent system that benefits from consciously inviting **information and influence** from people who can assist with making decisions and experimenting to learn.
-
----
-
-## Open Systems (cont.)
-
--   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
--   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)
-
-
----
-
-## Pattern 10.7: Service Organization
+## Pattern 10.5: Service Organization
 
 ![right,fit](img/structural-patterns/service-organization-text.png)
 
@@ -1776,7 +1802,7 @@ An organization is an interdependent system that benefits from consciously invit
 
 ---
 
-## Pattern 10.8: Fractal Organization
+## Pattern 10.6: Fractal Organization
 
 ![right,fit](img/structural-patterns/fractal-organization.png)
 
@@ -1784,25 +1810,6 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 -   a way to organize, align and steer from the ground up, while preserving autonomy and agency of the various entities involved
 -   a structure to facilitate innovation and exchange of learning throughout a large community on an 'as needed' basis
-
----
-
-## Pattern 10.9: Open Domain
-
-![right,fit](img/structural-patterns/open-domain.png)
-
-**A way to intentionally account for a domain by invitation rather than assignment.**
- 
-The delegator of the open domain clarifies:
- 
-- primary driver, key responsibilities and constraints of the open domain
-- who is invited to contribute to the open domain
-- constraints relating to the delegator’s participation in the open domain’s governance
- 
-The delegator of the open domain is accountable for ensuring regular review of the open domain.
-
-Depending on the constraints set by delegators, contributors may account for work and/or governance of the open domain.
-
 
 ---
 
@@ -1819,6 +1826,16 @@ Depending on the constraints set by delegators, contributors may account for wor
 ---
 
 
+## Changelog 2017-11-10
+
+- various small clarifications and corrections
+- _Circle_: clarified relationship between circle and domain
+- _Role_: clarified description
+- _Rounds_: updated description
+- moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
+- added several terms to the glossary
+
+---
 
 ## Changelog 2017-10-21
 
@@ -1977,24 +1994,22 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 # Glossary 
 
+
+**Account for (v.)**: to take the responsibility for something that needs to be addressed.
 **Accountability**: Respond when something is needed, do what you agreed to and take ownership for the course of the organization.
 **Agreement**: An agreed upon guideline, process or protocol designed to guide the flow of _value_.
+**Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
+**Chosen Values**: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
 **Circle**: An _equivalent_, _semi-autonomous_ and _self-governing_ group of people collaborating to respond to a _driver_.
+**Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes, from which instructive patterns may be observed. [Snowden and Boone]
 **Concern**: An opinion that doing something might impede – or miss an opportunity to improve – flow of value to an organizational _driver_.
 **Consent**: Do things in the absence of reasons not to.
 **Continuous Improvement**: Change incrementally to accommodate steady empirical learning.
+**Delegatee**: An individual or group accepting accountability for a domain delegated to them.
+**Delgator**: An individual or group delegating a domain to other(s) to be accountable for.
 **Deliverable**: Something which is provided as a result of an _agreement_ in response to a _driver_. _Deliverables_ include products, raw materials, services, experiences and transformations.
 **Domain**: A distinct area of influence, activity and decision making within an _organization_.
 **Driver**: A driver is a person’s or a group's motive for responding to a specific situation.
-**Effectiveness**: Devote time only to what brings you closer towards achieving your objectives.
-**Empiricism**: Test all assumptions through experiments, continuous revision and falsification.
-**Equivalence**: Involve people in making and evolving decisions that affect them.
-**Governance**: Continuously deciding what to do to achieve objectives, and setting constraints on how and when things will be done.
-**Logbook**: A (digital) system to store all information relevant for running an _organization_ and its teams.
-**Objection**: A reason why doing something stands in the way of (more) effective response to a _driver_.
-**Operations (Doing the Work)**: People doing what needs to be done, guided by coordination and _governance_.
-**Organization**: A group of people collaborating towards a shared objective (_driver_).
-**Organizational Driver**: A driver that is (directly or indirectly) related to an organization's primary driver.
 
 
 ---
@@ -2002,15 +2017,36 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 # Glossary (cont.)
 
+
+**Effectiveness**: Devote time only to what brings you closer towards achieving your objectives.
+**Empiricism**: Test all assumptions through experiments, continuous revision and falsification.
+**Equivalence**: Involve people in making and evolving decisions that affect them.
+**Governance**: Continuously deciding what to do to achieve objectives, and setting constraints on how and when things will be done.
+**Key responsibilities**: Essential work and decision making required in the context of a domain.
+**Logbook**: A (digital) system to store all information relevant for running an _organization_ and its teams.
+**Objection**: A reason why doing something stands in the way of (more) effective response to a _driver_.
+**Operations (Doing the Work)**: People doing what needs to be done, guided by coordination and _governance_.
+**Organization**: A group of people collaborating towards a shared objective (_driver_).
+**Organizational Driver**: A driver that is (directly or indirectly) related to an organization's primary driver.
 **Pattern**: A template for successfully navigating a specific context.
 **Peer Domain**: Two peer _domains_ are contained within the same immediate _superdomain_, and may be overlapping.
 **Peer Drivers**: Two _drivers_ existing as a direct consequence of a response to the same _superdriver_, are called peer drivers.
 **Primary Driver**: The driver that defines a _domain_ is called the primary driver of that domain.
 **Principle**: A basic idea or rule that explains or controls how something happens or works.
 **Role**: A set of constraints for how an individual can account for a _domain_.
+
+
+---
+
+
+# Glossary (cont.)
+
+
+**SCM**: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
 **Self-Governance**: People governing themselves within the constraints of a domain.
 **Self-Organization**: People coordinating work within constraints defined through _governance_.
 **Semi-Autonomy**: People with autonomy to create _value_, limited by the constraints of their _domain_.
+**Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
 **Strategy**: A high level approach how people will create value to successfully account for a _domain_.
 **Subdomain**: A domain that is fully nested within another domain.
 **Subdriver**: A subdriver arises as a consequence of people responding to another driver (the _superdriver_) and are necessary to address to respond to the superdriver.
@@ -2018,8 +2054,8 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Superdriver**: see _subdriver_.
 **Transparency**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
 **Value**: The importance, worth or usefulness of something in relation to a _driver_. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
+**Values**: A set of principles of some significance that guides behavior. Not to be confused with "value" (singular) in the context of a driver.
 **Waste**: Anything not necessary for - or standing in the way of - effective response of a _driver_.
-**values**: A set of principles of some significance that guides behavior. Not to be confused with "value" (singular) in the context of a driver.
 
 
 ---
@@ -2032,7 +2068,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 Patterns  | Patterns (cont.)
 --- | ---
-Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.6<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.7<br\>Create A Pull-System For Organizational Change - 5.2<br\>Daily Standup - 7.3 | Delegate Circle - 10.3<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.5<br\>Driver Mapping - 1.11<br\>Evaluate Agreements - 1.7<br\>Evaluate Meetings - 8.3<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.8<br\>Governance Backlog - 8.5<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 10.1<br\>Intended Outcome - 6.4<br\>Invite Change - 5.4
+Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.6<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.7<br\>Create A Pull-System For Organizational Change - 5.2<br\>Daily Standup - 7.3 | Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.11<br\>Evaluate Agreements - 1.7<br\>Evaluate Meetings - 8.3<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.5<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7<br\>Intended Outcome - 6.4<br\>Invite Change - 5.4
 
 
 
@@ -2042,5 +2078,5 @@ Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree O
 
 Patterns (cont.) | Patterns (cont.)
 --- | ---
-Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.4<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 10.9<br\>Open S3 Adoption - 5.5<br\>Open Systems - 10.6<br\>Peach Organization - 10.4<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.9<br\>Pull-System For Work - 9.4<br\>Representative - 4.6<br\>Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1 | Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.10<br\>Rounds - 8.1<br\>Service Circle - 10.2<br\>Service Organization - 10.7<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3
+Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.4<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open S3 Adoption - 5.5<br\>Open Systems - 4.9<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.9<br\>Pull-System For Work - 9.4<br\>Representative - 4.6<br\>Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1 | Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.10<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3
 

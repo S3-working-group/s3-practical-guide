@@ -1,4 +1,14 @@
 
+## Changelog 2017-11-10
+
+- various small clarifications and corrections
+- _Circle_: clarified relationship between circle and domain
+- _Role_: clarified description
+- _Rounds_: updated description
+- moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
+- added several terms to the glossary
+
+---
 
 ## Changelog 2017-10-21
 
