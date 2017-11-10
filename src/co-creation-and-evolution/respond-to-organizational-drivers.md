@@ -6,14 +6,14 @@ _Clarify what's happening and what's needed in relation to the organization, and
 
 Responses to drivers:
 
-* action
-* decision (including creating a role, circle, helping team or open domain)
+-   action
+-   decision (including creating a role, circle, helping team or open domain)
 
 ---
 
 ### Qualify Organizational Drivers
 
-Some situations might be helpful to address in the context of an organization's primary driver. Others are not within an organization's domain.
+Some drivers are (directly or indirectly) related to an organization's primary driver, these are considered **organizational drivers**. Other drivers do not fall within the organization's domain.
 
 A simple way to qualify organizational drivers is by checking:
 
@@ -27,7 +27,7 @@ _Would responding to this driver improve - or avoid impeding - flow of value to 
 
 The response to a driver is usually an experiment that is evolved over time, based on learning.
 
-* Is the description of the situation still correct?
-* Do we still associate the same needs with the situation?
-* Is the driver still within our domain?
-* Is the driver still relevant?
+-   Is the description of the situation still correct?
+-   Do we still associate the same needs with the situation?
+-   Is the driver still within our domain?
+-   Is the driver still relevant?

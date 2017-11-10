@@ -12,7 +12,7 @@ The Markdown files for the individual patterns are grouped in directories per pa
 
 The image folder is symlinked to all subfolders, so images can easily be added without relative paths.
 
-The build process requires [s3tools](https://github.com/S3-working-group/s3-tools) to compile the individual files into the Deckset file `slides.md`, which is then exported to the pdf and png versions. 
+The build process requires [mdtools](https://github.com/bboc/mdtools) to compile the individual files into the Deckset file `slides.md`, which is then exported to the pdf and png versions. 
 
 ## Future Plans
 
@@ -48,7 +48,7 @@ Uploading sources is handled through this command (remove `--dryrun` to run):
 
 We can create branches (e.g. to preserve old translations) but at the moment we don't need them:
 
-`crowdin --identity ~/crowdin-s3-patterns.yaml --dryrun upload sources -b {branch name} --dryrun`
+`crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b {branch name} --dryrun`
 
 The config file can be checked using 
 `crowdin --identity ~/crowdin-s3-patterns.yaml lint`

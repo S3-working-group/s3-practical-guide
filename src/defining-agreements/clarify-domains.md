@@ -6,12 +6,12 @@ A clear understanding of people's area of accountability and autonomy enables gr
 
 A simple way to clarify domains is with a **domain description** that contains:
 
-* primary driver
-* key responsibilities
-* constraints
-* evaluation criteria for peer review
-* term (for a role)
-* (previous versions)
+-   primary driver
+-   key responsibilities
+-   constraints
+-   evaluation criteria for peer review
+-   term (for a role)
+-   (previous versions)
 
 ---
 
@@ -19,5 +19,4 @@ A simple way to clarify domains is with a **domain description** that contains:
 
 Domain descriptions can be created for a role, position, circle, team, open domain, department, unit, or the whole organization.
 
-Start by clarifying existing domains and consider defining new ones.
-
+You can either start by clarifying existing domains, or at least clarify new ones.

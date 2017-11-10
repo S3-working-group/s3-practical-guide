@@ -2,7 +2,7 @@
 
 ![right,fit](img/process/peer-review.png)
 
-People support each other to learn and grow in the roles and groups they serve.
+**People support each other to learn and grow in the roles and groups they serve.**
 
 The role keeper - or group - leads the peer review by setting up the process and speaking first in each step.
 

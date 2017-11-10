@@ -13,8 +13,8 @@ When there’s disagreement about what is needed, it’s helpful to zoom out fro
 
 > Driver statement example: 
 
-> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s impossible to grab a coffee quickly and get back to work. We need to figure out how we can keep the kitchen in a useable state.”_
+> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need to figure out how we can keep the kitchen in a usable state.”_
 
-The **driver statement** captures just enough information to communicate the need for an action or a decision to others. More information to reveal scope and details of the driver can be recorded in an appendix. 
+The **driver statement** captures just enough information to communicate the need for an action or a decision. More information to reveal scope and details of the driver can be recorded in an appendix. 
 
 A driver can be described as a problem or an opportunity, depending on the perspective of the person or the group. 

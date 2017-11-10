@@ -9,7 +9,7 @@
 
 **Operations** (Doing the Work): People doing what needs to be done, guided by coordination and governance.
 
-**Semi-Autonomy**: People with autonomy to create value, limited by the constraints of their domain.
+**Semi-Autonomy**: The autonomy of people to create value, which is limited by the constraints of their domain.
 
 ---
 
@@ -19,9 +19,9 @@ Tracking, reviewing and evolving decisions made to achieve objectives enables an
 
 _Does it require or benefit from an individual or group decision?_
 
-* yes ➤ governance
-    - not covered by a previous agreement
-    - needs to be agreed, decided or amended
-* no ➤ operations
-    - covered by previous agreement (those accountable are free to act)
-    - needs to be done
+-   yes: governance
+    -   not covered by a previous agreement
+    -   needs to be agreed, decided or amended
+-   no: operations
+    -   covered by previous agreement (those accountable are free to act)
+    -   needs to be done

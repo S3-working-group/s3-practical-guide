@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import os
 import yaml
 from string import Template
 from textwrap import dedent
@@ -13,6 +12,16 @@ def read_config(filename):
 
 def make_title(name):
     return name.title().replace('s3', 'S3')
+
+
+def output_groups(config):
+    P = "- %s"
+    G = "\n### %s\n"
+
+    for group in config["chapter_order"]:
+        print G % make_title(group)
+        for pattern in config["chapters"][group]:
+            print P % make_title(pattern)
 
 
 def index_by_group(config):
@@ -98,4 +107,5 @@ def alphabetical_index(config, per_page=20):
 if __name__ == "__main__":
     c = read_config("s3-practical-guide.yaml")
     # index_by_group(c)
+    # output_groups(c)
     alphabetical_index(c)
