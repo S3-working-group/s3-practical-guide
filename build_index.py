@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+"""This file is no longer in use."""
+
 import yaml
 from string import Template
 from textwrap import dedent
