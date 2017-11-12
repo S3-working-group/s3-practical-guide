@@ -50,11 +50,11 @@ terms:
     name: Continuous Improvement
     definition:
     glossary: Change incrementally to accommodate steady empirical learning.
-  delgatee:
+  delegatee:
     name: Delegatee
     glossary: An individual or group accepting accountability for a domain delegated to them.
   delegator:
-    name: Delgator
+    name: Delegator
     glossary: An individual or group delegating a domain to other(s) to be accountable for.
   deliverable:
     name: Deliverable
