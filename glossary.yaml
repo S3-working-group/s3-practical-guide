@@ -134,7 +134,7 @@ terms:
   role:
     name: Role
     definition:
-    glossary: A set of constraints for how an individual can account for a domain.
+    glossary: A role is an area of accountability defined by a domain and assigned to an individual.
   scm:
     name: SCM
     glossary: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
@@ -160,11 +160,11 @@ terms:
   subdomain:
     name: Subdomain
     definition:
-    glossary: A domain that is fully nested within another domain.
+    glossary: A domain that is fully contained in another domain.
   subdriver:
     name: Subdriver
     definition:
-    glossary: A subdriver arises as a consequence of people responding to another driver (the superdriver) and are necessary to address to respond to the superdriver. 
+    glossary: A subdriver arises as a consequence of people responding to another driver (the superdriver) and is necessary to address to respond to the superdriver. 
   superdriver:
     name: Superdriver
     definition:
@@ -179,13 +179,13 @@ terms:
     glossary: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
   value:
     name: Value
-    definition: "**Value:** is the importance, worth or usefulness of something in relation to a driver."
+    definition: "**Value** is the importance, worth or usefulness of something in relation to a driver."
     glossary: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
   values:
     name: Values
     glossary: A set of principles of some significance that guides behavior. Not to be confused with "value" (singular) in the context of a driver. 
   waste:
     name: Waste
-    definition: "**Waste:** is anything not necessary for - or standing in the way of - effective response of a driver."
+    definition: "**Waste** is anything not necessary for - or standing in the way of - effective response of a driver."
     glossary: Anything not necessary for - or standing in the way of - effective response of a driver.
 
