@@ -9,7 +9,7 @@ Objections contain information that reveals:
 
 ---
 
-### Qualify Objections (cont.)
+### Qualify Objections
 
 It's the accountability of individuals to raise potential objections. 
 
@@ -22,7 +22,7 @@ Being able to raise *potential* objections at any time means decisions only need
 
 ---
 
-### Qualify Objections
+### Qualify Objections (cont.)
 
 _How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?_
 
