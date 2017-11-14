@@ -1,8 +1,11 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """
 Build pattern index in deckset format from yaml file with pattern database.
 """
+import argparse
+import codecs
 import yaml
 from string import Template
 from textwrap import dedent
@@ -21,7 +24,7 @@ def make_cell(items):
     return '<br\>'.join(items)
 
 
-def alphabetical_index(pattern_data, per_page=20):
+def alphabetical_index(pattern_data, target, per_page=20):
     """Create an alphabetical index of patterns as a deckset table."""
 
     INDEX_ENTRY = Template("$name - $gid.$pid")
@@ -32,7 +35,7 @@ def alphabetical_index(pattern_data, per_page=20):
         """))
 
     # sorting raw pattern data by name makes order independent of display format!
-    pattern_data = sorted(pattern_data, key=lambda x: x['name'])
+    pattern_data = sorted(pattern_data, key=lambda x: x['name'].lower())
     patterns = [INDEX_ENTRY.substitute(p) for p in pattern_data]
 
     cont = ''
@@ -48,13 +51,22 @@ def alphabetical_index(pattern_data, per_page=20):
             rgroup = []
 
         if cont:
-        	print "\n\n---\n\n"
-        print INDEX_TABLE.substitute(cont=cont,
-                                     left_content=make_cell(lgroup),
-                                     right_content=make_cell(rgroup))
+            target.write("\n\n---\n\n")
+        target.write(INDEX_TABLE.substitute(cont=cont,
+                                            left_content=make_cell(lgroup),
+                                            right_content=make_cell(rgroup)))
         cont = "(cont.)"
 
 
 if __name__ == "__main__":
-    c = read_config("pattern-index.yaml")
-    alphabetical_index(c['patterns'])
+
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument('target')
+    parser.add_argument('index_db')
+    args = parser.parse_args()
+
+    c = read_config(args.index_db)
+    # c = read_config("pattern-index.yaml")
+    with codecs.open(args.target, 'a', 'utf-8') as target:
+        alphabetical_index(c['patterns'], target)

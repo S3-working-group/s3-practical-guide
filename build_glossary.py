@@ -1,9 +1,7 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import yaml
-from string import Template
-from textwrap import dedent
-
 
 def read_config(filename):
     stream = open(filename, "r")
