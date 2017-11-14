@@ -1,4 +1,5 @@
 title: title
+end: SKIP
 
 introduction:
   - s3-overview
@@ -10,7 +11,7 @@ introduction:
   - domain
   - governance
 
-closing:
+appendix:
   - changelog
   - links
   - license
@@ -18,7 +19,7 @@ closing:
   - authors
   - glossary
 
-chapter_order:
+chapter-order:
   - co-creation and evolution
   - peer development
   - enablers of co-creation
