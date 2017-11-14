@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-10) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-14) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -123,9 +123,9 @@ Drivers:
 
 ### Drivers: Value and Waste
 
-_**Value:** is the importance, worth or usefulness of something in relation to a driver._
+_**Value** is the importance, worth or usefulness of something in relation to a driver._
 
-_**Waste:** is anything not necessary for - or standing in the way of - effective response of a driver._
+_**Waste** is anything not necessary for - or standing in the way of - effective response of a driver._
 
 By adopting the concept of value and waste, many practices and ideas from **lean production** and **lean software development** can be utilized by organizations pulling in S3 patterns:
 
@@ -340,7 +340,7 @@ Objections contain information that reveals:
 
 ---
 
-### Qualify Objections (cont.)
+### Qualify Objections
 
 It's the accountability of individuals to raise potential objections. 
 
@@ -353,7 +353,7 @@ Being able to raise *potential* objections at any time means decisions only need
 
 ---
 
-### Qualify Objections
+### Qualify Objections (cont.)
 
 _How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?_
 
@@ -1998,16 +1998,16 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Agreement**: An agreed upon guideline, process or protocol designed to guide the flow of value.
 **Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
 **Chosen Values**: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
-**Circle**: An equivalent, semi-autonomous and self-governing group of people collaborating to respond to a driver.
+**Circle**: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
 **Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes, from which instructive patterns may be observed. [Snowden and Boone]
 **Concern**: An opinion that doing something might impede – or miss an opportunity to improve – flow of value to an organizational driver.
 **Consent**: Do things in the absence of reasons not to.
 **Continuous Improvement**: Change incrementally to accommodate steady empirical learning.
 **Delegatee**: An individual or group accepting accountability for a domain delegated to them.
-**Delgator**: An individual or group delegating a domain to other(s) to be accountable for.
+**Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
 **Deliverable**: Something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformations.
 **Domain**: A distinct area of influence, activity and decision making within an organization.
-**Driver**: A driver is a person’s or a group's motive for responding to a specific situation.
+**Driver**: A person’s or a group's motive for responding to a specific situation.
 
 
 ---
@@ -2040,15 +2040,15 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
-**Role**: A set of constraints for how an individual can account for a domain.
+**Role**: A role is an area of accountability defined by a domain and assigned to an individual.
 **SCM**: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
 **Self-Governance**: People governing themselves within the constraints of a domain.
 **Self-Organization**: People coordinating work within constraints defined through governance.
 **Semi-Autonomy**: People with autonomy to create value, limited by the constraints of their domain.
 **Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
 **Strategy**: A high level approach how people will create value to successfully account for a domain.
-**Subdomain**: A domain that is fully nested within another domain.
-**Subdriver**: A subdriver arises as a consequence of people responding to another driver (the superdriver) and are necessary to address to respond to the superdriver.
+**Subdomain**: A domain that is fully contained in another domain.
+**Subdriver**: A subdriver arises as a consequence of people responding to another driver (the superdriver) and is necessary to address to respond to the superdriver.
 **Superdomain**: A domain that fully contains another domain.
 **Superdriver**: see subdriver.
 **Transparency**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
@@ -2066,12 +2066,9 @@ Patterns  | Patterns (cont.)
 Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.6<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.7<br\>Create A Pull-System For Organizational Change - 5.2<br\>Daily Standup - 7.3 | Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.11<br\>Evaluate Agreements - 1.7<br\>Evaluate Meetings - 8.3<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.5<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7<br\>Intended Outcome - 6.4<br\>Invite Change - 5.4
 
 
-
 ---
-
 
 
 Patterns (cont.) | Patterns (cont.)
 --- | ---
 Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.4<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open S3 Adoption - 5.5<br\>Open Systems - 4.9<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.9<br\>Pull-System For Work - 9.4<br\>Representative - 4.6<br\>Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1 | Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.10<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3
-
