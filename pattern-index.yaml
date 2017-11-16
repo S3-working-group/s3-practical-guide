@@ -1,0 +1,211 @@
+patterns:
+- gid: 5
+  name: Adapt Patterns To Context
+  pid: 1
+- gid: 3
+  name: Adopt The Seven Principles
+  pid: 2
+- gid: 3
+  name: Agree On Values
+  pid: 3
+- gid: 6
+  name: Agreement
+  pid: 1
+- gid: 9
+  name: Align Flow
+  pid: 6
+- gid: 3
+  name: Artful Participation
+  pid: 1
+- gid: 2
+  name: Ask For Help
+  pid: 1
+- gid: 9
+  name: Backlog
+  pid: 1
+- gid: 5
+  name: Be The Change
+  pid: 3
+- gid: 3
+  name: Breaking Agreements
+  pid: 5
+- gid: 3
+  name: Bylaws
+  pid: 9
+- gid: 4
+  name: Circle
+  pid: 2
+- gid: 6
+  name: Clarify Domains
+  pid: 3
+- gid: 1
+  name: Consent Decision Making
+  pid: 4
+- gid: 5
+  name: Continuous Improvement Of Work Process
+  pid: 6
+- gid: 3
+  name: Contracting And Accountability
+  pid: 6
+- gid: 7
+  name: Coordination Meeting
+  pid: 5
+- gid: 9
+  name: Coordinator
+  pid: 7
+- gid: 5
+  name: Create A Pull-System For Organizational Change
+  pid: 2
+- gid: 7
+  name: Daily Standup
+  pid: 3
+- gid: 10
+  name: Delegate Circle
+  pid: 2
+- gid: 4
+  name: Delegate Influence
+  pid: 1
+- gid: 6
+  name: Describe Deliverables
+  pid: 5
+- gid: 1
+  name: Describe Drivers
+  pid: 3
+- gid: 6
+  name: Develop Strategy
+  pid: 2
+- gid: 2
+  name: Development Plan
+  pid: 4
+- gid: 4
+  name: Double Linking
+  pid: 5
+- gid: 10
+  name: Double-Linked Hierarchy
+  pid: 4
+- gid: 1
+  name: Driver Mapping
+  pid: 11
+- gid: 1
+  name: Evaluate Agreements
+  pid: 7
+- gid: 8
+  name: Evaluate Meetings
+  pid: 3
+- gid: 6
+  name: Evaluation Criteria
+  pid: 6
+- gid: 8
+  name: Facilitate Meetings
+  pid: 2
+- gid: 10
+  name: Fractal Organization
+  pid: 6
+- gid: 8
+  name: Governance Backlog
+  pid: 5
+- gid: 3
+  name: Governance Facilitator
+  pid: 4
+- gid: 7
+  name: Governance Meeting
+  pid: 1
+- gid: 4
+  name: Helping Team
+  pid: 7
+- gid: 6
+  name: Intended Outcome
+  pid: 4
+- gid: 5
+  name: Invite Change
+  pid: 4
+- gid: 9
+  name: Limit Work In Progress
+  pid: 5
+- gid: 4
+  name: Linking
+  pid: 4
+- gid: 6
+  name: Logbook
+  pid: 7
+- gid: 6
+  name: Logbook Keeper
+  pid: 8
+- gid: 8
+  name: Meeting Host
+  pid: 4
+- gid: 1
+  name: Navigate Via Tension
+  pid: 2
+- gid: 1
+  name: Objection
+  pid: 5
+- gid: 4
+  name: Open Domain
+  pid: 8
+- gid: 5
+  name: Open S3 Adoption
+  pid: 5
+- gid: 4
+  name: Open Systems
+  pid: 9
+- gid: 10
+  name: Peach Organization
+  pid: 3
+- gid: 2
+  name: Peer Feedback
+  pid: 2
+- gid: 2
+  name: Peer Review
+  pid: 3
+- gid: 7
+  name: Planning And Review Meetings
+  pid: 4
+- gid: 9
+  name: Prioritize Backlogs
+  pid: 2
+- gid: 1
+  name: Proposal Forming
+  pid: 9
+- gid: 9
+  name: Pull-System For Work
+  pid: 4
+- gid: 4
+  name: Representative
+  pid: 6
+- gid: 1
+  name: Resolve Objections
+  pid: 6
+- gid: 1
+  name: Respond To Organizational Drivers
+  pid: 1
+- gid: 7
+  name: Retrospective
+  pid: 2
+- gid: 4
+  name: Role
+  pid: 3
+- gid: 1
+  name: Role Selection
+  pid: 10
+- gid: 8
+  name: Rounds
+  pid: 1
+- gid: 10
+  name: Service Circle
+  pid: 1
+- gid: 10
+  name: Service Organization
+  pid: 5
+- gid: 3
+  name: Support Role
+  pid: 8
+- gid: 1
+  name: Those Affected Decide
+  pid: 8
+- gid: 3
+  name: Transparent Salary
+  pid: 7
+- gid: 9
+  name: Visualize Work
+  pid: 3

@@ -19,25 +19,29 @@ terms:
     glossary: to take the responsibility for something that needs to be addressed.
   agreement:
     name: Agreement
-    definition:
-    glossary: An agreed upon guideline, process or protocol designed to guide the flow of _value_.
+    definition: An **agreement** is an agreed upon guideline, process or protocol designed to guide the flow of value.
+    glossary: An agreed upon guideline, process or protocol designed to guide the flow of value.
   alignment:
     name: Alignment
     glossary: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
+  backlog:
+    name: backlog
+    definition: A **backlog** (to-do-list) is a visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
+    glossary: A visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.    
   chosen-values:
     name: Chosen Values
     glossary: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
   circle:
     name: Circle
     definition: A **circle** is an equivalent, self-governing, and semi-autonomous group of people collaborating to account for a domain.
-    glossary: An _equivalent_, _semi-autonomous_ and _self-governing_ group of people collaborating to respond to a _driver_.
+    glossary: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
   complexity:
     name: Complexity  
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes, from which instructive patterns may be observed. [Snowden and Boone]
   concern:
     name: Concern
     definition:
-    glossary: An opinion that doing something might impede – or miss an opportunity to improve – flow of value to an organizational _driver_.
+    glossary: An opinion that doing something might impede – or miss an opportunity to improve – flow of value to an organizational driver.
   consent:
     name: Consent
     definition:
@@ -46,27 +50,27 @@ terms:
     name: Continuous Improvement
     definition:
     glossary: Change incrementally to accommodate steady empirical learning.
-  delgatee:
+  delegatee:
     name: Delegatee
     glossary: An individual or group accepting accountability for a domain delegated to them.
   delegator:
-    name: Delgator
+    name: Delegator
     glossary: An individual or group delegating a domain to other(s) to be accountable for.
   deliverable:
     name: Deliverable
     definition:
-    glossary: Something which is provided as a result of an _agreement_ in response to a _driver_. _Deliverables_ include products, raw materials, services, experiences and transformations.
+    glossary: Something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformations.
   domain:
     name: Domain
     definition: A **domain** is a distinct area of influence, activity and decision making within an organization.
-    glossary: A distinct area of influence, activity and decision making within an _organization_.
+    glossary: A distinct area of influence, activity and decision making within an organization.
   driver:
     name: Driver
     definition: A **driver** is a person’s or a group's motive for responding to a specific situation.
-    glossary: A driver is a person’s or a group's motive for responding to a specific situation.
+    glossary: A person’s or a group's motive for responding to a specific situation.
   effectiveness:
     name: Effectiveness
-    definition:
+    definition: Devote time only to what brings you closer towards achieving your objectives.
     glossary: Devote time only to what brings you closer towards achieving your objectives.
   empiricism:
     name: Empiricism
@@ -80,29 +84,33 @@ terms:
     name: Governance
     definition:
     glossary: Continuously deciding what to do to achieve objectives, and setting constraints on how and when things will be done.
+  governance-backlog:
+    name: Governance Backlog
+    definition: A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
+    glossary: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
   key-responsibilities:
     name: Key responsibilities  
     glossary: Essential work and decision making required in the context of a domain.
   logbook:
     name: Logbook
     definition:
-    glossary: A (digital) system to store all information relevant for running an _organization_ and its teams. 
+    glossary: A (digital) system to store all information relevant for running an organization and its teams. 
   operations:
     name: Operations (Doing the Work)
     definition:
-    glossary: People doing what needs to be done, guided by coordination and _governance_.
+    glossary: People doing what needs to be done, guided by coordination and governance.
   objection:
     name: Objection
-    definition:
-    glossary: A reason why doing something stands in the way of (more) effective response to a _driver_.
+    definition: An **objection** is a reason why doing something stands in the way of (more) effective response to a driver.
+    glossary: A reason why doing something stands in the way of (more) effective response to a driver.
   peer-domain:
     name: Peer Domain
     definition:
-    glossary: Two peer _domains_ are contained within the same immediate _superdomain_, and may be overlapping.
+    glossary: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
   organization:
     name: Organization
     definition:
-    glossary: A group of people collaborating towards a shared objective (_driver_).
+    glossary: A group of people collaborating towards a shared objective (driver).
   organizational-driver:
     name: Organizational Driver
     definition: An **organizational driver** is a driver that is (directly or indirectly) related to an organization's primary driver.
@@ -110,15 +118,15 @@ terms:
   peer-drivers:
     name: Peer Drivers
     definition:
-    glossary: Two _drivers_ existing as a direct consequence of a response to the same _superdriver_, are called peer drivers.
+    glossary: Two drivers existing as a direct consequence of a response to the same superdriver, are called peer drivers.
   pattern:
     name: Pattern
-    definition:
+    definition: A **pattern** is a template for successfully navigating a specific context.
     glossary: A template for successfully navigating a specific context.
   primary-driver:
     name: Primary Driver
     definition:
-    glossary: The driver that defines a _domain_ is called the primary driver of that domain.
+    glossary: The driver that defines a domain is called the primary driver of that domain.
   principle:
     name: Principle
     definition: A **principle** is a basic idea or rule that explains or controls how something happens or works.
@@ -126,7 +134,7 @@ terms:
   role:
     name: Role
     definition:
-    glossary: A set of constraints for how an individual can account for a _domain_.
+    glossary: A role is an area of accountability defined by a domain and assigned to an individual.
   scm:
     name: SCM
     glossary: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
@@ -137,47 +145,47 @@ terms:
   self-organization:
     name: Self-Organization
     definition:
-    glossary: People coordinating work within constraints defined through _governance_.
+    glossary: People coordinating work within constraints defined through governance.
   semi-autonomy:
     name: Semi-Autonomy
     definition:
-    glossary: People with autonomy to create _value_, limited by the constraints of their _domain_.
+    glossary: People with autonomy to create value, limited by the constraints of their domain.
   sociocracy:
     name: Sociocracy
     glossary: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
   strategy:
     name: Strategy
-    definition:
-    glossary: A high level approach how people will create value to successfully account for a _domain_.
+    definition: A **strategy** is a high level approach how people will create value to successfully account for a domain.
+    glossary: A high level approach how people will create value to successfully account for a domain.
   subdomain:
     name: Subdomain
     definition:
-    glossary: A domain that is fully nested within another domain.
+    glossary: A domain that is fully contained in another domain.
   subdriver:
     name: Subdriver
     definition:
-    glossary: A subdriver arises as a consequence of people responding to another driver (the _superdriver_) and are necessary to address to respond to the superdriver. 
+    glossary: A subdriver arises as a consequence of people responding to another driver (the superdriver) and is necessary to address to respond to the superdriver. 
   superdriver:
     name: Superdriver
     definition:
-    glossary: see _subdriver_.
+    glossary: see subdriver.
   superdomain:
     name: Superdomain
     definition:
-    glossary: A _domain_ that fully contains another domain. 
+    glossary: A domain that fully contains another domain. 
   transparency:
     name: Transparency
     definition:
     glossary: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
   value:
     name: Value
-    definition:
-    glossary: The importance, worth or usefulness of something in relation to a _driver_. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
+    definition: "**Value** is the importance, worth or usefulness of something in relation to a driver."
+    glossary: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
   values:
     name: Values
     glossary: A set of principles of some significance that guides behavior. Not to be confused with "value" (singular) in the context of a driver. 
   waste:
     name: Waste
-    definition:
-    glossary: Anything not necessary for - or standing in the way of - effective response of a _driver_.
+    definition: "**Waste** is anything not necessary for - or standing in the way of - effective response of a driver."
+    glossary: Anything not necessary for - or standing in the way of - effective response of a driver.
 

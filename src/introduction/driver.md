@@ -1,6 +1,6 @@
 ## Drivers
 
-A **driver** is a person’s or a group's motive for responding to a specific situation.
+{{define:driver}}
 
 Drivers: 
 
@@ -11,9 +11,9 @@ Drivers:
 
 ### Drivers: Value and Waste
 
-_**Value:** is the importance, worth or usefulness of something in relation to a driver._
+{{define:value}}
 
-_**Waste:** is anything not necessary for - or standing in the way of - effective response of a driver._
+{{define:waste}}
 
 By adopting the concept of value and waste, many practices and ideas from **lean production** and **lean software development** can be utilized by organizations pulling in S3 patterns:
 

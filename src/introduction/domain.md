@@ -2,7 +2,7 @@
 
 ![right,fit](img/driver-domain/domains-in-organizations.png)
 
-_A **domain** is a distinct area of influence, activity and decision making within an organization_.
+{{define:domain}}
 
 All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 

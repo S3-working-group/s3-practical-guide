@@ -1,1 +1,1 @@
-crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b my-branch --dryrun
+crowdin --identity ~/crowdin-s3-patterns.yaml upload sources --dryrun
