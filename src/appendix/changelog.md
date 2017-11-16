@@ -1,3 +1,11 @@
+## Changelog 2017-11-16
+
+- small corrections
+- aligned glossary entries for _Circle_ and _Role_ to pattern text
+- _Development Plan_: clarification of responsibilities
+- _Role_: clarified evolution of strategy
+
+---
 
 ## Changelog 2017-11-10
 
