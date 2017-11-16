@@ -6,7 +6,7 @@
 
 A role is an area of accountability defined by a domain and assigned to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
-The role keeper leads in creating strategy for how to account for their domain, evolving it in the case of objections from the delegator.
+The role keeper leads in creating a strategy for how to account for their domain, and evolves their strategy in collaboration with the delegator.
 
 A role is a simple way for a group to delegate recurring tasks or a specific area of work to one of its members.
 

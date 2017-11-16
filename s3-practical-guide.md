@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-14) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-16) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -614,16 +614,15 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 **A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.**
 
-The development plan may relate to a person in a role, or a group (e.g. a department, circle, team or open domain).
+The development plan may be created for a person in a role, or for a group (e.g. a department, circle, team or open domain).
 
 Development may happen in the form of refining description of driver and domain, amendments to strategy, new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
 
-The development plan proposal along with recommendations for changes to the domain description and / or the driver statement is passed to the delegator to test for objections and concerns.
+A development plan (and any accompanying recommendations for changes to the domain description and driver statement) requires consent from both the delegatee and the delegator.
 
 ---
 
 ![inline,fit](img/templates/development-plan-template.png)
-
 
 
 ---
@@ -896,7 +895,7 @@ A circle:
 
 A role is an area of accountability defined by a domain and assigned to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
-The role keeper leads in creating strategy for how to account for their domain, evolving it in the case of objections from the delegator.
+The role keeper leads in creating a strategy for how to account for their domain, and evolves their strategy in collaboration with the delegator.
 
 A role is a simple way for a group to delegate recurring tasks or a specific area of work to one of its members.
 
@@ -1823,6 +1822,14 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
+## Changelog 2017-11-16
+
+- small corrections
+- aligned glossary entries for _Circle_ and _Role_ to pattern text
+- _Development Plan_: clarification of responsibilities
+- _Role_: clarified evolution of strategy
+
+---
 
 ## Changelog 2017-11-10
 
@@ -1997,9 +2004,10 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Accountability**: Respond when something is needed, do what you agreed to and take ownership for the course of the organization.
 **Agreement**: An agreed upon guideline, process or protocol designed to guide the flow of value.
 **Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
+**Backlog**: A visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
 **Chosen Values**: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
 **Circle**: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
-**Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes, from which instructive patterns may be observed. [Snowden and Boone]
+**Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 **Concern**: An opinion that doing something might impede – or miss an opportunity to improve – flow of value to an organizational driver.
 **Consent**: Do things in the absence of reasons not to.
 **Continuous Improvement**: Change incrementally to accommodate steady empirical learning.
@@ -2007,7 +2015,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
 **Deliverable**: Something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformations.
 **Domain**: A distinct area of influence, activity and decision making within an organization.
-**Driver**: A person’s or a group's motive for responding to a specific situation.
 
 
 ---
@@ -2016,6 +2023,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
+**Driver**: A person’s or a group's motive for responding to a specific situation.
 **Effectiveness**: Devote time only to what brings you closer towards achieving your objectives.
 **Empiricism**: Test all assumptions through experiments, continuous revision and falsification.
 **Equivalence**: Involve people in making and evolving decisions that affect them.
@@ -2031,7 +2039,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Peer Domain**: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
 **Peer Drivers**: Two drivers existing as a direct consequence of a response to the same superdriver, are called peer drivers.
 **Primary Driver**: The driver that defines a domain is called the primary driver of that domain.
-**Principle**: A basic idea or rule that explains or controls how something happens or works.
 
 
 ---
@@ -2040,7 +2047,8 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
-**Role**: A role is an area of accountability defined by a domain and assigned to an individual.
+**Principle**: A basic idea or rule that explains or controls how something happens or works.
+**Role**: An area of accountability defined by a domain and assigned to an individual.
 **SCM**: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
 **Self-Governance**: People governing themselves within the constraints of a domain.
 **Self-Organization**: People coordinating work within constraints defined through governance.
@@ -2055,7 +2063,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
 **Values**: A set of principles of some significance that guides behavior. Not to be confused with "value" (singular) in the context of a driver.
 **Waste**: Anything not necessary for - or standing in the way of - effective response of a driver.
-**backlog**: A visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
 
 
 ---
