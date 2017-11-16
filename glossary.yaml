@@ -25,7 +25,7 @@ terms:
     name: Alignment
     glossary: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
   backlog:
-    name: backlog
+    name: Backlog
     definition: A **backlog** (to-do-list) is a visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
     glossary: A visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.    
   chosen-values:
@@ -37,7 +37,7 @@ terms:
     glossary: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
   complexity:
     name: Complexity  
-    glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes, from which instructive patterns may be observed. [Snowden and Boone]
+    glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
   concern:
     name: Concern
     definition:
@@ -134,7 +134,7 @@ terms:
   role:
     name: Role
     definition:
-    glossary: A role is an area of accountability defined by a domain and assigned to an individual.
+    glossary: An area of accountability defined by a domain and assigned to an individual.
   scm:
     name: SCM
     glossary: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
