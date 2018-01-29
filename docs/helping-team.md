@@ -19,3 +19,6 @@ Members of the helping team:
 -   can object to the delegator's decisions that affect them
 -   can add items to the delegator's governance backlog
 -   may be invited to select a representative to participate in the governance decisions of the delegator
+
+[&#9664; Representative](representative.html) | [&#9650; Building Organizations](building-organizations.html) | [&#9654; Open Domain](open-domain.html)
+

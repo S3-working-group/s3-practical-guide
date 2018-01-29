@@ -12,3 +12,7 @@ Decisions of a delegate circle are acted upon in the various domains it serves.
 Each circle selects one or more members as representative(s) to a delegate circle.
 
 Delegate circles provide a way of steering organizations in alignment to the flow of value, and bring a diversity of perspective to governance decisions.
+
+
+[&#9664; Service Circle](service-circle.html) | [&#9650; Organizational Structure](organizational-structure.html) | [&#9654; Peach Organization](peach-organization.html)
+

@@ -7,3 +7,7 @@ title: "Focused Interactions"
 - [Daily Standup](daily-standup.html)
 - [Planning And Review Meetings](planning-and-review-meetings.html)
 - [Coordination Meeting](coordination-meeting.html)
+
+
+[&#9664; Logbook Keeper](logbook-keeper.html) | [&#9654; Governance Meeting](governance-meeting.html)
+

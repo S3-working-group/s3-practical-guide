@@ -34,3 +34,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 -   review earlier if required
 -   elements of this process can also be used by individuals to evaluate decisions they make
 
+
+
+[&#9664; Resolve Objections](resolve-objections.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Those Affected Decide](those-affected-decide.html)
+

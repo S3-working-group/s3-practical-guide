@@ -13,3 +13,6 @@ title: "Service Organization"
 -   suitable for one-off projects, or ongoing collaboration
 
 **Note:** a service organization is often referred to as a **backbone organization**.
+
+[&#9664; Double-Linked Hierarchy](double-linked-hierarchy.html) | [&#9650; Organizational Structure](organizational-structure.html) | [&#9654; Fractal Organization](fractal-organization.html)
+

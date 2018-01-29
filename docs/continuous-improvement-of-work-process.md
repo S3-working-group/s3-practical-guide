@@ -23,3 +23,7 @@ title: "Continuous Improvement Of Work Process With S3"
 -   establishing a process for ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness
 -   adaptation to changing context is built into the process
 
+
+
+[&#9664; Open S3 Adoption](open-s3-adoption.html) | [&#9650; Bringing In S3](bringing-in-s3.html) | [&#9654; Building Organizations](building-organizations.html)
+

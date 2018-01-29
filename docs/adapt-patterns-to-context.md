@@ -14,3 +14,7 @@ title: "Adapt Patterns To Context"
 -   run experiments with adaptations for long enough to learn about benefits and potential pitfalls
 -   consider sharing valuable adaptations with the S3 community
 
+
+
+[&#9650; Bringing In S3](bringing-in-s3.html) | [&#9654; Create A Pull-System For Organizational Change](create-a-pull-system-for-organizational-change.html)
+

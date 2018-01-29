@@ -25,3 +25,7 @@ Building in continuous improvement of work process through reflection and learni
 5. Close the retrospective
 
 Many different activities for each phase can be found at [plans-for-retrospectives.com](http://www.plans-for-retrospectives.com/)
+
+
+[&#9664; Governance Meeting](governance-meeting.html) | [&#9650; Focused Interactions](focused-interactions.html) | [&#9654; Daily Standup](daily-standup.html)
+

@@ -10,3 +10,7 @@ Choose someone to facilitate a meeting. Even an inexperienced facilitator can he
     -   facilitates a suitable activity or format for each topic
     -   holds the space, keeps the time and navigates the agenda during the meeting
     -   facilitates an evaluation of the meeting at the end
+
+
+[&#9664; Rounds](rounds.html) | [&#9650; Meeting Practices](meeting-practices.html) | [&#9654; Evaluate Meetings](evaluate-meetings.html)
+

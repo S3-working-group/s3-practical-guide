@@ -12,3 +12,7 @@ Order **all uncompleted work items** with the most important items first:
     -   shared understanding of priorities enables more effective collaboration
 
 
+
+
+[&#9664; Backlog](backlog.html) | [&#9650; Organizing Work](organizing-work.html) | [&#9654; Visualize Work](visualize-work.html)
+

@@ -9,3 +9,7 @@ Well-defined evaluation criteria can help to understand whether or not an agreem
 
 -   go for **simple and unambiguous** criteria and document them (to avoid discussion when reviewing your agreements)
 -   define **actionable metrics** to continuously track effects and spot deviations from intended outcomes
+
+
+[&#9664; Describe Deliverables](describe-deliverables.html) | [&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Logbook](logbook.html)
+

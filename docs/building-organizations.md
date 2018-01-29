@@ -11,3 +11,7 @@ title: "Building Organizations"
 - [Helping Team](helping-team.html)
 - [Open Domain](open-domain.html)
 - [Open Systems](open-systems.html)
+
+
+[&#9664; Bylaws](bylaws.html) | [&#9654; Delegate Influence](delegate-influence.html)
+

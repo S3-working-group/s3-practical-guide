@@ -13,3 +13,7 @@ A development plan (and any accompanying recommendations for changes to the doma
 
 
 ![inline,fit](img/templates/development-plan-template.png)
+
+
+[&#9664; Peer Review](peer-review.html) | [&#9650; Peer Development](peer-development.html) | [&#9654; Peer Development](peer-development.html)
+

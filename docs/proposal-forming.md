@@ -34,3 +34,7 @@ Proposal forming may be also be used by an individual.
 -   who else may have a valuable contribution to make?
 -   consider expertise, outside view, and inspiration
 -   any objections to this group?
+
+
+[&#9664; Those Affected Decide](those-affected-decide.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Role Selection](role-selection.html)
+

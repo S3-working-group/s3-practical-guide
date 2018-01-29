@@ -17,3 +17,7 @@ _A **strategy** is a high level approach how people will create value to success
 ### Strategies are implemented and refined through experimentation and learning. 
 
 ![right,fit](img/evolution/domain-driver-strategy-exeriments.png)
+
+
+[&#9664; Agreement](agreement.html) | [&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Clarify Domains](clarify-domains.html)
+

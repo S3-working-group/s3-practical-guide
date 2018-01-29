@@ -13,3 +13,7 @@ Work in Progress includes:
 
 When an action would exceed an agreed upon limit of work items in progress, this needs to be brought up with the group before continuing.
 
+
+
+[&#9664; Pull-System For Work](pull-system-for-work.html) | [&#9650; Organizing Work](organizing-work.html) | [&#9654; Align Flow](align-flow.html)
+

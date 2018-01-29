@@ -30,3 +30,7 @@ Each item on a (prioritized) backlog contains:
 -   (optional) a measure for **value** 
 -   (optional) a measure for **investment** (often an estimate of time or complexity)
 
+
+
+[&#9650; Organizing Work](organizing-work.html) | [&#9654; Prioritize Backlogs](prioritize-backlogs.html)
+

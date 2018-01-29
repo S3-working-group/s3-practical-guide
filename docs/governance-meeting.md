@@ -42,3 +42,7 @@ Typical agenda items include:
 
 
 
+
+
+[&#9650; Focused Interactions](focused-interactions.html) | [&#9654; Retrospective](retrospective.html)
+

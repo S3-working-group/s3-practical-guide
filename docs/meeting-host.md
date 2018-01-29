@@ -22,3 +22,7 @@ The role may be assigned temporarily (i.e. for one specific event) or for a dura
 -   follow-up
     -   clean up location, return keys etc.
     -   ensure minutes are distributed
+
+
+[&#9664; Evaluate Meetings](evaluate-meetings.html) | [&#9650; Meeting Practices](meeting-practices.html) | [&#9654; Governance Backlog](governance-backlog.html)
+

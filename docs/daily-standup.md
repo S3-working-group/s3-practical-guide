@@ -13,3 +13,7 @@ title: "Daily Standup"
     -   coordination of daily work
     -   addressing impediments/blocks
     -   adaptation of existing agreements or creation of new agreements on the spot
+
+
+[&#9664; Retrospective](retrospective.html) | [&#9650; Focused Interactions](focused-interactions.html) | [&#9654; Planning And Review Meetings](planning-and-review-meetings.html)
+

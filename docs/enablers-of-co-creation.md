@@ -11,3 +11,7 @@ title: "Enablers Of Co-Creation"
 - [Transparent Salary](transparent-salary.html)
 - [Support Role](support-role.html)
 - [Bylaws](bylaws.html)
+
+
+[&#9664; Development Plan](development-plan.html) | [&#9654; Artful Participation](artful-participation.html)
+

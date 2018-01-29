@@ -11,3 +11,7 @@ title: "Open S3 Adoption"
     -   define constraints for experiments: e.g. S3 principles
     -   review and learn from experimentation in the next open space
     -   repeat
+
+
+[&#9664; Invite Change](invite-change.html) | [&#9650; Bringing In S3](bringing-in-s3.html) | [&#9654; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)
+

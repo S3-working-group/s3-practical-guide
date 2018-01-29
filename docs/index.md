@@ -12,16 +12,16 @@ For further information about Sociocracy 3.0 check out <http://sociocracy30.org>
 
 ## Pattern Groups
 
-- [Bringing In S3](bringing-in-s3.html)
-- [Building Organizations](building-organizations.html)
 - [Co-Creation And Evolution](co-creation-and-evolution.html)
-- [Defining Agreements](defining-agreements.html)
+- [Peer Development](peer-development.html)
 - [Enablers Of Co-Creation](enablers-of-co-creation.html)
+- [Building Organizations](building-organizations.html)
+- [Bringing In S3](bringing-in-s3.html)
+- [Defining Agreements](defining-agreements.html)
 - [Focused Interactions](focused-interactions.html)
 - [Meeting Practices](meeting-practices.html)
-- [Organizational Structure](organizational-structure.html)
 - [Organizing Work](organizing-work.html)
-- [Peer Development](peer-development.html)
+- [Organizational Structure](organizational-structure.html)
 
 ## Alphabetical List of All Patterns
 

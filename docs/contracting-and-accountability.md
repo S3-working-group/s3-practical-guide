@@ -20,3 +20,7 @@ To preserve organizational culture, maintain self-accountability and help new me
 - align contract with both organizational culture and legal requirements
 - consider a probationary period
 - have clear procedures for breaches of contract
+
+
+[&#9664; Breaking Agreements](breaking-agreements.html) | [&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html) | [&#9654; Transparent Salary](transparent-salary.html)
+

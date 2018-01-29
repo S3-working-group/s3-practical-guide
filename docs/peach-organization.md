@@ -11,3 +11,7 @@ Deliver value in complex and competitive environments through **decentralization
 -   the center provides internal services to support the organization
 -   periphery stewards the monetary resources and steers the organization
 -   link domains as required to flow information and influence and address dependencies
+
+
+[&#9664; Delegate Circle](delegate-circle.html) | [&#9650; Organizational Structure](organizational-structure.html) | [&#9654; Double-Linked Hierarchy](double-linked-hierarchy.html)
+

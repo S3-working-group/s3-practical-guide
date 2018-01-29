@@ -22,3 +22,7 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ![inline,fit](img/process/navigate-via-tension-slides.png)
 
+
+
+[&#9664; Respond To Organizational Drivers](respond-to-organizational-drivers.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Describe Drivers](describe-drivers.html)
+

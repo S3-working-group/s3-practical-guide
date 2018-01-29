@@ -26,3 +26,7 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
     -   domain descriptions, strategies and development plans
     -   governance and operational backlogs for roles
     -   decisions related to delivering value in a role
+
+
+[&#9664; Evaluation Criteria](evaluation-criteria.html) | [&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Logbook Keeper](logbook-keeper.html)
+

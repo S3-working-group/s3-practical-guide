@@ -11,3 +11,7 @@ Acknowledging its interdependence, an organization can consciously invite **outs
 
 -   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
 -   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)
+
+
+[&#9664; Open Domain](open-domain.html) | [&#9650; Building Organizations](building-organizations.html) | [&#9654; Focused Interactions](focused-interactions.html)
+

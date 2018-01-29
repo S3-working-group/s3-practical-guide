@@ -13,3 +13,7 @@ title: "Co-Creation And Evolution"
 - [Proposal Forming](proposal-forming.html)
 - [Role Selection](role-selection.html)
 - [Driver Mapping](driver-mapping.html)
+
+
+[&#9664; Fractal Organization](fractal-organization.html) | [&#9654; Respond To Organizational Drivers](respond-to-organizational-drivers.html)
+

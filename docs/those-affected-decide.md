@@ -11,3 +11,7 @@ For larger groups:
 -   set out a virtual, asynchronous, time-boxed and staged process
 
 Consider including those affected also in review and evolution of decisions.
+
+
+[&#9664; Evaluate Agreements](evaluate-agreements.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Proposal Forming](proposal-forming.html)
+

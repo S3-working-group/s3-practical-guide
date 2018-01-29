@@ -27,3 +27,7 @@ Ask everyone in a round to reflect on any or all of the following topics in a br
 -   appreciations and achievements (I liked...)
 -   growing edges and improvement suggestions (I wish...)
 -   wild ideas and radical suggestions (What if...)
+
+
+[&#9664; Facilitate Meetings](facilitate-meetings.html) | [&#9650; Meeting Practices](meeting-practices.html) | [&#9654; Meeting Host](meeting-host.html)
+

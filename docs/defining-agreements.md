@@ -18,3 +18,7 @@ title: "Defining Agreements"
 - [Evaluation Criteria](evaluation-criteria.html)
 - [Logbook](logbook.html)
 - [Logbook Keeper](logbook-keeper.html)
+
+
+[&#9664; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html) | [&#9654; Agreement](agreement.html)
+

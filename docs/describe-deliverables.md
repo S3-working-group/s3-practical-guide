@@ -19,3 +19,7 @@ Explicitly defining deliverables can be useful for improving:
 -   development plans
 -   domain descriptions
 -   any other agreement (e.g. business goals, process policy, customer communication)
+
+
+[&#9664; Intended Outcome](intended-outcome.html) | [&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Evaluation Criteria](evaluation-criteria.html)
+

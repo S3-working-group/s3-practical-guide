@@ -20,3 +20,7 @@ A circle:
     -   each circle can create value autonomously
 -   **self-governing**:
     -   a circle continuously decides what to do to account for their domain, and sets constraints on how and when things will be done.
+
+
+[&#9664; Delegate Influence](delegate-influence.html) | [&#9650; Building Organizations](building-organizations.html) | [&#9654; Role](role.html)
+

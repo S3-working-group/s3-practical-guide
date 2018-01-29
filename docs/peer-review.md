@@ -23,3 +23,7 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 
 
+
+
+[&#9664; Peer Feedback](peer-feedback.html) | [&#9650; Peer Development](peer-development.html) | [&#9654; Development Plan](development-plan.html)
+

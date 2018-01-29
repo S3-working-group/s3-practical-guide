@@ -14,3 +14,7 @@ The delegator supports people in delivering value by:
 Adjust constraints incrementally, considering capabilities, reliability and outcome.
 
 Decentralize as much as possible, retain as much influence as necessary.
+
+
+[&#9650; Building Organizations](building-organizations.html) | [&#9654; Circle](circle.html)
+
