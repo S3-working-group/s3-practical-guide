@@ -1,6 +1,8 @@
 title: title
 end: SKIP
 
+section-prefix: " Pattern %(chapter)s.%(section)s:"
+
 introduction:
   - s3-overview
   - history
