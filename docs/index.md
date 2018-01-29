@@ -10,8 +10,6 @@ This guide is also available as [PDF for download](http://sociocracy30.org/_res/
 
 For further information about Sociocracy 3.0 check out <http://sociocracy30.org>
 
-
-
 ## Pattern Groups
 
 - [Bringing In S3](bringing-in-s3.html)

@@ -36,4 +36,5 @@ defaults:
 exclude:      [
   "_export",
   "_python",
+  "_templates",
   ]
