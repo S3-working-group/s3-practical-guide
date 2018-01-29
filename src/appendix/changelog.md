@@ -1,3 +1,5 @@
+# Changelog
+
 ## Changelog 2017-11-16
 
 - small corrections
@@ -55,7 +57,7 @@
 
 ---
 
-## Changelog (2017-10-21 cont.)
+## Changelog 2017-10-21 (cont.)
 
 - _Evaluate Agreements_: aligned questions to peer review
 - _Governance Backlog_: updated definition
@@ -69,7 +71,7 @@
 
 ---
 
-## Changelog (2017-10-21 cont.)
+## Changelog 2017-10-21 (cont.)
 
 **Renamed Patterns:** 
 
