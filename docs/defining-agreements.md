@@ -2,6 +2,14 @@
 title: "Defining Agreements"
 ---
 
+
+![inline,fit](img/evolution/experiments.png)
+
+
+### Agreement Life-Cycle
+
+![inline,fit](img/evolution/agreement-lifecycle-long.png)
+
 - [Agreement](agreement.html)
 - [Develop Strategy](develop-strategy.html)
 - [Clarify Domains](clarify-domains.html)
