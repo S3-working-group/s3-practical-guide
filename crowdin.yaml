@@ -2,10 +2,6 @@
 
 "files": [
   {
-    "source": "/src/**/*.md",
-    "translation": "/translations/%two_letters_code%/src/**/%original_file_name%"
-  },
-  {
     "source": "glossary.yaml",
     "translation": "/translations/%two_letters_code%/%original_file_name%"
   },
@@ -22,11 +18,15 @@
     "translation": "/translations/%two_letters_code%/docs/_templates/%original_file_name%"
   },
   {
+    "source": "/docs/_includes/footer.html",
+    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
+  },
+  {
     "source": "/docs/_includes/header.html",
     "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%",
   },
   {
-    "source": "/docs/_includes/footer.html",
-    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
+    "source": "/src/**/*.md",
+    "translation": "/translations/%two_letters_code%/src/**/%original_file_name%"
   }
 ]
