@@ -36,5 +36,5 @@ Proposal forming may be also be used by an individual.
 -   any objections to this group?
 
 
-[&#9664; Those Affected Decide](those-affected-decide.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Role Selection](role-selection.html)
+[&#9654; Role Selection](role-selection.html)<br/>[&#9664; Those Affected Decide](those-affected-decide.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
 

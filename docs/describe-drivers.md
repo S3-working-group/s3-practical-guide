@@ -22,5 +22,5 @@ The **driver statement** captures just enough information to communicate the nee
 A driver can be described as a problem or an opportunity, depending on the perspective of the person or the group. 
 
 
-[&#9664; Navigate Via Tension](navigate-via-tension.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Consent Decision Making](consent-decision-making.html)
+[&#9654; Consent Decision Making](consent-decision-making.html)<br/>[&#9664; Navigate Via Tension](navigate-via-tension.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
 

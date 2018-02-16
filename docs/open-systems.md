@@ -13,5 +13,5 @@ Acknowledging its interdependence, an organization can consciously invite **outs
 -   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)
 
 
-[&#9664; Open Domain](open-domain.html) | [&#9650; Building Organizations](building-organizations.html) | [&#9654; Focused Interactions](focused-interactions.html)
+[&#9654; Focused Interactions](focused-interactions.html)<br/>[&#9664; Open Domain](open-domain.html)<br/>[&#9650; Building Organizations](building-organizations.html)
 

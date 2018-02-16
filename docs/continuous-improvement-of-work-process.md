@@ -25,5 +25,5 @@ title: "Continuous Improvement Of Work Process With S3"
 
 
 
-[&#9664; Open S3 Adoption](open-s3-adoption.html) | [&#9650; Bringing In S3](bringing-in-s3.html) | [&#9654; Building Organizations](building-organizations.html)
+[&#9654; Building Organizations](building-organizations.html)<br/>[&#9664; Open S3 Adoption](open-s3-adoption.html)<br/>[&#9650; Bringing In S3](bringing-in-s3.html)
 

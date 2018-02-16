@@ -13,5 +13,5 @@ Deliver value in complex and competitive environments through **decentralization
 -   link domains as required to flow information and influence and address dependencies
 
 
-[&#9664; Delegate Circle](delegate-circle.html) | [&#9650; Organizational Structure](organizational-structure.html) | [&#9654; Double-Linked Hierarchy](double-linked-hierarchy.html)
+[&#9654; Double-Linked Hierarchy](double-linked-hierarchy.html)<br/>[&#9664; Delegate Circle](delegate-circle.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
 

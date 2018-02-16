@@ -16,5 +16,5 @@ Objections to a nominee may be resolved in many ways, including amending the rol
 
 **Note:** This pattern can also be used for selection between a variety of options in other circumstances.
 
-[&#9664; Proposal Forming](proposal-forming.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Driver Mapping](driver-mapping.html)
+[&#9654; Driver Mapping](driver-mapping.html)<br/>[&#9664; Proposal Forming](proposal-forming.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
 

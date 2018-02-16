@@ -28,5 +28,5 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
     -   decisions related to delivering value in a role
 
 
-[&#9664; Evaluation Criteria](evaluation-criteria.html) | [&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Logbook Keeper](logbook-keeper.html)
+[&#9654; Logbook Keeper](logbook-keeper.html)<br/>[&#9664; Evaluation Criteria](evaluation-criteria.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

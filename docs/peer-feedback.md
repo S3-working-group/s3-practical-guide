@@ -17,5 +17,5 @@ Considerations:
 -   decide for yourself what you will do with the feedback
 
 
-[&#9664; Ask For Help](ask-for-help.html) | [&#9650; Peer Development](peer-development.html) | [&#9654; Peer Review](peer-review.html)
+[&#9654; Peer Review](peer-review.html)<br/>[&#9664; Ask For Help](ask-for-help.html)<br/>[&#9650; Peer Development](peer-development.html)
 

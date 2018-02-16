@@ -13,5 +13,5 @@ Representatives (a.k.a. links):
     -   object to agreements and proposals (when there is reason to do so)
 
 
-[&#9664; Double Linking](double-linking.html) | [&#9650; Building Organizations](building-organizations.html) | [&#9654; Helping Team](helping-team.html)
+[&#9654; Helping Team](helping-team.html)<br/>[&#9664; Double Linking](double-linking.html)<br/>[&#9650; Building Organizations](building-organizations.html)
 

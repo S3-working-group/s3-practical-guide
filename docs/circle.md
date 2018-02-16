@@ -22,5 +22,5 @@ A circle:
     -   a circle continuously decides what to do to account for their domain, and sets constraints on how and when things will be done.
 
 
-[&#9664; Delegate Influence](delegate-influence.html) | [&#9650; Building Organizations](building-organizations.html) | [&#9654; Role](role.html)
+[&#9654; Role](role.html)<br/>[&#9664; Delegate Influence](delegate-influence.html)<br/>[&#9650; Building Organizations](building-organizations.html)
 

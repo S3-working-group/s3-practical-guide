@@ -23,5 +23,5 @@ title: "Coordination Meeting"
     -   propose new or updated agreements
 
 
-[&#9664; Planning And Review Meetings](planning-and-review-meetings.html) | [&#9650; Focused Interactions](focused-interactions.html) | [&#9654; Enablers Of Co-Creation](enablers-of-co-creation.html)
+[&#9654; Enablers Of Co-Creation](enablers-of-co-creation.html)<br/>[&#9664; Planning And Review Meetings](planning-and-review-meetings.html)<br/>[&#9650; Focused Interactions](focused-interactions.html)
 

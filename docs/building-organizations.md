@@ -13,5 +13,5 @@ title: "Building Organizations"
 - [Open Systems](open-systems.html)
 
 
-[&#9664; Bylaws](bylaws.html) | [&#9654; Delegate Influence](delegate-influence.html)
+[&#9654; Delegate Influence](delegate-influence.html)<br/>[&#9664; Bylaws](bylaws.html)
 

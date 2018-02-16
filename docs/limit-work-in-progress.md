@@ -15,5 +15,5 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 
 
-[&#9664; Pull-System For Work](pull-system-for-work.html) | [&#9650; Organizing Work](organizing-work.html) | [&#9654; Align Flow](align-flow.html)
+[&#9654; Align Flow](align-flow.html)<br/>[&#9664; Pull-System For Work](pull-system-for-work.html)<br/>[&#9650; Organizing Work](organizing-work.html)
 

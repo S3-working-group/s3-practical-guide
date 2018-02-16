@@ -60,5 +60,5 @@ In consent decision making, concerns:
 If people believe a proposal may not be ‘safe enough to try’, they can raise concerns as objections to check with others about likelihood of harm.
 
 
-[&#9664; Consent Decision Making](consent-decision-making.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Resolve Objections](resolve-objections.html)
+[&#9654; Resolve Objections](resolve-objections.html)<br/>[&#9664; Consent Decision Making](consent-decision-making.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
 

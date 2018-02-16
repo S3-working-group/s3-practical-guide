@@ -9,5 +9,5 @@ title: "Intended Outcome"
 -   specific *Evaluation Criteria* and metrics can be helpful for reviewing the actual outcome
 
 
-[&#9664; Clarify Domains](clarify-domains.html) | [&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Describe Deliverables](describe-deliverables.html)
+[&#9654; Describe Deliverables](describe-deliverables.html)<br/>[&#9664; Clarify Domains](clarify-domains.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

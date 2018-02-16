@@ -14,5 +14,5 @@ title: "Support Role"
 Support roles may be operational only, and external contractors consent to account for their role.
 
 
-[&#9664; Transparent Salary](transparent-salary.html) | [&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html) | [&#9654; Bylaws](bylaws.html)
+[&#9654; Bylaws](bylaws.html)<br/>[&#9664; Transparent Salary](transparent-salary.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
 

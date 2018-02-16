@@ -14,5 +14,5 @@ Consider:
 -   sharing gains and costs
 
 
-[&#9664; Support Role](support-role.html) | [&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html) | [&#9654; Focused Interactions](focused-interactions.html)
+[&#9654; Focused Interactions](focused-interactions.html)<br/>[&#9664; Support Role](support-role.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
 

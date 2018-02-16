@@ -24,5 +24,5 @@ _A **value** is a principle that guides behavior. Values define scope for action
 
 
 
-[&#9664; Adopt The Seven Principles](adopt-the-seven-principles.html) | [&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html) | [&#9654; Governance Facilitator](governance-facilitator.html)
+[&#9654; Governance Facilitator](governance-facilitator.html)<br/>[&#9664; Adopt The Seven Principles](adopt-the-seven-principles.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
 

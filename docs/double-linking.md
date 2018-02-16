@@ -13,5 +13,5 @@ Two interdependent groups each select one of their members to represent their in
 -   can be used to draw out valuable information in hierarchical structures
 
 
-[&#9664; Linking](linking.html) | [&#9650; Building Organizations](building-organizations.html) | [&#9654; Representative](representative.html)
+[&#9654; Representative](representative.html)<br/>[&#9664; Linking](linking.html)<br/>[&#9650; Building Organizations](building-organizations.html)
 

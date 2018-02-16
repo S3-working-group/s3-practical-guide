@@ -12,5 +12,5 @@ title: "Resolve Objections"
 
 
 
-[&#9664; Objection](objection.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Evaluate Agreements](evaluate-agreements.html)
+[&#9654; Evaluate Agreements](evaluate-agreements.html)<br/>[&#9664; Objection](objection.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
 

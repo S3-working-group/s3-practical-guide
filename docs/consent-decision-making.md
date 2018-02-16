@@ -19,5 +19,5 @@ title: "Consent Decision Making"
 -   I agree to share objections as I become aware of them.
 
 
-[&#9664; Describe Drivers](describe-drivers.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Objection](objection.html)
+[&#9654; Objection](objection.html)<br/>[&#9664; Describe Drivers](describe-drivers.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
 

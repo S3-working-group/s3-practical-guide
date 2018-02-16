@@ -26,5 +26,5 @@ When using S3 for governance, the facilitator familiarizes themselves with the f
 -   peer reviews
 
 
-[&#9664; Agree On Values](agree-on-values.html) | [&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html) | [&#9654; Breaking Agreements](breaking-agreements.html)
+[&#9654; Breaking Agreements](breaking-agreements.html)<br/>[&#9664; Agree On Values](agree-on-values.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
 

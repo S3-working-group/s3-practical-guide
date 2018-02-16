@@ -19,5 +19,5 @@ _A **strategy** is a high level approach how people will create value to success
 ![right,fit](img/evolution/domain-driver-strategy-exeriments.png)
 
 
-[&#9664; Agreement](agreement.html) | [&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Clarify Domains](clarify-domains.html)
+[&#9654; Clarify Domains](clarify-domains.html)<br/>[&#9664; Agreement](agreement.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

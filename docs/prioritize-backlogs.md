@@ -14,5 +14,5 @@ Order **all uncompleted work items** with the most important items first:
 
 
 
-[&#9664; Backlog](backlog.html) | [&#9650; Organizing Work](organizing-work.html) | [&#9654; Visualize Work](visualize-work.html)
+[&#9654; Visualize Work](visualize-work.html)<br/>[&#9664; Backlog](backlog.html)<br/>[&#9650; Organizing Work](organizing-work.html)
 

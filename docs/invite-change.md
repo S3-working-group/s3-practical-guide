@@ -11,5 +11,5 @@ title: "Invite Change"
 -   invite others to experiment with you
 
 
-[&#9664; Be The Change](be-the-change.html) | [&#9650; Bringing In S3](bringing-in-s3.html) | [&#9654; Open S3 Adoption](open-s3-adoption.html)
+[&#9654; Open S3 Adoption](open-s3-adoption.html)<br/>[&#9664; Be The Change](be-the-change.html)<br/>[&#9650; Bringing In S3](bringing-in-s3.html)
 
