@@ -22,8 +22,11 @@
     "translation": "/translations/%two_letters_code%/docs/_templates/%original_file_name%"
   },
   {
-    "source": "/docs/_include/*.html",
+    "source": "/docs/_includes/header.html",
+    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%",
+  },
+  {
+    "source": "/docs/_includes/footer.html",
     "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
   }
-
 ]
