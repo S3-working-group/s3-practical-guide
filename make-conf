@@ -1,0 +1,3 @@
+
+TARGETFILE=S3-practical-guide
+SECTIONPREFIX= Pattern %(chapter)s.%(section)s:
