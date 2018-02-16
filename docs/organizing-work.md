@@ -11,5 +11,5 @@ title: "Organizing Work"
 - [Coordinator](coordinator.html)
 
 
-[&#9664; Governance Backlog](governance-backlog.html) | [&#9654; Backlog](backlog.html)
+[&#9654; Backlog](backlog.html)<br/>[&#9664; Governance Backlog](governance-backlog.html)
 

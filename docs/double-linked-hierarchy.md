@@ -12,5 +12,5 @@ title: "Double-Linked Hierarchy"
 -   functional hierarchy is still possible if valuable
 
 
-[&#9664; Peach Organization](peach-organization.html) | [&#9650; Organizational Structure](organizational-structure.html) | [&#9654; Service Organization](service-organization.html)
+[&#9654; Service Organization](service-organization.html)<br/>[&#9664; Peach Organization](peach-organization.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
 

@@ -20,5 +20,5 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 
 
 
-[&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Develop Strategy](develop-strategy.html)
+[&#9654; Develop Strategy](develop-strategy.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

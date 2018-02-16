@@ -36,5 +36,5 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 
 
-[&#9664; Resolve Objections](resolve-objections.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Those Affected Decide](those-affected-decide.html)
+[&#9654; Those Affected Decide](those-affected-decide.html)<br/>[&#9664; Resolve Objections](resolve-objections.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
 

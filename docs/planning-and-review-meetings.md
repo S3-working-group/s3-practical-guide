@@ -11,5 +11,5 @@ People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and 
 -   review completed work items and decide on re-work and changes for the next iteration in a review meeting
 
 
-[&#9664; Daily Standup](daily-standup.html) | [&#9650; Focused Interactions](focused-interactions.html) | [&#9654; Coordination Meeting](coordination-meeting.html)
+[&#9654; Coordination Meeting](coordination-meeting.html)<br/>[&#9664; Daily Standup](daily-standup.html)<br/>[&#9650; Focused Interactions](focused-interactions.html)
 

@@ -1,6 +1,7 @@
 ---
-title: "Introduction"
+title: Introduction
 ---
+
 
 # Sociocracy 3.0 - A Practical Guide For Evolving Agile and Resilient Organizations 
 
@@ -164,3 +165,7 @@ _Does it require or benefit from an individual or group decision?_
 -   no: operations
     -   covered by previous agreement (those accountable are free to act)
     -   needs to be done
+
+
+[&#9654; Co-Creation And Evolution](co-creation-and-evolution.html)
+

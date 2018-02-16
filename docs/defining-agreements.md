@@ -20,5 +20,5 @@ title: "Defining Agreements"
 - [Logbook Keeper](logbook-keeper.html)
 
 
-[&#9664; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html) | [&#9654; Agreement](agreement.html)
+[&#9654; Agreement](agreement.html)<br/>[&#9664; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)
 

@@ -40,5 +40,5 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
     -   the wider environment?
 
 
-[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html) | [&#9654; Adopt The Seven Principles](adopt-the-seven-principles.html)
+[&#9654; Adopt The Seven Principles](adopt-the-seven-principles.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
 

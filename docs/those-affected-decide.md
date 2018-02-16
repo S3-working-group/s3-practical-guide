@@ -13,5 +13,5 @@ For larger groups:
 Consider including those affected also in review and evolution of decisions.
 
 
-[&#9664; Evaluate Agreements](evaluate-agreements.html) | [&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Proposal Forming](proposal-forming.html)
+[&#9654; Proposal Forming](proposal-forming.html)<br/>[&#9664; Evaluate Agreements](evaluate-agreements.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
 

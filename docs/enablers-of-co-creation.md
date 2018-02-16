@@ -13,5 +13,5 @@ title: "Enablers Of Co-Creation"
 - [Bylaws](bylaws.html)
 
 
-[&#9664; Development Plan](development-plan.html) | [&#9654; Artful Participation](artful-participation.html)
+[&#9654; Artful Participation](artful-participation.html)<br/>[&#9664; Development Plan](development-plan.html)
 

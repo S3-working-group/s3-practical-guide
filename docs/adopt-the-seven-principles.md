@@ -14,5 +14,5 @@ title: "Adopt The Seven Principles"
 -   an organization's actual values need to embrace Sociocracy 3.0 principles
 
 
-[&#9664; Artful Participation](artful-participation.html) | [&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html) | [&#9654; Agree On Values](agree-on-values.html)
+[&#9654; Agree On Values](agree-on-values.html)<br/>[&#9664; Artful Participation](artful-participation.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
 

@@ -32,5 +32,5 @@ Each item on a (prioritized) backlog contains:
 
 
 
-[&#9650; Organizing Work](organizing-work.html) | [&#9654; Prioritize Backlogs](prioritize-backlogs.html)
+[&#9654; Prioritize Backlogs](prioritize-backlogs.html)<br/>[&#9650; Organizing Work](organizing-work.html)
 

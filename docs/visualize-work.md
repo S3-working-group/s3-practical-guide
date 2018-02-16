@@ -32,5 +32,5 @@ Transparency about the state of all work items currently pending, in progress or
 
 
 
-[&#9664; Prioritize Backlogs](prioritize-backlogs.html) | [&#9650; Organizing Work](organizing-work.html) | [&#9654; Pull-System For Work](pull-system-for-work.html)
+[&#9654; Pull-System For Work](pull-system-for-work.html)<br/>[&#9664; Prioritize Backlogs](prioritize-backlogs.html)<br/>[&#9650; Organizing Work](organizing-work.html)
 

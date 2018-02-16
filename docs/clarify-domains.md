@@ -23,5 +23,5 @@ Domain descriptions can be created for a role, position, circle, team, open doma
 You can either start by clarifying existing domains, or at least clarify new ones.
 
 
-[&#9664; Develop Strategy](develop-strategy.html) | [&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Intended Outcome](intended-outcome.html)
+[&#9654; Intended Outcome](intended-outcome.html)<br/>[&#9664; Develop Strategy](develop-strategy.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

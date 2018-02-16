@@ -15,5 +15,5 @@ title: "Co-Creation And Evolution"
 - [Driver Mapping](driver-mapping.html)
 
 
-[&#9664; Fractal Organization](fractal-organization.html) | [&#9654; Respond To Organizational Drivers](respond-to-organizational-drivers.html)
+[&#9654; Respond To Organizational Drivers](respond-to-organizational-drivers.html)<br/>[&#9664; Fractal Organization](fractal-organization.html)
 

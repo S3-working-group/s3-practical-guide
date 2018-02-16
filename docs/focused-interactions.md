@@ -9,5 +9,5 @@ title: "Focused Interactions"
 - [Coordination Meeting](coordination-meeting.html)
 
 
-[&#9664; Logbook Keeper](logbook-keeper.html) | [&#9654; Governance Meeting](governance-meeting.html)
+[&#9654; Governance Meeting](governance-meeting.html)<br/>[&#9664; Logbook Keeper](logbook-keeper.html)
 

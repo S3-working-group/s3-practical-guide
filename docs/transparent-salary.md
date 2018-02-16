@@ -19,5 +19,5 @@ title: "Transparent Salary"
 ![inline,fit](img/process/opening-salaries.png)
 
 
-[&#9664; Contracting And Accountability](contracting-and-accountability.html) | [&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html) | [&#9654; Support Role](support-role.html)
+[&#9654; Support Role](support-role.html)<br/>[&#9664; Contracting And Accountability](contracting-and-accountability.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
 

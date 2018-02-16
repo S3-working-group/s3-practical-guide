@@ -15,5 +15,5 @@ title: "Daily Standup"
     -   adaptation of existing agreements or creation of new agreements on the spot
 
 
-[&#9664; Retrospective](retrospective.html) | [&#9650; Focused Interactions](focused-interactions.html) | [&#9654; Planning And Review Meetings](planning-and-review-meetings.html)
+[&#9654; Planning And Review Meetings](planning-and-review-meetings.html)<br/>[&#9664; Retrospective](retrospective.html)<br/>[&#9650; Focused Interactions](focused-interactions.html)
 

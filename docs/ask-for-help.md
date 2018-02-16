@@ -14,5 +14,5 @@ Ask someone, "_would you be willing to help me with ..._?"  The person asked ans
 
 
 
-[&#9650; Peer Development](peer-development.html) | [&#9654; Peer Feedback](peer-feedback.html)
+[&#9654; Peer Feedback](peer-feedback.html)<br/>[&#9650; Peer Development](peer-development.html)
 

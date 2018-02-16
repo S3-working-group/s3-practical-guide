@@ -18,5 +18,5 @@ The delegator of the open domain is accountable for ensuring regular review of t
 Depending on the constraints set by delegators, contributors may account for work and/or governance of the open domain.
 
 
-[&#9664; Helping Team](helping-team.html) | [&#9650; Building Organizations](building-organizations.html) | [&#9654; Open Systems](open-systems.html)
+[&#9654; Open Systems](open-systems.html)<br/>[&#9664; Helping Team](helping-team.html)<br/>[&#9650; Building Organizations](building-organizations.html)
 

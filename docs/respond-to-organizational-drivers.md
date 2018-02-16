@@ -34,5 +34,5 @@ The response to a driver is usually an experiment that is evolved over time, bas
 -   Is the driver still relevant?
 
 
-[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html) | [&#9654; Navigate Via Tension](navigate-via-tension.html)
+[&#9654; Navigate Via Tension](navigate-via-tension.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
 

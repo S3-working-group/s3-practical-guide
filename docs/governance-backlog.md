@@ -13,5 +13,5 @@ _A **governance backlog** is a visible, prioritized list of items (drivers) that
 
 
 
-[&#9664; Meeting Host](meeting-host.html) | [&#9650; Meeting Practices](meeting-practices.html) | [&#9654; Enablers Of Co-Creation](enablers-of-co-creation.html)
+[&#9654; Enablers Of Co-Creation](enablers-of-co-creation.html)<br/>[&#9664; Meeting Host](meeting-host.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
 

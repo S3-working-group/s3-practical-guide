@@ -16,5 +16,5 @@ Adjust constraints incrementally, considering capabilities, reliability and outc
 Decentralize as much as possible, retain as much influence as necessary.
 
 
-[&#9650; Building Organizations](building-organizations.html) | [&#9654; Circle](circle.html)
+[&#9654; Circle](circle.html)<br/>[&#9650; Building Organizations](building-organizations.html)
 

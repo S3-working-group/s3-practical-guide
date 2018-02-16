@@ -8,5 +8,5 @@ title: "Pull-System For Work"
 -   prevents overloading the system, especially when work in progress (WIP) per person is limited 
 
 
-[&#9664; Visualize Work](visualize-work.html) | [&#9650; Organizing Work](organizing-work.html) | [&#9654; Limit Work In Progress](limit-work-in-progress.html)
+[&#9654; Limit Work In Progress](limit-work-in-progress.html)<br/>[&#9664; Visualize Work](visualize-work.html)<br/>[&#9650; Organizing Work](organizing-work.html)
 

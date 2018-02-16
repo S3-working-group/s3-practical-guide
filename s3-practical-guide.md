@@ -1822,6 +1822,8 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
+# Changelog
+
 ## Changelog 2017-11-16
 
 - small corrections
@@ -1879,7 +1881,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-## Changelog (2017-10-21 cont.)
+## Changelog 2017-10-21 (cont.)
 
 - _Evaluate Agreements_: aligned questions to peer review
 - _Governance Backlog_: updated definition
@@ -1893,7 +1895,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-## Changelog (2017-10-21 cont.)
+## Changelog 2017-10-21 (cont.)
 
 **Renamed Patterns:** 
 
@@ -1922,7 +1924,6 @@ Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 
 
 ---
-
 
 ## License
 

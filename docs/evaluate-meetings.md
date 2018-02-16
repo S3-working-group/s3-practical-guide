@@ -29,5 +29,5 @@ Ask everyone in a round to reflect on any or all of the following topics in a br
 -   wild ideas and radical suggestions (What if...)
 
 
-[&#9664; Facilitate Meetings](facilitate-meetings.html) | [&#9650; Meeting Practices](meeting-practices.html) | [&#9654; Meeting Host](meeting-host.html)
+[&#9654; Meeting Host](meeting-host.html)<br/>[&#9664; Facilitate Meetings](facilitate-meetings.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
 

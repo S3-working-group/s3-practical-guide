@@ -39,5 +39,5 @@ Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 - [Fractal Organization](fractal-organization.html)
 
 
-[&#9664; Coordinator](coordinator.html) | [&#9654; Service Circle](service-circle.html)
+[&#9654; Service Circle](service-circle.html)<br/>[&#9664; Coordinator](coordinator.html)
 

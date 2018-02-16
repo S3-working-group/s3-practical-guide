@@ -21,5 +21,5 @@ Explicitly defining deliverables can be useful for improving:
 -   any other agreement (e.g. business goals, process policy, customer communication)
 
 
-[&#9664; Intended Outcome](intended-outcome.html) | [&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Evaluation Criteria](evaluation-criteria.html)
+[&#9654; Evaluation Criteria](evaluation-criteria.html)<br/>[&#9664; Intended Outcome](intended-outcome.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

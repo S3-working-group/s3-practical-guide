@@ -10,5 +10,5 @@ title: "Bringing In S3"
 - [Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)
 
 
-[&#9664; Open Systems](open-systems.html) | [&#9654; Adapt Patterns To Context](adapt-patterns-to-context.html)
+[&#9654; Adapt Patterns To Context](adapt-patterns-to-context.html)<br/>[&#9664; Open Systems](open-systems.html)
 

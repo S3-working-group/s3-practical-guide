@@ -13,5 +13,5 @@ title: "Rounds"
 Experienced groups might sometimes choose to fast-track certain rounds in S3 group processes.
 
 
-[&#9650; Meeting Practices](meeting-practices.html) | [&#9654; Facilitate Meetings](facilitate-meetings.html)
+[&#9654; Facilitate Meetings](facilitate-meetings.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
 

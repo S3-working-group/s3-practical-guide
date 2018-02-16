@@ -11,5 +11,5 @@ Well-defined evaluation criteria can help to understand whether or not an agreem
 -   define **actionable metrics** to continuously track effects and spot deviations from intended outcomes
 
 
-[&#9664; Describe Deliverables](describe-deliverables.html) | [&#9650; Defining Agreements](defining-agreements.html) | [&#9654; Logbook](logbook.html)
+[&#9654; Logbook](logbook.html)<br/>[&#9664; Describe Deliverables](describe-deliverables.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

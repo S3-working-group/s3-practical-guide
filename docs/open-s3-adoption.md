@@ -13,5 +13,5 @@ title: "Open S3 Adoption"
     -   repeat
 
 
-[&#9664; Invite Change](invite-change.html) | [&#9650; Bringing In S3](bringing-in-s3.html) | [&#9654; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)
+[&#9654; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)<br/>[&#9664; Invite Change](invite-change.html)<br/>[&#9650; Bringing In S3](bringing-in-s3.html)
 

@@ -14,5 +14,5 @@ title: "Service Organization"
 
 **Note:** a service organization is often referred to as a **backbone organization**.
 
-[&#9664; Double-Linked Hierarchy](double-linked-hierarchy.html) | [&#9650; Organizational Structure](organizational-structure.html) | [&#9654; Fractal Organization](fractal-organization.html)
+[&#9654; Fractal Organization](fractal-organization.html)<br/>[&#9664; Double-Linked Hierarchy](double-linked-hierarchy.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
 

@@ -12,5 +12,5 @@ Choose someone to facilitate a meeting. Even an inexperienced facilitator can he
     -   facilitates an evaluation of the meeting at the end
 
 
-[&#9664; Rounds](rounds.html) | [&#9650; Meeting Practices](meeting-practices.html) | [&#9654; Evaluate Meetings](evaluate-meetings.html)
+[&#9654; Evaluate Meetings](evaluate-meetings.html)<br/>[&#9664; Rounds](rounds.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
 

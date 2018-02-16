@@ -16,5 +16,5 @@ title: "Adapt Patterns To Context"
 
 
 
-[&#9650; Bringing In S3](bringing-in-s3.html) | [&#9654; Create A Pull-System For Organizational Change](create-a-pull-system-for-organizational-change.html)
+[&#9654; Create A Pull-System For Organizational Change](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; Bringing In S3](bringing-in-s3.html)
 

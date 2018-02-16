@@ -17,5 +17,5 @@ title: "Align Flow"
     -   it also makes for shorter feedback loops and amplifies learning
 
 
-[&#9664; Limit Work In Progress](limit-work-in-progress.html) | [&#9650; Organizing Work](organizing-work.html) | [&#9654; Coordinator](coordinator.html)
+[&#9654; Coordinator](coordinator.html)<br/>[&#9664; Limit Work In Progress](limit-work-in-progress.html)<br/>[&#9650; Organizing Work](organizing-work.html)
 
