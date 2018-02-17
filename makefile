@@ -6,13 +6,14 @@ SOURCE=src/
 TMPFOLDER=tmp/
 
 include make-conf
+include make-ebook
 
 deckset:
 	$(build-index)
 	# build index database (add this line only for the English repo!!)
 	mdslides build-index-db $(CONFIG) $(PATTERNINDEX)
 
-	# build deckset presenation and add pattern index
+	# build deckset presentation and add pattern index
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=img --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=templates/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
 	# append pattern-index

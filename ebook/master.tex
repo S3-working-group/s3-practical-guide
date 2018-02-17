@@ -1,0 +1,22 @@
+\documentclass[a5paper]{scrreprt}
+\usepackage{_style/cvstyle}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+
+\begin{document}
+	\title{The S3 Patterns Handbook}
+	\author{Bernhard Bockelbrink\\James Priest}
+	\date{2015-2016}
+	\maketitle
+	
+	\pagenumbering{arabic}
+	% limit toc to sections
+	\setcounter{tocdepth}{0}
+	\tableofcontents
+	% reset counter for list of figures
+	\setcounter{tocdepth}{1}
+	\listoffigures
+    
+    \include{handbook-compiled}
+\end {document}
