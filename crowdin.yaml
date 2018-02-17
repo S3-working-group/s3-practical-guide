@@ -6,6 +6,10 @@
     "translation": "/translations/%two_letters_code%/%original_file_name%"
   },
   {
+    "source": "localization.pot",
+    "translation": "/translations/%two_letters_code%/%file_name%.po"
+  },
+  {
     "source": "make-conf",
     "translation": "/translations/%two_letters_code%/%original_file_name%"
   },

@@ -1,0 +1,28 @@
+# continuation marker for follow-up slides
+msgid "(cont.)"
+msgstr "(cont.)"
+
+# patterns (plural)
+msgid "Patterns"
+msgstr "Patterns"
+
+# pattern (singular)
+msgid "Pattern"
+msgstr "Pattern"
+
+#
+msgid ""
+msgstr ""
+
+#
+msgid ""
+msgstr ""
+
+#
+msgid ""
+msgstr ""
+
+#
+msgid ""
+msgstr ""
+
