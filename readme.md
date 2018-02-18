@@ -1,12 +1,18 @@
 # Sociocracy 3.0 - A Practical Guide
 
-This repository contains the source file for  a slide deck for teaching Sociocracy 3.0, available as [online presentation](http://sociocracy30.org/slides/s3-practical-guide.html), or for download from [sociocracy30.org/guide](http://sociocracy30.org/guide) (as pdf or as an archive with one image per slide)
+This repository contains the source file for  a slide deck for teaching Sociocracy 3.0, currently available as 
 
-Translated versions will be available later this year, if you want to help with translations, please take a look at the [translations page](http://sociocracy30.org/translations/).
+* fast and mobile friendly static html pages: <http://patterns.sociocracy30.org>
+* [online presentation](http://sociocracy30.org/slides/s3-practical-guide.html),
+* download from [sociocracy30.org/guide](http://sociocracy30.org/guide) (as pdf or as an archive with one image per slide)
+
+A German version exists and is also available via <http://patterns-de.sociocracy30.org>, more translated versions are being created and will be made available  at <http://sociocracy30.org/guide>.
+
+If you want to help with translations, please take a look at the [translations page](http://sociocracy30.org/translations/).
 
 ## Build Process
 
-The deck is currently built in [Deckset](decksetapp.com), and a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/).
+The deck is currently built in [Deckset](decksetapp.com), as a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/) and as a static [html version](http://patterns.sociocracy30.org).  
 
 The Markdown files for the individual patterns are grouped in directories per patterns group and built using a build script. Input format is Deckset (for now), i.e. slide separators are "---".
 
@@ -60,10 +66,9 @@ The config file can be checked using
 
 [![](http://creativecommons.org/images/deed/seal.png)](http://creativecommons.org/freeworks)
 
-This slide deck is created by Bernhard Bockelbrink and James Priest, using illustrations from the [S3-Illustrations Repository](https://github.com/S3-working-group/s3-illustrations) and [reveal.js](https://github.com/hakimel/reveal.js) by Hakim El Hattab.
+This slide deck is created by Bernhard Bockelbrink, James Priest and Liliana David, using illustrations from the [S3-Illustrations Repository](https://github.com/S3-working-group/s3-illustrations) by Bernhard Bockelbrink and [reveal.js](https://github.com/hakimel/reveal.js) by Hakim El Hattab.
 
-
-_Sociocracy 3.0 - All Patterns Explained_ is licensed to you under a **Creative Commons Free Culture License**. The exact license can be viewed [here](http://creativecommons.org/licenses/by-sa/4.0/).
+_Sociocracy 3.0 -A Practical Guide_ is licensed to you under a **Creative Commons Free Culture License**. The exact license can be viewed [here](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Basically this license grants you
 
