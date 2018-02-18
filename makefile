@@ -6,7 +6,6 @@ SOURCE=src/
 TMPFOLDER=tmp/
 
 include make-conf
-include make-ebook
 
 deckset:
 	$(build-index)
@@ -34,3 +33,34 @@ wordpress:
 	# join each pattern group into one md file to be used in wordpress
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=none --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 	mdslides build wordpress $(CONFIG) $(TMPFOLDER) web-out/ --footer=templates/wordpress-footer.md  --glossary=$(GLOSSARY)
+
+
+epub:
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
+	# transclude all to one file 
+	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
+
+	cd ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../S3-practical-guide.epub
+
+	# clean up
+	cd ebook; rm tmp-*
+
+proof:
+	# render a pdf for proofreading
+	
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
+	# transclude all to one file 
+	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
+	
+	cd ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
+	cd ebook; latexmk -pdf master.tex 
+	cd ebook; mv master.pdf ../S3-practical-guide-proof.pdf
+	
+	# clean up
+	cd ebook; latexmk -C
+	cd ebook; rm tmp-*
+
