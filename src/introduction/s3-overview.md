@@ -1,4 +1,4 @@
-# Sociocracy 3.0 - A Practical Guide For Evolving Agile and Resilient Organizations 
+## Sociocracy 3.0 - A Practical Guide For Evolving Agile and Resilient Organizations 
 
 ### Effective Collaboration At Any Scale
 

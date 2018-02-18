@@ -4,7 +4,7 @@
 
 # The Patterns
 
-{{tmp-patterns--master.md}}
+{{tmp-chapters.md}}
 
 # Appendix
 

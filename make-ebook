@@ -10,7 +10,8 @@ ebooks:
 	cd ebook; multimarkdown --to=latex --output=ebook-compiled.tex ebook-compiled.md
 	
 	cd ebook; latexmk -pdf master.tex 
-	cd ebook; mv master.pdf ../S3-practical-guide-lx.pdf
+	cd ebook; mv master.pdf ../S3-practical-guide-proof.pdf
 	# clean up
 	cd ebook; latexmk -C
+	
 	cd ebook; pandoc ebook-epub-compiled.md -f markdown -t epub3 -s -o ../S3-practical-guide.epub
