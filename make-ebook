@@ -1,10 +1,10 @@
-ebook:
+ebooks:
 
 	# prepare handbook build
-	mdslides build ebook $(CONFIG) $(SOURCE) ebook/tmp --glossary=glossary.yaml --index=$(PATTERNINDEX)
+	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
 
 	# transclude all to one file 
-	# cd ebook; multimarkdown --to=mmd --output=ebook-compiled.md ebook--master.md
+	cd ebook; multimarkdown --to=mmd --output=ebook-compiled.md ebook--master.md
 	cd ebook; multimarkdown --to=mmd --output=ebook-epub-compiled.md ebook-epub--master.md
 
 	cd ebook; multimarkdown --to=latex --output=ebook-compiled.tex ebook-compiled.md

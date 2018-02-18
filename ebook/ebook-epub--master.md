@@ -8,4 +8,4 @@ creator:
 rights: © 2015 - 2018 Bernhard Bockelbrink, James Priest, Liliana David, CC BY-SA
 ...
 
-{{handbook-compiled.md}}
+{{ebook-compiled.md}}
