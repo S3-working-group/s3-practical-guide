@@ -3,7 +3,7 @@ title: "Changelog"
 ---
 
 
-## Changelog 2017-11-16
+### Changes 2017-11-16
 
 - small corrections
 - aligned glossary entries for _Circle_ and _Role_ to pattern text
@@ -11,7 +11,7 @@ title: "Changelog"
 - _Role_: clarified evolution of strategy
 
 
-## Changelog 2017-11-10
+### Changes 2017-11-10
 
 - various small clarifications and corrections
 - _Circle_: clarified relationship between circle and domain
@@ -21,7 +21,7 @@ title: "Changelog"
 - added several terms to the glossary
 
 
-## Changelog 2017-10-21
+### Changes 2017-10-21
 
 - added Liliana David to authors
 - dropped the term "framework" (replaced with "practical guide")
@@ -74,6 +74,19 @@ title: "Changelog"
 - _Domain Description_ to _Clarify Domains_
 - _Describing Deliverables_ to _Describe Deliverables_
 
-added | removed
---- | --- 
-_Describe Drivers_<br/>_Open Domain_<br/>_Delegate Influence_<br/> |_Coordination Circle_<br/>_Nested Domains_<br/>_Qualify Driver_<br/>
+
+
+
+**Added Patterns:**
+
+- _Delegate Influence_
+- _Describe Drivers_
+- _Open Domain_
+
+**Removed Patterns**
+
+- _Coordination Circle_
+- _Nested Domains_
+- _Qualify Driver_
+
+

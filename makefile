@@ -12,7 +12,7 @@ deckset:
 	# build index database (add this line only for the English repo!!)
 	mdslides build-index-db $(CONFIG) $(PATTERNINDEX)
 
-	# build deckset presenation and add pattern index
+	# build deckset presentation and add pattern index
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=img --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=templates/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
 	# append pattern-index
@@ -33,3 +33,34 @@ wordpress:
 	# join each pattern group into one md file to be used in wordpress
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=none --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 	mdslides build wordpress $(CONFIG) $(TMPFOLDER) web-out/ --footer=templates/wordpress-footer.md  --glossary=$(GLOSSARY)
+
+
+epub:
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
+	# transclude all to one file 
+	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
+
+	cd ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../S3-practical-guide.epub
+
+	# clean up
+	cd ebook; rm tmp-*
+
+proof:
+	# render a pdf for proofreading
+	
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
+	# transclude all to one file 
+	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
+	
+	cd ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
+	cd ebook; latexmk -pdf ebook-proof.tex 
+	cd ebook; mv ebook-proof.pdf ../S3-practical-guide-proof.pdf
+	
+	# clean up
+	cd ebook; latexmk -C
+	cd ebook; rm tmp-*
+
