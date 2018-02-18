@@ -4,14 +4,15 @@ ebooks:
 	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
 
 	# transclude all to one file 
-	cd ebook; multimarkdown --to=mmd --output=ebook-compiled.md ebook--master.md
-	cd ebook; multimarkdown --to=mmd --output=ebook-epub-compiled.md ebook-epub--master.md
+	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
 
-	cd ebook; multimarkdown --to=latex --output=ebook-compiled.tex ebook-compiled.md
+	cd ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	
 	cd ebook; latexmk -pdf master.tex 
 	cd ebook; mv master.pdf ../S3-practical-guide-proof.pdf
+	cd ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../S3-practical-guide.epub
+
 	# clean up
 	cd ebook; latexmk -C
-	
-	cd ebook; pandoc ebook-epub-compiled.md -f markdown -t epub3 -s -o ../S3-practical-guide.epub
+	cd ebook; rm tmp-*
