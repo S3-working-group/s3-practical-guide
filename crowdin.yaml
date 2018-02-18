@@ -26,6 +26,18 @@
     "translation": "/translations/%two_letters_code%/docs/_templates/%original_file_name%"
   },
   {
+    "source": "/docs/ebook/ebook--master.md",
+    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
+  },
+  {
+    "source": "/docs/ebook/ebook-epub--master.md",
+    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
+  },
+  {
+    "source": "/docs/ebook/ebook--master.tex",
+    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
+  },
+  {
     "source": "/docs/_includes/footer.html",
     "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
   },
