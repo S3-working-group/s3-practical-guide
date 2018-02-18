@@ -15,7 +15,7 @@ theme: Plain Jane, 1
 
 ---
 
-# Sociocracy 3.0 - A Practical Guide For Evolving Agile and Resilient Organizations 
+## Sociocracy 3.0 - A Practical Guide For Evolving Agile and Resilient Organizations 
 
 ### Effective Collaboration At Any Scale
 
@@ -1822,9 +1822,9 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-# Changelog
+## Changelog
 
-## Changelog 2017-11-16
+### Changes 2017-11-16
 
 - small corrections
 - aligned glossary entries for _Circle_ and _Role_ to pattern text
@@ -1833,7 +1833,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-## Changelog 2017-11-10
+### Changes 2017-11-10
 
 - various small clarifications and corrections
 - _Circle_: clarified relationship between circle and domain
@@ -1844,7 +1844,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-## Changelog 2017-10-21
+### Changes 2017-10-21
 
 - added Liliana David to authors
 - dropped the term "framework" (replaced with "practical guide")
@@ -1857,7 +1857,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-## Changelog 2017-10-21 (cont.)
+### Changes 2017-10-21 (cont.)
 
 - Introduction:
     -   added "what's in it for me?"
@@ -1868,7 +1868,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-## Changelog 2017-10-21 (cont.)
+### Changes 2017-10-21 (cont.)
 
 - _Artful Participation_: refined description
 - _Agreement_: clarified that the concept of agreements is applicable to people in roles
@@ -1881,7 +1881,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-## Changelog 2017-10-21 (cont.)
+### Changes 2017-10-21 (cont.)
 
 - _Evaluate Agreements_: aligned questions to peer review
 - _Governance Backlog_: updated definition
@@ -1895,7 +1895,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-## Changelog 2017-10-21 (cont.)
+### Changes 2017-10-21 (cont.)
 
 **Renamed Patterns:** 
 
@@ -1905,9 +1905,24 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 - _Domain Description_ to _Clarify Domains_
 - _Describing Deliverables_ to _Describe Deliverables_
 
-added | removed
---- | --- 
-_Describe Drivers_<br/>_Open Domain_<br/>_Delegate Influence_<br/> |_Coordination Circle_<br/>_Nested Domains_<br/>_Qualify Driver_<br/>
+
+---
+
+### Changes 2017-10-21 (cont.)
+
+**Added Patterns:**
+
+- _Delegate Influence_
+- _Describe Drivers_
+- _Open Domain_
+
+**Removed Patterns**
+
+- _Coordination Circle_
+- _Nested Domains_
+- _Qualify Driver_
+
+
 
 
 ---
@@ -1960,9 +1975,10 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 ---
 
+## James Priest
+
 ![right,fit](img/james-round.png)
 
-## James Priest
 ... serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
 
 [thriveincollaboration.com](http://thriveincollaboration.com)
@@ -1971,9 +1987,9 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 ---
 
-![right,fit](img/bernhard-round.png)
-
 ## Bernhard Bockelbrink 
+
+![right,fit](img/bernhard-round.png)
 
 ... is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
 
@@ -1983,9 +1999,9 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 ---
 
-![right,fit](img/lili-round-transparent.png)
-
 ## Liliana David
+
+![right,fit](img/lili-round-transparent.png)
 
 ... serves internationally, providing training, facilitation and mentoring to groups and organizations wishing to develop greater effectiveness and equivalence in collaboration.
 
