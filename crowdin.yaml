@@ -22,28 +22,28 @@
     "translation": "/translations/%two_letters_code%/docs/%original_file_name%"
   },
   {
+    "source": "/docs/_includes/footer.html",
+    "translation": "/translations/%two_letters_code%/docs/_includes/%original_file_name%"
+  },
+  {
+    "source": "/docs/_includes/header.html",
+    "translation": "/translations/%two_letters_code%/docs/_includes/%original_file_name%",
+  },
+  {
     "source": "/docs/_templates/*.md",
     "translation": "/translations/%two_letters_code%/docs/_templates/%original_file_name%"
   },
   {
-    "source": "/docs/ebook/ebook--master.md",
-    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
+    "source": "/ebook/ebook--master.md",
+    "translation": "/translations/%two_letters_code%/docs/ebook/%original_file_name%"
   },
   {
-    "source": "/docs/ebook/ebook-epub--master.md",
-    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
+    "source": "/ebook/ebook-epub--master.md",
+    "translation": "/translations/%two_letters_code%/docs/ebook/%original_file_name%"
   },
   {
-    "source": "/docs/ebook/ebook--master.tex",
-    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
-  },
-  {
-    "source": "/docs/_includes/footer.html",
-    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%"
-  },
-  {
-    "source": "/docs/_includes/header.html",
-    "translation": "/translations/%two_letters_code%/docs/_include/%original_file_name%",
+    "source": "/ebook/ebook--master.tex",
+    "translation": "/translations/%two_letters_code%/docs/ebook/%original_file_name%"
   },
   {
     "source": "/src/**/*.md",
