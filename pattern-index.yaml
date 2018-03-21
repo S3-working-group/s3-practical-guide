@@ -123,8 +123,8 @@ patterns:
   path: describe-deliverables.md
   pid: 5
 - gid: 1
-  name: Describe Drivers
-  path: describe-drivers.md
+  name: Describe Organizational Drivers
+  path: describe-organizational-drivers.md
   pid: 3
 - gid: 6
   name: Develop Strategy

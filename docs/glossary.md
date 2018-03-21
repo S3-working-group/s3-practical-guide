@@ -48,6 +48,8 @@ title: Glossary
 
 **Logbook**: A (digital) system to store all information relevant for running an organization and its teams.
 
+**Need**: A need is a lack of something wanted or deemed necessary.
+
 **Objection**: A reason why doing something stands in the way of (more) effective response to a driver.
 
 **Operations (Doing the Work)**: People doing what needs to be done, guided by coordination and governance.

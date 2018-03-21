@@ -25,7 +25,7 @@ title: Alphabetical List Of All Patterns
 - [Delegate Circle](delegate-circle.html)
 - [Delegate Influence](delegate-influence.html)
 - [Describe Deliverables](describe-deliverables.html)
-- [Describe Drivers](describe-drivers.html)
+- [Describe Organizational Drivers](describe-organizational-drivers.html)
 - [Develop Strategy](develop-strategy.html)
 - [Development Plan](development-plan.html)
 - [Double Linking](double-linking.html)

@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-16) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2018-03-21) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -284,26 +284,79 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ---
 
-## Pattern 1.3: Describe Drivers
+# Pattern 1.3: Describe Organizational Drivers
 
-**Describe drivers to understand, communicate and remember them.**
+**Describe organizational drivers to understand, communicate and remember them.**
 
-A simple way to describe a driver is with a statement containing: 
+A simple way to describe a driver is with a **brief statement** explaining: 
 
-- a brief description of the situation (observation) 
-- a description of what is needed (deficit) in relation to the situation 
-
-When there’s disagreement about what is needed, it’s helpful to zoom out from specific solutions.
+-   **What’s happening..:**
+    -   the **current situation**
+    -   the **effect** of this situation on the organization
+-   ...and **what’s needed:**
+    -   the **need** of the organization in relation to this situation
+    -   the **impact** of attending to that need
 
 ---
 
-> Driver statement example: 
+# Describe Organizational Drivers (2)
 
-> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need to figure out how we can keep the kitchen in a usable state.”_
+Depending on their perspective, a person or group may decide to describe a driver as a problem to solve or an opportunity to leverage. 
 
-The **driver statement** captures just enough information to communicate the need for an action or a decision. More information to reveal scope and details of the driver can be recorded in an appendix. 
+A **driver statement** captures just enough information to communicate the need for an action or a decision. More information about the scope and details of the driver may be recorded besides the initial driver statement. 
 
-A driver can be described as a problem or an opportunity, depending on the perspective of the person or the group. 
+---
+
+## Example driver statement: 
+
+> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focussed on our work.”_
+
+---
+
+## 1. Current Situation
+
+> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes...”_
+
+Describe the current situation:
+
+- Briefly capture the essentials of what is happening.
+- Be objective: Describe observations and avoid evaluation.
+
+---
+
+## 2. Effect
+
+> _“...it’s not possible to quickly grab a coffee and get right back to work.”_
+
+Explain the effect of this situation on the organization:
+
+- Clarify **why** the situation needs attention: how does it affect the organization? 
+- Be explicit about effects being current or anticipated. 
+- Explain challenges, losses, opportunities or gains. 
+
+---
+
+## 3. Need
+
+> _“We need the kitchen in a usable state...”_
+
+Explain the need of the organization in relation to this situation:
+
+- A **need of an organization** is anything a group (or individual) needs to effectively account for a domain. 
+- When there’s disagreement about the need(s), it’s helpful to zoom out from specific solutions.
+- Be specific on whose need it is (“we need”, “they need”, “I need”) .
+- Avoid describing specific solutions disguised as needs.
+
+---
+
+## 4. Impact
+
+> _“...so we can stay focussed on our work”._
+
+Describe the impact of attending to that need:
+
+- Explain intended outcome, potential benefits or opportunities.
+- The impact may be obvious or implicit, especially when the effects of the current situation are already described.
 
 
 ---
@@ -1824,6 +1877,12 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ## Changelog
 
+### Changes 2018-03-21
+
+* renamed pattern  _Describe Drivers_ to _Describe Organizational Drivers_
+* _Describe Organizational Drivers_: explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
+* added _need_ to glossary
+
 ### Changes 2017-11-16
 
 - small corrections
@@ -2048,6 +2107,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Governance Backlog**: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
 **Key responsibilities**: Essential work and decision making required in the context of a domain.
 **Logbook**: A (digital) system to store all information relevant for running an organization and its teams.
+**Need**: A need is a lack of something wanted or deemed necessary.
 **Objection**: A reason why doing something stands in the way of (more) effective response to a driver.
 **Operations (Doing the Work)**: People doing what needs to be done, guided by coordination and governance.
 **Organization**: A group of people collaborating towards a shared objective (driver).
@@ -2055,7 +2115,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Pattern**: A template for successfully navigating a specific context.
 **Peer Domain**: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
 **Peer Drivers**: Two drivers existing as a direct consequence of a response to the same superdriver, are called peer drivers.
-**Primary Driver**: The driver that defines a domain is called the primary driver of that domain.
 
 
 ---
@@ -2064,6 +2123,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
+**Primary Driver**: The driver that defines a domain is called the primary driver of that domain.
 **Principle**: A basic idea or rule that explains or controls how something happens or works.
 **Role**: An area of accountability defined by a domain and assigned to an individual.
 **SCM**: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
@@ -2079,6 +2139,14 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Transparency**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
 **Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
 **Values**: A set of principles of some significance that guides behavior. Not to be confused with "value" (singular) in the context of a driver.
+
+
+---
+
+
+# Glossary (cont.)
+
+
 **Waste**: Anything not necessary for - or standing in the way of - effective response of a driver.
 
 
@@ -2087,7 +2155,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 Patterns  | Patterns (cont.)
 --- | ---
-Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.6<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.7<br\>Create A Pull-System For Organizational Change - 5.2<br\>Daily Standup - 7.3 | Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.11<br\>Evaluate Agreements - 1.7<br\>Evaluate Meetings - 8.3<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.5<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7<br\>Intended Outcome - 6.4<br\>Invite Change - 5.4
+Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.6<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.7<br\>Create A Pull-System For Organizational Change - 5.2<br\>Daily Standup - 7.3 | Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Organizational Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.11<br\>Evaluate Agreements - 1.7<br\>Evaluate Meetings - 8.3<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.5<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7<br\>Intended Outcome - 6.4<br\>Invite Change - 5.4
 
 
 ---
