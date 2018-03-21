@@ -95,6 +95,10 @@ terms:
     name: Logbook
     definition:
     glossary: A (digital) system to store all information relevant for running an organization and its teams. 
+  need:
+    name: Need
+    definition:
+    glossary: A need is a lack of something wanted or deemed necessary.
   operations:
     name: Operations (Doing the Work)
     definition:
