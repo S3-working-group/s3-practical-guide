@@ -1883,6 +1883,8 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 * _Describe Organizational Drivers_: explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 * added _need_ to glossary
 
+---
+
 ### Changes 2017-11-16
 
 - small corrections
