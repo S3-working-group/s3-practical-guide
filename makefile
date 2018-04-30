@@ -47,7 +47,7 @@ epub:
 	# clean up
 	cd ebook; rm tmp-*
 
-ebook:
+e-book:
 	# render an ebook as pdf
 	
 	# render intro, chapters and appendix to separate md files
