@@ -4,11 +4,9 @@ title: The S3 Patterns
 
 The official description of Sociocracy 3.0: All patterns, the Seven Principles and key concepts.
 
-Start with the [&#9654; introduction](introduction.html), which will then guide you through all the patterns, or pick a pattern from the [&#9654;pattern index](pattern-index.html). Refer to the [&#9654; glossary](glossary.html) for terms you are not familiar with.
+Start with the [&#9654; introduction](introduction.html), which explains what S3 is all about, and what it can bring to your organization. At the end of the introduction, you will find a guided tour through all the patterns, just follow the links at the bottom of the page. Refer to the [&#9654; glossary](glossary.html) for terms you are not familiar with. You can also select a specific pattern from the [&#9654;pattern index](pattern-index.html), or browse the patterns groups (see below).
 
-This guide is also available as [PDF for download](http://sociocracy30.org/_res/s3-practical-guide.pdf)
-
-For further information about Sociocracy 3.0 check out <http://sociocracy30.org>
+This guide is also available in other languages and formats, see the [S3 resources page ](https://sociocracy30.org/resources). For further information about Sociocracy 3.0 check out <http://sociocracy30.org>
 
 ## Pattern Groups
 
