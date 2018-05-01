@@ -20,7 +20,7 @@ deckset:
 
 revealjs:
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=text --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build revealjs $(CONFIG) $(TMPFOLDER) reveal.js/$(TARGETFILE).html --template=templates/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
+	mdslides build revealjs $(CONFIG) $(TMPFOLDER) docs/slides.html --template=templates/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
 
 site:
 	# build index database (add this line only for the English repo!!)
