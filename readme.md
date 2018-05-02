@@ -9,6 +9,11 @@ This repository contains the source file for  a slide deck for teaching Sociocra
 A German version exists and is also available via <http://patterns-de.sociocracy30.org>, more translated versions are being created and will be made available  at <http://sociocracy30.org/guide>.
 
 If you want to help with translations, please take a look at the [translations page](http://sociocracy30.org/translations/).
+## Project Structure
+
+- content: all the files that are uploaded to Crowdin for translation
+- templates: template files that are identical across languages, also those with translatable content that is collected in content/translations.pot, because Crowdin does not play nice with these files. Also contains not language-specific configuration file
+
 
 ## Build Process
 
