@@ -36,32 +36,45 @@ wordpress:
 
 epub:
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
-	# transclude all to one file 
-	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
-	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
 
-	cd ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../$(TARGETFILE).epub
+	# prepare and copy templates
+	mdslides template templates/ebook/ebook--master.md tmp/ebook/ebook--master.md localization.po project.yaml
+	mdslides template templates/ebook/ebook-epub--master.md tmp/ebook/ebook-epub--master.md localization.po project.yaml
+	mdslides template templates/ebook/ebook-proof.tex tmp/ebook/ebook-proof.tex localization.po project.yaml
+	mdslides template templates/ebook/ebook-style.sty tmp/ebook/ebook-style.sty localization.po project.yaml
+
+	mdslides build ebook $(CONFIG) $(SOURCE) tmp/ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
+	# transclude all to one file 
+	cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
+
+	cd tmp/ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../../$(TARGETFILE).epub
 
 	# clean up
-	cd ebook; rm tmp-*
+	cd tmp/ebook; rm tmp-*
 
 e-book:
 	# render an ebook as pdf
+
+	# prepare and copy templates
+	mdslides template templates/ebook/ebook--master.md tmp/ebook/ebook--master.md localization.po project.yaml
+	mdslides template templates/ebook/ebook-epub--master.md tmp/ebook/ebook-epub--master.md localization.po project.yaml
+	mdslides template templates/ebook/ebook-proof.tex tmp/ebook/ebook-proof.tex localization.po project.yaml
+	mdslides template templates/ebook/ebook-style.sty tmp/ebook/ebook-style.sty localization.po project.yaml
 	
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
+	mdslides build ebook $(CONFIG) $(SOURCE) tmp/ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
 	# transclude all to one file 
-	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
-	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
+	cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
 	
-	cd ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
-	cd ebook; latexmk -pdf ebook-proof.tex 
-	cd ebook; mv ebook-proof.pdf ../$(TARGETFILE)-ebook.pdf
+	cd tmp/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
+	cd tmp/ebook; latexmk -pdf ebook-proof.tex 
+	cd tmp/ebook; mv ebook-proof.pdf ../../$(TARGETFILE)-ebook.pdf
 	
 	# clean up
-	cd ebook; latexmk -C
-	cd ebook; rm tmp-*
+	cd tmp/ebook; latexmk -C
+	cd tmp/ebook; rm tmp-*
 
 html:
 	# render intro, chapters and appendix to separate md files
@@ -79,10 +92,6 @@ setup:
 	mdslides template templates/docs/_config.yml docs/_config.yml localization.po project.yaml
 	mdslides template templates/docs/CNAME docs/CNAME localization.po project.yaml
 
-	mdslides template templates/ebook/ebook--master.md ebook/ebook--master.md localization.po project.yaml
-	mdslides template templates/ebook/ebook-epub--master.md ebook/ebook-epub--master.md localization.po project.yaml
-	mdslides template templates/ebook/ebook-proof.tex ebook/ebook-proof.tex localization.po project.yaml
-	mdslides template templates/ebook/ebook-style.sty ebook/ebook-style.sty localization.po project.yaml
 
 	mdslides template templates/make-conf make-conf localization.po project.yaml
 	
