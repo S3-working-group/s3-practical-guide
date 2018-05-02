@@ -1,5 +1,6 @@
 
 # filename for the slide deck
-TARGETFILE=S3-practical-guide
+TARGETFILE=${target_filename}
+
 # template pattern numbers
-SECTIONPREFIX= Pattern %(chapter)s.%(section)s:
+SECTIONPREFIX=${pattern_prefix}

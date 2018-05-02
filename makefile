@@ -1,8 +1,8 @@
 
-CONFIG=config.yaml
-GLOSSARY=glossary.yaml
-PATTERNINDEX=pattern-index.yaml
-SOURCE=src/
+CONFIG=templates/config.yaml
+GLOSSARY=content/glossary.yaml
+PATTERNINDEX=content/pattern-index.yaml
+SOURCE=content/src/
 TMPFOLDER=tmp/
 
 include make-conf
@@ -32,8 +32,7 @@ site:
 wordpress:
 	# join each pattern group into one md file to be used in wordpress
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=none --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build wordpress $(CONFIG) $(TMPFOLDER) web-out/ --footer=templates/wordpress-footer.md  --glossary=$(GLOSSARY)
-
+	mdslides build wordpress $(CONFIG) $(TMPFOLDER) $(TMPFOLDER)/web-out/ --footer=templates/wordpress-footer.md  --glossary=$(GLOSSARY)
 
 epub:
 	# render intro, chapters and appendix to separate md files
@@ -71,4 +70,23 @@ html:
 	cd ebook; multimarkdown --to=mmd --output=../docs/all.md single-page--master.md
 	# clean up
 	cd ebook; rm tmp-*
+
+setup:
+	# translate and substitute all the template files
+	# todo: move that to the individual builds!!!
+	mdslides template templates/docs/_layouts/default.html docs/_layouts/default.html localization.po project.yaml
+	
+	mdslides template templates/docs/_config.yml docs/_config.yml localization.po project.yaml
+	mdslides template templates/docs/CNAME docs/CNAME localization.po project.yaml
+
+	mdslides template templates/ebook/ebook--master.md ebook/ebook--master.md localization.po project.yaml
+	mdslides template templates/ebook/ebook-epub--master.md ebook/ebook-epub--master.md localization.po project.yaml
+	mdslides template templates/ebook/ebook-proof.tex ebook/ebook-proof.tex localization.po project.yaml
+	mdslides template templates/ebook/ebook-style.sty ebook/ebook-style.sty localization.po project.yaml
+
+	mdslides template templates/make-conf make-conf localization.po project.yaml
+	
+	# mdslides template template target localization.po project.yaml
+
+
 
