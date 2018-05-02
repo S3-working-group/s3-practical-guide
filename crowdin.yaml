@@ -1,52 +1,8 @@
 "preserve_hierarchy": true
-
+"base_path": "content"
 "files": [
   {
-    "source": "glossary.yaml",
-    "translation": "/translations/%two_letters_code%/%original_file_name%"
-  },
-  {
-    "source": "localization.pot",
-    "translation": "/translations/%two_letters_code%/%file_name%.po"
-  },
-  {
-    "source": "make-conf",
-    "translation": "/translations/%two_letters_code%/%original_file_name%"
-  },
-  {
-    "source": "pattern-index.yaml",
-    "translation": "/translations/%two_letters_code%/%original_file_name%"
-  },
-  {
-    "source": "/docs/_config.yml",
-    "translation": "/translations/%two_letters_code%/docs/%original_file_name%"
-  },
-  {
-    "source": "/docs/_includes/footer.html",
-    "translation": "/translations/%two_letters_code%/docs/_includes/%original_file_name%"
-  },
-  {
-    "source": "/docs/_includes/header.html",
-    "translation": "/translations/%two_letters_code%/docs/_includes/%original_file_name%",
-  },
-  {
-    "source": "/docs/_templates/*.md",
-    "translation": "/translations/%two_letters_code%/docs/_templates/%original_file_name%"
-  },
-  {
-    "source": "/ebook/ebook--master.md",
-    "translation": "/translations/%two_letters_code%/docs/ebook/%original_file_name%"
-  },
-  {
-    "source": "/ebook/ebook-epub--master.md",
-    "translation": "/translations/%two_letters_code%/docs/ebook/%original_file_name%"
-  },
-  {
-    "source": "/ebook/ebook--master.tex",
-    "translation": "/translations/%two_letters_code%/docs/ebook/%original_file_name%"
-  },
-  {
-    "source": "/src/**/*.md",
-    "translation": "/translations/%two_letters_code%/src/**/%original_file_name%"
+    "source": "/**/*.*",
+    "translation": "/translations/%locale%/**/%original_file_name%"
   }
 ]
