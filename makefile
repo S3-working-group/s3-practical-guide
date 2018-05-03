@@ -23,10 +23,19 @@ revealjs:
 	mdslides build revealjs $(CONFIG) $(TMPFOLDER) docs/slides.html --template=templates/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
 
 site:
+
+	# prepare templates
+	mdslides template templates/docs/_layouts/default.html docs/_layouts/default.html localization.po project.yaml
+	mdslides template templates/docs/_config.yml docs/_config.yml localization.po project.yaml
+	mdslides template templates/docs/CNAME docs/CNAME localization.po project.yaml
+	cp content/website/_includes/footer.html docs/_includes/footer.html
+	cp content/website/_includes/header.html docs/_includes/header.html
+
+
 	# build index database (add this line only for the English repo!!)
 	mdslides build-index-db $(CONFIG) $(PATTERNINDEX)
 
-	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=docs/_templates/index.md --index=$(PATTERNINDEX)
+	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --index=$(PATTERNINDEX)
 	cd docs;jekyll build
 
 wordpress:
@@ -78,7 +87,7 @@ e-book:
 
 html:
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
+	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX)
 	# transclude all to one file 
 	cd ebook; multimarkdown --to=mmd --output=../docs/all.md single-page--master.md
 	# clean up
@@ -87,11 +96,6 @@ html:
 setup:
 	# translate and substitute all the template files
 	# todo: move that to the individual builds!!!
-	mdslides template templates/docs/_layouts/default.html docs/_layouts/default.html localization.po project.yaml
-	
-	mdslides template templates/docs/_config.yml docs/_config.yml localization.po project.yaml
-	mdslides template templates/docs/CNAME docs/CNAME localization.po project.yaml
-
 
 	mdslides template templates/make-conf make-conf localization.po project.yaml
 	
