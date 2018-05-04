@@ -1,0 +1,60 @@
+# continuation marker for follow-up slides
+msgid "(cont.)"
+msgstr "(cont.)"
+
+# patterns (plural)
+msgid "Patterns"
+msgstr "Patterns"
+
+# pattern (singular)
+msgid "Pattern"
+msgstr "Pattern"
+
+# site title for practical guide microsite and ebook
+msgid "Sociocracy 3.0 Practical Guide"
+msgstr "Sociocracy 3.0 Practical Guide"
+
+# site descriptions for practical guide microsite
+msgid "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgstr "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+
+
+# Headline for Section "Introduction" (e.g. in ebook)
+msgid "Introduction"
+msgstr "Introduction"
+
+# Headline for Section "The Patterns" (e.g. in ebook)
+msgid "The Patterns"
+msgstr "The Patterns"
+
+# Headline for Section "Appendix" (e.g. in ebook)
+msgid "Appendix"
+msgstr "Appendix"
+
+# Pattern prefix
+msgid " Pattern %(chapter)s.%(section)s:"
+msgstr " Pattern %(chapter)s.%(section)s:"
+
+# Filename
+msgid "S3-practical-guide"
+msgstr "S3-practical-guide"
+
+#
+msgid ""
+msgstr ""
+
+
+#
+msgid ""
+msgstr ""
+
+
+#
+msgid ""
+msgstr ""
+
+
+#
+msgid ""
+msgstr ""
+
