@@ -3,6 +3,13 @@
 "files": [
   {
     "source": "/**/*.*",
-    "translation": "/translations/%locale%/**/%original_file_name%"
+    "translation": "/translations/%locale%/**/%original_file_name%",
+    "ignore" : [
+      "localization.pot"
+    ]  
+  },
+  {
+    "source": "localization.pot",
+    "translation": "/translations/%locale%/%file_name%.po"
   }
 ]
