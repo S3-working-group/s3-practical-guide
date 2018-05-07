@@ -65,7 +65,7 @@ ifeq "$(BUILD_INDEX)" "YES"
 	# build index database (only for the English repo!!)
 	$(build-index-db)
 endif
-	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --index=$(PATTERNINDEX)
+	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --index=$(PATTERNINDEX) --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
 	cd docs;jekyll build
 
 wordpress:
