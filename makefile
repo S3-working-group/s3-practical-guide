@@ -1,5 +1,5 @@
 
-CONFIG=templates/config.yaml
+CONFIG=templates/structure.yaml
 GLOSSARY=content/glossary.yaml
 PATTERNINDEX=content/pattern-index.yaml
 SOURCE=content/src
@@ -83,7 +83,7 @@ epub:
 
 	$(prepare-ebook)
 	# prepare and copy template
-	$(MKTPL) templates/ebook/epub--master.md $(TMPFOLDER)/ebook/epub--master.md $(LOC) $(PRJ)
+	$(MKTPL) templates/epub--master.md $(TMPFOLDER)/ebook/epub--master.md $(LOC) $(PRJ)
 	# transclude all to one file 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
 	# render to epub
@@ -95,10 +95,9 @@ ebook:
 	$(prepare-ebook)
 
 	# copy md and LaTEX templates
-	$(MKTPL) templates/ebook/ebook--master.md $(TMPFOLDER)/ebook/ebook--master.md $(LOC) $(PRJ)
-	$(MKTPL) templates/ebook/ebook.tex $(TMPFOLDER)/ebook/ebook.tex $(LOC) $(PRJ)
+	$(MKTPL) templates/ebook--master.md $(TMPFOLDER)/ebook/ebook--master.md $(LOC) $(PRJ)
+	$(MKTPL) config/ebook.tex $(TMPFOLDER)/ebook/ebook.tex $(LOC) $(PRJ)
 	$(MKTPL) config/ebook-style.sty $(TMPFOLDER)/ebook/ebook-style.sty $(LOC) $(PRJ)
-
 
 	# transclude all to one file 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
@@ -109,19 +108,16 @@ ebook:
 	
 	# clean up
 	cd $(TMPFOLDER)/ebook; latexmk -C
-	#cd $(TMPFOLDER)/ebook; rm tmp-*
 
-html:
+single:
 	$(update-make-conf)
 
-	$(MKTPL) templates/ebook/single-page--master.md $(TMPFOLDER)/ebook/single-page--master.md $(LOC) $(PRJ)
+	$(MKTPL) templates/single-page--master.md $(TMPFOLDER)/ebook/single-page--master.md $(LOC) $(PRJ)
 
 	# render intro, chapters and appendix to separate md files
 	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX)
 	# transclude all to one file 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
-	# clean up
-	cd $(TMPFOLDER)/ebook; rm tmp-*
 
 update:
 	$(update-make-conf)
@@ -149,4 +145,3 @@ ifneq ("$(wildcard docs/img)","")
 	rm -r docs/img
 endif
 	cp -r img docs/img
-
