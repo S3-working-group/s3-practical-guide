@@ -1,5 +1,5 @@
 # Site settings
-title: ${_("Sociocracy 3.0 Practical Guide")}
+title: ${_("Sociocracy 3.0 - A Practical Guide")}
 email: bernhard.bockelbrink@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
    ${_("The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David.")}

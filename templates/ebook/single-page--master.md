@@ -1,15 +1,15 @@
 ---
-title: S3 Practical Guide (Hebrew) 
+title: ${_("Sociocracy 3.0 - A Practical Guide")}
 ---
 
-# Introduction
+# ${_("Introduction")}
 
 {{tmp-introduction.md}}
 
-# The Patterns
+# ${_("The Patterns")}
 
 {{tmp-chapters.md}}
 
-# Appendix
+# ${_("Appendix")}
 
 {{tmp-appendix.md}}

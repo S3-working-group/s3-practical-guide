@@ -4,3 +4,6 @@ TARGETFILE=${target_filename}
 
 # template pattern numbers
 SECTIONPREFIX=${pattern_prefix}
+
+# build index database?
+BUILD_INDEX=${build_index}
