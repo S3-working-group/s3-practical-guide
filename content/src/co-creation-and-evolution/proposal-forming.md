@@ -24,7 +24,7 @@ Proposal forming may be also be used by an individual.
   
 ---
 
-### Selecting Tuners
+### Choosing Tuners
 
 ![right,fit](img/templates/proposal-template.png)
 

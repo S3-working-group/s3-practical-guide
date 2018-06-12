@@ -1,6 +1,6 @@
 ## Describe Deliverables
 
-A **deliverable** is something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformations.
+Deliverables include products, raw materials, services, experiences and transformations provided as a result of an agreement in response to a driver. 
 
 In the context of an agreement, clearly describing deliverables supports shared understanding:
 

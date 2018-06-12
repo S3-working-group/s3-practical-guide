@@ -13,8 +13,7 @@ A governance facilitator:
 
 ## Governance Facilitator (cont.)
 
-
-When using S3 for governance, the facilitator familiarizes themselves with the following patterns:
+To support effective governance, the facilitator should be familiar with the following patterns:
 
 -   rounds
 -   proposal forming

@@ -1,6 +1,6 @@
 ## Coordination Meeting
 
-**Meet on a regular basis (usually weekly) for reporting on and coordinating work.**
+**Meet on a regular basis (usually weekly) for reporting on and coordinating work across domain.**
 
 -   facilitate the meeting and use rounds instead of discussions where valuable
 -   if possible, compile the agenda before the meeting
