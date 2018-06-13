@@ -17,7 +17,7 @@ Some drivers are (directly or indirectly) related to an organization's primary d
 
 A simple way to qualify organizational drivers is by checking:
 
-_Would responding to this driver improve - or avoid impeding - flow of value to an existing organizational driver? a.k.a. can it help or harm us?_
+_Would responding to this driver improve - or avoid impeding - (more) effective response to another organizational driver? a.k.a. can it help or harm us?_
 
 ---
 
