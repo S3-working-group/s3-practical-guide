@@ -4,10 +4,13 @@
 
 **A (facilitated) group process for decision making.**
 
--   invite objections, and integrate the wisdom they reveal, to evolve proposals or existing agreements
--   withholding objections can harm the objectives of a group or organization
--   unresolved objections prevent proposals from becoming agreements
--   proposals only need to be *good enough for now and safe enough to try* until the next review
+Invite objections, and integrate the wisdom they reveal, to evolve proposals or existing agreements.
+
+Withholding objections can harm the objectives of a group or organization
+
+Proposals become agreements when they are considered _good enough for now and safe enough to try_ until the next review.
+
+Unresolved objections prevent proposals from becoming agreements.
 
 ---
 

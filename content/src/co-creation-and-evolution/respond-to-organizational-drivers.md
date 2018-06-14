@@ -2,32 +2,33 @@
 
 ![right,fit](img/driver-domain/driver-response-full.png)
 
-_Clarify what's happening and what's needed in relation to the organization, and respond as required._
+_Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required._
 
-Responses to drivers:
+Responses to organizational drivers include:
 
--   action
--   decision (including creating a role, circle, helping team or open domain)
+- direct action (operations)
+- organizing how work will be done 
+- making governance decisions
+
+The response to an organizational driver is typically treated as an experiment that is evaluated and evolved over time.
 
 ---
 
 ### Qualify Organizational Drivers
 
-Some drivers are (directly or indirectly) related to an organization's primary driver, these are considered **organizational drivers**. Other drivers do not fall within the organization's domain.
+{{glossary:organizational-driver}}
 
-A simple way to qualify organizational drivers is by checking:
+A simple way to qualify whether or not a driver falls within an organization's domain is by checking:
 
-_Would responding to this driver improve - or avoid impeding - (more) effective response to another organizational driver? a.k.a. can it help or harm us?_
+_Would it help the organization if we respond to this situation / driver? or would it harm us if we don't?_
 
 ---
 
 ### Review of Drivers
 
-![right,fit](img/evolution/kaizen.png)
+It's also important to review the driver. Helpful questions for a review include:
 
-The response to a driver is usually an experiment that is evolved over time, based on learning.
-
--   Is the description of the situation still correct?
--   Do we still associate the same needs with the situation?
--   Is the driver still within our domain?
--   Is the driver still relevant?
+Is the description of the situation still correct?
+Do we still associate the same needs with the situation?
+Is the driver still within our domain?
+Is the driver still relevant?

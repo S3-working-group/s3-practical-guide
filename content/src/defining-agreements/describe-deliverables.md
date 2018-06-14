@@ -1,6 +1,6 @@
 ## Describe Deliverables
 
-Deliverables include products, raw materials, services, experiences and transformations provided as a result of an agreement in response to a driver. 
+{{define:deliverable}}
 
 In the context of an agreement, clearly describing deliverables supports shared understanding:
 

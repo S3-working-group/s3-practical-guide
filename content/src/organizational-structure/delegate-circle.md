@@ -2,11 +2,12 @@
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
-**Decide and align on how to address drivers affecting multiple domains.**
 
-A delegate circle is formed by stakeholders and populated by representatives of those stakeholders. 
+**Delegate decisions on how to respond to drivers affecting multiple domains, to representatives.**
 
-Decisions of a delegate circle are acted upon in the various domains it serves.
+To make goverance decisions on their behalf, stakeholders send representatives to form a delegate circle.
+
+Governance decisions made in a delegate circle are acted upon in the various domains it serves.
 
 Delegate circles provide a way of steering organizations in alignment to the flow of value, and bring a diversity of perspective to governance decisions.
 

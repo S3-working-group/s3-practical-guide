@@ -12,4 +12,4 @@ The delegator of the open domain clarifies:
  
 The delegator of the open domain is accountable for ensuring regular review of the open domain.
 
-Depending on the constraints set by delegators, contributors may account for work and/or governance of the open domain.
+Depending on the constraints set by delegators, contributors may only organize and do work, or take part in governance as well.

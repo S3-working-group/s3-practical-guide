@@ -229,55 +229,56 @@ _Does it require or benefit from an individual or group decision?_
 
 ![right,fit](img/driver-domain/driver-response-full.png)
 
-_Clarify what's happening and what's needed in relation to the organization, and respond as required._
+_Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required._
 
-Responses to drivers:
+Responses to organizational drivers include:
 
--   action
--   decision (including creating a role, circle, helping team or open domain)
+- direct action (operations)
+- organizing how work will be done 
+- making governance decisions
+
+The response to an organizational driver is typically treated as an experiment that is evaluated and evolved over time.
 
 ---
 
 ### Qualify Organizational Drivers
 
-Some drivers are (directly or indirectly) related to an organization's primary driver, these are considered **organizational drivers**. Other drivers do not fall within the organization's domain.
+A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
 
-A simple way to qualify organizational drivers is by checking:
+A simple way to qualify whether or not a driver falls within an organization's domain is by checking:
 
-_Would responding to this driver improve - or avoid impeding - (more) effective response to another organizational driver? a.k.a. can it help or harm us?_
+_Would it help the organization if we respond to this situation / driver? or would it harm us if we don't?_
 
 ---
 
 ### Review of Drivers
 
-![right,fit](img/evolution/kaizen.png)
+It's also important to review the driver. Helpful questions for a review include:
 
-The response to a driver is usually an experiment that is evolved over time, based on learning.
-
--   Is the description of the situation still correct?
--   Do we still associate the same needs with the situation?
--   Is the driver still within our domain?
--   Is the driver still relevant?
+Is the description of the situation still correct?
+Do we still associate the same needs with the situation?
+Is the driver still within our domain?
+Is the driver still relevant?
 
 
 ---
 
 ## Pattern 1.2: Navigate Via Tension
 
-**Identify and account for organizational drivers.**
-
-**All members** bring awareness to what might help or harm the organization, and aim to account for drivers in an effective way. 
+**Individuals identify and account for organizational drivers by investigating tension they experience.**
 
 A **tension** is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences). 
+
+We can detect all **challenges and opportunities** related to the organization by bringing awareness to tension we experience.
+
+To **discover drivers**, investigate what stimulates tension, and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
 
 ---
 
 ## Navigate Via Tension (cont.)
 
+**All members** bring awareness to what might help or harm the organization, and aim to account for drivers in an effective way. 
 
-**Challenges and opportunities** for an organization are revealed as people become aware of tension they experience in relation to them.
-
-To **discover drivers**, look behind tension and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
 
 Awareness of **organizational drivers** can be passed to an appropriate domain to be addressed.
 
@@ -374,10 +375,13 @@ Describe the impact of attending to that need:
 
 **A (facilitated) group process for decision making.**
 
--   invite objections, and integrate the wisdom they reveal, to evolve proposals or existing agreements
--   withholding objections can harm the objectives of a group or organization
--   unresolved objections prevent proposals from becoming agreements
--   proposals only need to be *good enough for now and safe enough to try* until the next review
+Invite objections, and integrate the wisdom they reveal, to evolve proposals or existing agreements.
+
+Withholding objections can harm the objectives of a group or organization
+
+Proposals become agreements when they are considered _good enough for now and safe enough to try_ until the next review.
+
+Unresolved objections prevent proposals from becoming agreements.
 
 ---
 
@@ -484,6 +488,8 @@ If you are in doubt whether you have an objection or a concern, raise it as a po
 ---
 
 ## Pattern 1.7: Evaluate And Evolve Agreements
+
+![right,fit](img/evolution/kaizen.png)
 
 Regular review of agreements is an essential practice for a learning organization. 
 
@@ -1048,8 +1054,7 @@ A group selects one of its members to represent their interests in the governanc
 
 Two interdependent groups each select one of their members to represent their interests in the governance decisions of the other group.
 
--   creates equivalence between two groups
--   can be used to draw out valuable information in hierarchical structures
+Double linking enables equivalence between two groups and can be used to draw out valuable information in hierarchical structures.
 
 
 ---
@@ -1103,7 +1108,7 @@ The delegator of the open domain clarifies:
  
 The delegator of the open domain is accountable for ensuring regular review of the open domain.
 
-Depending on the constraints set by delegators, contributors may account for work and/or governance of the open domain.
+Depending on the constraints set by delegators, contributors may only organize and do work, or take part in governance as well.
 
 
 ---
@@ -1260,6 +1265,7 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 -   **overall accountability** for an agreement lies with the people that make them
 -   an agreement can include **delegation of specific responsibilities** to individuals or groups
 -   agreements are **regularly reviewed**
+-   record those agreements you might want to reference later
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
 
@@ -1333,7 +1339,7 @@ You can either start by clarifying existing domains, or at least clarify new one
 
 ## Pattern 6.5: Describe Deliverables
 
-Deliverables include products, raw materials, services, experiences and transformations provided as a result of an agreement in response to a driver. 
+_A **deliverable** is a product, service, raw material, experience or transformation, provided as a result of an agreement._
 
 In the context of an agreement, clearly describing deliverables supports shared understanding:
 
@@ -1455,12 +1461,12 @@ Typical agenda items include:
 
 -   any short reports 
 -   evaluation of existing agreements due review
+-   selecting people to roles 
 -   new drivers requiring decisions to be made, including: 
-    -   understanding and agreeing on situations that require attention 
-    -   forming proposals and making agreements 
-    -   creating and defining new roles and groups 
-    -   reviewing existing roles or groups
-    -   selecting people to roles 
+    -   forming proposals
+    -   making agreements 
+    -   designing domains and deciding how to account for them (e.g. new roles, circles, teams or open domains)
+
 
 
 
@@ -1918,11 +1924,12 @@ A service circle can be populated by members of the domains it serves, and/or by
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
-**Decide and align on how to address drivers affecting multiple domains.**
 
-A delegate circle is formed by stakeholders and populated by representatives of those stakeholders. 
+**Delegate decisions on how to respond to drivers affecting multiple domains, to representatives.**
 
-Decisions of a delegate circle are acted upon in the various domains it serves.
+To make goverance decisions on their behalf, stakeholders send representatives to form a delegate circle.
+
+Governance decisions made in a delegate circle are acted upon in the various domains it serves.
 
 Delegate circles provide a way of steering organizations in alignment to the flow of value, and bring a diversity of perspective to governance decisions.
 
@@ -2213,7 +2220,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Coordination**: The process of enabling individuals or groups to collaborate effectively across different domains to achieve shared objectives.
 **Delegatee**: An individual or group accepting accountability for a domain delegated to them.
 **Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
-**Deliverable**: Deliverables include products, raw materials, services, experiences and transformations provided as a result of an agreement in response to a driver.
+**Deliverable**: A product, service, raw material, experience or transformation, provided as a result of an agreement.
 
 
 ---
@@ -2236,7 +2243,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (or objective).
 **Operations**: The work being done to create and deliver value, guided by governance
 **Organization**: A group of people collaborating towards a shared driver (or objective).
-**Organizational Driver**: A driver that is (directly or indirectly) related to an organization's primary driver.
+**Organizational Driver**: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
 **Pattern**: A template for successfully navigating a specific context.
 
 
@@ -2247,7 +2254,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 
 **Peer Domain**: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
-**Peer Drivers**: Two drivers existing as a direct consequence of a response to the same superdriver, are called peer drivers.
 **Primary Driver**: The primary driver for a domain is the main driver that people who account for that domain respond to,
 **Principle**: A basic idea or rule that explains, guides or controls how something happens or works.
 **Role**: An area of accountability defined by a domain and assigned to an individual.
@@ -2262,6 +2268,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Superdomain**: A domain that fully contains another domain.
 **Superdriver**: see subdriver.
 **Transparency (principle)**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
+**Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
 
 
 ---
@@ -2270,7 +2277,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
-**Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
 **Values**: Valued principles that guide behaviour. Not to be confused with "value" (singular) in the context of a driver.
 **Waste**: Anything not necessary for - or standing in the way of - effective response of a driver.
 

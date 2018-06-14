@@ -33,12 +33,12 @@ Typical agenda items include:
 
 -   any short reports 
 -   evaluation of existing agreements due review
+-   selecting people to roles 
 -   new drivers requiring decisions to be made, including: 
-    -   understanding and agreeing on situations that require attention 
-    -   forming proposals and making agreements 
-    -   creating and defining new roles and groups 
-    -   reviewing existing roles or groups
-    -   selecting people to roles 
+    -   forming proposals
+    -   making agreements 
+    -   designing domains and deciding how to account for them (e.g. new roles, circles, teams or open domains)
+
 
 
 

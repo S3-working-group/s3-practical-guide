@@ -62,8 +62,8 @@ terms:
     glossary: An individual or group delegating a domain to other(s) to be accountable for.
   deliverable:
     name: Deliverable
-    definition:
-    glossary: Deliverables include products, raw materials, services, experiences and transformations provided as a result of an agreement in response to a driver.
+    definition: A **deliverable** is a product, service, raw material, experience or transformation, provided as a result of an agreement.
+    glossary: A product, service, raw material, experience or transformation, provided as a result of an agreement.
   domain:
     name: Domain
     definition: A **domain** is a distinct area of influence, activity and decision making within an organization.
@@ -124,12 +124,8 @@ terms:
     glossary: A group of people collaborating towards a shared driver (or objective).
   organizational-driver:
     name: Organizational Driver
-    definition: An **organizational driver** is a driver that is (directly or indirectly) related to an organization's primary driver.
-    glossary: A driver that is (directly or indirectly) related to an organization's primary driver.
-  peer-drivers:
-    name: Peer Drivers
     definition:
-    glossary: Two drivers existing as a direct consequence of a response to the same superdriver, are called peer drivers.
+    glossary: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
   pattern:
     name: Pattern
     definition: A **pattern** is a template for successfully navigating a specific context.

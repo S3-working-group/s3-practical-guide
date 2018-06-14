@@ -1,5 +1,7 @@
 ## Evaluate And Evolve Agreements
 
+![right,fit](img/evolution/kaizen.png)
+
 Regular review of agreements is an essential practice for a learning organization. 
 
 Continuously evolve the body of agreements, and eliminate waste:
