@@ -40,8 +40,8 @@ terms:
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
   concern:
     name: Concern
-    definition: A **concern** is an _opinion_ that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver.
-    glossary: An _opinion_ why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+    definition: A **concern** is an opinion that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver.
+    glossary: An opinion why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
   consent:
     name: Consent (principle)
     definition:
@@ -84,7 +84,7 @@ terms:
     name: Equivalence (principle)
     definition:
     glossary: Involve people in making and evolving decisions that affect them.
- evolve:
+  evolve:
     name: Evolve (v.)
     glossary: to develop gradually.
   governance:
@@ -112,7 +112,7 @@ terms:
     glossary: The work being done to create and deliver value, guided by governance 
   objection:
     name: Objection
-    definition: An **objection** is a _reason_ why doing something stands in the way of (more) effective response to an organizational driver (or objective). 
+    definition: An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (or objective). 
     glossary: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (or objective).
   peer-domain:
     name: Peer Domain
@@ -121,7 +121,7 @@ terms:
   organization:
     name: Organization
     definition:
-    glossary: A group of people collaborating towards a shared objective (driver).
+    glossary: A group of people collaborating towards a shared driver (or objective).
   organizational-driver:
     name: Organizational Driver
     definition: An **organizational driver** is a driver that is (directly or indirectly) related to an organization's primary driver.

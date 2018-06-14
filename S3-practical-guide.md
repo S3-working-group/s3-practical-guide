@@ -50,6 +50,13 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 
 ![inline, fit](img/context/history.png)
 
+---
+
+## Primary Driver for Sociocracy 3.0
+
+> _In 2014 we came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. We discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing._
+
+
 
 ---
 
@@ -89,23 +96,23 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 ## The Seven Principles
 
-**Effectiveness:** *Devote time only to what brings you closer towards achieving your objectives.*
+**The Principle of Effectiveness:** *Devote time only to what brings you closer towards achieving your objectives.*
 
-**Consent:** *Do things in the absence of reasons not to.*
+**The Principle of Consent:** *Raise, seek out and resolve objections related to decisions and actions.*
 
-**Empiricism:** *Test all assumptions through experiments, continuous revision and falsification.*
+**The Principle of Empiricism:** *Test all assumptions through experiments and continuous revision.*
 
 ---
 
 ## The Seven Principles (cont.)
 
-**Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
+**The Principle of Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
 
-**Equivalence:** *Involve people in making and evolving decisions that affect them.*
+**The Principle of Equivalence:** *Involve people in making and evolving decisions that affect them.*
 
-**Transparency:** *Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.*
+**The Principle of Transparency:** *Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.*
 
-**Accountability:** *Respond when something is needed, do what you agreed to and take ownership for the course of the organization.*
+**The Principle of Accountability:** *Respond when something is needed, do what you agreed to and take ownership for the course of the organization.*
 
 
 ---
@@ -184,15 +191,15 @@ A domain can be defined in relation to an organizational driver - known as the d
 
 ## Governance, Semi-Autonomy and  Self-Organization
 
-**Governance**: Continuously deciding what to do to achieve objectives, and setting constraints on how and when things will be done.
+**Governance**: Making and evolving decisions about what to do to achieve objectives, and setting constraints on how and when things will be done.
 
 **Self-Governance**: People governing themselves within the constraints of a domain.
 
-**Self-Organization**: People coordinating work within constraints defined through governance.
+**Self-Organization**: People organizing work within constraints defined through governance.
 
-**Operations** (Doing the Work): People doing what needs to be done, guided by coordination and governance.
+**Operations** (Doing the Work): The work being done to create and deliver value, guided by governance
 
-**Semi-Autonomy**: People with autonomy to create value, limited by the constraints of their domain.
+**Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of delegator(s) and representatives), and by objections from others.
 
 ---
 
@@ -237,7 +244,7 @@ Some drivers are (directly or indirectly) related to an organization's primary d
 
 A simple way to qualify organizational drivers is by checking:
 
-_Would responding to this driver improve - or avoid impeding - flow of value to an existing organizational driver? a.k.a. can it help or harm us?_
+_Would responding to this driver improve - or avoid impeding - (more) effective response to another organizational driver? a.k.a. can it help or harm us?_
 
 ---
 
@@ -384,44 +391,60 @@ Describe the impact of attending to that need:
 
 ## Pattern 1.5: Objection
 
-_An **objection** is a reason why doing something stands in the way of (more) effective response to a driver._
+_An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (or objective)._
 
-Objections contain information that reveals:
-
-- a certain or likely consequence of harm (not considered safe enough to try)
-- ways to improve proposals, decisions, existing agreements or actions
+Objections contain information that reveals **certain or likely consequence of harm** and/or **opportunities to immediately improve** proposals, decisions, existing agreements or actions. 
 
 ---
 
-### Qualify Objections
+## Objection (cont.)
 
 It's the accountability of individuals to raise potential objections. 
-
-Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing qualified objections.*
 
 Withholding objections can harm the ability of individuals, groups or
 the whole organization to respond to organizational drivers.
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
 
+Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
+
+---
+### Objection (cont.)
+
+When seeking out potential objections, consider:
+
+- **effectiveness**: Why the intended outcome would not (or only partially) be achieved.
+- **efficiency**: Why it would be wasteful to proceed as proposed (or previously agreed).
+- **side-effects**: The negative consequences something would have elsewhere (in the same domain, or in the wider organization, or beyond).
+
 ---
 
-### Qualify Objections (cont.)
+### Objection (cont.)
 
-_How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?_
-
-Objections stop: 
+The information revealed by objections can be used to improve:
 
 -   current and planned action
--   people from executing on decisions
--   existing agreements from continuing without being reconsidered
--   proposals from becoming agreements
+-   people executing on decisions
+-   existing agreements
+-   proposals
+
+---
+
+## Qualify Objections
+
+Some arguments raised are not in fact objections. Distinguish between objections, which always reveal useful information, and other arguments only based on opinion, preference or concerns.
+
+To find out whether an argument qualifies as an objection, a facilitator might ask the group:
+
+_“Do you think this argument qualifies as an objection?”_
+
+If nobody disagrees with the argument, an objection typically qualifies, otherwise aim to discover the actual objection or to reveal the misconception.
 
 ---
 
 ### Understanding Objections
 
-Some Helpful Questions:
+Some helpful questions:
 
 -   How does the argument relate to this specific proposal or agreement?
 -   Does the argument reveal how a (proposed or current) **action or agreement**:
@@ -435,15 +458,13 @@ Some Helpful Questions:
 
 ### Concerns
 
-A **concern** is an _opinion_ that doing something (even if already considered _good enough for now and safe enough to try_) **might** impede – or miss an opportunity to improve – flow of value to an organizational driver.
+_A **concern** is an opinion that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
 
-In consent decision making, concerns:
+In consent decision making, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
 
--   can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation) 
--   are heard if there is time or they are considered important
--   are recorded in the logbook
+Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
-If people believe a proposal may not be ‘safe enough to try’, they can raise concerns as objections to check with others about likelihood of harm.
+If you are in doubt whether you have an objection or a concern, raise it as a potential objection it it qualifies as an objection.
 
 
 ---
@@ -462,42 +483,55 @@ If people believe a proposal may not be ‘safe enough to try’, they can raise
 
 ---
 
-## Pattern 1.7: Evaluate Agreements
+## Pattern 1.7: Evaluate And Evolve Agreements
 
-Regular review of agreements is an essential practice for a learning organization; continuously evolving the body of agreements, and eliminating waste:
+Regular review of agreements is an essential practice for a learning organization. 
+
+Continuously evolve the body of agreements, and eliminate waste:
 
 -   adapt to changing context
--   integrate learning:
-    -   _How has this agreement helped us?_
-    -   _How can this agreement be improved?_
-    -   _Is there any reason why not to continue with this agreement?_
+-   integrate learning
+-   ensure all agreements have an appropriate review date 
 
 ---
 
-## Evaluate Agreements (cont.)
+## Evaluate And Evolve Agreements (cont.)
+
+Evaluating agreements can be as simple as checking that it is still relevant, and there is no objection to keeping the agreement as it is.
+
+Agreements are often reviewed in *Governance Meetings*, however sometimes it's effective to schedule a dedicated session for reviewing an agreement.
+
+Adjust review frequency as necessary, review earlier if required.
+
+Elements of this process can also be used by individuals to evaluate decisions they make.
+
+---
+
+## Short Format for Evaluating Agreements
+
+-   _How has this agreement helped us?_
+-   _How can this agreement be improved?_
+-   _Is there any reason why not to continue with this agreement?_
+-   Agree on next review date
+
+---
+
+## Long Format For Evaluating Agreements
 
 ![left,fit](img/agreements/evaluate-agreements.png)
 
--   preparation
-    -   schedule review
-    -   ensure necessary information is available
+Preparation:
 
--   follow-up
-    -   agree on next review date
-    -   documentation / notification
-    -   tracking tasks and decisions
-    -   effects on related agreements
+-   schedule review
+-   ensure necessary information is available
 
----
+Follow-up:
 
-## Evaluate Agreements (cont.)
+-   agree on next review date
+-   documentation / notification
+-   tracking tasks and decisions
+-   effects on related agreements
 
--   evaluating agreements can be as simple as checking that it is still relevant, and there is no objection to keeping the agreement as it is 
--   agreements are often reviewed in *Governance Meetings* 
--   sometimes it's effective to schedule a dedicated session for reviewing an agreement 
--   adjust review frequency as necessary
--   review earlier if required
--   elements of this process can also be used by individuals to evaluate decisions they make
 
 
 
@@ -517,7 +551,30 @@ Consider including those affected also in review and evolution of decisions.
 
 ---
 
-## Pattern 1.9: Proposal Forming
+## Pattern 1.9: Co-Create Proposal
+
+**To tap collective intelligence, build sense of ownership and increase engagement and accountability, bring people together to co-create proposals in response to organisational drivers.**
+
+There are many ways a group of people can co-create proposals. Generally they follow a similar pattern:
+
+1. Agree on the driver (or problem / opportunity)
+2. Explore the topic
+3. Generate ideas
+4. Create proposal in small(er) group
+
+---
+
+## Co-Create Proposal (cont.)
+
+One way to do this is S3's _Proposal Forming_ pattern. 
+
+For inspiration for steps 2 and 3, look to classic group facilitation techniques or design thinking activities.
+
+Besides a face-to-face workshop, you can adapt this process for online meetings or even asynchronously and over an extended period of time to include many people.
+
+---
+
+## Pattern 1.10: Proposal Forming
 
 ![right,fit](img/agreements/proposal-forming-medium.png)
 
@@ -543,7 +600,7 @@ Proposal forming may be also be used by an individual.
   
 ---
 
-### Selecting Tuners
+### Choosing Tuners
 
 ![right,fit](img/templates/proposal-template.png)
 
@@ -556,7 +613,7 @@ Proposal forming may be also be used by an individual.
 
 ---
 
-## Pattern 1.10: Role Selection
+## Pattern 1.11: Role Selection
 
 ![right,fit](img/agreements/selection.png)
 
@@ -573,7 +630,7 @@ Objections to a nominee may be resolved in many ways, including amending the rol
 
 ---
 
-## Pattern 1.11: Driver Mapping
+## Pattern 1.12: Driver Mapping
 
 A workshop format to identify an effective response to a complex situation: organize start-ups, kick-off projects, tackle major impediments or opportunities, align organizational structure to the flow of value.
 
@@ -789,8 +846,7 @@ A governance facilitator:
 
 ## Governance Facilitator (cont.)
 
-
-When using S3 for governance, the facilitator familiarizes themselves with the following patterns:
+To support effective governance, the facilitator should be familiar with the following patterns:
 
 -   rounds
 -   proposal forming
@@ -1117,12 +1173,18 @@ Behave and act in the ways you would like others to behave and act.
 
 ## Pattern 5.4: Invite Change
 
-**A way for individuals to initiate and facilitate change.**
+**It's often more effective to invite change than to impose it.**
 
--   be the change you want to see
--   use and adapt S3 patterns to address drivers when it's helpful to do so
--   tell the story about how and why you are using patterns from S3, including documenting outcomes, successes and failures
--   invite others to experiment with you
+Avoid resistance:
+
+-   be transparent about the reason for the change
+-   clarify expectations and constraints
+-   avoid coercion or manipulation
+-   acknowlegde scpticism and doubts
+-   include people in regular evaluation and evolution
+
+
+
 
 
 ---
@@ -1195,7 +1257,8 @@ Behave and act in the ways you would like others to behave and act.
 _An **agreement** is an agreed upon guideline, process or protocol designed to guide the flow of value._
 
 -   agreements are created in response to drivers 
--   agreements are the **accountability of the people** that make them
+-   **overall accountability** for an agreement lies with the people that make them
+-   an agreement can include **delegation of specific responsibilities** to individuals or groups
 -   agreements are **regularly reviewed**
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
@@ -1270,7 +1333,7 @@ You can either start by clarifying existing domains, or at least clarify new one
 
 ## Pattern 6.5: Describe Deliverables
 
-A **deliverable** is something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformations.
+Deliverables include products, raw materials, services, experiences and transformations provided as a result of an agreement in response to a driver. 
 
 In the context of an agreement, clearly describing deliverables supports shared understanding:
 
@@ -1300,6 +1363,7 @@ Well-defined evaluation criteria can help to understand whether or not an agreem
 
 -   go for **simple and unambiguous** criteria and document them (to avoid discussion when reviewing your agreements)
 -   define **actionable metrics** to continuously track effects and spot deviations from intended outcomes
+-   set a **specific threshold** under which this agreement is considered unsuccessful
 
 
 ---
@@ -1439,14 +1503,14 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 ![right,fit](img/meetings/planning-review-standup.png)
 
-**A meeting to coordinate work, facilitate learning, improve productivity and effectiveness.**
+**A meeting to organize work, facilitate learning, improve productivity and effectiveness.**
 
 -   time-boxed (usually 15 minutes)
 -   held daily at the same time
--   the group gathers around a visible project management board/tool for:
-    -   coordination of daily work
-    -   addressing impediments/blocks
-    -   adaptation of existing agreements or creation of new agreements on the spot
+-   the group gathers around a visible project management board/tool to:
+    -   organize daily work
+    -   address impediments/blocks
+    -   adapt existing agreements or create new agreements on the spot
 
 
 ---
@@ -1465,7 +1529,7 @@ People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and 
 
 ## Pattern 7.5: Coordination Meeting
 
-**Meet on a regular basis (usually weekly) for reporting on and coordinating work.**
+**Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.**
 
 -   facilitate the meeting and use rounds instead of discussions where valuable
 -   if possible, compile the agenda before the meeting
@@ -1478,13 +1542,15 @@ People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and 
 
 ![right,fit](img/meetings/coordination-meeting.png)
 
--   status reports: 
-    -   circle metrics (if any)
-    -   projects and tasks
--   agenda items: 
-    -   sharing of information
-    -   add or update tasks or projects
-    -   propose new or updated agreements
+---
+
+## Coordination Meeting (cont.)
+
+Agenda items: 
+
+- cross domain synchronization and alignment
+- priorization and distribution of work  
+- responding to impediments
 
 
 ---
@@ -1523,7 +1589,57 @@ Choose someone to facilitate a meeting. Even an inexperienced facilitator can he
 
 ---
 
-## Pattern 8.3: Evaluate Meetings
+## Pattern 8.3: Timebox Activities
+
+**Set a time constraint to stay focussed, bring consciousness to the time you have and how you use it.**
+
+- to get value out of the timebox, be clear what you want to achieve
+- agree on the duration of the timebox and visualize time
+- negotiate and agree to extend a timebox before the time is up
+- break down longer activities into manageable timeboxes
+- consider frequent review of progress
+- consider choosing a time-keeper
+
+
+---
+
+## Pattern 8.4: Prepare For Meetings
+
+**Prepare in advance to make meetings more effective.**
+
+Organizing the meeting:
+
+- clarify and communicate driver for and intended outcome of the meeting
+- schedule the meeting early enough so people have time to prepare
+- involve people in creating and preparing the agend and decide which process to use for each agenda item
+- choose an appropriate length for meeting and send out an agenda before the meeting
+- be clear who will facilitate the meeting, who will take minutes and who will take care of the follow-up
+
+---
+
+## Prepare For Meetings (cont.)
+
+Supporting the participants' preparation:
+
+- notify people about any expectations for preparation
+- make available the resources people need to prepare
+- consider things you can take outside the meeting 
+
+As a participant: 
+
+- consider _Artful Participation_ pattern
+- review the agenda and consider the contribution you can make to each item
+- bring objections to the agenda before the meeting
+- complete any tasks you might have in relation to the meeting 
+
+
+
+
+
+
+---
+
+## Pattern 8.5: Evaluate Meetings
 
 ![right,fit](img/meetings/evaluate-interactions.png)
 
@@ -1554,7 +1670,7 @@ Ask everyone in a round to reflect on any or all of the following topics in a br
 
 ---
 
-## Pattern 8.4: Meeting Host (Role)
+## Pattern 8.6: Meeting Host (Role)
 
 The meeting host is accountable for preparation and follow-up of meetings, workshops or other events. 
 
@@ -1580,15 +1696,17 @@ The role may be assigned temporarily (i.e. for one specific event) or for a dura
 
 ---
 
-## Pattern 8.5: Governance Backlog
+## Pattern 8.7: Governance Backlog
 
 _A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention._
 
--   upcoming reports
+A governance backlog contains:
+
 -   decisions to make
 -   proposals to create and consider
--   agreements for review
 -   selecting people for roles
+
+Typically upcoming reports and agreements for review are not kept in the backlog but added directly to the agenda.
 
 
 
@@ -1618,7 +1736,7 @@ Types of backlog include:
 
 -   **Implementation**
     -   **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
-    -   **digital backlog**: e.g. Google Sheets, Trello, Kanban Flow, Jira
+    -   **digital backlog**: e.g. Google Sheets, Trello, Kanban Flow, Jira, Asana
 
 ---
 
@@ -1801,11 +1919,13 @@ A service circle can be populated by members of the domains it serves, and/or by
 
 **Decide and align on how to address drivers affecting multiple domains.**
 
+A delegate circle is formed by stakeholders and populated by representatives of those stakeholders. 
+
 Decisions of a delegate circle are acted upon in the various domains it serves.
 
-Each circle selects one or more members as representative(s) to a delegate circle.
-
 Delegate circles provide a way of steering organizations in alignment to the flow of value, and bring a diversity of perspective to governance decisions.
+
+A delegate circle may bring in other people (e.g. external experts) to help with specific decisions, or even as a  member of the circle.
 
 
 ---
@@ -2030,7 +2150,7 @@ Finally to acknowledge our numerous colleagues, customers, clients and attendees
 
 By no means an exhaustive list, we’d like to offer our appreciation to the following people who directly contributed towards developing Sociocracy 3.0, or whose work influenced what it is today:
 
-Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, Francois Knuckel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
+Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, Francois Knuckel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
 
 
 
@@ -2078,21 +2198,21 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary 
 
 
-**Account for (v.)**: to take the responsibility for something that needs to be addressed.
-**Accountability**: Respond when something is needed, do what you agreed to and take ownership for the course of the organization.
+**Account for (v.)**: to take the responsibility for something.
+**Accountability (principle)**: Respond when something is needed, do what you agreed to and take ownership for the course of the organization.
 **Agreement**: An agreed upon guideline, process or protocol designed to guide the flow of value.
 **Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
 **Backlog**: A visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
 **Chosen Values**: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
 **Circle**: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
 **Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
-**Concern**: An opinion that doing something might impede – or miss an opportunity to improve – flow of value to an organizational driver.
-**Consent**: Do things in the absence of reasons not to.
-**Continuous Improvement**: Change incrementally to accommodate steady empirical learning.
+**Concern**: An opinion why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+**Consent (principle)**: Raise, seek out and resolve objections related to decisions and actions.
+**Continuous Improvement (principle)**: Change incrementally to accommodate steady empirical learning.
+**Coordination**: The process of enabling individuals or groups to collaborate effectively across different domains to achieve shared objectives.
 **Delegatee**: An individual or group accepting accountability for a domain delegated to them.
 **Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
-**Deliverable**: Something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformations.
-**Domain**: A distinct area of influence, activity and decision making within an organization.
+**Deliverable**: Deliverables include products, raw materials, services, experiences and transformations provided as a result of an agreement in response to a driver.
 
 
 ---
@@ -2101,22 +2221,22 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
+**Domain**: A distinct area of influence, activity and decision making within an organization.
 **Driver**: A person’s or a group's motive for responding to a specific situation.
-**Effectiveness**: Devote time only to what brings you closer towards achieving your objectives.
-**Empiricism**: Test all assumptions through experiments, continuous revision and falsification.
-**Equivalence**: Involve people in making and evolving decisions that affect them.
-**Governance**: Continuously deciding what to do to achieve objectives, and setting constraints on how and when things will be done.
+**Effectiveness (principle)**: Devote time only to what brings you closer towards achieving your objectives.
+**Empiricism (principle)**: Test all assumptions through experiments and continuous revision.
+**Equivalence (principle)**: Involve people in making and evolving decisions that affect them.
+**Evolve (v.)**: to develop gradually.
+**Governance**: Making and evolving decisions about what to do to achieve objectives, and setting constraints on how and when things will be done.
 **Governance Backlog**: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
 **Key responsibilities**: Essential work and decision making required in the context of a domain.
 **Logbook**: A (digital) system to store all information relevant for running an organization and its teams.
 **Need**: A need is a lack of something wanted or deemed necessary.
-**Objection**: A reason why doing something stands in the way of (more) effective response to a driver.
-**Operations (Doing the Work)**: People doing what needs to be done, guided by coordination and governance.
+**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (or objective).
+**Operations**: The work being done to create and deliver value, guided by governance
 **Organization**: A group of people collaborating towards a shared objective (driver).
 **Organizational Driver**: A driver that is (directly or indirectly) related to an organization's primary driver.
 **Pattern**: A template for successfully navigating a specific context.
-**Peer Domain**: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
-**Peer Drivers**: Two drivers existing as a direct consequence of a response to the same superdriver, are called peer drivers.
 
 
 ---
@@ -2125,22 +2245,22 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
-**Primary Driver**: The driver that defines a domain is called the primary driver of that domain.
-**Principle**: A basic idea or rule that explains or controls how something happens or works.
+**Peer Domain**: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
+**Peer Drivers**: Two drivers existing as a direct consequence of a response to the same superdriver, are called peer drivers.
+**Primary Driver**: The primary driver for a domain is the main driver that people who account for that domain respond to,
+**Principle**: A basic idea or rule that explains, guides or controls how something happens or works.
 **Role**: An area of accountability defined by a domain and assigned to an individual.
 **SCM**: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
 **Self-Governance**: People governing themselves within the constraints of a domain.
-**Self-Organization**: People coordinating work within constraints defined through governance.
-**Semi-Autonomy**: People with autonomy to create value, limited by the constraints of their domain.
+**Self-Organization**: People organizing work within constraints defined through governance.
+**Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of delegator(s) and representatives), and by objections from others.
 **Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
 **Strategy**: A high level approach how people will create value to successfully account for a domain.
 **Subdomain**: A domain that is fully contained in another domain.
-**Subdriver**: A subdriver arises as a consequence of people responding to another driver (the superdriver) and is necessary to address to respond to the superdriver.
+**Subdriver**: A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
 **Superdomain**: A domain that fully contains another domain.
 **Superdriver**: see subdriver.
-**Transparency**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
-**Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
-**Values**: A set of principles of some significance that guides behavior. Not to be confused with "value" (singular) in the context of a driver.
+**Transparency (principle)**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
 
 
 ---
@@ -2149,6 +2269,8 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
+**Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
+**Values**: Valued principles that guide behaviour. Not to be confused with "value" (singular) in the context of a driver.
 **Waste**: Anything not necessary for - or standing in the way of - effective response of a driver.
 
 
@@ -2157,7 +2279,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 Patterns  | Patterns (cont.)
 --- | ---
-Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.6<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.7<br\>Create A Pull-System For Organizational Change - 5.2<br\>Daily Standup - 7.3 | Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Organizational Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.11<br\>Evaluate Agreements - 1.7<br\>Evaluate Meetings - 8.3<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.5<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7<br\>Intended Outcome - 6.4<br\>Invite Change - 5.4
+Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.6<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Co-Create Proposals - 1.9<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.7<br\>Create A Pull-System For Organizational Change - 5.2 | Daily Standup - 7.3<br\>Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Organizational Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.12<br\>Evaluate And Evolve Agreements - 1.7<br\>Evaluate Meetings - 8.5<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.7<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7<br\>Intended Outcome - 6.4
 
 
 ---
@@ -2165,4 +2287,4 @@ Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree O
 
 Patterns (cont.) | Patterns (cont.)
 --- | ---
-Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.4<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open S3 Adoption - 5.5<br\>Open Systems - 4.9<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.9<br\>Pull-System For Work - 9.4<br\>Representative - 4.6<br\>Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1 | Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.10<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3
+Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.6<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open S3 Adoption - 5.5<br\>Open Systems - 4.9<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prepare For Meetings - 8.4<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.10<br\>Pull-System For Work - 9.4<br\>Representative - 4.6 | Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1<br\>Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.11<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Timebox Activities - 8.3<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3

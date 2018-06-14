@@ -2,7 +2,7 @@
 
 ![right,fit](img/structural-patterns/service-organization-text.png)
 
-**Multi-stakeholder collaboration and alignment towards a shared driver.** 
+**Multi-stakeholder collaboration and alignment towards a shared driver (or objective).** 
 
 -   improves potential for equivalence between various entities
 -   increases cross-departmental/organizational alignment

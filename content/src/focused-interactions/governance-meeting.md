@@ -17,7 +17,7 @@ A governance meeting is usually:
 
 A typical governance meeting includes: 
 
--   opening round: attune with each other and to the objectives (or driver) of the group
+-   opening round: attune with each other and to the driver (or objectives) of the group
 -   administrative matters 
     -   consent to last minutes, date for next meeting, etc.
     -   check for last-minute agenda items and consent to agenda

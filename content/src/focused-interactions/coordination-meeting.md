@@ -1,6 +1,6 @@
 ## Coordination Meeting
 
-**Meet on a regular basis (usually weekly) for reporting on and coordinating work across domain.**
+**Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.**
 
 -   facilitate the meeting and use rounds instead of discussions where valuable
 -   if possible, compile the agenda before the meeting
@@ -13,10 +13,12 @@
 
 ![right,fit](img/meetings/coordination-meeting.png)
 
--   status reports: 
-    -   circle metrics (if any)
-    -   projects and tasks
--   agenda items: 
-    -   sharing of information
-    -   add or update tasks or projects
-    -   propose new or updated agreements
+---
+
+## Coordination Meeting (cont.)
+
+Agenda items: 
+
+- cross domain synchronization and alignment
+- priorization and distribution of work  
+- responding to impediments

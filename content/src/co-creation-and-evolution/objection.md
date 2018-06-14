@@ -44,7 +44,8 @@ The information revealed by objections can be used to improve:
 Some arguments raised are not in fact objections. Distinguish between objections, which always reveal useful information, and other arguments only based on opinion, preference or concerns.
 
 To find out whether an argument qualifies as an objection, a facilitator might ask the group:
-“Do you think this argument qualifies as an objection?” 
+
+_“Do you think this argument qualifies as an objection?”_
 
 If nobody disagrees with the argument, an objection typically qualifies, otherwise aim to discover the actual objection or to reveal the misconception.
 

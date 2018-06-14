@@ -2,9 +2,11 @@
 
 {{define:governance-backlog}}
 
--   upcoming reports
+A governance backlog contains:
+
 -   decisions to make
 -   proposals to create and consider
--   agreements for review
 -   selecting people for roles
+
+Typically upcoming reports and agreements for review are not kept in the backlog but added directly to the agenda.
 
