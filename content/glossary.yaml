@@ -180,6 +180,10 @@ terms:
     name: Superdomain
     definition:
     glossary: A domain that fully contains another domain. 
+  tension:
+    name: Tension
+    definition:
+    glossary: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
   transparency:
     name: Transparency (principle)
     definition:
