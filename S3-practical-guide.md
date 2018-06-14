@@ -1439,7 +1439,7 @@ A governance meeting is usually:
 
 A typical governance meeting includes: 
 
--   opening round: attune with each other and to the objectives (or driver) of the group
+-   opening round: attune with each other and to the driver (or objectives) of the group
 -   administrative matters 
     -   consent to last minutes, date for next meeting, etc.
     -   check for last-minute agenda items and consent to agenda
@@ -1830,22 +1830,23 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 ---
 
-## Pattern 9.6: Align Flow
+## Pattern 9.6: Proposal: Align Flow
 
 ![right,fit](img/workflow-and-value/align-flow.png)
 
--   in an effective organization, **flow of information and influence supports the continuous flow of value**
--   alignment is achieved and maintained through the continuous improvement of agreements
+In an effective organization, **flow of information and influence supports the continuous flow of value*.
+
+Alignment is achieved and maintained through the continuous improvement of agreements.
 
 ---
 
-### Flow of Value ###
+### Flow of Value
 
--   flow of value is guided by (explicit and implicit) agreements and assumptions
--   work in progress is regarded as waste because it ties up resources
--   continuous flow of value reduces the potential for accumulation of waste
-    -   it also makes for shorter feedback loops and amplifies learning
+Flow of value is guided by (explicit and implicit) agreements and assumptions.
 
+Continuous flow of value reduces the potential for accumulation of waste, and also makes for shorter feedback loops and amplifies learning.
+
+(Work in progress is regarded as waste because it ties up resources)
 
 ---
 
@@ -1961,7 +1962,7 @@ Deliver value in complex and competitive environments through **decentralization
 
 ![right,fit](img/structural-patterns/service-organization-text.png)
 
-**Multi-stakeholder collaboration and alignment towards a shared driver.** 
+**Multi-stakeholder collaboration and alignment towards a shared driver (or objective).** 
 
 -   improves potential for equivalence between various entities
 -   increases cross-departmental/organizational alignment
@@ -2234,7 +2235,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Need**: A need is a lack of something wanted or deemed necessary.
 **Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (or objective).
 **Operations**: The work being done to create and deliver value, guided by governance
-**Organization**: A group of people collaborating towards a shared objective (driver).
+**Organization**: A group of people collaborating towards a shared driver (or objective).
 **Organizational Driver**: A driver that is (directly or indirectly) related to an organization's primary driver.
 **Pattern**: A template for successfully navigating a specific context.
 
