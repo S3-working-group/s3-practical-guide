@@ -98,7 +98,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 **The Principle of Effectiveness:** *Devote time only to what brings you closer towards achieving your objectives.*
 
-**The Principle of Consent:** *Raise, seek out and resolve objections related to decisions and actions.*
+**The Principle of Consent:** *Raise, seek out and resolve objections to decisions and actions.*
 
 **The Principle of Empiricism:** *Test all assumptions through experiments and continuous revision.*
 
@@ -1204,7 +1204,7 @@ Avoid resistance:
 -   identify the driver for change
 -   schedule regular open space events:
     -   invite all members to create and run experiments
-    -   define constraints for experiments that enable development of a sociocratic and agile mindset (e.g. S3 principles)
+    -   define constraints for the experiments that enable development of a sociocratic and agile mindset (e.g. S3 principles)
     -   review and learn from experimentation in the next open space
     -   repeat
 
@@ -1599,21 +1599,7 @@ Choose someone to facilitate a meeting. Even an inexperienced facilitator can he
 
 ---
 
-## Pattern 8.3: Timebox Activities
-
-**Set a time constraint to stay focussed, bring consciousness to the time you have and how you use it.**
-
-- to get value out of the timebox, be clear what you want to achieve
-- agree on the duration of the timebox and visualize time
-- negotiate and agree to extend a timebox before the time is up
-- break down longer activities into manageable timeboxes
-- consider frequent review of progress
-- consider choosing a time-keeper
-
-
----
-
-## Pattern 8.4: Prepare For Meetings
+## Pattern 8.3: Prepare For Meetings
 
 **Prepare in advance to make meetings more effective.**
 
@@ -1660,7 +1646,7 @@ For each agenda item agree on:
 
 ---
 
-## Pattern 8.5: Evaluate Meetings
+## Pattern 8.4: Evaluate Meetings
 
 ![right,fit](img/meetings/evaluate-interactions.png)
 
@@ -1691,7 +1677,7 @@ Ask everyone in a round to reflect on any or all of the following topics in a br
 
 ---
 
-## Pattern 8.6: Meeting Host (Role)
+## Pattern 8.5: Meeting Host (Role)
 
 The meeting host is accountable for preparation and follow-up of meetings, workshops or other events. 
 
@@ -1717,7 +1703,7 @@ The role may be assigned temporarily (i.e. for one specific event) or for a dura
 
 ---
 
-## Pattern 8.7: Governance Backlog
+## Pattern 8.6: Governance Backlog
 
 _A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention._
 
@@ -1851,7 +1837,36 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 ---
 
-## Pattern 9.6: Proposal: Align Flow
+## Pattern 9.6: Timebox Activities
+
+**Set a time constraint to stay focussed, bring consciousness to the time you have and how you use it.**
+
+A timebox is a fixed period of time focused on a specific activity (which is not necessarily finished by the end of the timebox):
+
+- to get value out of the timebox, be clear what you want to achieve
+- agree on the duration of the timebox and visualize time
+- negotiate and agree to extend a timebox before the time is up
+- break down longer activities into manageable timeboxes
+- consider frequent review of progress
+- consider choosing a time-keeper
+
+---
+
+## Timebox Activities (cont.)
+
+You could timebox:
+
+- meetings, calls, discussions
+- tasks
+- experiments
+- an attempt to solve a problem
+- checking emails
+- breaks
+- a longer stretch of work (a sprint)
+
+---
+
+## Pattern 9.7: Proposal: Align Flow
 
 ![right,fit](img/workflow-and-value/align-flow.png)
 
@@ -1871,7 +1886,7 @@ Continuous flow of value reduces the potential for accumulation of waste, and al
 
 ---
 
-## Pattern 9.7: Coordinator (Role)
+## Pattern 9.8: Coordinator (Role)
 
 A person in the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
 
@@ -2230,7 +2245,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Circle**: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
 **Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 **Concern**: An opinion why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
-**Consent (principle)**: Raise, seek out and resolve objections related to decisions and actions.
+**Consent (principle)**: Raise, seek out and resolve objections to decisions and actions.
 **Continuous Improvement (principle)**: Change incrementally to accommodate steady empirical learning.
 **Coordination**: The process of enabling individuals or groups to collaborate effectively across different domains to achieve shared objectives.
 **Delegatee**: An individual or group accepting accountability for a domain delegated to them.
@@ -2303,7 +2318,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 Patterns  | Patterns (cont.)
 --- | ---
-Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.6<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Co-Create Proposals - 1.9<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.7<br\>Create A Pull-System For Organizational Change - 5.2 | Daily Standup - 7.3<br\>Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Organizational Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.12<br\>Evaluate And Evolve Agreements - 1.7<br\>Evaluate Meetings - 8.5<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.7<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7<br\>Intended Outcome - 6.4
+Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.7<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Co-Create Proposals - 1.9<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.8<br\>Create A Pull-System For Organizational Change - 5.2 | Daily Standup - 7.3<br\>Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Organizational Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.12<br\>Evaluate And Evolve Agreements - 1.7<br\>Evaluate Meetings - 8.4<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.6<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7<br\>Intended Outcome - 6.4
 
 
 ---
@@ -2311,4 +2326,4 @@ Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree O
 
 Patterns (cont.) | Patterns (cont.)
 --- | ---
-Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.6<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open Systems - 4.9<br\>Open-Space For Change - 5.5<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prepare For Meetings - 8.4<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.10<br\>Pull-System For Work - 9.4<br\>Representative - 4.6 | Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1<br\>Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.11<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Timebox Activities - 8.3<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3
+Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.5<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open Systems - 4.9<br\>Open-Space For Change - 5.5<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prepare For Meetings - 8.3<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.10<br\>Pull-System For Work - 9.4<br\>Representative - 4.6 | Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1<br\>Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.11<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Timebox Activities - 9.6<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3

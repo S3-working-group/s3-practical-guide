@@ -49,7 +49,7 @@ patterns:
 - gid: 9
   name: Align Flow
   path: align-flow.md
-  pid: 6
+  pid: 7
 - gid: 3
   name: Artful Participation
   path: artful-participation.md
@@ -105,7 +105,7 @@ patterns:
 - gid: 9
   name: Coordinator
   path: coordinator.md
-  pid: 7
+  pid: 8
 - gid: 5
   name: Create A Pull-System For Organizational Change
   path: create-a-pull-system-for-organizational-change.md
@@ -157,7 +157,7 @@ patterns:
 - gid: 8
   name: Evaluate Meetings
   path: evaluate-meetings.md
-  pid: 5
+  pid: 4
 - gid: 6
   name: Evaluation Criteria
   path: evaluation-criteria.md
@@ -173,7 +173,7 @@ patterns:
 - gid: 8
   name: Governance Backlog
   path: governance-backlog.md
-  pid: 7
+  pid: 6
 - gid: 3
   name: Governance Facilitator
   path: governance-facilitator.md
@@ -213,7 +213,7 @@ patterns:
 - gid: 8
   name: Meeting Host
   path: meeting-host.md
-  pid: 6
+  pid: 5
 - gid: 1
   name: Navigate Via Tension
   path: navigate-via-tension.md
@@ -253,7 +253,7 @@ patterns:
 - gid: 8
   name: Prepare For Meetings
   path: prepare-for-meetings.md
-  pid: 4
+  pid: 3
 - gid: 9
   name: Prioritize Backlogs
   path: prioritize-backlogs.md
@@ -310,10 +310,10 @@ patterns:
   name: Those Affected Decide
   path: those-affected-decide.md
   pid: 8
-- gid: 8
+- gid: 9
   name: Timebox Activities
   path: timebox-activities.md
-  pid: 3
+  pid: 6
 - gid: 3
   name: Transparent Salary
   path: transparent-salary.md
