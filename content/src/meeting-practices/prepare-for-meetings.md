@@ -4,29 +4,40 @@
 
 Organizing the meeting:
 
-- clarify and communicate driver for and intended outcome of the meeting
-- schedule the meeting early enough so people have time to prepare
-- involve people in creating and preparing the agend and decide which process to use for each agenda item
-- choose an appropriate length for meeting and send out an agenda before the meeting
+- clarify and communicate the driver for, and intended outcome of the meeting
+- decide who to invite 
+- schedule the meeting enough in advance, so people have time to prepare
+- choose an appropriate duration for the meeting 
 - be clear who will facilitate the meeting, who will take minutes and who will take care of the follow-up
 
 ---
 
-## Prepare For Meetings (cont.)
+## Prepare the Agenda
 
-Supporting the participants' preparation:
+Involve people in preparing and prioritizing the agenda and send it out in advance
 
-- notify people about any expectations for preparation
-- make available the resources people need to prepare
-- consider things you can take outside the meeting 
+For each agenda item agree on:
 
-As a participant: 
+- the driver 
+- the intended outcome
+- the process
+- the time you want to spend on it 
+- what people need to do to prepare
+
+---
+
+## Support the Participants' Preparation
+
+- consider what can be done in advance to prepare for the meeting
+- notify people about any expectations and prerequisites
+- make any resources available that people may need for preparation
+
+
+--- 
+
+## As a participant
 
 - consider _Artful Participation_ pattern
-- review the agenda and consider the contribution you can make to each item
-- bring objections to the agenda before the meeting
-- complete any tasks you might have in relation to the meeting 
-
-
-
-
+- review the agenda and consider how you can contribute to each item
+- bring up objections to the agenda before the meeting
+- review improvement suggestions from the last meeting's evaluation

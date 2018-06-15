@@ -17,13 +17,17 @@ A simple way to describe a driver is with a **brief statement** explaining:
 
 Depending on their perspective, a person or group may decide to describe a driver as a problem to solve or an opportunity to leverage. 
 
-A **driver statement** captures just enough information to communicate the need for an action or a decision. More information about the scope and details of the driver may be recorded besides the initial driver statement. 
+{{define:driver-statement}}
+
+The driver statement contains just enough information to communicate the need for an action or a decision. 
+
+More information about the scope and details of the driver may be recorded besides the initial driver statement. 
 
 ---
 
 ## Example driver statement: 
 
-> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focussed on our work.”_
+> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work.”_
 
 ---
 
@@ -65,7 +69,7 @@ Explain the need of the organization in relation to this situation:
 
 ## 4. Impact
 
-> _“...so we can stay focussed on our work”._
+> _“...so we can stay focused on our work”._
 
 Describe the impact of attending to that need:
 

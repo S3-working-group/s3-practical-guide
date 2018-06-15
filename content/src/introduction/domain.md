@@ -23,19 +23,10 @@ Those delegating a domain (the _delegators_) still retain overall accountability
 
 ![right,fit](img/driver-domain/domain-primay-sub.png)
 
-A domain can be defined in relation to an organizational driver - known as the domain’s **primary driver** - by the set of sub-drivers the organization may benefit from addressing when responding to that driver: 
+It's also possible to understand a domain in relation to organizational drivers:
 
--   **key responsibilities**: following directly from the domain's primary driver
--   **constraints**: relating to the organization's wider context
-
----
-
-## Domains and Accountability
-
-![right,fit](img/driver-domain/nested-domains.png)
-
--   accountability applies to all agreements, including the organization itself, circles, and roles
--   everyone's primary accountability is for effective collaboration in response to organizational drivers
--   individuals and groups are accountable for their work, ongoing learning and development, with the organization providing necessary support
--   everyone in an organization is accountable for aligning action with organizational values
+-   the domain's **primary driver** - the main driver the people accounting for that domain respond to
+-   the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include :
+    -   **key responsibilities** (drivers following directly from the domain's primary driver)
+    -   drivers for **constraints** (which typically relate to the organization's wider context)
 

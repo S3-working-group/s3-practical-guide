@@ -72,6 +72,10 @@ terms:
     name: Driver
     definition: A **driver** is a person’s or a group's motive for responding to a specific situation.
     glossary: A person’s or a group's motive for responding to a specific situation.
+  driver-statement:
+    name: Driver Statement
+    definition: A **driver statement** is a brief but comprehensive summary of the information required to understand a driver.
+    glossary: A a brief but comprehensive summary of the information required to understand a driver.
   effectiveness:
     name: Effectiveness (principle)
     definition: Devote time only to what brings you closer towards achieving your objectives.

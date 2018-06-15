@@ -114,6 +114,17 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 **The Principle of Accountability:** *Respond when something is needed, do what you agreed to and take ownership for the course of the organization.*
 
+---
+
+## The Principle of Accountability
+
+*Respond when something is needed, do what you agreed to and take ownership for the course of the organization.*
+
+-   accountability applies to all agreements, including the organization itself, circles, and roles
+-   everyone's primary accountability is for effective collaboration in response to organizational drivers
+-   individuals and groups are accountable for their work, ongoing learning and development, with the organization providing necessary support
+-   everyone in an organization is accountable for aligning action with organizational values
+ 
 
 ---
 
@@ -168,26 +179,16 @@ Those delegating a domain (the _delegators_) still retain overall accountability
 
 ![right,fit](img/driver-domain/domain-primay-sub.png)
 
-A domain can be defined in relation to an organizational driver - known as the domain’s **primary driver** - by the set of sub-drivers the organization may benefit from addressing when responding to that driver: 
+It's also possible to understand a domain in relation to organizational drivers:
 
--   **key responsibilities**: following directly from the domain's primary driver
--   **constraints**: relating to the organization's wider context
-
----
-
-## Domains and Accountability
-
-![right,fit](img/driver-domain/nested-domains.png)
-
--   accountability applies to all agreements, including the organization itself, circles, and roles
--   everyone's primary accountability is for effective collaboration in response to organizational drivers
--   individuals and groups are accountable for their work, ongoing learning and development, with the organization providing necessary support
--   everyone in an organization is accountable for aligning action with organizational values
+-   the domain's **primary driver** - the main driver the people accounting for that domain respond to
+-   the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include :
+    -   **key responsibilities** (drivers following directly from the domain's primary driver)
+    -   drivers for **constraints** (which typically relate to the organization's wider context)
 
 
 
 ---
-
 
 ## Governance, Semi-Autonomy and  Self-Organization
 
@@ -267,9 +268,9 @@ Is the driver still relevant?
 
 **Individuals identify and account for organizational drivers by investigating tension they experience.**
 
-A **tension** is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences). 
+**Challenges and opportunities** for an organization are revealed by people bringing awareness to the reasons for tension they experience.
 
-We can detect all **challenges and opportunities** related to the organization by bringing awareness to tension we experience.
+**Note:** In this context, a _tension_ is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences).
 
 To **discover drivers**, investigate what stimulates tension, and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
 
@@ -277,14 +278,12 @@ To **discover drivers**, investigate what stimulates tension, and describe what'
 
 ## Navigate Via Tension (cont.)
 
-**All members** bring awareness to what might help or harm the organization, and aim to account for drivers in an effective way. 
+**All members** bring awareness to what might help or harm the organization, and respond to the drivers they discover.
 
 
 Awareness of **organizational drivers** can be passed to an appropriate domain to be addressed.
 
 ---
-
-## Navigate Via Tension (cont.)
 
 ![inline,fit](img/process/navigate-via-tension-slides.png)
 
@@ -311,13 +310,17 @@ A simple way to describe a driver is with a **brief statement** explaining:
 
 Depending on their perspective, a person or group may decide to describe a driver as a problem to solve or an opportunity to leverage. 
 
-A **driver statement** captures just enough information to communicate the need for an action or a decision. More information about the scope and details of the driver may be recorded besides the initial driver statement. 
+_A **driver statement** is a brief but comprehensive summary of the information required to understand a driver._
+
+The driver statement contains just enough information to communicate the need for an action or a decision. 
+
+More information about the scope and details of the driver may be recorded besides the initial driver statement. 
 
 ---
 
 ## Example driver statement: 
 
-> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focussed on our work.”_
+> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work.”_
 
 ---
 
@@ -359,7 +362,7 @@ Explain the need of the organization in relation to this situation:
 
 ## 4. Impact
 
-> _“...so we can stay focussed on our work”._
+> _“...so we can stay focused on our work”._
 
 Describe the impact of attending to that need:
 
@@ -884,7 +887,7 @@ When entering into formal or informal agreements with others:
 -   ensure all parties understand what's expected of them and intend to keep to the agreement
 -   verify the agreement is beneficial to all parties, and that expectations are realistic
 
-Be accountable for breaking agreements. 
+In cases where you still think it's necessary, be accountable for the consequences of breaking an agreement.
 
 ---
 
@@ -1194,14 +1197,14 @@ Avoid resistance:
 
 ---
 
-## Pattern 5.5: Open S3 Adoption
+## Pattern 5.5: Open-Space For Change
 
 **Invite everyone to create and run experiments for evolving the organization.**
 
--   identify the driver for pulling in S3 patterns
+-   identify the driver for change
 -   schedule regular open space events:
     -   invite all members to create and run experiments
-    -   define constraints for experiments: e.g. S3 principles
+    -   define constraints for experiments that enable development of a sociocratic and agile mindset (e.g. S3 principles)
     -   review and learn from experimentation in the next open space
     -   repeat
 
@@ -1324,6 +1327,7 @@ Domain descriptions can be created for a role, position, circle, team, open doma
 
 You can either start by clarifying existing domains, or at least clarify new ones.
 
+One way of clarifying a domain is by filling out a [S3 Delegation Canvas](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html).
 
 ---
 
@@ -1615,32 +1619,43 @@ Choose someone to facilitate a meeting. Even an inexperienced facilitator can he
 
 Organizing the meeting:
 
-- clarify and communicate driver for and intended outcome of the meeting
-- schedule the meeting early enough so people have time to prepare
-- involve people in creating and preparing the agend and decide which process to use for each agenda item
-- choose an appropriate length for meeting and send out an agenda before the meeting
+- clarify and communicate the driver for, and intended outcome of the meeting
+- decide who to invite 
+- schedule the meeting enough in advance, so people have time to prepare
+- choose an appropriate duration for the meeting 
 - be clear who will facilitate the meeting, who will take minutes and who will take care of the follow-up
 
 ---
 
-## Prepare For Meetings (cont.)
+## Prepare the Agenda
 
-Supporting the participants' preparation:
+Involve people in preparing and prioritizing the agenda and send it out in advance
 
-- notify people about any expectations for preparation
-- make available the resources people need to prepare
-- consider things you can take outside the meeting 
+For each agenda item agree on:
 
-As a participant: 
+- the driver 
+- the intended outcome
+- the process
+- the time you want to spend on it 
+- what people need to do to prepare
+
+---
+
+## Support the Participants' Preparation
+
+- consider what can be done in advance to prepare for the meeting
+- notify people about any expectations and prerequisites
+- make any resources available that people may need for preparation
+
+
+--- 
+
+## As a participant
 
 - consider _Artful Participation_ pattern
-- review the agenda and consider the contribution you can make to each item
-- bring objections to the agenda before the meeting
-- complete any tasks you might have in relation to the meeting 
-
-
-
-
+- review the agenda and consider how you can contribute to each item
+- bring up objections to the agenda before the meeting
+- review improvement suggestions from the last meeting's evaluation
 
 
 ---
@@ -2231,6 +2246,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 **Domain**: A distinct area of influence, activity and decision making within an organization.
 **Driver**: A person’s or a group's motive for responding to a specific situation.
+**Driver Statement**: A a brief but comprehensive summary of the information required to understand a driver.
 **Effectiveness (principle)**: Devote time only to what brings you closer towards achieving your objectives.
 **Empiricism (principle)**: Test all assumptions through experiments and continuous revision.
 **Equivalence (principle)**: Involve people in making and evolving decisions that affect them.
@@ -2244,7 +2260,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Operations**: The work being done to create and deliver value, guided by governance
 **Organization**: A group of people collaborating towards a shared driver (or objective).
 **Organizational Driver**: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
-**Pattern**: A template for successfully navigating a specific context.
 
 
 ---
@@ -2253,6 +2268,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
+**Pattern**: A template for successfully navigating a specific context.
 **Peer Domain**: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
 **Primary Driver**: The primary driver for a domain is the main driver that people who account for that domain respond to,
 **Principle**: A basic idea or rule that explains, guides or controls how something happens or works.
@@ -2267,8 +2283,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Subdriver**: A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
 **Superdomain**: A domain that fully contains another domain.
 **Superdriver**: see subdriver.
-**Transparency (principle)**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
-**Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
+**Tension**: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
 
 
 ---
@@ -2277,6 +2292,8 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
+**Transparency (principle)**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
+**Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
 **Values**: Valued principles that guide behaviour. Not to be confused with "value" (singular) in the context of a driver.
 **Waste**: Anything not necessary for - or standing in the way of - effective response of a driver.
 
@@ -2294,4 +2311,4 @@ Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree O
 
 Patterns (cont.) | Patterns (cont.)
 --- | ---
-Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.6<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open S3 Adoption - 5.5<br\>Open Systems - 4.9<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prepare For Meetings - 8.4<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.10<br\>Pull-System For Work - 9.4<br\>Representative - 4.6 | Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1<br\>Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.11<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Timebox Activities - 8.3<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3
+Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.6<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open Systems - 4.9<br\>Open-Space For Change - 5.5<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prepare For Meetings - 8.4<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.10<br\>Pull-System For Work - 9.4<br\>Representative - 4.6 | Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1<br\>Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.11<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Timebox Activities - 8.3<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3

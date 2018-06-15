@@ -226,14 +226,14 @@ patterns:
   name: Open Domain
   path: open-domain.md
   pid: 8
-- gid: 5
-  name: Open S3 Adoption
-  path: open-s3-adoption.md
-  pid: 5
 - gid: 4
   name: Open Systems
   path: open-systems.md
   pid: 9
+- gid: 5
+  name: Open-Space For Change
+  path: open-space-for-change.md
+  pid: 5
 - gid: 10
   name: Peach Organization
   path: peach-organization.md

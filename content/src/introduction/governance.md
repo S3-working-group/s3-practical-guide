@@ -1,4 +1,3 @@
-
 ## Governance, Semi-Autonomy and  Self-Organization
 
 **Governance**: {{glossary:governance}}
