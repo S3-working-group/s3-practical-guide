@@ -35,6 +35,10 @@ terms:
     name: Circle
     definition: A **circle** is an equivalent, self-governing, and semi-autonomous group of people collaborating to account for a domain.
     glossary: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
+  check-in:
+    name: Check-In
+    definition: 
+    glossary: A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs. 
   complexity:
     name: Complexity
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
@@ -198,7 +202,7 @@ terms:
     glossary: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
   values:
     name: Values
-    glossary: Valued principles that guide behaviour. Not to be confused with "value" (singular) in the context of a driver. 
+    glossary: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver. 
   waste:
     name: Waste
     definition: "**Waste** is anything not necessary for - or standing in the way of - effective response of a driver."

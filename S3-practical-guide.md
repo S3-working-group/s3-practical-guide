@@ -297,7 +297,7 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 A simple way to describe a driver is with a **brief statement** explaining: 
 
--   **What’s happening..:**
+-   **What’s happening...:**
     -   the **current situation**
     -   the **effect** of this situation on the organization
 -   ...and **what’s needed:**
@@ -312,7 +312,7 @@ Depending on their perspective, a person or group may decide to describe a drive
 
 _A **driver statement** is a brief but comprehensive summary of the information required to understand a driver._
 
-The driver statement contains just enough information to communicate the need for an action or a decision. 
+The driver statement contains just enough information to communicate the need for an action or a decision. Typically a driver statement can be summed up in one or two sentences.
 
 More information about the scope and details of the driver may be recorded besides the initial driver statement. 
 
@@ -562,7 +562,7 @@ Consider including those affected also in review and evolution of decisions.
 
 ## Pattern 1.9: Co-Create Proposal
 
-**To tap collective intelligence, build sense of ownership and increase engagement and accountability, bring people together to co-create proposals in response to organisational drivers.**
+**To tap collective intelligence, build sense of ownership and increase engagement and accountability, bring people together to co-create proposals in response to organizational drivers.**
 
 There are many ways a group of people can co-create proposals. Generally they follow a similar pattern:
 
@@ -1188,7 +1188,7 @@ Avoid resistance:
 -   be transparent about the reason for the change
 -   clarify expectations and constraints
 -   avoid coercion or manipulation
--   acknowlegde scpticism and doubts
+-   acknowledge scepticism and doubts
 -   include people in regular evaluation and evolution
 
 
@@ -1559,7 +1559,7 @@ People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and 
 Agenda items: 
 
 - cross domain synchronization and alignment
-- priorization and distribution of work  
+- prioritization and distribution of work  
 - responding to impediments
 
 
@@ -1646,7 +1646,23 @@ For each agenda item agree on:
 
 ---
 
-## Pattern 8.4: Evaluate Meetings
+## Pattern 8.4: Check In
+
+**Help people to become aware of themselves and others, and to focus, be present and engage.**
+
+To check in, briefly disclose something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs. 
+
+Checking in may take the form of an opening or closing round in a group meeting, or just a brief exchange in a 1:1 meeting. 
+
+You can also call for a group check-in during a meeting, or even choose to individually check in whenever you think this is valuable for the group.
+
+In a group check-in, allow people to pass if they choose. 
+
+When checking in, in a new setting, people also say their name and where they are coming from, as a way to introduce themselves. (Tip: Avoid talking about function, rank etc unless there is a reason to do so.)
+
+---
+
+## Pattern 8.5: Evaluate Meetings
 
 ![right,fit](img/meetings/evaluate-interactions.png)
 
@@ -1677,7 +1693,7 @@ Ask everyone in a round to reflect on any or all of the following topics in a br
 
 ---
 
-## Pattern 8.5: Meeting Host (Role)
+## Pattern 8.6: Meeting Host (Role)
 
 The meeting host is accountable for preparation and follow-up of meetings, workshops or other events. 
 
@@ -1703,7 +1719,7 @@ The role may be assigned temporarily (i.e. for one specific event) or for a dura
 
 ---
 
-## Pattern 8.6: Governance Backlog
+## Pattern 8.7: Governance Backlog
 
 _A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention._
 
@@ -1839,16 +1855,16 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 ## Pattern 9.6: Timebox Activities
 
-**Set a time constraint to stay focussed, bring consciousness to the time you have and how you use it.**
+**Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.**
 
-A timebox is a fixed period of time focused on a specific activity (which is not necessarily finished by the end of the timebox):
+A timebox is a fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox):
 
 - to get value out of the timebox, be clear what you want to achieve
 - agree on the duration of the timebox and visualize time
 - negotiate and agree to extend a timebox before the time is up
 - break down longer activities into manageable timeboxes
 - consider frequent review of progress
-- consider choosing a time-keeper
+- consider choosing someone (the "time keeper") to help others stay conscious of time
 
 ---
 
@@ -1863,6 +1879,7 @@ You could timebox:
 - checking emails
 - breaks
 - a longer stretch of work (a sprint)
+
 
 ---
 
@@ -1957,7 +1974,7 @@ A service circle can be populated by members of the domains it serves, and/or by
 
 **Delegate decisions on how to respond to drivers affecting multiple domains, to representatives.**
 
-To make goverance decisions on their behalf, stakeholders send representatives to form a delegate circle.
+To make governance decisions on their behalf, stakeholders send representatives to form a delegate circle.
 
 Governance decisions made in a delegate circle are acted upon in the various domains it serves.
 
@@ -2241,6 +2258,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Agreement**: An agreed upon guideline, process or protocol designed to guide the flow of value.
 **Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
 **Backlog**: A visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
+**Check-In**: A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
 **Chosen Values**: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
 **Circle**: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
 **Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
@@ -2250,7 +2268,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Coordination**: The process of enabling individuals or groups to collaborate effectively across different domains to achieve shared objectives.
 **Delegatee**: An individual or group accepting accountability for a domain delegated to them.
 **Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
-**Deliverable**: A product, service, raw material, experience or transformation, provided as a result of an agreement.
 
 
 ---
@@ -2259,6 +2276,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
+**Deliverable**: A product, service, raw material, experience or transformation, provided as a result of an agreement.
 **Domain**: A distinct area of influence, activity and decision making within an organization.
 **Driver**: A person’s or a group's motive for responding to a specific situation.
 **Driver Statement**: A a brief but comprehensive summary of the information required to understand a driver.
@@ -2274,7 +2292,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (or objective).
 **Operations**: The work being done to create and deliver value, guided by governance
 **Organization**: A group of people collaborating towards a shared driver (or objective).
-**Organizational Driver**: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
 
 
 ---
@@ -2283,6 +2300,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
+**Organizational Driver**: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
 **Pattern**: A template for successfully navigating a specific context.
 **Peer Domain**: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
 **Primary Driver**: The primary driver for a domain is the main driver that people who account for that domain respond to,
@@ -2298,7 +2316,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Subdriver**: A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
 **Superdomain**: A domain that fully contains another domain.
 **Superdriver**: see subdriver.
-**Tension**: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
 
 
 ---
@@ -2307,9 +2324,10 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (cont.)
 
 
+**Tension**: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
 **Transparency (principle)**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
 **Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
-**Values**: Valued principles that guide behaviour. Not to be confused with "value" (singular) in the context of a driver.
+**Values**: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.
 **Waste**: Anything not necessary for - or standing in the way of - effective response of a driver.
 
 
@@ -2318,7 +2336,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 Patterns  | Patterns (cont.)
 --- | ---
-Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.7<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Co-Create Proposals - 1.9<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.8<br\>Create A Pull-System For Organizational Change - 5.2 | Daily Standup - 7.3<br\>Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Organizational Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.12<br\>Evaluate And Evolve Agreements - 1.7<br\>Evaluate Meetings - 8.4<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.6<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7<br\>Intended Outcome - 6.4
+Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.7<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Check In - 8.4<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Co-Create Proposals - 1.9<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.8 | Create A Pull-System For Organizational Change - 5.2<br\>Daily Standup - 7.3<br\>Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Organizational Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.12<br\>Evaluate And Evolve Agreements - 1.7<br\>Evaluate Meetings - 8.5<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.7<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7
 
 
 ---
@@ -2326,4 +2344,4 @@ Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree O
 
 Patterns (cont.) | Patterns (cont.)
 --- | ---
-Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.5<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open Systems - 4.9<br\>Open-Space For Change - 5.5<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prepare For Meetings - 8.3<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.10<br\>Pull-System For Work - 9.4<br\>Representative - 4.6 | Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1<br\>Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.11<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Timebox Activities - 9.6<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3
+Intended Outcome - 6.4<br\>Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.6<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open Systems - 4.9<br\>Open-Space For Change - 5.5<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prepare For Meetings - 8.3<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.10<br\>Pull-System For Work - 9.4 | Representative - 4.6<br\>Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1<br\>Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.11<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Timebox Activities - 9.6<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3

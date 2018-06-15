@@ -4,7 +4,7 @@
 
 A simple way to describe a driver is with a **brief statement** explaining: 
 
--   **What’s happening..:**
+-   **What’s happening...:**
     -   the **current situation**
     -   the **effect** of this situation on the organization
 -   ...and **what’s needed:**
@@ -19,7 +19,7 @@ Depending on their perspective, a person or group may decide to describe a drive
 
 {{define:driver-statement}}
 
-The driver statement contains just enough information to communicate the need for an action or a decision. 
+The driver statement contains just enough information to communicate the need for an action or a decision. Typically a driver statement can be summed up in one or two sentences.
 
 More information about the scope and details of the driver may be recorded besides the initial driver statement. 
 

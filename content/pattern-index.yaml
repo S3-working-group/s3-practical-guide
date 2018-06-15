@@ -74,6 +74,10 @@ patterns:
   name: Bylaws
   path: bylaws.md
   pid: 9
+- gid: 8
+  name: Check In
+  path: check-in.md
+  pid: 4
 - gid: 4
   name: Circle
   path: circle.md
@@ -157,7 +161,7 @@ patterns:
 - gid: 8
   name: Evaluate Meetings
   path: evaluate-meetings.md
-  pid: 4
+  pid: 5
 - gid: 6
   name: Evaluation Criteria
   path: evaluation-criteria.md
@@ -173,7 +177,7 @@ patterns:
 - gid: 8
   name: Governance Backlog
   path: governance-backlog.md
-  pid: 6
+  pid: 7
 - gid: 3
   name: Governance Facilitator
   path: governance-facilitator.md
@@ -213,7 +217,7 @@ patterns:
 - gid: 8
   name: Meeting Host
   path: meeting-host.md
-  pid: 5
+  pid: 6
 - gid: 1
   name: Navigate Via Tension
   path: navigate-via-tension.md

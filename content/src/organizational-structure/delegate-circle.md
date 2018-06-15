@@ -5,7 +5,7 @@
 
 **Delegate decisions on how to respond to drivers affecting multiple domains, to representatives.**
 
-To make goverance decisions on their behalf, stakeholders send representatives to form a delegate circle.
+To make governance decisions on their behalf, stakeholders send representatives to form a delegate circle.
 
 Governance decisions made in a delegate circle are acted upon in the various domains it serves.
 

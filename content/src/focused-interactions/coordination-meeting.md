@@ -20,5 +20,5 @@
 Agenda items: 
 
 - cross domain synchronization and alignment
-- priorization and distribution of work  
+- prioritization and distribution of work  
 - responding to impediments

@@ -7,7 +7,7 @@ Avoid resistance:
 -   be transparent about the reason for the change
 -   clarify expectations and constraints
 -   avoid coercion or manipulation
--   acknowlegde scpticism and doubts
+-   acknowledge scepticism and doubts
 -   include people in regular evaluation and evolution
 
 

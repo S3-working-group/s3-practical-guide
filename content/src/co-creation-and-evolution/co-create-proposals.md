@@ -1,6 +1,6 @@
 ## Co-Create Proposal
 
-**To tap collective intelligence, build sense of ownership and increase engagement and accountability, bring people together to co-create proposals in response to organisational drivers.**
+**To tap collective intelligence, build sense of ownership and increase engagement and accountability, bring people together to co-create proposals in response to organizational drivers.**
 
 There are many ways a group of people can co-create proposals. Generally they follow a similar pattern:
 
