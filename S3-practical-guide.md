@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2018-03-21) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2018-06-25) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -170,7 +170,7 @@ Domains are delegated to people (e.g. to a unit, department, team or individuals
 
 Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
 
--   **key responsibilities** (essential work and decision making being delegated)
+-   **key responsibilities** (any essential work and decision making being delegated)
 -   **constraints to autonomy and influence** for those the domain is delegated to, usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
 
 ---
@@ -183,7 +183,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 -   the domain's **primary driver** - the main driver the people accounting for that domain respond to
 -   the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include :
-    -   **key responsibilities** (drivers following directly from the domain's primary driver)
+    -   **key responsibilities** (any driver following directly from the domain's primary driver)
     -   drivers for **constraints** (which typically relate to the organization's wider context)
 
 

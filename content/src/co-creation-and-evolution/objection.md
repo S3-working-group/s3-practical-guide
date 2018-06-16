@@ -36,6 +36,7 @@ The information revealed by objections can be used to improve:
 -   people executing on decisions
 -   existing agreements
 -   proposals
+-   our understanding of drivers
 
 ---
 
