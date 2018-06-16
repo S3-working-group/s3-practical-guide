@@ -11,7 +11,7 @@ A governance facilitator:
 
 ---
 
-## Governance Facilitator (cont.)
+## Governance Facilitator (…)
 
 To support effective governance, the facilitator should be familiar with the following patterns:
 

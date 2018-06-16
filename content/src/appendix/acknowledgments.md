@@ -10,7 +10,7 @@ Finally to acknowledge our numerous colleagues, customers, clients and attendees
 
 ---
 
-## Acknowledgments (cont.)
+## Acknowledgments (…)
 
 By no means an exhaustive list, we’d like to offer our appreciation to the following people who directly contributed towards developing Sociocracy 3.0, or whose work influenced what it is today:
 

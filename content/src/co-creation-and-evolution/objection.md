@@ -6,7 +6,7 @@ Objections contain information that reveals **certain or likely consequence of h
 
 ---
 
-## Objection (cont.)
+## Objection (…)
 
 It's the accountability of individuals to raise potential objections. 
 
@@ -18,7 +18,7 @@ Being able to raise *potential* objections at any time means decisions only need
 Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
 
 ---
-### Objection (cont.)
+### Objection (…)
 
 When seeking out potential objections, consider:
 
@@ -28,7 +28,7 @@ When seeking out potential objections, consider:
 
 ---
 
-### Objection (cont.)
+### Objection (…)
 
 The information revealed by objections can be used to improve:
 

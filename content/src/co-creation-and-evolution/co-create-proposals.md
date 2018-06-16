@@ -11,7 +11,7 @@ There are many ways a group of people can co-create proposals. Generally they fo
 
 ---
 
-## Co-Create Proposal (cont.)
+## Co-Create Proposal (…)
 
 One way to do this is S3's _Proposal Forming_ pattern. 
 

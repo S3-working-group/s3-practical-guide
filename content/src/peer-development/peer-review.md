@@ -12,7 +12,7 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 ---
 
-## Peer Review (cont.)
+## Peer Review (…)
 
 
 ### Continuous improvement of people's ability to effectively fulfill roles or collaborate together in groups.

@@ -6,7 +6,7 @@
 
 ![right,fit](img/collaboration-values/values-7principles.png)
 
-## Adopt The Seven Principles (cont.)
+## Adopt The Seven Principles (…)
 
 -   align collaboration with the Seven Principles
 -   adopting the Seven Principles reduces the number of explicit agreements required, and guides adaptation of S3 patterns to suit the organization's context

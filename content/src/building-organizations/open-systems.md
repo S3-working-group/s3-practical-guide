@@ -6,7 +6,7 @@ Acknowledging its interdependence, an organization can consciously invite **outs
 
 ---
 
-## Open Systems (cont.)
+## Open Systems (…)
 
 -   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
 -   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)

@@ -41,7 +41,7 @@
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 - Introduction:
     -   added "what's in it for me?"
@@ -52,7 +52,7 @@
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 - _Artful Participation_: refined description
 - _Agreement_: clarified that the concept of agreements is applicable to people in roles
@@ -65,7 +65,7 @@
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 - _Evaluate Agreements_: aligned questions to peer review
 - _Governance Backlog_: updated definition
@@ -79,7 +79,7 @@
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 **Renamed Patterns:** 
 
@@ -92,7 +92,7 @@
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 **Added Patterns:**
 

@@ -13,7 +13,7 @@ A timebox is a fixed period of time spent focused on a specific activity (which 
 
 ---
 
-## Timebox Activities (cont.)
+## Timebox Activities (…)
 
 You could timebox:
 

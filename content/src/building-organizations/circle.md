@@ -12,7 +12,7 @@ A circle:
 
 ---
 
-## Circle (cont.)
+## Circle (…)
 
 -   **semi-autonomous**
     -   a circle acts within the constraints of their domain

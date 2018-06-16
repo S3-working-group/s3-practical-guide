@@ -6,7 +6,7 @@ Small or large groups identify and prioritize drivers, progressing quickly from 
 
 ---
 
-## Driver Mapping (cont.)
+## Driver Mapping (…)
 
 
 ![inline,fit](img/facilitation-guides/driver-mapping-fg-print.png)

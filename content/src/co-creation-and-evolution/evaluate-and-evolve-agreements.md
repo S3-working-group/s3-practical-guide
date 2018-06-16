@@ -12,7 +12,7 @@ Continuously evolve the body of agreements, and eliminate waste:
 
 ---
 
-## Evaluate And Evolve Agreements (cont.)
+## Evaluate And Evolve Agreements (…)
 
 Evaluating agreements can be as simple as checking that it is still relevant, and there is no objection to keeping the agreement as it is.
 

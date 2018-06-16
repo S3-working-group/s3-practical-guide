@@ -8,7 +8,7 @@
 # - note: a note that will be added as a second paragraph to the glossary after the definition
 
 title: Glossary
-continued: (cont.)
+continued: (…)
 terms:
   accountability:
     name: Accountability (principle)

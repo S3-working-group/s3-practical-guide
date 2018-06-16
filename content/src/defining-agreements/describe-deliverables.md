@@ -9,7 +9,7 @@ In the context of an agreement, clearly describing deliverables supports shared 
 
 ---
 
-## Describe Deliverables (cont.)
+## Describe Deliverables (…)
 
 Explicitly defining deliverables can be useful for improving: 
 

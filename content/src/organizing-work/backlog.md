@@ -11,7 +11,7 @@ Types of backlog include:
 
 ---
 
-##  Backlog (cont.)
+##  Backlog (…)
 
 -   **Implementation**
     -   **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
@@ -19,7 +19,7 @@ Types of backlog include:
 
 ---
 
-## Backlog (cont.)
+## Backlog (…)
 
 Each item on a (prioritized) backlog contains:
 

@@ -9,7 +9,7 @@ In cases where you still think it's necessary, be accountable for the consequenc
 
 ---
 
-## Contracting And Accountability (cont.)
+## Contracting And Accountability (…)
 
 ![right,fit](img/circle/enter-leave-circle.png)
 

@@ -9,13 +9,13 @@
 
 ---
 
-## Coordination Meeting (cont.)
+## Coordination Meeting (…)
 
 ![right,fit](img/meetings/coordination-meeting.png)
 
 ---
 
-## Coordination Meeting (cont.)
+## Coordination Meeting (…)
 
 Agenda items: 
 

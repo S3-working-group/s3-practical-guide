@@ -13,7 +13,7 @@ An effective organizational structure:
 
 ---
 
-## Organizational Structure (cont.)
+## Organizational Structure (…)
 
 
 The basic building blocks for organizational structure are interdependent, connected domains.

@@ -11,7 +11,7 @@ _A **value** is a principle that guides behavior. Values define scope for action
 
 --- 
 
-## Agree On Values (cont.)
+## Agree On Values (…)
 
 -   values offer guidance to determine appropriate action, even in the absence of explicit agreements
 -   defining values is a **strategy** that supports effectiveness of an organization:

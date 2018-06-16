@@ -14,7 +14,7 @@
 
 ---
 
-## The Seven Principles (cont.)
+## The Seven Principles (…)
 
 **The Principle of Continuous Improvement:** *{{glossary:continuous-improvement}}*
 

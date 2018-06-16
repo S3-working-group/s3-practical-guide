@@ -104,7 +104,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 ---
 
-## The Seven Principles (cont.)
+## The Seven Principles (…)
 
 **The Principle of Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
 
@@ -276,7 +276,7 @@ To **discover drivers**, investigate what stimulates tension, and describe what'
 
 ---
 
-## Navigate Via Tension (cont.)
+## Navigate Via Tension (…)
 
 **All members** bring awareness to what might help or harm the organization, and respond to the drivers they discover.
 
@@ -404,7 +404,7 @@ Objections contain information that reveals **certain or likely consequence of h
 
 ---
 
-## Objection (cont.)
+## Objection (…)
 
 It's the accountability of individuals to raise potential objections. 
 
@@ -416,7 +416,7 @@ Being able to raise *potential* objections at any time means decisions only need
 Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
 
 ---
-### Objection (cont.)
+### Objection (…)
 
 When seeking out potential objections, consider:
 
@@ -426,7 +426,7 @@ When seeking out potential objections, consider:
 
 ---
 
-### Objection (cont.)
+### Objection (…)
 
 The information revealed by objections can be used to improve:
 
@@ -434,6 +434,7 @@ The information revealed by objections can be used to improve:
 -   people executing on decisions
 -   existing agreements
 -   proposals
+-   our understanding of drivers
 
 ---
 
@@ -504,7 +505,7 @@ Continuously evolve the body of agreements, and eliminate waste:
 
 ---
 
-## Evaluate And Evolve Agreements (cont.)
+## Evaluate And Evolve Agreements (…)
 
 Evaluating agreements can be as simple as checking that it is still relevant, and there is no objection to keeping the agreement as it is.
 
@@ -573,7 +574,7 @@ There are many ways a group of people can co-create proposals. Generally they fo
 
 ---
 
-## Co-Create Proposal (cont.)
+## Co-Create Proposal (…)
 
 One way to do this is S3's _Proposal Forming_ pattern. 
 
@@ -647,7 +648,7 @@ Small or large groups identify and prioritize drivers, progressing quickly from 
 
 ---
 
-## Driver Mapping (cont.)
+## Driver Mapping (…)
 
 
 ![inline,fit](img/facilitation-guides/driver-mapping-fg-print.png)
@@ -715,7 +716,7 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 ---
 
-## Peer Review (cont.)
+## Peer Review (…)
 
 
 ### Continuous improvement of people's ability to effectively fulfill roles or collaborate together in groups.
@@ -804,7 +805,7 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 ![right,fit](img/collaboration-values/values-7principles.png)
 
-## Adopt The Seven Principles (cont.)
+## Adopt The Seven Principles (…)
 
 -   align collaboration with the Seven Principles
 -   adopting the Seven Principles reduces the number of explicit agreements required, and guides adaptation of S3 patterns to suit the organization's context
@@ -826,7 +827,7 @@ _A **value** is a principle that guides behavior. Values define scope for action
 
 --- 
 
-## Agree On Values (cont.)
+## Agree On Values (…)
 
 -   values offer guidance to determine appropriate action, even in the absence of explicit agreements
 -   defining values is a **strategy** that supports effectiveness of an organization:
@@ -853,7 +854,7 @@ A governance facilitator:
 
 ---
 
-## Governance Facilitator (cont.)
+## Governance Facilitator (…)
 
 To support effective governance, the facilitator should be familiar with the following patterns:
 
@@ -891,7 +892,7 @@ In cases where you still think it's necessary, be accountable for the consequenc
 
 ---
 
-## Contracting And Accountability (cont.)
+## Contracting And Accountability (…)
 
 ![right,fit](img/circle/enter-leave-circle.png)
 
@@ -994,7 +995,7 @@ A circle:
 
 ---
 
-## Circle (cont.)
+## Circle (…)
 
 -   **semi-autonomous**
     -   a circle acts within the constraints of their domain
@@ -1019,7 +1020,7 @@ A role is a simple way for a group to delegate recurring tasks or a specific are
 
 --- 
 
-## Role (cont.)
+## Role (…)
 
 - people can be in more than one role, and roles can be fulfilled by more than one person
 - role keepers are selected by consent and for a limited term
@@ -1124,7 +1125,7 @@ Acknowledging its interdependence, an organization can consciously invite **outs
 
 ---
 
-## Open Systems (cont.)
+## Open Systems (…)
 
 -   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
 -   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)
@@ -1295,7 +1296,7 @@ _A **strategy** is a high level approach how people will create value to success
 
 ---
 
-## Strategy (cont.)
+## Strategy (…)
 
 ### Strategies are implemented and refined through experimentation and learning. 
 
@@ -1321,7 +1322,7 @@ A simple way to clarify domains is with a **domain description** that contains:
 
 ---
 
-## Clarify Domains (cont.)
+## Clarify Domains (…)
 
 Domain descriptions can be created for a role, position, circle, team, open domain, department, unit, or the whole organization.
 
@@ -1352,7 +1353,7 @@ In the context of an agreement, clearly describing deliverables supports shared 
 
 ---
 
-## Describe Deliverables (cont.)
+## Describe Deliverables (…)
 
 Explicitly defining deliverables can be useful for improving: 
 
@@ -1400,7 +1401,7 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
 
 ---
 
-### Logbook Contents (cont.)
+### Logbook Contents (…)
 
 -   Personal logbooks
     -   domain descriptions, strategies and development plans
@@ -1445,7 +1446,7 @@ A governance meeting is usually:
 
 ---
 
-## Governance Meeting (cont.)
+## Governance Meeting (…)
 
 A typical governance meeting includes: 
 
@@ -1459,7 +1460,7 @@ A typical governance meeting includes:
 
 ---
 
-## Governance Meeting (cont.)
+## Governance Meeting (…)
 
 Typical agenda items include:
 
@@ -1548,13 +1549,13 @@ People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and 
 
 ---
 
-## Coordination Meeting (cont.)
+## Coordination Meeting (…)
 
 ![right,fit](img/meetings/coordination-meeting.png)
 
 ---
 
-## Coordination Meeting (cont.)
+## Coordination Meeting (…)
 
 Agenda items: 
 
@@ -1755,7 +1756,7 @@ Types of backlog include:
 
 ---
 
-##  Backlog (cont.)
+##  Backlog (…)
 
 -   **Implementation**
     -   **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
@@ -1763,7 +1764,7 @@ Types of backlog include:
 
 ---
 
-## Backlog (cont.)
+## Backlog (…)
 
 Each item on a (prioritized) backlog contains:
 
@@ -1868,7 +1869,7 @@ A timebox is a fixed period of time spent focused on a specific activity (which 
 
 ---
 
-## Timebox Activities (cont.)
+## Timebox Activities (…)
 
 You could timebox:
 
@@ -1935,7 +1936,7 @@ An effective organizational structure:
 
 ---
 
-## Organizational Structure (cont.)
+## Organizational Structure (…)
 
 
 The basic building blocks for organizational structure are interdependent, connected domains.
@@ -2093,7 +2094,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 - Introduction:
     -   added "what's in it for me?"
@@ -2104,7 +2105,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 - _Artful Participation_: refined description
 - _Agreement_: clarified that the concept of agreements is applicable to people in roles
@@ -2117,7 +2118,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 - _Evaluate Agreements_: aligned questions to peer review
 - _Governance Backlog_: updated definition
@@ -2131,7 +2132,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 **Renamed Patterns:** 
 
@@ -2144,7 +2145,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 **Added Patterns:**
 
@@ -2201,7 +2202,7 @@ Finally to acknowledge our numerous colleagues, customers, clients and attendees
 
 ---
 
-## Acknowledgments (cont.)
+## Acknowledgments (…)
 
 By no means an exhaustive list, we’d like to offer our appreciation to the following people who directly contributed towards developing Sociocracy 3.0, or whose work influenced what it is today:
 
@@ -2273,7 +2274,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 ---
 
 
-# Glossary (cont.)
+# Glossary (…)
 
 
 **Deliverable**: A product, service, raw material, experience or transformation, provided as a result of an agreement.
@@ -2297,7 +2298,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 ---
 
 
-# Glossary (cont.)
+# Glossary (…)
 
 
 **Organizational Driver**: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
@@ -2321,7 +2322,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 ---
 
 
-# Glossary (cont.)
+# Glossary (…)
 
 
 **Tension**: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.

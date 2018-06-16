@@ -15,7 +15,7 @@ A simple way to clarify domains is with a **domain description** that contains:
 
 ---
 
-## Clarify Domains (cont.)
+## Clarify Domains (…)
 
 Domain descriptions can be created for a role, position, circle, team, open domain, department, unit, or the whole organization.
 

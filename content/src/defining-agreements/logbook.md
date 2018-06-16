@@ -20,7 +20,7 @@ Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Ma
 
 ---
 
-### Logbook Contents (cont.)
+### Logbook Contents (…)
 
 -   Personal logbooks
     -   domain descriptions, strategies and development plans

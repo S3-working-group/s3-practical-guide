@@ -13,7 +13,7 @@ A governance meeting is usually:
 
 ---
 
-## Governance Meeting (cont.)
+## Governance Meeting (…)
 
 A typical governance meeting includes: 
 
@@ -27,7 +27,7 @@ A typical governance meeting includes:
 
 ---
 
-## Governance Meeting (cont.)
+## Governance Meeting (…)
 
 Typical agenda items include:
 

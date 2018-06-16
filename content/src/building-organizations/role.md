@@ -12,7 +12,7 @@ A role is a simple way for a group to delegate recurring tasks or a specific are
 
 --- 
 
-## Role (cont.)
+## Role (…)
 
 - people can be in more than one role, and roles can be fulfilled by more than one person
 - role keepers are selected by consent and for a limited term
