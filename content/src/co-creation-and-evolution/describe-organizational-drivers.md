@@ -21,7 +21,7 @@ Depending on their perspective, a person or group may decide to describe a drive
 
 The driver statement contains just enough information to communicate the need for an action or a decision. Typically a driver statement can be summed up in one or two sentences.
 
-More information about the scope and details of the driver may be recorded besides the initial driver statement. 
+Besides the initial driver statement, more information about the scope and details of the driver may be recorded.
 
 ---
 
@@ -49,7 +49,7 @@ Describe the current situation:
 Explain the effect of this situation on the organization:
 
 - Clarify **why** the situation needs attention: how does it affect the organization? 
-- Be explicit about effects being current or anticipated. 
+- Be explicit about whether the effects are current or anticipated. 
 - Explain challenges, losses, opportunities or gains. 
 
 ---
@@ -60,10 +60,9 @@ Explain the effect of this situation on the organization:
 
 Explain the need of the organization in relation to this situation:
 
-- A **need of an organization** is anything a group (or individual) needs to effectively account for a domain. 
-- When there’s disagreement about the need(s), it’s helpful to zoom out from specific solutions.
-- Be specific on whose need it is (“we need”, “they need”, “I need”) .
-- Avoid describing specific solutions disguised as needs.
+- A **need of an organization** is anything a group (or individual) requires to effectively account for a domain. 
+- Be specific on whose need it is (“we need”, “they need”, “I need”).
+- If there’s disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
 
 ---
 
@@ -75,3 +74,17 @@ Describe the impact of attending to that need:
 
 - Explain intended outcome, potential benefits or opportunities.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
+
+---
+
+### Review Driver Statements
+
+Make sure to review driver statements on a regular basis, to deepen you understanding of what's happening and needed.
+
+Helpful questions for a review include:
+
+-   Is the description of the situation (still) correct?
+-   Do we still associate the same needs with the situation?
+-   Is the driver still within our domain?
+-   Is the driver still relevant?
+

@@ -12,15 +12,13 @@
 
 ---
 
-## Governance vs. Operations
-
-Tracking, reviewing and evolving decisions made to achieve objectives enables an organization to continuously learn and improve.
+## Governance or Operations?
 
 _Does it require or benefit from an individual or group decision?_
 
 -   yes: governance
-    -   not covered by a previous agreement
-    -   needs to be agreed, decided or amended
+    -   it's not covered by a previous agreement
+    -   it's needs to be agreed, decided or amended
 -   no: operations
-    -   covered by previous agreement (those accountable are free to act)
-    -   needs to be done
+    -   it's covered by previous agreement (those accountable are free to act)
+    -   it needs to be done

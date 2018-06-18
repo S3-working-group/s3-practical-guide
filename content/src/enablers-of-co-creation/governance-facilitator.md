@@ -15,10 +15,10 @@ A governance facilitator:
 
 To support effective governance, the facilitator should be familiar with the following patterns:
 
--   rounds
--   proposal forming
--   consent decision making
--   role selection
--   evaluate meetings
--   resolve objections
--   peer reviews
+-   _Rounds_
+-   _Proposal Forming_
+-   _Consent Decision Making_
+-   _Role Selection_
+-   _Evaluate Meetings_
+-   _Resolve Objections_
+-   _Peer Review_

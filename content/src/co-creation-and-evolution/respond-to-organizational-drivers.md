@@ -20,15 +20,4 @@ The response to an organizational driver is typically treated as an experiment t
 
 A simple way to qualify whether or not a driver falls within an organization's domain is by checking:
 
-_Would it help the organization if we respond to this situation / driver? or would it harm us if we don't?_
-
----
-
-### Review of Drivers
-
-It's also important to review the driver. Helpful questions for a review include:
-
-Is the description of the situation still correct?
-Do we still associate the same needs with the situation?
-Is the driver still within our domain?
-Is the driver still relevant?
+_Would it help the organization if we respond to this driver? Or would it harm us if we don't?_

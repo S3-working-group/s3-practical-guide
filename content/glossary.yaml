@@ -113,11 +113,11 @@ terms:
   need:
     name: Need
     definition:
-    glossary: A need is a lack of something wanted or deemed necessary.
+    glossary: A need is a lack of something wanted or deemed necessary (a requirement).
   operations:
     name: Operations
     definition:
-    glossary: The work being done to create and deliver value, guided by governance 
+    glossary: The work being done to create and deliver value, guided by governance.
   objection:
     name: Objection
     definition: An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (or objective). 
@@ -141,7 +141,7 @@ terms:
   primary-driver:
     name: Primary Driver
     definition:
-    glossary: The primary driver for a domain is the main driver that people who account for that domain respond to,
+    glossary: The primary driver for a domain is the main driver that people who account for that domain respond to.
   principle:
     name: Principle
     definition: A **principle** is a basic idea or rule that explains, guides or controls how something happens or works.

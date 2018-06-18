@@ -25,8 +25,7 @@ Those delegating a domain (the _delegators_) still retain overall accountability
 
 It's also possible to understand a domain in relation to organizational drivers:
 
--   the domain's **primary driver** - the main driver the people accounting for that domain respond to
+-   the domain's **primary driver** - the main driver the people accounting for that domain (the _delegatees_) respond to
 -   the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include :
     -   **key responsibilities** (any driver following directly from the domain's primary driver)
     -   drivers for **constraints** (which typically relate to the organization's wider context)
-

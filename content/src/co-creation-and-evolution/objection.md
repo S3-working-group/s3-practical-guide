@@ -22,9 +22,9 @@ Those accountable for the action or (proposed) agreement in question, are respon
 
 When seeking out potential objections, consider:
 
-- **effectiveness**: Why the intended outcome would not (or only partially) be achieved.
-- **efficiency**: Why it would be wasteful to proceed as proposed (or previously agreed).
-- **side-effects**: The negative consequences something would have elsewhere (in the same domain, or in the wider organization, or beyond).
+- why the intended outcome would not be (fully) achieved: **effectiveness**
+- why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
+- the negative consequences something would have elsewhere (in the same domain, or in the wider organization, or beyond): **side-effects**
 
 ---
 
@@ -33,22 +33,22 @@ When seeking out potential objections, consider:
 The information revealed by objections can be used to improve:
 
 -   current and planned action
--   people executing on decisions
+-   how people execute on decisions
 -   existing agreements
 -   proposals
--   our understanding of drivers
+-   shared understanding of drivers
 
 ---
 
 ## Qualify Objections
 
-Some arguments raised are not in fact objections. Distinguish between objections, which always reveal useful information, and other arguments only based on opinion, preference or concerns.
+Some arguments raised are not in fact objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on opinion, preference or concern.
 
-To find out whether an argument qualifies as an objection, a facilitator might ask the group:
+To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
 
 _“Do you think this argument qualifies as an objection?”_
 
-If nobody disagrees with the argument, an objection typically qualifies, otherwise aim to discover the actual objection or to reveal the misconception.
+If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
 
 ---
 
@@ -70,8 +70,8 @@ Some helpful questions:
 
 {{define:concern}}
 
-In consent decision making, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
+In _Consent Decision Making_, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
 
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
-If you are in doubt whether you have an objection or a concern, raise it as a potential objection it it qualifies as an objection.
+If you are in doubt whether you have an objection or a concern, raise it with others to check if they think it qualifies as an objection.
