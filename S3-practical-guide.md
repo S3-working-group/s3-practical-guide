@@ -177,7 +177,7 @@ Those delegating a domain (the _delegators_) still retain overall accountability
 
 ## Drivers and Domains
 
-![right,fit](img/driver-domain/domain-primay-sub.png)
+![right,fit](img/driver-domain/drivers-and-domains.png)
 
 It's also possible to understand a domain in relation to organizational drivers:
 
@@ -280,12 +280,11 @@ To **discover drivers**, investigate what stimulates tension, and describe what'
 
 **All members** bring awareness to what might help or harm the organization, and respond to the drivers they discover.
 
-
 Awareness of **organizational drivers** can be passed to an appropriate domain to be addressed.
 
 ---
 
-![inline,fit](img/process/navigate-via-tension-slides.png)
+![inline,fit](img/process/navigate-describe-respond.png)
 
 
 
@@ -306,7 +305,7 @@ A simple way to describe a driver is with a **brief statement** explaining:
 
 ---
 
-# Describe Organizational Drivers (2)
+# Describe Organizational Drivers (…)
 
 Depending on their perspective, a person or group may decide to describe a driver as a problem to solve or an opportunity to leverage. 
 
@@ -374,7 +373,7 @@ Describe the impact of attending to that need:
 
 ## Pattern 1.4: Consent Decision Making
 
-![right,fit](img/agreements/cdm-condensed.png)
+![right,fit](img/agreements/consent-decision-making.png)
 
 **A (facilitated) group process for decision making.**
 
@@ -586,7 +585,7 @@ Besides a face-to-face workshop, you can adapt this process for online meetings 
 
 ## Pattern 1.10: Proposal Forming
 
-![right,fit](img/agreements/proposal-forming-medium.png)
+![right,fit](img/agreements/proposal-forming.png)
 
 **A (facilitated) group process for co-creating a response to a driver.**
 
@@ -1189,7 +1188,7 @@ Avoid resistance:
 -   be transparent about the reason for the change
 -   clarify expectations and constraints
 -   avoid coercion or manipulation
--   acknowledge scepticism and doubts
+-   acknowledge skepticism and doubts
 -   include people in regular evaluation and evolution
 
 
@@ -2345,4 +2344,4 @@ Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree O
 
 Patterns (cont.) | Patterns (cont.)
 --- | ---
-Intended Outcome - 6.4<br\>Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.6<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open Systems - 4.9<br\>Open-Space For Change - 5.5<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prepare For Meetings - 8.3<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.10<br\>Pull-System For Work - 9.4 | Representative - 4.6<br\>Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1<br\>Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.11<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Timebox Activities - 9.6<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3
+Intended Outcome - 6.4<br\>Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.6<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open Space For Change - 5.5<br\>Open Systems - 4.9<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prepare For Meetings - 8.3<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.10<br\>Pull-System For Work - 9.4 | Representative - 4.6<br\>Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1<br\>Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.11<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Timebox Activities - 9.6<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3
