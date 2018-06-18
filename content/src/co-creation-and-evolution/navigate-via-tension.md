@@ -18,5 +18,5 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 ---
 
-![inline,fit](img/process/navigate-via-tension-slides.png)
+![inline,fit](img/process/navigate-describe-respond.png)
 

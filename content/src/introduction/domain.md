@@ -21,7 +21,7 @@ Those delegating a domain (the _delegators_) still retain overall accountability
 
 ## Drivers and Domains
 
-![right,fit](img/driver-domain/domain-primay-sub.png)
+![right,fit](img/driver-domain/drivers-and-domains.png)
 
 It's also possible to understand a domain in relation to organizational drivers:
 

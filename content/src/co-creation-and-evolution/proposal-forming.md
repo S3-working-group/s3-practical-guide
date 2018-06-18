@@ -1,6 +1,6 @@
 ## Proposal Forming
 
-![right,fit](img/agreements/proposal-forming-medium.png)
+![right,fit](img/agreements/proposal-forming.png)
 
 **A (facilitated) group process for co-creating a response to a driver.**
 
