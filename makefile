@@ -119,6 +119,10 @@ single:
 	# transclude all to one file 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
 
+gitbook:
+	mdslides build gitbook $(CONFIG) $(SOURCE) gitbook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX)
+ 	
+
 update:
 	$(update-make-conf)
 
@@ -137,6 +141,7 @@ setup:
 	-mkdir -p $(TMPFOLDER)/ebook
 	-mkdir -p $(TMPFOLDER)/web-out
 	-mkdir docs/_site
+	-mkdir gitbook
 ifeq ("$(wildcard $(TMPFOLDER)/ebook/img)","")
 	cd $(TMPFOLDER)/ebook; ln -s ../../img
 endif 
@@ -145,3 +150,7 @@ ifneq ("$(wildcard docs/img)","")
 	rm -r docs/img
 endif
 	cp -r img docs/img
+ifneq ("$(wildcard gitbook/img)","")
+	rm -r gitbook/img
+endif
+	cp -r img gitbook/img
