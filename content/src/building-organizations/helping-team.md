@@ -2,7 +2,7 @@
 
 ![right,fit](img/structural-patterns/helping-team.png)
 
-A group of people with the mandate to execute on a specific set of requirements defined by a delegator.
+An equivalent group of people with the mandate to execute on a specific set of requirements defined by a delegator.
 
 A helping team: 
 

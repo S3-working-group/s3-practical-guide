@@ -149,7 +149,7 @@ terms:
   role:
     name: Role
     definition:
-    glossary: An area of accountability defined by a domain and assigned to an individual.
+    glossary: A domain that is delegated to an individual.
   scm:
     name: SCM
     glossary: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.

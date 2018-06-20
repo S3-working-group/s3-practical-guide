@@ -6,10 +6,12 @@
  
 The delegator of the open domain clarifies:
  
-- primary driver, key responsibilities and constraints of the open domain
+- the primary driver, key responsibilities and constraints of the open domain
 - who is invited to contribute to the open domain
 - constraints relating to the delegator’s participation in the open domain’s governance
- 
-The delegator of the open domain is accountable for ensuring regular review of the open domain.
 
-Depending on the constraints set by delegators, contributors may only organize and do work, or take part in governance as well.
+Depending on the constraints set by the delegator, contributors may only organize and do work, or take part in governance as well.
+
+A delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making done in an open domain. 
+
+

@@ -4,7 +4,7 @@
 
 **Delegate accountability for a domain to individuals.**
 
-A role is an area of accountability defined by a domain and assigned to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
+A role is an area of accountability (a domain) that is delegated to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
 The role keeper leads in creating a strategy for how to account for their domain, and evolves their strategy in collaboration with the delegator.
 
@@ -22,8 +22,3 @@ A role keeper may maintain a logbook and a governance backlog to evolve their ap
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
 
----
-
-### Role: one way to account for a domain
-
-![inline,fit](img/evolution/driver-role-selection-development.png)
