@@ -21,7 +21,16 @@ Depending on their perspective, a person or group may decide to describe a drive
 
 The driver statement contains just enough information to communicate the need for an action or a decision. Typically a driver statement can be summed up in one or two sentences.
 
-Besides the initial driver statement, more information about the scope and details of the driver may be recorded.
+In addition to the brief driver statement, more information about the scope and details of the driver may be recorded in the logbook.
+
+
+---
+
+# [fit]Insert
+# [fit] Illustration Here
+
+![]()
+
 
 ---
 
