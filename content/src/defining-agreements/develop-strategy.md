@@ -11,7 +11,7 @@
 
 ---
 
-## Strategy (…)
+## Develop Strategy (…)
 
 ### Strategies are implemented and refined through experimentation and learning. 
 

@@ -2,7 +2,6 @@
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
-
 **Delegate decisions on how to respond to drivers affecting multiple domains, to representatives.**
 
 To make governance decisions on their behalf, stakeholders send representatives to form a delegate circle.

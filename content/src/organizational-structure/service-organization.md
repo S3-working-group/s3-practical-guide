@@ -9,4 +9,4 @@
 -   supports multi-agency collaboration between departments/organizations with different primary motives, or that are in conflict
 -   suitable for one-off projects, or ongoing collaboration
 
-**Note:** a service organization is often referred to as a **backbone organization**.
+**Note:** a service organization is sometimes referred to as a **backbone organization**.

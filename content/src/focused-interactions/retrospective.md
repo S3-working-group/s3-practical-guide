@@ -1,6 +1,6 @@
 ## Retrospective
 
-Building in continuous improvement of work process through reflection and learning from past experience.
+**Building in continuous improvement of work process through reflection and learning from past experience.**
 
 -   output: changes to work process, new tasks, on-the-fly agreements, and drivers requiring an agreement
 -   facilitated meeting (~1hr)

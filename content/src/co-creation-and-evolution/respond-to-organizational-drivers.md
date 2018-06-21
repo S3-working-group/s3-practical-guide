@@ -2,7 +2,7 @@
 
 ![right,fit](img/driver-domain/driver-response-full.png)
 
-_Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required._
+**Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.**
 
 Responses to organizational drivers include:
 

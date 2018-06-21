@@ -15,7 +15,7 @@
 
 ![right,fit](img/workflow-and-value/drivers-value-waste.png)
 
-**Waste** _is anything not necessary for - or standing in the way of - effective response to a driver._
+{{define:waste}}
 
 -   waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
 -   establishing a process for ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness

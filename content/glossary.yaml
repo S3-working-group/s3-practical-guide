@@ -103,6 +103,10 @@ terms:
     name: Governance Backlog
     definition: A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
     glossary: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
+  intended-outcome:
+    name: Intended Outcome
+    definition: 
+    glossary: The expected result of an agreement, action, project or strategy.
   key-responsibilities:
     name: Key responsibilities
     glossary: Essential work and decision making required in the context of a domain.
@@ -206,6 +210,6 @@ terms:
     glossary: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver. 
   waste:
     name: Waste
-    definition: "**Waste** is anything not necessary for - or standing in the way of - effective response of a driver."
-    glossary: Anything not necessary for - or standing in the way of - effective response of a driver.
+    definition: **Waste** is anything not necessary for — or standing in the way of — effective response of a driver.
+    glossary: Anything not necessary for — or standing in the way of — effective response of a driver.
 

@@ -4,7 +4,7 @@
 
 **Support each other to learn and grow in the roles and groups you serve in.**
 
-The role keeper - or group - leads the peer review by setting up the process and speaking first in each step.
+The role keeper — or group — leads the peer review by setting up the process and speaking first in each step.
 
 Ensure to invite people with complementing perspectives to contribute to the review, and a facilitator.
 

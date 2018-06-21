@@ -1,6 +1,6 @@
 ## Transparent Salary
 
-Create a fair salary formula and make it transparent.
+**Create a fair salary formula and make it transparent.**
 
 Transparent salaries need to be fair, but perception of fairness varies from person to person and is also specific to an organization's context.
 

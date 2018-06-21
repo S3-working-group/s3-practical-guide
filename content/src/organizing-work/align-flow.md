@@ -2,7 +2,7 @@
 
 ![right,fit](img/workflow-and-value/align-flow.png)
 
-In an effective organization, **flow of information and influence supports the continuous flow of value*.
+In an effective organization, **flow of information and influence supports the continuous flow of value**.
 
 Alignment is achieved and maintained through the continuous improvement of agreements.
 
