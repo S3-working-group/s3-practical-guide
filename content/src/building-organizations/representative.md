@@ -1,5 +1,7 @@
 ## Representative (role)
 
+**Select a group member to participate in the governance decision making of another group to enable the flow of information and influence.**
+
 Representatives (a.k.a. links):
 
 -   stand for the interests of one group in another group

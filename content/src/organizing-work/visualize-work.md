@@ -2,7 +2,7 @@
 
 ![right,fit](img/workflow-and-value/simple-process.png)
 
-Transparency about the state of all work items currently pending, in progress or completed.
+**Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.**
 
 -   valuable for self-organization and pull-systems
 -   system must be accessible to everyone affected

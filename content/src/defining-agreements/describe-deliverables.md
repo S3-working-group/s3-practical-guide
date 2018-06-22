@@ -1,8 +1,10 @@
 ## Describe Deliverables
 
+**Clearly describe deliverables in the context of an agreement to support shared understanding of expectations.**
+
 {{define:deliverable}}
 
-In the context of an agreement, clearly describing deliverables supports shared understanding:
+When describing deliverables:
 
 -   include the necessary amount of detail
 -   reference other documents when helpful or necessary

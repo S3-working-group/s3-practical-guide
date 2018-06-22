@@ -1,5 +1,7 @@
 ## Logbook Keeper (Role)
 
+**Select a member of your group to be specifically accountable for keeping up to date records of all information the group requires.**
+
 The logbook keeper is accountable for maintaining a circle's logbook by: 
 
 -   recording details of agreements, domain descriptions, selections, evaluation dates, minutes of meetings etc.

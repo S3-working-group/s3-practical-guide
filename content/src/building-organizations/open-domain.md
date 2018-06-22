@@ -2,7 +2,7 @@
 
 ![right,fit](img/structural-patterns/open-domain.png)
 
-**A way to intentionally account for a domain by invitation rather than assignment.**
+**Intentionally account for a domain by invitation rather than assignment and request those invited to contribute when they can.**
  
 The delegator of the open domain clarifies:
  
