@@ -26,11 +26,7 @@ In addition to the brief driver statement, more information about the scope and 
 
 ---
 
-# [fit]Insert
-# [fit] Illustration Here
-
-![]()
-
+![inline,fit](img/process/describe-organizational-drivers.png)
 
 ---
 
