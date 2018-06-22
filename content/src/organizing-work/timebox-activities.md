@@ -17,7 +17,7 @@ A timebox is a fixed period of time spent focused on a specific activity (which 
 
 You could timebox:
 
-- meetings, calls, discussions
+- meetings, calls, dialogue
 - tasks
 - experiments
 - an attempt to solve a problem

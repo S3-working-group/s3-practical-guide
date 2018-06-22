@@ -23,7 +23,6 @@ The driver statement contains just enough information to communicate the need fo
 
 In addition to the brief driver statement, more information about the scope and details of the driver may be recorded in the logbook.
 
-
 ---
 
 ![inline,fit](img/process/describe-organizational-drivers.png)

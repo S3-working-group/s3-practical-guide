@@ -4,8 +4,7 @@
 
 Change things when there is value in doing so:
 
--   bring in patterns that solve current and important problems
-  * don't break what's already working!
-  * meet everyone where they are…
-  * …and let them choose their own pace
--   consider making all change voluntary!
+-   bring in patterns that help to solve current and important problems
+-   don't break what's already working!
+-   meet everyone where they are…
+-   …and let them choose their own pace

@@ -13,10 +13,10 @@ When describing deliverables:
 
 ## Describe Deliverables (…)
 
-Explicitly defining deliverables can be useful for improving: 
+Explicitly describing deliverables can be useful for improving: 
 
 -   organizational strategy
--   circle strategy
+-   the strategy of groups or individuals
 -   development plans
 -   domain descriptions
 -   any other agreement (e.g. business goals, process policy, customer communication)

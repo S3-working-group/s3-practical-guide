@@ -2,19 +2,20 @@
 
 **Prepare in advance to make meetings more effective.**
 
-Organizing the meeting:
+Some considerations for successfully preparing a meeting:
 
 - clarify and communicate the driver for, and intended outcome of the meeting
 - decide who to invite 
+- create and agenda
 - schedule the meeting enough in advance, so people have time to prepare
 - choose an appropriate duration for the meeting 
-- be clear who will facilitate the meeting, who will take minutes and who will take care of the follow-up
+- be clear who will facilitate the meeting, who will take minutes and who will take care of any follow-up
 
 ---
 
-## Prepare the Agenda
+## Preparing an Agenda
 
-Involve people in preparing and prioritizing the agenda and send it out in advance
+Involve people in preparing and prioritizing and agenda and send it out in advance
 
 For each agenda item agree on:
 
@@ -37,7 +38,7 @@ For each agenda item agree on:
 
 ## As a participant
 
-- consider _Artful Participation_ pattern
+- consider the pattern _Artful Participation_
 - review the agenda and consider how you can contribute to each item
-- bring up objections to the agenda before the meeting
-- review improvement suggestions from the last meeting's evaluation
+- bring up objections to an agenda, and if possible resolve them before the meeting
+- review improvement suggestions from the last meeting's evaluation and conder how **you** might act on them

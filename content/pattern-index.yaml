@@ -86,6 +86,10 @@ patterns:
   name: Clarify Domains
   path: clarify-domains.md
   pid: 3
+- gid: 6
+  name: Clarify Intended Outcome
+  path: clarify-intended-outcome.md
+  pid: 4
 - gid: 1
   name: Co-Create Proposals
   path: co-create-proposals.md
@@ -190,10 +194,6 @@ patterns:
   name: Helping Team
   path: helping-team.md
   pid: 7
-- gid: 6
-  name: Intended Outcome
-  path: intended-outcome.md
-  pid: 4
 - gid: 5
   name: Invite Change
   path: invite-change.md

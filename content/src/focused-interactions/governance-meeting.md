@@ -9,7 +9,7 @@ A governance meeting is usually:
 -   facilitated 
 -   prepared in advance 
 -   time-boxed for a duration of 90-120 minutes
--   scheduled every 4 weeks
+-   scheduled every 2-4 weeks
 
 ---
 
@@ -17,13 +17,14 @@ A governance meeting is usually:
 
 A typical governance meeting includes: 
 
--   opening round: attune with each other and to the driver (or objectives) of the group
+-   opening: check in with each other and attune to the driver (or objectives) of the meeting
 -   administrative matters 
-    -   consent to last minutes, date for next meeting, etc.
-    -   check for last-minute agenda items and consent to agenda
+    -   check for consent to the last meeting's minutes
+    -   agree on a date for the next meeting
+    -   check for any last-minute agenda items and for consent to the agenda
 -   agenda items 
 -   meeting evaluation: reflect on your interactions, celebrate successes and share suggestions for improvement
--   closing
+-   closing: check in to learn how people leave the meeting
 
 ---
 

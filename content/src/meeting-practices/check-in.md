@@ -10,4 +10,4 @@ You can also call for a group check-in during a meeting, or even choose to indiv
 
 In a group check-in, allow people to pass if they choose. 
 
-When checking in, in a new setting, people also say their name and where they are coming from, as a way to introduce themselves. (Tip: Avoid talking about function, rank etc unless there is a reason to do so.)
+When checking in, in a new setting, people can also say their name and where they are coming from, as a way to introduce themselves. (Tip: Avoid talking about function, rank etc unless there is a reason to do so.)

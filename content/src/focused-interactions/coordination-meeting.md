@@ -13,10 +13,6 @@
 
 ![right,fit](img/meetings/coordination-meeting.png)
 
----
-
-## Coordination Meeting (…)
-
 Agenda items: 
 
 - cross domain synchronization and alignment

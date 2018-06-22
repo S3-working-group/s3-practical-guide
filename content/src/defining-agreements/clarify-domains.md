@@ -19,6 +19,4 @@ A simple way to clarify domains is with a **domain description** that contains:
 
 Domain descriptions can be created for a role, position, circle, team, open domain, department, unit, or the whole organization.
 
-You can either start by clarifying existing domains, or at least clarify new ones.
-
-One way of clarifying a domain is by filling out a [S3 Delegation Canvas](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html).
+One way of clarifying a domain is by filling out an [S3 Delegation Canvas](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html).
