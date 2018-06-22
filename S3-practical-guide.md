@@ -809,7 +809,7 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 -   align collaboration with the Seven Principles
 -   adopting the Seven Principles reduces the number of explicit agreements required, and guides adaptation of S3 patterns to suit the organization's context
--   an organization's values need to embrace the Seven Priniples
+-   an organization's values need to embrace the Seven Principles
 
 
 ---
@@ -1194,7 +1194,7 @@ When making the invitation:
 -   avoid coercion or manipulation
 -   acknowledge any skepticism and doubts
 
-Include the people inolved and affected in regular evaluation outcomes.
+Include the people involved and affected in regular evaluation outcomes.
 
 
 ---
@@ -1339,7 +1339,7 @@ One way of clarifying a domain is by filling out an [S3 Delegation Canvas](http:
 
 ![right,fit](img/templates/outcome-and-criteria.png)
 
-**Be expicit about the expected results of agreements, actions, projects and strategies.**
+**Be explicit about the expected results of agreements, actions, projects and strategies.**
 
 Agree on and record a concise description of the intended outcome. 
 
@@ -1378,7 +1378,7 @@ Explicitly describing deliverables can be useful for improving:
 
 **Develop well-defined evaluation criteria to determine whether or not an agreement has had the desired effect.**
 
--   go for **simple and unambiguous** criteria and document them (to avoid discussion or unneccesary dialog when reviewing your agreements)
+-   go for **simple and unambiguous** criteria and document them (to avoid discussion or unnecessary dialog when reviewing your agreements)
 -   define **actionable metrics** to continuously track effects and spot deviations from intended outcome
 -   consider explicitly adding criteria which make it clear when an agreement would be considered **not successful**
 -   when you review an agreement, consider **evolving the evaluation criteria** based on what you learned
@@ -1487,7 +1487,7 @@ Typical agenda items include:
 
 ## Pattern 7.2: Retrospective
 
-**Dedicate time to reflect on past experience, learn, and decide how to improve work proceess.**
+**Dedicate time to reflect on past experience, learn, and decide how to improve work process.**
 
 -   output: changes to work process, new tasks, on-the-fly agreements, and drivers requiring an agreement
 -   facilitated meeting (~1hr)
@@ -1644,7 +1644,7 @@ For each agenda item agree on:
 - consider the pattern _Artful Participation_
 - review the agenda and consider how you can contribute to each item
 - bring up objections to an agenda, and if possible resolve them before the meeting
-- review improvement suggestions from the last meeting's evaluation and conder how **you** might act on them
+- review improvement suggestions from the last meeting's evaluation and consider how **you** might act on them
 
 
 ---

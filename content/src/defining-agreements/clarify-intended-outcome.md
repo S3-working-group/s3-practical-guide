@@ -2,7 +2,7 @@
 
 ![right,fit](img/templates/outcome-and-criteria.png)
 
-**Be expicit about the expected results of agreements, actions, projects and strategies.**
+**Be explicit about the expected results of agreements, actions, projects and strategies.**
 
 Agree on and record a concise description of the intended outcome. 
 

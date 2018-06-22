@@ -41,4 +41,4 @@ For each agenda item agree on:
 - consider the pattern _Artful Participation_
 - review the agenda and consider how you can contribute to each item
 - bring up objections to an agenda, and if possible resolve them before the meeting
-- review improvement suggestions from the last meeting's evaluation and conder how **you** might act on them
+- review improvement suggestions from the last meeting's evaluation and consider how **you** might act on them
