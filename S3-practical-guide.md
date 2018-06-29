@@ -19,7 +19,7 @@ theme: Plain Jane, 1
 
 ### Effective Collaboration At Any Scale
 
--   **principles-based**: A coherent way for growing organizational integrity and developing a sociocractic and agile mindset
+-   **principles-based**: a coherent way for growing organizational integrity and developing a sociocractic and agile mindset
 -   **flexible**: adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
 -   **free**: licensed under a Creative Commons Free Culture License
 
@@ -68,7 +68,7 @@ Before diving into the content, consider taking time to learn about some basic c
 - the seven principles
 - drivers, value and waste
 - domains, delegation and accountability
-- governance, self-organization, and semi-autonomy
+- governance, self-organization and semi-autonomy
 
 For any terms you don't understand check out the glossary at the end.
 
@@ -96,7 +96,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 ## The Seven Principles
 
-**The Principle of Effectiveness:** *Devote time only to what brings you closer towards achieving your objectives.*
+**The Principle of Effectiveness:** *Devote time only to what brings you closer toward achieving your objectives.*
 
 **The Principle of Consent:** *Raise, seek out and resolve objections to decisions and actions.*
 
@@ -120,10 +120,13 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 *Respond when something is needed, do what you agreed to and take ownership for the course of the organization.*
 
--   accountability applies to all agreements, including the organization itself, circles, and roles
--   everyone's primary accountability is for effective collaboration in response to organizational drivers
--   individuals and groups are accountable for their work, ongoing learning and development, with the organization providing necessary support
--   everyone in an organization is accountable for aligning action with organizational values
+Accountability applies to all agreements, including the organization itself, circles, and roles.
+
+Everyone's primary accountability is for effective collaboration in response to organizational drivers.
+
+Individuals and groups are accountable for their work, ongoing learning and development, with the organization providing necessary support.
+
+Everyone in an organization is accountable for aligning action with organizational values.
  
 
 ---
@@ -171,7 +174,7 @@ Domains are delegated to people (e.g. to a unit, department, team or individuals
 Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
 
 -   **key responsibilities** (any essential work and decision making being delegated)
--   **constraints to autonomy and influence** for those the domain is delegated to, usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
+-   **constraints to the autonomy and influence** for those the domain is delegated to (the _delegatees_), usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
 
 ---
 
@@ -199,7 +202,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 **Operations** (Doing the Work): The work being done to create and deliver value, guided by governance.
 
-**Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of delegator(s) and representatives), and by objections from others.
+**Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
 
 ---
 
@@ -209,10 +212,11 @@ _Does it require or benefit from an individual or group decision?_
 
 -   yes: governance
     -   it's not covered by a previous agreement
-    -   it's needs to be agreed, decided or amended
+    -   it needs to be agreed, decided or amended
 -   no: operations
     -   it's covered by previous agreement (those accountable are free to act)
     -   it needs to be done
+
 
 ---
 
@@ -262,16 +266,7 @@ To **discover drivers**, investigate what stimulates tension, and describe what'
 
 ---
 
-## Navigate Via Tension (…)
-
-**All members** bring awareness to what might help or harm the organization, and respond to the drivers they discover.
-
-Awareness of **organizational drivers** can be passed to an appropriate domain to be addressed.
-
----
-
 ![inline,fit](img/process/navigate-describe-respond.png)
-
 
 
 ---
@@ -320,7 +315,7 @@ In addition to the brief driver statement, more information about the scope and 
 Describe the current situation:
 
 - Briefly capture the essentials of what is happening.
-- Be objective: Describe observations and avoid evaluation.
+- Be objective - describe observations and avoid evaluation.
 
 ---
 
@@ -378,7 +373,7 @@ Helpful questions for a review include:
 
 ![right,fit](img/agreements/consent-decision-making.png)
 
-**A (facilitated) group process for decision making: Invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
+**A (facilitated) group process for decision making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
 
 Proposals become agreements when they are considered _good enough for now and safe enough to try_ until the next review.
 
@@ -398,7 +393,7 @@ Withholding objections can harm the objectives of a group or organization.
 
 ## Pattern 1.5: Objection
 
-_An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (or objective)._
+_An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organziational requirement)._
 
 Objections contain information that reveals **certain or likely consequence of harm** and/or **opportunities to immediately improve** proposals, decisions, existing agreements or actions. 
 
@@ -440,7 +435,7 @@ The information revealed by objections can be used to improve:
 
 ## Qualify Objections
 
-Some arguments raised are not in fact objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on opinion, preference or concern.
+Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on opinion, preference or concern.
 
 To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
 
@@ -472,7 +467,7 @@ In _Consent Decision Making_, concerns can inform ways to further evolve agreeme
 
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
-If you are in doubt whether you have an objection or a concern, raise it with others to check if they think it qualifies as an objection.
+If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
 
 
 ---
@@ -565,17 +560,20 @@ There are many ways a group of people can co-create proposals. Generally they fo
 1. Agree on the driver (or problem / opportunity)
 2. Explore the topic and understand constraints
 3. Generate ideas
-4. Create the proposal (often done by a smaller group)
+4. Design a proposal (often done by a smaller group)
 
 ---
 
 ## Co-Create Proposal (…)
+
+![right,fit](img/templates/proposal-template.png)
 
 One way to do this is S3's _Proposal Forming_ pattern. 
 
 For inspiration for steps 2 and 3, look to classic group facilitation techniques or design thinking activities.
 
 Besides in a face-to-face workshop, you can adapt this process for online meetings. You can even use it asynchronously (and over an extended period of time) to include many people.
+
 
 ---
 
@@ -1764,7 +1762,7 @@ Types of backlogs include:
 **Implementation:**
 
 -   **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
--   **digital backlog**: e.g. Google Sheets, Trello, Kanban Flow, Jira, Asana
+-   **digital backlog**: e.g. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
 ---
 
@@ -1803,7 +1801,7 @@ A prioritized backlog helps to **maintain focus** on the most important items.
 -   valuable for self-organization and pull-systems
 -   system must be accessible to everyone affected
 -   **analog**: post-its on a wall, or index cards, magnets and white board
--   **digital**: Trello, Kanbanery, Leankit, Jira, Google Sheets, etc.
+-   **digital**: [Trello](https://trello.com/, [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
 ---
 
@@ -1819,11 +1817,6 @@ A prioritized backlog helps to **maintain focus** on the most important items.
 -   who is working on which items
 -   agreements and expectations guiding workflow (e.g. definition of done, policy, quality standards)
 -   use colors, symbols, highlights etc.
-
-
-
-
-
 
 
 ---
@@ -1899,9 +1892,9 @@ Alignment is achieved and maintained through the continuous improvement of agree
 
 Flow of value is guided by (explicit and implicit) agreements and assumptions.
 
-Continuous flow of value reduces the potential for accumulation of waste, and also makes for shorter feedback loops and amplifies learning.
+Continuous flow of value reduces the potential for accumulation of waste, and amplifies learning by shortening feedback loops.
 
-(Work in progress is regarded as waste because it ties up resources)
+**Note:** Work in progress is regarded as waste because it ties up resources.
 
 ---
 
@@ -1909,9 +1902,11 @@ Continuous flow of value reduces the potential for accumulation of waste, and al
 
 A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
 
--   the coordinator may be selected by the group itself, or by the delegator
--   several coordinators may collaborate to synchronize work across multiple domains
--   instead of selecting a coordinator, a group may choose to self-organize
+The coordinator may be selected by the group itself, or by the delegator.
+
+Several coordinators may collaborate to synchronize work across multiple domains.
+
+Instead of selecting a coordinator, a group may choose to self-organize.
 
 ---
 
@@ -1926,19 +1921,16 @@ A person fulfilling the role of a coordinator is accountable for **coordinating 
 
 Organizational structure is the actual arrangement of domains and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
 
-An effective organizational structure:
+Continuously evolve your organization's structure to:
 
--   supports flow of value
--   enables collaboration
--   addresses dependencies and makes them explicit
--   ensures information is available to those who need it
--   distributes power to influence as required
--   evolves continuously to adapt to changing context
+-   support the continuous flow of value
+-   enable effective collaboration around dependencies
+-   ensure information is available to those who need it
+-   distribute power to influence as required
 
 ---
 
 ## Organizational Structure (…)
-
 
 The basic building blocks for organizational structure are interdependent, connected domains.
 
@@ -1973,13 +1965,13 @@ A service circle can be populated by members of the domains it serves, and/or by
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
-**Delegate decisions on how to respond to drivers affecting multiple domains, to representatives.**
+**Delegate decision making for how to respond to drivers affecting multiple domains, to representatives.**
 
 To make governance decisions on their behalf, stakeholders send representatives to form a delegate circle.
 
 Governance decisions made in a delegate circle are acted upon in the various domains it serves.
 
-Delegate circles provide a way of steering organizations in alignment to the flow of value, and bring a diversity of perspective to governance decisions.
+Delegate circles provide a way of steering organizations in alignment with the flow of value, and bring a diversity of perspectives to governance decision making.
 
 A delegate circle may bring in other people (e.g. external experts) to help with specific decisions, or even as a  member of the circle.
 
@@ -1992,10 +1984,14 @@ A delegate circle may bring in other people (e.g. external experts) to help with
 
 **Deliver value in complex and competitive environments through _decentralization_ (of resources and influence) and _direct interaction_ between those creating value and the customers they serve.**
 
--   circles on the periphery deliver value in direct exchange with the outside world (customers, partners, communities, municipalities etc.) 
--   the center provides internal services to support the organization
--   periphery stewards the monetary resources and steers the organization
--   link domains as required to flow information and influence and address dependencies
+Groups in the periphery:
+
+-   deliver value in direct exchange with the outside world (customers, partners, communities, municipalities etc.) 
+-   steward the monetary resources and steer the organization
+
+The center provides internal services to support the organization.
+
+Domains are linked as required to flow information and influence, and to support collaboration around dependencies.
 
 
 ---
@@ -2055,6 +2051,99 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ## Changelog
 
+### Changes 2018-06-22
+
+**General Changes**
+- added and revised the brief summary for many of the patterns
+- removed bullet points in favor of full sentences in many patterns
+- lots of small improvements to grammar and language
+- added a link to the web version of the practical guide 
+
+**Glossary**:
+
+-   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
+-   **added**: coordination, driver statement, evolve (v.)
+-   **removed**: peer driver
+
+---
+
+### Changes 2018-06-22 (…)
+
+**Changes to Introduction**
+
+- added “Primary Driver for Sociocracy 3.0”
+- The Seven Principles:
+    -   _The Principle of Empiricism_: removed reference to “falsification” 
+    -   _The Principle of Consent_ is now explained more clearly as  “Raise, seek-out and resolve objections to decisions and actions” 
+-   Governance, Semi-Autonomy and Self-Organization: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”,  and clarified the distinction between governance and operations
+- _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
+
+---
+
+### Changes 2018-06-22 (…)
+
+
+- _Agree on Values_: improved description
+- _Agreement_: improved description, updated template
+- _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
+- _Consent Decision Making_: improved description, updated illustration
+- _Continuous Improvement Of Work Process With S3_: improved description
+- _Coordination Meeting_: clarified agenda items, updated illustration
+- _Delegate Circle_: improved description
+- _Delegate Influence_: improved description
+- _Describe Deliverables_: improved description
+- _Describe Organizational Drivers_: made explicit that a Driver Statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
+
+
+---
+
+### Changes 2018-06-22 (…)
+
+- _Double Link_: aligned description to _Link_
+- _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
+- _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
+- _Governance Backlog_: improved description
+- _Governance Meeting_: improved description, clarified agenda items
+- _Invite Change_: description now focuses on _how_ to invite change
+- _Link_: aligned description to _Double Link_
+- _Logbook_: clarified that there is no difference between logbooks for groups and logbooks for roles
+- _Navigate Via Tension_: improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
+
+
+---
+
+### Changes 2018-06-22 (…)
+
+- _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
+- _Open Domain_: improved description and updated illustration
+- _Open Space for Change_ (renamed from _Open S3 Adoption_, improved description, 
+- _Peach Organization_: clarified relationship between periphery and center
+- _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
+- _Representative_: improved description
+- _Resolve Objections_: updated both illustrations
+- _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
+- _Transparent Salaries_: added more details about dimensions of fairness, and how to create a salary formula
+
+---
+
+### Changes 2018-06-22 (…)
+
+
+**Renamed Patterns:** 
+
+- _Evaluate Agreements to _Evaluate and Evolve Agreements_
+- _Intended Outcome_ to _Clarify Intended Outcome_ 
+- _Open S3 Adoption_ to _Open Space for Change” 
+
+**Added Patterns:**
+
+- _Check In_
+- _Co-create Proposals_
+- _Prepare for Meetings_ 
+- _Timebox Activities_
+
+---
+
 ### Changes 2018-03-21
 
 * renamed pattern  _Describe Drivers_ to _Describe Organizational Drivers_
@@ -2076,8 +2165,8 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 - various small clarifications and corrections
 - _Circle_: clarified relationship between circle and domain
-- _Role_: clarified description
-- _Rounds_: updated description
+- _Role_: improved description
+- _Rounds_: improved description
 - moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
 - added several terms to the glossary
 
@@ -2109,13 +2198,13 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ### Changes 2017-10-21 (…)
 
-- _Artful Participation_: refined description
+- _Artful Participation_: improved description
 - _Agreement_: clarified that the concept of agreements is applicable to people in roles
-- _Clarify Domains_: refined description
-- _Circle_: updated definition, refined description
-- _Driver_: updated definition
-- _Development Plan_: refined template and description
-- _Develop Strategy_: clarified definition of strategy, refined description
+- _Clarify Domains_: improved description
+- _Circle_: updated definition of "circle", improved description
+- _Driver_: updated definition of "driver"
+- _Development Plan_: improved description, updated template
+- _Develop Strategy_: updated definition of "strategy", improved description
 - _Double-Linked Hierarchy_: new illustration
 
 ---
@@ -2123,10 +2212,10 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 ### Changes 2017-10-21 (…)
 
 - _Evaluate Agreements_: aligned questions to peer review
-- _Governance Backlog_: updated definition
+- _Governance Backlog_: improved description
 - _Logbook_: added details about governance to personal logbook
 - _Objections_: clarified qualifying objections
-- _Peer Review_: refined description
+- _Peer Review_: improved description
 - _Respond to Organizational Driver_: integrated information about qualifying drivers
 - _Role_: clarified role keeper may maintain a governance backlog, introduced the term "role keeper" for a person in a role
 - _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications
@@ -2143,7 +2232,6 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 - _Strategy_ to _Develop Strategy_
 - _Domain Description_ to _Clarify Domains_
 - _Describing Deliverables_ to _Describe Deliverables_
-
 
 ---
 
@@ -2170,7 +2258,10 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ![fit](img/framework/logo.png)
 
-**Latest version of this guide**: [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
+**Latest version of the Practical Guide**:
+
+- online version [http://patterns.sociocracy30.org](http://patterns.sociocracy30.org) (with a searchable [pattern index](http://patterns.sociocracy30.org/pattern-index.html))
+- Various other formats and languages: [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
 
 **S3 website**: [http://sociocracy30.org](http://sociocracy30.org)
 
@@ -2184,21 +2275,18 @@ Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 ![fit](img/framework/logo.png)
 
 This work by Bernhard Bockelbrink, James Priest and Liliana David is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
-[http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
-
-The latest version of this document is available at 
-<http://sociocracy30.org>
+[http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
 
 
 ---
 
 ## Acknowledgments 
 
-The content of Sociocracy 3.0 reflects the accumulated experience and wisdom of contributors across generations. These people have shared a common quest to evolve more effective, harmonious and conscious ways of collaborating together.
+The content of Sociocracy 3.0 reflects the accumulated experience and wisdom of contributors across generations. These people have shared a common quest: to evolve more effective, harmonious and conscious ways of collaborating together.
 
 Particular recognition goes to Gerard Endenburg and others over the years who have committed significant time towards evolving and documenting the Sociocratic Circle Organization Method, which has contributed towards and inspired the evolution of Sociocracy 3.0.
 
-We’d also like to recognize all those who have worked extensively to facilitate the emergence of a more agile and lean mindset, and those who have evolved and shared various practices with the world.
+We’d also like to recognize all those who have worked extensively to facilitate the emergence of a more agile and lean mindset, and those who have developed and shared various practices with the world.
 
 Finally to acknowledge our numerous colleagues, customers, clients and attendees of Sociocracy 3.0 courses who have chosen to experiment with Sociocracy 3.0. Thank you for contributing your ongoing feedback to help evolve the patterns and enable us all to learn and grow.
 
@@ -2206,7 +2294,7 @@ Finally to acknowledge our numerous colleagues, customers, clients and attendees
 
 ## Acknowledgments (…)
 
-By no means an exhaustive list, we’d like to offer our appreciation to the following people who directly contributed towards developing Sociocracy 3.0, or whose work influenced what it is today:
+By no means an exhaustive list, we’d like to offer our appreciation to the following people who directly contributed toward developing Sociocracy 3.0, or whose work influenced what it is today:
 
 Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, Francois Knuckel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
 
@@ -2234,7 +2322,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 [evolvingcollaboration.com](http://evolvingcollaboration.com)
 
-[bernhard.bockelbrink@gmail.com](mailto:bernhard.bockelbrink@gmail.com)
+[bernhard.bockelbrink@evolvingcollaboration.com](mailto:bernhard.bockelbrink@evolvingcollaboration.com)
 
 ---
 
@@ -2283,7 +2371,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Domain**: A distinct area of influence, activity and decision making within an organization.
 **Driver**: A person’s or a group's motive for responding to a specific situation.
 **Driver Statement**: A a brief but comprehensive summary of the information required to understand a driver.
-**Effectiveness (principle)**: Devote time only to what brings you closer towards achieving your objectives.
+**Effectiveness (principle)**: Devote time only to what brings you closer toward achieving your objectives.
 **Empiricism (principle)**: Test all assumptions through experiments and continuous revision.
 **Equivalence (principle)**: Involve people in making and evolving decisions that affect them.
 **Evolve (v.)**: to develop gradually.
@@ -2291,9 +2379,9 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Governance Backlog**: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
 **Intended Outcome**: The expected result of an agreement, action, project or strategy.
 **Key responsibilities**: Essential work and decision making required in the context of a domain.
-**Logbook**: A (digital) system to store all information relevant for running an organization and its teams.
+**Logbook**: A (digital) system to store all information relevant for running an organization.
 **Need**: A need is a lack of something wanted or deemed necessary (a requirement).
-**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (or objective).
+**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organziational requirement).
 **Operations**: The work being done to create and deliver value, guided by governance.
 
 
@@ -2303,20 +2391,20 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (…)
 
 
-**Organization**: A group of people collaborating towards a shared driver (or objective).
+**Organization**: A group of people collaborating toward a shared driver (or objective).
 **Organizational Driver**: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
 **Pattern**: A template for successfully navigating a specific context.
 **Peer Domain**: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
 **Primary Driver**: The primary driver for a domain is the main driver that people who account for that domain respond to.
-**Principle**: A basic idea or rule that explains, guides or controls how something happens or works.
+**Principle**: A basic idea or rule that guides behavior, or explains or controls how something happens or works.
 **Role**: A domain that is delegated to an individual.
 **SCM**: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
 **Self-Governance**: People governing themselves within the constraints of a domain.
 **Self-Organization**: People organizing work within constraints defined through governance.
-**Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of delegator(s) and representatives), and by objections from others.
+**Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
 **Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
 **Strategy**: A high level approach for how people will create value to successfully account for a domain.
-**Subdomain**: A domain that is fully contained in another domain.
+**Subdomain**: A domain that is fully contained witin another domain.
 **Subdriver**: A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
 **Superdomain**: A domain that fully contains another domain.
 
