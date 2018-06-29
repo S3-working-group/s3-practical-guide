@@ -13,6 +13,8 @@ There are many ways a group of people can co-create proposals. Generally they fo
 
 ## Co-Create Proposal (…)
 
+![right,fit](img/templates/proposal-template.png)
+
 One way to do this is S3's _Proposal Forming_ pattern. 
 
 For inspiration for steps 2 and 3, look to classic group facilitation techniques or design thinking activities.
