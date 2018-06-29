@@ -23,8 +23,3 @@
 -   who is working on which items
 -   agreements and expectations guiding workflow (e.g. definition of done, policy, quality standards)
 -   use colors, symbols, highlights etc.
-
-
-
-
-

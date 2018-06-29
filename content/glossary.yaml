@@ -82,8 +82,8 @@ terms:
     glossary: A a brief but comprehensive summary of the information required to understand a driver.
   effectiveness:
     name: Effectiveness (principle)
-    definition: Devote time only to what brings you closer towards achieving your objectives.
-    glossary: Devote time only to what brings you closer towards achieving your objectives.
+    definition: Devote time only to what brings you closer toward achieving your objectives.
+    glossary: Devote time only to what brings you closer toward achieving your objectives.
   empiricism:
     name: Empiricism (principle)
     definition:
@@ -113,7 +113,7 @@ terms:
   logbook:
     name: Logbook
     definition:
-    glossary: A (digital) system to store all information relevant for running an organization and its teams. 
+    glossary: A (digital) system to store all information relevant for running an organization. 
   need:
     name: Need
     definition:
@@ -124,8 +124,8 @@ terms:
     glossary: The work being done to create and deliver value, guided by governance.
   objection:
     name: Objection
-    definition: An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (or objective). 
-    glossary: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (or objective).
+    definition: An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organziational requirement).
+    glossary: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organziational requirement).
   peer-domain:
     name: Peer Domain
     definition:
@@ -133,7 +133,7 @@ terms:
   organization:
     name: Organization
     definition:
-    glossary: A group of people collaborating towards a shared driver (or objective).
+    glossary: A group of people collaborating toward a shared driver (or objective).
   organizational-driver:
     name: Organizational Driver
     definition:
@@ -148,8 +148,8 @@ terms:
     glossary: The primary driver for a domain is the main driver that people who account for that domain respond to.
   principle:
     name: Principle
-    definition: A **principle** is a basic idea or rule that explains, guides or controls how something happens or works.
-    glossary: A basic idea or rule that explains, guides or controls how something happens or works.
+    definition: A **principle** is a basic idea or rule that guides behavior, or explains or controls how something happens or works.
+    glossary: A basic idea or rule that guides behavior, or explains or controls how something happens or works.
   role:
     name: Role
     definition:
@@ -168,7 +168,7 @@ terms:
   semi-autonomy:
     name: Semi-Autonomy
     definition:
-    glossary: The autonomy of people to create value, limited by the constraints of their domain (including the influence of delegator(s) and representatives), and by objections from others.
+    glossary: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
   sociocracy:
     name: Sociocracy
     glossary: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
@@ -179,7 +179,7 @@ terms:
   subdomain:
     name: Subdomain
     definition:
-    glossary: A domain that is fully contained in another domain.
+    glossary: A domain that is fully contained witin another domain.
   subdriver:
     name: Subdriver
     definition:

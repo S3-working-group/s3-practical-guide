@@ -42,7 +42,7 @@ The information revealed by objections can be used to improve:
 
 ## Qualify Objections
 
-Some arguments raised are not in fact objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on opinion, preference or concern.
+Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on opinion, preference or concern.
 
 To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
 
@@ -74,4 +74,4 @@ In _Consent Decision Making_, concerns can inform ways to further evolve agreeme
 
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
-If you are in doubt whether you have an objection or a concern, raise it with others to check if they think it qualifies as an objection.
+If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.

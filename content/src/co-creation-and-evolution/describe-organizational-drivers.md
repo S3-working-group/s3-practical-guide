@@ -42,7 +42,7 @@ In addition to the brief driver statement, more information about the scope and 
 Describe the current situation:
 
 - Briefly capture the essentials of what is happening.
-- Be objective: Describe observations and avoid evaluation.
+- Be objective - describe observations and avoid evaluation.
 
 ---
 

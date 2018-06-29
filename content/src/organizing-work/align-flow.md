@@ -12,6 +12,6 @@ Alignment is achieved and maintained through the continuous improvement of agree
 
 Flow of value is guided by (explicit and implicit) agreements and assumptions.
 
-Continuous flow of value reduces the potential for accumulation of waste, and also makes for shorter feedback loops and amplifies learning.
+Continuous flow of value reduces the potential for accumulation of waste, and amplifies learning by shortening feedback loops.
 
-(Work in progress is regarded as waste because it ties up resources)
+**Note:** Work in progress is regarded as waste because it ties up resources.

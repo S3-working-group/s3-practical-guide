@@ -2,7 +2,7 @@
 
 ![right,fit](img/agreements/consent-decision-making.png)
 
-**A (facilitated) group process for decision making: Invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
+**A (facilitated) group process for decision making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
 
 Proposals become agreements when they are considered _good enough for now and safe enough to try_ until the next review.
 

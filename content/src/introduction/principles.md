@@ -30,8 +30,11 @@
 
 *{{glossary:accountability}}*
 
--   accountability applies to all agreements, including the organization itself, circles, and roles
--   everyone's primary accountability is for effective collaboration in response to organizational drivers
--   individuals and groups are accountable for their work, ongoing learning and development, with the organization providing necessary support
--   everyone in an organization is accountable for aligning action with organizational values
+Accountability applies to all agreements, including the organization itself, circles, and roles.
+
+Everyone's primary accountability is for effective collaboration in response to organizational drivers.
+
+Individuals and groups are accountable for their work, ongoing learning and development, with the organization providing necessary support.
+
+Everyone in an organization is accountable for aligning action with organizational values.
  

@@ -2,19 +2,16 @@
 
 Organizational structure is the actual arrangement of domains and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
 
-An effective organizational structure:
+Continuously evolve your organization's structure to:
 
--   supports flow of value
--   enables collaboration
--   addresses dependencies and makes them explicit
--   ensures information is available to those who need it
--   distributes power to influence as required
--   evolves continuously to adapt to changing context
+-   support the continuous flow of value
+-   enable effective collaboration around dependencies
+-   ensure information is available to those who need it
+-   distribute power to influence as required
 
 ---
 
 ## Organizational Structure (…)
-
 
 The basic building blocks for organizational structure are interdependent, connected domains.
 

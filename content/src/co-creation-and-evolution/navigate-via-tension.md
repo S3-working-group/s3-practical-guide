@@ -10,13 +10,4 @@ To **discover drivers**, investigate what stimulates tension, and describe what'
 
 ---
 
-## Navigate Via Tension (…)
-
-**All members** bring awareness to what might help or harm the organization, and respond to the drivers they discover.
-
-Awareness of **organizational drivers** can be passed to an appropriate domain to be addressed.
-
----
-
 ![inline,fit](img/process/navigate-describe-respond.png)
-

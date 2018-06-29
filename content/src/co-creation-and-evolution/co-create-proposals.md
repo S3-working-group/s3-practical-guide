@@ -7,7 +7,7 @@ There are many ways a group of people can co-create proposals. Generally they fo
 1. Agree on the driver (or problem / opportunity)
 2. Explore the topic and understand constraints
 3. Generate ideas
-4. Create the proposal (often done by a smaller group)
+4. Design a proposal (often done by a smaller group)
 
 ---
 
