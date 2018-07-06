@@ -4,7 +4,7 @@
 
 A logbook is a (digital) system to store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, and information is kept confidential only when there is good reason to do so.
 
-Common platforms for logbooks are Wikis (e.g. Dokuwiki, MediaWiki, Confluence), Content Management Systems (e.g. Wordpress), G Suite, Evernote or Trello etc.
+Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (e.g. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) or even [Trello](https://trello.com/).
 
 ---
 

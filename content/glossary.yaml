@@ -124,8 +124,8 @@ terms:
     glossary: The work being done to create and deliver value, guided by governance.
   objection:
     name: Objection
-    definition: An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organziational requirement).
-    glossary: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organziational requirement).
+    definition: An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
+    glossary: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
   peer-domain:
     name: Peer Domain
     definition:
@@ -179,7 +179,7 @@ terms:
   subdomain:
     name: Subdomain
     definition:
-    glossary: A domain that is fully contained witin another domain.
+    glossary: A domain that is fully contained within another domain.
   subdriver:
     name: Subdriver
     definition:

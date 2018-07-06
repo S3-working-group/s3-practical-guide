@@ -6,7 +6,7 @@
 
 Rounds are a group facilitation technique to maintain equivalence and support effective dialogue.
 
-Be clear on the purpose and inteded outcome of each round. 
+Be clear on the purpose and intended outcome of each round. 
 
 Begin each round with a different person, and change direction (clockwise or counterclockwise) to bring variation to who speaks first and last, and to the order of people's contributions.
 

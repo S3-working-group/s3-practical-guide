@@ -393,7 +393,7 @@ Withholding objections can harm the objectives of a group or organization.
 
 ## Pattern 1.5: Objection
 
-_An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organziational requirement)._
+_An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement)._
 
 Objections contain information that reveals **certain or likely consequence of harm** and/or **opportunities to immediately improve** proposals, decisions, existing agreements or actions. 
 
@@ -732,7 +732,7 @@ Improvement suggestions may relate to personal development, collaboration, updat
 
 The development plan may be created for a person in a role, or for a group (e.g. a department, circle, team or open domain).
 
-Development may happen in the form of refining description of driver and domain, amendments to strategy, new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
+Development may happen in the form of refining the description of the driver and the domain, making amendments to strategy, new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
 
 A development plan (and any accompanying recommendations for changes to the domain description and driver statement) requires consent from both the delegatee and the delegator.
 
@@ -772,20 +772,22 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 ![right,fit](img/illustrations/balance-autonomy-collaboration-alt.png)
 
+Artful participation:
+
 - enables co-creation and evolution of agreements
 - helps to grow stronger teams
 - builds self-accountability, integrity and trust
 - generates a culture of mutual support and close collaboration
-- even more powerful when embraced by many
+- is more powerful when embraced by many
 
 ---
 
 ### Artful Participation: Self-Assessment
 
--   How will I support myself and others in participating more artfully? 
+-   How can I support myself and others to participate more artfully? 
 -   Where are my interactions with others unhelpful or ineffective?
 -   Which agreements do I find hard to keep? What can I do to address this?
--   What skills could I develop, that would support me to participate more artfully?
+-   What skills can I develop, that would support me to participate more artfully?
 -   What would artful participation mean in relation to:
     -   my daily activities?
     -   collaboration and interaction with others?
@@ -846,7 +848,7 @@ _**Values** are valued principles that guide behavior. Values define scope for a
 A governance facilitator:
 
 -   is accountable for ensuring governance meetings are facilitated, stay on track and are evaluated
--   is (usually) selected by a group from among it members
+-   is (usually) selected by a group from among it members (and for a specific term)
 -   familiarizes themselves with the governance backlog
 -   often invites others to facilitate some agenda items
 
@@ -869,8 +871,7 @@ To support effective governance, the facilitator should be familiar with the fol
 
 ## Pattern 3.5: Breaking Agreements
 
-Breaking agreements is sometimes **necessary**...
--   ...but may come at a **cost** to the community
+Breaking agreements is sometimes **necessary** but may come at a **cost** to the community.
 
 Be accountable:
 
@@ -910,13 +911,19 @@ To preserve organizational culture, maintain self-accountability and help new me
 
 **Create a fair salary formula and make it transparent.**
 
-Transparent salaries need to be fair, but perception of fairness varies from person to person and is also specific to an organization's context.
+Transparent salary (also referred to as "open salary") is the practice of making the salary formula - and often individual compensation as well - transparent to all members of an organization, and sometimes to the public.
 
-When deciding on a salary formula, consider the various stakeholders' expectations and needs, and how to weigh different dimensions of fairness, e.g.
+A transparent salary formula needs both to suit an organizations context, and be perceived as fair enough by all stakeholders.
 
--   a fixed subsistence guarantee
--   fair distribution of gains and costs
--   fairness of equity, need, proportionality, efficiency and merit
+As perception of fairness varies from person to person and according to context, creating a salary formula requires developing a shared understanding of what is considered fair.
+
+---
+
+When deciding (or agreeing) on a salary formula for an organization or department, consider: 
+
+- what would be a suitable fixed subsistence guarantee
+- how to to calculate compensation according to need, investment, productivity, or merit
+- how to distribute the organization's profit and cover for losses in line with expectations and needs of the various stakeholders
 
 Decide how to handle remuneration for changing roles and create strategy for how to transition towards new contracts and compensation agreements.
 
@@ -1016,19 +1023,20 @@ A circle:
 
 A role is an area of accountability (a domain) that is delegated to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
-The role keeper leads in creating a strategy for how to account for their domain, and evolves their strategy in collaboration with the delegator.
+The role keeper leads in creating a strategy for how they will account for their domain. They evolve their strategy in collaboration with the delegator.
 
-A role is a simple way for a group to delegate recurring tasks or a specific area of work to one of its members.
+A role is a simple way for an organization (or group) to delegate recurring tasks or a specific area of work and decision making to one of its members.
 
 --- 
 
 ## Role (…)
 
-- people can be in more than one role, and roles can be fulfilled by more than one person
+- people can take responsibility for more than one role
+- instead of formally setting up a new group, it's sometimes simpler to just share one role between several people
 - role keepers are selected by consent and for a limited term
-- peers support one another to develop in the roles they fulfill
+- peers support one another to develop in the roles they keep
 
-A role keeper may maintain a logbook and a governance backlog to evolve their approach towards delivering value.
+A role keeper may maintain a governance backlog, and a logbook to record and help them evolve their approach toward delivering value.
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
 
@@ -1118,9 +1126,11 @@ A delegator is accountable for conducting regular reviews to support effectivene
 
 ## Pattern 4.9: Open Systems
 
-An organization can benefit from intentionally communicating with and learning from others.
 
-Acknowledging its interdependence, an organization can consciously invite **outside information, influence or skills** to assist with making decisions and to support collective learning.
+**Individuals, groups and entire organizations can benefit from intentionally communicating with and learning from others outside of their system**.
+
+Acknowledge interdependence and intentionally invite people from outside a system to bring in **knowledge, experience and influence** to assist with decision making and support collective learning.
+
 
 ---
 
@@ -1141,16 +1151,19 @@ Acknowledging its interdependence, an organization can consciously invite **outs
 
 ## Pattern 5.1: Adapt Patterns To Context
 
-**Adapt and evolve S3 patterns to fit your specific context.**
+**Adapt and evolve S3 patterns to suit your specific context.**
 
 ![right,fit](img/process/adapt-pattern-to-context.png)
 
--   ensure everyone affected by adaptation:
-    -   understands why it is necessary to adapt the pattern
-    -   is present or represented when doing so
--   use S3 principles as a guide for adaptation
--   run experiments with adaptations for long enough to learn about benefits and potential pitfalls
--   consider sharing valuable adaptations with the S3 community
+Ensure that everyone affected:
+
+-   understands why changing the pattern is necessary (or helpful)
+-   is present or represented when deciding how to change it
+-   uses S3 principles as a guide for adaptation.
+
+Run experiments with adaptations for long enough to learn about the benefits and any potential pitfalls.
+
+Share valuable adaptations with the S3 community.
 
 
 
@@ -1367,7 +1380,7 @@ Explicitly describing deliverables can be useful for improving:
 -   the strategy of groups or individuals
 -   development plans
 -   domain descriptions
--   any other agreement (e.g. business goals, process policy, customer communication)
+-   any other agreement (e.g. business objectives, process policy, customer communication)
 
 
 ---
@@ -1389,7 +1402,7 @@ Explicitly describing deliverables can be useful for improving:
 
 A logbook is a (digital) system to store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, and information is kept confidential only when there is good reason to do so.
 
-Common platforms for logbooks are Wikis (e.g. Dokuwiki, MediaWiki, Confluence), Content Management Systems (e.g. Wordpress), G Suite, Evernote or Trello etc.
+Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (e.g. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) or even [Trello](https://trello.com/).
 
 ---
 
@@ -1546,9 +1559,9 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 **Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.**
 
--   facilitate the meeting and use rounds instead of discussions where valuable
--   if possible, compile the agenda before the meeting
-    -   include any prerequisites for attendees to prepare
+-   facilitate the meeting (timebox dialogue and use rounds where valuable)
+-   when useful, compile an agenda before the meeting and share it with attendees in advance
+    -   include details of any prerequisites that can help attendees to prepare
     -   further items may come up when hearing status reports
 
 ---
@@ -1577,10 +1590,13 @@ Agenda items:
 
 ![right,fit](img/circle/rounds.png) 
 
-**A group facilitation technique to maintain equivalence.**
+**In a group meeting, go around the circle giving everyone the chance to speak in turn.**
 
--   go around the circle giving everyone the chance to speak
--   begin each round with a different person, and change direction (clockwise or ccw) to bring variation to who speaks first and last, and to the order of people's contributions.
+Rounds are a group facilitation technique to maintain equivalence and support effective dialogue.
+
+Be clear on the purpose and intended outcome of each round. 
+
+Begin each round with a different person, and change direction (clockwise or counterclockwise) to bring variation to who speaks first and last, and to the order of people's contributions.
 
 
 
@@ -1588,14 +1604,15 @@ Agenda items:
 
 ## Pattern 8.2: Facilitate Meetings
 
-Choose someone to facilitate a meeting. Even an inexperienced facilitator can help to focus a meeting and make a positive difference.
+**Choose someone to facilitate a meeting to help the group keep focus, keep the meeting on track and draw out the participant's creativity and wisdom.**
 
--   prepare an agenda of topics
--   select a facilitator who:
-    -   facilitates a suitable activity or format for each topic
-    -   holds the space, keeps the time and navigates the agenda during the meeting
-    -   facilitates an evaluation of the meeting at the end
+Before each meeting, prepare an agenda of topics, and select a facilitator to:
 
+-   hold the space, keep the time and navigate the agenda during the meeting
+-   facilitate a suitable activity for each topic
+-   facilitate an evaluation at the end of the meeting
+
+Consider selecting a facilitator for a specific term. Even an inexperienced facilitator can make a positive difference.
 
 ---
 
@@ -1682,7 +1699,7 @@ Reflect on interactions, celebrate successes and share suggestions for improveme
 
 ### Evaluate Meetings: Long Format
 
-Ask everyone in a round to reflect on any or all of the following topics in a brief sharing: 
+Ask everyone in a round to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
 
 -   effectiveness and format
 -   facilitation and participation
@@ -1696,26 +1713,29 @@ Ask everyone in a round to reflect on any or all of the following topics in a br
 
 ## Pattern 8.6: Meeting Host (Role)
 
-The meeting host is accountable for preparation and follow-up of meetings, workshops or other events. 
+**Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
 
-The role may be assigned temporarily (i.e. for one specific event) or for a duration of time.
+A person may take on the role of Meeting Host for a specific event or
+for several events over a period of time.
 
 ---
 
 ### Responsibilities Of A Meeting Host
 
--   preparation
-    -   identify goals and deliverables
-    -   prepare and distribute agenda and schedule
-    -   estimate required time
-    -   identify and invite participants
-    -   schedule the meeting/workshop
-    -   book location (and transportation if required)
-    -   set up the space, provide required materials and information
-    -   ensure selection of a facilitator and a notetaker to record minutes, if appropriate
--   follow-up
-    -   clean up location, return keys etc.
-    -   ensure minutes are distributed
+Preparation:
+
+-   identify goals and deliverables
+-   prepare and distribute agenda
+-   identify and invite the participants
+-   estimate the time required and schedule the meeting/workshop
+-   book the location (and transportation if required)
+-   set up the space and provide required materials and information
+-   ensure selection of a facilitator and a notetaker to record minutes, if appropriate
+
+Follow-up:
+
+-   clean up location, return keys etc.
+-   ensure minutes are distributed
 
 
 ---
@@ -1838,7 +1858,7 @@ Pulling in work prevents overloading the system, especially when work in progres
 
 Work in Progress includes:
 
--   number of items in a backlog
+-   the number of items in a backlog
 -   concurrent projects or tasks for groups or individuals
 -   products in a portfolio
 
@@ -2000,11 +2020,17 @@ Domains are linked as required to flow information and influence, and to support
 
 ![right,fit](img/structural-patterns/double-linked-hierarchy.png)
 
-**Bring equivalence to governance in a typical organizational hierarchy.**
+**Delegate all decision making to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence and building engagement.**
 
--   the organization is built from of self-governing circles
--   circles select a member to represent their interests in governance decisions of the next higher circle, and vice versa
--   functional hierarchy is still possible if valuable
+1. Shift governance decision making from individuals to groups by forming self-governing circles on all levels of your organization.
+
+2. Each circle's members select one of their group to represent their interests and participate in the governance decision making of the next higher circle, and vice versa.
+
+A double-linked hierarchy:
+
+- brings equivalence to governance
+- maintains the potential for a functional hierarchy (if it enables the flow of value).
+
 
 
 ---
@@ -2084,6 +2110,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 
 - _Agree on Values_: improved description
+- _Adapt Patterns To Context_: improved description
 - _Agreement_: improved description, updated template
 - _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
 - _Consent Decision Making_: improved description, updated illustration
@@ -2100,8 +2127,10 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 ### Changes 2018-06-22 (…)
 
 - _Double Link_: aligned description to _Link_
+- _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
 - _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
 - _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
+- _Facilitate Meetings_: improved description
 - _Governance Backlog_: improved description
 - _Governance Meeting_: improved description, clarified agenda items
 - _Invite Change_: description now focuses on _how_ to invite change
@@ -2116,13 +2145,16 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 - _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
 - _Open Domain_: improved description and updated illustration
+- _Open Systems_: improved description
 - _Open Space for Change_ (renamed from _Open S3 Adoption_, improved description, 
 - _Peach Organization_: clarified relationship between periphery and center
 - _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
 - _Representative_: improved description
 - _Resolve Objections_: updated both illustrations
 - _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
-- _Transparent Salaries_: added more details about dimensions of fairness, and how to create a salary formula
+- _Role_: improved description
+- _Rounds_: improved description
+- _Transparent Salaries_: added more details about fairness, and on how to develop a salary formula
 
 ---
 
@@ -2381,7 +2413,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Key responsibilities**: Essential work and decision making required in the context of a domain.
 **Logbook**: A (digital) system to store all information relevant for running an organization.
 **Need**: A need is a lack of something wanted or deemed necessary (a requirement).
-**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organziational requirement).
+**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
 **Operations**: The work being done to create and deliver value, guided by governance.
 
 
@@ -2404,7 +2436,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
 **Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
 **Strategy**: A high level approach for how people will create value to successfully account for a domain.
-**Subdomain**: A domain that is fully contained witin another domain.
+**Subdomain**: A domain that is fully contained within another domain.
 **Subdriver**: A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
 **Superdomain**: A domain that fully contains another domain.
 
