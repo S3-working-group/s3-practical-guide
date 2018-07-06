@@ -5,7 +5,7 @@
 A governance facilitator:
 
 -   is accountable for ensuring governance meetings are facilitated, stay on track and are evaluated
--   is (usually) selected by a group from among it members
+-   is (usually) selected by a group from among it members (and for a specific term)
 -   familiarizes themselves with the governance backlog
 -   often invites others to facilitate some agenda items
 

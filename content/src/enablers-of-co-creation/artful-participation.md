@@ -20,20 +20,22 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 ![right,fit](img/illustrations/balance-autonomy-collaboration-alt.png)
 
+Artful participation:
+
 - enables co-creation and evolution of agreements
 - helps to grow stronger teams
 - builds self-accountability, integrity and trust
 - generates a culture of mutual support and close collaboration
-- even more powerful when embraced by many
+- is more powerful when embraced by many
 
 ---
 
 ### Artful Participation: Self-Assessment
 
--   How will I support myself and others in participating more artfully? 
+-   How can I support myself and others to participate more artfully? 
 -   Where are my interactions with others unhelpful or ineffective?
 -   Which agreements do I find hard to keep? What can I do to address this?
--   What skills could I develop, that would support me to participate more artfully?
+-   What skills can I develop, that would support me to participate more artfully?
 -   What would artful participation mean in relation to:
     -   my daily activities?
     -   collaboration and interaction with others?

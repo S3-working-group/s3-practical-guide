@@ -2,8 +2,11 @@
 
 ![right,fit](img/circle/rounds.png) 
 
-**A group facilitation technique to maintain equivalence.**
+**In a group meeting, go around the circle giving everyone the chance to speak in turn.**
 
--   go around the circle giving everyone the chance to speak
--   begin each round with a different person, and change direction (clockwise or ccw) to bring variation to who speaks first and last, and to the order of people's contributions.
+Rounds are a group facilitation technique to maintain equivalence and support effective dialogue.
+
+Be clear on the purpose and inteded outcome of each round. 
+
+Begin each round with a different person, and change direction (clockwise or counterclockwise) to bring variation to who speaks first and last, and to the order of people's contributions.
 

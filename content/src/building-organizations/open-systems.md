@@ -1,8 +1,10 @@
 ## Open Systems
 
-An organization can benefit from intentionally communicating with and learning from others.
 
-Acknowledging its interdependence, an organization can consciously invite **outside information, influence or skills** to assist with making decisions and to support collective learning.
+**Individuals, groups and entire organizations can benefit from intentionally communicating with and learning from others outside of their system**.
+
+Acknowledge interdependence and intentionally invite people from outside a system to bring in **knowledge, experience and influence** to assist with decision making and support collective learning.
+
 
 ---
 

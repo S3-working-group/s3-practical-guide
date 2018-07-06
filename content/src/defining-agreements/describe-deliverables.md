@@ -19,4 +19,4 @@ Explicitly describing deliverables can be useful for improving:
 -   the strategy of groups or individuals
 -   development plans
 -   domain descriptions
--   any other agreement (e.g. business goals, process policy, customer communication)
+-   any other agreement (e.g. business objectives, process policy, customer communication)

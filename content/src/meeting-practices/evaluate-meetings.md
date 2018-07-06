@@ -17,7 +17,7 @@ Reflect on interactions, celebrate successes and share suggestions for improveme
 
 ### Evaluate Meetings: Long Format
 
-Ask everyone in a round to reflect on any or all of the following topics in a brief sharing: 
+Ask everyone in a round to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
 
 -   effectiveness and format
 -   facilitation and participation

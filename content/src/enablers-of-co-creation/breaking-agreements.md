@@ -1,7 +1,6 @@
 ## Breaking Agreements
 
-Breaking agreements is sometimes **necessary**...
--   ...but may come at a **cost** to the community
+Breaking agreements is sometimes **necessary** but may come at a **cost** to the community.
 
 Be accountable:
 

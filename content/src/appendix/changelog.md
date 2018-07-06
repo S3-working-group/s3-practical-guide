@@ -33,6 +33,7 @@
 
 
 - _Agree on Values_: improved description
+- _Adapt Patterns To Context_: improved description
 - _Agreement_: improved description, updated template
 - _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
 - _Consent Decision Making_: improved description, updated illustration
@@ -49,8 +50,10 @@
 ### Changes 2018-06-22 (…)
 
 - _Double Link_: aligned description to _Link_
+- _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
 - _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
 - _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
+- _Facilitate Meetings_: improved description
 - _Governance Backlog_: improved description
 - _Governance Meeting_: improved description, clarified agenda items
 - _Invite Change_: description now focuses on _how_ to invite change
@@ -65,13 +68,16 @@
 
 - _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
 - _Open Domain_: improved description and updated illustration
+- _Open Systems_: improved description
 - _Open Space for Change_ (renamed from _Open S3 Adoption_, improved description, 
 - _Peach Organization_: clarified relationship between periphery and center
 - _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
 - _Representative_: improved description
 - _Resolve Objections_: updated both illustrations
 - _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
-- _Transparent Salaries_: added more details about dimensions of fairness, and how to create a salary formula
+- _Role_: improved description
+- _Rounds_: improved description
+- _Transparent Salaries_: added more details about fairness, and on how to develop a salary formula
 
 ---
 

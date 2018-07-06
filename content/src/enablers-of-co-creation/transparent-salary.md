@@ -2,13 +2,19 @@
 
 **Create a fair salary formula and make it transparent.**
 
-Transparent salaries need to be fair, but perception of fairness varies from person to person and is also specific to an organization's context.
+Transparent salary (also referred to as "open salary") is the practice of making the salary formula - and often individual compensation as well - transparent to all members of an organization, and sometimes to the public.
 
-When deciding on a salary formula, consider the various stakeholders' expectations and needs, and how to weigh different dimensions of fairness, e.g.
+A transparent salary formula needs both to suit an organizations context, and be perceived as fair enough by all stakeholders.
 
--   a fixed subsistence guarantee
--   fair distribution of gains and costs
--   fairness of equity, need, proportionality, efficiency and merit
+As perception of fairness varies from person to person and according to context, creating a salary formula requires developing a shared understanding of what is considered fair.
+
+---
+
+When deciding (or agreeing) on a salary formula for an organization or department, consider: 
+
+- what would be a suitable fixed subsistence guarantee
+- how to to calculate compensation according to need, investment, productivity, or merit
+- how to distribute the organization's profit and cover for losses in line with expectations and needs of the various stakeholders
 
 Decide how to handle remuneration for changing roles and create strategy for how to transition towards new contracts and compensation agreements.
 
