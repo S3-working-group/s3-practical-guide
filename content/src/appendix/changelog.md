@@ -11,7 +11,7 @@
 **Glossary**:
 
 -   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added**: coordination, driver statement, evolve (v.)
+-   **added**: constituent, coordination, driver statement, evolve (v.)
 -   **removed**: peer driver
 
 ---
@@ -54,6 +54,7 @@
 - _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
 - _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
 - _Facilitate Meetings_: improved description
+- _Fractal Organization_: extended and improved description
 - _Governance Backlog_: improved description
 - _Governance Meeting_: improved description, clarified agenda items
 - _Invite Change_: description now focuses on _how_ to invite change
@@ -76,6 +77,7 @@
 - _Resolve Objections_: updated both illustrations
 - _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
 - _Role_: improved description
+- _Role Selection_: added description of each step
 - _Rounds_: improved description
 - _Transparent Salaries_: added more details about fairness, and on how to develop a salary formula
 

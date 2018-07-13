@@ -625,15 +625,49 @@ Check for any objections to the proposed tuner(s).
 
 ![right,fit](img/agreements/selection.png)
 
-**A group process for selecting people for roles, on the strength of the reason, rather than according to the majority.**
+**A group process for selecting a person for a role on the strength of the reason, rather than according to majority.**
 
--   People avoid expressing interest before the selection.
--   People can nominate themselves, another, or pass.
--   When checking for objections to the proposed nominee, ask that person last.
+**1. Present Role Description:** If possible, send out the role’s domain description in advance.
 
-Objections to a nominee may be resolved in many ways, including amending the role's domain description or by nominating someone else.
+**2. Record Nominations:** Participants write their nomination on a slip of paper. People can nominate themselves, another, or pass.
 
-**Note:** This pattern can also be used in any situation where there is a need to choose between a variety of options.
+**3. Reasons for Nominations:**  Each person shares who they have nominated and why.
+
+---
+
+## Role Selection (…)
+
+**4. Information Gathering:** Participants share or request any information that might support the group in making an appropriate selection.
+
+**5. Nomination Changes:** Check if anyone wants to change their nomination in light of reasons and information shared so far, and hear the reasons for each change.
+
+**6. Propose a Nominee** for the role: The facilitator guides the process to identify a suitable nominee on the strength of the reasons heard, e.g. by:
+
+-   proposing a nominee themselves or asking a group member
+-   inviting (some) nominees to agree who should be proposed
+-   inviting group dialogue to help reveal the strongest nominee
+
+
+---
+
+## Role Selection (…)
+
+**7. Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an objection. 
+
+**8. Address and Resolve Objections,** beginning with any from the proposed nominee. Objections may be resolved in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
+
+**9. Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
+
+---
+
+## Role Selection (…)
+
+To avoid influencing others, abstain from expressing personal interest or opinions before a selection takes place.
+
+Sometimes a role selection reveals a lack of capacity, relevant experience, qualities or skill. A group will then need to consider outside candidates, reconsider priorities or find an alternative way to account for the domain.
+
+This pattern can also be used in any situation where there is a need to choose between a variety of options.
+
 
 ---
 
@@ -1750,7 +1784,7 @@ A governance backlog contains:
 -   proposals to create and consider
 -   selecting people for roles
 
-Typically upcoming reports and agreements for review are not kept in the backlog but added directly to the agenda.
+Often upcoming reports and agreements for review are not kept in the backlog but added directly to the agenda.
 
 
 
@@ -2054,12 +2088,52 @@ A double-linked hierarchy:
 
 ![right,fit](img/structural-patterns/fractal-organization.png)
 
-**Share learning — and if valuable, coordinate and align action — across multiple organizations (or domains) that share a common driver.**
+**Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy)**.
 
-A pattern for multiple organizations (or domains) with a common driver to share learning and if valuable, coordinate and align action.
+Creating a fractal organization can enable a large network to rapidly respond to changing contexts. 
 
--   a way to organize, align and steer from the ground up, while preserving autonomy and agency of the various entities involved
--   a structure to facilitate innovation and exchange of learning throughout a large community on an 'as needed' basis
+If necessary, the pattern can be repeated to connect multiple fractal organizations into one. 
+
+---
+
+## Prerequisites
+
+A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) driver, or by multiple branches, departments, or projects within a larger organization.
+
+These constituents (i.e. organizations, branches, departments or projects) need to share at least some - and typically most - functional domains (e.g. accounting, product management, or development).
+
+---
+
+
+### Tiers
+
+A fractal organization has at least three tiers: 
+
+- first tier: the **constituents** (i.e. organizations, branches, departments or projects)
+- second tier: **function-specific delegate circles** to share learning and to make and evolve agreements on behalf of function-specific domains
+-  third tier: a **cross-functional delegate circle** to make and evolve agreements in response to drivers affecting the overall body of constituents
+
+---
+
+## Forming a Fractal Organization
+
+1.  Forming the **second tier**: In each constituent, the members of each common (and significant) functional domain, decide who of them will represent them in a **function-specific delegate circle**, where they hare knowledge and learning, and contribute toward making and evolving agreements. Representatives are selected for a limited term (after which a new selection is made).
+2.  Forming the **third tier**: second-tier delegate circles each select a delegate to form the **cross-functional delegate circle**.
+
+---
+
+## Impact on the organization(s)
+
+Each constituent:
+
+- gains access to a wide array of experience, wisdom and skills to increase effectiveness and innovation.
+- can share resources, infrastructure and experience with other constituents according to capacity and need
+
+The second and third tier:
+
+- can test decisions simultaneously across multiple instances of a function-specific domain, providing extensive feedback and rapid learning
+- organize, align and steer the whole system while preserving autonomy and agency of the individual constituents
+
 
 ---
 
@@ -2088,7 +2162,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 **Glossary**:
 
 -   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added**: coordination, driver statement, evolve (v.)
+-   **added**: constituent, coordination, driver statement, evolve (v.)
 -   **removed**: peer driver
 
 ---
@@ -2131,6 +2205,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 - _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
 - _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
 - _Facilitate Meetings_: improved description
+- _Fractal Organization_: extended and improved description
 - _Governance Backlog_: improved description
 - _Governance Meeting_: improved description, clarified agenda items
 - _Invite Change_: description now focuses on _how_ to invite change
@@ -2387,10 +2462,10 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 **Concern**: An opinion why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
 **Consent (principle)**: Raise, seek out and resolve objections to decisions and actions.
+**Constituent**: A group of people (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other groups or organizations.
 **Continuous Improvement (principle)**: Change incrementally to accommodate steady empirical learning.
 **Coordination**: The process of enabling individuals or groups to collaborate effectively across different domains to achieve shared objectives.
 **Delegatee**: An individual or group accepting accountability for a domain delegated to them.
-**Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
 
 
 ---
@@ -2399,6 +2474,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (…)
 
 
+**Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
 **Deliverable**: A product, service, raw material, experience or transformation, provided as a result of an agreement.
 **Domain**: A distinct area of influence, activity and decision making within an organization.
 **Driver**: A person’s or a group's motive for responding to a specific situation.
@@ -2414,7 +2490,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Logbook**: A (digital) system to store all information relevant for running an organization.
 **Need**: A need is a lack of something wanted or deemed necessary (a requirement).
 **Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
-**Operations**: The work being done to create and deliver value, guided by governance.
 
 
 ---
@@ -2423,6 +2498,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (…)
 
 
+**Operations**: The work being done to create and deliver value, guided by governance.
 **Organization**: A group of people collaborating toward a shared driver (or objective).
 **Organizational Driver**: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
 **Pattern**: A template for successfully navigating a specific context.
@@ -2438,7 +2514,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Strategy**: A high level approach for how people will create value to successfully account for a domain.
 **Subdomain**: A domain that is fully contained within another domain.
 **Subdriver**: A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
-**Superdomain**: A domain that fully contains another domain.
 
 
 ---
@@ -2447,6 +2522,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (…)
 
 
+**Superdomain**: A domain that fully contains another domain.
 **Superdriver**: see subdriver.
 **Tension**: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
 **Transparency (principle)**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
