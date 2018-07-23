@@ -1,17 +1,13 @@
-## Proposal: Align Flow
+## Align Flow
 
-![right,fit](img/workflow-and-value/align-flow.png)
+**Move decision making close to where value is created, and align the flow of information to support the flow of value.**
 
-In an effective organization, **flow of information and influence supports the continuous flow of value**.
+**Flow of value**: {{glossary:flow-of-value}}
 
-Alignment is achieved and maintained through the continuous improvement of agreements.
+When flow of information and influence supports the continuous and steady flow of value, the potential for accumulation of waste is reduced, and shorter feedback loops amplify learning.
+
+Achieve and maintain alignment of flow through the continuous evolution of an organization's body of agreements (including its structure).
 
 ---
 
-### Flow of Value
-
-Flow of value is guided by (explicit and implicit) agreements and assumptions.
-
-Continuous flow of value reduces the potential for accumulation of waste, and amplifies learning by shortening feedback loops.
-
-**Note:** Work in progress is regarded as waste because it ties up resources.
+![inline,fit](img/workflow-and-value/align-flow.png)

@@ -65,6 +65,9 @@ terms:
   delegatee:
     name: Delegatee
     glossary: An individual or group accepting accountability for a domain delegated to them.
+  delegation:
+    name: Delegation
+    glossary: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
   delegator:
     name: Delegator
     glossary: An individual or group delegating a domain to other(s) to be accountable for.
@@ -99,6 +102,9 @@ terms:
   evolve:
     name: Evolve (v.)
     glossary: to develop gradually.
+  flow-of-value:
+    name: Flow of Value
+    glossary: Deliverables traveling through an organization towards customers or other stakeholders.
   governance:
     name: Governance
     definition:
@@ -111,6 +117,10 @@ terms:
     name: Intended Outcome
     definition: 
     glossary: The expected result of an agreement, action, project or strategy.
+  helping-team:
+    name: Helping Team
+    definition: 
+    glossary: An equivalent group of people with the mandate to execute on a specific set of requirements.
   key-responsibilities:
     name: Key responsibilities
     glossary: Essential work and decision making required in the context of a domain.
@@ -122,6 +132,10 @@ terms:
     name: Need
     definition:
     glossary: A need is a lack of something wanted or deemed necessary (a requirement).
+  open-domain:
+    name: Open Domain
+    definition:
+    glossary: A domain that is accounted for by a set of people who are invited to contribute when they can.
   operations:
     name: Operations
     definition:

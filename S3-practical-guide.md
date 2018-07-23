@@ -1932,23 +1932,20 @@ You could timebox:
 
 ---
 
-## Pattern 9.7: Proposal: Align Flow
+## Pattern 9.7: Align Flow
 
-![right,fit](img/workflow-and-value/align-flow.png)
+**Move decision making close to where value is created, and align the flow of information to support the flow of value.**
 
-In an effective organization, **flow of information and influence supports the continuous flow of value**.
+**Flow of value**: Deliverables traveling through an organization towards customers or other stakeholders.
 
-Alignment is achieved and maintained through the continuous improvement of agreements.
+When flow of information and influence supports the continuous and steady flow of value, the potential for accumulation of waste is reduced, and shorter feedback loops amplify learning.
+
+Achieve and maintain alignment of flow through the continuous evolution of an organization's body of agreements (including its structure).
 
 ---
 
-### Flow of Value
+![inline,fit](img/workflow-and-value/align-flow.png)
 
-Flow of value is guided by (explicit and implicit) agreements and assumptions.
-
-Continuous flow of value reduces the potential for accumulation of waste, and amplifies learning by shortening feedback loops.
-
-**Note:** Work in progress is regarded as waste because it ties up resources.
 
 ---
 
@@ -2162,7 +2159,7 @@ The second and third tier:
 **Glossary**:
 
 -   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added**: constituent, coordination, driver statement, evolve (v.)
+-   **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
 -   **removed**: peer driver
 
 ---
@@ -2184,6 +2181,7 @@ The second and third tier:
 
 
 - _Agree on Values_: improved description
+- _Align Flow_: improved description and illustration
 - _Adapt Patterns To Context_: improved description
 - _Agreement_: improved description, updated template
 - _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
@@ -2193,13 +2191,12 @@ The second and third tier:
 - _Delegate Circle_: improved description
 - _Delegate Influence_: improved description
 - _Describe Deliverables_: improved description
-- _Describe Organizational Drivers_: made explicit that a Driver Statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
-
 
 ---
 
 ### Changes 2018-06-22 (…)
 
+- _Describe Organizational Drivers_: made explicit that a Driver Statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
 - _Double Link_: aligned description to _Link_
 - _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
 - _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
@@ -2207,34 +2204,39 @@ The second and third tier:
 - _Facilitate Meetings_: improved description
 - _Fractal Organization_: extended and improved description
 - _Governance Backlog_: improved description
+
+---
+
+### Changes 2018-06-22 (…)
+
 - _Governance Meeting_: improved description, clarified agenda items
 - _Invite Change_: description now focuses on _how_ to invite change
 - _Link_: aligned description to _Double Link_
 - _Logbook_: clarified that there is no difference between logbooks for groups and logbooks for roles
 - _Navigate Via Tension_: improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
+- _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
+- _Open Domain_: improved description and updated illustration
+- _Open Systems_: improved description
+- _Open Space for Change_ (renamed from _Open S3 Adoption_, improved description, 
 
 
 ---
 
 ### Changes 2018-06-22 (…)
 
-- _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
-- _Open Domain_: improved description and updated illustration
-- _Open Systems_: improved description
-- _Open Space for Change_ (renamed from _Open S3 Adoption_, improved description, 
 - _Peach Organization_: clarified relationship between periphery and center
 - _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
 - _Representative_: improved description
 - _Resolve Objections_: updated both illustrations
 - _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
 - _Role_: improved description
+- _Role Selection_: added description of each step
 - _Rounds_: improved description
 - _Transparent Salaries_: added more details about fairness, and on how to develop a salary formula
 
 ---
 
 ### Changes 2018-06-22 (…)
-
 
 **Renamed Patterns:** 
 
@@ -2474,6 +2476,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (…)
 
 
+**Delegation**: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
 **Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
 **Deliverable**: A product, service, raw material, experience or transformation, provided as a result of an agreement.
 **Domain**: A distinct area of influence, activity and decision making within an organization.
@@ -2483,13 +2486,12 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Empiricism (principle)**: Test all assumptions through experiments and continuous revision.
 **Equivalence (principle)**: Involve people in making and evolving decisions that affect them.
 **Evolve (v.)**: to develop gradually.
+**Flow of Value**: Deliverables traveling through an organization towards customers or other stakeholders.
 **Governance**: Making and evolving decisions about what to do to achieve objectives, and setting constraints on how and when things will be done.
 **Governance Backlog**: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
+**Helping Team**: An equivalent group of people with the mandate to execute on a specific set of requirements.
 **Intended Outcome**: The expected result of an agreement, action, project or strategy.
 **Key responsibilities**: Essential work and decision making required in the context of a domain.
-**Logbook**: A (digital) system to store all information relevant for running an organization.
-**Need**: A need is a lack of something wanted or deemed necessary (a requirement).
-**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
 
 
 ---
@@ -2498,6 +2500,10 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (…)
 
 
+**Logbook**: A (digital) system to store all information relevant for running an organization.
+**Need**: A need is a lack of something wanted or deemed necessary (a requirement).
+**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
+**Open Domain**: A domain that is accounted for by a set of people who are invited to contribute when they can.
 **Operations**: The work being done to create and deliver value, guided by governance.
 **Organization**: A group of people collaborating toward a shared driver (or objective).
 **Organizational Driver**: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
@@ -2510,10 +2516,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Self-Governance**: People governing themselves within the constraints of a domain.
 **Self-Organization**: People organizing work within constraints defined through governance.
 **Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
-**Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
-**Strategy**: A high level approach for how people will create value to successfully account for a domain.
-**Subdomain**: A domain that is fully contained within another domain.
-**Subdriver**: A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
 
 
 ---
@@ -2522,6 +2524,10 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossary (…)
 
 
+**Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
+**Strategy**: A high level approach for how people will create value to successfully account for a domain.
+**Subdomain**: A domain that is fully contained within another domain.
+**Subdriver**: A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
 **Superdomain**: A domain that fully contains another domain.
 **Superdriver**: see subdriver.
 **Tension**: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.

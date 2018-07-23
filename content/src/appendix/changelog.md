@@ -11,7 +11,7 @@
 **Glossary**:
 
 -   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added**: constituent, coordination, driver statement, evolve (v.)
+-   **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
 -   **removed**: peer driver
 
 ---
@@ -33,6 +33,7 @@
 
 
 - _Agree on Values_: improved description
+- _Align Flow_: improved description and illustration
 - _Adapt Patterns To Context_: improved description
 - _Agreement_: improved description, updated template
 - _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
@@ -42,13 +43,12 @@
 - _Delegate Circle_: improved description
 - _Delegate Influence_: improved description
 - _Describe Deliverables_: improved description
-- _Describe Organizational Drivers_: made explicit that a Driver Statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
-
 
 ---
 
 ### Changes 2018-06-22 (…)
 
+- _Describe Organizational Drivers_: made explicit that a Driver Statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
 - _Double Link_: aligned description to _Link_
 - _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
 - _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
@@ -56,21 +56,26 @@
 - _Facilitate Meetings_: improved description
 - _Fractal Organization_: extended and improved description
 - _Governance Backlog_: improved description
+
+---
+
+### Changes 2018-06-22 (…)
+
 - _Governance Meeting_: improved description, clarified agenda items
 - _Invite Change_: description now focuses on _how_ to invite change
 - _Link_: aligned description to _Double Link_
 - _Logbook_: clarified that there is no difference between logbooks for groups and logbooks for roles
 - _Navigate Via Tension_: improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
+- _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
+- _Open Domain_: improved description and updated illustration
+- _Open Systems_: improved description
+- _Open Space for Change_ (renamed from _Open S3 Adoption_, improved description, 
 
 
 ---
 
 ### Changes 2018-06-22 (…)
 
-- _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
-- _Open Domain_: improved description and updated illustration
-- _Open Systems_: improved description
-- _Open Space for Change_ (renamed from _Open S3 Adoption_, improved description, 
 - _Peach Organization_: clarified relationship between periphery and center
 - _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
 - _Representative_: improved description
@@ -84,7 +89,6 @@
 ---
 
 ### Changes 2018-06-22 (…)
-
 
 **Renamed Patterns:** 
 
