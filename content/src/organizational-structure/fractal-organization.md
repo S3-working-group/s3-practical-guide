@@ -19,7 +19,7 @@ These constituents (i.e. organizations, branches, departments or projects) need 
 ---
 
 
-### Tiers
+## Tiers
 
 A fractal organization has at least three tiers: 
 
@@ -31,7 +31,7 @@ A fractal organization has at least three tiers:
 
 ## Forming a Fractal Organization
 
-1.  Forming the **second tier**: In each constituent, the members of each common (and significant) functional domain, decide who of them will represent them in a **function-specific delegate circle**, where they hare knowledge and learning, and contribute toward making and evolving agreements. Representatives are selected for a limited term (after which a new selection is made).
+1.  Forming the **second tier**: In each constituent, the members of each common (and significant) functional domain, decide who of them will represent them in a **function-specific delegate circle**, where they share knowledge and learning, and contribute toward making and evolving agreements. Representatives are selected for a limited term (after which a new selection is made).
 2.  Forming the **third tier**: second-tier delegate circles each select a delegate to form the **cross-functional delegate circle**.
 
 ---

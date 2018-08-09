@@ -13,7 +13,7 @@ terms:
   accountability:
     name: Accountability (principle)
     definition:
-    glossary: Respond when something is needed, do what you agreed to and take ownership for the course of the organization.
+    glossary: Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.
   account:
     name: Account for (v.)
     glossary: to take the responsibility for something.
@@ -86,7 +86,7 @@ terms:
   driver-statement:
     name: Driver Statement
     definition: A **driver statement** is a brief but comprehensive summary of the information required to understand a driver.
-    glossary: A a brief but comprehensive summary of the information required to understand a driver.
+    glossary: A brief but comprehensive summary of the information required to understand a driver.
   effectiveness:
     name: Effectiveness (principle)
     definition: Devote time only to what brings you closer toward achieving your objectives.
@@ -94,7 +94,7 @@ terms:
   empiricism:
     name: Empiricism (principle)
     definition:
-    glossary: Test all assumptions through experiments and continuous revision.
+    glossary: Test all assumptions through experimentation and continuous revision.
   equivalence:
     name: Equivalence (principle)
     definition:
@@ -130,8 +130,8 @@ terms:
     glossary: A (digital) system to store all information relevant for running an organization. 
   need:
     name: Need
-    definition:
-    glossary: A need is a lack of something wanted or deemed necessary (a requirement).
+    definition: A **need** is the lack of something wanted or deemed necessary (a requirement).
+    glossary: The lack of something wanted or deemed necessary (a requirement).
   open-domain:
     name: Open Domain
     definition:

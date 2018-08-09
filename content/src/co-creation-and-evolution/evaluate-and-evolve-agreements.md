@@ -6,9 +6,10 @@
 
 Regular review of agreements is an essential practice for a learning organization:
 
--   adapt to changing context
--   integrate learning
--   ensure all agreements have an appropriate review date 
+-   adapt agreements to suit changing context
+-   integrate learning to make them more effective
+
+Ensure all agreements have an appropriate review date.
 
 ---
 
@@ -16,7 +17,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 Evaluating agreements can be as simple as checking that an agreement is still relevant, and there is no objection to keeping it as it is.
 
-Agreements are often reviewed in *Governance Meetings*, however sometimes it's effective to schedule a dedicated session.
+Agreements are often reviewed in _Governance Meetings_, however sometimes it's more effective to schedule a dedicated session.
 
 Adjust review frequency as necessary, and review early if required.
 
@@ -27,9 +28,9 @@ Elements of this pattern can also be used by individuals to evaluate decisions t
 ## Short Format for Evaluating Agreements
 
 -   _How has this agreement helped us?_
+-   _Is there any reason to drop this agreement?_
 -   _How can this agreement be improved?_
--   _Is there any reason why not to continue with this agreement?_
--   Agree on a next review date
+-   Agree on a next review date.
 
 ---
 
@@ -39,11 +40,11 @@ Elements of this pattern can also be used by individuals to evaluate decisions t
 
 Preparation:
 
--   schedule the review
--   ensure all necessary information is available
+-   Schedule the review.
+-   Ensure all necessary information is available.
 
 Follow-up:
 
--   agree on the next review date
--   document decisions and tasks, and share with relevant people
--   consider effects on any related agreements
+-   Agree on the next review date.
+-   Document decisions and tasks, and share with relevant people.
+-   Consider effects on any related agreements.

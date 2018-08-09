@@ -2,7 +2,7 @@
 
 ![right,fit](img/templates/domain-description-template.png)
 
-**A clear understanding of people's area of accountability and autonomy enables greater efficiency, effective collaboration and agility throughout the organization.**
+**A clear understanding of people's area of accountability and autonomy enables greater efficiency, effective collaboration and agility throughout an organization.**
 
 A simple way to clarify domains is with a **domain description** that contains:
 

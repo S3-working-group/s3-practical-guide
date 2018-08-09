@@ -2,7 +2,7 @@
 
 {{define:backlog}}
 
-Types of backlogs include:
+Types of backlog include:
 
 -   governance backlog
 -   operations backlog

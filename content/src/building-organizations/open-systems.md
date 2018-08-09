@@ -1,9 +1,9 @@
 ## Open Systems
 
 
-**Individuals, groups and entire organizations can benefit from intentionally communicating with and learning from others outside of their system**.
+**Intentionally communicate with and learn from others outside of your system.**
 
-Acknowledge interdependence and intentionally invite people from outside a system to bring in **knowledge, experience and influence** to assist with decision making and support collective learning.
+Individuals, groups and entire organizations can acknowledge interdependence and intentionally invite people from outside their system to bring in **knowledge, experience and influence** to assist with decision making and support collective learning.
 
 
 ---

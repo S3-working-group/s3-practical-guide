@@ -5,7 +5,7 @@
 -   facilitate the meeting (timebox dialogue and use rounds where valuable)
 -   when useful, compile an agenda before the meeting and share it with attendees in advance
     -   include details of any prerequisites that can help attendees to prepare
-    -   further items may come up when hearing status reports
+    -   further agenda items may come up when hearing status reports
 
 ---
 

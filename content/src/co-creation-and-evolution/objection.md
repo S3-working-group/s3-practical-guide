@@ -24,7 +24,7 @@ When seeking out potential objections, consider:
 
 - why the intended outcome would not be (fully) achieved: **effectiveness**
 - why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
-- the negative consequences something would have elsewhere (in the same domain, or in the wider organization, or beyond): **side-effects**
+- the negative consequences something would have elsewhere (in the same domain, in the wider organization, or beyond): **side-effects**
 
 ---
 

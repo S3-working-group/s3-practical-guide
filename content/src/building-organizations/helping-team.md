@@ -11,8 +11,12 @@ A helping team:
 -   is governed by the delegator
 -   benefits from a clearly defined domain
 
+---
+
+## Helping Team (…)
+
 Members of the helping team:
 
 -   can object to the delegator's decisions that affect them
 -   can add items to the delegator's governance backlog
--   may be invited to select a representative to participate in the governance decisions of the delegator
+-   may be invited to select a representative to participate in the governance decision making of the delegator

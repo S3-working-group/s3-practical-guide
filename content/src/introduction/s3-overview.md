@@ -10,9 +10,9 @@
 
 ## What's in it for me?
 
-Sociocracy 3.0 — **a.k.a. "S3"** — brings you an extensive collection of guidelines and practices (patterns)  that have proven helpful for organizations for **improving performance, alignment, fulfillment and wellbeing**. 
+Sociocracy 3.0 — **a.k.a. "S3"** — brings you an extensive collection of guidelines and practices (patterns) that have proven helpful for organizations for to **improve performance, alignment, fulfillment and wellbeing**. 
 
-S3 helps you discover how to best reach your objectives and navigate complexity, one step at a time, **without the need for radical reorganization or a big change initiative**:
+S3 helps you discover how to best reach your objectives and navigate complexity, one step at a time, **without the need for sudden radical reorganization or planning a long-term change initiative**:
 
 -   Simply start with your area of greatest need, select one or more patterns to try, **move at your own pace** and develop skills as you go. 
 
@@ -24,4 +24,8 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 
 -   a brief overview of some basic concepts behind S3
 -   a description of all the patterns in S3
--   an appendix with a changelog, acknowledgments, info about authors and license, a glossary and an index
+-   an appendix 
+    -   changelog
+    -   info about authors and acknowledgments
+    -   the license
+    -   glossary and index

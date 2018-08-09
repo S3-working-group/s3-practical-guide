@@ -76,7 +76,7 @@ Explain the need of the organization in relation to this situation:
 
 Describe the impact of attending to that need:
 
-- Explain intended outcome, potential benefits or opportunities.
+- Explain the intended outcome, potential benefits or opportunities.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
 
 ---

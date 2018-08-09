@@ -4,7 +4,7 @@
 
 -   introduce the principle of consent and _Navigate Via Tension_ to evolve work process in a group
 -   consider selecting a facilitator to guide group processes, and choosing values to guide the group
--   trigger continuous improvement (e.g through Kanban)
+-   trigger continuous improvement (through Kanban, retrospectives, etc.)
 -   members of the group pull in S3 patterns as required
 -   if valuable, iteratively expand the scope of the experiment to other groups
 -   intentionally look out for impediments  

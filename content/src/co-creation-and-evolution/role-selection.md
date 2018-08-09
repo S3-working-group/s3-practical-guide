@@ -2,7 +2,17 @@
 
 ![right,fit](img/agreements/selection.png)
 
-**A group process for selecting a person for a role on the strength of the reason, rather than according to majority.**
+**A group process for selecting a person for a role on the strength of the reason.**
+
+Instead of simply assigning people for roles, or making a choice based only on majority, use the role selection process to:
+
+- tap collective intelligence by hearing and deliberating on reasons for nominations
+- increase ownership over the decision
+- ensure support for the role keeper by those affected.
+
+---
+
+## Role Selection (…)
 
 **1. Present Role Description:** If possible, send out the role’s domain description in advance.
 
@@ -10,11 +20,11 @@
 
 **3. Reasons for Nominations:**  Each person shares who they have nominated and why.
 
+**4. Information Gathering:** Participants share or request any information that might support the group in making an appropriate selection.
+
 ---
 
 ## Role Selection (…)
-
-**4. Information Gathering:** Participants share or request any information that might support the group in making an appropriate selection.
 
 **5. Nomination Changes:** Check if anyone wants to change their nomination in light of reasons and information shared so far, and hear the reasons for each change.
 
@@ -23,7 +33,6 @@
 -   proposing a nominee themselves or asking a group member
 -   inviting (some) nominees to agree who should be proposed
 -   inviting group dialogue to help reveal the strongest nominee
-
 
 ---
 

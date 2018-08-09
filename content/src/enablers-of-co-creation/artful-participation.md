@@ -4,6 +4,12 @@
 
 **Commit to doing your best to act and interact in ways that enable effective collaboration.**
 
+Participating artfully may include interrupting, objecting or breaking  agreements.
+
+---
+
+## Artful Participation (…)
+
 _Artful Participation_ is an **individual commitment** to:
 
 -   actively **consider and follow-up on all agreements** made, in the best way possible, given the circumstances
@@ -11,8 +17,6 @@ _Artful Participation_ is an **individual commitment** to:
 -   **grow the necessary skills**
 -   **support others** to participate artfully
 -   bring impediments and improvement suggestions to the attention of others if necessary
-
-Participating artfully may include interrupting, objecting or breaking  agreements.
 
 ---
 

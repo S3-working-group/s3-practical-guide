@@ -6,7 +6,7 @@ Some considerations for successfully preparing a meeting:
 
 - clarify and communicate the driver for, and intended outcome of the meeting
 - decide who to invite 
-- create and agenda
+- create an agenda
 - schedule the meeting enough in advance, so people have time to prepare
 - choose an appropriate duration for the meeting 
 - be clear who will facilitate the meeting, who will take minutes and who will take care of any follow-up
@@ -15,7 +15,7 @@ Some considerations for successfully preparing a meeting:
 
 ## Preparing an Agenda
 
-Involve people in preparing and prioritizing and agenda and send it out in advance
+Involve people in preparing and prioritizing an agenda and send it out in advance
 
 For each agenda item agree on:
 

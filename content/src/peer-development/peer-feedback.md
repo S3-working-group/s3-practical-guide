@@ -2,8 +2,8 @@
 
 Invite a peer to give you some constructive feedback on: 
 
--   performance in a role
--   general feedback about your participation and contribution
+-   your performance in a role
+-   your general participation and contribution
 -   any specific aspect you may be interested in
 
 Considerations:

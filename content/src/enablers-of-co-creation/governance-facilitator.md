@@ -2,9 +2,11 @@
 
 ![right,fit](img/circle/facilitator.png)
 
+**Select someone to facilitate governance meetings.**
+
 A governance facilitator:
 
--   is accountable for ensuring governance meetings are facilitated, stay on track and are evaluated
+-    ensures governance meetings stay on track and are evaluated
 -   is (usually) selected by a group from among it members (and for a specific term)
 -   familiarizes themselves with the governance backlog
 -   often invites others to facilitate some agenda items
@@ -13,7 +15,7 @@ A governance facilitator:
 
 ## Governance Facilitator (…)
 
-To support effective governance, the facilitator should be familiar with the following patterns:
+As a governance facilitator, consider learning about and using the following patterns from S3 to handle governance effectively:
 
 -   _Rounds_
 -   _Proposal Forming_

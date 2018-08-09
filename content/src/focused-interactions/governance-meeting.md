@@ -24,7 +24,7 @@ A typical governance meeting includes:
     -   check for any last-minute agenda items and for consent to the agenda
 -   agenda items 
 -   meeting evaluation: reflect on your interactions, celebrate successes and share suggestions for improvement
--   closing: check in to learn how people leave the meeting
+-   closing: check in with each other before you leave the meeting
 
 ---
 

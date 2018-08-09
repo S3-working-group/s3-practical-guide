@@ -3,10 +3,11 @@
 ### Changes 2018-06-22
 
 **General Changes**
+
 - added and revised the brief summary for many of the patterns
 - removed bullet points in favor of full sentences in many patterns
 - lots of small improvements to grammar and language
-- added a link to the web version of the practical guide 
+- included the URL to the web version of the practical guide 
 
 **Glossary**:
 
@@ -20,12 +21,12 @@
 
 **Changes to Introduction**
 
-- added “Primary Driver for Sociocracy 3.0”
-- The Seven Principles:
+-   added the driver for creating Sociocracy 3.0
+-   The Seven Principles:
     -   _The Principle of Empiricism_: removed reference to “falsification” 
     -   _The Principle of Consent_ is now explained more clearly as  “Raise, seek-out and resolve objections to decisions and actions” 
--   Governance, Semi-Autonomy and Self-Organization: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”,  and clarified the distinction between governance and operations
-- _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
+-   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”,  and clarified the distinction between governance and operations
+-   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
 
 ---
 
@@ -69,8 +70,7 @@
 - _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
 - _Open Domain_: improved description and updated illustration
 - _Open Systems_: improved description
-- _Open Space for Change_ (renamed from _Open S3 Adoption_, improved description, 
-
+- _Open Space for Change_: renamed from _Open S3 Adoption_, improved description
 
 ---
 
@@ -82,7 +82,7 @@
 - _Resolve Objections_: updated both illustrations
 - _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
 - _Role_: improved description
-- _Role Selection_: added description of each step
+- _Role Selection_: improved description, added description of each step
 - _Rounds_: improved description
 - _Transparent Salaries_: added more details about fairness, and on how to develop a salary formula
 
@@ -92,9 +92,9 @@
 
 **Renamed Patterns:** 
 
-- _Evaluate Agreements to _Evaluate and Evolve Agreements_
+- _Evaluate Agreements_ to _Evaluate and Evolve Agreements_
 - _Intended Outcome_ to _Clarify Intended Outcome_ 
-- _Open S3 Adoption_ to _Open Space for Change” 
+- _Open S3 Adoption_ to _Open Space for Change_
 
 **Added Patterns:**
 
