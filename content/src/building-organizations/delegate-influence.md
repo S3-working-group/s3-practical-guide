@@ -2,7 +2,7 @@
 
 **Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.**
 
-A delegator can support delegatees to deliver value by:
+A [delegator](glossary:delegator) can support [delegatees](glossary:delegatee) to deliver value by:
 
 -   Clearly defining domains of autonomy and accountability
 -   Ensuring there are opportunities for learning and development

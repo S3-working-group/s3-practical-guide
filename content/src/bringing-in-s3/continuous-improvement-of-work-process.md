@@ -2,7 +2,7 @@
 
 **Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.**
 
--   introduce the principle of consent and _Navigate Via Tension_ to evolve work process in a group
+-   introduce the principle of consent and [Navigate Via Tension](section:navigate-via-tension) to evolve work process in a group
 -   consider selecting a facilitator to guide group processes, and choosing values to guide the group
 -   trigger continuous improvement (through Kanban, retrospectives, etc.)
 -   members of the group pull in S3 patterns as required

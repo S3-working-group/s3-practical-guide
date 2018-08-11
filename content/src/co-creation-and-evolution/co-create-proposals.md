@@ -9,7 +9,7 @@ There are many ways to co-create proposals. They typically follow a similar patt
 3. Generate ideas
 4. Design a proposal (often done by a smaller group)
 
-One way to co-create proposals is to use S3's _Proposal Forming_ pattern. 
+One way to co-create proposals is to use S3's [Proposal Forming](section:proposal-forming) pattern. 
 
 ---
 

@@ -560,7 +560,7 @@ Consider including those affected in reviewing and evolving decisions, too.
 
 **Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.**
 
-There are many ways to co-create proposals. They typicallyfollow a similar pattern:
+There are many ways to co-create proposals. They typically follow a similar pattern:
 
 1. Agree on the driver (or problem / opportunity / need)
 2. Explore the topic and understand constraints
@@ -663,7 +663,6 @@ Instead of simply assigning people for roles, or making a choice based only on m
 -   inviting (some) nominees to agree who should be proposed
 -   inviting group dialogue to help reveal the strongest nominee
 
-
 ---
 
 ## Role Selection (…)
@@ -683,9 +682,6 @@ To avoid influencing others, abstain from expressing personal interest or opinio
 Sometimes a role selection reveals a lack of capacity, relevant experience, qualities or skill. A group will then need to consider outside candidates, reconsider priorities or find an alternative way to account for the domain.
 
 This pattern can also be used in any situation where there is a need to choose between a variety of options.
-
-
-
 
 
 ---
@@ -911,9 +907,9 @@ Chosen values are an agreement that benefits from **regular review**.
 
 A governance facilitator:
 
--    ensures governenace meetings stay on track and are evaluated
+-    ensures governance meetings stay on track and are evaluated
 -   is (usually) selected by a group from among it members (and for a specific term)
--   familiarizes themselves with the governance backlog
+-   familiarizes themselves with the _Governance Backlog_
 -   often invites others to facilitate some agenda items
 
 ---
@@ -977,7 +973,7 @@ To preserve organizational culture, maintain self-accountability and help new me
 
 Transparent salary (also referred to as "open salary") is the practice of making the salary formula - and often individual compensation as well - transparent to all members of an organization, and sometimes to the public.
 
-A transparent salary formula needs to suit an organizations context, and to be perceived as fair enough by all stakeholders.
+A transparent salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
 
 Perception of fairness varies from person to person and according to context, so creating a salary formula requires developing a shared understanding of what is considered fair.
 
@@ -1041,7 +1037,7 @@ Consider:
 
 **Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.**
 
-A delegator can support delegatees to deliver value by:
+A [delegator](glossary:delegator) can support [delegatees](glossary:delegatee) to deliver value by:
 
 -   Clearly defining domains of autonomy and accountability
 -   Ensuring there are opportunities for learning and development
@@ -1758,7 +1754,7 @@ When checking in, in a new setting, people can also say their name and where the
 
 **Take time for learning at the end of each meeting or workshop.**
 
-Reflect on interactions, celebrate successes and share suggestions for improvement before the closing the meeting.
+Reflect on interactions, celebrate successes and share suggestions for improvement before closing the meeting.
 
 -   reserve 5 minutes for 1 hour, and 15 minutes for a full-day workshop
 -   record learning and review it before the next meeting
@@ -2226,7 +2222,7 @@ The second and third tier:
 - _Agreement_: improved description, updated template
 - _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
 - _Consent Decision Making_: improved description, updated illustration
-- _Continuous Improvement Of Work Process With S3_: improved description
+- _Continuous Improvement Of Work Process_: improved description
 - _Coordination Meeting_: clarified agenda items, updated illustration
 - _Delegate Circle_: improved description
 - _Delegate Influence_: improved description
@@ -2236,8 +2232,8 @@ The second and third tier:
 
 ### Changes 2018-06-22 (…)
 
-- _Describe Organizational Drivers_: made explicit that a Driver Statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
-- _Double Link_: aligned description to _Link_
+- _Describe Organizational Drivers_: made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
+- _Double Linking_: aligned description to _Link_
 - _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
 - _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
 - _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
@@ -2251,7 +2247,7 @@ The second and third tier:
 
 - _Governance Meeting_: improved description, clarified agenda items
 - _Invite Change_: description now focuses on _how_ to invite change
-- _Link_: aligned description to _Double Link_
+- _Linking_: aligned description to _Double Linking_
 - _Logbook_: clarified that there is no difference between logbooks for groups and logbooks for roles
 - _Navigate Via Tension_: improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
 - _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
@@ -2269,9 +2265,9 @@ The second and third tier:
 - _Resolve Objections_: updated both illustrations
 - _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
 - _Role_: improved description
-- _Role Selection_: added description of each step
+- _Role Selection_: improved description, added description of each step
 - _Rounds_: improved description
-- _Transparent Salaries_: added more details about fairness, and on how to develop a salary formula
+- _Transparent Salary_: added more details about fairness, and on how to develop a salary formula
 
 ---
 
@@ -2287,7 +2283,7 @@ The second and third tier:
 
 - _Check In_
 - _Co-create Proposals_
-- _Prepare for Meetings_ 
+- _Prepare for Meetings_
 - _Timebox Activities_
 
 ---
@@ -2488,7 +2484,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 ---
 
 
-
 # Glossary 
 
 
@@ -2574,6 +2569,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
 **Values**: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.
 **Waste**: Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
+
 
 
 ---
