@@ -5,33 +5,24 @@ title: "Respond to Organizational Drivers"
 
 ![right,fit](img/driver-domain/driver-response-full.png)
 
-_Clarify what's happening and what's needed in relation to the organization, and respond as required._
+**Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.**
 
-Responses to drivers:
+Responses to organizational drivers include:
 
--   action
--   decision (including creating a role, circle, helping team or open domain)
+- direct action (operations)
+- organizing how work will be done 
+- making governance decisions
+
+The response to an organizational driver is typically treated as an experiment that is evaluated and evolved over time.
 
 
 ### Qualify Organizational Drivers
 
-Some drivers are (directly or indirectly) related to an organization's primary driver, these are considered **organizational drivers**. Other drivers do not fall within the organization's domain.
+A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
 
-A simple way to qualify organizational drivers is by checking:
+A simple way to qualify whether or not a driver falls within an organization's domain is by checking:
 
-_Would responding to this driver improve - or avoid impeding - flow of value to an existing organizational driver? a.k.a. can it help or harm us?_
-
-
-### Review of Drivers
-
-![right,fit](img/evolution/kaizen.png)
-
-The response to a driver is usually an experiment that is evolved over time, based on learning.
-
--   Is the description of the situation still correct?
--   Do we still associate the same needs with the situation?
--   Is the driver still within our domain?
--   Is the driver still relevant?
+_Would it help the organization if we respond to this driver? Or would it harm us if we don't?_
 
 
 [&#9654; Navigate Via Tension](navigate-via-tension.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)

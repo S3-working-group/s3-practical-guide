@@ -7,6 +7,7 @@ _A **backlog** (to-do-list) is a visible list of (often prioritized) uncompleted
 
 Types of backlog include:
 
+-   governance backlog
 -   operations backlog
 -   sprint backlog
 -   product backlog
@@ -14,13 +15,14 @@ Types of backlog include:
 
 
 
--   **Implementation**
-    -   **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
-    -   **digital backlog**: e.g. Google Sheets, Trello, Kanban Flow, Jira
+**Implementation:**
+
+-   **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
+-   **digital backlog**: e.g. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
 
 
-Each item on a (prioritized) backlog contains:
+Each item on a (prioritized) backlog typically contains:
 
 -   a **short description** or a driver statement
 -   a **unique reference number** (or link) for each work item

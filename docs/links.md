@@ -5,7 +5,10 @@ title: "Links"
 
 ![fit](img/framework/logo.png)
 
-**Latest version of this guide**: [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
+**Latest version of the Practical Guide**:
+
+- online version [http://patterns.sociocracy30.org](http://patterns.sociocracy30.org) (with a searchable [pattern index](http://patterns.sociocracy30.org/pattern-index.html))
+- Various other formats and languages: [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
 
 **S3 website**: [http://sociocracy30.org](http://sociocracy30.org)
 

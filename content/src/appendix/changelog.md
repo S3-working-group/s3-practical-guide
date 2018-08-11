@@ -33,58 +33,58 @@
 ### Changes 2018-06-22 (…)
 
 
-- _Agree on Values_: improved description
-- _Align Flow_: improved description and illustration
-- _Adapt Patterns To Context_: improved description
-- _Agreement_: improved description, updated template
-- _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
-- _Consent Decision Making_: improved description, updated illustration
-- _Continuous Improvement Of Work Process With S3_: improved description
-- _Coordination Meeting_: clarified agenda items, updated illustration
-- _Delegate Circle_: improved description
-- _Delegate Influence_: improved description
-- _Describe Deliverables_: improved description
+- [Agree on Values](section:agree-on-values): improved description
+- [Align Flow](section:align-flow): improved description and illustration
+- [Adapt Patterns To Context](section:adapt-patterns-to-context): improved description
+- [Agreement](section:agreement): improved description, updated template
+- [Clarify Intended Outcome](section:clarify-intended-outcome) (renamed from _Intended Outcome_): improved description
+- [Consent Decision Making](section:consent-decision-making): improved description, updated illustration
+- [Continuous Improvement Of Work Process](section:continuous-improvement-of-work-process): improved description
+- [Coordination Meeting](section:coordination-meeting): clarified agenda items, updated illustration
+- [Delegate Circle](section:delegate-circle): improved description
+- [Delegate Influence](section:delegate-influence): improved description
+- [Describe Deliverables](section:describe-deliverables): improved description
 
 ---
 
 ### Changes 2018-06-22 (…)
 
-- _Describe Organizational Drivers_: made explicit that a Driver Statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
-- _Double Link_: aligned description to _Link_
-- _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
-- _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
-- _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
-- _Facilitate Meetings_: improved description
-- _Fractal Organization_: extended and improved description
-- _Governance Backlog_: improved description
+- [Describe Organizational Drivers](section:describe-organizational-drivers): made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
+- [Double Linking](section:double-linking): aligned description to _Link_
+- [Double-Linked Hierarchy](section:double-linked-hierarchy): explained in more detail what a double-linked hierarchy is, and how it is created
+- [Evaluate and Evolve Agreements](section:evaluate-and-evolve-agreements): rearranged the text so it's clear there is a long and a short format
+- [Evaluation Criteria](section:evaluation-criteria): suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
+- [Facilitate Meetings](section:facilitate-meetings): improved description
+- [Fractal Organization](section:fractal-organization): extended and improved description
+- [Governance Backlog](section:governance-backlog): improved description
 
 ---
 
 ### Changes 2018-06-22 (…)
 
-- _Governance Meeting_: improved description, clarified agenda items
-- _Invite Change_: description now focuses on _how_ to invite change
-- _Link_: aligned description to _Double Link_
-- _Logbook_: clarified that there is no difference between logbooks for groups and logbooks for roles
-- _Navigate Via Tension_: improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
-- _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
-- _Open Domain_: improved description and updated illustration
-- _Open Systems_: improved description
-- _Open Space for Change_: renamed from _Open S3 Adoption_, improved description
+- [Governance Meeting](section:governance-meeting): improved description, clarified agenda items
+- [Invite Change](section:invite-change): description now focuses on _how_ to invite change
+- [Linking](section:linking): aligned description to [Double Linking](section:double-linking)
+- [Logbook](section:logbook): clarified that there is no difference between logbooks for groups and logbooks for roles
+- [Navigate Via Tension](section:navigate-via-tension): improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
+- [Objection](section:objection): clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
+- [Open Domain](section:open-domain): improved description and updated illustration
+- [Open Systems](section:open-systems): improved description
+- [Open Space for Change](section:open-space-for-change): renamed from _Open S3 Adoption_, improved description
 
 ---
 
 ### Changes 2018-06-22 (…)
 
-- _Peach Organization_: clarified relationship between periphery and center
-- _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
-- _Representative_: improved description
-- _Resolve Objections_: updated both illustrations
-- _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
-- _Role_: improved description
-- _Role Selection_: improved description, added description of each step
-- _Rounds_: improved description
-- _Transparent Salaries_: added more details about fairness, and on how to develop a salary formula
+- [Peach Organization](section:peach-organization): clarified relationship between periphery and center
+- [Proposal Forming](section:proposal-forming): revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
+- [Representative](section:representative): improved description
+- [Resolve Objections](section:resolve-objections): updated both illustrations
+- [Respond to Organizational Drivers](section:respond-to-organizational-drivers): improved description, simplified qualification of organizational drivers
+- [Role](section:role): improved description
+- [Role Selection](section:role-selection): improved description, added description of each step
+- [Rounds](section:rounds): improved description
+- [Transparent Salary](section:transparent-salary): added more details about fairness, and on how to develop a salary formula
 
 ---
 
@@ -98,17 +98,17 @@
 
 **Added Patterns:**
 
-- _Check In_
-- _Co-create Proposals_
-- _Prepare for Meetings_ 
-- _Timebox Activities_
+- [Check In](section:check-in)
+- [Co-create Proposals](section:co-create-proposals)
+- [Prepare for Meetings](section:prepare-for-meetings)
+- [Timebox Activities](section:timebox-activities)
 
 ---
 
 ### Changes 2018-03-21
 
 * renamed pattern  _Describe Drivers_ to _Describe Organizational Drivers_
-* _Describe Organizational Drivers_: explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
+* [Describe Organizational Drivers](section:describe-organizational-drivers): explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 * added _need_ to glossary
 
 ---

@@ -3,17 +3,17 @@ title: "Delegate Influence"
 ---
 
 
-Decentralize power to influence within defined constraints. Enable people to decide and act for themselves in response to organizational drivers.
+**Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.**
 
-The delegator supports people in delivering value by:
+A <dfn data-info="Delegator: An individual or group delegating a domain to other(s) to be accountable for.">delegator</dfn> can support <dfn data-info="Delegatee: An individual or group accepting accountability for a domain delegated to them.">delegatees</dfn> to deliver value by:
 
-- defining domains of accountability and autonomy clearly
-- ensuring ongoing learning and development
-- providing support as needed
+-   Clearly defining domains of autonomy and accountability
+-   Ensuring there are opportunities for learning and development
+-   Providing support if required
 
 Adjust constraints incrementally, considering capabilities, reliability and outcome.
 
-Decentralize as much as possible, retain as much influence as necessary.
+Decentralize as much as possible, and retain as much influence as necessary.
 
 
 [&#9654; Circle](circle.html)<br/>[&#9650; Building Organizations](building-organizations.html)

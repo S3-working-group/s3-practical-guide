@@ -17,7 +17,7 @@ Ensure all agreements have an appropriate review date.
 
 Evaluating agreements can be as simple as checking that an agreement is still relevant, and there is no objection to keeping it as it is.
 
-Agreements are often reviewed in _Governance Meetings_, however sometimes it's more effective to schedule a dedicated session.
+Agreements are often reviewed in [Governance Meetings](section:governance-meeting), however sometimes it's more effective to schedule a dedicated session.
 
 Adjust review frequency as necessary, and review early if required.
 

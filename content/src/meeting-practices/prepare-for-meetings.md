@@ -38,7 +38,7 @@ For each agenda item agree on:
 
 ## As a participant
 
-- consider the pattern _Artful Participation_
+- consider the pattern [Artful Participation](section:artful-participation)
 - review the agenda and consider how you can contribute to each item
 - bring up objections to an agenda, and if possible resolve them before the meeting
 - review improvement suggestions from the last meeting's evaluation and consider how **you** might act on them
