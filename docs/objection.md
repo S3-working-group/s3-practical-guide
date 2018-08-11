@@ -3,40 +3,53 @@ title: "Objection"
 ---
 
 
-_An **objection** is a reason why doing something stands in the way of (more) effective response to a driver._
+_An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement)._
 
-Objections contain information that reveals:
-
-- a certain or likely consequence of harm (not considered safe enough to try)
-- ways to improve proposals, decisions, existing agreements or actions
+Objections contain information that reveals **certain or likely consequence of harm** and/or **opportunities to immediately improve** proposals, decisions, existing agreements or actions. 
 
 
-### Qualify Objections
 
 It's the accountability of individuals to raise potential objections. 
-
-Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing qualified objections.*
 
 Withholding objections can harm the ability of individuals, groups or
 the whole organization to respond to organizational drivers.
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
 
+Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
 
 
-_How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?_
+When seeking out potential objections, consider:
 
-Objections stop: 
+- why the intended outcome would not be (fully) achieved: **effectiveness**
+- why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
+- the negative consequences something would have elsewhere (in the same domain, in the wider organization, or beyond): **side-effects**
+
+
+
+The information revealed by objections can be used to improve:
 
 -   current and planned action
--   people from executing on decisions
--   existing agreements from continuing without being reconsidered
--   proposals from becoming agreements
+-   how people execute on decisions
+-   existing agreements
+-   proposals
+-   shared understanding of drivers
+
+
+## Qualify Objections
+
+Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on opinion, preference or concern.
+
+To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
+
+_“Do you think this argument qualifies as an objection?”_
+
+If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
 
 
 ### Understanding Objections
 
-Some Helpful Questions:
+Some helpful questions:
 
 -   How does the argument relate to this specific proposal or agreement?
 -   Does the argument reveal how a (proposed or current) **action or agreement**:
@@ -49,15 +62,13 @@ Some Helpful Questions:
 
 ### Concerns
 
-A **concern** is an _opinion_ that doing something (even if already considered _good enough for now and safe enough to try_) **might** impede – or miss an opportunity to improve – flow of value to an organizational driver.
+_A **concern** is an opinion that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
 
-In consent decision making, concerns:
+In [Consent Decision Making](consent-decision-making.html), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
 
--   can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation) 
--   are heard if there is time or they are considered important
--   are recorded in the logbook
+Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
-If people believe a proposal may not be ‘safe enough to try’, they can raise concerns as objections to check with others about likelihood of harm.
+If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
 
 
 [&#9654; Resolve Objections](resolve-objections.html)<br/>[&#9664; Consent Decision Making](consent-decision-making.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)

@@ -5,15 +5,12 @@ title: "Organizational Structure"
 
 Organizational structure is the actual arrangement of domains and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
 
-An effective organizational structure:
+Continuously evolve your organization's structure to:
 
--   supports flow of value
--   enables collaboration
--   addresses dependencies and makes them explicit
--   ensures information is available to those who need it
--   distributes power to influence as required
--   evolves continuously to adapt to changing context
-
+-   support the continuous flow of value
+-   enable effective collaboration around dependencies
+-   ensure information is available to those who need it
+-   distribute power to influence as required
 
 
 
@@ -22,7 +19,7 @@ The basic building blocks for organizational structure are interdependent, conne
 Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex  adaptive system, or network, where multiple functional structures can co-exist).
 
 
-### Structural Patterns
+## Structural Patterns
 
 Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 
