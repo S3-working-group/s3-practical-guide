@@ -40,7 +40,7 @@ endif
 	$(MKTPL) templates/deckset-template.md $(TMPFOLDER)/deckset-template.md $(LOC) $(PRJ)
 	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=$(TMPFOLDER)/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
 	# append pattern-index
-	mdslides deckset-index $(PATTERNINDEX) $(TARGETFILE).md
+	mdslides deckset-index $(CONFIG) $(TARGETFILE).md
 
 revealjs:
 	$(update-make-conf)
