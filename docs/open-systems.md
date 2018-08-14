@@ -15,5 +15,5 @@ Individuals, groups and entire organizations can acknowledge interdependence and
 -   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)
 
 
-[&#9654; Focused Interactions](focused-interactions.html)<br/>[&#9664; Open Domain](open-domain.html)<br/>[&#9650; Building Organizations](building-organizations.html)
+[&#9654; Bringing In S3](bringing-in-s3.html)<br/>[&#9664; Open Domain](open-domain.html)<br/>[&#9650; Building Organizations](building-organizations.html)
 

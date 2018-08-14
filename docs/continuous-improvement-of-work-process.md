@@ -25,5 +25,5 @@ Establishing a process for the ongoing elimination of waste enables natural evol
 
 
 
-[&#9654; Building Organizations](building-organizations.html)<br/>[&#9664; Open Space For Change](open-space-for-change.html)<br/>[&#9650; Bringing In S3](bringing-in-s3.html)
+[&#9654; Defining Agreements](defining-agreements.html)<br/>[&#9664; Open Space For Change](open-space-for-change.html)<br/>[&#9650; Bringing In S3](bringing-in-s3.html)
 

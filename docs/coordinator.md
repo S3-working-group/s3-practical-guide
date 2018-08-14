@@ -11,5 +11,5 @@ Several coordinators may collaborate to synchronize work across multiple domains
 
 Instead of selecting a coordinator, a group may choose to self-organize.
 
-[&#9654; Defining Agreements](defining-agreements.html)<br/>[&#9664; Align Flow](align-flow.html)<br/>[&#9650; Organizing Work](organizing-work.html)
+[&#9654; Organizational Structure](organizational-structure.html)<br/>[&#9664; Align Flow](align-flow.html)<br/>[&#9650; Organizing Work](organizing-work.html)
 

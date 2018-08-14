@@ -15,5 +15,5 @@ A governance backlog contains:
 
 
 
-[&#9654; Bringing In S3](bringing-in-s3.html)<br/>[&#9664; Meeting Host](meeting-host.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
+[&#9654; Organizing Work](organizing-work.html)<br/>[&#9664; Meeting Host](meeting-host.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
 

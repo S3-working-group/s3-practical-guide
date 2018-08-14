@@ -21,5 +21,5 @@ Agenda items:
 - responding to impediments
 
 
-[&#9654; Enablers Of Co-Creation](enablers-of-co-creation.html)<br/>[&#9664; Planning And Review Meetings](planning-and-review-meetings.html)<br/>[&#9650; Focused Interactions](focused-interactions.html)
+[&#9654; Meeting Practices](meeting-practices.html)<br/>[&#9664; Planning And Review Meetings](planning-and-review-meetings.html)<br/>[&#9650; Focused Interactions](focused-interactions.html)
 
