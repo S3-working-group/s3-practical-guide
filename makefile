@@ -1,5 +1,5 @@
 
-CONFIG=templates/structure.yaml
+CONFIG=content/structure-new.yaml
 GLOSSARY=content/glossary.yaml
 SOURCE=content/src
 TMPFOLDER=tmp
