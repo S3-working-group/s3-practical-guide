@@ -5,25 +5,25 @@ content:
   end: SKIP
 
   introduction:
-    - title: Introduction
-      slug: introduction
-      sections:
-        - title: S3-Overview
-          slug: s3-overview
-        - title: History
-          slug: history
-        - title: Basic-Concepts
-          slug: basic-concepts
-        - title: Patterns
-          slug: patterns
-        - title: Principles
-          slug: principles
-        - title: Driver
-          slug: driver
-        - title: Domain
-          slug: domain
-        - title: Governance
-          slug: governance  
+    title: Introduction
+    slug: introduction
+    sections:
+      - title: S3-Overview
+        slug: s3-overview
+      - title: History
+        slug: history
+      - title: Basic-Concepts
+        slug: basic-concepts
+      - title: Patterns
+        slug: patterns
+      - title: Principles
+        slug: principles
+      - title: Driver
+        slug: driver
+      - title: Domain
+        slug: domain
+      - title: Governance
+        slug: governance  
 
   chapters:
     - title: Co-Creation And Evolution
@@ -215,19 +215,19 @@ content:
           slug: fractal-organization
 
   appendix:
-    - title: Appendix
-      slug: appendix
-      sections:
-      - title: Changelog
-        slug: changelog
-      - title: Links
-        slug: links
-      - title: License
-        slug: license
-      - title: Acknowledgments
-        slug: acknowledgments
-      - title: Authors
-        slug: authors
-      - title: Glossary
-        slug: glossary
+    title: Appendix
+    slug: appendix
+    sections:
+    - title: Changelog
+      slug: changelog
+    - title: Links
+      slug: links
+    - title: License
+      slug: license
+    - title: Acknowledgments
+      slug: acknowledgments
+    - title: Authors
+      slug: authors
+    - title: Glossary
+      slug: glossary
 
