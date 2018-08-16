@@ -9,9 +9,10 @@ title: "Proposal: Align Flow"
 
 Achieve and maintain alignment of flow through the continuous evolution of an organization's body of agreements:
 
-* enable people with relevant skills and knowledge to influence decisions
-* make available any helpful information
-* aim for shorter feedback loops to amplify learning.
+-   ensure all decisions affecting the flow of value actually support the flow of value
+-   enable people with relevant skills and knowledge to influence decisions
+-   make available any helpful information
+-   aim for shorter feedback loops to amplify learning.
 
 When decision making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is reduced.
 

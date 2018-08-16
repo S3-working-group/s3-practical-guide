@@ -13,6 +13,7 @@ title: "Support Role"
 
 External contractors consent to take on their role.
 
+see also: [Contract For Successful Collaboration](contract-for-successful-collaboration)
 
 [&#9654; Bylaws](bylaws.html)<br/>[&#9664; Transparent Salary](transparent-salary.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
 

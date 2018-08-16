@@ -592,7 +592,7 @@ This pattern can also be used in any situation where there is a need to choose b
 
 A workshop format to identify an effective response to a complex situation: organize start-ups, kick-off projects, tackle major impediments or opportunities, develop organizational structure to better enable the flow of value.
 
-Small or large groups identify and prioritize drivers, progressing quickly from concept to action in self-organizing teams.
+Small or large groups identify and prioritize drivers, progressing quickly from concept to action in self-organizing groups.
 
 
 
@@ -800,25 +800,87 @@ Be accountable:
 -   **change the agreement** instead of repeatedly breaking it
 
 
-###  Pattern 3.6: Contracting And Accountability
+###  Pattern 3.6: Contract For Successful Collaboration
+ 
+**Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.**
 
-When entering into formal or informal agreements with others:
+A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies. 
 
--   ensure all parties understand what's expected of them and intend to keep to the agreement
--   verify the agreement is beneficial to all parties, and that expectations are realistic
+Developing shared understanding about needs and expectations is essential for successful collaboration.
 
-In cases where you still think it's necessary, be accountable for the consequences of breaking an agreement.
-
+While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved. 
 
 
-![](img/circle/enter-leave-circle.png)
 
-To preserve organizational culture, maintain self-accountability and help new members of an organization or circle have a smooth start:
+This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations. e.g.: 
 
-- define expectations for new members (both cultural fit and the skills required)
-- align contract with both organizational culture and legal requirements
-- consider a probationary period
-- have clear procedures for breaches of contract
+- employment contracts and contracts with external contractors or consultants in support roles (including any agreement that results in a change of remuneration or working hours)
+- contracts governing collaboration with customers, vendors or service providers
+- shareholder agreements
+
+**Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
+
+
+### Criteria for a successful alliance between contracting parties
+
+When negotiating a contract, ensure:
+
+- shared understanding of the reason for the collaboration, as well as the intended outcome and important constraints
+- all parties understand what is expected of them
+- all parties affected by a contract are involved in creating the contract and enter it voluntarily
+- expectations are realistic
+- the agreement is beneficial to all parties
+- everyone intends to keep to the agreement made
+
+If for any reason one or more of these criteria cannot be fulfilled, it is probably wise to not proceed.
+
+
+### Co-creating the contract
+
+The way a contract is negotiated can significantly contribute toward building trust between parties. Approach contracting from the point of view of making an agreement between partners, not adversaries: co-create the contract, tailor it to its specific context, and ensure it is legally robust.
+
+- include all expectations to the parties involved, and explain each with adequate detail
+- use clear and simple language that all parties can understand, and be unambiguous about legal consequences
+- if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
+- consult a lawyer who supports the culture you aspire to and is competent in the field if business you are negotiating
+
+------
+
+### When Co-Creating A Contract:
+
+- ensure all parties have a delegation that includes representation for all affected domains (e.g. not only sales, but also development / production / support, etc)
+- explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
+- state the reasons for the proposed collaboration, and transparent about expectations and needs of all parties
+- disclose all relevant information (if necessary under an NDA)
+- agree first on terms of the relationship and expectations to all parties, and then consider how you can make them legally robust
+- compile a list of specific laws and regulation the contract needs to comply to
+- negotiate in several iterations, allowing time to consider implications and propose amendments
+- keep minutes of each meeting to reduce the potential for misconceptions
+
+
+
+#### Support The Full Lifecycle Of The Collaboration:
+
+Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
+
+- make provisions for successfully getting started by defining onboarding procedures
+- have a probationary period - where all parties can try out the collaboration - and a clear protocol for how to end the contract in the probationary period
+- define and build into the contract, regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
+- include procedures for breach of contract
+- consider making available alternative means for dispute resolution, e.g. mediation, conciliation  or arbitration
+- consider limiting the contract to a fixed term after which the contract expires and can be renewed if required
+
+
+#### Culture
+
+Every contract influences the culture of the collaboration it governs, even when it appears to only describe *what* needs to be delivered:
+
+- intentionally create the culture of collaboration you want to see by including expectations on *how* things should be done 
+- align the contract to the organizational culture (of all parties) and to legal requirements
+- build contracts that enable and encourage accountability
+
+if you find that standard contracts in your industry are misaligned  with the culture you want to create, build your own repository of templates for contracts and clauses and consider sharing it with others, so that you can leverage past experience when creating new contracts.
+
 
 
 ###  Pattern 3.7: Transparent Salary
@@ -830,6 +892,7 @@ Transparent salary (also referred to as "open salary") is the practice of making
 A transparent salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
 
 Perception of fairness varies from person to person and according to context, so creating a salary formula requires developing a shared understanding of what is considered fair.
+
 
 
 When deciding (or agreeing) on a salary formula for an organization or department, consider: 
@@ -858,6 +921,7 @@ Decide how to handle remuneration for changing roles and create strategy for how
 
 External contractors consent to take on their role.
 
+see also: [Contract For Successful Collaboration](contract-for-successful-collaboration)
 
 ###  Pattern 3.9: Bylaws
 
@@ -894,7 +958,7 @@ Decentralize as much as possible, and retain as much influence as necessary.
 
 ![](img/circle/circle.png)
 
-_A **circle** is an equivalent, self-governing, and semi-autonomous group of people collaborating to account for a domain._
+_A **circle** is a self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain._
 
 A circle:
 
@@ -904,11 +968,13 @@ A circle:
 
 
 
--   **semi-autonomous**
-    -   a circle acts within the constraints of their domain
-    -   each circle can create value autonomously
+-   **semi-autonomous**:
+    -   A circle's members act within the constraints of their domain .
+    -   Each circle can create value autonomously.
 -   **self-governing**:
-    -   a circle continuously decides what to do to account for their domain, and sets constraints on how and when things will be done.
+    -   A circle's members ongoingly continuously decides together what to do to account for their domain, and set constraints on how and when things will be done.
+-  **equivalence of circle members**
+    -   All members of a circle are equally accountable for governance of the circle's domain.
 
 
 ###  Pattern 4.3: Role
@@ -1545,7 +1611,7 @@ A governance backlog contains:
 
 ###  Pattern 9.1: Backlog
 
-_A **backlog** (to-do-list) is a visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed._
+_A backlog (to-do-list) is a visible list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed._
 
 Types of backlog include:
 
@@ -1667,9 +1733,10 @@ You could timebox:
 
 Achieve and maintain alignment of flow through the continuous evolution of an organization's body of agreements:
 
-* enable people with relevant skills and knowledge to influence decisions
-* make available any helpful information
-* aim for shorter feedback loops to amplify learning.
+-   ensure all decisions affecting the flow of value actually support the flow of value
+-   enable people with relevant skills and knowledge to influence decisions
+-   make available any helpful information
+-   aim for shorter feedback loops to amplify learning.
 
 When decision making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is reduced.
 
@@ -2062,7 +2129,7 @@ Finally to acknowledge our numerous colleagues, customers, clients and attendees
 
 By no means an exhaustive list, we’d like to offer our appreciation to the following people who directly contributed toward developing Sociocracy 3.0, or whose work influenced what it is today:
 
-Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, Francois Knuckel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
+Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia,  François Knuchel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
 
 
 
@@ -2116,7 +2183,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
 
 
-**Backlog**: A visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
+**Backlog**: A visible list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
 
 
 **Check-In**: A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
@@ -2125,7 +2192,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Chosen Values**: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
 
 
-**Circle**: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
+**Circle**: A self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain.
 
 
 **Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
@@ -2233,9 +2300,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Role**: A domain that is delegated to an individual.
 
 
-**SCM**: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
-
-
 **Self-Governance**: People governing themselves within the constraints of a domain.
 
 
@@ -2246,6 +2310,9 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 
 **Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
+
+
+**Sociocratic Circle-Organisation Method (SCM)**: An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
 
 
 **Strategy**: A high level approach for how people will create value to successfully account for a domain.
@@ -2276,6 +2343,9 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 
 **Waste**: Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
+
+
+**operations backlog**: A visible list of (typically prioritized) uncompleted work items (deliverables).
 
 
 

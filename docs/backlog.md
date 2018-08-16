@@ -3,7 +3,7 @@ title: "Backlog"
 ---
 
 
-_A **backlog** (to-do-list) is a visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed._
+_A backlog (to-do-list) is a visible list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed._
 
 Types of backlog include:
 

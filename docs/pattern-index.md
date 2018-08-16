@@ -20,7 +20,7 @@ title: Alphabetical List Of All Patterns
 - [Co-Create Proposals](co-create-proposals.html)
 - [Consent Decision Making](consent-decision-making.html)
 - [Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)
-- [Contracting And Accountability](contracting-and-accountability.html)
+- [Contract For Successful Collaboration](contract-for-successful-collaboration.html)
 - [Coordination Meeting](coordination-meeting.html)
 - [Coordinator](coordinator.html)
 - [Create A Pull-System For Organizational Change](create-a-pull-system-for-organizational-change.html)

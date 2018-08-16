@@ -7,7 +7,7 @@ title: "Enablers Of Co-Creation"
 - [Agree On Values](agree-on-values.html)
 - [Governance Facilitator](governance-facilitator.html)
 - [Breaking Agreements](breaking-agreements.html)
-- [Contracting And Accountability](contracting-and-accountability.html)
+- [Contract For Successful Collaboration](contract-for-successful-collaboration.html)
 - [Transparent Salary](transparent-salary.html)
 - [Support Role](support-role.html)
 - [Bylaws](bylaws.html)

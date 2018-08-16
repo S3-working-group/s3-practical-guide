@@ -10,13 +10,13 @@ title: Glossary
 
 **Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
 
-**Backlog**: A visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
+**Backlog**: A visible list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
 
 **Check-In**: A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
 
 **Chosen Values**: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
 
-**Circle**: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
+**Circle**: A self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain.
 
 **Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 
@@ -88,8 +88,6 @@ title: Glossary
 
 **Role**: A domain that is delegated to an individual.
 
-**SCM**: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
-
 **Self-Governance**: People governing themselves within the constraints of a domain.
 
 **Self-Organization**: People organizing work within constraints defined through governance.
@@ -97,6 +95,8 @@ title: Glossary
 **Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
 
 **Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
+
+**Sociocratic Circle-Organisation Method (SCM)**: An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
 
 **Strategy**: A high level approach for how people will create value to successfully account for a domain.
 
@@ -117,4 +117,6 @@ title: Glossary
 **Values**: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.
 
 **Waste**: Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
+
+**operations backlog**: A visible list of (typically prioritized) uncompleted work items (deliverables).
 
