@@ -10,6 +10,8 @@ Perception of fairness varies from person to person and according to context, so
 
 ---
 
+## Transparent Salary (…)
+
 When deciding (or agreeing) on a salary formula for an organization or department, consider: 
 
 - what would be a suitable fixed subsistence guarantee

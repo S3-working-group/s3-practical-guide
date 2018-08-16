@@ -9,3 +9,5 @@
 -   build in regular peer reviews
 
 External contractors consent to take on their role.
+
+see also: [Contract For Successful Collaboration](contract-for-successful-collaboration)

@@ -26,15 +26,15 @@ terms:
     glossary: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
   backlog:
     name: Backlog
-    definition: A **backlog** (to-do-list) is a visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
-    glossary: A visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
+    definition: A backlog (to-do-list) is a visible list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
+    glossary: A visible list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
   chosen-values:
     name: Chosen Values
     glossary: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
   circle:
     name: Circle
-    definition: A **circle** is an equivalent, self-governing, and semi-autonomous group of people collaborating to account for a domain.
-    glossary: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
+    definition: A **circle** is a self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain.
+    glossary: A self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain.
   check-in:
     name: Check-In
     definition: 
@@ -140,6 +140,10 @@ terms:
     name: Operations
     definition:
     glossary: The work being done to create and deliver value, guided by governance.
+  operations-backlog:
+    name: operations backlog
+    definition: An **operations backlog** is a visible list of (typically prioritized) uncompleted work items (deliverables).
+    glossary: A visible list of (typically prioritized) uncompleted work items (deliverables).
   objection:
     name: Objection
     definition: An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
@@ -173,8 +177,8 @@ terms:
     definition:
     glossary: A domain that is delegated to an individual.
   scm:
-    name: SCM
-    glossary: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
+    name: Sociocratic Circle-Organisation Method (SCM)
+    glossary: An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
   self-governance:
     name: Self-Governance
     definition:
