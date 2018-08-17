@@ -3,7 +3,7 @@ title: "Changelog"
 ---
 
 
-### Changes 2018-06-22
+### Changes 2018-08-17
 
 **General Changes**
 

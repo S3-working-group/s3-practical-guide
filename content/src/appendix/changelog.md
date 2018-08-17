@@ -1,6 +1,6 @@
 ## Changelog
 
-### Changes 2018-06-22
+### Changes 2018-08-17
 
 **General Changes**
 
@@ -17,7 +17,7 @@
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 **Changes to Introduction**
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 
 - [Agree on Values](section:agree-on-values): improved description
@@ -47,7 +47,7 @@
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 - [Describe Organizational Drivers](section:describe-organizational-drivers): made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
 - [Double Linking](section:double-linking): aligned description to _Link_
@@ -60,7 +60,7 @@
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 - [Governance Meeting](section:governance-meeting): improved description, clarified agenda items
 - [Invite Change](section:invite-change): description now focuses on _how_ to invite change
@@ -74,7 +74,7 @@
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 - [Peach Organization](section:peach-organization): clarified relationship between periphery and center
 - [Proposal Forming](section:proposal-forming): revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
@@ -88,7 +88,7 @@
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 **Renamed Patterns:** 
 
