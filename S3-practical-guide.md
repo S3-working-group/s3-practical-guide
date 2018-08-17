@@ -2255,7 +2255,7 @@ The second and third tier:
 
 ## Changelog
 
-### Changes 2018-06-22
+### Changes 2018-08-17
 
 **General Changes**
 
@@ -2272,7 +2272,7 @@ The second and third tier:
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 **Changes to Introduction**
 
@@ -2285,7 +2285,7 @@ The second and third tier:
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 
 - _Agree on Values_: improved description
@@ -2302,7 +2302,7 @@ The second and third tier:
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 - _Describe Organizational Drivers_: made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
 - _Double Linking_: aligned description to _Link_
@@ -2315,7 +2315,7 @@ The second and third tier:
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 - _Governance Meeting_: improved description, clarified agenda items
 - _Invite Change_: description now focuses on _how_ to invite change
@@ -2329,7 +2329,7 @@ The second and third tier:
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 - _Peach Organization_: clarified relationship between periphery and center
 - _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
@@ -2343,7 +2343,7 @@ The second and third tier:
 
 ---
 
-### Changes 2018-06-22 (…)
+### Changes 2018-08-17 (…)
 
 **Renamed Patterns:** 
 
