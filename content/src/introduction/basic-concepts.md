@@ -6,6 +6,6 @@ Before diving into the content, consider taking time to learn about some basic c
 - the seven principles
 - drivers, value and waste
 - domains, delegation and accountability
-- governance, self-organization, and semi-autonomy
+- governance, self-organization and semi-autonomy
 
 For any terms you don't understand check out the glossary at the end.

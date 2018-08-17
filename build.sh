@@ -6,5 +6,6 @@ make setup
 make deckset
 make site
 make revealjs
+make single
 make epub
 make ebook

@@ -3,12 +3,12 @@ title: "Evaluation Criteria"
 ---
 
 
-![right,fit](img/templates/outcome-and-criteria.png)
+**Develop well-defined evaluation criteria to determine if acting on an agreement had the desired effect.**
 
-Well-defined evaluation criteria can help to understand whether or not an agreement has had the desired effect.
-
--   go for **simple and unambiguous** criteria and document them (to avoid discussion when reviewing your agreements)
--   define **actionable metrics** to continuously track effects and spot deviations from intended outcomes
+-   go for **simple and unambiguous** criteria and document them (to avoid discussion or unnecessary dialogue when reviewing your agreements)
+-   define **actionable metrics** to continuously track effects and spot deviations from intended outcome
+-   consider adding criteria which make it explicit when the outcome of an agreement would be considered **unsuccessful**
+-   when reviewing an agreement, consider **evolving the evaluation criteria** based on what you have learned
 
 
 [&#9654; Logbook](logbook.html)<br/>[&#9664; Describe Deliverables](describe-deliverables.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)

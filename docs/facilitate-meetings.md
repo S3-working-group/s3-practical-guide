@@ -3,14 +3,15 @@ title: "Facilitate Meetings"
 ---
 
 
-Choose someone to facilitate a meeting. Even an inexperienced facilitator can help to focus a meeting and make a positive difference.
+**Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track and draw out the participant's creativity and wisdom.**
 
--   prepare an agenda of topics
--   select a facilitator who:
-    -   facilitates a suitable activity or format for each topic
-    -   holds the space, keeps the time and navigates the agenda during the meeting
-    -   facilitates an evaluation of the meeting at the end
+Before each meeting, prepare an agenda of topics, and select a facilitator to:
 
+-   hold the space, keep the time and navigate the agenda during the meeting
+-   facilitate a suitable activity for each topic
+-   facilitate an evaluation at the end of the meeting
 
-[&#9654; Evaluate Meetings](evaluate-meetings.html)<br/>[&#9664; Rounds](rounds.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
+Consider selecting a facilitator for a specific term. Even an inexperienced facilitator can make a positive difference.
+
+[&#9654; Prepare For Meetings](prepare-for-meetings.html)<br/>[&#9664; Rounds](rounds.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
 

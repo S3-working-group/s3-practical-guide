@@ -1,8 +1,14 @@
 ## Invite Change
 
-**A way for individuals to initiate and facilitate change.**
+**Clarify the reason for change and invite people to participate.**
 
--   be the change you want to see
--   use and adapt S3 patterns to address drivers when it's helpful to do so
--   tell the story about how and why you are using patterns from S3, including documenting outcomes, successes and failures
--   invite others to experiment with you
+Inviting rather than imposing change helps reduce resistance and enables people to choose for themselves.
+
+When making the invitation:
+
+-   be transparent about the reason for the change
+-   clarify expectations and constraints
+-   avoid coercion or manipulation
+-   acknowledge any skepticism and doubts
+
+Include the people involved and affected in regular evaluation outcomes.

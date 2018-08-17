@@ -1,7 +1,6 @@
 
-CONFIG=templates/config.yaml
+CONFIG=content/structure-new.yaml
 GLOSSARY=content/glossary.yaml
-PATTERNINDEX=content/pattern-index.yaml
 SOURCE=content/src
 TMPFOLDER=tmp
 LOC=content/localization.po
@@ -16,31 +15,22 @@ define update-make-conf
 $(MKTPL) templates/make-conf config/make-conf $(LOC) $(PRJ)
 endef
 
-define build-index-db
-# build the index database that is then translated into localized versions
-mdslides build-index-db $(CONFIG) $(PATTERNINDEX)
-endef
-
 define prepare-ebook
 # render intro, chapters and appendix to separate md files
-mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
+mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 endef
 
 
 deckset:
 	$(update-make-conf)
 
-ifeq "$(BUILD_INDEX)" "YES"
-	# build index database (only for the English repo!!)
-	$(build-index-db)
-endif
 	# build deckset presentation and add pattern index
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=img --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 	
 	$(MKTPL) templates/deckset-template.md $(TMPFOLDER)/deckset-template.md $(LOC) $(PRJ)
 	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=$(TMPFOLDER)/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
 	# append pattern-index
-	mdslides deckset-index $(PATTERNINDEX) $(TARGETFILE).md
+	mdslides deckset-index $(CONFIG) $(TARGETFILE).md
 
 revealjs:
 	$(update-make-conf)
@@ -61,11 +51,7 @@ site:
 	$(MKTPL) content/website/_includes/footer.html docs/_includes/footer.html $(LOC) $(PRJ)
 	cp content/website/_includes/header.html docs/_includes/header.html
 
-ifeq "$(BUILD_INDEX)" "YES"
-	# build index database (only for the English repo!!)
-	$(build-index-db)
-endif
-	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --index=$(PATTERNINDEX)
+	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
 	cd docs;jekyll build
 
 wordpress:
@@ -83,7 +69,7 @@ epub:
 
 	$(prepare-ebook)
 	# prepare and copy template
-	$(MKTPL) templates/ebook/epub--master.md $(TMPFOLDER)/ebook/epub--master.md $(LOC) $(PRJ)
+	$(MKTPL) templates/epub--master.md $(TMPFOLDER)/ebook/epub--master.md $(LOC) $(PRJ)
 	# transclude all to one file 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
 	# render to epub
@@ -95,10 +81,9 @@ ebook:
 	$(prepare-ebook)
 
 	# copy md and LaTEX templates
-	$(MKTPL) templates/ebook/ebook--master.md $(TMPFOLDER)/ebook/ebook--master.md $(LOC) $(PRJ)
-	$(MKTPL) templates/ebook/ebook.tex $(TMPFOLDER)/ebook/ebook.tex $(LOC) $(PRJ)
+	$(MKTPL) templates/ebook--master.md $(TMPFOLDER)/ebook/ebook--master.md $(LOC) $(PRJ)
+	$(MKTPL) config/ebook.tex $(TMPFOLDER)/ebook/ebook.tex $(LOC) $(PRJ)
 	$(MKTPL) config/ebook-style.sty $(TMPFOLDER)/ebook/ebook-style.sty $(LOC) $(PRJ)
-
 
 	# transclude all to one file 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
@@ -109,19 +94,20 @@ ebook:
 	
 	# clean up
 	cd $(TMPFOLDER)/ebook; latexmk -C
-	#cd $(TMPFOLDER)/ebook; rm tmp-*
 
-html:
+single:
 	$(update-make-conf)
 
-	$(MKTPL) templates/ebook/single-page--master.md $(TMPFOLDER)/ebook/single-page--master.md $(LOC) $(PRJ)
+	$(MKTPL) templates/single-page--master.md $(TMPFOLDER)/ebook/single-page--master.md $(LOC) $(PRJ)
 
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX)
+	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY)
 	# transclude all to one file 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
-	# clean up
-	cd $(TMPFOLDER)/ebook; rm tmp-*
+
+gitbook:
+	mdslides build gitbook $(CONFIG) $(SOURCE) gitbook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX)
+ 	
 
 update:
 	$(update-make-conf)
@@ -141,6 +127,7 @@ setup:
 	-mkdir -p $(TMPFOLDER)/ebook
 	-mkdir -p $(TMPFOLDER)/web-out
 	-mkdir docs/_site
+	-mkdir gitbook
 ifeq ("$(wildcard $(TMPFOLDER)/ebook/img)","")
 	cd $(TMPFOLDER)/ebook; ln -s ../../img
 endif 
@@ -149,4 +136,7 @@ ifneq ("$(wildcard docs/img)","")
 	rm -r docs/img
 endif
 	cp -r img docs/img
-
+ifneq ("$(wildcard gitbook/img)","")
+	rm -r gitbook/img
+endif
+	cp -r img gitbook/img

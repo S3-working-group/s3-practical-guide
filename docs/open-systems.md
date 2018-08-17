@@ -3,9 +3,11 @@ title: "Open Systems"
 ---
 
 
-An organization can benefit from intentionally communicating with and learning from others.
 
-Acknowledging its interdependence, an organization can consciously invite **outside information, influence or skills** to assist with making decisions and to support collective learning.
+**Intentionally communicate with and learn from others outside of your system.**
+
+Individuals, groups and entire organizations can acknowledge interdependence and intentionally invite people from outside their system to bring in **knowledge, experience and influence** to assist with decision making and support collective learning.
+
 
 
 
@@ -13,5 +15,5 @@ Acknowledging its interdependence, an organization can consciously invite **outs
 -   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)
 
 
-[&#9654; Focused Interactions](focused-interactions.html)<br/>[&#9664; Open Domain](open-domain.html)<br/>[&#9650; Building Organizations](building-organizations.html)
+[&#9654; Bringing In S3](bringing-in-s3.html)<br/>[&#9664; Open Domain](open-domain.html)<br/>[&#9650; Building Organizations](building-organizations.html)
 

@@ -7,19 +7,20 @@ title: "Evaluate Meetings"
 
 **Take time for learning at the end of each meeting or workshop.**
 
-Reflect on interactions, celebrate successes and share suggestions for improvement.
+Reflect on interactions, celebrate successes and share suggestions for improvement before closing the meeting.
 
--   before the closing round
 -   reserve 5 minutes for 1 hour, and 15 minutes for a full-day workshop
--   record learning and review before the next meeting
--   short formats: 
-    -   more of/less of/start/stop/keep
-    -   positive/critical/suggested improvements
+-   record learning and review it before the next meeting
+
+Short formats you can use: 
+
+-   more of/less of/start/stop/keep
+-   positive/critical/suggested improvements
 
 
 ### Evaluate Meetings: Long Format
 
-Ask everyone in a round to reflect on any or all of the following topics in a brief sharing: 
+Ask everyone in a round to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
 
 -   effectiveness and format
 -   facilitation and participation
@@ -29,5 +30,5 @@ Ask everyone in a round to reflect on any or all of the following topics in a br
 -   wild ideas and radical suggestions (What if...)
 
 
-[&#9654; Meeting Host](meeting-host.html)<br/>[&#9664; Facilitate Meetings](facilitate-meetings.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
+[&#9654; Meeting Host](meeting-host.html)<br/>[&#9664; Check In](check-in.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
 

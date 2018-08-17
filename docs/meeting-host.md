@@ -3,25 +3,24 @@ title: "Meeting Host (Role)"
 ---
 
 
-The meeting host is accountable for preparation and follow-up of meetings, workshops or other events. 
+**Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
 
-The role may be assigned temporarily (i.e. for one specific event) or for a duration of time.
+A person may take on the role of Meeting Host for a specific event or for several events over a period of time.
 
 
 ### Responsibilities Of A Meeting Host
 
--   preparation
-    -   identify goals and deliverables
-    -   prepare and distribute agenda and schedule
-    -   estimate required time
-    -   identify and invite participants
-    -   schedule the meeting/workshop
-    -   book location (and transportation if required)
-    -   set up the space, provide required materials and information
-    -   ensure selection of a facilitator and a notetaker to record minutes, if appropriate
--   follow-up
-    -   clean up location, return keys etc.
-    -   ensure minutes are distributed
+Preparation:
+
+-   identify goals and deliverables
+-   prepare and distribute agenda
+-   identify and invite the participants
+-   estimate the time required and schedule the meeting/workshop
+-   book the location (and transportation if required)
+-   set up the space and provide required materials and information
+-   ensure selection of a facilitator and a notetaker to record minutes, if appropriate
+
+**After the meeting**: clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
 
 
 [&#9654; Governance Backlog](governance-backlog.html)<br/>[&#9664; Evaluate Meetings](evaluate-meetings.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)

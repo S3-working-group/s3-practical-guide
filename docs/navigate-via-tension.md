@@ -3,25 +3,16 @@ title: "Navigate Via Tension"
 ---
 
 
-**Identify and account for organizational drivers.**
+**Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the appropriate domain.**
 
-**All members** bring awareness to what might help or harm the organization, and aim to account for drivers in an effective way. 
+**Challenges and opportunities** for an organization are revealed by people bringing awareness to the reasons why they experience tension.
 
-A **tension** is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences). 
+**Note:** In this context, a _tension_ is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences).
 
-
-
-
-**Challenges and opportunities** for an organization are revealed as people become aware of tension they experience in relation to them.
-
-To **discover drivers**, look behind tension and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
-
-Awareness of **organizational drivers** can be passed to an appropriate domain to be addressed.
+To **discover drivers**, investigate what stimulates tension, and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
 
 
-
-![inline,fit](img/process/navigate-via-tension-slides.png)
-
+![inline,fit](img/process/navigate-describe-respond.png)
 
 
 [&#9654; Describe Organizational Drivers](describe-organizational-drivers.html)<br/>[&#9664; Respond To Organizational Drivers](respond-to-organizational-drivers.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
