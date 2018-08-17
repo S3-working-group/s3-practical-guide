@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2018-03-21) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2018-08-17) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -19,7 +19,7 @@ theme: Plain Jane, 1
 
 ### Effective Collaboration At Any Scale
 
--   **principles-based**: A coherent way for growing organizational integrity and developing a sociocractic and agile mindset
+-   **principles-based**: a coherent way for growing organizational integrity and developing a sociocractic and agile mindset
 -   **flexible**: adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
 -   **free**: licensed under a Creative Commons Free Culture License
 
@@ -27,9 +27,9 @@ theme: Plain Jane, 1
 
 ## What's in it for me?
 
-Sociocracy 3.0 - **a.k.a. "S3"** - brings you an extensive collection of guidelines and practices (patterns)  that have proven helpful for organizations for **improving performance, alignment, fulfillment and wellbeing**. 
+Sociocracy 3.0 — **a.k.a. "S3"** — brings you an extensive collection of guidelines and practices (patterns) that have proven helpful for organizations for to **improve performance, alignment, fulfillment and wellbeing**. 
 
-S3 helps you discover how to best reach your objectives and navigate complexity, one step at a time, **without the need for radical reorganization or a big change initiative**:
+S3 helps you discover how to best reach your objectives and navigate complexity, one step at a time, **without the need for sudden radical reorganization or planning a long-term change initiative**:
 
 -   Simply start with your area of greatest need, select one or more patterns to try, **move at your own pace** and develop skills as you go. 
 
@@ -41,7 +41,11 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 
 -   a brief overview of some basic concepts behind S3
 -   a description of all the patterns in S3
--   an appendix with a changelog, acknowledgments, info about authors and license, a glossary and an index
+-   an appendix 
+    -   changelog
+    -   info about authors and acknowledgments
+    -   the license
+    -   glossary and index
 
 
 ---
@@ -49,6 +53,13 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 ## Influences and History
 
 ![inline, fit](img/context/history.png)
+
+---
+
+## Driver for Creating Sociocracy 3.0
+
+> _In 2014 we came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. We discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing._
+
 
 
 ---
@@ -61,7 +72,7 @@ Before diving into the content, consider taking time to learn about some basic c
 - the seven principles
 - drivers, value and waste
 - domains, delegation and accountability
-- governance, self-organization, and semi-autonomy
+- governance, self-organization and semi-autonomy
 
 For any terms you don't understand check out the glossary at the end.
 
@@ -89,24 +100,38 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 ## The Seven Principles
 
-**Effectiveness:** *Devote time only to what brings you closer towards achieving your objectives.*
+**The Principle of Effectiveness:** *Devote time only to what brings you closer toward achieving your objectives.*
 
-**Consent:** *Do things in the absence of reasons not to.*
+**The Principle of Consent:** *Raise, seek out and resolve objections to decisions and actions.*
 
-**Empiricism:** *Test all assumptions through experiments, continuous revision and falsification.*
+**The Principle of Empiricism:** *Test all assumptions through experimentation and continuous revision.*
 
 ---
 
-## The Seven Principles (cont.)
+## The Seven Principles (…)
 
-**Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
+**The Principle of Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
 
-**Equivalence:** *Involve people in making and evolving decisions that affect them.*
+**The Principle of Equivalence:** *Involve people in making and evolving decisions that affect them.*
 
-**Transparency:** *Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.*
+**The Principle of Transparency:** *Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.*
 
-**Accountability:** *Respond when something is needed, do what you agreed to and take ownership for the course of the organization.*
+**The Principle of Accountability:** *Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
 
+---
+
+## The Principle of Accountability
+
+*Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
+
+Act within the constraints of any agreements governing domains you are accountable for, including the organization itself, groups you are part of, and roles you keep.
+
+Everyone's primary accountability is for effective collaboration in response to organizational drivers.
+
+Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
+
+Everyone in an organization is accountable for aligning action with organizational values.
+ 
 
 ---
 
@@ -125,7 +150,7 @@ Drivers:
 
 _**Value** is the importance, worth or usefulness of something in relation to a driver._
 
-_**Waste** is anything not necessary for - or standing in the way of - effective response of a driver._
+_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response of a driver._
 
 By adopting the concept of value and waste, many practices and ideas from **lean production** and **lean software development** can be utilized by organizations pulling in S3 patterns:
 
@@ -144,7 +169,7 @@ _A **domain** is a distinct area of influence, activity and decision making with
 
 All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 
-Domains are delegated to people (e.g. to a unit, department, team or individuals), who take accountability for the domain, within its defined constraints on influence and autonomy.
+Domains are delegated to people (e.g. to a unit, department, team or individuals), who take responsibility for the domain, and act within its defined constraints on influence and autonomy.
 
 ---
 
@@ -152,62 +177,50 @@ Domains are delegated to people (e.g. to a unit, department, team or individuals
 
 Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
 
--   **key responsibilities** (essential work and decision making being delegated)
--   **constraints to autonomy and influence** for those the domain is delegated to, usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
+-   **key responsibilities** (any essential work and decision making being delegated)
+-   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
 
 ---
 
 ## Drivers and Domains
 
-![right,fit](img/driver-domain/domain-primay-sub.png)
+![right,fit](img/driver-domain/drivers-and-domains.png)
 
-A domain can be defined in relation to an organizational driver - known as the domain’s **primary driver** - by the set of sub-drivers the organization may benefit from addressing when responding to that driver: 
+It's also possible to understand a domain in relation to organizational drivers:
 
--   **key responsibilities**: following directly from the domain's primary driver
--   **constraints**: relating to the organization's wider context
-
----
-
-## Domains and Accountability
-
-![right,fit](img/driver-domain/nested-domains.png)
-
--   accountability applies to all agreements, including the organization itself, circles, and roles
--   everyone's primary accountability is for effective collaboration in response to organizational drivers
--   individuals and groups are accountable for their work, ongoing learning and development, with the organization providing necessary support
--   everyone in an organization is accountable for aligning action with organizational values
-
+-   the domain's **primary driver** - the main driver the people accounting for that domain (the _delegatees_) respond to
+-   the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include:
+    -   **key responsibilities** (any driver following directly from the domain's primary driver)
+    -   drivers for **constraints** (which typically relate to the organization's wider context)
 
 
 ---
-
 
 ## Governance, Semi-Autonomy and  Self-Organization
 
-**Governance**: Continuously deciding what to do to achieve objectives, and setting constraints on how and when things will be done.
+**Governance**: Making and evolving decisions about what to do to achieve objectives, and setting constraints on how and when things will be done.
 
 **Self-Governance**: People governing themselves within the constraints of a domain.
 
-**Self-Organization**: People coordinating work within constraints defined through governance.
+**Self-Organization**: People organizing work within constraints defined through governance.
 
-**Operations** (Doing the Work): People doing what needs to be done, guided by coordination and governance.
+**Operations** (Doing the Work): The work being done to create and deliver value, guided by governance.
 
-**Semi-Autonomy**: People with autonomy to create value, limited by the constraints of their domain.
+**Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
 
 ---
 
-## Governance vs. Operations
-
-Tracking, reviewing and evolving decisions made to achieve objectives enables an organization to continuously learn and improve.
+## Governance or Operations?
 
 _Does it require or benefit from an individual or group decision?_
 
 -   yes: governance
-    -   not covered by a previous agreement
-    -   needs to be agreed, decided or amended
+    -   it's not covered by a previous agreement
+    -   it needs to be agreed, decided or amended
 -   no: operations
-    -   covered by previous agreement (those accountable are free to act)
-    -   needs to be done
+    -   it's covered by previous agreement (those accountable are free to act)
+    -   it needs to be done
+
 
 ---
 
@@ -222,64 +235,42 @@ _Does it require or benefit from an individual or group decision?_
 
 ![right,fit](img/driver-domain/driver-response-full.png)
 
-_Clarify what's happening and what's needed in relation to the organization, and respond as required._
+**Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.**
 
-Responses to drivers:
+Responses to organizational drivers include:
 
--   action
--   decision (including creating a role, circle, helping team or open domain)
+- direct action (operations)
+- organizing how work will be done 
+- making governance decisions
+
+The response to an organizational driver is typically treated as an experiment that is evaluated and evolved over time.
 
 ---
 
 ### Qualify Organizational Drivers
 
-Some drivers are (directly or indirectly) related to an organization's primary driver, these are considered **organizational drivers**. Other drivers do not fall within the organization's domain.
+A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
 
-A simple way to qualify organizational drivers is by checking:
+A simple way to qualify whether or not a driver falls within an organization's domain is by checking:
 
-_Would responding to this driver improve - or avoid impeding - flow of value to an existing organizational driver? a.k.a. can it help or harm us?_
-
----
-
-### Review of Drivers
-
-![right,fit](img/evolution/kaizen.png)
-
-The response to a driver is usually an experiment that is evolved over time, based on learning.
-
--   Is the description of the situation still correct?
--   Do we still associate the same needs with the situation?
--   Is the driver still within our domain?
--   Is the driver still relevant?
+_Would it help the organization if we respond to this driver? Or would it harm us if we don't?_
 
 
 ---
 
 ## Pattern 1.2: Navigate Via Tension
 
-**Identify and account for organizational drivers.**
+**Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the appropriate domain.**
 
-**All members** bring awareness to what might help or harm the organization, and aim to account for drivers in an effective way. 
+**Challenges and opportunities** for an organization are revealed by people bringing awareness to the reasons why they experience tension.
 
-A **tension** is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences). 
+**Note:** In this context, a _tension_ is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences).
 
----
-
-## Navigate Via Tension (cont.)
-
-
-**Challenges and opportunities** for an organization are revealed as people become aware of tension they experience in relation to them.
-
-To **discover drivers**, look behind tension and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
-
-Awareness of **organizational drivers** can be passed to an appropriate domain to be addressed.
+To **discover drivers**, investigate what stimulates tension, and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
 
 ---
 
-## Navigate Via Tension (cont.)
-
-![inline,fit](img/process/navigate-via-tension-slides.png)
-
+![inline,fit](img/process/navigate-describe-respond.png)
 
 
 ---
@@ -290,7 +281,7 @@ Awareness of **organizational drivers** can be passed to an appropriate domain t
 
 A simple way to describe a driver is with a **brief statement** explaining: 
 
--   **What’s happening..:**
+-   **What’s happening...:**
     -   the **current situation**
     -   the **effect** of this situation on the organization
 -   ...and **what’s needed:**
@@ -299,17 +290,25 @@ A simple way to describe a driver is with a **brief statement** explaining:
 
 ---
 
-# Describe Organizational Drivers (2)
+# Describe Organizational Drivers (…)
 
 Depending on their perspective, a person or group may decide to describe a driver as a problem to solve or an opportunity to leverage. 
 
-A **driver statement** captures just enough information to communicate the need for an action or a decision. More information about the scope and details of the driver may be recorded besides the initial driver statement. 
+_A **driver statement** is a brief but comprehensive summary of the information required to understand a driver._
+
+The driver statement contains just enough information to communicate the need for an action or a decision. Typically a driver statement can be summed up in one or two sentences.
+
+In addition to the brief driver statement, more information about the scope and details of the driver may be recorded in the logbook.
+
+---
+
+![inline,fit](img/process/describe-organizational-drivers.png)
 
 ---
 
 ## Example driver statement: 
 
-> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focussed on our work.”_
+> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work.”_
 
 ---
 
@@ -320,7 +319,7 @@ A **driver statement** captures just enough information to communicate the need 
 Describe the current situation:
 
 - Briefly capture the essentials of what is happening.
-- Be objective: Describe observations and avoid evaluation.
+- Be objective - describe observations and avoid evaluation.
 
 ---
 
@@ -331,7 +330,7 @@ Describe the current situation:
 Explain the effect of this situation on the organization:
 
 - Clarify **why** the situation needs attention: how does it affect the organization? 
-- Be explicit about effects being current or anticipated. 
+- Be explicit about whether the effects are current or anticipated. 
 - Explain challenges, losses, opportunities or gains. 
 
 ---
@@ -342,86 +341,117 @@ Explain the effect of this situation on the organization:
 
 Explain the need of the organization in relation to this situation:
 
-- A **need of an organization** is anything a group (or individual) needs to effectively account for a domain. 
-- When there’s disagreement about the need(s), it’s helpful to zoom out from specific solutions.
-- Be specific on whose need it is (“we need”, “they need”, “I need”) .
-- Avoid describing specific solutions disguised as needs.
+- A **need of an organization** is anything a group (or individual) requires to effectively account for a domain. 
+- Be specific on whose need it is (“we need”, “they need”, “I need”).
+- If there’s disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
 
 ---
 
 ## 4. Impact
 
-> _“...so we can stay focussed on our work”._
+> _“...so we can stay focused on our work”._
 
 Describe the impact of attending to that need:
 
-- Explain intended outcome, potential benefits or opportunities.
+- Explain the intended outcome, potential benefits or opportunities.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
+
+---
+
+### Review Driver Statements
+
+Make sure to review driver statements on a regular basis, to deepen you understanding of what's happening and needed.
+
+Helpful questions for a review include:
+
+-   Is the description of the situation (still) correct?
+-   Do we still associate the same needs with the situation?
+-   Is the driver still within our domain?
+-   Is the driver still relevant?
+
 
 
 ---
 
 ## Pattern 1.4: Consent Decision Making
 
-![right,fit](img/agreements/cdm-condensed.png)
+![right,fit](img/agreements/consent-decision-making.png)
 
-**A (facilitated) group process for decision making.**
+**A (facilitated) group process for decision making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
 
--   invite objections, and integrate the wisdom they reveal, to evolve proposals or existing agreements
--   withholding objections can harm the objectives of a group or organization
--   unresolved objections prevent proposals from becoming agreements
--   proposals only need to be *good enough for now and safe enough to try* until the next review
+Proposals become agreements when they are considered _good enough for now and safe enough to try_ until the next review.
+
+Unresolved objections prevent proposals from becoming agreements.
+
+Withholding objections can harm the objectives of a group or organization.
 
 ---
 
 ### Implicit Contract of Consent
 
--   In the absence of objections against an agreement, I intend to follow through on the agreement to the best of my ability.
--   I agree to share objections as I become aware of them.
+1.   In the absence of objections to an agreement, I intend to follow through on the agreement to the best of my ability.
+2.   I agree to share objections as I become aware of them.
 
 
 ---
 
 ## Pattern 1.5: Objection
 
-_An **objection** is a reason why doing something stands in the way of (more) effective response to a driver._
+_An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement)._
 
-Objections contain information that reveals:
-
-- a certain or likely consequence of harm (not considered safe enough to try)
-- ways to improve proposals, decisions, existing agreements or actions
+Objections contain information that reveals **certain or likely consequence of harm** and/or **opportunities to immediately improve** proposals, decisions, existing agreements or actions. 
 
 ---
 
-### Qualify Objections
+## Objection (…)
 
 It's the accountability of individuals to raise potential objections. 
-
-Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing qualified objections.*
 
 Withholding objections can harm the ability of individuals, groups or
 the whole organization to respond to organizational drivers.
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
 
+Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
+
+---
+### Objection (…)
+
+When seeking out potential objections, consider:
+
+- why the intended outcome would not be (fully) achieved: **effectiveness**
+- why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
+- the negative consequences something would have elsewhere (in the same domain, in the wider organization, or beyond): **side-effects**
+
 ---
 
-### Qualify Objections (cont.)
+### Objection (…)
 
-_How would doing this impede - or miss an opportunity to improve - flow of value to any organizational driver?_
-
-Objections stop: 
+The information revealed by objections can be used to improve:
 
 -   current and planned action
--   people from executing on decisions
--   existing agreements from continuing without being reconsidered
--   proposals from becoming agreements
+-   how people execute on decisions
+-   existing agreements
+-   proposals
+-   shared understanding of drivers
+
+---
+
+## Qualify Objections
+
+Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on opinion, preference or concern.
+
+To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
+
+_“Do you think this argument qualifies as an objection?”_
+
+If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
 
 ---
 
 ### Understanding Objections
 
-Some Helpful Questions:
+Some helpful questions:
 
 -   How does the argument relate to this specific proposal or agreement?
 -   Does the argument reveal how a (proposed or current) **action or agreement**:
@@ -435,15 +465,13 @@ Some Helpful Questions:
 
 ### Concerns
 
-A **concern** is an _opinion_ that doing something (even if already considered _good enough for now and safe enough to try_) **might** impede – or miss an opportunity to improve – flow of value to an organizational driver.
+_A **concern** is an opinion that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
 
-In consent decision making, concerns:
+In _Consent Decision Making_, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
 
--   can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation) 
--   are heard if there is time or they are considered important
--   are recorded in the logbook
+Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
-If people believe a proposal may not be ‘safe enough to try’, they can raise concerns as objections to check with others about likelihood of harm.
+If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
 
 
 ---
@@ -454,72 +482,110 @@ If people believe a proposal may not be ‘safe enough to try’, they can raise
 
 ---
 
-### A way for resolving objections
-
 ![inline,fit](img/agreements/resolve-objections-process.png)
 
 
 
 ---
 
-## Pattern 1.7: Evaluate Agreements
+## Pattern 1.7: Evaluate And Evolve Agreements
 
-Regular review of agreements is an essential practice for a learning organization; continuously evolving the body of agreements, and eliminating waste:
+![right,fit](img/evolution/kaizen.png)
 
--   adapt to changing context
--   integrate learning:
-    -   _How has this agreement helped us?_
-    -   _How can this agreement be improved?_
-    -   _Is there any reason why not to continue with this agreement?_
+**Continuously evolve the body of agreements, and eliminate waste.**
+
+Regular review of agreements is an essential practice for a learning organization:
+
+-   adapt agreements to suit changing context
+-   integrate learning to make them more effective
+
+Ensure all agreements have an appropriate review date.
 
 ---
 
-## Evaluate Agreements (cont.)
+## Evaluate And Evolve Agreements (…)
+
+Evaluating agreements can be as simple as checking that an agreement is still relevant, and there is no objection to keeping it as it is.
+
+Agreements are often reviewed in _Governance Meetings_, however sometimes it's more effective to schedule a dedicated session.
+
+Adjust review frequency as necessary, and review early if required.
+
+Elements of this pattern can also be used by individuals to evaluate decisions they make.
+
+---
+
+## Short Format for Evaluating Agreements
+
+-   _How has this agreement helped us?_
+-   _Is there any reason to drop this agreement?_
+-   _How can this agreement be improved?_
+-   Agree on a next review date.
+
+---
+
+## Long Format For Evaluating Agreements
 
 ![left,fit](img/agreements/evaluate-agreements.png)
 
--   preparation
-    -   schedule review
-    -   ensure necessary information is available
+Preparation:
 
--   follow-up
-    -   agree on next review date
-    -   documentation / notification
-    -   tracking tasks and decisions
-    -   effects on related agreements
+-   Schedule the review.
+-   Ensure all necessary information is available.
 
----
+Follow-up:
 
-## Evaluate Agreements (cont.)
-
--   evaluating agreements can be as simple as checking that it is still relevant, and there is no objection to keeping the agreement as it is 
--   agreements are often reviewed in *Governance Meetings* 
--   sometimes it's effective to schedule a dedicated session for reviewing an agreement 
--   adjust review frequency as necessary
--   review earlier if required
--   elements of this process can also be used by individuals to evaluate decisions they make
-
+-   Agree on the next review date.
+-   Document decisions and tasks, and share with relevant people.
+-   Consider effects on any related agreements.
 
 
 ---
 
 ## Pattern 1.8: Those Affected Decide
 
-Involve everyone who will be affected by a decision, to maintain equivalence and accountability, and increase the amount of information available on the subject.
+**Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.**
 
 For larger groups:
 
 -   facilitate a process in several stages and create smaller groups who select delegates
--   set out a virtual, asynchronous, time-boxed and staged process
+-   use a virtual, asynchronous, time-boxed and staged process
 
-Consider including those affected also in review and evolution of decisions.
+Consider including those affected in reviewing and evolving decisions, too.
 
 
 ---
 
-## Pattern 1.9: Proposal Forming
+## Pattern 1.9: Co-Create Proposal
 
-![right,fit](img/agreements/proposal-forming-medium.png)
+**Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.**
+
+There are many ways to co-create proposals. They typically follow a similar pattern:
+
+1. Agree on the driver (or problem / opportunity / need)
+2. Explore the topic and understand constraints
+3. Generate ideas
+4. Design a proposal (often done by a smaller group)
+
+One way to co-create proposals is to use S3's _Proposal Forming_ pattern. 
+
+---
+
+## Co-Create Proposal (…)
+
+![right,fit](img/templates/proposal-template.png)
+
+For inspiration for steps 2 and 3, look to classic group facilitation techniques or design thinking activities.
+
+Besides in a face-to-face workshop, you can adapt this process for online meetings. You can even use it asynchronously (and over an extended period of time) to include many people.
+
+
+
+---
+
+## Pattern 1.10: Proposal Forming
+
+![right,fit](img/agreements/proposal-forming.png)
 
 **A (facilitated) group process for co-creating a response to a driver.**
 
@@ -527,62 +593,108 @@ Consider including those affected also in review and evolution of decisions.
 -   involves people in co-creating agreements
 -   fosters accountability and sense of ownership
 
-Proposal forming may be also be used by an individual.
+_Proposal Forming_ may also be used by an individual.
 
 ---
   
 ### Proposal Forming Steps
 
 - **Consent to driver**: _Is this driver relevant for us to respond to? Is the driver statement an accurate description of what is happening and what is needed?_
-- **Deepen shared understanding of driver**: invite essential questions to understand more detail about the driver.
+- **Deepen shared understanding of driver**: invite essential questions to understand the driver in more detail.
 - **Collect considerations** phrased as questions relating to possible solutions. Questions either reveal constraints (information gathering questions) or possibilities (generative questions).
 - **Answer** any information gathering questions if possible.
 - **Prioritize** considerations.
 - **Gather ideas** as possible ingredients for a proposal.
-- **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group (tuners).
+- **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group of "tuners".
   
 ---
 
-### Selecting Tuners
+### Choosing Tuners
 
 ![right,fit](img/templates/proposal-template.png)
+
+Consider: 
 
 -   who should be there?
 -   who wants to be there?
 -   who else may have a valuable contribution to make?
 -   consider expertise, outside view, and inspiration
--   any objections to this group?
+
+Between two and three tuners is usually appropriate.
+
+Check for any objections to the proposed tuner(s).
 
 
 ---
 
-## Pattern 1.10: Role Selection
+## Pattern 1.11: Role Selection
 
 ![right,fit](img/agreements/selection.png)
 
-**A group process for selecting people for roles.**
+**A group process for selecting a person for a role on the strength of the reason.**
 
--   People avoid expressing interest before the selection
--   Nominations are made on the strength of the reason, not according to the majority
--   You can nominate yourself or pass
--   When checking for objections, ask the person nominated last
+Instead of simply assigning people for roles, or making a choice based only on majority, use the role selection process to:
 
-Objections to a nominee may be resolved in many ways, including amending the role's domain description or by nominating someone else.
-
-**Note:** This pattern can also be used for selection between a variety of options in other circumstances.
+- tap collective intelligence by hearing and deliberating on reasons for nominations
+- increase ownership over the decision
+- ensure support for the role keeper by those affected.
 
 ---
 
-## Pattern 1.11: Driver Mapping
+## Role Selection (…)
 
-A workshop format to identify an effective response to a complex situation: organize start-ups, kick-off projects, tackle major impediments or opportunities, align organizational structure to the flow of value.
+**1. Present Role Description:** If possible, send out the role’s domain description in advance.
 
-Small or large groups identify and prioritize drivers, progressing quickly from concept to action in self-organizing teams.
+**2. Record Nominations:** Participants write their nomination on a slip of paper. People can nominate themselves, another, or pass.
+
+**3. Reasons for Nominations:**  Each person shares who they have nominated and why.
+
+**4. Information Gathering:** Participants share or request any information that might support the group in making an appropriate selection.
 
 ---
 
-## Driver Mapping (cont.)
+## Role Selection (…)
 
+**5. Nomination Changes:** Check if anyone wants to change their nomination in light of reasons and information shared so far, and hear the reasons for each change.
+
+**6. Propose a Nominee** for the role: The facilitator guides the process to identify a suitable nominee on the strength of the reasons heard, e.g. by:
+
+-   proposing a nominee themselves or asking a group member
+-   inviting (some) nominees to agree who should be proposed
+-   inviting group dialogue to help reveal the strongest nominee
+
+---
+
+## Role Selection (…)
+
+**7. Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an objection. 
+
+**8. Address and Resolve Objections,** beginning with any from the proposed nominee. Objections may be resolved in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
+
+**9. Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
+
+---
+
+## Role Selection (…)
+
+To avoid influencing others, abstain from expressing personal interest or opinions before a selection takes place.
+
+Sometimes a role selection reveals a lack of capacity, relevant experience, qualities or skill. A group will then need to consider outside candidates, reconsider priorities or find an alternative way to account for the domain.
+
+This pattern can also be used in any situation where there is a need to choose between a variety of options.
+
+
+---
+
+## Pattern 1.12: Driver Mapping
+
+A workshop format to identify an effective response to a complex situation: organize start-ups, kick-off projects, tackle major impediments or opportunities, develop organizational structure to better enable the flow of value.
+
+Small or large groups identify and prioritize drivers, progressing quickly from concept to action in self-organizing groups.
+
+---
+
+## Driver Mapping (…)
 
 ![inline,fit](img/facilitation-guides/driver-mapping-fg-print.png)
 
@@ -604,9 +716,9 @@ Small or large groups identify and prioritize drivers, progressing quickly from 
 
 ## Pattern 2.1: Ask For Help
 
-**A simple protocol for learning, skill sharing, and building connections, with respect for people's autonomy.**
+**A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.**
 
-Ask someone, "_would you be willing to help me with ..._?"  The person asked answers with a simple "_yes_" or "_no_".
+Ask someone, "_would you be willing to help me with ..._?" The person asked accepts or declines with a simple "_yes_" or "_no_".
 
 -   if the request is declined, the person asking accepts the answer without negotiation or inquiry
 -   if the request is unclear, inquire for more information
@@ -621,16 +733,16 @@ Ask someone, "_would you be willing to help me with ..._?"  The person asked ans
 
 Invite a peer to give you some constructive feedback on: 
 
--   performance in a role
--   general feedback about your participation and collaboration
+-   your performance in a role
+-   your general participation and contribution
 -   any specific aspect you may be interested in
 
 Considerations:
 
--   ask peers to take some time to prepare
+-   invite peers to take some time to prepare
 -   invite both **appreciations** and **actionable improvement suggestions**
 -   inquire to better understand the feedback, and avoid to discuss or judge it
--   decide for yourself what you will do with the feedback
+-   decide for yourself what you will do with feedback you receive
 
 
 ---
@@ -639,20 +751,20 @@ Considerations:
 
 ![right,fit](img/process/peer-review.png)
 
-**People support each other to learn and grow in the roles and groups they serve.**
+**Support each other to learn and grow in the roles and groups you serve in.**
 
-The role keeper - or group - leads the peer review by setting up the process and speaking first in each step.
+The role keeper — or group — leads the peer review by setting up the process and speaking first in each step.
 
 Ensure to invite people with complementing perspectives to contribute to the review, and a facilitator.
 
-Improvement suggestions apply to personal development, collaboration, updates to domain description (including driver statement) and strategy.
+Improvement suggestions may relate to personal development, collaboration, updates to the domain description (including the driver statement) and strategy.
 
 ---
 
-## Peer Review (cont.)
+## Peer Review (…)
 
 
-### Continuous improvement of people's ability to effectively fulfill roles or collaborate together in groups.
+### Continuous improvement of people's ability to effectively keep roles or collaborate together in groups.
 
 ![inline,fit](img/evolution/development-process.png)
 
@@ -669,7 +781,7 @@ Improvement suggestions apply to personal development, collaboration, updates to
 
 The development plan may be created for a person in a role, or for a group (e.g. a department, circle, team or open domain).
 
-Development may happen in the form of refining description of driver and domain, amendments to strategy, new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
+Development may happen in the form of refining the description of the driver and the domain, making amendments to strategy, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
 
 A development plan (and any accompanying recommendations for changes to the domain description and driver statement) requires consent from both the delegatee and the delegator.
 
@@ -691,15 +803,21 @@ A development plan (and any accompanying recommendations for changes to the doma
 
 ![right,fit](img/collaboration-values/artful-participation.png)
 
-An **individual commitment** to developing helpful interactions and effective collaboration:
+**Commit to doing your best to act and interact in ways that enable effective collaboration.**
+
+Participating artfully may include interrupting, objecting or breaking  agreements.
+
+---
+
+## Artful Participation (…)
+
+_Artful Participation_ is an **individual commitment** to:
 
 -   actively **consider and follow-up on all agreements** made, in the best way possible, given the circumstances
 -   **develop awareness and understanding** of individual and collective needs
--   **grow the necessary skills** to do so
--   **support others** in doing the same 
--   bring impediments to the attention of others if necessary
-
-Participating artfully may include interrupting, objecting or breaking  agreements.
+-   **grow the necessary skills**
+-   **support others** to participate artfully
+-   bring impediments and improvement suggestions to the attention of others if necessary
 
 ---
 
@@ -707,20 +825,22 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 ![right,fit](img/illustrations/balance-autonomy-collaboration-alt.png)
 
+Artful participation:
+
 - enables co-creation and evolution of agreements
 - helps to grow stronger teams
 - builds self-accountability, integrity and trust
 - generates a culture of mutual support and close collaboration
-- even more powerful when embraced by many
+- is more powerful when embraced by many
 
 ---
 
 ### Artful Participation: Self-Assessment
 
--   How will I support myself and others in participating more artfully? 
+-   How can I support myself and others to participate more artfully? 
 -   Where are my interactions with others unhelpful or ineffective?
--   Which agreements do I find hard to keep or contribute to? What can I do to address this?
--   What skills could I develop, that would support me to participate more artfully?
+-   Which agreements do I find hard to keep? What can I do to address this?
+-   What skills can I develop, that would support me to participate more artfully?
 -   What would artful participation mean in relation to:
     -   my daily activities?
     -   collaboration and interaction with others?
@@ -738,11 +858,13 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 ![right,fit](img/collaboration-values/values-7principles.png)
 
-## Adopt The Seven Principles (cont.)
+## Adopt The Seven Principles (…)
 
--   align collaboration with the Seven Principles
--   adopting the Seven Principles reduces the number of explicit agreements required, and guides adaptation of S3 patterns to suit the organization's context
--   an organization's actual values need to embrace Sociocracy 3.0 principles
+**Align collaboration with the Seven Principles.**
+
+Adopting the Seven Principles reduces the number of explicit agreements required, and guides adaptation of S3 patterns to suit the organization's context.
+
+An organization's values need to embrace the Seven Principles.
 
 
 ---
@@ -751,23 +873,26 @@ Participating artfully may include interrupting, objecting or breaking  agreemen
 
 ![right,fit](img/collaboration-values/chosen-values.png)
 
-**Intentionally shape the culture in your organization.**
+**Intentionally evolve the culture in your organization.**
 
-_A **value** is a principle that guides behavior. Values define scope for action and ethical constraints._
+_**Values** are valued principles that guide behavior. Values define scope for action and ethical constraints._
 
 -   each member brings their own values to an organization based on personal experiences and beliefs
 -   a group or organization may **choose to collectively adopt values** to guide their collaboration
 
 --- 
 
-## Agree On Values (cont.)
+## Agree On Values (…)
 
--   values offer guidance to determine appropriate action, even in the absence of explicit agreements
--   defining values is a **strategy** that supports effectiveness of an organization:
-    -   reduces potential for **misunderstanding**
-    -   **aligns** decision making and action
-    -   **attracts new members, partners and customers** who are aligned with the organization
--   values are an agreement and thus subject to **regular review**
+Values offer guidance to determine appropriate action, even in the absence of explicit agreements.
+
+Collectively adopting a set of values to support the effectiveness of an organization:
+
+-   reduces potential for **misunderstanding**
+-   helps to **align** decision making and action
+-   **attracts new members, partners and customers** who are aligned with the organization
+
+Chosen values are an agreement that benefits from **regular review**.
 
 
 
@@ -778,79 +903,157 @@ _A **value** is a principle that guides behavior. Values define scope for action
 
 ![right,fit](img/circle/facilitator.png)
 
+**Select someone to facilitate governance meetings.**
+
 A governance facilitator:
 
--   is accountable for ensuring governance meetings are facilitated, stay on track and are evaluated
--   is (usually) selected by a group from among it members
--   familiarizes themselves with the governance backlog
+-    ensures governance meetings stay on track and are evaluated
+-   is (usually) selected by a group from among it members (and for a specific term)
+-   familiarizes themselves with the _Governance Backlog_
 -   often invites others to facilitate some agenda items
 
 ---
 
-## Governance Facilitator (cont.)
+## Governance Facilitator (…)
 
+As a governance facilitator, consider learning about and using the following patterns from S3 to handle governance effectively:
 
-When using S3 for governance, the facilitator familiarizes themselves with the following patterns:
-
--   rounds
--   proposal forming
--   consent decision making
--   role selection
--   evaluate meetings
--   resolve objections
--   peer reviews
+-   _Rounds_
+-   _Proposal Forming_
+-   _Consent Decision Making_
+-   _Role Selection_
+-   _Evaluate Meetings_
+-   _Resolve Objections_
+-   _Peer Review_
 
 
 ---
 
 ## Pattern 3.5: Breaking Agreements
 
--   is sometimes **necessary**...
--   ...but may come at a **cost** to the community
--   be accountable!
-    -   **clean up** disturbances
-    -   **follow up** ASAP with those affected or accountable
-    -   **initiate changes** instead of repeatedly breaking the same agreement
+Breaking agreements is sometimes **necessary** but may come at a **cost** to the community.
+
+Be accountable:
+
+-   **clean up** disturbances
+-   **follow up** as soon as possible with those affected
+-   **change the agreement** instead of repeatedly breaking it
 
 
 ---
 
-## Pattern 3.6: Contracting And Accountability
+## Pattern 3.6: Contract For Successful Collaboration
+ 
+**Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.**
 
-When entering into formal or informal agreements with others:
+A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies. 
 
--   ensure all parties understand what's expected of them and intend to keep to the agreement
--   verify the agreement is beneficial to all parties, and that expectations are realistic
+Developing shared understanding about needs and expectations is essential for successful collaboration.
 
-Be accountable for breaking agreements. 
+While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved. 
 
 ---
 
-## Contracting And Accountability (cont.)
+## Contract For Successful Collaboration (…)
 
-![right,fit](img/circle/enter-leave-circle.png)
+This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations. e.g.: 
 
-To preserve organizational culture, maintain self-accountability and help new members of an organization or circle have a smooth start:
+- employment contracts and contracts with external contractors or consultants in support roles (including any agreement that results in a change of remuneration or working hours)
+- contracts governing collaboration with customers, vendors or service providers
+- shareholder agreements
 
-- define expectations for new members (both cultural fit and the skills required)
-- align contract with both organizational culture and legal requirements
-- consider a probationary period
-- have clear procedures for breaches of contract
+**Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
+
+---
+
+## Criteria for a successful alliance between contracting parties
+
+When negotiating a contract, ensure:
+
+- shared understanding of the reason for the collaboration, as well as the intended outcome and important constraints
+- all parties understand what is expected of them
+- all parties affected by a contract are involved in creating the contract and enter it voluntarily
+- expectations are realistic
+- the agreement is beneficial to all parties
+- everyone intends to keep to the agreement made
+
+If for any reason one or more of these criteria cannot be fulfilled, it is probably wise to not proceed.
+
+---
+
+## Co-creating the contract
+
+The way a contract is negotiated can significantly contribute toward building trust between parties. Approach contracting from the point of view of making an agreement between partners, not adversaries: co-create the contract, tailor it to its specific context, and ensure it is legally robust.
+
+- include all expectations to the parties involved, and explain each with adequate detail
+- use clear and simple language that all parties can understand, and be unambiguous about legal consequences
+- if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
+- consult a lawyer who supports the culture you aspire to and is competent in the field if business you are negotiating
+
+------
+
+## When Co-Creating A Contract:
+
+- ensure all parties have a delegation that includes representation for all affected domains (e.g. not only sales, but also development / production / support, etc)
+- explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
+- state the reasons for the proposed collaboration, and transparent about expectations and needs of all parties
+- disclose all relevant information (if necessary under an NDA)
+- agree first on terms of the relationship and expectations to all parties, and then consider how you can make them legally robust
+- compile a list of specific laws and regulation the contract needs to comply to
+- negotiate in several iterations, allowing time to consider implications and propose amendments
+- keep minutes of each meeting to reduce the potential for misconceptions
+
+
+---
+
+### Support The Full Lifecycle Of The Collaboration:
+
+Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
+
+- make provisions for successfully getting started by defining onboarding procedures
+- have a probationary period - where all parties can try out the collaboration - and a clear protocol for how to end the contract in the probationary period
+- define and build into the contract, regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
+- include procedures for breach of contract
+- consider making available alternative means for dispute resolution, e.g. mediation, conciliation  or arbitration
+- consider limiting the contract to a fixed term after which the contract expires and can be renewed if required
+
+---
+
+### Culture
+
+Every contract influences the culture of the collaboration it governs, even when it appears to only describe *what* needs to be delivered:
+
+- intentionally create the culture of collaboration you want to see by including expectations on *how* things should be done 
+- align the contract to the organizational culture (of all parties) and to legal requirements
+- build contracts that enable and encourage accountability
+
+if you find that standard contracts in your industry are misaligned  with the culture you want to create, build your own repository of templates for contracts and clauses and consider sharing it with others, so that you can leverage past experience when creating new contracts.
+
 
 
 ---
 
 ## Pattern 3.7: Transparent Salary
 
--   transparent salaries need to be fair
--   fairness has several orthogonal dimensions    
--   perception of fairness is specific to organizational context
--   consider members and relevant stakeholders (e.g. investors)
--   create a salary formula:
-    -   fixed: subsistence guarantee
-    -   variable: fair distribution of gains and costs
--   consider remuneration for changing roles
--   create strategy for transitioning towards new contracts and compensation agreements
+**Create a fair salary formula and make it transparent.**
+
+Transparent salary (also referred to as "open salary") is the practice of making the salary formula - and often individual compensation as well - transparent to all members of an organization, and sometimes to the public.
+
+A transparent salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
+
+Perception of fairness varies from person to person and according to context, so creating a salary formula requires developing a shared understanding of what is considered fair.
+
+---
+
+## Transparent Salary (…)
+
+When deciding (or agreeing) on a salary formula for an organization or department, consider: 
+
+- what would be a suitable fixed subsistence guarantee
+- how to calculate compensation according to need, investment, productivity, or merit
+- how to distribute the organization's profit and cover for losses in line with expectations and needs of the various stakeholders
+
+Decide how to handle remuneration for changing roles and create strategy for how to transition towards new contracts and compensation agreements.
 
 ---
 
@@ -865,14 +1068,15 @@ To preserve organizational culture, maintain self-accountability and help new me
 
 **Apply the role pattern to external contractors.**
     
--   clarify and describe driver for the role
--   create domain description
--   implement a selection process
--   limit term of the contract
+-   clarify and describe the driver for the role
+-   create a domain description
+-   if valuable, implement a selection process
+-   limit the term of the contract
 -   build in regular peer reviews
 
-Support roles may be operational only, and external contractors consent to account for their role.
+External contractors consent to take on their role.
 
+see also: [Contract For Successful Collaboration](contract-for-successful-collaboration)
 
 ---
 
@@ -900,17 +1104,17 @@ Consider:
 
 ## Pattern 4.1: Delegate Influence
 
-Decentralize power to influence within defined constraints. Enable people to decide and act for themselves in response to organizational drivers.
+**Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.**
 
-The delegator supports people in delivering value by:
+A [delegator](glossary:delegator) can support [delegatees](glossary:delegatee) to deliver value by:
 
-- defining domains of accountability and autonomy clearly
-- ensuring ongoing learning and development
-- providing support as needed
+-   Clearly defining domains of autonomy and accountability
+-   Ensuring there are opportunities for learning and development
+-   Providing support if required
 
 Adjust constraints incrementally, considering capabilities, reliability and outcome.
 
-Decentralize as much as possible, retain as much influence as necessary.
+Decentralize as much as possible, and retain as much influence as necessary.
 
 
 ---
@@ -919,7 +1123,7 @@ Decentralize as much as possible, retain as much influence as necessary.
 
 ![right,fit](img/circle/circle.png)  
 
-_A **circle** is an equivalent, self-governing, and semi-autonomous group of people collaborating to account for a domain._
+_A **circle** is a self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain._
 
 A circle:
 
@@ -929,13 +1133,15 @@ A circle:
 
 ---
 
-## Circle (cont.)
+## Circle (…)
 
--   **semi-autonomous**
-    -   a circle acts within the constraints of their domain
-    -   each circle can create value autonomously
+-   **semi-autonomous**:
+    -   A circle's members act within the constraints of their domain .
+    -   Each circle can create value autonomously.
 -   **self-governing**:
-    -   a circle continuously decides what to do to account for their domain, and sets constraints on how and when things will be done.
+    -   A circle's members ongoingly continuously decides together what to do to account for their domain, and set constraints on how and when things will be done.
+-  **equivalence of circle members**
+    -   All members of a circle are equally accountable for governance of the circle's domain.
 
 
 ---
@@ -946,29 +1152,25 @@ A circle:
 
 **Delegate accountability for a domain to individuals.**
 
-A role is an area of accountability defined by a domain and assigned to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
+A role is an area of accountability (a domain) that is delegated to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
-The role keeper leads in creating a strategy for how to account for their domain, and evolves their strategy in collaboration with the delegator.
+The role keeper leads in creating a strategy for how they will account for their domain. They evolve their strategy in collaboration with the delegator.
 
-A role is a simple way for a group to delegate recurring tasks or a specific area of work to one of its members.
+A role is a simple way for an organization (or group) to delegate recurring tasks or a specific area of work and decision making to one of its members.
 
 --- 
 
-## Role (cont.)
+## Role (…)
 
-- people can be in more than one role, and roles can be fulfilled by more than one person
+- people can take responsibility for more than one role
+- instead of formally setting up a new group, it's sometimes simpler to just share one role between several people
 - role keepers are selected by consent and for a limited term
-- peers support one another to develop in the roles they fulfill
+- peers support one another to develop in the roles they keep
 
-A role keeper may maintain a logbook and a governance backlog to evolve their approach towards delivering value.
+A role keeper may maintain a governance backlog, and a logbook to record and help them evolve their approach toward delivering value.
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
 
----
-
-### Role: one way to account for a domain
-
-![inline,fit](img/evolution/driver-role-selection-development.png)
 
 
 ---
@@ -977,7 +1179,7 @@ A role keeper may maintain a logbook and a governance backlog to evolve their ap
 
 ![right,fit](img/structural-patterns/link.png)
 
-**Facilitate flow of information and influence between two groups.**
+**Enable the flow of information and influence between two groups.**
 
 A group selects one of its members to represent their interests in the governance decisions of another group.
 
@@ -988,26 +1190,27 @@ A group selects one of its members to represent their interests in the governanc
 
 ![right,fit](img/structural-patterns/double-link.png)
 
-**Facilitate _two-way_ flow of information and influence between two groups.**
+**Enable the _two-way_ flow of information and influence between two groups.**
 
 Two interdependent groups each select one of their members to represent their interests in the governance decisions of the other group.
 
--   creates equivalence between two groups
--   can be used to draw out valuable information in hierarchical structures
+Double linking enables equivalence between two groups and can be used to draw out valuable information in hierarchical structures.
 
 
 ---
 
 ## Pattern 4.6: Representative (role)
 
+**Select a group member to participate in the governance decision making of another group to enable the flow of information and influence.**
+
 Representatives (a.k.a. links):
 
--   stand for the interests one group in another group
+-   stand for the interests of one group in another group
 -   are selected for a limited term
--   participate as full members in the **governance decisions** of the circle they are delegated to, and can:
+-   participate in the **governance decision making** of the circle they link with, and can:
     -   raise items for the agenda
     -   participate in forming proposals
-    -   object to agreements and proposals (when there is reason to do so)
+    -   object to proposals and existing agreements (when there is reason to do so)
 
 
 ---
@@ -1016,7 +1219,7 @@ Representatives (a.k.a. links):
 
 ![right,fit](img/structural-patterns/helping-team.png)
 
-A group of people with the mandate to execute on a specific set of requirements defined by a delegator.
+**Form equivalent groups of people with the mandate to execute on a specific set of requirements defined by a delegator.**
 
 A helping team: 
 
@@ -1025,11 +1228,15 @@ A helping team:
 -   is governed by the delegator
 -   benefits from a clearly defined domain
 
+---
+
+## Helping Team (…)
+
 Members of the helping team:
 
 -   can object to the delegator's decisions that affect them
 -   can add items to the delegator's governance backlog
--   may be invited to select a representative to participate in the governance decisions of the delegator
+-   may be invited to select a representative to participate in the governance decision making of the delegator
 
 ---
 
@@ -1037,30 +1244,37 @@ Members of the helping team:
 
 ![right,fit](img/structural-patterns/open-domain.png)
 
-**A way to intentionally account for a domain by invitation rather than assignment.**
- 
+**Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.**
+
 The delegator of the open domain clarifies:
  
-- primary driver, key responsibilities and constraints of the open domain
+- the primary driver, key responsibilities and constraints of the open domain
 - who is invited to contribute to the open domain
 - constraints relating to the delegator’s participation in the open domain’s governance
- 
-The delegator of the open domain is accountable for ensuring regular review of the open domain.
 
-Depending on the constraints set by delegators, contributors may account for work and/or governance of the open domain.
+---
+
+## Open Domain (…)
+
+
+Depending on the constraints set by the delegator, contributors may only organize and do work, or take part in governance as well.
+
+A delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making done in an open domain. 
 
 
 ---
 
 ## Pattern 4.9: Open Systems
 
-An organization can benefit from intentionally communicating with and learning from others.
 
-Acknowledging its interdependence, an organization can consciously invite **outside information, influence or skills** to assist with making decisions and to support collective learning.
+**Intentionally communicate with and learn from others outside of your system.**
+
+Individuals, groups and entire organizations can acknowledge interdependence and intentionally invite people from outside their system to bring in **knowledge, experience and influence** to assist with decision making and support collective learning.
+
 
 ---
 
-## Open Systems (cont.)
+## Open Systems (…)
 
 -   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
 -   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see Those Affected Decide)
@@ -1077,16 +1291,19 @@ Acknowledging its interdependence, an organization can consciously invite **outs
 
 ## Pattern 5.1: Adapt Patterns To Context
 
-**Adapt and evolve S3 patterns to fit your specific context.**
+**Adapt and evolve S3 patterns to suit your specific context.**
 
 ![right,fit](img/process/adapt-pattern-to-context.png)
 
--   ensure everyone affected by adaptation:
-    -   understands why it is necessary to adapt the pattern
-    -   is present or represented when doing so
--   use S3 principles as a guide for adaptation
--   run experiments with adaptations for long enough to learn about benefits and potential pitfalls
--   consider sharing valuable adaptations with the S3 community
+Ensure that everyone affected:
+
+-   understands why changing the pattern is necessary (or helpful)
+-   is present or represented when deciding how to change it
+-   uses S3 principles as a guide for adaptation.
+
+Run experiments with adaptations for long enough to learn about the benefits and any potential pitfalls.
+
+Share valuable adaptations with the S3 community.
 
 
 
@@ -1098,11 +1315,11 @@ Acknowledging its interdependence, an organization can consciously invite **outs
 
 Change things when there is value in doing so:
 
--   bring in patterns that solve current and important problems
-  * don't break what's already working!
-  * meet everyone where they are…
-  * …and let them choose their own pace
--   consider making all change voluntary!
+-   Bring in patterns that help to solve current and important problems.
+-   Don't break what's already working!
+-   Meet everyone where they are…
+-   …and let them choose their own pace.
+
 
 ---
 
@@ -1117,39 +1334,45 @@ Behave and act in the ways you would like others to behave and act.
 
 ## Pattern 5.4: Invite Change
 
-**A way for individuals to initiate and facilitate change.**
+**Clarify the reason for change and invite people to participate.**
 
--   be the change you want to see
--   use and adapt S3 patterns to address drivers when it's helpful to do so
--   tell the story about how and why you are using patterns from S3, including documenting outcomes, successes and failures
--   invite others to experiment with you
+Inviting rather than imposing change helps reduce resistance and enables people to choose for themselves.
+
+When making the invitation:
+
+-   be transparent about the reason for the change
+-   clarify expectations and constraints
+-   avoid coercion or manipulation
+-   acknowledge any skepticism and doubts
+
+Include the people involved and affected in regular evaluation outcomes.
 
 
 ---
 
-## Pattern 5.5: Open S3 Adoption
+## Pattern 5.5: Open-Space For Change
 
 **Invite everyone to create and run experiments for evolving the organization.**
 
--   identify the driver for pulling in S3 patterns
+-   clarify the driver for change
 -   schedule regular open space events:
     -   invite all members to create and run experiments
-    -   define constraints for experiments: e.g. S3 principles
+    -   define constraints for the experiments that enable development of a sociocratic and agile mindset (e.g. S3 principles)
     -   review and learn from experimentation in the next open space
-    -   repeat
+
 
 
 ---
 
 ## Pattern 5.6: Continuous Improvement Of Work Process With S3
 
-**To reveal drivers and establish a metrics-based pull-system for organizational change.**
+**Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.**
 
--   introduce the principle of consent and _Navigate Via Tension_ to evolve work process in one team
--   consider selecting a facilitator and agreeing on values
--   trigger continuous improvement (e.g through Kanban)
--   team members pull in S3 patterns as required
--   expand the scope of the experiment iteratively
+-   introduce the principle of consent and _Navigate Via Tension_ to evolve work process in a group
+-   consider selecting a facilitator to guide group processes, and choosing values to guide the group
+-   trigger continuous improvement (through Kanban, retrospectives, etc.)
+-   members of the group pull in S3 patterns as required
+-   if valuable, iteratively expand the scope of the experiment to other groups
 -   intentionally look out for impediments  
 
 ---
@@ -1158,11 +1381,11 @@ Behave and act in the ways you would like others to behave and act.
 
 ![right,fit](img/workflow-and-value/drivers-value-waste.png)
 
-**Waste** _is anything not necessary for - or standing in the way of - effective response to a driver._
+_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response of a driver._
 
--   waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
--   establishing a process for ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness
--   adaptation to changing context is built into the process
+Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
+
+Establishing a process for the ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness and adaptation to changing context.
 
 
 
@@ -1190,15 +1413,15 @@ Behave and act in the ways you would like others to behave and act.
 
 ## Pattern 6.1: Agreement
 
-![right,fit](img/evolution/driver-agreement-improvement.png)
-
 _An **agreement** is an agreed upon guideline, process or protocol designed to guide the flow of value._
 
--   agreements are created in response to drivers 
--   agreements are the **accountability of the people** that make them
--   agreements are **regularly reviewed**
+-   agreements are created in response to organizational drivers 
+-   **overall accountability** for an agreement lies with the people that make them
+-   an agreement can include **delegation of specific responsibilities** to individuals or groups
+-   agreements are **regularly reviewed**, and evolved as necessary
+-   record those agreements you might want to reference later
 
-**Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
+**Note**: In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.  
 
 ---
 
@@ -1214,20 +1437,23 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 
 ![right,fit](img/driver-domain/driver-strategy-agreements-domain.png)
 
-_A **strategy** is a high level approach how people will create value to successfully account for a domain._
+_A **strategy** is a high level approach for how people will create value to successfully account for a domain._
 
--   an organization, group or role keeper develop their own strategy
--   a strategy often includes a description of the intended outcome
--   as the delegator shares accountability for the domain, it's valuable they review the strategy, identify potential impediments and suggest improvements 
--   strategy is a shared agreement between delegator(s) and delegatee(s) that is regularly reviewed and updated as necessary (*pivot or persevere*)
+It is usually more effective if a group or role keeper lead in developing their own strategy.
+
+A strategy often includes a description of the intended outcome.
+
+As the delegator shares accountability for domains they delegate, it's valuable they review a delegatee's strategy, to check for potential impediments and suggest ways it could be improved.
+
+A strategy is a shared agreement between delegator(s) and delegatee(s) that is regularly reviewed and updated as necessary (*pivot or persevere*)
 
 ---
 
-## Strategy (cont.)
+## Develop Strategy (…)
 
-### Strategies are implemented and refined through experimentation and learning. 
+![inline,fit](img/evolution/domain-driver-strategy-exeriments.png)
 
-![right,fit](img/evolution/domain-driver-strategy-exeriments.png)
+Strategies are validated and refined through experimentation and learning.
 
 
 ---
@@ -1236,7 +1462,7 @@ _A **strategy** is a high level approach how people will create value to success
 
 ![right,fit](img/templates/domain-description-template.png)
 
-A clear understanding of people's area of accountability and autonomy enables greater efficiency, effective collaboration and agility throughout the organization.
+**A clear understanding of people's area of accountability and autonomy enables greater efficiency, effective collaboration and agility throughout an organization.**
 
 A simple way to clarify domains is with a **domain description** that contains:
 
@@ -1249,101 +1475,104 @@ A simple way to clarify domains is with a **domain description** that contains:
 
 ---
 
-## Clarify Domains (cont.)
+## Clarify Domains (…)
 
 Domain descriptions can be created for a role, position, circle, team, open domain, department, unit, or the whole organization.
 
-You can either start by clarifying existing domains, or at least clarify new ones.
+One way of clarifying a domain is by filling out an [S3 Delegation Canvas](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html).
 
 
 ---
 
-## Pattern 6.4: Intended Outcome
+## Pattern 6.4: Clarify Intended Outcome
 
 ![right,fit](img/templates/outcome-and-criteria.png)
 
--   a concise description of the expected result of an agreement, action, project or strategy
--   specific *Evaluation Criteria* and metrics can be helpful for reviewing the actual outcome
+**Be explicit about the expected results of agreements, actions, projects and strategies.**
+
+Agree on and record a concise description of the intended outcome. 
+
+The intended outcome can be used to define *Evaluation Criteria* and metrics for reviewing actual outcome.
 
 
 ---
 
 ## Pattern 6.5: Describe Deliverables
 
-A **deliverable** is something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformations.
+**Clearly describe deliverables in the context of an agreement, to support shared understanding of expectations.**
 
-In the context of an agreement, clearly describing deliverables supports shared understanding:
+_A **deliverable** is a product, service, raw material, experience or transformation, provided as a result of an agreement._
+
+When describing deliverables:
 
 -   include the necessary amount of detail
 -   reference other documents when helpful or necessary
 
 ---
 
-## Describe Deliverables (cont.)
+## Describe Deliverables (…)
 
-Explicitly defining deliverables can be useful for improving: 
+Explicitly describing deliverables can be useful for improving: 
 
 -   organizational strategy
--   circle strategy
+-   the strategy of groups or individuals
 -   development plans
 -   domain descriptions
--   any other agreement (e.g. business goals, process policy, customer communication)
+-   any other agreement (e.g. business objectives, process policy, customer communication)
 
 
 ---
 
 ## Pattern 6.6: Evaluation Criteria
 
-![right,fit](img/templates/outcome-and-criteria.png)
+**Develop well-defined evaluation criteria to determine if acting on an agreement had the desired effect.**
 
-Well-defined evaluation criteria can help to understand whether or not an agreement has had the desired effect.
-
--   go for **simple and unambiguous** criteria and document them (to avoid discussion when reviewing your agreements)
--   define **actionable metrics** to continuously track effects and spot deviations from intended outcomes
+-   go for **simple and unambiguous** criteria and document them (to avoid discussion or unnecessary dialogue when reviewing your agreements)
+-   define **actionable metrics** to continuously track effects and spot deviations from intended outcome
+-   consider adding criteria which make it explicit when the outcome of an agreement would be considered **unsuccessful**
+-   when reviewing an agreement, consider **evolving the evaluation criteria** based on what you have learned
 
 
 ---
 
 ## Pattern 6.7: Logbook
 
+**Maintain a coherent and accessible system that stores all information required for collaboration.**
+
 A logbook is a (digital) system to store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, and information is kept confidential only when there is good reason to do so.
 
-Common platforms for logbooks are Wikis (e.g. Dokuwiki or MediaWiki), Content Management Systems (e.g. Wordpress), G Suite, Evernote or Trello etc.
+Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (e.g. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) or even [Trello](https://trello.com/).
 
 ---
 
 ### Logbook Contents
 
--   Organization: 
-    -   primary driver, strategy and organizational values
-    -   organizational structure (domains and connections)
-    -   agreements 
+Content relating to the whole organization: 
 
--   Circle: 
-    -   circle description and strategy
-    -   agreements (including delegatees' domain descriptions, strategies and development plans)
-    -   backlogs and other information relating to a circle's work and governance
+-   primary driver, strategy and organizational values
+-   organizational structure (domains and the connections between them)
+-   agreements 
 
----
+Content relating to a specific group or role: 
 
-### Logbook Contents (cont.)
+-   the domain description and strategy
+-   agreements (including delegatees' domain descriptions, strategies and development plans)
+-   backlogs and other information relating to work and governance
 
--   Personal logbooks
-    -   domain descriptions, strategies and development plans
-    -   governance and operational backlogs for roles
-    -   decisions related to delivering value in a role
 
 
 ---
 
 ## Pattern 6.8: Logbook Keeper (Role)
 
-The logbook keeper is accountable for maintaining a circle's logbook by: 
+**Select a member of your group to be specifically accountable for keeping up to date records of all information the group requires.**
+
+The logbook keeper is accountable for maintaining a group's logbook by: 
 
 -   recording details of agreements, domain descriptions, selections, evaluation dates, minutes of meetings etc.
 -   organizing relevant information and improving the system when valuable
 -   keeping records up to date
--   ensuring accessibility to everyone in the circle (and in the wider organization as agreed)
+-   ensuring accessibility to everyone in the group (and in the wider organization as agreed)
 -   attending to all technical aspects of logbook keeping
 
 
@@ -1360,43 +1589,44 @@ The logbook keeper is accountable for maintaining a circle's logbook by:
 
 ![right,fit](img/meetings/governance-meeting.png)
 
-Groups meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.
+**Groups meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
 
 A governance meeting is usually:
 
 -   facilitated 
 -   prepared in advance 
 -   time-boxed for a duration of 90-120 minutes
--   scheduled every 4 weeks
+-   scheduled every 2-4 weeks
 
 ---
 
-## Governance Meeting (cont.)
+## Governance Meeting (…)
 
 A typical governance meeting includes: 
 
--   opening round: attune with each other and to the objectives (or driver) of the group
+-   opening: check in with each other and attune to the driver (or objectives) of the meeting
 -   administrative matters 
-    -   consent to last minutes, date for next meeting, etc.
-    -   check for last-minute agenda items and consent to agenda
+    -   check for consent to the last meeting's minutes
+    -   agree on a date for the next meeting
+    -   check for any last-minute agenda items and for consent to the agenda
 -   agenda items 
 -   meeting evaluation: reflect on your interactions, celebrate successes and share suggestions for improvement
--   closing
+-   closing: check in with each other before you leave the meeting
 
 ---
 
-## Governance Meeting (cont.)
+## Governance Meeting (…)
 
 Typical agenda items include:
 
 -   any short reports 
 -   evaluation of existing agreements due review
+-   selecting people to roles 
 -   new drivers requiring decisions to be made, including: 
-    -   understanding and agreeing on situations that require attention 
-    -   forming proposals and making agreements 
-    -   creating and defining new roles and groups 
-    -   reviewing existing roles or groups
-    -   selecting people to roles 
+    -   forming proposals
+    -   making agreements 
+    -   designing domains and deciding how to account for them (e.g. new roles, circles, teams or open domains)
+
 
 
 
@@ -1407,7 +1637,7 @@ Typical agenda items include:
 
 ## Pattern 7.2: Retrospective
 
-Building in continuous improvement of work process through reflection and learning from past experience.
+**Dedicate time to reflect on past experience, learn, and decide how to improve work process.**
 
 -   output: changes to work process, new tasks, on-the-fly agreements, and drivers requiring an agreement
 -   facilitated meeting (~1hr)
@@ -1439,14 +1669,14 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 ![right,fit](img/meetings/planning-review-standup.png)
 
-**A meeting to coordinate work, facilitate learning, improve productivity and effectiveness.**
+**Meet daily to organize work, facilitate learning and improve your productivity and effectiveness.**
 
 -   time-boxed (usually 15 minutes)
 -   held daily at the same time
--   the group gathers around a visible project management board/tool for:
-    -   coordination of daily work
-    -   addressing impediments/blocks
-    -   adaptation of existing agreements or creation of new agreements on the spot
+-   the group gathers around a visible project management board/tool to:
+    -   organize daily work
+    -   address impediments/blocks
+    -   adapt existing agreements or create new agreements on the spot
 
 
 ---
@@ -1455,36 +1685,35 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 ![right,fit](img/meetings/planning-review.png)
 
-People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and review work.
+**People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and review work.**
 
--   select and estimate work items for the next iteration in a planning meeting
--   review completed work items and decide on re-work and changes for the next iteration in a review meeting
+**Planning meeting**: select and estimate work items for the next iteration.
+
+**Review meeting**: review completed work items and decide on re-work and changes for the next iteration.
 
 
 ---
 
 ## Pattern 7.5: Coordination Meeting
 
-**Meet on a regular basis (usually weekly) for reporting on and coordinating work.**
+**Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.**
 
--   facilitate the meeting and use rounds instead of discussions where valuable
--   if possible, compile the agenda before the meeting
-    -   include any prerequisites for attendees to prepare
-    -   further items may come up when hearing status reports
+-   facilitate the meeting (timebox dialogue and use rounds where valuable)
+-   when useful, compile an agenda before the meeting and share it with attendees in advance
+    -   include details of any prerequisites that can help attendees to prepare
+    -   further agenda items may come up when hearing status reports
 
 ---
 
-## Coordination Meeting (cont.)
+## Coordination Meeting (…)
 
 ![right,fit](img/meetings/coordination-meeting.png)
 
--   status reports: 
-    -   circle metrics (if any)
-    -   projects and tasks
--   agenda items: 
-    -   sharing of information
-    -   add or update tasks or projects
-    -   propose new or updated agreements
+Agenda items: 
+
+- cross domain synchronization and alignment
+- prioritization and distribution of work  
+- responding to impediments
 
 
 ---
@@ -1500,49 +1729,117 @@ People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and 
 
 ![right,fit](img/circle/rounds.png) 
 
-**A group facilitation technique to maintain equivalence.**
+**In a group meeting, go around the circle giving everyone the chance to speak in turn.**
 
--   go around the circle giving everyone the chance to speak
--   begin each round with a different person, and change direction (clockwise or ccw) to bring variation to who speaks first and last, and to the order of people's contributions.
+Rounds are a group facilitation technique to maintain equivalence and support effective dialogue.
 
-Experienced groups might sometimes choose to fast-track certain rounds in S3 group processes.
+Be clear on the purpose and intended outcome of each round. 
+
+Begin each round with a different person, and change direction (clockwise or counterclockwise) to bring variation to who speaks first and last, and to the order of contributions.
+
 
 
 ---
 
 ## Pattern 8.2: Facilitate Meetings
 
-Choose someone to facilitate a meeting. Even an inexperienced facilitator can help to focus a meeting and make a positive difference.
+**Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track and draw out the participant's creativity and wisdom.**
 
--   prepare an agenda of topics
--   select a facilitator who:
-    -   facilitates a suitable activity or format for each topic
-    -   holds the space, keeps the time and navigates the agenda during the meeting
-    -   facilitates an evaluation of the meeting at the end
+Before each meeting, prepare an agenda of topics, and select a facilitator to:
+
+-   hold the space, keep the time and navigate the agenda during the meeting
+-   facilitate a suitable activity for each topic
+-   facilitate an evaluation at the end of the meeting
+
+Consider selecting a facilitator for a specific term. Even an inexperienced facilitator can make a positive difference.
+
+---
+
+## Pattern 8.3: Prepare For Meetings
+
+**Prepare in advance to make meetings more effective.**
+
+Some considerations for successfully preparing a meeting:
+
+- clarify and communicate the driver for, and intended outcome of the meeting
+- decide who to invite 
+- create an agenda
+- schedule the meeting enough in advance, so people have time to prepare
+- choose an appropriate duration for the meeting 
+- be clear who will facilitate the meeting, who will take minutes and who will take care of any follow-up
+
+---
+
+## Preparing an Agenda
+
+Involve people in preparing and prioritizing an agenda and send it out in advance
+
+For each agenda item agree on:
+
+- the driver 
+- the intended outcome
+- the process
+- the time you want to spend on it 
+- what people need to do to prepare
+
+---
+
+## Support the Participants' Preparation
+
+- consider what can be done in advance to prepare for the meeting
+- notify people about any expectations and prerequisites
+- make any resources available that people may need for preparation
+
+
+--- 
+
+## As a participant
+
+- consider the pattern _Artful Participation_
+- review the agenda and consider how you can contribute to each item
+- bring up objections to an agenda, and if possible resolve them before the meeting
+- review improvement suggestions from the last meeting's evaluation and consider how **you** might act on them
 
 
 ---
 
-## Pattern 8.3: Evaluate Meetings
+## Pattern 8.4: Check In
+
+**Help people to become aware of themselves and others, and to focus, be present and engage.**
+
+To check in, briefly disclose something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs. 
+
+Checking in may take the form of an opening or closing round in a group meeting, or just a brief exchange in a 1:1 meeting. 
+
+You can also call for a group check-in during a meeting, or even choose to individually check in whenever you think this is valuable for the group.
+
+In a group check-in, allow people to pass if they choose. 
+
+When checking in, in a new setting, people can also say their name and where they are coming from, as a way to introduce themselves. (Tip: Avoid talking about function, rank etc unless there is a reason to do so.)
+
+---
+
+## Pattern 8.5: Evaluate Meetings
 
 ![right,fit](img/meetings/evaluate-interactions.png)
 
 **Take time for learning at the end of each meeting or workshop.**
 
-Reflect on interactions, celebrate successes and share suggestions for improvement.
+Reflect on interactions, celebrate successes and share suggestions for improvement before closing the meeting.
 
--   before the closing round
 -   reserve 5 minutes for 1 hour, and 15 minutes for a full-day workshop
--   record learning and review before the next meeting
--   short formats: 
-    -   more of/less of/start/stop/keep
-    -   positive/critical/suggested improvements
+-   record learning and review it before the next meeting
+
+Short formats you can use: 
+
+-   more of/less of/start/stop/keep
+-   positive/critical/suggested improvements
 
 ---
 
 ### Evaluate Meetings: Long Format
 
-Ask everyone in a round to reflect on any or all of the following topics in a brief sharing: 
+Ask everyone in a round to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
 
 -   effectiveness and format
 -   facilitation and participation
@@ -1554,41 +1851,42 @@ Ask everyone in a round to reflect on any or all of the following topics in a br
 
 ---
 
-## Pattern 8.4: Meeting Host (Role)
+## Pattern 8.6: Meeting Host (Role)
 
-The meeting host is accountable for preparation and follow-up of meetings, workshops or other events. 
+**Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
 
-The role may be assigned temporarily (i.e. for one specific event) or for a duration of time.
+A person may take on the role of Meeting Host for a specific event or for several events over a period of time.
 
 ---
 
 ### Responsibilities Of A Meeting Host
 
--   preparation
-    -   identify goals and deliverables
-    -   prepare and distribute agenda and schedule
-    -   estimate required time
-    -   identify and invite participants
-    -   schedule the meeting/workshop
-    -   book location (and transportation if required)
-    -   set up the space, provide required materials and information
-    -   ensure selection of a facilitator and a notetaker to record minutes, if appropriate
--   follow-up
-    -   clean up location, return keys etc.
-    -   ensure minutes are distributed
+Preparation:
+
+-   identify goals and deliverables
+-   prepare and distribute agenda
+-   identify and invite the participants
+-   estimate the time required and schedule the meeting/workshop
+-   book the location (and transportation if required)
+-   set up the space and provide required materials and information
+-   ensure selection of a facilitator and a notetaker to record minutes, if appropriate
+
+**After the meeting**: clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
 
 
 ---
 
-## Pattern 8.5: Governance Backlog
+## Pattern 8.7: Governance Backlog
 
 _A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention._
 
--   upcoming reports
--   decisions to make
+A governance backlog contains:
+
+-   matters requiring a decision
 -   proposals to create and consider
--   agreements for review
 -   selecting people for roles
+
+**Note:** Upcoming reports and agreements due review are usually added directly to the agenda (rather than the backlog).
 
 
 
@@ -1603,10 +1901,11 @@ _A **governance backlog** is a visible, prioritized list of items (drivers) that
 
 ## Pattern 9.1: Backlog
 
-_A **backlog** (to-do-list) is a visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed._
+_A backlog (to-do-list) is a visible list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed._
 
 Types of backlog include:
 
+-   governance backlog
 -   operations backlog
 -   sprint backlog
 -   product backlog
@@ -1614,17 +1913,18 @@ Types of backlog include:
 
 ---
 
-##  Backlog (cont.)
+##  Backlog (…)
 
--   **Implementation**
-    -   **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
-    -   **digital backlog**: e.g. Google Sheets, Trello, Kanban Flow, Jira
+**Implementation:**
+
+-   **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
+-   **digital backlog**: e.g. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
 ---
 
-## Backlog (cont.)
+## Backlog (…)
 
-Each item on a (prioritized) backlog contains:
+Each item on a (prioritized) backlog typically contains:
 
 -   a **short description** or a driver statement
 -   a **unique reference number** (or link) for each work item
@@ -1640,16 +1940,11 @@ Each item on a (prioritized) backlog contains:
 
 ## Pattern 9.2: Prioritize Backlogs
 
-Order **all uncompleted work items** with the most important items first:
+**Order all uncompleted work items with the most important items first, then pull work items from the top whenever there is new capacity.**
 
--   work items are pulled from the top whenever there is new capacity
--   no two items can be of equal importance, meaning it is necessary to agree on priorities and make tough choices
--   **Benefits**
-    -   focus on most important items
-    -   shared understanding of priorities enables more effective collaboration
+No two items can be of equal importance, meaning it is necessary to agree on priorities and make tough choices.
 
-
-
+A prioritized backlog helps to **maintain focus** on the most important items.
 
 ---
 
@@ -1657,12 +1952,12 @@ Order **all uncompleted work items** with the most important items first:
 
 ![right,fit](img/workflow-and-value/simple-process.png)
 
-Transparency about the state of all work items currently pending, in progress or completed.
+**Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.**
 
 -   valuable for self-organization and pull-systems
 -   system must be accessible to everyone affected
 -   **analog**: post-its on a wall, or index cards, magnets and white board
--   **digital**: Trello, Kanbanery, Leankit, Jira, Google Sheets, etc.
+-   **digital**: [Trello](https://trello.com/, [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
 ---
 
@@ -1680,18 +1975,15 @@ Transparency about the state of all work items currently pending, in progress or
 -   use colors, symbols, highlights etc.
 
 
-
-
-
-
-
 ---
 
 ## Pattern 9.4: Pull-System For Work
 
--   people pull in new items when they have capacity (instead of work being pushed at them)
--   prioritize available work items to ensure that important items are worked on first
--   prevents overloading the system, especially when work in progress (WIP) per person is limited 
+**People pull in new work items when they have capacity (instead of having work pushed or assigned to them.**
+
+Prioritize pending work items to ensure that important items are worked on first.
+
+Pulling in work prevents overloading the system, especially when work in progress (WIP) per person is limited. 
 
 
 ---
@@ -1702,7 +1994,7 @@ Transparency about the state of all work items currently pending, in progress or
 
 Work in Progress includes:
 
--   number of items in a backlog
+-   the number of items in a backlog
 -   concurrent projects or tasks for groups or individuals
 -   products in a portfolio
 
@@ -1712,32 +2004,67 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 ---
 
-## Pattern 9.6: Align Flow
+## Pattern 9.6: Timebox Activities
 
-![right,fit](img/workflow-and-value/align-flow.png)
+**Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.**
 
--   in an effective organization, **flow of information and influence supports the continuous flow of value**
--   alignment is achieved and maintained through the continuous improvement of agreements
+A timebox is a fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox):
 
----
-
-### Flow of Value ###
-
--   flow of value is guided by (explicit and implicit) agreements and assumptions
--   work in progress is regarded as waste because it ties up resources
--   continuous flow of value reduces the potential for accumulation of waste
-    -   it also makes for shorter feedback loops and amplifies learning
-
+- to get value out of the timebox, be clear what you want to achieve
+- agree on the duration of the timebox and visualize time
+- negotiate and agree to extend a timebox before the time is up
+- break down longer activities into manageable timeboxes
+- consider frequent review of progress
+- consider choosing someone (the "time keeper") to help others stay conscious of time
 
 ---
 
-## Pattern 9.7: Coordinator (Role)
+## Timebox Activities (…)
 
-A person in the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
+You could timebox:
 
--   the coordinator may be selected by the group itself, or by the delegator
--   several coordinators may collaborate to synchronize work across multiple domains
--   instead of selecting a coordinator, a group may choose to self-organize
+- meetings, calls, dialogue
+- tasks
+- experiments
+- an attempt to solve a problem
+- checking emails
+- breaks
+- a longer stretch of work (a sprint)
+
+
+---
+
+# Pattern 9.7: Proposal: Align Flow
+
+**In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.**
+
+**Flow of value**: Deliverables traveling through an organization towards customers or other stakeholders.
+
+Achieve and maintain alignment of flow through the continuous evolution of an organization's body of agreements:
+
+-   ensure all decisions affecting the flow of value actually support the flow of value
+-   enable people with relevant skills and knowledge to influence decisions
+-   make available any helpful information
+-   aim for shorter feedback loops to amplify learning.
+
+When decision making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is reduced.
+
+---
+
+![inline,fit](img/workflow-and-value/align-flow.png)
+
+
+---
+
+## Pattern 9.8: Coordinator (Role)
+
+A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
+
+The coordinator may be selected by the group itself, or by the delegator.
+
+Several coordinators may collaborate to synchronize work across multiple domains.
+
+Instead of selecting a coordinator, a group may choose to self-organize.
 
 ---
 
@@ -1752,19 +2079,16 @@ A person in the role of a coordinator is accountable for **coordinating a domain
 
 Organizational structure is the actual arrangement of domains and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
 
-An effective organizational structure:
+Continuously evolve your organization's structure to:
 
--   supports flow of value
--   enables collaboration
--   addresses dependencies and makes them explicit
--   ensures information is available to those who need it
--   distributes power to influence as required
--   evolves continuously to adapt to changing context
+-   support the continuous flow of value
+-   enable effective collaboration around dependencies
+-   ensure information is available to those who need it
+-   distribute power to influence as required
 
 ---
 
-## Organizational Structure (cont.)
-
+## Organizational Structure (…)
 
 The basic building blocks for organizational structure are interdependent, connected domains.
 
@@ -1772,7 +2096,7 @@ Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex  a
 
 ---
 
-### Structural Patterns
+## Structural Patterns
 
 Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 
@@ -1799,13 +2123,15 @@ A service circle can be populated by members of the domains it serves, and/or by
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
-**Decide and align on how to address drivers affecting multiple domains.**
+**Delegate decision making for how to respond to drivers affecting multiple domains, to representatives.**
 
-Decisions of a delegate circle are acted upon in the various domains it serves.
+To make governance decisions on their behalf, stakeholders send representatives to form a delegate circle.
 
-Each circle selects one or more members as representative(s) to a delegate circle.
+Governance decisions made in a delegate circle are acted upon in the various domains it serves.
 
-Delegate circles provide a way of steering organizations in alignment to the flow of value, and bring a diversity of perspective to governance decisions.
+Delegate circles provide a way of steering organizations in alignment with the flow of value, and bring a diversity of perspectives to governance decision making.
+
+A delegate circle may bring in other people (e.g. external experts) to help with specific decisions, or even as a  member of the circle.
 
 
 ---
@@ -1814,12 +2140,16 @@ Delegate circles provide a way of steering organizations in alignment to the flo
 
 ![right,fit](img/structural-patterns/peach-organization.png)
 
-Deliver value in complex and competitive environments through **decentralization** (of resources and influence) and **direct interaction** between those creating value and the customers they serve.
+**Deliver value in complex and competitive environments through _decentralization_ (of resources and influence) and _direct interaction_ between those creating value and the customers they serve.**
 
--   circles on the periphery deliver value in direct exchange with the outside world (customers, partners, communities, municipalities etc.) 
--   the center provides internal services to support the organization
--   periphery stewards the monetary resources and steers the organization
--   link domains as required to flow information and influence and address dependencies
+Groups in the periphery:
+
+-   deliver value in direct exchange with the outside world (customers, partners, communities, municipalities etc.) 
+-   steward the monetary resources and steer the organization
+
+The center provides internal services to support the organization.
+
+Domains are linked as required to flow information and influence, and to support collaboration around dependencies.
 
 
 ---
@@ -1828,11 +2158,17 @@ Deliver value in complex and competitive environments through **decentralization
 
 ![right,fit](img/structural-patterns/double-linked-hierarchy.png)
 
-**Bring equivalence to governance in a typical organizational hierarchy.**
+**Delegate all decision making to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence and building engagement.**
 
--   the organization is built from of self-governing circles
--   circles select a member to represent their interests in governance decisions of the next higher circle, and vice versa
--   functional hierarchy is still possible if valuable
+1. Shift governance decision making from individuals to groups by forming self-governing circles on all levels of your organization.
+
+2. Each circle's members select one of their group to represent their interests and participate in the governance decision making of the next higher circle, and vice versa.
+
+A double-linked hierarchy:
+
+- brings equivalence to governance
+- maintains the potential for a functional hierarchy (if it enables the flow of value).
+
 
 
 ---
@@ -1841,14 +2177,14 @@ Deliver value in complex and competitive environments through **decentralization
 
 ![right,fit](img/structural-patterns/service-organization-text.png)
 
-**Multi-stakeholder collaboration and alignment towards a shared driver.** 
+**Multi-stakeholder collaboration and alignment towards a shared driver (or objective).** 
 
 -   improves potential for equivalence between various entities
 -   increases cross-departmental/organizational alignment
 -   supports multi-agency collaboration between departments/organizations with different primary motives, or that are in conflict
 -   suitable for one-off projects, or ongoing collaboration
 
-**Note:** a service organization is often referred to as a **backbone organization**.
+**Note:** a service organization is sometimes referred to as a **backbone organization**.
 
 ---
 
@@ -1856,10 +2192,52 @@ Deliver value in complex and competitive environments through **decentralization
 
 ![right,fit](img/structural-patterns/fractal-organization.png)
 
-A pattern for multiple organizations (or domains) with a common driver to share learning and if valuable, coordinate and align action.
+**Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy)**.
 
--   a way to organize, align and steer from the ground up, while preserving autonomy and agency of the various entities involved
--   a structure to facilitate innovation and exchange of learning throughout a large community on an 'as needed' basis
+Creating a fractal organization can enable a large network to rapidly respond to changing contexts. 
+
+If necessary, the pattern can be repeated to connect multiple fractal organizations into one. 
+
+---
+
+## Prerequisites
+
+A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) driver, or by multiple branches, departments, or projects within a larger organization.
+
+These constituents (i.e. organizations, branches, departments or projects) need to share at least some - and typically most - functional domains (e.g. accounting, product management, or development).
+
+---
+
+
+## Tiers
+
+A fractal organization has at least three tiers: 
+
+- first tier: the **constituents** (i.e. organizations, branches, departments or projects)
+- second tier: **function-specific delegate circles** to share learning and to make and evolve agreements on behalf of function-specific domains
+-  third tier: a **cross-functional delegate circle** to make and evolve agreements in response to drivers affecting the overall body of constituents
+
+---
+
+## Forming a Fractal Organization
+
+1.  Forming the **second tier**: In each constituent, the members of each common (and significant) functional domain, decide who of them will represent them in a **function-specific delegate circle**, where they share knowledge and learning, and contribute toward making and evolving agreements. Representatives are selected for a limited term (after which a new selection is made).
+2.  Forming the **third tier**: second-tier delegate circles each select a delegate to form the **cross-functional delegate circle**.
+
+---
+
+## Impact on the organization(s)
+
+Each constituent:
+
+- gains access to a wide array of experience, wisdom and skills to increase effectiveness and innovation.
+- can share resources, infrastructure and experience with other constituents according to capacity and need
+
+The second and third tier:
+
+- can test decisions simultaneously across multiple instances of a function-specific domain, providing extensive feedback and rapid learning
+- organize, align and steer the whole system while preserving autonomy and agency of the individual constituents
+
 
 ---
 
@@ -1876,6 +2254,111 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 ---
 
 ## Changelog
+
+### Changes 2018-06-22
+
+**General Changes**
+
+- added and revised the brief summary for many of the patterns
+- removed bullet points in favor of full sentences in many patterns
+- lots of small improvements to grammar and language
+- included the URL to the web version of the practical guide 
+
+**Glossary**:
+
+-   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
+-   **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
+-   **removed**: peer driver
+
+---
+
+### Changes 2018-06-22 (…)
+
+**Changes to Introduction**
+
+-   added the driver for creating Sociocracy 3.0
+-   The Seven Principles:
+    -   _The Principle of Empiricism_: removed reference to “falsification” 
+    -   _The Principle of Consent_ is now explained more clearly as  “Raise, seek-out and resolve objections to decisions and actions” 
+-   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”,  and clarified the distinction between governance and operations
+-   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
+
+---
+
+### Changes 2018-06-22 (…)
+
+
+- _Agree on Values_: improved description
+- _Align Flow_: improved description and illustration
+- _Adapt Patterns To Context_: improved description
+- _Agreement_: improved description, updated template
+- _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
+- _Consent Decision Making_: improved description, updated illustration
+- _Continuous Improvement Of Work Process_: improved description
+- _Coordination Meeting_: clarified agenda items, updated illustration
+- _Delegate Circle_: improved description
+- _Delegate Influence_: improved description
+- _Describe Deliverables_: improved description
+
+---
+
+### Changes 2018-06-22 (…)
+
+- _Describe Organizational Drivers_: made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
+- _Double Linking_: aligned description to _Link_
+- _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
+- _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
+- _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
+- _Facilitate Meetings_: improved description
+- _Fractal Organization_: extended and improved description
+- _Governance Backlog_: improved description
+
+---
+
+### Changes 2018-06-22 (…)
+
+- _Governance Meeting_: improved description, clarified agenda items
+- _Invite Change_: description now focuses on _how_ to invite change
+- _Linking_: aligned description to _Double Linking_
+- _Logbook_: clarified that there is no difference between logbooks for groups and logbooks for roles
+- _Navigate Via Tension_: improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
+- _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
+- _Open Domain_: improved description and updated illustration
+- _Open Systems_: improved description
+- _Open Space for Change_: renamed from _Open S3 Adoption_, improved description
+
+---
+
+### Changes 2018-06-22 (…)
+
+- _Peach Organization_: clarified relationship between periphery and center
+- _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
+- _Representative_: improved description
+- _Resolve Objections_: updated both illustrations
+- _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
+- _Role_: improved description
+- _Role Selection_: improved description, added description of each step
+- _Rounds_: improved description
+- _Transparent Salary_: added more details about fairness, and on how to develop a salary formula
+
+---
+
+### Changes 2018-06-22 (…)
+
+**Renamed Patterns:** 
+
+- _Evaluate Agreements_ to _Evaluate and Evolve Agreements_
+- _Intended Outcome_ to _Clarify Intended Outcome_ 
+- _Open S3 Adoption_ to _Open Space for Change_
+
+**Added Patterns:**
+
+- _Check In_
+- _Co-create Proposals_
+- _Prepare for Meetings_
+- _Timebox Activities_
+
+---
 
 ### Changes 2018-03-21
 
@@ -1898,8 +2381,8 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 - various small clarifications and corrections
 - _Circle_: clarified relationship between circle and domain
-- _Role_: clarified description
-- _Rounds_: updated description
+- _Role_: improved description
+- _Rounds_: improved description
 - moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
 - added several terms to the glossary
 
@@ -1918,7 +2401,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 - Introduction:
     -   added "what's in it for me?"
@@ -1929,26 +2412,26 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
-- _Artful Participation_: refined description
+- _Artful Participation_: improved description
 - _Agreement_: clarified that the concept of agreements is applicable to people in roles
-- _Clarify Domains_: refined description
-- _Circle_: updated definition, refined description
-- _Driver_: updated definition
-- _Development Plan_: refined template and description
-- _Develop Strategy_: clarified definition of strategy, refined description
+- _Clarify Domains_: improved description
+- _Circle_: updated definition of "circle", improved description
+- _Driver_: updated definition of "driver"
+- _Development Plan_: improved description, updated template
+- _Develop Strategy_: updated definition of "strategy", improved description
 - _Double-Linked Hierarchy_: new illustration
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 - _Evaluate Agreements_: aligned questions to peer review
-- _Governance Backlog_: updated definition
+- _Governance Backlog_: improved description
 - _Logbook_: added details about governance to personal logbook
 - _Objections_: clarified qualifying objections
-- _Peer Review_: refined description
+- _Peer Review_: improved description
 - _Respond to Organizational Driver_: integrated information about qualifying drivers
 - _Role_: clarified role keeper may maintain a governance backlog, introduced the term "role keeper" for a person in a role
 - _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications
@@ -1956,7 +2439,7 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 **Renamed Patterns:** 
 
@@ -1966,10 +2449,9 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 - _Domain Description_ to _Clarify Domains_
 - _Describing Deliverables_ to _Describe Deliverables_
 
-
 ---
 
-### Changes 2017-10-21 (cont.)
+### Changes 2017-10-21 (…)
 
 **Added Patterns:**
 
@@ -1992,7 +2474,10 @@ A pattern for multiple organizations (or domains) with a common driver to share 
 
 ![fit](img/framework/logo.png)
 
-**Latest version of this guide**: [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
+**Latest version of the Practical Guide**:
+
+- online version [http://patterns.sociocracy30.org](http://patterns.sociocracy30.org) (with a searchable [pattern index](http://patterns.sociocracy30.org/pattern-index.html))
+- Various other formats and languages: [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
 
 **S3 website**: [http://sociocracy30.org](http://sociocracy30.org)
 
@@ -2006,31 +2491,28 @@ Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 ![fit](img/framework/logo.png)
 
 This work by Bernhard Bockelbrink, James Priest and Liliana David is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
-[http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
-
-The latest version of this document is available at 
-<http://sociocracy30.org>
+[http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
 
 
 ---
 
 ## Acknowledgments 
 
-The content of Sociocracy 3.0 reflects the accumulated experience and wisdom of contributors across generations. These people have shared a common quest to evolve more effective, harmonious and conscious ways of collaborating together.
+The content of Sociocracy 3.0 reflects the accumulated experience and wisdom of contributors across generations. These people have shared a common quest: to evolve more effective, harmonious and conscious ways of collaborating together.
 
 Particular recognition goes to Gerard Endenburg and others over the years who have committed significant time towards evolving and documenting the Sociocratic Circle Organization Method, which has contributed towards and inspired the evolution of Sociocracy 3.0.
 
-We’d also like to recognize all those who have worked extensively to facilitate the emergence of a more agile and lean mindset, and those who have evolved and shared various practices with the world.
+We’d also like to recognize all those who have worked extensively to facilitate the emergence of a more agile and lean mindset, and those who have developed and shared various practices with the world.
 
 Finally to acknowledge our numerous colleagues, customers, clients and attendees of Sociocracy 3.0 courses who have chosen to experiment with Sociocracy 3.0. Thank you for contributing your ongoing feedback to help evolve the patterns and enable us all to learn and grow.
 
 ---
 
-## Acknowledgments (cont.)
+## Acknowledgments (…)
 
-By no means an exhaustive list, we’d like to offer our appreciation to the following people who directly contributed towards developing Sociocracy 3.0, or whose work influenced what it is today:
+By no means an exhaustive list, we’d like to offer our appreciation to the following people who directly contributed toward developing Sociocracy 3.0, or whose work influenced what it is today:
 
-Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, Francois Knuckel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
+Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia,  François Knuchel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
 
 
 
@@ -2056,7 +2538,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 [evolvingcollaboration.com](http://evolvingcollaboration.com)
 
-[bernhard.bockelbrink@gmail.com](mailto:bernhard.bockelbrink@gmail.com)
+[bernhard.bockelbrink@evolvingcollaboration.com](mailto:bernhard.bockelbrink@evolvingcollaboration.com)
 
 ---
 
@@ -2074,95 +2556,106 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 ---
 
 
-
 # Glossary 
 
 
-**Account for (v.)**: to take the responsibility for something that needs to be addressed.
-**Accountability**: Respond when something is needed, do what you agreed to and take ownership for the course of the organization.
+**Account for (v.)**: to take the responsibility for something.
+**Accountability (principle)**: Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.
 **Agreement**: An agreed upon guideline, process or protocol designed to guide the flow of value.
 **Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
-**Backlog**: A visible list of (often prioritized) uncompleted work items (drivers) that need to be addressed.
+**Backlog**: A visible list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
+**Check-In**: A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
 **Chosen Values**: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
-**Circle**: An equivalent, semi-autonomous and self-governing group of people collaborating to account for a domain.
+**Circle**: A self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain.
 **Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
-**Concern**: An opinion that doing something might impede – or miss an opportunity to improve – flow of value to an organizational driver.
-**Consent**: Do things in the absence of reasons not to.
-**Continuous Improvement**: Change incrementally to accommodate steady empirical learning.
+**Concern**: An opinion why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+**Consent (principle)**: Raise, seek out and resolve objections to decisions and actions.
+**Constituent**: A group of people (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other groups or organizations.
+**Continuous Improvement (principle)**: Change incrementally to accommodate steady empirical learning.
+**Coordination**: The process of enabling individuals or groups to collaborate effectively across different domains to achieve shared objectives.
 **Delegatee**: An individual or group accepting accountability for a domain delegated to them.
-**Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
-**Deliverable**: Something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformations.
-**Domain**: A distinct area of influence, activity and decision making within an organization.
 
 
 ---
 
 
-# Glossary (cont.)
+# Glossary (…)
 
 
+**Delegation**: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
+**Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
+**Deliverable**: A product, service, raw material, experience or transformation, provided as a result of an agreement.
+**Domain**: A distinct area of influence, activity and decision making within an organization.
 **Driver**: A person’s or a group's motive for responding to a specific situation.
-**Effectiveness**: Devote time only to what brings you closer towards achieving your objectives.
-**Empiricism**: Test all assumptions through experiments, continuous revision and falsification.
-**Equivalence**: Involve people in making and evolving decisions that affect them.
-**Governance**: Continuously deciding what to do to achieve objectives, and setting constraints on how and when things will be done.
+**Driver Statement**: A brief but comprehensive summary of the information required to understand a driver.
+**Effectiveness (principle)**: Devote time only to what brings you closer toward achieving your objectives.
+**Empiricism (principle)**: Test all assumptions through experimentation and continuous revision.
+**Equivalence (principle)**: Involve people in making and evolving decisions that affect them.
+**Evolve (v.)**: to develop gradually.
+**Flow of Value**: Deliverables traveling through an organization towards customers or other stakeholders.
+**Governance**: Making and evolving decisions about what to do to achieve objectives, and setting constraints on how and when things will be done.
 **Governance Backlog**: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
+**Helping Team**: An equivalent group of people with the mandate to execute on a specific set of requirements.
+**Intended Outcome**: The expected result of an agreement, action, project or strategy.
 **Key responsibilities**: Essential work and decision making required in the context of a domain.
-**Logbook**: A (digital) system to store all information relevant for running an organization and its teams.
-**Need**: A need is a lack of something wanted or deemed necessary.
-**Objection**: A reason why doing something stands in the way of (more) effective response to a driver.
-**Operations (Doing the Work)**: People doing what needs to be done, guided by coordination and governance.
-**Organization**: A group of people collaborating towards a shared objective (driver).
-**Organizational Driver**: A driver that is (directly or indirectly) related to an organization's primary driver.
+
+
+---
+
+
+# Glossary (…)
+
+
+**Logbook**: A (digital) system to store all information relevant for running an organization.
+**Need**: The lack of something wanted or deemed necessary (a requirement).
+**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
+**Open Domain**: A domain that is accounted for by a set of people who are invited to contribute when they can.
+**Operations**: The work being done to create and deliver value, guided by governance.
+**Organization**: A group of people collaborating toward a shared driver (or objective).
+**Organizational Driver**: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
 **Pattern**: A template for successfully navigating a specific context.
 **Peer Domain**: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
-**Peer Drivers**: Two drivers existing as a direct consequence of a response to the same superdriver, are called peer drivers.
+**Primary Driver**: The primary driver for a domain is the main driver that people who account for that domain respond to.
+**Principle**: A basic idea or rule that guides behavior, or explains or controls how something happens or works.
+**Role**: A domain that is delegated to an individual.
+**Self-Governance**: People governing themselves within the constraints of a domain.
+**Self-Organization**: People organizing work within constraints defined through governance.
+**Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
+**Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
 
 
 ---
 
 
-# Glossary (cont.)
+# Glossary (…)
 
 
-**Primary Driver**: The driver that defines a domain is called the primary driver of that domain.
-**Principle**: A basic idea or rule that explains or controls how something happens or works.
-**Role**: An area of accountability defined by a domain and assigned to an individual.
-**SCM**: (the Sociocratic Circle-Organisation Method) An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
-**Self-Governance**: People governing themselves within the constraints of a domain.
-**Self-Organization**: People coordinating work within constraints defined through governance.
-**Semi-Autonomy**: People with autonomy to create value, limited by the constraints of their domain.
-**Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
-**Strategy**: A high level approach how people will create value to successfully account for a domain.
-**Subdomain**: A domain that is fully contained in another domain.
-**Subdriver**: A subdriver arises as a consequence of people responding to another driver (the superdriver) and is necessary to address to respond to the superdriver.
+**Sociocratic Circle-Organisation Method (SCM)**: An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
+**Strategy**: A high level approach for how people will create value to successfully account for a domain.
+**Subdomain**: A domain that is fully contained within another domain.
+**Subdriver**: A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
 **Superdomain**: A domain that fully contains another domain.
 **Superdriver**: see subdriver.
-**Transparency**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
+**Tension**: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
+**Transparency (principle)**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
 **Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
-**Values**: A set of principles of some significance that guides behavior. Not to be confused with "value" (singular) in the context of a driver.
+**Values**: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.
+**Waste**: Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
+**operations backlog**: A visible list of (typically prioritized) uncompleted work items (deliverables).
 
-
----
-
-
-# Glossary (cont.)
-
-
-**Waste**: Anything not necessary for - or standing in the way of - effective response of a driver.
 
 
 ---
 
 
-Patterns  | Patterns (cont.)
+Patterns  | Patterns (…)
 --- | ---
-Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.6<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contracting And Accountability - 3.6<br\>Coordination Meeting - 7.5<br\>Coordinator - 9.7<br\>Create A Pull-System For Organizational Change - 5.2<br\>Daily Standup - 7.3 | Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Organizational Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.11<br\>Evaluate Agreements - 1.7<br\>Evaluate Meetings - 8.3<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.5<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1<br\>Helping Team - 4.7<br\>Intended Outcome - 6.4<br\>Invite Change - 5.4
+Adapt Patterns To Context - 5.1<br\>Adopt The Seven Principles - 3.2<br\>Agree On Values - 3.3<br\>Agreement - 6.1<br\>Align Flow - 9.7<br\>Artful Participation - 3.1<br\>Ask For Help - 2.1<br\>Backlog - 9.1<br\>Be The Change - 5.3<br\>Breaking Agreements - 3.5<br\>Bylaws - 3.9<br\>Check In - 8.4<br\>Circle - 4.2<br\>Clarify Domains - 6.3<br\>Clarify Intended Outcome - 6.4<br\>Co-Create Proposals - 1.9<br\>Consent Decision Making - 1.4<br\>Continuous Improvement Of Work Process - 5.6<br\>Contract For Successful Collaboration - 3.6<br\>Coordination Meeting - 7.5 | Coordinator - 9.8<br\>Create A Pull-System For Organizational Change - 5.2<br\>Daily Standup - 7.3<br\>Delegate Circle - 10.2<br\>Delegate Influence - 4.1<br\>Describe Deliverables - 6.5<br\>Describe Organizational Drivers - 1.3<br\>Develop Strategy - 6.2<br\>Development Plan - 2.4<br\>Double Linking - 4.5<br\>Double-Linked Hierarchy - 10.4<br\>Driver Mapping - 1.12<br\>Evaluate And Evolve Agreements - 1.7<br\>Evaluate Meetings - 8.5<br\>Evaluation Criteria - 6.6<br\>Facilitate Meetings - 8.2<br\>Fractal Organization - 10.6<br\>Governance Backlog - 8.7<br\>Governance Facilitator - 3.4<br\>Governance Meeting - 7.1
 
 
 ---
 
 
-Patterns (cont.) | Patterns (cont.)
+Patterns (…) | Patterns (…)
 --- | ---
-Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.4<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open S3 Adoption - 5.5<br\>Open Systems - 4.9<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.9<br\>Pull-System For Work - 9.4<br\>Representative - 4.6<br\>Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1 | Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.10<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3
+Helping Team - 4.7<br\>Invite Change - 5.4<br\>Limit Work In Progress - 9.5<br\>Linking - 4.4<br\>Logbook - 6.7<br\>Logbook Keeper - 6.8<br\>Meeting Host - 8.6<br\>Navigate Via Tension - 1.2<br\>Objection - 1.5<br\>Open Domain - 4.8<br\>Open Space For Change - 5.5<br\>Open Systems - 4.9<br\>Peach Organization - 10.3<br\>Peer Feedback - 2.2<br\>Peer Review - 2.3<br\>Planning And Review Meetings - 7.4<br\>Prepare For Meetings - 8.3<br\>Prioritize Backlogs - 9.2<br\>Proposal Forming - 1.10<br\>Pull-System For Work - 9.4 | Representative - 4.6<br\>Resolve Objections - 1.6<br\>Respond To Organizational Drivers - 1.1<br\>Retrospective - 7.2<br\>Role - 4.3<br\>Role Selection - 1.11<br\>Rounds - 8.1<br\>Service Circle - 10.1<br\>Service Organization - 10.5<br\>Support Role - 3.8<br\>Those Affected Decide - 1.8<br\>Timebox Activities - 9.6<br\>Transparent Salary - 3.7<br\>Visualize Work - 9.3

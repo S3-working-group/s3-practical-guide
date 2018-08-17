@@ -13,7 +13,7 @@ target_filename: "S3-practical-guide"
 pattern_prefix: " Pattern %(chapter)s.%(section)s:"
 
 # Version of the practical guide (added to all releases)
-version: "v2018-03-21"
+version: "v2018-08-17"
 
 # directive for makefile to generate translatable pattern index
 # must be set to "NO" for translations, and "YES" for source language (English)

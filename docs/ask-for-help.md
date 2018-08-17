@@ -3,9 +3,9 @@ title: "Ask For Help"
 ---
 
 
-**A simple protocol for learning, skill sharing, and building connections, with respect for people's autonomy.**
+**A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.**
 
-Ask someone, "_would you be willing to help me with ..._?"  The person asked answers with a simple "_yes_" or "_no_".
+Ask someone, "_would you be willing to help me with ..._?" The person asked accepts or declines with a simple "_yes_" or "_no_".
 
 -   if the request is declined, the person asking accepts the answer without negotiation or inquiry
 -   if the request is unclear, inquire for more information

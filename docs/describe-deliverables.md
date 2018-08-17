@@ -3,23 +3,25 @@ title: "Describe Deliverables"
 ---
 
 
-A **deliverable** is something which is provided as a result of an agreement in response to a driver. Deliverables include products, raw materials, services, experiences and transformations.
+**Clearly describe deliverables in the context of an agreement, to support shared understanding of expectations.**
 
-In the context of an agreement, clearly describing deliverables supports shared understanding:
+_A **deliverable** is a product, service, raw material, experience or transformation, provided as a result of an agreement._
+
+When describing deliverables:
 
 -   include the necessary amount of detail
 -   reference other documents when helpful or necessary
 
 
 
-Explicitly defining deliverables can be useful for improving: 
+Explicitly describing deliverables can be useful for improving: 
 
 -   organizational strategy
--   circle strategy
+-   the strategy of groups or individuals
 -   development plans
 -   domain descriptions
--   any other agreement (e.g. business goals, process policy, customer communication)
+-   any other agreement (e.g. business objectives, process policy, customer communication)
 
 
-[&#9654; Evaluation Criteria](evaluation-criteria.html)<br/>[&#9664; Intended Outcome](intended-outcome.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
+[&#9654; Evaluation Criteria](evaluation-criteria.html)<br/>[&#9664; Clarify Intended Outcome](clarify-intended-outcome.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

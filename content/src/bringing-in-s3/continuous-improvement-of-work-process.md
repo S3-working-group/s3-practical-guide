@@ -1,12 +1,12 @@
 ## Continuous Improvement Of Work Process With S3
 
-**To reveal drivers and establish a metrics-based pull-system for organizational change.**
+**Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.**
 
--   introduce the principle of consent and _Navigate Via Tension_ to evolve work process in one team
--   consider selecting a facilitator and agreeing on values
--   trigger continuous improvement (e.g through Kanban)
--   team members pull in S3 patterns as required
--   expand the scope of the experiment iteratively
+-   introduce the principle of consent and [Navigate Via Tension](section:navigate-via-tension) to evolve work process in a group
+-   consider selecting a facilitator to guide group processes, and choosing values to guide the group
+-   trigger continuous improvement (through Kanban, retrospectives, etc.)
+-   members of the group pull in S3 patterns as required
+-   if valuable, iteratively expand the scope of the experiment to other groups
 -   intentionally look out for impediments  
 
 ---
@@ -15,9 +15,9 @@
 
 ![right,fit](img/workflow-and-value/drivers-value-waste.png)
 
-**Waste** _is anything not necessary for - or standing in the way of - effective response to a driver._
+{{define:waste}}
 
--   waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
--   establishing a process for ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness
--   adaptation to changing context is built into the process
+Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
+
+Establishing a process for the ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness and adaptation to changing context.
 

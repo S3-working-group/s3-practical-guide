@@ -1,0 +1,233 @@
+section-prefix: ' Pattern %(chapter)s.%(section)s:'
+
+content:
+  title: title
+  end: SKIP
+
+  introduction:
+    title: Introduction
+    slug: introduction
+    sections:
+      - title: S3-Overview
+        slug: s3-overview
+      - title: History
+        slug: history
+      - title: Basic-Concepts
+        slug: basic-concepts
+      - title: Patterns
+        slug: patterns
+      - title: Principles
+        slug: principles
+      - title: Driver
+        slug: driver
+      - title: Domain
+        slug: domain
+      - title: Governance
+        slug: governance  
+
+  chapters:
+    - title: Co-Creation And Evolution
+      slug: co-creation-and-evolution
+      sections:
+        - title: Respond To Organizational Drivers
+          slug: respond-to-organizational-drivers
+        - title: Navigate Via Tension
+          slug: navigate-via-tension
+        - title: Describe Organizational Drivers
+          slug: describe-organizational-drivers
+        - title: Consent Decision Making
+          slug: consent-decision-making
+        - title: Objection
+          slug: objection
+        - title: Resolve Objections
+          slug: resolve-objections
+        - title: Evaluate And Evolve Agreements
+          slug: evaluate-and-evolve-agreements
+        - title: Those Affected Decide
+          slug: those-affected-decide
+        - title: Co-Create Proposals
+          slug: co-create-proposals
+        - title: Proposal Forming
+          slug: proposal-forming
+        - title: Role Selection
+          slug: role-selection
+        - title: Driver Mapping
+          slug: driver-mapping
+
+    - title: Peer Development
+      slug: peer-development
+      sections:
+        - title: Ask For Help
+          slug: ask-for-help
+        - title: Peer Feedback
+          slug: peer-feedback
+        - title: Peer Review
+          slug: peer-review
+        - title: Development Plan
+          slug: development-plan
+
+    - title: Enablers Of Co-Creation
+      slug: enablers-of-co-creation
+      sections:
+        - title: Artful Participation
+          slug: artful-participation
+        - title: Adopt The Seven Principles
+          slug: adopt-the-seven-principles
+        - title: Agree On Values
+          slug: agree-on-values
+        - title: Governance Facilitator
+          slug: governance-facilitator
+        - title: Breaking Agreements
+          slug: breaking-agreements
+        - title: Contract For Successful Collaboration
+          slug: contract-for-successful-collaboration
+        - title: Transparent Salary
+          slug: transparent-salary
+        - title: Support Role
+          slug: support-role
+        - title: Bylaws
+          slug: bylaws
+
+    - title: Building Organizations
+      slug: building-organizations
+      sections:
+        - title: Delegate Influence
+          slug: delegate-influence
+        - title: Circle
+          slug: circle
+        - title: Role
+          slug: role
+        - title: Linking
+          slug: linking
+        - title: Double Linking
+          slug: double-linking
+        - title: Representative
+          slug: representative
+        - title: Helping Team
+          slug: helping-team
+        - title: Open Domain
+          slug: open-domain
+        - title: Open Systems
+          slug: open-systems
+
+    - title: Bringing In S3
+      slug: bringing-in-s3
+      sections:
+        - title: Adapt Patterns To Context
+          slug: adapt-patterns-to-context
+        - title: Create A Pull-System For Organizational Change
+          slug: create-a-pull-system-for-organizational-change
+        - title: Be The Change
+          slug: be-the-change
+        - title: Invite Change
+          slug: invite-change
+        - title: Open Space For Change
+          slug: open-space-for-change
+        - title: Continuous Improvement Of Work Process
+          slug: continuous-improvement-of-work-process
+
+    - title: Defining Agreements
+      slug: defining-agreements
+      sections:
+        - title: Agreement
+          slug: agreement
+        - title: Develop Strategy
+          slug: develop-strategy
+        - title: Clarify Domains
+          slug: clarify-domains
+        - title: Clarify Intended Outcome
+          slug: clarify-intended-outcome
+        - title: Describe Deliverables
+          slug: describe-deliverables
+        - title: Evaluation Criteria
+          slug: evaluation-criteria
+        - title: Logbook
+          slug: logbook
+        - title: Logbook Keeper
+          slug: logbook-keeper
+
+    - title: Focused Interactions
+      slug: focused-interactions
+      sections:
+        - title: Governance Meeting
+          slug: governance-meeting
+        - title: Retrospective
+          slug: retrospective
+        - title: Daily Standup
+          slug: daily-standup
+        - title: Planning And Review Meetings
+          slug: planning-and-review-meetings
+        - title: Coordination Meeting
+          slug: coordination-meeting
+
+    - title: Meeting Practices
+      slug: meeting-practices
+      sections:
+        - title: Rounds
+          slug: rounds
+        - title: Facilitate Meetings
+          slug: facilitate-meetings
+        - title: Prepare For Meetings
+          slug: prepare-for-meetings
+        - title: Check In
+          slug: check-in
+        - title: Evaluate Meetings
+          slug: evaluate-meetings
+        - title: Meeting Host
+          slug: meeting-host
+        - title: Governance Backlog
+          slug: governance-backlog
+
+    - title: Organizing Work
+      slug: organizing-work
+      sections:
+        - title: Backlog
+          slug: backlog
+        - title: Prioritize Backlogs
+          slug: prioritize-backlogs
+        - title: Visualize Work
+          slug: visualize-work
+        - title: Pull-System For Work
+          slug: pull-system-for-work
+        - title: Limit Work In Progress
+          slug: limit-work-in-progress
+        - title: Timebox Activities
+          slug: timebox-activities
+        - title: Align Flow
+          slug: align-flow
+        - title: Coordinator
+          slug: coordinator
+
+    - title: Organizational Structure
+      slug: organizational-structure
+      sections:
+        - title: Service Circle
+          slug: service-circle
+        - title: Delegate Circle
+          slug: delegate-circle
+        - title: Peach Organization
+          slug: peach-organization
+        - title: Double-Linked Hierarchy
+          slug: double-linked-hierarchy
+        - title: Service Organization
+          slug: service-organization
+        - title: Fractal Organization
+          slug: fractal-organization
+
+  appendix:
+    title: Appendix
+    slug: appendix
+    sections:
+    - title: Changelog
+      slug: changelog
+    - title: Links
+      slug: links
+    - title: License
+      slug: license
+    - title: Acknowledgments
+      slug: acknowledgments
+    - title: Authors
+      slug: authors
+    - title: Glossary
+      slug: glossary
+

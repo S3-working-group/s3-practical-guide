@@ -7,7 +7,7 @@ title: "Limit Work in Progress"
 
 Work in Progress includes:
 
--   number of items in a backlog
+-   the number of items in a backlog
 -   concurrent projects or tasks for groups or individuals
 -   products in a portfolio
 
@@ -15,5 +15,5 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 
 
-[&#9654; Align Flow](align-flow.html)<br/>[&#9664; Pull-System For Work](pull-system-for-work.html)<br/>[&#9650; Organizing Work](organizing-work.html)
+[&#9654; Timebox Activities](timebox-activities.html)<br/>[&#9664; Pull-System For Work](pull-system-for-work.html)<br/>[&#9650; Organizing Work](organizing-work.html)
 

@@ -6,20 +6,35 @@
 
 ## The Seven Principles
 
-**Effectiveness:** *{{glossary:effectiveness}}*
+**The Principle of Effectiveness:** *{{glossary:effectiveness}}*
 
-**Consent:** *{{glossary:consent}}*
+**The Principle of Consent:** *{{glossary:consent}}*
 
-**Empiricism:** *{{glossary:empiricism}}*
+**The Principle of Empiricism:** *{{glossary:empiricism}}*
 
 ---
 
-## The Seven Principles (cont.)
+## The Seven Principles (…)
 
-**Continuous Improvement:** *{{glossary:continuous-improvement}}*
+**The Principle of Continuous Improvement:** *{{glossary:continuous-improvement}}*
 
-**Equivalence:** *{{glossary:equivalence}}*
+**The Principle of Equivalence:** *{{glossary:equivalence}}*
 
-**Transparency:** *{{glossary:transparency}}*
+**The Principle of Transparency:** *{{glossary:transparency}}*
 
-**Accountability:** *{{glossary:accountability}}*
+**The Principle of Accountability:** *{{glossary:accountability}}*
+
+---
+
+## The Principle of Accountability
+
+*{{glossary:accountability}}*
+
+Act within the constraints of any agreements governing domains you are accountable for, including the organization itself, groups you are part of, and roles you keep.
+
+Everyone's primary accountability is for effective collaboration in response to organizational drivers.
+
+Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
+
+Everyone in an organization is accountable for aligning action with organizational values.
+ 

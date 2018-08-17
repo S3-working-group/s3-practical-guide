@@ -49,7 +49,7 @@ patterns:
 - gid: 9
   name: Align Flow
   path: align-flow.md
-  pid: 6
+  pid: 7
 - gid: 3
   name: Artful Participation
   path: artful-participation.md
@@ -74,6 +74,10 @@ patterns:
   name: Bylaws
   path: bylaws.md
   pid: 9
+- gid: 8
+  name: Check In
+  path: check-in.md
+  pid: 4
 - gid: 4
   name: Circle
   path: circle.md
@@ -82,6 +86,14 @@ patterns:
   name: Clarify Domains
   path: clarify-domains.md
   pid: 3
+- gid: 6
+  name: Clarify Intended Outcome
+  path: clarify-intended-outcome.md
+  pid: 4
+- gid: 1
+  name: Co-Create Proposals
+  path: co-create-proposals.md
+  pid: 9
 - gid: 1
   name: Consent Decision Making
   path: consent-decision-making.md
@@ -101,7 +113,7 @@ patterns:
 - gid: 9
   name: Coordinator
   path: coordinator.md
-  pid: 7
+  pid: 8
 - gid: 5
   name: Create A Pull-System For Organizational Change
   path: create-a-pull-system-for-organizational-change.md
@@ -145,15 +157,15 @@ patterns:
 - gid: 1
   name: Driver Mapping
   path: driver-mapping.md
-  pid: 11
+  pid: 12
 - gid: 1
-  name: Evaluate Agreements
-  path: evaluate-agreements.md
+  name: Evaluate And Evolve Agreements
+  path: evaluate-and-evolve-agreements.md
   pid: 7
 - gid: 8
   name: Evaluate Meetings
   path: evaluate-meetings.md
-  pid: 3
+  pid: 5
 - gid: 6
   name: Evaluation Criteria
   path: evaluation-criteria.md
@@ -169,7 +181,7 @@ patterns:
 - gid: 8
   name: Governance Backlog
   path: governance-backlog.md
-  pid: 5
+  pid: 7
 - gid: 3
   name: Governance Facilitator
   path: governance-facilitator.md
@@ -182,10 +194,6 @@ patterns:
   name: Helping Team
   path: helping-team.md
   pid: 7
-- gid: 6
-  name: Intended Outcome
-  path: intended-outcome.md
-  pid: 4
 - gid: 5
   name: Invite Change
   path: invite-change.md
@@ -209,7 +217,7 @@ patterns:
 - gid: 8
   name: Meeting Host
   path: meeting-host.md
-  pid: 4
+  pid: 6
 - gid: 1
   name: Navigate Via Tension
   path: navigate-via-tension.md
@@ -223,8 +231,8 @@ patterns:
   path: open-domain.md
   pid: 8
 - gid: 5
-  name: Open S3 Adoption
-  path: open-s3-adoption.md
+  name: Open Space For Change
+  path: open-space-for-change.md
   pid: 5
 - gid: 4
   name: Open Systems
@@ -246,6 +254,10 @@ patterns:
   name: Planning And Review Meetings
   path: planning-and-review-meetings.md
   pid: 4
+- gid: 8
+  name: Prepare For Meetings
+  path: prepare-for-meetings.md
+  pid: 3
 - gid: 9
   name: Prioritize Backlogs
   path: prioritize-backlogs.md
@@ -253,7 +265,7 @@ patterns:
 - gid: 1
   name: Proposal Forming
   path: proposal-forming.md
-  pid: 9
+  pid: 10
 - gid: 9
   name: Pull-System For Work
   path: pull-system-for-work.md
@@ -281,7 +293,7 @@ patterns:
 - gid: 1
   name: Role Selection
   path: role-selection.md
-  pid: 10
+  pid: 11
 - gid: 8
   name: Rounds
   path: rounds.md
@@ -302,6 +314,10 @@ patterns:
   name: Those Affected Decide
   path: those-affected-decide.md
   pid: 8
+- gid: 9
+  name: Timebox Activities
+  path: timebox-activities.md
+  pid: 6
 - gid: 3
   name: Transparent Salary
   path: transparent-salary.md

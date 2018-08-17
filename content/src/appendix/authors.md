@@ -18,7 +18,7 @@
 
 [evolvingcollaboration.com](http://evolvingcollaboration.com)
 
-[bernhard.bockelbrink@gmail.com](mailto:bernhard.bockelbrink@gmail.com)
+[bernhard.bockelbrink@evolvingcollaboration.com](mailto:bernhard.bockelbrink@evolvingcollaboration.com)
 
 ---
 
