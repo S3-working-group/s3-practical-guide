@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2018-08-13) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2018-08-17) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
