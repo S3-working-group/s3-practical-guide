@@ -29,11 +29,13 @@ To set up a new language, run `make clean` and then copy over `content`, `global
 
 ## Formats and Known Issues
 
-The deck is currently available as PDF or PNG slides exported from [Deckset](decksetapp.com), as a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/) a static website (using jekyll and GitHub pages), and as e-books (ePub and PDF).
+The main format for the practical guide is a Jekyll website on <https://patterns.sociocracy30.org>.
+
+Downloads are currently available as PDF or PNG slides exported from [Deckset](decksetapp.com), as a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/) a static website (using jekyll and GitHub pages), and as e-books (ePub and PDF).
 
 Deckset is nice to quickly hack together a beautiful presentation, but is a bit lacking when it comes to navigating larger presentations, and it's only available as a macOS app. Building the Hebrew version I discovered the hard way it does not support RTL languages., and did not find a way to automate pdf export, so with a growing number of languages Deckset is becoming increasingly painful. 
 
-This is why I was looking at more open formats, and developed a generator for reveal.js, which generally works, but there might still a few small glitches in the CSS. Ping me if you find one. 
+This is why I was looking at more open formats, and developed a generator for reveal.js, which generally works, but there might still a few small glitches in the CSS. Ping me if you find one. You can see it in action at <https://patterns.sociocracy30.org/slides.html>
 
 [Reveal.js docs](https://github.com/hakimel/reveal.js/blob/master/README.md)
 
