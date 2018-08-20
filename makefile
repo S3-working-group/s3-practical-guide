@@ -95,6 +95,7 @@ ebook:
 	# clean up
 	cd $(TMPFOLDER)/ebook; latexmk -C
 
+
 single:
 	$(update-make-conf)
 
@@ -106,8 +107,7 @@ single:
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
 
 gitbook:
-	mdslides build gitbook $(CONFIG) $(SOURCE) gitbook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX)
- 	
+	mdslides build gitbook $(CONFIG) $(SOURCE) gitbook/ --glossary=$(GLOSSARY)
 
 update:
 	$(update-make-conf)
