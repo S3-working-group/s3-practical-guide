@@ -26,6 +26,7 @@ Now that we are using quite a few  output formats and translated versions it mak
 3. merge release branch into develop
 4. upload current sources to crowdin
 5. manually remove all files from crowdin that have been renamed or deleted in the practical guide
+6. hide strings in structure.yaml and other relevant files
 
 ## 4. Update S3 Website
 
