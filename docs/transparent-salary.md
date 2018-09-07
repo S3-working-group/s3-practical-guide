@@ -5,7 +5,7 @@ title: "Transparent Salary"
 
 **Create a fair salary formula and make it transparent.**
 
-Transparent salary (also referred to as "open salary") is the practice of making the salary formula - and often individual compensation as well - transparent to all members of an organization, and sometimes to the public.
+Transparent salary (also referred to as "open salary") is the practice of making the salary formula — and often individual compensation as well — transparent to all members of an organization, and sometimes to the public.
 
 A transparent salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
 

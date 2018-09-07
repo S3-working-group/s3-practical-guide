@@ -65,7 +65,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
 
 - make provisions for successfully getting started by defining onboarding procedures
-- have a probationary period - where all parties can try out the collaboration - and a clear protocol for how to end the contract in the probationary period
+- have a probationary period — where all parties can try out the collaboration — and a clear protocol for how to end the contract in the probationary period
 - define and build into the contract, regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
 - include procedures for breach of contract
 - consider making available alternative means for dispute resolution, e.g. mediation, conciliation  or arbitration

@@ -1,10 +1,29 @@
 {
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
 	"folders":
 	[
 		{
-			"path": ".",
-			"folder_exclude_patterns": ["web", "reveal.js/plugin", "reveal.js/lib", "reveal.js/js", "docs/_site"],
-			"file_exclude_patterns": ["docs/*.md"]
+			"file_exclude_patterns":
+			[
+				"docs/*.md"
+			],
+			"folder_exclude_patterns":
+			[
+				"web",
+				"reveal.js/plugin",
+				"reveal.js/lib",
+				"reveal.js/js",
+				"docs/_site"
+			],
+			"path": "."
 		}
 	]
 }

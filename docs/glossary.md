@@ -10,7 +10,7 @@ title: Glossary
 
 **Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
 
-**Backlog**: A visible list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
+**Backlog**: A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
 
 **Check-In**: A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
 
@@ -74,6 +74,8 @@ title: Glossary
 
 **Operations**: The work being done to create and deliver value, guided by governance.
 
+**Operations Backlog**: A visible list of (typically prioritized) uncompleted work items (deliverables).
+
 **Organization**: A group of people collaborating toward a shared driver (or objective).
 
 **Organizational Driver**: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
@@ -117,6 +119,4 @@ title: Glossary
 **Values**: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.
 
 **Waste**: Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
-
-**operations backlog**: A visible list of (typically prioritized) uncompleted work items (deliverables).
 

@@ -14,7 +14,7 @@ title: Introduction
 
 ## What's in it for me?
 
-Sociocracy 3.0 — **a.k.a. "S3"** — brings you an extensive collection of guidelines and practices (patterns) that have proven helpful for organizations for to **improve performance, alignment, fulfillment and wellbeing**. 
+Sociocracy 3.0 — **a.k.a. "S3"** — brings you an extensive collection of guidelines and practices (patterns) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**. 
 
 S3 helps you discover how to best reach your objectives and navigate complexity, one step at a time, **without the need for sudden radical reorganization or planning a long-term change initiative**:
 
@@ -151,7 +151,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 -   the domain's **primary driver** - the main driver the people accounting for that domain (the _delegatees_) respond to
 -   the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include:
     -   **key responsibilities** (any driver following directly from the domain's primary driver)
-    -   drivers for **constraints** (which typically relate to the organization's wider context)
+    -   drivers for **constraints of the domain** (which typically relate to the organization's wider context)
 
 ## Governance, Semi-Autonomy and  Self-Organization
 

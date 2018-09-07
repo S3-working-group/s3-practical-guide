@@ -15,7 +15,7 @@
 
 Values offer guidance to determine appropriate action, even in the absence of explicit agreements.
 
-Collectively adopting a set of values to support the effectiveness of an organization:
+Collectively adopting a set of values supports the effectiveness of an organization:
 
 -   reduces potential for **misunderstanding**
 -   helps to **align** decision making and action
