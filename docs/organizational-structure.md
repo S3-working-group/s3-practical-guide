@@ -19,7 +19,7 @@ The basic building blocks for organizational structure are interdependent, conne
 Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex  adaptive system, or network, where multiple functional structures can co-exist).
 
 
-## Structural Patterns
+### Structural Patterns
 
 Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 
