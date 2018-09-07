@@ -13,15 +13,10 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <script>
     function setAnnotationHref() {
-      document.getElementById("annotate-button").href = "https://via.hypothesis/" + self.document.location.href;
+      document.getElementById("annotate-button").href = "https://via.hypothes.is/" + self.document.location.href;
     }
     function hideWhenAnnotating() {
-
-      href = self.document.location.href;
-      var testPrefix = "via.hypothes.is";
-      href = href.replace("https:\/\/", "");
-      href = href.replace("http:\/\/", "");
-      if (href.startsWith(testPrefix)) {
+      if (typeof(wbinfo) !== "undefined") {
         document.getElementById("annotate-button").style.visibility = 'hidden';
       }
     }
