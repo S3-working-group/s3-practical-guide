@@ -47,7 +47,7 @@ _“Do you think this argument qualifies as an objection?”_
 If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
 
 
-### Understanding Objections
+## Understanding Objections
 
 Some helpful questions:
 
@@ -60,7 +60,7 @@ Some helpful questions:
     -   is considered not ‘safe enough’ to try?
 
 
-### Concerns
+## Concerns
 
 _A **concern** is an opinion that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
 

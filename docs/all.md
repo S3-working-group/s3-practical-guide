@@ -15,7 +15,7 @@ title: Sociocracy 3.0 - A Practical Guide
 
 ## What's in it for me?
 
-Sociocracy 3.0 — **a.k.a. "S3"** — brings you an extensive collection of guidelines and practices (patterns) that have proven helpful for organizations for to **improve performance, alignment, fulfillment and wellbeing**. 
+Sociocracy 3.0 — **a.k.a. "S3"** — brings you an extensive collection of guidelines and practices (patterns) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**. 
 
 S3 helps you discover how to best reach your objectives and navigate complexity, one step at a time, **without the need for sudden radical reorganization or planning a long-term change initiative**:
 
@@ -158,7 +158,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 -   the domain's **primary driver** - the main driver the people accounting for that domain (the _delegatees_) respond to
 -   the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include:
     -   **key responsibilities** (any driver following directly from the domain's primary driver)
-    -   drivers for **constraints** (which typically relate to the organization's wider context)
+    -   drivers for **constraints of the domain** (which typically relate to the organization's wider context)
 
 
 ## Governance, Semi-Autonomy and  Self-Organization
@@ -219,7 +219,7 @@ _Would it help the organization if we respond to this driver? Or would it harm u
 
 ###  Pattern 1.2: Navigate Via Tension
 
-**Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the appropriate domain.**
+**Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.**
 
 **Challenges and opportunities** for an organization are revealed by people bringing awareness to the reasons why they experience tension.
 
@@ -231,7 +231,7 @@ To **discover drivers**, investigate what stimulates tension, and describe what'
 ![](img/process/navigate-describe-respond.png)
 
 
-##  Pattern 1.3: Describe Organizational Drivers
+###  Pattern 1.3: Describe Organizational Drivers
 
 **Describe organizational drivers to understand, communicate and remember them.**
 
@@ -383,7 +383,7 @@ _“Do you think this argument qualifies as an objection?”_
 If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
 
 
-#### Understanding Objections
+### Understanding Objections
 
 Some helpful questions:
 
@@ -396,7 +396,7 @@ Some helpful questions:
     -   is considered not ‘safe enough’ to try?
 
 
-#### Concerns
+### Concerns
 
 _A **concern** is an opinion that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
 
@@ -471,7 +471,7 @@ Follow-up:
 For larger groups:
 
 -   facilitate a process in several stages and create smaller groups who select delegates
--   use a virtual, asynchronous, time-boxed and staged process
+-   use an online tool and conduct an asynchronous, time-boxed and staged process
 
 Consider including those affected in reviewing and evolving decisions, too.
 
@@ -752,7 +752,7 @@ _**Values** are valued principles that guide behavior. Values define scope for a
 
 Values offer guidance to determine appropriate action, even in the absence of explicit agreements.
 
-Collectively adopting a set of values to support the effectiveness of an organization:
+Collectively adopting a set of values supports the effectiveness of an organization:
 
 -   reduces potential for **misunderstanding**
 -   helps to **align** decision making and action
@@ -864,7 +864,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
 
 - make provisions for successfully getting started by defining onboarding procedures
-- have a probationary period - where all parties can try out the collaboration - and a clear protocol for how to end the contract in the probationary period
+- have a probationary period — where all parties can try out the collaboration — and a clear protocol for how to end the contract in the probationary period
 - define and build into the contract, regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
 - include procedures for breach of contract
 - consider making available alternative means for dispute resolution, e.g. mediation, conciliation  or arbitration
@@ -887,7 +887,7 @@ if you find that standard contracts in your industry are misaligned  with the cu
 
 **Create a fair salary formula and make it transparent.**
 
-Transparent salary (also referred to as "open salary") is the practice of making the salary formula - and often individual compensation as well - transparent to all members of an organization, and sometimes to the public.
+Transparent salary (also referred to as "open salary") is the practice of making the salary formula — and often individual compensation as well — transparent to all members of an organization, and sometimes to the public.
 
 A transparent salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
 
@@ -1030,17 +1030,17 @@ Representatives (a.k.a. links):
 
 -   stand for the interests of one group in another group
 -   are selected for a limited term
--   participate in the **governance decision making** of the circle they link with, and can:
+-   participate in the **governance decision making** of the group they link with, and can:
     -   raise items for the agenda
     -   participate in forming proposals
-    -   object to proposals and existing agreements (when there is reason to do so)
+    -   raise objections to proposals and existing agreements
 
 
 ###  Pattern 4.7: Helping Team
 
 ![](img/structural-patterns/helping-team.png)
 
-**Form equivalent groups of people with the mandate to execute on a specific set of requirements defined by a delegator.**
+**Bring together a group of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.**
 
 A helping team: 
 
@@ -1144,7 +1144,7 @@ When making the invitation:
 -   avoid coercion or manipulation
 -   acknowledge any skepticism and doubts
 
-Include the people involved and affected in regular evaluation outcomes.
+Include the people involved and affected in regular evaluation of outcomes.
 
 
 ###  Pattern 5.5: Open-Space For Change
@@ -1165,7 +1165,7 @@ Include the people involved and affected in regular evaluation outcomes.
 
 -   introduce the principle of consent and _Navigate Via Tension_ to evolve work process in a group
 -   consider selecting a facilitator to guide group processes, and choosing values to guide the group
--   trigger continuous improvement (through Kanban, retrospectives, etc.)
+-   initiate a process of continuous improvement, e.g. through Kanban or regular retrospectives
 -   members of the group pull in S3 patterns as required
 -   if valuable, iteratively expand the scope of the experiment to other groups
 -   intentionally look out for impediments  
@@ -1357,7 +1357,7 @@ A governance meeting is usually:
 
 A typical governance meeting includes: 
 
--   opening: check in with each other and attune to the driver (or objectives) of the meeting
+-   opening: opening: check in with each other and attune to the objective of the meeting
 -   administrative matters 
     -   check for consent to the last meeting's minutes
     -   agree on a date for the next meeting
@@ -1468,7 +1468,7 @@ Rounds are a group facilitation technique to maintain equivalence and support ef
 
 Be clear on the purpose and intended outcome of each round. 
 
-Begin each round with a different person, and change direction (clockwise or counterclockwise) to bring variation to who speaks first and last, and to the order of contributions.
+Sit in a circle, begin each round with a different person, and change direction (clockwise or counterclockwise) to bring variation to who speaks first and last, and to the order of contributions.
 
 
 
@@ -1611,7 +1611,9 @@ A governance backlog contains:
 
 ###  Pattern 9.1: Backlog
 
-_A backlog (to-do-list) is a visible list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed._
+_A **backlog** (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed._
+
+Consider making backlogs visible, not only to other members of a group, but also to the wider organization.
 
 Types of backlog include:
 
@@ -1725,7 +1727,7 @@ You could timebox:
 - a longer stretch of work (a sprint)
 
 
-##  Pattern 9.7: Proposal: Align Flow
+###  Pattern 9.7: Align Flow
 
 **In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.**
 
@@ -1868,7 +1870,7 @@ If necessary, the pattern can be repeated to connect multiple fractal organizati
 
 A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) driver, or by multiple branches, departments, or projects within a larger organization.
 
-These constituents (i.e. organizations, branches, departments or projects) need to share at least some - and typically most - functional domains (e.g. accounting, product management, or development).
+These constituents (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional domains (e.g. accounting, product management, or development).
 
 
 
@@ -2102,7 +2104,9 @@ The second and third tier:
 - online version [http://patterns.sociocracy30.org](http://patterns.sociocracy30.org) (with a searchable [pattern index](http://patterns.sociocracy30.org/pattern-index.html))
 - Various other formats and languages: [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
 
-**S3 website**: [http://sociocracy30.org](http://sociocracy30.org)
+**More S3 Resources**: [http://sociocracy30.org/resources/](http://sociocracy30.org/resources)
+
+**Main S3 website**: [http://sociocracy30.org](http://sociocracy30.org)
 
 Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 
@@ -2183,7 +2187,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
 
 
-**Backlog**: A visible list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
+**Backlog**: A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
 
 
 **Check-In**: A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
@@ -2279,6 +2283,9 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Operations**: The work being done to create and deliver value, guided by governance.
 
 
+**Operations Backlog**: A visible list of (typically prioritized) uncompleted work items (deliverables).
+
+
 **Organization**: A group of people collaborating toward a shared driver (or objective).
 
 
@@ -2343,9 +2350,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 
 **Waste**: Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
-
-
-**operations backlog**: A visible list of (typically prioritized) uncompleted work items (deliverables).
 
 
 
