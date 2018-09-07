@@ -2,6 +2,8 @@
 
 {{define:backlog}}
 
+Consider making backlogs visible, not only to other members of a group, but also to the wider organization.
+
 Types of backlog include:
 
 -   governance backlog

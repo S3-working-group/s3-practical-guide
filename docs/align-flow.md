@@ -1,5 +1,5 @@
 ---
-title: "Proposal: Align Flow"
+title: "Align Flow"
 ---
 
 

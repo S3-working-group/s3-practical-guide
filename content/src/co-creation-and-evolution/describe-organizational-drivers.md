@@ -1,4 +1,4 @@
-# Describe Organizational Drivers
+## Describe Organizational Drivers
 
 **Describe organizational drivers to understand, communicate and remember them.**
 
@@ -13,7 +13,7 @@ A simple way to describe a driver is with a **brief statement** explaining:
 
 ---
 
-# Describe Organizational Drivers (…)
+## Describe Organizational Drivers (…)
 
 Depending on their perspective, a person or group may decide to describe a driver as a problem to solve or an opportunity to leverage. 
 

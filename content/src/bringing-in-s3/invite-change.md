@@ -11,4 +11,4 @@ When making the invitation:
 -   avoid coercion or manipulation
 -   acknowledge any skepticism and doubts
 
-Include the people involved and affected in regular evaluation outcomes.
+Include the people involved and affected in regular evaluation of outcomes.

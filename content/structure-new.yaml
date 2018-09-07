@@ -8,11 +8,11 @@ content:
     title: Introduction
     slug: introduction
     sections:
-      - title: S3-Overview
+      - title: S3 Overview
         slug: s3-overview
       - title: History
         slug: history
-      - title: Basic-Concepts
+      - title: Basic Concepts
         slug: basic-concepts
       - title: Patterns
         slug: patterns

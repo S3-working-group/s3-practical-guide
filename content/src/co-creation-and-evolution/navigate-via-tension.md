@@ -1,6 +1,6 @@
 ## Navigate Via Tension
 
-**Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the appropriate domain.**
+**Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.**
 
 **Challenges and opportunities** for an organization are revealed by people bringing awareness to the reasons why they experience tension.
 

@@ -2,7 +2,7 @@
 
 ![right,fit](img/structural-patterns/helping-team.png)
 
-**Form equivalent groups of people with the mandate to execute on a specific set of requirements defined by a delegator.**
+**Bring together a group of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.**
 
 A helping team: 
 

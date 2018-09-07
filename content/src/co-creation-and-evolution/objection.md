@@ -18,7 +18,7 @@ Being able to raise *potential* objections at any time means decisions only need
 Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
 
 ---
-### Objection (…)
+## Objection (…)
 
 When seeking out potential objections, consider:
 
@@ -28,7 +28,7 @@ When seeking out potential objections, consider:
 
 ---
 
-### Objection (…)
+## Objection (…)
 
 The information revealed by objections can be used to improve:
 
@@ -52,7 +52,7 @@ If nobody disagrees with the argument, an objection typically qualifies.  Otherw
 
 ---
 
-### Understanding Objections
+## Understanding Objections
 
 Some helpful questions:
 
@@ -66,7 +66,7 @@ Some helpful questions:
 
 ---
 
-### Concerns
+## Concerns
 
 {{define:concern}}
 

@@ -14,7 +14,7 @@ When making the invitation:
 -   avoid coercion or manipulation
 -   acknowledge any skepticism and doubts
 
-Include the people involved and affected in regular evaluation outcomes.
+Include the people involved and affected in regular evaluation of outcomes.
 
 
 [&#9654; Open Space For Change](open-space-for-change.html)<br/>[&#9664; Be The Change](be-the-change.html)<br/>[&#9650; Bringing In S3](bringing-in-s3.html)

@@ -5,6 +5,6 @@
 For larger groups:
 
 -   facilitate a process in several stages and create smaller groups who select delegates
--   use a virtual, asynchronous, time-boxed and staged process
+-   use an online tool and conduct an asynchronous, time-boxed and staged process
 
 Consider including those affected in reviewing and evolving decisions, too.
