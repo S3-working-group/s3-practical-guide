@@ -16,12 +16,7 @@
       document.getElementById("annotate-button").href = "https://via.hypothes.is/" + self.document.location.href;
     }
     function hideWhenAnnotating() {
-
-      var href = self.document.location.href;
-      var testPrefix = "via.hypothes.is";
-      href = href.replace("https:\/\/", "");
-      href = href.replace("http:\/\/", "");
-      if (href.startsWith(testPrefix)) {
+      if (typeof(wbinfo) !== "undefined") {
         document.getElementById("annotate-button").style.visibility = 'hidden';
       }
     }
