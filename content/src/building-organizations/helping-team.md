@@ -11,10 +11,6 @@ A helping team:
 -   is governed by the delegator
 -   benefits from a clearly defined domain
 
----
-
-## Helping Team (…)
-
 Members of the helping team:
 
 -   can object to the delegator's decisions that affect them

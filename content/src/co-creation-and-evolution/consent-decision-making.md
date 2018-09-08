@@ -10,8 +10,6 @@ Unresolved objections prevent proposals from becoming agreements.
 
 Withholding objections can harm the objectives of a group or organization.
 
----
-
 ### Implicit Contract of Consent
 
 1.   In the absence of objections to an agreement, I intend to follow through on the agreement to the best of my ability.

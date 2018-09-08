@@ -11,10 +11,6 @@ Regular review of agreements is an essential practice for a learning organizatio
 
 Ensure all agreements have an appropriate review date.
 
----
-
-## Evaluate And Evolve Agreements (…)
-
 Evaluating agreements can be as simple as checking that an agreement is still relevant, and there is no objection to keeping it as it is.
 
 Agreements are often reviewed in [Governance Meetings](section:governance-meeting), however sometimes it's more effective to schedule a dedicated session.
@@ -23,18 +19,14 @@ Adjust review frequency as necessary, and review early if required.
 
 Elements of this pattern can also be used by individuals to evaluate decisions they make.
 
----
-
-## Short Format for Evaluating Agreements
+### Short Format for Evaluating Agreements
 
 -   _How has this agreement helped us?_
 -   _Is there any reason to drop this agreement?_
 -   _How can this agreement be improved?_
 -   Agree on a next review date.
 
----
-
-## Long Format For Evaluating Agreements
+### Long Format For Evaluating Agreements
 
 ![left,fit](img/agreements/evaluate-agreements.png)
 

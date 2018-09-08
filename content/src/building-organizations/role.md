@@ -10,10 +10,6 @@ The role keeper leads in creating a strategy for how they will account for their
 
 A role is a simple way for an organization (or group) to delegate recurring tasks or a specific area of work and decision making to one of its members.
 
---- 
-
-## Role (…)
-
 - people can take responsibility for more than one role
 - instead of formally setting up a new group, it's sometimes simpler to just share one role between several people
 - role keepers are selected by consent and for a limited term

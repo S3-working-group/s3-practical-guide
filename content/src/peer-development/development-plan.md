@@ -8,6 +8,4 @@ Development may happen in the form of refining the description of the driver and
 
 A development plan (and any accompanying recommendations for changes to the domain description and driver statement) requires consent from both the delegatee and the delegator.
 
----
-
 ![inline,fit](img/templates/development-plan-template.png)

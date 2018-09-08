@@ -9,8 +9,6 @@
 -   if valuable, iteratively expand the scope of the experiment to other groups
 -   intentionally look out for impediments  
 
----
-
 ### Waste And Continuous Improvement
 
 ![right,fit](img/workflow-and-value/drivers-value-waste.png)

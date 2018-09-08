@@ -13,10 +13,6 @@ A simple way to clarify domains is with a **domain description** that contains:
 -   term (for a role)
 -   (previous versions)
 
----
-
-## Clarify Domains (…)
-
 Domain descriptions can be created for a role, position, circle, team, open domain, department, unit, or the whole organization.
 
 One way of clarifying a domain is by filling out an [S3 Delegation Canvas](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html).

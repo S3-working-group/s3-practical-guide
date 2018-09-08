@@ -1,4 +1,6 @@
-## James Priest
+## Authors 
+
+### James Priest
 
 ![right,fit](img/james-round.png)
 
@@ -8,9 +10,7 @@
 
 [james@thriveincollaboration.com](mailto:james@thriveincollaboration.com)
 
----
-
-## Bernhard Bockelbrink 
+### Bernhard Bockelbrink 
 
 ![right,fit](img/bernhard-round.png)
 
@@ -20,9 +20,7 @@
 
 [bernhard.bockelbrink@evolvingcollaboration.com](mailto:bernhard.bockelbrink@evolvingcollaboration.com)
 
----
-
-## Liliana David
+### Liliana David
 
 ![right,fit](img/lili-round-transparent.png)
 

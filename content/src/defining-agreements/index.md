@@ -2,8 +2,6 @@
 
 ![inline,fit](img/evolution/experiments.png)
 
----
-
 ### Agreement Life-Cycle
 
 ![inline,fit](img/evolution/agreement-lifecycle-long.png)

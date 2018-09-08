@@ -10,10 +10,6 @@ A circle:
 -   may be self-organizing
 -   is accountable for its own development and its body of agreements
 
----
-
-## Circle (…)
-
 -   **semi-autonomous**:
     -   A circle's members act within the constraints of their domain .
     -   Each circle can create value autonomously.

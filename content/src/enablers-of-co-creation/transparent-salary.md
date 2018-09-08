@@ -8,10 +8,6 @@ A transparent salary formula needs to suit an organization's context, and to be 
 
 Perception of fairness varies from person to person and according to context, so creating a salary formula requires developing a shared understanding of what is considered fair.
 
----
-
-## Transparent Salary (…)
-
 When deciding (or agreeing) on a salary formula for an organization or department, consider: 
 
 - what would be a suitable fixed subsistence guarantee
@@ -19,8 +15,6 @@ When deciding (or agreeing) on a salary formula for an organization or departmen
 - how to distribute the organization's profit and cover for losses in line with expectations and needs of the various stakeholders
 
 Decide how to handle remuneration for changing roles and create strategy for how to transition towards new contracts and compensation agreements.
-
----
 
 ### Two Ways of Opening Salaries
 

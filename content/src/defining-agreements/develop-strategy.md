@@ -12,10 +12,6 @@ As the delegator shares accountability for domains they delegate, it's valuable 
 
 A strategy is a shared agreement between delegator(s) and delegatee(s) that is regularly reviewed and updated as necessary (*pivot or persevere*)
 
----
-
-## Develop Strategy (…)
-
 ![inline,fit](img/evolution/domain-driver-strategy-exeriments.png)
 
 Strategies are validated and refined through experimentation and learning.

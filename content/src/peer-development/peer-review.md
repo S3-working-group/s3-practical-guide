@@ -10,15 +10,8 @@ Ensure to invite people with complementing perspectives to contribute to the rev
 
 Improvement suggestions may relate to personal development, collaboration, updates to the domain description (including the driver statement) and strategy.
 
----
-
-## Peer Review (…)
-
-
 ### Continuous improvement of people's ability to effectively keep roles or collaborate together in groups.
 
 ![inline,fit](img/evolution/development-process.png)
-
-
 
 

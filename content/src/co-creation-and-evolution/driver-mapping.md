@@ -4,13 +4,7 @@ A workshop format to identify an effective response to a complex situation: orga
 
 Small or large groups identify and prioritize drivers, progressing quickly from concept to action in self-organizing groups.
 
----
-
-## Driver Mapping (…)
-
 ![inline,fit](img/facilitation-guides/driver-mapping-fg-print.png)
-
----
 
 ### Driver Mapping: Template for Domains 
 

@@ -6,10 +6,6 @@
 
 Participating artfully may include interrupting, objecting or breaking  agreements.
 
----
-
-## Artful Participation (…)
-
 _Artful Participation_ is an **individual commitment** to:
 
 -   actively **consider and follow-up on all agreements** made, in the best way possible, given the circumstances
@@ -17,8 +13,6 @@ _Artful Participation_ is an **individual commitment** to:
 -   **grow the necessary skills**
 -   **support others** to participate artfully
 -   bring impediments and improvement suggestions to the attention of others if necessary
-
----
 
 ### Benefits Of Artful Participation
 
@@ -31,8 +25,6 @@ Artful participation:
 - builds self-accountability, integrity and trust
 - generates a culture of mutual support and close collaboration
 - is more powerful when embraced by many
-
----
 
 ### Artful Participation: Self-Assessment
 

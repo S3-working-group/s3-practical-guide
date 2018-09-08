@@ -11,10 +11,6 @@ A governance facilitator:
 -   familiarizes themselves with the [Governance Backlog](section:governance-backlog)
 -   often invites others to facilitate some agenda items
 
----
-
-## Governance Facilitator (…)
-
 As a governance facilitator, consider learning about and using the following patterns from S3 to handle governance effectively:
 
 -   [Rounds](section:rounds)

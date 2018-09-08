@@ -15,10 +15,6 @@
 -   **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
 -   **removed**: peer driver
 
----
-
-### Changes 2018-08-17 (…)
-
 **Changes to Introduction**
 
 -   added the driver for creating Sociocracy 3.0
@@ -28,10 +24,7 @@
 -   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”,  and clarified the distinction between governance and operations
 -   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
 
----
-
-### Changes 2018-08-17 (…)
-
+**Changes to Patterns:**
 
 - [Agree on Values](section:agree-on-values): improved description
 - [Align Flow](section:align-flow): improved description and illustration
@@ -44,11 +37,6 @@
 - [Delegate Circle](section:delegate-circle): improved description
 - [Delegate Influence](section:delegate-influence): improved description
 - [Describe Deliverables](section:describe-deliverables): improved description
-
----
-
-### Changes 2018-08-17 (…)
-
 - [Describe Organizational Drivers](section:describe-organizational-drivers): made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
 - [Double Linking](section:double-linking): aligned description to _Link_
 - [Double-Linked Hierarchy](section:double-linked-hierarchy): explained in more detail what a double-linked hierarchy is, and how it is created
@@ -57,11 +45,6 @@
 - [Facilitate Meetings](section:facilitate-meetings): improved description
 - [Fractal Organization](section:fractal-organization): extended and improved description
 - [Governance Backlog](section:governance-backlog): improved description
-
----
-
-### Changes 2018-08-17 (…)
-
 - [Governance Meeting](section:governance-meeting): improved description, clarified agenda items
 - [Invite Change](section:invite-change): description now focuses on _how_ to invite change
 - [Linking](section:linking): aligned description to [Double Linking](section:double-linking)
@@ -71,11 +54,6 @@
 - [Open Domain](section:open-domain): improved description and updated illustration
 - [Open Systems](section:open-systems): improved description
 - [Open Space for Change](section:open-space-for-change): renamed from _Open S3 Adoption_, improved description
-
----
-
-### Changes 2018-08-17 (…)
-
 - [Peach Organization](section:peach-organization): clarified relationship between periphery and center
 - [Proposal Forming](section:proposal-forming): revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
 - [Representative](section:representative): improved description
@@ -85,10 +63,6 @@
 - [Role Selection](section:role-selection): improved description, added description of each step
 - [Rounds](section:rounds): improved description
 - [Transparent Salary](section:transparent-salary): added more details about fairness, and on how to develop a salary formula
-
----
-
-### Changes 2018-08-17 (…)
 
 **Renamed Patterns:** 
 
@@ -103,15 +77,11 @@
 - [Prepare for Meetings](section:prepare-for-meetings)
 - [Timebox Activities](section:timebox-activities)
 
----
-
 ### Changes 2018-03-21
 
 * renamed pattern  _Describe Drivers_ to _Describe Organizational Drivers_
 * [Describe Organizational Drivers](section:describe-organizational-drivers): explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 * added _need_ to glossary
-
----
 
 ### Changes 2017-11-16
 
@@ -119,8 +89,6 @@
 - aligned glossary entries for _Circle_ and _Role_ to pattern text
 - _Development Plan_: clarification of responsibilities
 - _Role_: clarified evolution of strategy
-
----
 
 ### Changes 2017-11-10
 
@@ -130,8 +98,6 @@
 - _Rounds_: improved description
 - moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
 - added several terms to the glossary
-
----
 
 ### Changes 2017-10-21
 
@@ -144,20 +110,15 @@
 - various small clarifications and corrections to text and illustrations
 - updated templates for agreement and development plan
 
----
+**Changes to Introduction**
 
-### Changes 2017-10-21 (…)
+-   added "what's in it for me?"
+-   added definitions for governance, self-organization, semi-autonomy, operations to introduction
+-   clarified domains and their relationship to drivers
+-   fleshed out core concepts
+-   made all principles actionable
 
-- Introduction:
-    -   added "what's in it for me?"
-    -   added definitions for governance, self-organization, semi-autonomy, operations to introduction
-    -   clarified domains and their relationship to drivers
-    -   fleshed out core concepts
-    -   made all principles actionable
-
----
-
-### Changes 2017-10-21 (…)
+**Changes to Patterns:**
 
 - _Artful Participation_: improved description
 - _Agreement_: clarified that the concept of agreements is applicable to people in roles
@@ -167,11 +128,6 @@
 - _Development Plan_: improved description, updated template
 - _Develop Strategy_: updated definition of "strategy", improved description
 - _Double-Linked Hierarchy_: new illustration
-
----
-
-### Changes 2017-10-21 (…)
-
 - _Evaluate Agreements_: aligned questions to peer review
 - _Governance Backlog_: improved description
 - _Logbook_: added details about governance to personal logbook
@@ -182,10 +138,6 @@
 - _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications
 - _Resolve Objections_: updated illustration to better reflect the process
 
----
-
-### Changes 2017-10-21 (…)
-
 **Renamed Patterns:** 
 
 - _Backbone Organization_ to _Service Organization_
@@ -193,10 +145,6 @@
 - _Strategy_ to _Develop Strategy_
 - _Domain Description_ to _Clarify Domains_
 - _Describing Deliverables_ to _Describe Deliverables_
-
----
-
-### Changes 2017-10-21 (…)
 
 **Added Patterns:**
 
@@ -209,5 +157,4 @@
 - _Coordination Circle_
 - _Nested Domains_
 - _Qualify Driver_
-
 

@@ -10,9 +10,7 @@
 
 **Semi-Autonomy**: {{glossary:semi-autonomy}}
 
----
-
-## Governance or Operations?
+### Governance or Operations?
 
 _Does it require or benefit from an individual or group decision?_
 

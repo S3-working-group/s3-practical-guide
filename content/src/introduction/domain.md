@@ -8,18 +8,14 @@ All domains are within the overall domain of an organization and may overlap and
 
 Domains are delegated to people (e.g. to a unit, department, team or individuals), who take responsibility for the domain, and act within its defined constraints on influence and autonomy.
 
----
-
-## Delegating Domains
+### Delegating Domains
 
 Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
 
 -   **key responsibilities** (any essential work and decision making being delegated)
 -   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
 
----
-
-## Drivers and Domains
+### Drivers and Domains
 
 ![right,fit](img/driver-domain/drivers-and-domains.png)
 

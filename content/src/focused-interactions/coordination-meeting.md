@@ -7,10 +7,6 @@
     -   include details of any prerequisites that can help attendees to prepare
     -   further agenda items may come up when hearing status reports
 
----
-
-## Coordination Meeting (…)
-
 ![right,fit](img/meetings/coordination-meeting.png)
 
 Agenda items: 

@@ -11,9 +11,7 @@ Some considerations for successfully preparing a meeting:
 - choose an appropriate duration for the meeting 
 - be clear who will facilitate the meeting, who will take minutes and who will take care of any follow-up
 
----
-
-## Preparing an Agenda
+### Preparing an Agenda
 
 Involve people in preparing and prioritizing an agenda and send it out in advance
 
@@ -25,18 +23,13 @@ For each agenda item agree on:
 - the time you want to spend on it 
 - what people need to do to prepare
 
----
-
-## Support the Participants' Preparation
+### Support the Participants' Preparation
 
 - consider what can be done in advance to prepare for the meeting
 - notify people about any expectations and prerequisites
 - make any resources available that people may need for preparation
 
-
---- 
-
-## As a participant
+### As a participant
 
 - consider the pattern [Artful Participation](section:artful-participation)
 - review the agenda and consider how you can contribute to each item

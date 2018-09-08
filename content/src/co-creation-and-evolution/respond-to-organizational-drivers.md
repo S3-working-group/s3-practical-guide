@@ -12,8 +12,6 @@ Responses to organizational drivers include:
 
 The response to an organizational driver is typically treated as an experiment that is evaluated and evolved over time.
 
----
-
 ### Qualify Organizational Drivers
 
 {{glossary:organizational-driver}}

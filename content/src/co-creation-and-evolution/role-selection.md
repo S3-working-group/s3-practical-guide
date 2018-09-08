@@ -10,10 +10,6 @@ Instead of simply assigning people for roles, or making a choice based only on m
 - increase ownership over the decision
 - ensure support for the role keeper by those affected.
 
----
-
-## Role Selection (…)
-
 **1. Present Role Description:** If possible, send out the role’s domain description in advance.
 
 **2. Record Nominations:** Participants write their nomination on a slip of paper. People can nominate themselves, another, or pass.
@@ -21,10 +17,6 @@ Instead of simply assigning people for roles, or making a choice based only on m
 **3. Reasons for Nominations:**  Each person shares who they have nominated and why.
 
 **4. Information Gathering:** Participants share or request any information that might support the group in making an appropriate selection.
-
----
-
-## Role Selection (…)
 
 **5. Nomination Changes:** Check if anyone wants to change their nomination in light of reasons and information shared so far, and hear the reasons for each change.
 
@@ -34,19 +26,11 @@ Instead of simply assigning people for roles, or making a choice based only on m
 -   inviting (some) nominees to agree who should be proposed
 -   inviting group dialogue to help reveal the strongest nominee
 
----
-
-## Role Selection (…)
-
 **7. Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an objection. 
 
 **8. Address and Resolve Objections,** beginning with any from the proposed nominee. Objections may be resolved in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
 
 **9. Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
-
----
-
-## Role Selection (…)
 
 To avoid influencing others, abstain from expressing personal interest or opinions before a selection takes place.
 

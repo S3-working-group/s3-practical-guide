@@ -14,8 +14,6 @@ Short formats you can use:
 -   more of/less of/start/stop/keep
 -   positive/critical/suggested improvements
 
----
-
 ### Evaluate Meetings: Long Format
 
 Ask everyone in a round to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
