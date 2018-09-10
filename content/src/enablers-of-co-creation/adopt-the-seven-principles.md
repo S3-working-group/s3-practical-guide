@@ -1,6 +1,5 @@
 ## Adopt The Seven Principles
 
-![inline,fit](img/framework/s3-principles-plain.png)
 
 **Align collaboration with the Seven Principles.**
 
@@ -8,4 +7,6 @@ Adopting the Seven Principles reduces the number of explicit agreements required
 
 An organization's values need to embrace the Seven Principles.
 
-![right,fit](img/collaboration-values/values-7principles.png)
+![The Seven Principles](img/framework/s3-principles-plain.png)
+
+![An organization's values need to embrace the Seven Principles](img/collaboration-values/values-7principles.png)

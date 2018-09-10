@@ -11,11 +11,10 @@
 
 ### Waste And Continuous Improvement
 
-![right,fit](img/workflow-and-value/drivers-value-waste.png)
-
 {{define:waste}}
 
 Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
 
 Establishing a process for the ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness and adaptation to changing context.
 
+![Drivers, value and vaste](img/workflow-and-value/drivers-value-waste.png)

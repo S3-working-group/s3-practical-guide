@@ -16,6 +16,4 @@ When deciding (or agreeing) on a salary formula for an organization or departmen
 
 Decide how to handle remuneration for changing roles and create strategy for how to transition towards new contracts and compensation agreements.
 
-### Two Ways of Opening Salaries
-
-![inline,fit](img/process/opening-salaries.png)
+![Two ways of opening salaries](img/process/opening-salaries.png)

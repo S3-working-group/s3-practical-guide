@@ -1,6 +1,5 @@
 ## Role Selection
 
-![right,fit](img/agreements/selection.png)
 
 **A group process for selecting a person for a role on the strength of the reason.**
 
@@ -9,6 +8,8 @@ Instead of simply assigning people for roles, or making a choice based only on m
 - tap collective intelligence by hearing and deliberating on reasons for nominations
 - increase ownership over the decision
 - ensure support for the role keeper by those affected.
+
+![Role Selection process](img/agreements/selection.png)
 
 **1. Present Role Description:** If possible, send out the role’s domain description in advance.
 

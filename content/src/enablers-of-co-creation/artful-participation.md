@@ -1,8 +1,8 @@
 ## Artful Participation
 
-![right,fit](img/collaboration-values/artful-participation.png)
-
 **Commit to doing your best to act and interact in ways that enable effective collaboration.**
+
+_"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_
 
 Participating artfully may include interrupting, objecting or breaking  agreements.
 
@@ -16,7 +16,7 @@ _Artful Participation_ is an **individual commitment** to:
 
 ### Benefits Of Artful Participation
 
-![right,fit](img/illustrations/balance-autonomy-collaboration-alt.png)
+![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
 
 Artful participation:
 

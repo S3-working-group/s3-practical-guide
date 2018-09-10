@@ -1,7 +1,5 @@
 ## Governance Meeting
 
-![right,fit](img/meetings/governance-meeting.png)
-
 **Groups meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
 
 A governance meeting is usually:
@@ -21,6 +19,8 @@ A typical governance meeting includes:
 -   agenda items 
 -   meeting evaluation: reflect on your interactions, celebrate successes and share suggestions for improvement
 -   closing: check in with each other before you leave the meeting
+
+![Phases of a governance meeting](img/meetings/governance-meeting.png)
 
 Typical agenda items include:
 

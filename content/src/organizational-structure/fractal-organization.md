@@ -1,12 +1,12 @@
 ## Fractal Organization
 
-![right,fit](img/structural-patterns/fractal-organization.png)
-
 **Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy)**.
 
 Creating a fractal organization can enable a large network to rapidly respond to changing contexts. 
 
 If necessary, the pattern can be repeated to connect multiple fractal organizations into one. 
+
+![Fractal Organzation](img/structural-patterns/fractal-organization.png)
 
 ### Prerequisites
 

@@ -1,6 +1,5 @@
 ## Agree On Values
 
-![right,fit](img/collaboration-values/chosen-values.png)
 
 **Intentionally evolve the culture in your organization.**
 
@@ -19,3 +18,4 @@ Collectively adopting a set of values supports the effectiveness of an organizat
 
 Chosen values are an agreement that benefits from **regular review**.
 
+![Chosen values define constraints for collaboration](img/collaboration-values/chosen-values.png)

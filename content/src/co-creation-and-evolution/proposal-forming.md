@@ -1,6 +1,5 @@
 ## Proposal Forming
 
-![right,fit](img/agreements/proposal-forming.png)
 
 **A (facilitated) group process for co-creating a response to a driver.**
 
@@ -21,10 +20,9 @@ _Proposal Forming_ may also be used by an individual.
 - **Gather ideas** as possible ingredients for a proposal.
 - **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group of "tuners".
   
+![Proposal Forming](img/agreements/proposal-forming.png)
 
 ### Choosing Tuners
-
-![right,fit](img/templates/proposal-template.png)
 
 Consider: 
 
@@ -36,3 +34,5 @@ Consider:
 Between two and three tuners is usually appropriate.
 
 Check for any objections to the proposed tuner(s).
+
+![A simple template for proposals](img/templates/proposal-template.png)

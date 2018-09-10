@@ -1,7 +1,5 @@
 ## Evaluate Meetings
 
-![right,fit](img/meetings/evaluate-interactions.png)
-
 **Take time for learning at the end of each meeting or workshop.**
 
 Reflect on interactions, celebrate successes and share suggestions for improvement before closing the meeting.
@@ -13,6 +11,8 @@ Short formats you can use:
 
 -   more of/less of/start/stop/keep
 -   positive/critical/suggested improvements
+
+![Evaluate meetings right before closing the meeting](img/meetings/evaluate-interactions.png)
 
 ### Evaluate Meetings: Long Format
 

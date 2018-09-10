@@ -1,7 +1,5 @@
 ## Service Organization
 
-![right,fit](img/structural-patterns/service-organization-text.png)
-
 **Multi-stakeholder collaboration and alignment towards a shared driver (or objective).** 
 
 -   improves potential for equivalence between various entities
@@ -10,3 +8,5 @@
 -   suitable for one-off projects, or ongoing collaboration
 
 **Note:** a service organization is sometimes referred to as a **backbone organization**.
+
+![Service Organization](img/structural-patterns/service-organization-text.png)

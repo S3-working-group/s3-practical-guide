@@ -1,8 +1,8 @@
-## All Patterns are based on The Seven Principles
+## The Seven Principles 
 
-![inline,fit](img/framework/s3-principles-plain.png)
+![The Seven Principles](img/framework/s3-principles-plain.png)
 
-### The Seven Principles
+All Patterns are based on The Seven Principles:
 
 **The Principle of Effectiveness:** *{{glossary:effectiveness}}*
 

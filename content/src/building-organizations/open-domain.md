@@ -1,6 +1,5 @@
 ## Open Domain
 
-![right,fit](img/structural-patterns/open-domain.png)
 
 **Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.**
 
@@ -13,3 +12,5 @@ The delegator of the open domain clarifies:
 Depending on the constraints set by the delegator, contributors may only organize and do work, or take part in governance as well.
 
 A delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making done in an open domain. 
+
+![Open Domain](img/structural-patterns/open-domain.png)

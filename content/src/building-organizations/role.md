@@ -1,6 +1,5 @@
 ## Role
 
-![right,fit](img/illustrations/roles.png)
 
 **Delegate accountability for a domain to individuals.**
 
@@ -19,3 +18,4 @@ A role keeper may maintain a governance backlog, and a logbook to record and hel
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
 
+![People can take responsibility for more than one role](img/illustrations/roles.png)
