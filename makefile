@@ -73,7 +73,7 @@ epub:
 	# transclude all to one file 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
 	# render to epub
-	cd $(TMPFOLDER)/ebook; pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=2 -s -o ../../$(TARGETFILE).epub
+	cd $(TMPFOLDER)/ebook; pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE).epub
 
 ebook:
 	# render an ebook as pdf (via LaTEX)
