@@ -13,3 +13,7 @@ h1+p, h2+p, h3+p {
 table, figure {
    page-break-inside: avoid;
 }
+
+h1,h2,h3 {
+  /*page-break-before: always;*/
+}
