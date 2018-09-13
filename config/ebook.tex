@@ -2,21 +2,22 @@
 \usepackage{ebook-style}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{graphicx} 
+\usepackage{titlepic}
 
-
-\begin{document}
-	\title{${_("Sociocracy 3.0 - A Practical Guide")}}
-	\author{Bernhard Bockelbrink\\James Priest\\Liliana David}
-	\date{${version}}
-	\maketitle
+\title{${_("Sociocracy 3.0 - A Practical Guide")}}
+\author{Bernhard Bockelbrink\\James Priest\\Liliana David}
+\date{${version}}
+\titlepic{\includegraphics[width=6cm]{./img/framework/logo.png}}
 	
+\begin{document}
+	\maketitle
 	\pagenumbering{arabic}
 	% limit toc to sections
 	\setcounter{tocdepth}{0}
 	\tableofcontents
 	% reset counter for list of figures
-	\setcounter{tocdepth}{1}
-	%\listoffigures
-    
     \include{tmp-ebook-compiled}
+	\setcounter{tocdepth}{1}
+	\listoffigures
 \end {document}
