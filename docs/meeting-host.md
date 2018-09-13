@@ -7,7 +7,6 @@ title: "Meeting Host (Role)"
 
 A person may take on the role of Meeting Host for a specific event or for several events over a period of time.
 
-
 ### Responsibilities Of A Meeting Host
 
 Preparation:

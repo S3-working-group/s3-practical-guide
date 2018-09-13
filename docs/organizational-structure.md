@@ -12,12 +12,9 @@ Continuously evolve your organization's structure to:
 -   ensure information is available to those who need it
 -   distribute power to influence as required
 
-
-
 The basic building blocks for organizational structure are interdependent, connected domains.
 
 Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex  adaptive system, or network, where multiple functional structures can co-exist).
-
 
 ### Structural Patterns
 

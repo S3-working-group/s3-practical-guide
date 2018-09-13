@@ -14,8 +14,6 @@ A timebox is a fixed period of time spent focused on a specific activity (which 
 - consider frequent review of progress
 - consider choosing someone (the "time keeper") to help others stay conscious of time
 
-
-
 You could timebox:
 
 - meetings, calls, dialogue

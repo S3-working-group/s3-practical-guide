@@ -3,12 +3,10 @@ title: "Defining Agreements"
 ---
 
 
-![inline,fit](img/evolution/experiments.png)
+![Each decision can be made an experiment](img/evolution/experiments.png)
 
 
-### Agreement Life-Cycle
-
-![inline,fit](img/evolution/agreement-lifecycle-long.png)
+![The Life-Cycle of an Agreement](img/evolution/agreement-lifecycle-long.png)
 
 - [Agreement](agreement.html)
 - [Develop Strategy](develop-strategy.html)

@@ -3,7 +3,6 @@ title: "Agree On Values"
 ---
 
 
-![right,fit](img/collaboration-values/chosen-values.png)
 
 **Intentionally evolve the culture in your organization.**
 
@@ -11,8 +10,6 @@ _**Values** are valued principles that guide behavior. Values define scope for a
 
 -   each member brings their own values to an organization based on personal experiences and beliefs
 -   a group or organization may **choose to collectively adopt values** to guide their collaboration
-
-
 
 Values offer guidance to determine appropriate action, even in the absence of explicit agreements.
 
@@ -24,7 +21,7 @@ Collectively adopting a set of values supports the effectiveness of an organizat
 
 Chosen values are an agreement that benefits from **regular review**.
 
-
+![Chosen values define constraints for collaboration](img/collaboration-values/chosen-values.png)
 
 
 [&#9654; Governance Facilitator](governance-facilitator.html)<br/>[&#9664; Adopt The Seven Principles](adopt-the-seven-principles.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)

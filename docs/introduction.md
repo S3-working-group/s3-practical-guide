@@ -11,8 +11,7 @@ title: Introduction
 -   **flexible**: adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
 -   **free**: licensed under a Creative Commons Free Culture License
 
-
-## What's in it for me?
+### What's in it for me?
 
 Sociocracy 3.0 — **a.k.a. "S3"** — brings you an extensive collection of guidelines and practices (patterns) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**. 
 
@@ -22,8 +21,7 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 
 -   **Regardless of your position in the organization**, you will find patterns that are relevant and helpful for you.
 
-
-## Contents
+### Contents of this guide
 
 -   a brief overview of some basic concepts behind S3
 -   a description of all the patterns in S3
@@ -35,8 +33,7 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 
 ## Influences and History
 
-![inline, fit](img/context/history.png)
-
+![Influences and history of Sociocracy 3.0](img/context/history.png)
 
 ## Driver for Creating Sociocracy 3.0
 
@@ -57,28 +54,25 @@ For any terms you don't understand check out the glossary at the end.
 
 ## Patterns 
 
-![right,fit](img/pattern-group-headers/all-groups-dark.png)
-
 _A **pattern** is a template for successfully navigating a specific context._
 
 -   S3 patterns are discovered through observing many organizations as they solve problems and respond to opportunities
 -   S3 patterns can be evolved and adapted to suit differing contexts
 -   the patterns are grouped by topic into ten categories
 
-## All Patterns are based on The Seven Principles
+![Patterns are grouped by topic into ten categories](img/pattern-group-headers/all-groups-dark.png)
 
-![inline,fit](img/framework/s3-principles-plain.png)
+## The Seven Principles 
 
+![The Seven Principles](img/framework/s3-principles-plain.png)
 
-## The Seven Principles
+All Patterns are based on The Seven Principles:
 
 **The Principle of Effectiveness:** *Devote time only to what brings you closer toward achieving your objectives.*
 
 **The Principle of Consent:** *Raise, seek out and resolve objections to decisions and actions.*
 
 **The Principle of Empiricism:** *Test all assumptions through experimentation and continuous revision.*
-
-
 
 **The Principle of Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
 
@@ -88,8 +82,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 **The Principle of Accountability:** *Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
 
-
-## The Principle of Accountability
+### The Principle of Accountability
 
 *Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
 
@@ -110,7 +103,6 @@ Drivers:
 -   can be used to derive goals, objectives, aims, mission, vision, purpose
 -   can change over time
 
-
 ### Drivers: Value and Waste
 
 _**Value** is the importance, worth or usefulness of something in relation to a driver._
@@ -125,26 +117,22 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 
 ## Domains
 
-![right,fit](img/driver-domain/domains-in-organizations.png)
-
 _A **domain** is a distinct area of influence, activity and decision making within an organization._
 
 All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 
 Domains are delegated to people (e.g. to a unit, department, team or individuals), who take responsibility for the domain, and act within its defined constraints on influence and autonomy.
 
+![Some domains in an organzation](img/driver-domain/domains-in-organizations.png)
 
-## Delegating Domains
+### Delegating Domains
 
 Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
 
 -   **key responsibilities** (any essential work and decision making being delegated)
 -   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
 
-
-## Drivers and Domains
-
-![right,fit](img/driver-domain/drivers-and-domains.png)
+### Drivers and Domains
 
 It's also possible to understand a domain in relation to organizational drivers:
 
@@ -152,6 +140,8 @@ It's also possible to understand a domain in relation to organizational drivers:
 -   the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include:
     -   **key responsibilities** (any driver following directly from the domain's primary driver)
     -   drivers for **constraints of the domain** (which typically relate to the organization's wider context)
+
+![Drivers and domains](img/driver-domain/drivers-and-domains.png)
 
 ## Governance, Semi-Autonomy and  Self-Organization
 
@@ -165,8 +155,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 **Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
 
-
-## Governance or Operations?
+### Governance or Operations?
 
 _Does it require or benefit from an individual or group decision?_
 

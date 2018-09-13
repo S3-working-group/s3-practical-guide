@@ -13,10 +13,7 @@ _An **agreement** is an agreed upon guideline, process or protocol designed to g
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.  
 
-
-### Template for Agreements
-
-![inline,fit](img/templates/agreement-template.png)
+![Template for Agreements](img/templates/agreement-template.png)
 
 
 
