@@ -14,4 +14,4 @@ Withholding objections can harm the objectives of a group or organization.
 1.   In the absence of objections to an agreement, I intend to follow through on the agreement to the best of my ability.
 2.   I agree to share objections as I become aware of them.
 
-![Conset Decision Making](img/agreements/consent-decision-making.png)
+![Consent Decision Making](img/agreements/consent-decision-making.png)
