@@ -9,16 +9,21 @@
 
 _Proposal Forming_ may also be used by an individual.
 
-  
 ### Proposal Forming Steps
 
-- **Consent to driver**: _Is this driver relevant for us to respond to? Is the driver statement an accurate description of what is happening and what is needed?_
-- **Deepen shared understanding of driver**: invite essential questions to understand the driver in more detail.
-- **Collect considerations** phrased as questions relating to possible solutions. Questions either reveal constraints (information gathering questions) or possibilities (generative questions).
-- **Answer** any information gathering questions if possible.
-- **Prioritize** considerations.
-- **Gather ideas** as possible ingredients for a proposal.
-- **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group of "tuners".
+**Consent to driver**: _Is this driver relevant for us to respond to? Is the driver statement an accurate description of what is happening and what is needed?_
+
+**Deepen shared understanding of driver**: invite essential questions to understand the driver in more detail.
+
+**Collect considerations** phrased as questions relating to possible solutions. Questions either reveal constraints (information gathering questions) or possibilities (generative questions).
+
+**Answer** any information gathering questions if possible.
+
+**Prioritize** considerations.
+
+**Gather ideas** as possible ingredients for a proposal.
+
+**Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group of "tuners".
   
 ![Proposal Forming](img/agreements/proposal-forming.png)
 
@@ -31,8 +36,6 @@ Consider:
 -   who else may have a valuable contribution to make?
 -   consider expertise, outside view, and inspiration
 
-Between two and three tuners is usually appropriate.
-
-Check for any objections to the proposed tuner(s).
+Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s). Consider
 
 ![A simple template for proposals](img/templates/proposal-template.png)
