@@ -49,6 +49,8 @@ site:
 	$(MKTPL) templates/docs/_config.yml docs/_config.yml $(LOC) $(PRJ)
 	$(MKTPL) templates/docs/CNAME docs/CNAME $(LOC) $(PRJ)
 	$(MKTPL) content/website/_includes/footer.html docs/_includes/footer.html $(LOC) $(PRJ)
+	cp templates/docs/map.md docs/map.md
+	cp templates/docs/pattern-map.html docs/_includes/pattern-map.html
 	cp content/website/_includes/header.html docs/_includes/header.html
 
 	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md

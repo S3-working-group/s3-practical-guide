@@ -1,0 +1,9 @@
+Translations:
+	- make sure all files that are dependent on content (including website navigation through pattern map) are th the content folder and properly copied to docs
+		- plain.html
+		- pattern-map includes
+	- fix "make single" command (deckset commands are no longer stripped) @done(2018-09-14)
+	- make rename plain to "image-map" or similar
+	- set up plain.html as template (replace language and text direction)
+	
+

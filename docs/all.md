@@ -956,7 +956,7 @@ Decentralize as much as possible, and retain as much influence as necessary.
 
 ###  Pattern 4.2: Circle
 
-![](img/circle/circle.png)
+![](img/circle/circle.png)  
 
 _A **circle** is a self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain._
 
@@ -1460,7 +1460,7 @@ Agenda items:
 
 ###  Pattern 8.1: Rounds
 
-![](img/circle/rounds.png)
+![](img/circle/rounds.png) 
 
 **In a group meeting, go around the circle giving everyone the chance to speak in turn.**
 
@@ -1776,7 +1776,7 @@ The basic building blocks for organizational structure are interdependent, conne
 Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex  adaptive system, or network, where multiple functional structures can co-exist).
 
 
-## Structural Patterns
+### Structural Patterns
 
 Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
 
@@ -2097,7 +2097,7 @@ The second and third tier:
 
 ## Links
 
-![](img/framework/logo.png)
+
 
 **Latest version of the Practical Guide**:
 
@@ -2113,7 +2113,7 @@ Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
 
 ## License
 
-![](img/framework/logo.png)
+
 
 This work by Bernhard Bockelbrink, James Priest and Liliana David is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
 [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
