@@ -123,7 +123,7 @@ All domains are within the overall domain of an organization and may overlap and
 
 Domains are delegated to people (e.g. to a unit, department, team or individuals), who take responsibility for the domain, and act within its defined constraints on influence and autonomy.
 
-![Some domains in an organzation](img/driver-domain/domains-in-organizations.png)
+![Domains may overlap and/or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
 
 ### Delegating Domains
 

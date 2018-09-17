@@ -3,7 +3,7 @@ title: "Defining Agreements"
 ---
 
 
-![Each decision can be made an experiment](img/evolution/experiments.png)
+![Any agreement or decision can be viewed as an experiment.](img/evolution/experiments.png)
 
 
 ![The Life-Cycle of an Agreement](img/evolution/agreement-lifecycle-long.png)

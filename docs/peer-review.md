@@ -8,7 +8,7 @@ title: "Peer Review"
 
 The role keeper — or group — leads the peer review by setting up the process and speaking first in each step.
 
-![Phases of a peer review](img/process/peer-review.png)
+![Peer review process](img/process/peer-review.png)
 
 Ensure to invite people with complementing perspectives to contribute to the review, and a facilitator.
 

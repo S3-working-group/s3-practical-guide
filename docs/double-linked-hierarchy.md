@@ -14,7 +14,7 @@ A double-linked hierarchy:
 - brings equivalence to governance
 - maintains the potential for a functional hierarchy (if it enables the flow of value).
 
-![A double-linked hierarchy is not your typical hierarchy](img/structural-patterns/double-linked-hierarchy.png)
+![A double-linked hierarchy: not your typical hierarchy](img/structural-patterns/double-linked-hierarchy.png)
 
 
 [&#9654; Service Organization](service-organization.html)<br/>[&#9664; Peach Organization](peach-organization.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
