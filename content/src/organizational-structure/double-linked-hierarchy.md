@@ -1,7 +1,5 @@
 ## Double-Linked Hierarchy
 
-![right,fit](img/structural-patterns/double-linked-hierarchy.png)
-
 **Delegate all decision making to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence and building engagement.**
 
 1. Shift governance decision making from individuals to groups by forming self-governing circles on all levels of your organization.
@@ -13,3 +11,4 @@ A double-linked hierarchy:
 - brings equivalence to governance
 - maintains the potential for a functional hierarchy (if it enables the flow of value).
 
+![A double-linked hierarchy: not your typical hierarchy](img/structural-patterns/double-linked-hierarchy.png)

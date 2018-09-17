@@ -1,6 +1,5 @@
 ## Respond to Organizational Drivers
 
-![right,fit](img/driver-domain/driver-response-full.png)
 
 **Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.**
 
@@ -12,7 +11,7 @@ Responses to organizational drivers include:
 
 The response to an organizational driver is typically treated as an experiment that is evaluated and evolved over time.
 
----
+![Possible responses to organizational drivers](img/driver-domain/driver-response-full.png)
 
 ### Qualify Organizational Drivers
 

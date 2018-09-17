@@ -11,8 +11,7 @@ title: "Navigate Via Tension"
 
 To **discover drivers**, investigate what stimulates tension, and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
 
-
-![inline,fit](img/process/navigate-describe-respond.png)
+![Navigate Via Tension, Describe Organizational Drivers, Respond To Organizational Drivers](img/process/navigate-describe-respond.png)
 
 
 [&#9654; Describe Organizational Drivers](describe-organizational-drivers.html)<br/>[&#9664; Respond To Organizational Drivers](respond-to-organizational-drivers.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)

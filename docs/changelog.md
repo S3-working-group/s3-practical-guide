@@ -18,8 +18,6 @@ title: "Changelog"
 -   **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
 -   **removed**: peer driver
 
-
-
 **Changes to Introduction**
 
 -   added the driver for creating Sociocracy 3.0
@@ -29,8 +27,7 @@ title: "Changelog"
 -   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”,  and clarified the distinction between governance and operations
 -   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
 
-
-
+**Changes to Patterns:**
 
 - [Agree on Values](agree-on-values.html): improved description
 - [Align Flow](align-flow.html): improved description and illustration
@@ -43,9 +40,6 @@ title: "Changelog"
 - [Delegate Circle](delegate-circle.html): improved description
 - [Delegate Influence](delegate-influence.html): improved description
 - [Describe Deliverables](describe-deliverables.html): improved description
-
-
-
 - [Describe Organizational Drivers](describe-organizational-drivers.html): made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
 - [Double Linking](double-linking.html): aligned description to _Link_
 - [Double-Linked Hierarchy](double-linked-hierarchy.html): explained in more detail what a double-linked hierarchy is, and how it is created
@@ -54,9 +48,6 @@ title: "Changelog"
 - [Facilitate Meetings](facilitate-meetings.html): improved description
 - [Fractal Organization](fractal-organization.html): extended and improved description
 - [Governance Backlog](governance-backlog.html): improved description
-
-
-
 - [Governance Meeting](governance-meeting.html): improved description, clarified agenda items
 - [Invite Change](invite-change.html): description now focuses on _how_ to invite change
 - [Linking](linking.html): aligned description to [Double Linking](double-linking.html)
@@ -66,9 +57,6 @@ title: "Changelog"
 - [Open Domain](open-domain.html): improved description and updated illustration
 - [Open Systems](open-systems.html): improved description
 - [Open Space for Change](open-space-for-change.html): renamed from _Open S3 Adoption_, improved description
-
-
-
 - [Peach Organization](peach-organization.html): clarified relationship between periphery and center
 - [Proposal Forming](proposal-forming.html): revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
 - [Representative](representative.html): improved description
@@ -78,8 +66,6 @@ title: "Changelog"
 - [Role Selection](role-selection.html): improved description, added description of each step
 - [Rounds](rounds.html): improved description
 - [Transparent Salary](transparent-salary.html): added more details about fairness, and on how to develop a salary formula
-
-
 
 **Renamed Patterns:** 
 
@@ -94,13 +80,11 @@ title: "Changelog"
 - [Prepare for Meetings](prepare-for-meetings.html)
 - [Timebox Activities](timebox-activities.html)
 
-
 ### Changes 2018-03-21
 
 * renamed pattern  _Describe Drivers_ to _Describe Organizational Drivers_
 * [Describe Organizational Drivers](describe-organizational-drivers.html): explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 * added _need_ to glossary
-
 
 ### Changes 2017-11-16
 
@@ -108,7 +92,6 @@ title: "Changelog"
 - aligned glossary entries for _Circle_ and _Role_ to pattern text
 - _Development Plan_: clarification of responsibilities
 - _Role_: clarified evolution of strategy
-
 
 ### Changes 2017-11-10
 
@@ -118,7 +101,6 @@ title: "Changelog"
 - _Rounds_: improved description
 - moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
 - added several terms to the glossary
-
 
 ### Changes 2017-10-21
 
@@ -131,16 +113,15 @@ title: "Changelog"
 - various small clarifications and corrections to text and illustrations
 - updated templates for agreement and development plan
 
+**Changes to Introduction**
 
+-   added "what's in it for me?"
+-   added definitions for governance, self-organization, semi-autonomy, operations to introduction
+-   clarified domains and their relationship to drivers
+-   fleshed out core concepts
+-   made all principles actionable
 
-- Introduction:
-    -   added "what's in it for me?"
-    -   added definitions for governance, self-organization, semi-autonomy, operations to introduction
-    -   clarified domains and their relationship to drivers
-    -   fleshed out core concepts
-    -   made all principles actionable
-
-
+**Changes to Patterns:**
 
 - _Artful Participation_: improved description
 - _Agreement_: clarified that the concept of agreements is applicable to people in roles
@@ -150,9 +131,6 @@ title: "Changelog"
 - _Development Plan_: improved description, updated template
 - _Develop Strategy_: updated definition of "strategy", improved description
 - _Double-Linked Hierarchy_: new illustration
-
-
-
 - _Evaluate Agreements_: aligned questions to peer review
 - _Governance Backlog_: improved description
 - _Logbook_: added details about governance to personal logbook
@@ -163,8 +141,6 @@ title: "Changelog"
 - _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications
 - _Resolve Objections_: updated illustration to better reflect the process
 
-
-
 **Renamed Patterns:** 
 
 - _Backbone Organization_ to _Service Organization_
@@ -172,8 +148,6 @@ title: "Changelog"
 - _Strategy_ to _Develop Strategy_
 - _Domain Description_ to _Clarify Domains_
 - _Describing Deliverables_ to _Describe Deliverables_
-
-
 
 **Added Patterns:**
 
@@ -186,5 +160,4 @@ title: "Changelog"
 - _Coordination Circle_
 - _Nested Domains_
 - _Qualify Driver_
-
 

@@ -1,8 +1,6 @@
 ## Influences and History
 
-![inline, fit](img/context/history.png)
-
----
+![Influences and history of Sociocracy 3.0](img/context/history.png)
 
 ## Driver for Creating Sociocracy 3.0
 

@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* basic CSS for epub */
+
+h1,h2,h3,h4,h5 {
+   font-weight: bold;
+   page-break-after: avoid;
+   page-break-inside:avoid;
+   text-align: left;
+}
+h1+p, h2+p, h3+p {
+   page-break-before: avoid;
+}
+table, figure {
+   page-break-inside: avoid;
+}
+
+h1,h2,h3 {
+  /*page-break-before: always;*/
+}

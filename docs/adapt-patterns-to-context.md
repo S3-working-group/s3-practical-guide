@@ -5,8 +5,6 @@ title: "Adapt Patterns To Context"
 
 **Adapt and evolve S3 patterns to suit your specific context.**
 
-![right,fit](img/process/adapt-pattern-to-context.png)
-
 Ensure that everyone affected:
 
 -   understands why changing the pattern is necessary (or helpful)
@@ -16,6 +14,8 @@ Ensure that everyone affected:
 Run experiments with adaptations for long enough to learn about the benefits and any potential pitfalls.
 
 Share valuable adaptations with the S3 community.
+
+![Phases of adapting patterns to a specific context](img/process/adapt-pattern-to-context.png)
 
 
 

@@ -10,9 +10,4 @@
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.  
 
----
-
-### Template for Agreements
-
-![inline,fit](img/templates/agreement-template.png)
-
+![Template for agreements](img/templates/agreement-template.png)

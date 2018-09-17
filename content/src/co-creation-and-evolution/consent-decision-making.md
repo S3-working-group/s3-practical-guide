@@ -1,6 +1,5 @@
 ## Consent Decision Making
 
-![right,fit](img/agreements/consent-decision-making.png)
 
 **A (facilitated) group process for decision making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
 
@@ -10,9 +9,9 @@ Unresolved objections prevent proposals from becoming agreements.
 
 Withholding objections can harm the objectives of a group or organization.
 
----
-
 ### Implicit Contract of Consent
 
 1.   In the absence of objections to an agreement, I intend to follow through on the agreement to the best of my ability.
 2.   I agree to share objections as I become aware of them.
+
+![Consent Decision Making](img/agreements/consent-decision-making.png)
