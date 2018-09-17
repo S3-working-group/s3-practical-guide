@@ -1,5 +1,7 @@
 ## Authors 
 
+![James Priest, Liliana David, Bernhard Bockelbrink](img/james-liliana-bernhard.png)
+
 ### James Priest
 
 ... serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
@@ -8,7 +10,6 @@
 
 [james@thriveincollaboration.com](mailto:james@thriveincollaboration.com)
 
-![James Priest](img/james-round.png)
 
 ### Bernhard Bockelbrink 
 
@@ -18,8 +19,6 @@
 
 [bernhard.bockelbrink@evolvingcollaboration.com](mailto:bernhard.bockelbrink@evolvingcollaboration.com)
 
-![Bernhard Bockelbrink](img/bernhard-round.png)
-
 ### Liliana David
 
 ... serves internationally, providing training, facilitation and mentoring to groups and organizations wishing to develop greater effectiveness and equivalence in collaboration.
@@ -28,4 +27,3 @@
 
 [lili@thriveincollaboration.com](mailto:lili@thriveincollaboration.com)
 
-![Liliana David](img/lili-round-transparent.png)
