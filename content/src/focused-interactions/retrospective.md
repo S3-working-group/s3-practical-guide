@@ -7,8 +7,6 @@
 -   regular intervals (1-4 weeks)
 -   adapt to situation and context
 
-###  
-
 ![Output of a retrospective](img/meetings/retrospective.png)
 
 ### Five Phases of a Retrospective Meeting
