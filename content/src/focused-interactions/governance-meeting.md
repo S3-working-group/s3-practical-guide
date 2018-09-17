@@ -1,7 +1,5 @@
 ## Governance Meeting
 
-![right,fit](img/meetings/governance-meeting.png)
-
 **Groups meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
 
 A governance meeting is usually:
@@ -10,10 +8,6 @@ A governance meeting is usually:
 -   prepared in advance 
 -   time-boxed for a duration of 90-120 minutes
 -   scheduled every 2-4 weeks
-
----
-
-## Governance Meeting (…)
 
 A typical governance meeting includes: 
 
@@ -26,9 +20,7 @@ A typical governance meeting includes:
 -   meeting evaluation: reflect on your interactions, celebrate successes and share suggestions for improvement
 -   closing: check in with each other before you leave the meeting
 
----
-
-## Governance Meeting (…)
+![Phases of a governance meeting](img/meetings/governance-meeting.png)
 
 Typical agenda items include:
 
@@ -39,8 +31,5 @@ Typical agenda items include:
     -   forming proposals
     -   making agreements 
     -   designing domains and deciding how to account for them (e.g. new roles, circles, teams or open domains)
-
-
-
 
 

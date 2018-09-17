@@ -6,9 +6,7 @@
 -   **flexible**: adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
 -   **free**: licensed under a Creative Commons Free Culture License
 
----
-
-## What's in it for me?
+### What's in it for me?
 
 Sociocracy 3.0 — **a.k.a. "S3"** — brings you an extensive collection of guidelines and practices (patterns) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**. 
 
@@ -18,9 +16,7 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 
 -   **Regardless of your position in the organization**, you will find patterns that are relevant and helpful for you.
 
----
-
-## Contents
+### Contents of this guide
 
 -   a brief overview of some basic concepts behind S3
 -   a description of all the patterns in S3

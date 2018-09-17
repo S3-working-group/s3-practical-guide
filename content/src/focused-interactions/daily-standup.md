@@ -1,7 +1,5 @@
 ## Daily Standup
 
-![right,fit](img/meetings/planning-review-standup.png)
-
 **Meet daily to organize work, facilitate learning and improve your productivity and effectiveness.**
 
 -   time-boxed (usually 15 minutes)
@@ -10,3 +8,5 @@
     -   organize daily work
     -   address impediments/blocks
     -   adapt existing agreements or create new agreements on the spot
+
+![Daily standup is an essential meeting for self-organizing groups.](img/meetings/planning-review-standup.png)

@@ -7,8 +7,6 @@ Drivers:
 -   can be used to derive goals, objectives, aims, mission, vision, purpose
 -   can change over time
 
----
-
 ### Drivers: Value and Waste
 
 {{define:value}}

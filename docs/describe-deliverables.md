@@ -12,8 +12,6 @@ When describing deliverables:
 -   include the necessary amount of detail
 -   reference other documents when helpful or necessary
 
-
-
 Explicitly describing deliverables can be useful for improving: 
 
 -   organizational strategy

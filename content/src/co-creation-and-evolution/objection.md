@@ -4,10 +4,6 @@
 
 Objections contain information that reveals **certain or likely consequence of harm** and/or **opportunities to immediately improve** proposals, decisions, existing agreements or actions. 
 
----
-
-## Objection (…)
-
 It's the accountability of individuals to raise potential objections. 
 
 Withholding objections can harm the ability of individuals, groups or
@@ -17,18 +13,11 @@ Being able to raise *potential* objections at any time means decisions only need
 
 Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
 
----
-## Objection (…)
-
 When seeking out potential objections, consider:
 
 - why the intended outcome would not be (fully) achieved: **effectiveness**
 - why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
 - the negative consequences something would have elsewhere (in the same domain, in the wider organization, or beyond): **side-effects**
-
----
-
-## Objection (…)
 
 The information revealed by objections can be used to improve:
 
@@ -38,9 +27,7 @@ The information revealed by objections can be used to improve:
 -   proposals
 -   shared understanding of drivers
 
----
-
-## Qualify Objections
+### Qualify Objections
 
 Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on opinion, preference or concern.
 
@@ -50,9 +37,7 @@ _“Do you think this argument qualifies as an objection?”_
 
 If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
 
----
-
-## Understanding Objections
+### Understanding Objections
 
 Some helpful questions:
 
@@ -64,9 +49,7 @@ Some helpful questions:
     -   is in conflict with the organization's values?
     -   is considered not ‘safe enough’ to try?
 
----
-
-## Concerns
+### Concerns
 
 {{define:concern}}
 

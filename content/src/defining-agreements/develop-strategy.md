@@ -1,7 +1,5 @@
 ## Develop Strategy
 
-![right,fit](img/driver-domain/driver-strategy-agreements-domain.png)
-
 {{define:strategy}}
 
 It is usually more effective if a group or role keeper lead in developing their own strategy.
@@ -12,10 +10,6 @@ As the delegator shares accountability for domains they delegate, it's valuable 
 
 A strategy is a shared agreement between delegator(s) and delegatee(s) that is regularly reviewed and updated as necessary (*pivot or persevere*)
 
----
-
-## Develop Strategy (…)
-
-![inline,fit](img/evolution/domain-driver-strategy-exeriments.png)
+![Strategies are validated and refined through experimentation and learning.](img/evolution/domain-driver-strategy-exeriments.png)
 
 Strategies are validated and refined through experimentation and learning.

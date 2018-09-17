@@ -3,8 +3,6 @@ title: "Links"
 ---
 
 
-![fit](img/framework/logo.png)
-
 **Latest version of the Practical Guide**:
 
 - online version [http://patterns.sociocracy30.org](http://patterns.sociocracy30.org) (with a searchable [pattern index](http://patterns.sociocracy30.org/pattern-index.html))
@@ -14,4 +12,4 @@ title: "Links"
 
 **Main S3 website**: [http://sociocracy30.org](http://sociocracy30.org)
 
-Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
+Follow us on **twitter**: [@sociocracy30](http://twitter.com/sociocracy30)

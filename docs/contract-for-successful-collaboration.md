@@ -11,8 +11,6 @@ Developing shared understanding about needs and expectations is essential for su
 
 While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved. 
 
-
-
 This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations. e.g.: 
 
 - employment contracts and contracts with external contractors or consultants in support roles (including any agreement that results in a change of remuneration or working hours)
@@ -21,8 +19,7 @@ This pattern refers to contracts relating related to collaboration around any bu
 
 **Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
 
-
-## Criteria for a successful alliance between contracting parties
+### Criteria for a successful alliance between contracting parties
 
 When negotiating a contract, ensure:
 
@@ -35,8 +32,7 @@ When negotiating a contract, ensure:
 
 If for any reason one or more of these criteria cannot be fulfilled, it is probably wise to not proceed.
 
-
-## Co-creating the contract
+### Co-creating the contract
 
 The way a contract is negotiated can significantly contribute toward building trust between parties. Approach contracting from the point of view of making an agreement between partners, not adversaries: co-create the contract, tailor it to its specific context, and ensure it is legally robust.
 
@@ -45,9 +41,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 - if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
 - consult a lawyer who supports the culture you aspire to and is competent in the field if business you are negotiating
 
-------
-
-## When Co-Creating A Contract:
+### When Co-Creating A Contract:
 
 - ensure all parties have a delegation that includes representation for all affected domains (e.g. not only sales, but also development / production / support, etc)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
@@ -57,8 +51,6 @@ The way a contract is negotiated can significantly contribute toward building tr
 - compile a list of specific laws and regulation the contract needs to comply to
 - negotiate in several iterations, allowing time to consider implications and propose amendments
 - keep minutes of each meeting to reduce the potential for misconceptions
-
-
 
 ### Support The Full Lifecycle Of The Collaboration:
 
@@ -70,7 +62,6 @@ Any contract can be changed at any time, provided all signatories agree. However
 - include procedures for breach of contract
 - consider making available alternative means for dispute resolution, e.g. mediation, conciliation  or arbitration
 - consider limiting the contract to a fixed term after which the contract expires and can be renewed if required
-
 
 ### Culture
 
