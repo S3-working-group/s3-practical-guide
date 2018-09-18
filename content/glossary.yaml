@@ -73,8 +73,8 @@ terms:
     glossary: An individual or group delegating a domain to other(s) to be accountable for.
   deliverable:
     name: Deliverable
-    definition: A **deliverable** is a product, service, raw material, experience or transformation, provided as a result of an agreement.
-    glossary: A product, service, raw material, experience or transformation, provided as a result of an agreement.
+    definition: A **deliverable** is a product, service, component or material provided in response to an organizational driver.
+    glossary: A product, service, component or material provided in response to an organizational driver.
   domain:
     name: Domain
     definition: A **domain** is a distinct area of influence, activity and decision making within an organization.
