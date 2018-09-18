@@ -4,12 +4,12 @@
 
 A simple way to clarify domains is with a **domain description** that contains:
 
--   primary driver
--   key responsibilities
--   constraints
--   evaluation criteria for peer review
+-   primary driver (the **organizational need** the domain is designed to respond to)
+-   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
+-   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
+-   **resources** (time, money, facilities, privileges, tools)
+-   **evaluation criteria** and frequency of evaluation
 -   term (for a role)
--   (previous versions)
 
 Domain descriptions can be created for a role, position, circle, team, open domain, department, unit, or the whole organization.
 

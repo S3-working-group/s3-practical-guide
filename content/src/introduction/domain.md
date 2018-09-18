@@ -10,10 +10,11 @@ Domains are delegated to people (e.g. to a unit, department, team or individuals
 
 ### Delegating Domains
 
-Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
+Those delegating a domain (the _delegators_) still retain overall accountability for that domain, allocate **resources** and often define:
 
--   **key responsibilities** (any essential work and decision making being delegated)
--   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
+-   the **organizational need** the domain is designed to respond to
+-   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
+-   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
 ### Drivers and Domains
 
