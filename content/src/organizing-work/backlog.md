@@ -2,7 +2,7 @@
 
 {{define:backlog}}
 
-Consider making backlogs visible, not only to other members of a group, but also to the wider organization.
+Consider making backlogs visible, not only to other members of a team, but also to the wider organization.
 
 Types of backlog include:
 

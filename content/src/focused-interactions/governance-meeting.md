@@ -1,6 +1,6 @@
 ## Governance Meeting
 
-**Groups meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
+**Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
 
 A governance meeting is usually:
 

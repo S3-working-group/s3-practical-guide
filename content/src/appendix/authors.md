@@ -21,7 +21,7 @@
 
 ### Liliana David
 
-... serves internationally, providing training, facilitation and mentoring to groups and organizations wishing to develop greater effectiveness and equivalence in collaboration.
+... serves internationally, providing training, facilitation and mentoring to teams and organizations wishing to develop greater effectiveness and equivalence in collaboration.
 
 [thriveincollaboration.com](http://thriveincollaboration.com)
 

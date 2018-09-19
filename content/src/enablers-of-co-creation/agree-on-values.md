@@ -6,7 +6,7 @@
 {{define:values}}
 
 -   each member brings their own values to an organization based on personal experiences and beliefs
--   a group or organization may **choose to collectively adopt values** to guide their collaboration
+-   a team or organization may **choose to collectively adopt values** to guide their collaboration
 
 Values offer guidance to determine appropriate action, even in the absence of explicit agreements.
 

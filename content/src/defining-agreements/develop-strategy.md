@@ -2,7 +2,7 @@
 
 {{define:strategy}}
 
-It is usually more effective if a group or role keeper lead in developing their own strategy.
+It is usually more effective if a team or role keeper lead in developing their own strategy.
 
 A strategy often includes a description of the intended outcome.
 

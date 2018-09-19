@@ -5,7 +5,7 @@
 A governance facilitator:
 
 -   ensures governance meetings stay on track and are evaluated
--   is (usually) selected by a group from among it members (and for a specific term)
+-   is (usually) selected by a team from among it members (and for a specific term)
 -   familiarizes themselves with the [Governance Backlog](section:governance-backlog)
 -   often invites others to facilitate some agenda items
 
@@ -19,4 +19,4 @@ As a governance facilitator, consider learning about and using the following pat
 -   [Resolve Objections](section:resolve-objections)
 -   [Peer Review](section:peer-review)
 
-![The governance facilitator is typically a member of the group](img/circle/facilitator.png)
+![The governance facilitator is typically a member of the team](img/circle/facilitator.png)

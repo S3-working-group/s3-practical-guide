@@ -7,7 +7,7 @@ Proposals become agreements when they are considered _good enough for now and sa
 
 Unresolved objections prevent proposals from becoming agreements.
 
-Withholding objections can harm the objectives of a group or organization.
+Withholding objections can harm the objectives of a team or organization.
 
 ### Implicit Contract of Consent
 

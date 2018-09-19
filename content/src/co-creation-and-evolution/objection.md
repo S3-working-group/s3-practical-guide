@@ -6,7 +6,7 @@ Objections contain information that reveals **certain or likely consequence of h
 
 It's the accountability of individuals to raise potential objections. 
 
-Withholding objections can harm the ability of individuals, groups or
+Withholding objections can harm the ability of individuals, teams or
 the whole organization to respond to organizational drivers.
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.

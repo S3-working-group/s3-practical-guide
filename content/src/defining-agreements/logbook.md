@@ -14,7 +14,7 @@ Content relating to the whole organization:
 -   organizational structure (domains and the connections between them)
 -   agreements 
 
-Content relating to a specific group or role: 
+Content relating to a specific team or role: 
 
 -   the domain description and strategy
 -   agreements (including delegatees' domain descriptions, strategies and development plans)
