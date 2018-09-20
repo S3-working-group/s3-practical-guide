@@ -1,6 +1,6 @@
 ## Describe Deliverables
 
-**Clearly describe any deliverables in the context of an agreement between two or more parties to support shared understanding of expectations.**
+**Clearly describe any deliverables related to an agreement to support shared understanding of expectations.**
 
 {{define:deliverable}}
 
