@@ -2,7 +2,7 @@
 
 {{define:objection}}
 
-Objections contain information that reveals **certain or likely consequence of harm** and/or **opportunities to immediately improve** proposals, decisions, existing agreements or actions. 
+Objections to proposals, decisions, existing agreements or actions, contain information about **certain or likely consequence of harm**, or about **other viable ways to improve**.
 
 It's the accountability of individuals to raise potential objections. 
 
