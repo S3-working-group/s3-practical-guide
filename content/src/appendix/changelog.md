@@ -1,14 +1,34 @@
 ## Changelog
 
-- _Resolve Objections_: added description
-- removed **driver statement** from text and glossary
-- _Agreement_: be clear about expectations
-- _Describe Deliverables_: ...
-- _Describe Organizational Drivers_: more information on summarizing drivers
+
+### Changes 2018-09-xx
+
+**General Changes**
+
+- updated section about governance in the introduction
 - added captions to all illustrations
-- removed slide deck version and improved ebook formats
-- Added **team** to glossary and replaced group with team where applicable
-- updated section about governance, updated glossary terms for governance, operations, self-organization
+- renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
+- removed slide deck version and improved pdf and ePub version
+
+**Glossary:**
+
+-   added [team](glossary:team) to glossary (and replaced group with team throughout the practical guide where applicable)
+-   updated definition for [deliverable](glossary:deliverable)
+-   removed **driver statement** from text and glossary
+-   updated definitions for [governance](glossary:governance), [operations](glossary:operations), and [self-organization](glossary:self-organization)
+
+**Illustrations:**
+
+- updated templates for domain description and role description
+- updated illustrations for [Linking](section:linking) and [Double-Linking](section:double-linking)
+
+
+**Changes to Patterns:**
+
+- [Agreement](section:agreement): description now mentions that any expectations should be recorded
+- [Describe Deliverables](section:describe-deliverables): updated summary
+- [Describe Organizational Drivers](section:oescribe-organizational-drivers): more information on summarizing drivers
+- [Resolve Objections](section:resolve-objections): added summary and description
 
 
 ### Changes 2018-08-17
