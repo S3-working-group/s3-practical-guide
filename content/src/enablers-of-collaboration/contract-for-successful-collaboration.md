@@ -10,7 +10,7 @@ While negotiating and agreeing on a contract, model the culture of collaboration
 
 This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations. e.g.: 
 
-- employment contracts and contracts with external contractors or consultants in support roles (including any agreement that results in a change of remuneration or working hours)
+- employment contracts and contracts with external contractors or consultants in [support roles](section:support-role) (including any agreement that results in a change of remuneration or working hours)
 - contracts governing collaboration with customers, vendors or service providers
 - shareholder agreements
 
@@ -40,7 +40,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 
 ### When Co-Creating A Contract:
 
-- ensure all parties have a delegation that includes representation for all affected domains (e.g. not only sales, but also development / production / support, etc)
+- ensure all parties have a delegation that includes representation for all affected [domains](glossary:domain) (e.g. not only sales, but also development / production / support, etc)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
 - state the reasons for the proposed collaboration, and transparent about expectations and needs of all parties
 - disclose all relevant information (if necessary under an NDA)

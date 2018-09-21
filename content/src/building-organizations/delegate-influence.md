@@ -4,7 +4,7 @@
 
 A [delegator](glossary:delegator) can support [delegatees](glossary:delegatee) to deliver value by:
 
--   Clearly defining domains of autonomy and accountability
+-   Clearly defining [domains](glossary:domain) of autonomy and accountability
 -   Ensuring there are opportunities for learning and development
 -   Providing support if required
 

@@ -2,10 +2,10 @@
 
 **Select someone to facilitate governance meetings.**
 
-A governance facilitator:
+A [governance](section:governance) facilitator:
 
--   ensures governance meetings stay on track and are evaluated
--   is (usually) selected by a team from among it members (and for a specific term)
+-   ensures [governance meetings](section:governance-meeting) stay on track and are evaluated
+-   is (usually) selected by a [team](glossary:team) from among it members (and for a specific term)
 -   familiarizes themselves with the [Governance Backlog](section:governance-backlog)
 -   often invites others to facilitate some agenda items
 

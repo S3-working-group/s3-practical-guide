@@ -4,7 +4,7 @@
 
 _"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_
 
-Participating artfully may include interrupting, objecting or breaking  agreements.
+Participating artfully may include interrupting, objecting or breaking  [agreements](glossary:agreement).
 
 _Artful Participation_ is an **individual commitment** to:
 

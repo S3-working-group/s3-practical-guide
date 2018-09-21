@@ -4,7 +4,7 @@
 
 There are many ways to co-create proposals. They typically follow a similar pattern:
 
-1. Agree on the driver (or problem / opportunity / need)
+1. Agree on the [driver](glossary:organizational-driver) (or problem / opportunity / need)
 2. Explore the topic and understand constraints
 3. Generate ideas
 4. Design a proposal (often done by a smaller group)

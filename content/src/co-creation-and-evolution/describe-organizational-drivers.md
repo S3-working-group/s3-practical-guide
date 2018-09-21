@@ -2,7 +2,7 @@
 
 **Describe organizational drivers to understand, communicate and remember them.**
 
-Describing drivers may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
+Describing [drivers](glossary:organizational-driver) may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
 A simple way to describe a driver by explaining:
 
@@ -44,9 +44,9 @@ Explain the effect of this situation on the organization:
 
 > _“We need the kitchen in a usable state...”_
 
-Explain the need of the organization in relation to this situation:
+Explain the [need](glossary:need) of the organization in relation to this situation:
 
-- A **need of an organization** is anything a team (or individual) requires to effectively account for a domain. 
+- A **need of an organization** is anything a team (or individual) requires to effectively account for a [domain](glossary:domain). 
 - Be specific on whose need it is (“we need”, “they need”, “I need”).
 - If there’s disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
 
@@ -56,7 +56,7 @@ Explain the need of the organization in relation to this situation:
 
 Describe the impact of attending to that need:
 
-- Explain the intended outcome, potential benefits or opportunities.
+- Explain the [intended outcome](glossary:intended-outcome), potential benefits or opportunities.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
 
 ### Summarize the Driver

@@ -6,6 +6,6 @@ Consider:
     
 -   consent and equivalence in decision making
 -   selection process for leadership roles
--   organizational structure, values and principles
+-   organizational structure, [values](glossary:values) and [principles](glossary:principle)
 -   influence of owners or shareholders
 -   sharing gains and costs
