@@ -2,9 +2,9 @@
 
 **In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.**
 
-**Flow of value**: Deliverables traveling through an organization towards customers or other stakeholders.
+**Flow of value**: {{glossary:flow-of-value}}
 
-Achieve and maintain alignment of flow through the continuous evolution of an organization's body of agreements:
+Achieve and maintain alignment of flow through the continuous evolution of an organization's body of [agreements](glossary:agreement):
 
 -   ensure all decisions affecting the flow of value actually support the flow of value
 -   enable people with relevant skills and knowledge to influence decisions

@@ -4,7 +4,7 @@
 
 Work in progress includes:
 
--   the number of items in a backlog
+-   the number of items in a [backlog](glossary:backlog)
 -   concurrent projects or tasks for teams or individuals
 -   products in a portfolio
 

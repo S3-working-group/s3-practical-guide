@@ -9,6 +9,6 @@ Teams in the periphery:
 
 The center provides internal services to support the organization.
 
-Domains are linked as required to flow information and influence, and to support collaboration around dependencies.
+[Domains](glossary:domain) are linked as required to flow information and influence, and to support collaboration around dependencies.
 
 ![Peach Organization](img/structural-patterns/peach-organization.png)

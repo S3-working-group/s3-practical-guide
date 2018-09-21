@@ -4,4 +4,4 @@
 
 No two items can be of equal importance, meaning it is necessary to agree on priorities and make tough choices.
 
-A prioritized backlog helps to **maintain focus** on the most important items.
+A prioritized [backlog](glossary:backlog) helps to **maintain focus** on the most important items.

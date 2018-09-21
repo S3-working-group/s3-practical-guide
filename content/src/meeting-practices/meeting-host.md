@@ -2,7 +2,7 @@
 
 **Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
 
-A person may take on the role of Meeting Host for a specific event or for several events over a period of time.
+A person may take on the role of meeting host for a specific event or for several events over a period of time.
 
 ### Responsibilities Of A Meeting Host
 
@@ -17,3 +17,5 @@ Preparation:
 -   ensure selection of a facilitator and a notetaker to record minutes, if appropriate
 
 **After the meeting**: clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
+
+**See also:** [Facilitate Meetings](section:facilitate-meetings), [Prepare Meetings](section:prepare-meetings)

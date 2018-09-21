@@ -6,9 +6,9 @@ Consider making backlogs visible, not only to other members of a team, but also 
 
 Types of backlog include:
 
--   governance backlog
--   operations backlog
--   sprint backlog
+-   [governance](glossary:governance) backlog
+-   [operations](glossary:operations) backlog
+-   [sprint](section:planning-and-review-meetings) backlog
 -   product backlog
 -   impediments backlog
 
@@ -19,7 +19,7 @@ Types of backlog include:
 
 Each item on a (prioritized) backlog typically contains:
 
--   a **short description** of a deliverable or a driver
+-   a **short description** of a [deliverable](glossary:deliverable) or a [driver](glossary:organizational-driver)
 -   a **unique reference number** (or link) for each work item
 -   (the **order of work items**)
 -   **dependencies** to other work items or projects
