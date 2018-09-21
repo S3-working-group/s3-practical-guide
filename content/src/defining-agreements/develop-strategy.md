@@ -4,7 +4,7 @@
 
 It is usually more effective if a team or role keeper lead in developing their own strategy.
 
-A strategy often includes a description of the intended outcome.
+A strategy often includes a description of the intended outcome of implementing that strategy.
 
 As the delegator shares accountability for domains they delegate, it's valuable they review a delegatee's strategy, to check for potential impediments and suggest ways it could be improved.
 
