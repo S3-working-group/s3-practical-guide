@@ -218,6 +218,10 @@ terms:
     name: Tension
     definition:
     glossary: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
+  timebox:
+    name: Timebox
+    definition: A **timebox** is a fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).
+    glossary: A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).
   transparency:
     name: Transparency (principle)
     definition:
