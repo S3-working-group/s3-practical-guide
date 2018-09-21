@@ -1,22 +1,17 @@
-## Governance, Semi-Autonomy and  Self-Organization
+### Governance and Operations
 
-**Governance**: {{glossary:governance}}
+Activity in an organization typically falls in one of two categories: 
+
+{{define:governance}}
+
+{{define:operations}}
+
+### Related Concepts
 
 **Self-Governance**: {{glossary:self-governance}}
 
-**Self-Organization**: {{glossary:self-organization}}
-
-**Operations** (Doing the Work): {{glossary:operations}}
-
 **Semi-Autonomy**: {{glossary:semi-autonomy}}
 
-### Governance or Operations?
+**Self-Organization**: {{glossary:self-organization}}
 
-_Does it require or benefit from an individual or group decision?_
-
--   yes: governance
-    -   it's not covered by a previous agreement
-    -   it needs to be agreed, decided or amended
--   no: operations
-    -   it's covered by previous agreement (those accountable are free to act)
-    -   it needs to be done
+Depending on the constraints set by the delegator, teams have more or less licence to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing.
