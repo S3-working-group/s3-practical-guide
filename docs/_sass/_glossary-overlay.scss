@@ -1,9 +1,9 @@
 /* Styling dfn tag to highlight the word with the tooltip */
 dfn {
   border-bottom: dashed 1px rgba(0,0,0,0.5);
-  padding: 0 0.4em;
+  /*padding: 0 0.4em;*/
   cursor: help;
-  font-style: normal;
+  /*font-style: normal;*/
   position: relative;
   
 }
@@ -13,15 +13,16 @@ dfn::after {
   position: absolute;
   top: 22px; left: 0;
   opacity: 0;
-  width: 230px;
-  font-size: 13px;
-  font-weight: 700;
+  width: 300px;
+  font-size: 16px;
+  font-weight: 300;
   line-height: 1.5em;
   padding: 0.5em 0.8em;
   background: rgba(0,0,0,0.5);
   color: #fff;
   pointer-events: none; /* This prevents the box from apearing when hovered. */
   transition: opacity 250ms, top 250ms;
+  border-radius: 15px;
 }
 dfn::before {
   content: '';
