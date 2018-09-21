@@ -1,6 +1,6 @@
 ## Breaking Agreements
 
-Breaking [agreements](glossary:agreements) is sometimes **necessary** but may come at a **cost** to the community.
+Breaking [agreements](glossary:agreement) is sometimes **necessary** but may come at a **cost** to the community.
 
 Be accountable:
 

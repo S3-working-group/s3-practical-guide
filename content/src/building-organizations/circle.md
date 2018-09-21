@@ -5,7 +5,7 @@
 A circle:
 
 -   may be permanent or temporary
--   may be [self-organizing](glossary:self-organiziation)
+-   may be [self-organizing](glossary:self-organization)
 -   is accountable for its own development and its body of [agreements](glossary:agreement)
 
 -   **semi-autonomous**:

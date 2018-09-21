@@ -11,7 +11,7 @@ Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.or
 Content relating to the whole organization: 
 
 -   [primary driver](glossary:primary-driver), [strategy](glossary:strategy) and organizational [values](glossary:values)
--   organizational structure ([domains](glossary:domains) and the connections between them)
+-   organizational structure ([domains](glossary:domain) and the connections between them)
 -   [agreements](glossary:agreement) 
 
 Content relating to a specific team or [role](glossary:role): 

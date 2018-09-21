@@ -9,6 +9,7 @@
 - added captions to all illustrations
 - renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
 - removed slide deck version and improved pdf and ePub version
+- added glossary links to many patterns
 
 **Glossary:**
 
