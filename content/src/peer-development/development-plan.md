@@ -6,6 +6,6 @@ The development plan may be created for a person in a role, or for a team (e.g. 
 
 Development may happen in the form of refining the description of the driver and the domain, making amendments to strategy, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
 
-A development plan (and any accompanying recommendations for changes to the domain description and driver statement) requires consent from both the delegatee and the delegator.
+A development plan (and any accompanying recommendations for changes to the  descriptions of the domain and the driver) requires consent from both the delegatee and the delegator.
 
 ![A template for development plans](img/templates/development-plan-template.png)
