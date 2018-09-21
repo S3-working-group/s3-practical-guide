@@ -1,5 +1,16 @@
 ## Changelog
 
+- _Resolve Objections_: added description
+- removed **driver statement** from text and glossary
+- _Agreement_: be clear about expectations
+- _Describe Deliverables_: ...
+- _Describe Organizational Drivers_: more information on summarizing drivers
+- added captions to all illustrations
+- removed slide deck version and improved ebook formats
+- Added **team** to glossary and replaced group with team where applicable
+- updated section about governance, updated glossary terms for governance, operations, self-organization
+
+
 ### Changes 2018-08-17
 
 **General Changes**
@@ -30,9 +41,11 @@
 - [Align Flow](section:align-flow): improved description and illustration
 - [Adapt Patterns To Context](section:adapt-patterns-to-context): improved description
 - [Agreement](section:agreement): improved description, updated template
+- [Artful Participation](section:artful-participation): improved summary
 - [Clarify Intended Outcome](section:clarify-intended-outcome) (renamed from _Intended Outcome_): improved description
 - [Consent Decision Making](section:consent-decision-making): improved description, updated illustration
 - [Continuous Improvement Of Work Process](section:continuous-improvement-of-work-process): improved description
+- [Contract For Successful Collaboration](section:contract-for-successful-collaboration): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 - [Coordination Meeting](section:coordination-meeting): clarified agenda items, updated illustration
 - [Delegate Circle](section:delegate-circle): improved description
 - [Delegate Influence](section:delegate-influence): improved description
@@ -69,6 +82,7 @@
 - _Evaluate Agreements_ to _Evaluate and Evolve Agreements_
 - _Intended Outcome_ to _Clarify Intended Outcome_ 
 - _Open S3 Adoption_ to _Open Space for Change_
+- _Contracting and Accountability_ to _Contract For Successful Collaboration_
 
 **Added Patterns:**
 
