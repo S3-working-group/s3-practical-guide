@@ -159,7 +159,7 @@ _**Operations** is doing the work and organizing day to day activities within th
 
 **Self-Governance**: People governing themselves within the constraints of a domain.
 
-**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and <dfn data-info="Objection: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).">objections</dfn> (including those of the delegator and of representatives)
+**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
 
 **Self-Organization**: Any activity or process through which people organize through local interactions without the influence of an external agent. In any organization or team, self-organization and external influence co-exist.
 

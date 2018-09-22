@@ -92,7 +92,7 @@ title: Glossary
 
 **Self-Organization**: Any activity or process through which people organize through local interactions without the influence of an external agent. In any organization or team, self-organization and external influence co-exist.
 
-**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and [objections](glossary:objection) (including those of the delegator and of representatives)
+**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
 
 **Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
 
