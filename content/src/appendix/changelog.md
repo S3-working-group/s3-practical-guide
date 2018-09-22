@@ -1,7 +1,6 @@
 ## Changelog
 
-
-### Changes 2018-09-xx
+### Changes 2018-09-22
 
 **General Changes**
 
