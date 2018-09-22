@@ -5,11 +5,13 @@ title: "Agreement"
 
 _An **agreement** is an agreed upon guideline, process or protocol designed to guide the flow of value._
 
--   agreements are created in response to organizational drivers 
--   **overall accountability** for an agreement lies with the people that make them
--   an agreement can include **delegation of specific responsibilities** to individuals or groups
--   agreements are **regularly reviewed**, and evolved as necessary
--   record those agreements you might want to reference later
+Agreements are created in response to <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">organizational drivers</dfn>, are **regularly reviewed**, and evolved as necessary.
+
+**Overall accountability** for an agreement lies with the people that make them.
+
+An agreement can include **delegation of specific responsibilities** to individuals or groups.
+   
+Record any **expectations** related to <dfn data-info="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverables</dfn>, behavior or resources in the context of the agreement.
 
 **Note**: In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.  
 

@@ -4,17 +4,17 @@ title: "Peer Review"
 
 
 
-**Support each other to learn and grow in the roles and groups you serve in.**
+**Support each other to learn and grow in the roles and teams you serve in.**
 
-The role keeper — or group — leads the peer review by setting up the process and speaking first in each step.
+The role keeper — or team — leads the peer review by setting up the process and speaking first in each step.
 
 ![Peer review process](img/process/peer-review.png)
 
-Ensure to invite people with complementing perspectives to contribute to the review, and a facilitator.
+Ensure to invite people with complementing perspectives to contribute to the review, and a [facilitator](facilitate-meetings.html).
 
-Improvement suggestions may relate to personal development, collaboration, updates to the domain description (including the driver statement) and strategy.
+Improvement suggestions may relate to personal development, collaboration, updates to the <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn> description (including the <dfn data-info="Strategy: A high level approach for how people will create value to successfully account for a domain.">driver](organziational-driver.html)) and [strategy</dfn>.
 
-![Continuous improvement of people's ability to effectively keep roles or collaborate together in groups](img/evolution/development-process.png)
+![Continuous improvement of people's ability to effectively keep roles or collaborate in teams](img/evolution/development-process.png)
 
 
 

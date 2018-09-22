@@ -5,7 +5,7 @@ title: "Meeting Host (Role)"
 
 **Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
 
-A person may take on the role of Meeting Host for a specific event or for several events over a period of time.
+A person may take on the role of meeting host for a specific event or for several events over a period of time.
 
 ### Responsibilities Of A Meeting Host
 
@@ -21,6 +21,7 @@ Preparation:
 
 **After the meeting**: clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
 
+**See also:** [Facilitate Meetings](facilitate-meetings.html), [Prepare Meetings](prepare-meetings.html)
 
 [&#9654; Governance Backlog](governance-backlog.html)<br/>[&#9664; Evaluate Meetings](evaluate-meetings.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
 

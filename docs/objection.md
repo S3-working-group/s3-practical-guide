@@ -5,12 +5,12 @@ title: "Objection"
 
 _An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement)._
 
-Objections contain information that reveals **certain or likely consequence of harm** and/or **opportunities to immediately improve** proposals, decisions, existing agreements or actions. 
+Objections to proposals, decisions, existing <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn> or actions, contain information about **certain or likely consequence of harm**, or about **other viable ways to improve**.
 
 It's the accountability of individuals to raise potential objections. 
 
-Withholding objections can harm the ability of individuals, groups or
-the whole organization to respond to organizational drivers.
+Withholding objections can harm the ability of individuals, teams or
+the whole organization to respond to <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">organizational drivers</dfn>.
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
 
@@ -18,9 +18,9 @@ Those accountable for the action or (proposed) agreement in question, are respon
 
 When seeking out potential objections, consider:
 
-- why the intended outcome would not be (fully) achieved: **effectiveness**
+- why the <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn> would not be (fully) achieved: **effectiveness**
 - why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
-- the negative consequences something would have elsewhere (in the same domain, in the wider organization, or beyond): **side-effects**
+- the negative consequences something would have elsewhere (in the same <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>, in the wider organization, or beyond): **side-effects**
 
 The information revealed by objections can be used to improve:
 

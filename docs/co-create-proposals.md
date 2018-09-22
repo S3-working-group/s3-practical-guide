@@ -7,7 +7,7 @@ title: "Co-Create Proposal"
 
 There are many ways to co-create proposals. They typically follow a similar pattern:
 
-1. Agree on the driver (or problem / opportunity / need)
+1. Agree on the <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">driver</dfn> (or problem / opportunity / need)
 2. Explore the topic and understand constraints
 3. Generate ideas
 4. Design a proposal (often done by a smaller group)

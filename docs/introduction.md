@@ -44,11 +44,12 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 
 Before diving into the content, consider taking time to learn about some basic concepts behind S3: 
 
-- what is a pattern?
-- the seven principles
-- drivers, value and waste
-- domains, delegation and accountability
-- governance, self-organization and semi-autonomy
+-   What is a pattern?
+-   The Seven Principles
+-   Making Sense of Organizations:
+    -   Drivers, Value and Waste
+    -   Domains, Delegation and Accountability
+    -   Governance and Operations
 
 For any terms you don't understand check out the glossary at the end.
 
@@ -86,7 +87,7 @@ All Patterns are based on The Seven Principles:
 
 *Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
 
-Act within the constraints of any agreements governing domains you are accountable for, including the organization itself, groups you are part of, and roles you keep.
+Act within the constraints of any agreements governing domains you are accountable for, including the organization itself, teams you are part of, and roles you keep.
 
 Everyone's primary accountability is for effective collaboration in response to organizational drivers.
 
@@ -94,7 +95,9 @@ Individuals are also accountable for their work, ongoing learning and developmen
 
 Everyone in an organization is accountable for aligning action with organizational values.
  
-## Drivers
+## Making Sense of Organizations
+
+### Drivers
 
 _A **driver** is a person’s or a group's motive for responding to a specific situation._
 
@@ -115,7 +118,7 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 -   various strategies for eliminating waste
 -   the Kanban Method
 
-## Domains
+### Domains
 
 _A **domain** is a distinct area of influence, activity and decision making within an organization._
 
@@ -127,10 +130,11 @@ Domains are delegated to people (e.g. to a unit, department, team or individuals
 
 ### Delegating Domains
 
-Those delegating a domain (the _delegators_) still retain overall accountability for that domain, and often define:
+Those delegating a domain (the _delegators_) still retain overall accountability for that domain, allocate **resources** and often define:
 
--   **key responsibilities** (any essential work and decision making being delegated)
--   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (e.g. budget, resources, level of delegation, reporting)
+-   the **organizational need** the domain is designed to respond to
+-   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
+-   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
 ### Drivers and Domains
 
@@ -143,28 +147,23 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 ![Drivers and domains](img/driver-domain/drivers-and-domains.png)
 
-## Governance, Semi-Autonomy and  Self-Organization
+### Governance and Operations
 
-**Governance**: Making and evolving decisions about what to do to achieve objectives, and setting constraints on how and when things will be done.
+Activity in an organization typically falls in one of two categories: 
+
+_**Governance** in an organization is the act of setting objectives, and then navigating and steering to achieve them. People with authority intentionally make and evolve decisions which have an ongoing effect on the way an organization (or a team or individual within it) creates value. These decisions set constraints on actions, guide future decisions, allocate resources and determine specifics of deliverables._
+
+_**Operations** is doing the work and organizing day to day activities within the constraints defined through governance._
+
+### Related Concepts
 
 **Self-Governance**: People governing themselves within the constraints of a domain.
 
-**Self-Organization**: People organizing work within constraints defined through governance.
+**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and <dfn data-info="Objection: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).">objections</dfn> (including those of the delegator and of representatives)
 
-**Operations** (Doing the Work): The work being done to create and deliver value, guided by governance.
+**Self-Organization**: Any activity or process through which people organize through local interactions without the influence of an external agent. In any organization or team, self-organization and external influence co-exist.
 
-**Semi-Autonomy**: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
-
-### Governance or Operations?
-
-_Does it require or benefit from an individual or group decision?_
-
--   yes: governance
-    -   it's not covered by a previous agreement
-    -   it needs to be agreed, decided or amended
--   no: operations
-    -   it's covered by previous agreement (those accountable are free to act)
-    -   it needs to be done
+Depending on the constraints set by the delegator, teams have more or less license to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing.
 
 
 

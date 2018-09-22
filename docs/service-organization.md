@@ -7,7 +7,7 @@ title: "Service Organization"
 
 -   improves potential for equivalence between various entities
 -   increases cross-departmental/organizational alignment
--   supports multi-agency collaboration between departments/organizations with different primary motives, or that are in conflict
+-   supports multi-agency collaboration between departments or organizations with different primary motives, or that are in conflict
 -   suitable for one-off projects, or ongoing collaboration
 
 **Note:** a service organization is sometimes referred to as a **backbone organization**.

@@ -9,10 +9,10 @@ Consider:
     
 -   consent and equivalence in decision making
 -   selection process for leadership roles
--   organizational structure, values and principles
+-   organizational structure, <dfn data-info="Values: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.">values</dfn> and <dfn data-info="Principle: A basic idea or rule that guides behavior, or explains or controls how something happens or works.">principles</dfn>
 -   influence of owners or shareholders
 -   sharing gains and costs
 
 
-[&#9654; Building Organizations](building-organizations.html)<br/>[&#9664; Support Role](support-role.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
+[&#9654; Building Organizations](building-organizations.html)<br/>[&#9664; Support Role](support-role.html)<br/>[&#9650; Enablers Of Collaboration](enablers-of-collaboration.html)
 

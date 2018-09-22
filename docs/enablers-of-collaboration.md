@@ -1,5 +1,5 @@
 ---
-title: "Enablers Of Co-Creation"
+title: "Enablers Of Collaboration"
 ---
 
 - [Artful Participation](artful-participation.html)

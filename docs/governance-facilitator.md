@@ -5,10 +5,10 @@ title: "Governance Facilitator (Role)"
 
 **Select someone to facilitate governance meetings.**
 
-A governance facilitator:
+A [governance](governance.html) facilitator:
 
--   ensures governance meetings stay on track and are evaluated
--   is (usually) selected by a group from among it members (and for a specific term)
+-   ensures [governance meetings](governance-meeting.html) stay on track and are evaluated
+-   is (usually) selected by a <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective).">team</dfn> from among it members (and for a specific term)
 -   familiarizes themselves with the [Governance Backlog](governance-backlog.html)
 -   often invites others to facilitate some agenda items
 
@@ -22,8 +22,8 @@ As a governance facilitator, consider learning about and using the following pat
 -   [Resolve Objections](resolve-objections.html)
 -   [Peer Review](peer-review.html)
 
-![The governance facilitator is typically a member of the group](img/circle/facilitator.png)
+![The governance facilitator is typically a member of the team](img/circle/facilitator.png)
 
 
-[&#9654; Breaking Agreements](breaking-agreements.html)<br/>[&#9664; Agree On Values](agree-on-values.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
+[&#9654; Breaking Agreements](breaking-agreements.html)<br/>[&#9664; Agree On Values](agree-on-values.html)<br/>[&#9650; Enablers Of Collaboration](enablers-of-collaboration.html)
 

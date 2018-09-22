@@ -14,7 +14,7 @@ For further information about Sociocracy 3.0 and more free resources check out <
 
 - [Co-Creation And Evolution](co-creation-and-evolution.html)
 - [Peer Development](peer-development.html)
-- [Enablers Of Co-Creation](enablers-of-co-creation.html)
+- [Enablers Of Collaboration](enablers-of-collaboration.html)
 - [Building Organizations](building-organizations.html)
 - [Bringing In S3](bringing-in-s3.html)
 - [Defining Agreements](defining-agreements.html)

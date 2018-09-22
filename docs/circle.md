@@ -3,21 +3,21 @@ title: "Circle"
 ---
 
 
-_A **circle** is a self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain._
+_A **circle** is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain._
 
 A circle:
 
 -   may be permanent or temporary
--   may be self-organizing
--   is accountable for its own development and its body of agreements
+-   may be <dfn data-info="Self-Organization: Any activity or process through which people organize through local interactions without the influence of an external agent. In any organization or team, self-organization and external influence co-exist.">self-organizing</dfn>
+-   is accountable for its own development and its body of <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn>
 
 -   **semi-autonomous**:
-    -   A circle's members act within the constraints of their domain .
-    -   Each circle can create value autonomously.
+    -   A circle's members act within the constraints of their <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>.
+    -   Each circle can create <dfn data-info="Value: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").">value</dfn> autonomously.
 -   **self-governing**:
-    -   A circle's members ongoingly continuously decides together what to do to account for their domain, and set constraints on how and when things will be done.
+    -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
 -  **equivalence of circle members**
-    -   All members of a circle are equally accountable for governance of the circle's domain.
+    -   All members of a circle are equally accountable for <dfn data-info="Governance: The act of setting objectives, and then navigating and steering to achieve them. People with authority intentionally make and evolve decisions which have an ongoing effect on the way an organization (or a team or individual within it) creates value. These decisions set constraints on actions, guide future decisions, allocate resources and determine specifics of deliverables.">governance</dfn> of the circle's domain.
 
 ![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)  
 

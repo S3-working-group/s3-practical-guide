@@ -13,15 +13,15 @@ Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.or
 
 Content relating to the whole organization: 
 
--   primary driver, strategy and organizational values
--   organizational structure (domains and the connections between them)
--   agreements 
+-   <dfn data-info="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</dfn>, <dfn data-info="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</dfn> and organizational <dfn data-info="Values: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.">values</dfn>
+-   organizational structure (<dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> and the connections between them)
+-   <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn> 
 
-Content relating to a specific group or role: 
+Content relating to a specific team or <dfn data-info="Role: A domain that is delegated to an individual.">role</dfn>: 
 
 -   the domain description and strategy
--   agreements (including delegatees' domain descriptions, strategies and development plans)
--   backlogs and other information relating to work and governance
+-   agreements (including <dfn data-info="Delegatee: An individual or group accepting accountability for a domain delegated to them.">delegatees'</dfn> domain descriptions, strategies and [development plans](development-plan.html))
+-   <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.">backlogs</dfn> and other information relating to work and <dfn data-info="Governance: The act of setting objectives, and then navigating and steering to achieve them. People with authority intentionally make and evolve decisions which have an ongoing effect on the way an organization (or a team or individual within it) creates value. These decisions set constraints on actions, guide future decisions, allocate resources and determine specifics of deliverables.">governance</dfn>
 
 
 

@@ -13,7 +13,7 @@ While negotiating and agreeing on a contract, model the culture of collaboration
 
 This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations. e.g.: 
 
-- employment contracts and contracts with external contractors or consultants in support roles (including any agreement that results in a change of remuneration or working hours)
+- employment contracts and contracts with external contractors or consultants in [support roles](support-role.html) (including any agreement that results in a change of remuneration or working hours)
 - contracts governing collaboration with customers, vendors or service providers
 - shareholder agreements
 
@@ -43,7 +43,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 
 ### When Co-Creating A Contract:
 
-- ensure all parties have a delegation that includes representation for all affected domains (e.g. not only sales, but also development / production / support, etc)
+- ensure all parties have a delegation that includes representation for all affected <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> (e.g. not only sales, but also development / production / support, etc)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
 - state the reasons for the proposed collaboration, and transparent about expectations and needs of all parties
 - disclose all relevant information (if necessary under an NDA)
@@ -75,5 +75,5 @@ if you find that standard contracts in your industry are misaligned  with the cu
 
 
 
-[&#9654; Transparent Salary](transparent-salary.html)<br/>[&#9664; Breaking Agreements](breaking-agreements.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
+[&#9654; Transparent Salary](transparent-salary.html)<br/>[&#9664; Breaking Agreements](breaking-agreements.html)<br/>[&#9650; Enablers Of Collaboration](enablers-of-collaboration.html)
 

@@ -14,7 +14,7 @@ _Proposal Forming_ may also be used by an individual.
 
 ### Proposal Forming Steps
 
-**Consent to driver**: _Is this driver relevant for us to respond to? Is the driver statement an accurate description of what is happening and what is needed?_
+**Consent to driver**: Briefly present the <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">driver</dfn>. _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_ 
 
 **Deepen shared understanding of driver**: invite essential questions to understand the driver in more detail.
 
