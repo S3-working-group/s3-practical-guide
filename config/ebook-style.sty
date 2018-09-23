@@ -1,13 +1,37 @@
 \ProvidesPackage{ebook-style}
 
-\usepackage{babel}
+\usepackage[american]{babel}
 \usepackage[T1]{fontenc} % Silbentrennung bei Sonderzeichen
 \usepackage[utf8]{inputenc} % direkte Angabe von Umlauten im Dokument 
 
 %\usepackage{showframe} % display box borders for debugging
 
 % for /autoref
-\usepackage{hyperref}
+\usepackage{hyperref,xcolor}
+% remove ugly borders around clickable links (make links darker instead)
+\hypersetup{
+    colorlinks,
+    linkcolor={red!40!black},
+    citecolor={blue!30!black},
+    urlcolor={blue!50!black}
+}
+
+% set font 
+\usepackage{fontspec}
+
+\setsansfont[Ligatures=TeX]{OpenSans-Light}
+
+%\setsansfont[Ligatures=TeX]{Jost-Thin}
+%\setmainfont[
+%	Ligatures=TeX,
+%	BoldFont={Jost-Book}, 
+%	ItalicFont={Jost-LightItalic},
+%	BoldItalicFont={Jost-BookItalic}
+% ]{Jost-Light}
+% also turn off justification with looks not so nice Jost*
+%\usepackage[document]{ragged2e}
+
+
 % for graphics
 \usepackage{graphicx}
 
