@@ -1,4 +1,4 @@
-## Meeting Host (Role)
+## Meeting Host
 
 **Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
 

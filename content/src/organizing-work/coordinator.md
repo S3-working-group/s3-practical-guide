@@ -1,4 +1,4 @@
-## Coordinator (Role)
+## Coordinator
 
 A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
 

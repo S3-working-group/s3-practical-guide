@@ -1,4 +1,4 @@
-## Governance Facilitator (Role)
+## Governance Facilitator
 
 **Select someone to facilitate governance meetings.**
 

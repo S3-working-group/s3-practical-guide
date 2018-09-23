@@ -1,4 +1,4 @@
-## Representative (role)
+## Representative
 
 **Select a team member to participate in the governance decision making of another team to enable the flow of information and influence.**
 

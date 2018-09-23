@@ -1,4 +1,4 @@
-## Continuous Improvement Of Work Process With S3
+## Continuous Improvement Of Work Process
 
 **Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.**
 
