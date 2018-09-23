@@ -92,7 +92,7 @@ ebook:
 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	cd $(TMPFOLDER)/ebook; latexmk -pdf -xelatex -silent ebook.tex 
-	cd $(TMPFOLDER)/ebook; mv ebook.pdf ../../$(TARGETFILE)-ebook.pdf
+	cd $(TMPFOLDER)/ebook; mv ebook.pdf ../../$(TARGETFILE).pdf
 	
 	# clean up
 	cd $(TMPFOLDER)/ebook; latexmk -C
