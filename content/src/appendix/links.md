@@ -2,10 +2,11 @@
 
 **Latest version of the Practical Guide**:
 
-- online version [http://patterns.sociocracy30.org](http://patterns.sociocracy30.org) (with a searchable [pattern index](http://patterns.sociocracy30.org/pattern-index.html))
-- Various other formats and languages: [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
+The [online version](http://patterns.sociocracy30.org) can be [annotated via hypothes.is](https://via.hypothes.is/http://patterns.sociocracy30.org/) and comes with an aplhabetical and a pattern map for easy navigation.
 
-**More S3 Resources**: [http://sociocracy30.org/resources/](http://sociocracy30.org/resources)
+Various other formats and languages of the practical guide can be found at [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
+
+**More S3 Resources**: [http://sociocracy30.org/resources/](http://sociocracy30.org/resources/)
 
 **Main S3 website**: [http://sociocracy30.org](http://sociocracy30.org)
 
