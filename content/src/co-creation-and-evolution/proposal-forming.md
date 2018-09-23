@@ -24,8 +24,6 @@ _Proposal Forming_ may also be used by an individual.
 **Gather ideas** as possible ingredients for a proposal.
 
 **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group of "tuners".
-  
-![Proposal forming process](img/agreements/proposal-forming.png)
 
 ### Choosing Tuners
 

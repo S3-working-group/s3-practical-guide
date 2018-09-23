@@ -4,7 +4,7 @@
 
 Describing [drivers](glossary:organizational-driver) may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
-A simple way to describe a driver by explaining:
+A simple way to describe a driver is by explaining:
 
 -   **What’s happening...:**
     -   the **current situation**
