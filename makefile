@@ -30,7 +30,7 @@ deckset:
 	$(MKTPL) templates/deckset-template.md $(TMPFOLDER)/deckset-template.md $(LOC) $(PRJ)
 	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=$(TMPFOLDER)/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
 	# append pattern-index
-	mdslides deckset-index $(CONFIG) $(TARGETFILE).md
+	mdslides index deckset $(CONFIG) $(TARGETFILE).md --append
 
 revealjs:
 	$(update-make-conf)
@@ -87,10 +87,12 @@ ebook:
 	$(MKTPL) config/ebook.tex $(TMPFOLDER)/ebook/ebook.tex $(LOC) $(PRJ)
 	$(MKTPL) config/ebook-style.sty $(TMPFOLDER)/ebook/ebook-style.sty $(LOC) $(PRJ)
 
+	# make an index
+	mdslides index latex content/structure-new.yaml $(TMPFOLDER)/ebook/tmp-index.md
 	# transclude all to one file 
-	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd $(TMPFOLDER)/ebook; multimarkdown --escaped-line-breaks --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
-	cd $(TMPFOLDER)/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
+	cd $(TMPFOLDER)/ebook; multimarkdown --escaped-line-breaks --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	cd $(TMPFOLDER)/ebook; latexmk -pdf -xelatex -silent ebook.tex 
 	cd $(TMPFOLDER)/ebook; mv ebook.pdf ../../$(TARGETFILE).pdf
 	
@@ -141,4 +143,4 @@ endif
 ifneq ("$(wildcard gitbook/img)","")
 	# rm -r gitbook/img
 endif
-	cp -r img gitbook/img
+	# cp -r img gitbook/img
