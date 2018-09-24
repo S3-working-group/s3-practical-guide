@@ -10,4 +10,4 @@
 
 External contractors consent to take on their role.
 
-**See also:** [Contract For Successful Collaboration](contract-for-successful-collaboration)
+**See also:** [Contract For Successful Collaboration](section:contract-for-successful-collaboration)
