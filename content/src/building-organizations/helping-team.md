@@ -12,7 +12,7 @@ A helping team:
 Members of the helping team:
 
 -   can object to the delegator's decisions that affect them
--   can add items to the delegator's governance [backlog](glossary:backlog)
+-   can add items to the delegator's [governance backlog](glossary:governance-backlog)
 -   may be invited to select a [representative](section:representative) to participate in the governance decision making of the delegator
 
 ![Helping Team](img/structural-patterns/helping-team.png)

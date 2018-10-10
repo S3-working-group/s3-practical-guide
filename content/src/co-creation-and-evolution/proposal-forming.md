@@ -34,6 +34,6 @@ Consider:
 -   who else may have a valuable contribution to make?
 -   consider expertise, outside view, and inspiration
 
-Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s). Consider
+Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s).
 
 ![A simple template for proposals](img/templates/proposal-template.png)

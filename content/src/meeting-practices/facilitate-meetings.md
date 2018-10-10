@@ -10,4 +10,4 @@ Before each meeting, prepare an agenda of topics, and select a facilitator to:
 
 Consider selecting a facilitator for a specific term. Even an inexperienced facilitator can make a positive difference.
 
-**See also:** [Prepare Meetings](section:Prepare-Meetings), [Role Selection](section:Role-Selection)
+**See also:** [Prepare For Meetings](section:prepare-for-meetings), [Role Selection](section:role-selection)

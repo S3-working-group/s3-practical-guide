@@ -18,4 +18,4 @@ Preparation:
 
 **After the meeting**: clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
 
-**See also:** [Facilitate Meetings](section:facilitate-meetings), [Prepare Meetings](section:prepare-meetings)
+**See also:** [Facilitate Meetings](section:facilitate-meetings), [Prepare For Meetings](section:prepare-for-meetings)
