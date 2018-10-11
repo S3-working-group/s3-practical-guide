@@ -2,7 +2,7 @@
 
 **Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.**
 
-{define:timebox}
+{{define:timebox}}
 
 - to get value out of the timebox, be clear what you want to achieve
 - agree on the duration of the timebox and visualize time
