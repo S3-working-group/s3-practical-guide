@@ -1,6 +1,6 @@
 ## Why Sociocracy 3.0?
 
-Sociocracy as a form of governance [has been referred to since 1851](https://sociocracy30.org/the-details/history/). Subsequently it has been developed and adapted by many different people and organizations, including Gerard Endenburg, The Sociocracy Group (TSG) and Brian Robertson (HolacracyOne).
+Sociocracy as a form of governance has been referred to since 1851. Subsequently it has been developed and adapted by many different people and organizations, including Gerard Endenburg, The Sociocracy Group (TSG) and Brian Robertson (HolacracyOne).
 
 Yet, outside the Netherlands sociocracy has until recently remained largely unknown.
 
@@ -59,10 +59,6 @@ This doesn’t mean to say it’s all easy: choosing to pull in *Sociocracy 3.0'
 
 The organizational structure according to *The Sociocratic Circle Organization Method* is modeled on a hierarchy of domains. We see an increasing emergence of collaborative multi-stakeholder environments and the need for a wider variety of patterns for organizational structure.
 Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
-
-### Disclaimer
-
-We sell consulting, learning facilitation, coaching and mentoring, including but not limited to *Sociocracy 3.0*. We dedicate a part of our time and money to create free resources about *Sociocracy 3.0* as part of our ongoing commitment to make sociocracy and related ideas more accessible to the wider world.
 
 _James Priest, Bernhard Bockelbrink and Liliana David_
 

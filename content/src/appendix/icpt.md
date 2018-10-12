@@ -24,7 +24,7 @@ I maintain appropriate confidentiality about issues relating to my clients.
 
 I will work in accordance with my level of competence and the client’s needs, and disclose when I am out of my depth.
 
-I stay up to date with the ongoing developments of the S3 and the way it’s presented.[^icpt-follow]
+I stay up to date with the ongoing developments of the S3 and the way it’s presented. (e.g. by following the changelog in the latest version of the practical guide)
 
 I will continue learning about S3, deepen my understanding and explore related topics.
 
@@ -34,16 +34,10 @@ I conduct regular peer reviews, and I integrate feedback from clients and peers 
 
 I will give all clients/peers the chance to publicly share feedback.
 
-I am part of an organized intervision group[^icpt-intervision-group] for collaborative learning to support my development, where I share about my practice and offer and receive help from peers, including relating to resources any one of us creates.
+I am part of an organized intervision group (of at least 3 people, e.g. a triad or a circle) for collaborative learning to support my development, where I share about my practice and offer and receive help from peers, including relating to resources any one of us creates.
 
 I dedicate some time to actively support others from the S3 community to learn and grow.
 
 I will make any S3 resources I adapt or create available under a Creative Commons Attribution-ShareAlike license.
 
 I will discuss possible objections relating to S3 patterns in my intervision group, and pass to S3 developers if I believe they qualify.
-
-[^icpt-follow]:
-	by following the changelog of the practical guide, or another channel specifically set up for this in the future and any changes to this voluntary commitment
-
-[icpt-intervision-group]:
-	of at least 3 people, e.g. a triad or a circle
