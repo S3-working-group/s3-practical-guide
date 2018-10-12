@@ -44,10 +44,11 @@ Sociocracy 3.0 is:
 
 ### Contents of this guide
 
--   a brief overview of some basic concepts behind S3
+-   a bit of history and a brief overview of some basic concepts behind S3
 -   a description of all the patterns in S3
 -   an appendix 
     -   changelog
     -   info about authors and acknowledgments
     -   the license
+    -   the intentional commitment for practitioners and teachers of Sociocracy 3.0
     -   glossary and index
