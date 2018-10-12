@@ -15,12 +15,6 @@ define update-make-conf
 $(MKTPL) templates/make-conf config/make-conf $(LOC) $(PRJ)
 endef
 
-define prepare-ebook
-# render intro, chapters and appendix to separate md files
-mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-endef
-
-
 deckset:
 	$(update-make-conf)
 
@@ -69,7 +63,9 @@ epub:
 	# render an ebook as epub
 	$(update-make-conf)
 
-	$(prepare-ebook)
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
+
 	# prepare and copy template
 	$(MKTPL) templates/epub--master.md $(TMPFOLDER)/ebook/epub--master.md $(LOC) $(PRJ)
 	# transclude all to one file 
@@ -80,7 +76,9 @@ epub:
 ebook:
 	# render an ebook as pdf (via LaTEX)
 	$(update-make-conf)
-	$(prepare-ebook)
+	
+	# render intro, chapters and appendix to separate md files (but without sectionprefix!)
+	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --no-section-prefix
 
 	# copy md and LaTEX templates
 	$(MKTPL) templates/ebook--master.md $(TMPFOLDER)/ebook/ebook--master.md $(LOC) $(PRJ)
