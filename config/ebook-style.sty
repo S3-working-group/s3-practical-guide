@@ -1,10 +1,11 @@
 \ProvidesPackage{ebook-style}
-
-\usepackage[american]{babel}
-\usepackage[T1]{fontenc} % Silbentrennung bei Sonderzeichen
-\usepackage[utf8]{inputenc} % direkte Angabe von Umlauten im Dokument 
-
 %\usepackage{showframe} % display box borders for debugging
+
+
+\usepackage[utf8]{inputenc} % support all unicode characters in documents 
+\usepackage[T1]{fontenc} % use 8bit font encoding for proper hyphenation etc.
+\usepackage{titlepic}
+\usepackage{graphicx} 
 
 % for /autoref
 \usepackage{hyperref,xcolor}
@@ -31,7 +32,6 @@
 % also turn off justification with looks not so nice Jost*
 %\usepackage[document]{ragged2e}
 
-
 % for graphics
 \usepackage{graphicx}
 
@@ -46,7 +46,7 @@
 \setlength{\parskip}{1ex plus 0.5ex minus 0.2ex}
 
 % turn off numbering of sections
-\setcounter{secnumdepth}{0}
+\setcounter{secnumdepth}{1}
 
 %reset section numbers with each chapter
 \makeatletter
@@ -54,10 +54,6 @@
 \makeatother 
 % uncomment below to fix /autorefs if necessary
 %\renewcommand*{\theHchapter}{\thepart.\thebook.\thechapter}
-
-
-% different title for toc
-%\renewcommand{\contentsname}{Inhalt}
 
 % macros for TODOs and LATER
 \newcommand{\todo}[1]{\textbf{\underline{TODO: {#1}}}\linebreak}

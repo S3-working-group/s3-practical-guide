@@ -10,6 +10,6 @@
 
 {{tmp-appendix.md}}
 
-## ${_("Index")}
+## ${_("Pattern-Index")}
 
 {{tmp-index.md}}
