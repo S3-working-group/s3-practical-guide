@@ -2,7 +2,7 @@
 
 ### Effective Collaboration At Any Scale
 
--   **principles-based:** a coherent way for growing organizational integrity and developing a sociocractic and agile mindset
+-   **principles-based:** a coherent way for growing organizational integrity and developing a sociocratic and agile mindset
 -   **flexible:** adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
 -   **free:** licensed under a Creative Commons Free Culture License
 
