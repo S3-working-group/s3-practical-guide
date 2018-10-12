@@ -1,4 +1,4 @@
-### Governance and Operations
+#### Governance and Operations
 
 Activity in an organization typically falls in one of two categories: 
 
@@ -6,7 +6,7 @@ Activity in an organization typically falls in one of two categories:
 
 {{define:operations}}
 
-#### Related Concepts
+##### Related Concepts
 
 **Self-Governance**: {{glossary:self-governance}}
 

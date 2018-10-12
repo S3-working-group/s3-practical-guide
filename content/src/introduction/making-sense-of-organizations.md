@@ -1,1 +1,1 @@
-## Making Sense of Organizations
+### Making Sense of Organizations
