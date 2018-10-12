@@ -15,7 +15,7 @@ A helping team:
 Members of the helping team:
 
 -   can object to the delegator's decisions that affect them
--   can add items to the delegator's governance <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.">backlog</dfn>
+-   can add items to the delegator's <dfn data-info="Governance Backlog: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.">governance backlog</dfn>
 -   may be invited to select a [representative](representative.html) to participate in the governance decision making of the delegator
 
 ![Helping Team](img/structural-patterns/helping-team.png)

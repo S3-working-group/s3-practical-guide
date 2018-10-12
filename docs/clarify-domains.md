@@ -14,7 +14,7 @@ A simple way to clarify <dfn data-info="Domain: A distinct area of influence, ac
 -   **evaluation criteria** and frequency of evaluation
 -   term (for a role)
 
-Domain descriptions can be created for a <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective).">role](role.html), position, [circle](circle.html), [team</dfn>, [open domain](open-domain.html), department, unit, or the whole organization.
+Domain descriptions can be created for a [role](role.html), position, [circle](circle.html), <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective).">team</dfn>, [open domain](open-domain.html), department, unit, or the whole organization.
 
 Another way of clarifying a domain is by filling out an [S3 Delegation Canvas](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html).
 

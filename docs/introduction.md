@@ -7,9 +7,9 @@ title: Introduction
 
 ### Effective Collaboration At Any Scale
 
--   **principles-based**: a coherent way for growing organizational integrity and developing a sociocractic and agile mindset
--   **flexible**: adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
--   **free**: licensed under a Creative Commons Free Culture License
+-   **principles-based:** a coherent way for growing organizational integrity and developing a sociocratic and agile mindset
+-   **flexible:** adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
+-   **free:** licensed under a Creative Commons Free Culture License
 
 ### What's in it for me?
 
@@ -35,7 +35,7 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 
 ![Influences and history of Sociocracy 3.0](img/context/history.png)
 
-## Driver for Creating Sociocracy 3.0
+## Driver for Creating Sociocracy 3.0
 
 > _In 2014 we came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. We discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing._
 
@@ -106,7 +106,7 @@ Drivers:
 -   can be used to derive goals, objectives, aims, mission, vision, purpose
 -   can change over time
 
-### Drivers: Value and Waste
+#### Drivers, Value and Waste
 
 _**Value** is the importance, worth or usefulness of something in relation to a driver._
 
@@ -128,7 +128,7 @@ Domains are delegated to people (e.g. to a unit, department, team or individuals
 
 ![Domains may overlap and/or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
 
-### Delegating Domains
+#### Delegating Domains
 
 Those delegating a domain (the _delegators_) still retain overall accountability for that domain, allocate **resources** and often define:
 
@@ -136,7 +136,7 @@ Those delegating a domain (the _delegators_) still retain overall accountability
 -   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
 -   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
-### Drivers and Domains
+#### Drivers and Domains
 
 It's also possible to understand a domain in relation to organizational drivers:
 
@@ -155,7 +155,7 @@ _**Governance** in an organization is the act of setting objectives, and then na
 
 _**Operations** is doing the work and organizing day to day activities within the constraints defined through governance._
 
-### Related Concepts
+#### Related Concepts
 
 **Self-Governance**: People governing themselves within the constraints of a domain.
 

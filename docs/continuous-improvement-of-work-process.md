@@ -1,5 +1,5 @@
 ---
-title: "Continuous Improvement Of Work Process With S3"
+title: "Continuous Improvement Of Work Process"
 ---
 
 

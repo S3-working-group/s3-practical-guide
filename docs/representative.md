@@ -1,5 +1,5 @@
 ---
-title: "Representative (role)"
+title: "Representative"
 ---
 
 

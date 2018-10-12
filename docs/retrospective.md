@@ -5,7 +5,7 @@ title: "Retrospective"
 
 **Dedicate time to reflect on past experience, learn, and decide how to improve work process.**
 
--   output: changes to work process, new tasks, on-the-fly <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn>, and <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">drivers</dfn> requiring an agreement
+-   output: changes to work process, new tasks, on-the-fly <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn>, and <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">drivers</dfn> requiring an agreement
 -   facilitated meeting (~1hr)
 -   regular intervals (1-4 weeks)
 -   adapt to situation and context

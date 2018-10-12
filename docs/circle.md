@@ -13,7 +13,7 @@ A circle:
 
 -   **semi-autonomous**:
     -   A circle's members act within the constraints of their <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>.
-    -   Each circle can create <dfn data-info="Value: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").">value</dfn> autonomously.
+    -   Each circle can create <dfn data-info="Value: The importance, worth or usefulness of something in relation to a driver. Also &quot;a principle of some significance that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">value</dfn> autonomously.
 -   **self-governing**:
     -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
 -  **equivalence of circle members**

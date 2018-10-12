@@ -8,9 +8,9 @@ title: Sociocracy 3.0 - A Practical Guide
 
 ### Effective Collaboration At Any Scale
 
--   **principles-based**: a coherent way for growing organizational integrity and developing a sociocractic and agile mindset
--   **flexible**: adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
--   **free**: licensed under a Creative Commons Free Culture License
+-   **principles-based:** a coherent way for growing organizational integrity and developing a sociocratic and agile mindset
+-   **flexible:** adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
+-   **free:** licensed under a Creative Commons Free Culture License
 
 ### What's in it for me?
 
@@ -37,7 +37,7 @@ S3 helps you discover how to best reach your objectives and navigate complexity,
 
 ![Influences and history of Sociocracy 3.0](img/context/history.png)
 
-## Driver for Creating Sociocracy 3.0
+## Driver for Creating Sociocracy 3.0
 
 > _In 2014 we came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. We discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing._
 
@@ -113,7 +113,7 @@ Drivers:
 -   can be used to derive goals, objectives, aims, mission, vision, purpose
 -   can change over time
 
-### Drivers: Value and Waste
+#### Drivers, Value and Waste
 
 _**Value** is the importance, worth or usefulness of something in relation to a driver._
 
@@ -136,7 +136,7 @@ Domains are delegated to people (e.g. to a unit, department, team or individuals
 
 ![Domains may overlap and/or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
 
-### Delegating Domains
+#### Delegating Domains
 
 Those delegating a domain (the _delegators_) still retain overall accountability for that domain, allocate **resources** and often define:
 
@@ -144,7 +144,7 @@ Those delegating a domain (the _delegators_) still retain overall accountability
 -   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
 -   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
-### Drivers and Domains
+#### Drivers and Domains
 
 It's also possible to understand a domain in relation to organizational drivers:
 
@@ -164,7 +164,7 @@ _**Governance** in an organization is the act of setting objectives, and then na
 
 _**Operations** is doing the work and organizing day to day activities within the constraints defined through governance._
 
-### Related Concepts
+#### Related Concepts
 
 **Self-Governance**: People governing themselves within the constraints of a domain.
 
@@ -224,7 +224,7 @@ To **discover drivers**, investigate what stimulates tension, and describe what'
 
 Describing drivers may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
-A simple way to describe a driver by explaining:
+A simple way to describe a driver is by explaining:
 
 -   **What’s happening...:**
     -   the **current situation**
@@ -499,8 +499,6 @@ _Proposal Forming_ may also be used by an individual.
 **Gather ideas** as possible ingredients for a proposal.
 
 **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group of "tuners".
-  
-![Proposal forming process](img/agreements/proposal-forming.png)
 
 #### Choosing Tuners
 
@@ -511,7 +509,7 @@ Consider:
 -   who else may have a valuable contribution to make?
 -   consider expertise, outside view, and inspiration
 
-Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s). Consider
+Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s).
 
 ![A simple template for proposals](img/templates/proposal-template.png)
 
@@ -604,7 +602,7 @@ The role keeper — or team — leads the peer review by setting up the process 
 
 Ensure to invite people with complementing perspectives to contribute to the review, and a _facilitator_.
 
-Improvement suggestions may relate to personal development, collaboration, updates to the _domain](glossary:domain) description (including the driver_) and [strategy.
+Improvement suggestions may relate to personal development, collaboration, updates to the domain description (including the driver) and strategy.
 
 ![Continuous improvement of people's ability to effectively keep roles or collaborate in teams](img/evolution/development-process.png)
 
@@ -705,7 +703,7 @@ Chosen values are an agreement that benefits from **regular review**.
 ![Chosen values define constraints for collaboration](img/collaboration-values/chosen-values.png)
 
 
-###  Pattern 3.4: Governance Facilitator (Role)
+###  Pattern 3.4: Governance Facilitator
 
 **Select someone to facilitate governance meetings.**
 
@@ -750,7 +748,7 @@ Developing shared understanding about needs and expectations is essential for su
 
 While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved. 
 
-This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations. e.g.: 
+This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations, e.g.: 
 
 - employment contracts and contracts with external contractors or consultants in _support roles_ (including any agreement that results in a change of remuneration or working hours)
 - contracts governing collaboration with customers, vendors or service providers
@@ -797,7 +795,7 @@ Any contract can be changed at any time, provided all signatories agree. However
 
 - make provisions for successfully getting started by defining onboarding procedures
 - have a probationary period — where all parties can try out the collaboration — and a clear protocol for how to end the contract in the probationary period
-- define and build into the contract, regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
+- define and build into the contract regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
 - include procedures for breach of contract
 - consider making available alternative means for dispute resolution, e.g. mediation, conciliation  or arbitration
 - consider limiting the contract to a fixed term after which the contract expires and can be renewed if required
@@ -839,7 +837,7 @@ Decide how to handle remuneration for changing roles and _develop a strategy_ fo
 
 **Apply the role pattern to external contractors.**
     
--   clarify and describe the _driver](glossary:organizational-driver) for the [role_
+-   clarify and describe the driver for the _role_
 -   create a _domain description_
 -   if valuable, implement a selection process
 -   limit the term of the contract
@@ -847,7 +845,7 @@ Decide how to handle remuneration for changing roles and _develop a strategy_ fo
 
 External contractors consent to take on their role.
 
-**See also:** [Contract For Successful Collaboration](contract-for-successful-collaboration)
+**See also:** _Contract For Successful Collaboration_
 
 ###  Pattern 3.9: Bylaws
 
@@ -943,7 +941,7 @@ Double linking enables equivalence between two teams and can be used to draw out
 ![Double linking two circles](img/structural-patterns/double-link.png)
 
 
-###  Pattern 4.6: Representative (role)
+###  Pattern 4.6: Representative
 
 **Select a team member to participate in the governance decision making of another team to enable the flow of information and influence.**
 
@@ -1061,7 +1059,7 @@ When making the invitation:
 Include the people involved and affected in regular evaluation of outcomes.
 
 
-###  Pattern 5.5: Open-Space For Change
+###  Pattern 5.5: Open Space For Change
 
 **Invite everyone to create and run experiments for evolving the organization.**
 
@@ -1073,7 +1071,7 @@ Include the people involved and affected in regular evaluation of outcomes.
 
 
 
-###  Pattern 5.6: Continuous Improvement Of Work Process With S3
+###  Pattern 5.6: Continuous Improvement Of Work Process
 
 **Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.**
 
@@ -1151,7 +1149,7 @@ A simple way to clarify domains is with a **domain description** that contains:
 -   **evaluation criteria** and frequency of evaluation
 -   term (for a role)
 
-Domain descriptions can be created for a _role_, position, _circle_, _team](glossary:team), [open domain_, department, unit, or the whole organization.
+Domain descriptions can be created for a _role_, position, _circle_, team, _open domain_, department, unit, or the whole organization.
 
 Another way of clarifying a domain is by filling out an [S3 Delegation Canvas](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html).
 
@@ -1212,18 +1210,18 @@ Content relating to the whole organization:
 Content relating to a specific team or role: 
 
 -   the domain description and strategy
--   agreements (including _delegatees'](glossary:delegatee) domain descriptions, strategies and [development plans_)
+-   agreements (including delegatees' domain descriptions, strategies and _development plans_)
 -   backlogs and other information relating to work and governance
 
 
 
-###  Pattern 6.8: Logbook Keeper (Role)
+###  Pattern 6.8: Logbook Keeper
 
 **Select a member of your team to be specifically accountable for keeping up to date records of all information the team requires.**
 
 The logbook keeper is accountable for maintaining a team's logbook by: 
 
--   recording details of _agreement](glossary:agreement), domain descriptions, [selections_, evaluation dates, minutes of meetings etc.
+-   recording details of agreements, domain descriptions, _selections_, evaluation dates, minutes of meetings etc.
 -   organizing relevant information and improving the system when valuable
 -   keeping records up to date
 -   ensuring accessibility to everyone in the team (and in the wider organization as agreed)
@@ -1363,7 +1361,8 @@ Before each meeting, prepare an agenda of topics, and select a facilitator to:
 
 Consider selecting a facilitator for a specific term. Even an inexperienced facilitator can make a positive difference.
 
-**See also:** _Prepare Meetings_, _Role Selection_
+**See also:** _Prepare For Meetings_, _Role Selection_
+
 
 ###  Pattern 8.3: Prepare For Meetings
 
@@ -1446,7 +1445,7 @@ Ask everyone in a _round_ to reflect on any or all of the following topics in a 
 -   wild ideas and radical suggestions (What if...)
 
 
-###  Pattern 8.6: Meeting Host (Role)
+###  Pattern 8.6: Meeting Host
 
 **Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
 
@@ -1466,7 +1465,7 @@ Preparation:
 
 **After the meeting**: clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
 
-**See also:** _Facilitate Meetings_, _Prepare Meetings_
+**See also:** _Facilitate Meetings_, _Prepare For Meetings_
 
 ###  Pattern 8.7: Governance Backlog
 
@@ -1576,7 +1575,7 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 **Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.**
 
-{define:timebox}
+_A **timebox** is a fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox)._
 
 - to get value out of the timebox, be clear what you want to achieve
 - agree on the duration of the timebox and visualize time
@@ -1614,7 +1613,7 @@ When decision making is conducted close to where value is created, and the flow 
 ![Aligning the flow of information to support the flow of value](img/workflow-and-value/align-flow.png)
 
 
-###  Pattern 9.8: Coordinator (Role)
+###  Pattern 9.8: Coordinator
 
 A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
 
@@ -1641,11 +1640,9 @@ The basic building blocks for organizational structure are interdependent, conne
 
 Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex  adaptive system, or network, where multiple functional structures can co-exist).
 
-### Structural Patterns
+Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
 
-Sociocracy 3.0 describes a variety of patterns to grow organizational structure.
-
--   patterns apply to different layers of abstraction
+-   S3's structural patterns apply to different layers of abstraction
 -   different structural patterns serve different drivers
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
@@ -1664,7 +1661,7 @@ A service circle can be populated by members of the domains it serves, and/or by
 
 **Delegate decision making for how to respond to drivers affecting multiple domains, to representatives.**
 
-To make _governance](glossary:governance) decisions on their behalf, stakeholders send [representatives_ to form a delegate circle.
+To make governance decisions on their behalf, stakeholders send _representatives_ to form a delegate circle.
 
 ![Delegate Circle](img/structural-patterns/delegate-circle.png)
 
@@ -1965,16 +1962,17 @@ The second and third tier:
 
 ## Links
 
-**Latest version of the Practical Guide**:
+**Latest version of the Practical Guide:**
 
-- online version [http://patterns.sociocracy30.org](http://patterns.sociocracy30.org) (with a searchable [pattern index](http://patterns.sociocracy30.org/pattern-index.html))
-- Various other formats and languages: [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
+The [online version](http://patterns.sociocracy30.org) can be [annotated via hypothes.is](https://via.hypothes.is/http://patterns.sociocracy30.org/) and comes with an aplhabetical index and a pattern map for easy navigation.
 
-**More S3 Resources**: [http://sociocracy30.org/resources/](http://sociocracy30.org/resources)
+Various other formats and languages of the practical guide can be found at [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
 
-**Main S3 website**: [http://sociocracy30.org](http://sociocracy30.org)
+**More S3 Resources:** [http://sociocracy30.org/resources/](http://sociocracy30.org/resources/)
 
-Follow us on **twitter**: [@sociocracy30](http://twitter.com/sociocracy30)
+**Main S3 website:**: [http://sociocracy30.org](http://sociocracy30.org)
+
+**Follow us on twitter:** [@sociocracy30](http://twitter.com/sociocracy30)
 
 
 ## License
@@ -1985,7 +1983,7 @@ This work by Bernhard Bockelbrink, James Priest and Liliana David is licensed un
 
 ## Acknowledgments 
 
-The content of Sociocracy 3.0 reflects the accumulated experience and wisdom of contributors across generations. These people have shared a common quest: to evolve more effective, harmonious and conscious ways of collaborating together.
+The content of Sociocracy 3.0 reflects the accumulated experience and wisdom of contributors across generations. These people have shared a common quest: to evolve more effective, harmonious and conscious ways of collaborating together.
 
 Particular recognition goes to Gerard Endenburg and others over the years who have committed significant time towards evolving and documenting the Sociocratic Circle Organization Method, which has contributed towards and inspired the evolution of Sociocracy 3.0.
 

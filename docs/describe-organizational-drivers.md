@@ -5,9 +5,9 @@ title: "Describe Organizational Drivers"
 
 **Describe organizational drivers to understand, communicate and remember them.**
 
-Describing <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">drivers</dfn> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
+Describing <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">drivers</dfn> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
-A simple way to describe a driver by explaining:
+A simple way to describe a driver is by explaining:
 
 -   **What’s happening...:**
     -   the **current situation**

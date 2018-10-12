@@ -1,5 +1,5 @@
 ---
-title: "Meeting Host (Role)"
+title: "Meeting Host"
 ---
 
 
@@ -21,7 +21,7 @@ Preparation:
 
 **After the meeting**: clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
 
-**See also:** [Facilitate Meetings](facilitate-meetings.html), [Prepare Meetings](prepare-meetings.html)
+**See also:** [Facilitate Meetings](facilitate-meetings.html), [Prepare For Meetings](prepare-for-meetings.html)
 
 [&#9654; Governance Backlog](governance-backlog.html)<br/>[&#9664; Evaluate Meetings](evaluate-meetings.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
 

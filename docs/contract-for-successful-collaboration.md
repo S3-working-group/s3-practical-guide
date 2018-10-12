@@ -11,7 +11,7 @@ Developing shared understanding about needs and expectations is essential for su
 
 While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved. 
 
-This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations. e.g.: 
+This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations, e.g.: 
 
 - employment contracts and contracts with external contractors or consultants in [support roles](support-role.html) (including any agreement that results in a change of remuneration or working hours)
 - contracts governing collaboration with customers, vendors or service providers
@@ -58,7 +58,7 @@ Any contract can be changed at any time, provided all signatories agree. However
 
 - make provisions for successfully getting started by defining onboarding procedures
 - have a probationary period — where all parties can try out the collaboration — and a clear protocol for how to end the contract in the probationary period
-- define and build into the contract, regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
+- define and build into the contract regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
 - include procedures for breach of contract
 - consider making available alternative means for dispute resolution, e.g. mediation, conciliation  or arbitration
 - consider limiting the contract to a fixed term after which the contract expires and can be renewed if required

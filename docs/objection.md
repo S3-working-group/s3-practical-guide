@@ -10,7 +10,7 @@ Objections to proposals, decisions, existing <dfn data-info="Agreement: An agree
 It's the accountability of individuals to raise potential objections. 
 
 Withholding objections can harm the ability of individuals, teams or
-the whole organization to respond to <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">organizational drivers</dfn>.
+the whole organization to respond to <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">organizational drivers</dfn>.
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
 

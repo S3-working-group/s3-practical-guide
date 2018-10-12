@@ -1,5 +1,5 @@
 ---
-title: "Coordinator (Role)"
+title: "Coordinator"
 ---
 
 

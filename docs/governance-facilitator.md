@@ -1,5 +1,5 @@
 ---
-title: "Governance Facilitator (Role)"
+title: "Governance Facilitator"
 ---
 
 
