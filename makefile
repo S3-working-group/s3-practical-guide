@@ -88,9 +88,9 @@ ebook:
 	# make an index
 	mdslides index latex content/structure-new.yaml $(TMPFOLDER)/ebook/tmp-index.md
 	# transclude all to one file 
-	cd $(TMPFOLDER)/ebook; multimarkdown --escaped-line-breaks --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
-	cd $(TMPFOLDER)/ebook; multimarkdown --escaped-line-breaks --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
+	cd $(TMPFOLDER)/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	cd $(TMPFOLDER)/ebook; latexmk -pdf -xelatex -silent ebook.tex 
 	cd $(TMPFOLDER)/ebook; mv ebook.pdf ../../$(TARGETFILE).pdf
 	
