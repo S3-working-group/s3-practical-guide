@@ -87,7 +87,7 @@ ebook:
 
 	# make an index
 	mdslides index latex content/structure-new.yaml $(TMPFOLDER)/ebook/tmp-index.md
-	# transclude all to one file 
+	# transclude all to one file
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
@@ -96,7 +96,6 @@ ebook:
 	
 	# clean up
 	cd $(TMPFOLDER)/ebook; latexmk -C
-
 
 single:
 	$(update-make-conf)
