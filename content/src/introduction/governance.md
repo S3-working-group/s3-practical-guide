@@ -22,7 +22,7 @@ There are many ways to distribute work and governance. Sometimes the governing b
 
 This includes: 
 
--   defining domainsx
+-   defining domains
 -   delegating influence to people
 -   allocating resources and capacity
 -   specifying deliverables and prioritizing delivery.
@@ -42,5 +42,4 @@ Also, since governance is a conscious and deliberate process by people with a ma
 
 **Self-Organization**: {{glossary:self-organization}}
 
-Depending on the constraints set by the delegator, teams have more or less licence to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing. 
-
+Depending on the constraints set by the delegator, teams have more or less license to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing.

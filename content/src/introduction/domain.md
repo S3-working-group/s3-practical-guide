@@ -1,4 +1,4 @@
-### Domains
+#### Domains
 
 {{define:domain}}
 
@@ -8,7 +8,7 @@ Domains are delegated to people (e.g. to a unit, department, team or individuals
 
 ![Domains may overlap and/or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
 
-#### Delegating Domains
+##### Delegating Domains
 
 Those delegating a domain (the _delegators_) still retain overall accountability for that domain, allocate **resources** and often define:
 
@@ -16,7 +16,7 @@ Those delegating a domain (the _delegators_) still retain overall accountability
 -   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
 -   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
-#### Drivers and Domains
+##### Drivers and Domains
 
 It's also possible to understand a domain in relation to organizational drivers:
 

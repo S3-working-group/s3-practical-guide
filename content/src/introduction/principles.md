@@ -1,8 +1,11 @@
-## The Seven Principles 
+### The Seven Principles 
+
+
+Sociocracy is built on seven principles that shape organizational culture. Since the seven principles are reflected in all of the patterns, understanding these principles is helpful for adopting and paramount to adapting Sociocracy 3.0 patterns.
+
+Practicing Sociocracy 3.0 helps people appreciate the essential value that these core principles bring, both to individuals and to organizations.
 
 ![The Seven Principles](img/framework/s3-principles-plain.png)
-
-All Patterns are based on The Seven Principles:
 
 **The Principle of Effectiveness:** *{{glossary:effectiveness}}*
 
@@ -18,7 +21,7 @@ All Patterns are based on The Seven Principles:
 
 **The Principle of Accountability:** *{{glossary:accountability}}*
 
-### The Principle of Accountability
+#### The Principle of Accountability
 
 *{{glossary:accountability}}*
 
