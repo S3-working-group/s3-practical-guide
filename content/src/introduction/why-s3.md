@@ -6,17 +6,17 @@ Yet, outside the Netherlands sociocracy has until recently remained largely unkn
 
 We love sociocracy because we see organizations and their members thrive when they use elements of it to enrich or transform what they currently do.
 
-We also love agile, lean, Kanban, the core protocols, NVC, and many other ideas too. We believe that the world will be a better place as more organizations learn to pull from this cornucopia of awesome practices that are emerging into the world today, and learn to synthesize them with what they already know.
+We also love agile, lean, Kanban, the Core Protocols, NVC, and many other ideas too. We believe that the world will be a better place as more organizations learn to pull from this cornucopia of awesome practices that are emerging into the world today, and learn to synthesize them with what they already know.
 
 Therefore we decided to devote some of our time to develop and evolve Sociocracy, integrating it with many of these other potent ideas, to make it available and applicable to as many organizations as possible.
 
-To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the Sociocratic Circle Organization Method to improve its applicability. That’s why we call it *Sociocracy 3.0* (or “S3”).
+To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability. That’s why we call it *Sociocracy 3.0* (or “S3”).
 
 ### The Name
 
 The name “*Sociocracy 3.0*” demonstrates both respect to the lineage and a significant step forward.
 
-It also helps avoid the perception of us misrepresenting *The Sociocratic Circle Organization Method* (SCM) as promoted by The Sociocracy Group.
+It also helps avoid the perception of us misrepresenting the *Sociocratic Circle Organization Method* (SCM) as promoted by The Sociocracy Group.
 
 ![Three variants of sociocracy](img/context/sociocracy-variants.png)
 
@@ -31,13 +31,13 @@ We support “viral” distribution through two key strategies:
 
 ### The Evolution of the Sociocratic Circle Organization Method
 
-Maybe we need to make this explicit: Sociocracy 3.0 is not targeted specifically at the existing community of people exploring the Sociocratic Circle Organization Method, or at The Sociocracy Group (TSG). *The Sociocratic Circle Organization Method* (SCM) is already well developed and many people appear to be mostly happy with it.
+Maybe we need to make this explicit: Sociocracy 3.0 is not targeted specifically at the existing community of people exploring the *Sociocratic Circle Organization Method*, or at The Sociocracy Group (TSG). The *Sociocratic Circle Organization Method* (SCM) is already well developed and many people appear to be mostly happy with it.
 
 Yet from our direct experience, even for those organizations that have heard about sociocracy, there are many obstacles to actually become invested. With *Sociocracy 3.0* we actively work on addressing and eliminating what stands in the way.
 
 #### Reducing Risk and Resistance
 
-*Sociocracy 3.0* meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. *Sociocracy 3.0* provides a collection of independent and principle-based patterns that an organization can pull in to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
+*Sociocracy 3.0* meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. *Sociocracy 3.0* provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
 
 #### Shifting Focus From Aim (or Purpose) to Need
 
@@ -47,17 +47,17 @@ In *Sociocracy 3.0*, purpose is implicit in all cases – to flow value to the o
 
 #### Condensed to the Essentials
 
-When looking at the norms, *The Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
+When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
 
 This doesn’t mean to say it’s all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it’s important to only pull in what you need, because there’s no point to changing things if what you are doing is already good enough.
 
 #### Integration With Agile and Lean Thinking
 
-*The Sociocratic Circle Organization Method* is an “empty” method when it comes to operations and creating a culture of close collaboration. Many organizations already implement or show preference for lean and agile thinking for operations and collaboration. We believe this is a great idea, so *Sociocracy 3.0* is designed for easy adoption into lean and agile organizations.
+The *Sociocratic Circle Organization Method* is an “empty” method when it comes to operations and creating a culture of close collaboration. Many organizations already implement or show preference for lean and agile thinking for operations and collaboration. We believe this is a great idea, so *Sociocracy 3.0* is designed for easy adoption into lean and agile organizations.
 
 #### A New Way to Evolve Organizational Structure
 
-The organizational structure according to *The Sociocratic Circle Organization Method* is modeled on a hierarchy of domains. We see an increasing emergence of collaborative multi-stakeholder environments and the need for a wider variety of patterns for organizational structure.
+The organizational structure according to the *Sociocratic Circle Organization Method* is modeled on a hierarchy of domains. We see an increasing emergence of collaborative multi-stakeholder environments and the need for a wider variety of patterns for organizational structure.
 Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
 
 _James Priest, Bernhard Bockelbrink and Liliana David_
