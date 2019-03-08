@@ -417,7 +417,7 @@ Elements of this pattern can also be used by individuals to evaluate decisions t
 
 #### Long Format
 
-![A long format for evaluating and evolving greements](img/agreements/evaluate-agreements.png)
+![A long format for evaluating and evolving agreements](img/agreements/evaluate-agreements.png)
 
 Preparation:
 
@@ -501,7 +501,7 @@ Consider:
 -   who else may have a valuable contribution to make?
 -   consider expertise, outside view, and inspiration
 
-Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s). Consider
+Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s).
 
 ![A simple template for proposals](img/templates/proposal-template.png)
 
@@ -884,7 +884,7 @@ A circle:
     -   A circle's members act within the constraints of their domain .
     -   Each circle can create value autonomously.
 -   **self-governing**:
-    -   A circle's members ongoingly continuously decides together what to do to account for their domain, and set constraints on how and when things will be done.
+    -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
 -  **equivalence of circle members**
     -   All members of a circle are equally accountable for governance of the circle's domain.
 
@@ -1720,7 +1720,7 @@ Creating a fractal organization can enable a large network to rapidly respond to
 
 If necessary, the pattern can be repeated to connect multiple fractal organizations into one. 
 
-![Fractal Organzation](img/structural-patterns/fractal-organization.png)
+![Fractal Organization](img/structural-patterns/fractal-organization.png)
 
 #### Prerequisites
 
@@ -2167,7 +2167,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 
 **Waste**: Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
-
 
 
 

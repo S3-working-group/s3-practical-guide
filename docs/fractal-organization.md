@@ -9,7 +9,7 @@ Creating a fractal organization can enable a large network to rapidly respond to
 
 If necessary, the pattern can be repeated to connect multiple fractal organizations into one. 
 
-![Fractal Organzation](img/structural-patterns/fractal-organization.png)
+![Fractal Organization](img/structural-patterns/fractal-organization.png)
 
 ### Prerequisites
 
