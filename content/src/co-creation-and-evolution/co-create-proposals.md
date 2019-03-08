@@ -1,4 +1,4 @@
-## Co-Create Proposal
+## Co-Create Proposals
 
 **Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.**
 

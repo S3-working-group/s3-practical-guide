@@ -1,5 +1,5 @@
 ---
-title: "Co-Create Proposal"
+title: "Co-Create Proposals"
 ---
 
 

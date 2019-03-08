@@ -6,7 +6,7 @@ title: "Delegate Circle"
 
 **Delegate decision making for how to respond to drivers affecting multiple domains, to representatives.**
 
-To make <dfn data-info="Governance: The act of setting objectives, and then navigating and steering to achieve them. People with authority intentionally make and evolve decisions which have an ongoing effect on the way an organization (or a team or individual within it) creates value. These decisions set constraints on actions, guide future decisions, allocate resources and determine specifics of deliverables.">governance</dfn> decisions on their behalf, stakeholders send [representatives](representative.html) to form a delegate circle.
+To make <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn> decisions on their behalf, stakeholders send [representatives](representative.html) to form a delegate circle.
 
 ![Delegate Circle](img/structural-patterns/delegate-circle.png)
 

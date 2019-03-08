@@ -7,7 +7,7 @@ title: "Double-Linked Hierarchy"
 
 1. Shift governance decision making from individuals to teams by forming <dfn data-info="Self-Governance: People governing themselves within the constraints of a domain.">self-governing</dfn> <dfn data-info="Circle: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.">circles</dfn> on all levels of your organization.
 
-2. Each circle's members select one of their group to represent their interests and participate in the <dfn data-info="Governance: The act of setting objectives, and then navigating and steering to achieve them. People with authority intentionally make and evolve decisions which have an ongoing effect on the way an organization (or a team or individual within it) creates value. These decisions set constraints on actions, guide future decisions, allocate resources and determine specifics of deliverables.">governance</dfn> decision making of the next higher circle, and vice versa.
+2. Each circle's members select one of their group to represent their interests and participate in the <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn> decision making of the next higher circle, and vice versa.
 
 A double-linked hierarchy:
 
