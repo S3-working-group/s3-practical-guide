@@ -29,7 +29,7 @@ Elements of this pattern can also be used by individuals to evaluate decisions t
 
 ### Long Format
 
-![A long format for evaluating and evolving greements](img/agreements/evaluate-agreements.png)
+![A long format for evaluating and evolving agreements](img/agreements/evaluate-agreements.png)
 
 Preparation:
 
