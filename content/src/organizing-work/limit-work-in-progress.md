@@ -2,11 +2,11 @@
 
 **Limit the number of work items in any stage of your work process.**
 
-Work in Progress includes:
+Work in progress includes:
 
--   the number of items in a backlog
--   concurrent projects or tasks for groups or individuals
+-   the number of items in a [backlog](glossary:backlog)
+-   concurrent projects or tasks for teams or individuals
 -   products in a portfolio
 
-When an action would exceed an agreed upon limit of work items in progress, this needs to be brought up with the group before continuing.
+When an action would exceed an agreed upon limit of work items in progress, this needs to be brought up with the team before continuing.
 

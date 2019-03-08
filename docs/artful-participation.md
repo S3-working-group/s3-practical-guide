@@ -7,7 +7,7 @@ title: "Artful Participation"
 
 _"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_
 
-Participating artfully may include interrupting, objecting or breaking  agreements.
+Participating artfully may include interrupting, objecting or breaking  <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn>.
 
 _Artful Participation_ is an **individual commitment** to:
 
@@ -42,5 +42,5 @@ Artful participation:
     -   the wider environment?
 
 
-[&#9654; Adopt The Seven Principles](adopt-the-seven-principles.html)<br/>[&#9650; Enablers Of Co-Creation](enablers-of-co-creation.html)
+[&#9654; Adopt The Seven Principles](adopt-the-seven-principles.html)<br/>[&#9650; Enablers Of Collaboration](enablers-of-collaboration.html)
 

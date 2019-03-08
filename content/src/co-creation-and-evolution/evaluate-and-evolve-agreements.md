@@ -8,7 +8,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 -   adapt agreements to suit changing context
 -   integrate learning to make them more effective
 
-Ensure all agreements have an appropriate review date.
+Ensure all [agreements](glossary:agreement) have an appropriate review date.
 
 Evaluating agreements can be as simple as checking that an agreement is still relevant, and there is no objection to keeping it as it is.
 
@@ -29,7 +29,7 @@ Elements of this pattern can also be used by individuals to evaluate decisions t
 
 ### Long Format
 
-![A long format for evaluating and evolving greements](img/agreements/evaluate-agreements.png)
+![A long format for evaluating and evolving agreements](img/agreements/evaluate-agreements.png)
 
 Preparation:
 

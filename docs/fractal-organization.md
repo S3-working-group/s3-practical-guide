@@ -9,20 +9,20 @@ Creating a fractal organization can enable a large network to rapidly respond to
 
 If necessary, the pattern can be repeated to connect multiple fractal organizations into one. 
 
-![Fractal Organzation](img/structural-patterns/fractal-organization.png)
+![Fractal Organization](img/structural-patterns/fractal-organization.png)
 
 ### Prerequisites
 
-A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) driver, or by multiple branches, departments, or projects within a larger organization.
+A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <dfn data-info="Driver: A person’s or a group&apos;s motive for responding to a specific situation.">driver</dfn>, or by multiple branches, departments, or projects within a larger organization.
 
-These constituents (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional domains (e.g. accounting, product management, or development).
+These <dfn data-info="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</dfn> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> (e.g. accounting, product management, or development).
 
 ### Tiers
 
 A fractal organization has at least three tiers: 
 
 - first tier: the **constituents** (i.e. organizations, branches, departments or projects)
-- second tier: **function-specific delegate circles** to share learning and to make and evolve agreements on behalf of function-specific domains
+- second tier: **function-specific [delegate circles](delegate-circle.html)** to share learning and to make and evolve agreements on behalf of function-specific domains
 -  third tier: a **cross-functional delegate circle** to make and evolve agreements in response to drivers affecting the overall body of constituents
 
 ### Forming a Fractal Organization

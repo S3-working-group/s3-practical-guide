@@ -2,12 +2,12 @@
 
 {{define:objection}}
 
-Objections contain information that reveals **certain or likely consequence of harm** and/or **opportunities to immediately improve** proposals, decisions, existing agreements or actions. 
+Objections to proposals, decisions, existing [agreements](glossary:agreement) or actions, contain information about **certain or likely consequence of harm**, or about **other viable ways to improve**.
 
 It's the accountability of individuals to raise potential objections. 
 
-Withholding objections can harm the ability of individuals, groups or
-the whole organization to respond to organizational drivers.
+Withholding objections can harm the ability of individuals, teams or
+the whole organization to respond to [organizational drivers](glossary:organizational-driver).
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
 
@@ -15,9 +15,9 @@ Those accountable for the action or (proposed) agreement in question, are respon
 
 When seeking out potential objections, consider:
 
-- why the intended outcome would not be (fully) achieved: **effectiveness**
+- why the [intended outcome](glossary:intended-outcome) would not be (fully) achieved: **effectiveness**
 - why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
-- the negative consequences something would have elsewhere (in the same domain, in the wider organization, or beyond): **side-effects**
+- the negative consequences something would have elsewhere (in the same [domain](glossary:domain), in the wider organization, or beyond): **side-effects**
 
 The information revealed by objections can be used to improve:
 

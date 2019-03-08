@@ -19,7 +19,7 @@ Short formats you can use:
 
 ### Evaluate Meetings: Long Format
 
-Ask everyone in a round to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
+Ask everyone in a [round](round.html) to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
 
 -   effectiveness and format
 -   facilitation and participation

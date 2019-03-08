@@ -1,5 +1,36 @@
 ## Changelog
 
+### Changes 2019-03-07
+
+**General Changes**
+
+- updated section about governance in the introduction
+- added captions to all illustrations
+- renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
+- removed slide deck version and improved pdf and ePub version
+- added glossary links to many patterns
+
+**Glossary:**
+
+-   added [team](glossary:team) to glossary (and replaced group with team throughout the practical guide where applicable)
+-   updated definition for [deliverable](glossary:deliverable)
+-   removed **driver statement** from text and glossary
+-   updated definitions for [governance](glossary:governance), [operations](glossary:operations), and [self-organization](glossary:self-organization)
+
+**Illustrations:**
+
+- updated templates for domain description and role description
+- updated illustrations for [Linking](section:linking) and [Double-Linking](section:double-linking)
+
+
+**Changes to Patterns:**
+
+- [Agreement](section:agreement): description now mentions that any expectations should be recorded
+- [Describe Deliverables](section:describe-deliverables): updated summary
+- [Describe Organizational Drivers](section:oescribe-organizational-drivers): more information on summarizing drivers
+- [Resolve Objections](section:resolve-objections): added summary and description
+
+
 ### Changes 2018-08-17
 
 **General Changes**
@@ -30,9 +61,11 @@
 - [Align Flow](section:align-flow): improved description and illustration
 - [Adapt Patterns To Context](section:adapt-patterns-to-context): improved description
 - [Agreement](section:agreement): improved description, updated template
+- [Artful Participation](section:artful-participation): improved summary
 - [Clarify Intended Outcome](section:clarify-intended-outcome) (renamed from _Intended Outcome_): improved description
 - [Consent Decision Making](section:consent-decision-making): improved description, updated illustration
 - [Continuous Improvement Of Work Process](section:continuous-improvement-of-work-process): improved description
+- [Contract For Successful Collaboration](section:contract-for-successful-collaboration): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 - [Coordination Meeting](section:coordination-meeting): clarified agenda items, updated illustration
 - [Delegate Circle](section:delegate-circle): improved description
 - [Delegate Influence](section:delegate-influence): improved description
@@ -69,6 +102,7 @@
 - _Evaluate Agreements_ to _Evaluate and Evolve Agreements_
 - _Intended Outcome_ to _Clarify Intended Outcome_ 
 - _Open S3 Adoption_ to _Open Space for Change_
+- _Contracting and Accountability_ to _Contract For Successful Collaboration_
 
 **Added Patterns:**
 

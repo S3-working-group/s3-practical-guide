@@ -18,6 +18,8 @@ content:
         slug: patterns
       - title: Principles
         slug: principles
+      - title: Making Sense of Organizations
+        slug: making-sense-of-organizations
       - title: Driver
         slug: driver
       - title: Domain
@@ -66,8 +68,8 @@ content:
         - title: Development Plan
           slug: development-plan
 
-    - title: Enablers Of Co-Creation
-      slug: enablers-of-co-creation
+    - title: Enablers Of Collaboration
+      slug: enablers-of-collaboration
       sections:
         - title: Artful Participation
           slug: artful-participation

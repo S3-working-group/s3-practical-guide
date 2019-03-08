@@ -3,7 +3,7 @@
 
 **A group process for selecting a person for a role on the strength of the reason.**
 
-Instead of simply assigning people for roles, or making a choice based only on majority, use the role selection process to:
+Instead of simply assigning people for [roles](section:role), or making a choice based only on majority, use the role selection process to:
 
 - tap collective intelligence by hearing and deliberating on reasons for nominations
 - increase ownership over the decision
@@ -23,8 +23,8 @@ Instead of simply assigning people for roles, or making a choice based only on m
     -   proposing a nominee themselves or asking a group member
     -   inviting (some) nominees to agree who should be proposed
     -   inviting group dialogue to help reveal the strongest nominee
-7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an objection. 
-8. **Address and Resolve Objections,** beginning with any from the proposed nominee. Objections may be resolved in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
+7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an [objection](glossary:objection). 
+8. **Address and Resolve Objections,** beginning with any from the proposed nominee. [Objections may be resolved](section:resolve-objections) in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
 9. **Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
 
 To avoid influencing others, abstain from expressing personal interest or opinions before a selection takes place.

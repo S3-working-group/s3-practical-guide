@@ -3,12 +3,12 @@
 
 **Delegate decision making for how to respond to drivers affecting multiple domains, to representatives.**
 
-To make governance decisions on their behalf, stakeholders send representatives to form a delegate circle.
+To make [governance](glossary:governance) decisions on their behalf, stakeholders send [representatives](section:representative) to form a delegate circle.
 
 ![Delegate Circle](img/structural-patterns/delegate-circle.png)
 
-Governance decisions made in a delegate circle are acted upon in the various domains it serves.
+Governance decisions made in a delegate circle are acted upon in the various [domains](glossary:domain) it serves.
 
-Delegate circles provide a way of steering organizations in alignment with the flow of value, and bring a diversity of perspectives to governance decision making.
+Delegate circles provide a way of steering organizations in alignment with the [flow of value](glossary:flow-of-value), and bring a diversity of perspectives to governance decision making.
 
-A delegate circle may bring in other people (e.g. external experts) to help with specific decisions, or even as a  member of the circle.
+A delegate circle may bring in other people (e.g. external experts) to help with specific decisions, or even as a member of the circle.

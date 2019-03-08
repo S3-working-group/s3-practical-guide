@@ -44,14 +44,14 @@ msgid "S3 - A Practical Guide"
 msgstr "S3 - A Practical Guide"
 
 
-#
-msgid ""
-msgstr ""
+# Pattern-Index in PDF
+msgid "Pattern-Index"
+msgstr "Pattern-Index"
 
 
-#
-msgid ""
-msgstr ""
+# Title for Table of Contents in PDF
+msgid "Contents"
+msgstr "Contents"
 
 
 #

@@ -4,12 +4,12 @@
 
 Some considerations for successfully preparing a meeting:
 
-- clarify and communicate the driver for, and intended outcome of the meeting
+- clarify and communicate the [driver](glossary:driver) for, and [intended outcome](glossary:intended-outcome) of the meeting
 - decide who to invite 
 - create an agenda
 - schedule the meeting enough in advance, so people have time to prepare
 - choose an appropriate duration for the meeting 
-- be clear who will facilitate the meeting, who will take minutes and who will take care of any follow-up
+- be clear who will [facilitate the meeting](section:facilitate-meetings), who will take minutes and who will take care of any follow-up
 
 ### Preparing an Agenda
 

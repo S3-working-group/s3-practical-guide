@@ -7,7 +7,7 @@ title: "Clarify Intended Outcome"
 
 Agree on and record a concise description of the intended outcome. 
 
-The intended outcome can be used to define *Evaluation Criteria* and metrics for reviewing actual outcome.
+The intended outcome can be used to define [Evaluation Criteria](evaluation-criteria.html) and metrics for reviewing actual outcome.
 
 ![Intended Outcome, and Evaluation Criteria](img/templates/outcome-and-criteria.png)
 

@@ -6,20 +6,20 @@ Creating a fractal organization can enable a large network to rapidly respond to
 
 If necessary, the pattern can be repeated to connect multiple fractal organizations into one. 
 
-![Fractal Organzation](img/structural-patterns/fractal-organization.png)
+![Fractal Organization](img/structural-patterns/fractal-organization.png)
 
 ### Prerequisites
 
-A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) driver, or by multiple branches, departments, or projects within a larger organization.
+A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) [driver](glossary:driver), or by multiple branches, departments, or projects within a larger organization.
 
-These constituents (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional domains (e.g. accounting, product management, or development).
+These [constituents](glossary:constituent) (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional [domains](glossary:domain) (e.g. accounting, product management, or development).
 
 ### Tiers
 
 A fractal organization has at least three tiers: 
 
 - first tier: the **constituents** (i.e. organizations, branches, departments or projects)
-- second tier: **function-specific delegate circles** to share learning and to make and evolve agreements on behalf of function-specific domains
+- second tier: **function-specific [delegate circles](section:delegate-circle)** to share learning and to make and evolve agreements on behalf of function-specific domains
 -  third tier: a **cross-functional delegate circle** to make and evolve agreements in response to drivers affecting the overall body of constituents
 
 ### Forming a Fractal Organization
