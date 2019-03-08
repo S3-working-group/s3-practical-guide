@@ -7,7 +7,7 @@ title: "Align Flow"
 
 **Flow of value**: Deliverables traveling through an organization towards customers or other stakeholders.
 
-Achieve and maintain alignment of flow through the continuous evolution of an organization's body of agreements:
+Achieve and maintain alignment of flow through the continuous evolution of an organization's body of <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn>:
 
 -   ensure all decisions affecting the flow of value actually support the flow of value
 -   enable people with relevant skills and knowledge to influence decisions

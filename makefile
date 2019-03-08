@@ -15,12 +15,6 @@ define update-make-conf
 $(MKTPL) templates/make-conf config/make-conf $(LOC) $(PRJ)
 endef
 
-define prepare-ebook
-# render intro, chapters and appendix to separate md files
-mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-endef
-
-
 deckset:
 	$(update-make-conf)
 
@@ -30,7 +24,7 @@ deckset:
 	$(MKTPL) templates/deckset-template.md $(TMPFOLDER)/deckset-template.md $(LOC) $(PRJ)
 	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=$(TMPFOLDER)/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
 	# append pattern-index
-	mdslides deckset-index $(CONFIG) $(TARGETFILE).md
+	mdslides index deckset $(CONFIG) $(TARGETFILE).md --append
 
 revealjs:
 	$(update-make-conf)
@@ -69,7 +63,9 @@ epub:
 	# render an ebook as epub
 	$(update-make-conf)
 
-	$(prepare-ebook)
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
+
 	# prepare and copy template
 	$(MKTPL) templates/epub--master.md $(TMPFOLDER)/ebook/epub--master.md $(LOC) $(PRJ)
 	# transclude all to one file 
@@ -80,23 +76,26 @@ epub:
 ebook:
 	# render an ebook as pdf (via LaTEX)
 	$(update-make-conf)
-	$(prepare-ebook)
+	
+	# render intro, chapters and appendix to separate md files (but without sectionprefix!)
+	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --no-section-prefix
 
 	# copy md and LaTEX templates
 	$(MKTPL) templates/ebook--master.md $(TMPFOLDER)/ebook/ebook--master.md $(LOC) $(PRJ)
 	$(MKTPL) config/ebook.tex $(TMPFOLDER)/ebook/ebook.tex $(LOC) $(PRJ)
 	$(MKTPL) config/ebook-style.sty $(TMPFOLDER)/ebook/ebook-style.sty $(LOC) $(PRJ)
 
-	# transclude all to one file 
+	# make an index
+	mdslides index latex content/structure-new.yaml $(TMPFOLDER)/ebook/tmp-index.md
+	# transclude all to one file
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
-	cd $(TMPFOLDER)/ebook; latexmk -pdf -silent ebook.tex 
-	cd $(TMPFOLDER)/ebook; mv ebook.pdf ../../$(TARGETFILE)-ebook.pdf
+	cd $(TMPFOLDER)/ebook; latexmk -pdf -xelatex -silent ebook.tex 
+	cd $(TMPFOLDER)/ebook; mv ebook.pdf ../../$(TARGETFILE).pdf
 	
 	# clean up
 	cd $(TMPFOLDER)/ebook; latexmk -C
-
 
 single:
 	$(update-make-conf)
@@ -129,7 +128,7 @@ setup:
 	-mkdir -p $(TMPFOLDER)/ebook
 	-mkdir -p $(TMPFOLDER)/web-out
 	-mkdir docs/_site
-	-mkdir gitbook
+	# -mkdir gitbook
 ifeq ("$(wildcard $(TMPFOLDER)/ebook/img)","")
 	cd $(TMPFOLDER)/ebook; ln -s ../../img
 endif 
@@ -139,6 +138,6 @@ ifneq ("$(wildcard docs/img)","")
 endif
 	cp -r img docs/img
 ifneq ("$(wildcard gitbook/img)","")
-	rm -r gitbook/img
+	# rm -r gitbook/img
 endif
-	cp -r img gitbook/img
+	# cp -r img gitbook/img

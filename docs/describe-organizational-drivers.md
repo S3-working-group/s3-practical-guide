@@ -5,7 +5,9 @@ title: "Describe Organizational Drivers"
 
 **Describe organizational drivers to understand, communicate and remember them.**
 
-A simple way to describe a driver is with a **brief statement** explaining: 
+Describing <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">drivers</dfn> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
+
+A simple way to describe a driver is by explaining:
 
 -   **What’s happening...:**
     -   the **current situation**
@@ -14,17 +16,11 @@ A simple way to describe a driver is with a **brief statement** explaining:
     -   the **need** of the organization in relation to this situation
     -   the **impact** of attending to that need
 
-Depending on their perspective, a person or group may decide to describe a driver as a problem to solve or an opportunity to leverage. 
-
-_A **driver statement** is a brief but comprehensive summary of the information required to understand a driver._
-
-The driver statement contains just enough information to communicate the need for an action or a decision. Typically a driver statement can be summed up in one or two sentences.
-
-In addition to the brief driver statement, more information about the scope and details of the driver may be recorded in the logbook.
+Create a brief but comprehensive summary containing just enough information to clearly communicate the need for an action or a decision. 
 
 ![Describe Organizational Drivers](img/process/describe-organizational-drivers.png)
 
-### Example driver statement: 
+### Example: 
 
 > _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work.”_
 
@@ -34,7 +30,7 @@ In addition to the brief driver statement, more information about the scope and 
 
 Describe the current situation:
 
-- Briefly capture the essentials of what is happening.
+- Briefly capture the essentials of what is happening, and, if necessary, the context in which it occurs.
 - Be objective - describe observations and avoid evaluation.
 
 ### 2. Effect
@@ -51,9 +47,9 @@ Explain the effect of this situation on the organization:
 
 > _“We need the kitchen in a usable state...”_
 
-Explain the need of the organization in relation to this situation:
+Explain the <dfn data-info="Need: The lack of something wanted or deemed necessary (a requirement).">need</dfn> of the organization in relation to this situation:
 
-- A **need of an organization** is anything a group (or individual) requires to effectively account for a domain. 
+- A **need of an organization** is anything a team (or individual) requires to effectively account for a <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>. 
 - Be specific on whose need it is (“we need”, “they need”, “I need”).
 - If there’s disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
 
@@ -63,12 +59,19 @@ Explain the need of the organization in relation to this situation:
 
 Describe the impact of attending to that need:
 
-- Explain the intended outcome, potential benefits or opportunities.
+- Explain the <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn>, potential benefits or opportunities.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
 
-### Review Driver Statements
+### Summarize the Driver
 
-Make sure to review driver statements on a regular basis, to deepen you understanding of what's happening and needed.
+Aim for one or two sentences, so that the information is easy to remember and process.
+
+Besides the summary, more details about the driver may be kept in the logbook.
+ 
+
+### Review Drivers
+
+Make sure to review drivers on a regular basis, to deepen you understanding of what's happening and needed.
 
 Helpful questions for a review include:
 

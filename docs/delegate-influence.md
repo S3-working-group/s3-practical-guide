@@ -7,7 +7,7 @@ title: "Delegate Influence"
 
 A <dfn data-info="Delegator: An individual or group delegating a domain to other(s) to be accountable for.">delegator</dfn> can support <dfn data-info="Delegatee: An individual or group accepting accountability for a domain delegated to them.">delegatees</dfn> to deliver value by:
 
--   Clearly defining domains of autonomy and accountability
+-   Clearly defining <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> of autonomy and accountability
 -   Ensuring there are opportunities for learning and development
 -   Providing support if required
 

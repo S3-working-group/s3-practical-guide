@@ -5,9 +5,9 @@ title: "Double-Linked Hierarchy"
 
 **Delegate all decision making to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence and building engagement.**
 
-1. Shift governance decision making from individuals to groups by forming self-governing circles on all levels of your organization.
+1. Shift governance decision making from individuals to teams by forming <dfn data-info="Self-Governance: People governing themselves within the constraints of a domain.">self-governing</dfn> <dfn data-info="Circle: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.">circles</dfn> on all levels of your organization.
 
-2. Each circle's members select one of their group to represent their interests and participate in the governance decision making of the next higher circle, and vice versa.
+2. Each circle's members select one of their group to represent their interests and participate in the <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn> decision making of the next higher circle, and vice versa.
 
 A double-linked hierarchy:
 
@@ -16,6 +16,7 @@ A double-linked hierarchy:
 
 ![A double-linked hierarchy: not your typical hierarchy](img/structural-patterns/double-linked-hierarchy.png)
 
+**See also:** [Circle](Circle.html), [Double Linking](Double-Linking.html), [Representative](Representative.html)
 
 [&#9654; Service Organization](service-organization.html)<br/>[&#9664; Peach Organization](peach-organization.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
 

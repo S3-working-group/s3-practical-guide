@@ -5,7 +5,7 @@ title:
 creator:
 - role: author
   text: Bernhard Bockelbrink, James Priest, Liliana David
-rights: ${version} © 2015 - 2018 Bernhard Bockelbrink, James Priest, Liliana David, CC BY-SA
+rights: ${version} © 2015 - 2019 Bernhard Bockelbrink, James Priest, Liliana David, CC BY-SA
 lang: ${html_language}
 cover-image: ../../img/framework/logo.png
 stylesheet: ../../templates/epub.css

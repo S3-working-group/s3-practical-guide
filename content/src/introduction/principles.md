@@ -22,7 +22,7 @@ All Patterns are based on The Seven Principles:
 
 *{{glossary:accountability}}*
 
-Act within the constraints of any agreements governing domains you are accountable for, including the organization itself, groups you are part of, and roles you keep.
+Act within the constraints of any agreements governing domains you are accountable for, including the organization itself, teams you are part of, and roles you keep.
 
 Everyone's primary accountability is for effective collaboration in response to organizational drivers.
 

@@ -1,6 +1,6 @@
 ## Planning And Review Meetings
 
-**People meet at regular intervals (1-4 weeks) in time-boxed meetings to plan and review work.**
+**People meet at regular intervals (1-4 weeks) in timeboxed meetings to plan and review work.**
 
 **Planning meeting**: select and estimate work items for the next iteration.
 

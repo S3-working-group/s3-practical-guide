@@ -9,3 +9,7 @@
 # ${_("Appendix")}
 
 {{tmp-appendix.md}}
+
+## ${_("Pattern-Index")}
+
+{{tmp-index.md}}

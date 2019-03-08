@@ -30,11 +30,11 @@ terms:
     glossary: A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
   chosen-values:
     name: Chosen Values
-    glossary: A set of principles a group (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
+    glossary: A set of principles a team (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
   circle:
     name: Circle
-    definition: A **circle** is a self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain.
-    glossary: A self-governing and semi-autonomous group of equivalent people who collaborate to account for a domain.
+    definition: A **circle** is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.
+    glossary: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.
   check-in:
     name: Check-In
     definition: 
@@ -53,7 +53,7 @@ terms:
   constituent:
     name: Constituent
     definition:
-    glossary: A group of people (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other groups or organizations.
+    glossary: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.
   continuous-improvement:
     name: Continuous Improvement (principle)
     definition:
@@ -61,7 +61,7 @@ terms:
   coordination:
     name: Coordination
     definition:
-    glossary: The process of enabling individuals or groups to collaborate effectively across different domains to achieve shared objectives.
+    glossary: The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
   delegatee:
     name: Delegatee
     glossary: An individual or group accepting accountability for a domain delegated to them.
@@ -73,8 +73,8 @@ terms:
     glossary: An individual or group delegating a domain to other(s) to be accountable for.
   deliverable:
     name: Deliverable
-    definition: A **deliverable** is a product, service, raw material, experience or transformation, provided as a result of an agreement.
-    glossary: A product, service, raw material, experience or transformation, provided as a result of an agreement.
+    definition: A **deliverable** is a product, service, component or material provided in response to an organizational driver.
+    glossary: A product, service, component or material provided in response to an organizational driver.
   domain:
     name: Domain
     definition: A **domain** is a distinct area of influence, activity and decision making within an organization.
@@ -83,10 +83,6 @@ terms:
     name: Driver
     definition: A **driver** is a person’s or a group's motive for responding to a specific situation.
     glossary: A person’s or a group's motive for responding to a specific situation.
-  driver-statement:
-    name: Driver Statement
-    definition: A **driver statement** is a brief but comprehensive summary of the information required to understand a driver.
-    glossary: A brief but comprehensive summary of the information required to understand a driver.
   effectiveness:
     name: Effectiveness (principle)
     definition: Devote time only to what brings you closer toward achieving your objectives.
@@ -107,8 +103,8 @@ terms:
     glossary: Deliverables traveling through an organization towards customers or other stakeholders.
   governance:
     name: Governance
-    definition:
-    glossary: Making and evolving decisions about what to do to achieve objectives, and setting constraints on how and when things will be done.
+    definition: "**Governance** in an organization (or a domain within it) is the act of setting objectives, and making and evolving decisions that guide people towards achieving them."
+    glossary: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.
   governance-backlog:
     name: Governance Backlog
     definition: A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
@@ -120,7 +116,7 @@ terms:
   helping-team:
     name: Helping Team
     definition: 
-    glossary: An equivalent group of people with the mandate to execute on a specific set of requirements.
+    glossary: A team of equivalent people with the mandate to execute on a specific set of requirements.
   key-responsibilities:
     name: Key responsibilities
     glossary: Essential work and decision making required in the context of a domain.
@@ -138,8 +134,8 @@ terms:
     glossary: A domain that is accounted for by a set of people who are invited to contribute when they can.
   operations:
     name: Operations
-    definition:
-    glossary: The work being done to create and deliver value, guided by governance.
+    definition: "**Operations** is doing the work and organizing day to day activities within the constraints defined through governance."
+    glossary: Doing the work and organizing day to day activities within the constraints defined through governance. 
   operations-backlog:
     name: Operations Backlog
     definition: An **operations backlog** is a visible list of (typically prioritized) uncompleted work items (deliverables).
@@ -159,7 +155,7 @@ terms:
   organizational-driver:
     name: Organizational Driver
     definition:
-    glossary: A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
+    glossary: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
   pattern:
     name: Pattern
     definition: A **pattern** is a template for successfully navigating a specific context.
@@ -182,15 +178,15 @@ terms:
   self-governance:
     name: Self-Governance
     definition:
-    glossary: People governing themselves within the constraints of a domain. 
+    glossary: People governing themselves within the constraints of a domain.
   self-organization:
     name: Self-Organization
     definition:
-    glossary: People organizing work within constraints defined through governance.
+    glossary: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist. 
   semi-autonomy:
     name: Semi-Autonomy
     definition:
-    glossary: The autonomy of people to create value, limited by the constraints of their domain (including the influence of the delegator and of representatives), and by objections from others.
+    glossary: The autonomy of people to create value within their domain, further limited by their own governance decisions, and [objections](glossary:objection) (including those of the delegator and of representatives).
   sociocracy:
     name: Sociocracy
     glossary: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
@@ -214,10 +210,18 @@ terms:
     name: Superdomain
     definition:
     glossary: A domain that fully contains another domain. 
+  team:
+    name: Team
+    definition:
+    glossary: A group of people collaborating toward a shared driver (or objective).
   tension:
     name: Tension
     definition:
     glossary: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
+  timebox:
+    name: Timebox
+    definition: A **timebox** is a fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).
+    glossary: A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).
   transparency:
     name: Transparency (principle)
     definition:

@@ -3,9 +3,9 @@ title: "Driver Mapping"
 ---
 
 
-A workshop format to identify an effective response to a complex situation: organize start-ups, kick-off projects, tackle major impediments or opportunities, develop organizational structure to better enable the flow of value.
+A workshop format to identify an effective response to a complex situation: organize start-ups, kick-off projects, tackle major impediments or opportunities, develop organizational structure to better enable the <dfn data-info="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</dfn>.
 
-Small or large groups identify and prioritize drivers, progressing quickly from concept to action in self-organizing groups.
+A (small or large) group identifies and clusters <dfn data-info="Driver: A person’s or a group&apos;s motive for responding to a specific situation.">drivers</dfn>, to then progress quickly from concept to action in smaller and self-organizing teams.
 
 ![Driver Mapping: Process](img/facilitation-guides/driver-mapping-fg-print.png)
 

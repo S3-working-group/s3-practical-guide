@@ -3,6 +3,37 @@ title: "Changelog"
 ---
 
 
+### Changes 2019-03-07
+
+**General Changes**
+
+- updated section about governance in the introduction
+- added captions to all illustrations
+- renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
+- removed slide deck version and improved pdf and ePub version
+- added glossary links to many patterns
+
+**Glossary:**
+
+-   added <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective).">team</dfn> to glossary (and replaced group with team throughout the practical guide where applicable)
+-   updated definition for <dfn data-info="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</dfn>
+-   removed **driver statement** from text and glossary
+-   updated definitions for <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn>, <dfn data-info="Operations: Doing the work and organizing day to day activities within the constraints defined through governance.">operations</dfn>, and <dfn data-info="Self-Organization: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.">self-organization</dfn>
+
+**Illustrations:**
+
+- updated templates for domain description and role description
+- updated illustrations for [Linking](linking.html) and [Double-Linking](double-linking.html)
+
+
+**Changes to Patterns:**
+
+- [Agreement](agreement.html): description now mentions that any expectations should be recorded
+- [Describe Deliverables](describe-deliverables.html): updated summary
+- [Describe Organizational Drivers](oescribe-organizational-drivers.html): more information on summarizing drivers
+- [Resolve Objections](resolve-objections.html): added summary and description
+
+
 ### Changes 2018-08-17
 
 **General Changes**
@@ -33,9 +64,11 @@ title: "Changelog"
 - [Align Flow](align-flow.html): improved description and illustration
 - [Adapt Patterns To Context](adapt-patterns-to-context.html): improved description
 - [Agreement](agreement.html): improved description, updated template
+- [Artful Participation](artful-participation.html): improved summary
 - [Clarify Intended Outcome](clarify-intended-outcome.html) (renamed from _Intended Outcome_): improved description
 - [Consent Decision Making](consent-decision-making.html): improved description, updated illustration
 - [Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html): improved description
+- [Contract For Successful Collaboration](contract-for-successful-collaboration.html): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 - [Coordination Meeting](coordination-meeting.html): clarified agenda items, updated illustration
 - [Delegate Circle](delegate-circle.html): improved description
 - [Delegate Influence](delegate-influence.html): improved description
@@ -72,6 +105,7 @@ title: "Changelog"
 - _Evaluate Agreements_ to _Evaluate and Evolve Agreements_
 - _Intended Outcome_ to _Clarify Intended Outcome_ 
 - _Open S3 Adoption_ to _Open Space for Change_
+- _Contracting and Accountability_ to _Contract For Successful Collaboration_
 
 **Added Patterns:**
 
