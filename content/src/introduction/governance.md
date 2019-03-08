@@ -22,7 +22,7 @@ There are many ways to distribute work and governance. Sometimes the governing b
 
 This includes: 
 
--   defining domainsx
+-   defining domains
 -   delegating influence to people
 -   allocating resources and capacity
 -   specifying deliverables and prioritizing delivery.
