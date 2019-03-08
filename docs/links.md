@@ -5,7 +5,7 @@ title: "Links"
 
 **Latest version of the Practical Guide:**
 
-The [online version](http://patterns.sociocracy30.org) can be [annotated via hypothes.is](https://via.hypothes.is/http://patterns.sociocracy30.org/) and comes with an aplhabetical index and a pattern map for easy navigation.
+The [online version](http://patterns.sociocracy30.org) can be [annotated via hypothes.is](https://via.hypothes.is/http://patterns.sociocracy30.org/) and comes with an alphabetical index and a pattern map for easy navigation.
 
 Various other formats and languages of the practical guide can be found at [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
 

@@ -9,9 +9,11 @@ content:
     slug: introduction
     sections:
       - title: S3 Overview
-        slug: s3-overview
+        slug: s3-overview      
       - title: History
         slug: history
+      - title: Why Sociocracy 3.0?
+        slug: why-s3
       - title: Basic Concepts
         slug: basic-concepts
       - title: Patterns
@@ -226,6 +228,8 @@ content:
       slug: links
     - title: License
       slug: license
+    - title: S3 Intentional Commitment
+      slug: icpt
     - title: Acknowledgments
       slug: acknowledgments
     - title: Authors
