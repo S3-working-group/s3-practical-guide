@@ -3,7 +3,7 @@ title: "Changelog"
 ---
 
 
-### Changes 2018-09-22
+### Changes 2019-03-07
 
 **General Changes**
 
@@ -18,7 +18,7 @@ title: "Changelog"
 -   added <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective).">team</dfn> to glossary (and replaced group with team throughout the practical guide where applicable)
 -   updated definition for <dfn data-info="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</dfn>
 -   removed **driver statement** from text and glossary
--   updated definitions for <dfn data-info="Governance: The act of setting objectives, and then navigating and steering to achieve them. People with authority intentionally make and evolve decisions which have an ongoing effect on the way an organization (or a team or individual within it) creates value. These decisions set constraints on actions, guide future decisions, allocate resources and determine specifics of deliverables.">governance</dfn>, <dfn data-info="Operations: Doing the work and organizing day to day activities within the constraints defined through governance.">operations</dfn>, and <dfn data-info="Self-Organization: Any activity or process through which people organize through local interactions without the influence of an external agent. In any organization or team, self-organization and external influence co-exist.">self-organization</dfn>
+-   updated definitions for <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn>, <dfn data-info="Operations: Doing the work and organizing day to day activities within the constraints defined through governance.">operations</dfn>, and <dfn data-info="Self-Organization: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.">self-organization</dfn>
 
 **Illustrations:**
 

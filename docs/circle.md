@@ -8,7 +8,7 @@ _A **circle** is a self-governing and semi-autonomous team of equivalent people 
 A circle:
 
 -   may be permanent or temporary
--   may be <dfn data-info="Self-Organization: Any activity or process through which people organize through local interactions without the influence of an external agent. In any organization or team, self-organization and external influence co-exist.">self-organizing</dfn>
+-   may be <dfn data-info="Self-Organization: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.">self-organizing</dfn>
 -   is accountable for its own development and its body of <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn>
 
 -   **semi-autonomous**:
@@ -17,7 +17,7 @@ A circle:
 -   **self-governing**:
     -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
 -  **equivalence of circle members**
-    -   All members of a circle are equally accountable for <dfn data-info="Governance: The act of setting objectives, and then navigating and steering to achieve them. People with authority intentionally make and evolve decisions which have an ongoing effect on the way an organization (or a team or individual within it) creates value. These decisions set constraints on actions, guide future decisions, allocate resources and determine specifics of deliverables.">governance</dfn> of the circle's domain.
+    -   All members of a circle are equally accountable for <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn> of the circle's domain.
 
 ![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)  
 

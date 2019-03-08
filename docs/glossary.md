@@ -52,7 +52,7 @@ title: Glossary
 
 **Flow of Value**: Deliverables traveling through an organization towards customers or other stakeholders.
 
-**Governance**: The act of setting objectives, and then navigating and steering to achieve them. People with authority intentionally make and evolve decisions which have an ongoing effect on the way an organization (or a team or individual within it) creates value. These decisions set constraints on actions, guide future decisions, allocate resources and determine specifics of deliverables.
+**Governance**: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.
 
 **Governance Backlog**: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
 
@@ -90,9 +90,9 @@ title: Glossary
 
 **Self-Governance**: People governing themselves within the constraints of a domain.
 
-**Self-Organization**: Any activity or process through which people organize through local interactions without the influence of an external agent. In any organization or team, self-organization and external influence co-exist.
+**Self-Organization**: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
 
-**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
+**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and [objections](glossary:objection) (including those of the delegator and of representatives).
 
 **Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
 
