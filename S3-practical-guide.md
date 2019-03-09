@@ -2135,6 +2135,7 @@ The second and third tier:
 
 **General Changes**
 
+- expanded the introduction with more information about S3 and the history of sociocracy that was previously only available on the main S3 website
 - updated section about governance in the introduction
 - added captions to all illustrations
 - renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
