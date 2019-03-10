@@ -278,7 +278,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
 
-Greater autonomy of individuals and teams necessitates clear agreements (i.e.guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they remain fit for purpose.
+Greater autonomy of individuals and teams necessitates clear agreements (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they remain fit for purpose.
 
 While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people’s behavior and actions, often benefits from a more participatory and deliberate _decision making process_.
 
@@ -304,11 +304,6 @@ This includes:
 -   specifying deliverables and prioritizing delivery.
 
 Governance decisions can be made at any time and at any place, not just in a specific kind of meeting, although a _regular meeting for making and evolving agreements_ is often a good idea.
-
-The distinction between governance and operations is dependent on context and existing agreements, and is in some cases arbitrary. For those decisions, weigh benefits and costs of bringing together the governing body to make and evolve an agreement - not  everything that could be made a governance decision should be made one.
-
-Also, since governance is a conscious and deliberate process by people with a mandate, the existence of a precedent does not create a binding agreement: Just because someone in an organization has previously solved a specific problem in a specific way, this does not imply that when a similar issue comes up again it needs to be done in the same way. Sometimes it’s a good idea to again make an operative decision about the current issue, in other cases it is appropriate to take the issue to the governing body to make a governance decision.
-
 
 #### Related Concepts
 
@@ -924,7 +919,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 - if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
 - consult a lawyer who supports the culture you aspire to and is competent in the field if business you are negotiating
 
-#### When Co-Creating A Contract:
+#### When Co-Creating a Contract:
 
 - ensure all parties have a delegation that includes representation for all affected domains (e.g. not only sales, but also development / production / support, etc)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
@@ -1920,8 +1915,8 @@ The second and third tier:
 - updated section about governance in the introduction
 - added captions to all illustrations
 - renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
-- removed slide deck version and improved pdf and ePub version
-- added glossary links to many patterns
+- removed slide deck version and improved layout and formatting of pdf and ePub version
+- website version: added clickable pattern map for simpler navigation und  glossary overlays to many patterns
 
 **Glossary:**
 
@@ -1964,8 +1959,8 @@ The second and third tier:
 -   added the driver for creating Sociocracy 3.0
 -   The Seven Principles:
     -   _The Principle of Empiricism_: removed reference to “falsification” 
-    -   _The Principle of Consent_ is now explained more clearly as  “Raise, seek-out and resolve objections to decisions and actions” 
--   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”,  and clarified the distinction between governance and operations
+    -   _The Principle of Consent_ is now explained more clearly as “Raise, seek-out and resolve objections to decisions and actions” 
+-   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”, and clarified the distinction between governance and operations
 -   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
 
 **Changes to Patterns:**
@@ -1987,7 +1982,7 @@ The second and third tier:
 - _Double Linking_: aligned description to _Link_
 - _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
 - _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
-- _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
+- _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about also evolving evaluation criteria when evolving agreements
 - _Facilitate Meetings_: improved description
 - _Fractal Organization_: extended and improved description
 - _Governance Backlog_: improved description
@@ -2026,7 +2021,7 @@ The second and third tier:
 
 ### Changes 2018-03-21
 
-* renamed pattern  _Describe Drivers_ to _Describe Organizational Drivers_
+* renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_
 * _Describe Organizational Drivers_: explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 * added _need_ to glossary
 
