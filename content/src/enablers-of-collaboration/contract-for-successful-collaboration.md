@@ -38,7 +38,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 - if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
 - consult a lawyer who supports the culture you aspire to and is competent in the field if business you are negotiating
 
-### When Co-Creating A Contract:
+### When Co-Creating a Contract:
 
 - ensure all parties have a delegation that includes representation for all affected [domains](glossary:domain) (e.g. not only sales, but also development / production / support, etc)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
