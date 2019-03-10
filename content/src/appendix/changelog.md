@@ -7,8 +7,8 @@
 - updated section about governance in the introduction
 - added captions to all illustrations
 - renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
-- removed slide deck version and improved pdf and ePub version
-- added glossary links to many patterns
+- removed slide deck version and improved layout and formatting of pdf and ePub version
+- website version: added clickable pattern map for simpler navigation und  glossary overlays to many patterns
 
 **Glossary:**
 
@@ -74,7 +74,7 @@
 - [Double Linking](section:double-linking): aligned description to _Link_
 - [Double-Linked Hierarchy](section:double-linked-hierarchy): explained in more detail what a double-linked hierarchy is, and how it is created
 - [Evaluate and Evolve Agreements](section:evaluate-and-evolve-agreements): rearranged the text so it's clear there is a long and a short format
-- [Evaluation Criteria](section:evaluation-criteria): suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
+- [Evaluation Criteria](section:evaluation-criteria): suggested clarifying a threshold for success, and we explained about also evolving evaluation criteria when evolving agreements
 - [Facilitate Meetings](section:facilitate-meetings): improved description
 - [Fractal Organization](section:fractal-organization): extended and improved description
 - [Governance Backlog](section:governance-backlog): improved description
