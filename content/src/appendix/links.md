@@ -10,4 +10,4 @@ Various other formats and languages of the practical guide can be found at <http
 
 **Main S3 website:**: <http://sociocracy30.org>
 
-**Follow us on twitter:** [@sociocracy30](http://twitter.com/sociocracy30)
+**Follow us on twitter:** _@sociocracy30_
