@@ -10,10 +10,11 @@ Basically this license grants you:
 3. Freedom to share copies of the work for any purpose, even commercially.
 4. Freedom to make and share remixes and other derivatives for any purpose.
 
-You need to **attribute the original creator of the materials**, and **all derivatives need to be shared under the same license**. There’s more on the topic of free culture on the [Creative Commons website](https://creativecommons.org/freeworks).
+You need to **attribute the original creator of the materials**, and **all derivatives need to be shared under the same license**. 
 
 To view the the full text of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
 
+There’s more on the topic of free culture on the [Creative Commons website](https://creativecommons.org/freeworks).
 
 ### Attribution of derivative works
 
