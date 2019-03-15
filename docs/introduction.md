@@ -7,9 +7,9 @@ title: Introduction
 
 ### Effective Collaboration At Any Scale
 
-Sociocracy 3.0 — **a.k.a. “S3”** — is a practical guide for evolving agile and resilient organizations of any size, from small start-ups to large international networks and nationwide, multi-agency collaboration. It provides for a is a coherent way for growing organizational integrity and **developing a sociocratic and agile mindset**. 
+Sociocracy 3.0 — **a.k.a. “S3”** — is a practical guide for evolving agile and resilient organizations of any size, from small start-ups to large international networks and nationwide, multi-agency collaboration. It provides for a coherent way for growing organizational integrity and **developing a sociocratic and agile mindset**. 
 
-S3 brings you an extensive collection of guidelines and practices (so-called “patterns”) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**
+S3 brings you an extensive collection of guidelines and practices (so-called “patterns”) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**.
 
 These patterns help you discover how to best reach your objectives and navigate complexity, one step at a time, **without the need for sudden radical reorganization or planning a long-term change initiative**:
 
@@ -19,8 +19,8 @@ These patterns help you discover how to best reach your objectives and navigate 
 
 Sociocracy 3.0 is:
 
--   **principles-based:** seven core principles of agile and sociocratic collaboration are reflected in every pattern
 -   **flexible:** adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
+-   **principles-based:** seven core principles of agile and sociocratic collaboration are reflected in every pattern
 -   **free:** licensed under a Creative Commons Free Culture License
 
 
@@ -100,9 +100,10 @@ We also love agile, lean, Kanban, the Core Protocols, NVC, and many other ideas 
 
 Therefore we decided to devote some of our time to develop and evolve Sociocracy, integrating it with many of these other potent ideas, to make it available and applicable to as many organizations as possible.
 
-To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability. That’s why we call it *Sociocracy 3.0* (or “S3”).
+To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability. 
 
 ### The Name
+
 
 The name “*Sociocracy 3.0*” demonstrates both respect to the lineage and a significant step forward.
 
