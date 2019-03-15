@@ -5,6 +5,9 @@ Translations:
 	- fix "make single" command (deckset commands are no longer stripped) @done(2018-09-14)
 	- make rename plain to "image-map" or similar
 	- set up plain.html as template (replace language and text direction)
+	Known Issues:
 	- there's an issue with generating the footer for the website: the template where variables are substituted contains English text and is outside the content folder. This needs to change as the github url cannot be substitutet that way. Find out if this is a systemic problem
+	- in the pdf, several links are rendered as footnotes, even though the linked text is the URL itself, that is not really brilliant @done
+	- in the epub, page breaks should be before each pattern
 
 
