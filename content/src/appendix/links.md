@@ -1,8 +1,6 @@
 ## Links
 
-**Latest version of the Practical Guide:**
-
-The latest online version of the Practical Guide at <http://patterns.sociocracy30.org> can be annotated via hypothes.is and comes with an alphabetical index and a pattern map for easy navigation.
+The **latest online version** of the Practical Guide at <http://patterns.sociocracy30.org> can be annotated via hypothes.is and comes with an alphabetical index and a pattern map for easy navigation.
 
 Various other formats and languages of the practical guide can be found at <http://sociocracy30.org/guide/>
 
