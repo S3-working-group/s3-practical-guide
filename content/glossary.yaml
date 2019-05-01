@@ -44,8 +44,8 @@ terms:
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
   concern:
     name: Concern
-    definition: A **concern** is an opinion that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver.
-    glossary: An opinion why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+    definition: A **concern** is an assumption that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver.
+    glossary: An assumption why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
   consent:
     name: Consent (principle)
     definition:
@@ -143,7 +143,7 @@ terms:
   objection:
     name: Objection
     definition: An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
-    glossary: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
+    glossary: A _reason_ — relating to a proposal, decision, existing agreement or action — that reveals unintended consequences, or viable ways to improve.
   peer-domain:
     name: Peer Domain
     definition:
