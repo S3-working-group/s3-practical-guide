@@ -36,4 +36,6 @@ Consider:
 
 Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s).
 
+![Proposal forming process](img/agreements/proposal-forming.png)
+
 ![A simple template for proposals](img/templates/proposal-template.png)
