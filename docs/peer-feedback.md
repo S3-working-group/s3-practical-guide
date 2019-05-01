@@ -13,7 +13,7 @@ Considerations:
 
 -   invite peers to take some time to prepare
 -   invite both **appreciations** and **actionable improvement suggestions**
--   inquire to better understand the feedback, and avoid to discuss or judge it
+-   inquire to better understand the feedback, and avoid discussing or judging it
 -   decide for yourself what you will do with feedback you receive
 
 

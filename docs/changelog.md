@@ -3,6 +3,12 @@ title: "Changelog"
 ---
 
 
+### Changes 2019-05-01
+
+- [Objection](objection.html): refined definition of objection and concern, added illustration for a process to qualify an objection
+- [Proposal Forming](proposal-forming.html): added missing process illustration
+- [Role Selection](role-selection.html): small amendmend to illustration
+
 ### Changes 2019-03-08
 
 **General Changes**

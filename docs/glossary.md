@@ -20,7 +20,7 @@ title: Glossary
 
 **Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 
-**Concern**: An opinion why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+**Concern**: An assumption why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
 
 **Consent (principle)**: Raise, seek out and resolve objections to decisions and actions.
 
@@ -66,7 +66,7 @@ title: Glossary
 
 **Need**: The lack of something wanted or deemed necessary (a requirement).
 
-**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
+**Objection**: A _reason_ — relating to a proposal, decision, existing agreement or action — that reveals unintended consequences, or viable ways to improve.
 
 **Open Domain**: A domain that is accounted for by a set of people who are invited to contribute when they can.
 
@@ -92,7 +92,7 @@ title: Glossary
 
 **Self-Organization**: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
 
-**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and [objections](glossary:objection) (including those of the delegator and of representatives).
+**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
 
 **Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
 

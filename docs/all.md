@@ -8,9 +8,9 @@ title: Sociocracy 3.0 - A Practical Guide
 
 ### Effective Collaboration At Any Scale
 
-Sociocracy 3.0 — **a.k.a. “S3”** — is a practical guide for evolving agile and resilient organizations of any size, from small start-ups to large international networks and nationwide, multi-agency collaboration. It provides for a is a coherent way for growing organizational integrity and **developing a sociocratic and agile mindset**. 
+Sociocracy 3.0 — **a.k.a. “S3”** — is a practical guide for evolving agile and resilient organizations of any size, from small start-ups to large international networks and nationwide, multi-agency collaboration. It provides for a coherent way for growing organizational integrity and **developing a sociocratic and agile mindset**. 
 
-S3 brings you an extensive collection of guidelines and practices (so-called “patterns”) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**
+S3 brings you an extensive collection of guidelines and practices (so-called “patterns”) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**.
 
 These patterns help you discover how to best reach your objectives and navigate complexity, one step at a time, **without the need for sudden radical reorganization or planning a long-term change initiative**:
 
@@ -20,8 +20,8 @@ These patterns help you discover how to best reach your objectives and navigate 
 
 Sociocracy 3.0 is:
 
--   **principles-based:** seven core principles of agile and sociocratic collaboration are reflected in every pattern
 -   **flexible:** adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
+-   **principles-based:** seven core principles of agile and sociocratic collaboration are reflected in every pattern
 -   **free:** licensed under a Creative Commons Free Culture License
 
 
@@ -64,7 +64,7 @@ Sociocracy 3.0 is:
 
 ![Influences and history of Sociocracy 3.0](img/context/history.png)
 
-The literal meaning of the term **sociocracy**  is "rule of the companions": _socio__ - from Latin _socius_ – means "companion"", or "friend"", and the suffix _-cracy_  - from Ancient Greek κράτος (krátos) - means “power", or "rule”.
+The literal meaning of the term **sociocracy**  is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means “power", or "rule”.
 
 The word sociocracy can be traced back to 1851, when **Auguste Comté** suggested applying a scientific approach to society: states states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
 
@@ -86,12 +86,12 @@ Together, they seek to make S3 available and applicable to as many organizations
 
 ### The Sociocracy 3.0 Movement
 
-As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds - pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts -  who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and it’s various applications.
+As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and it’s various applications.
 
 
 
 
-## Why Sociocracy 3.0?
+## Why Sociocracy 3.0?
 
 Sociocracy as a form of governance has been referred to since 1851. Subsequently it has been developed and adapted by many different people and organizations, including Gerard Endenburg, The Sociocracy Group (TSG) and Brian Robertson (HolacracyOne).
 
@@ -103,11 +103,12 @@ We also love agile, lean, Kanban, the Core Protocols, NVC, and many other ideas 
 
 Therefore we decided to devote some of our time to develop and evolve Sociocracy, integrating it with many of these other potent ideas, to make it available and applicable to as many organizations as possible.
 
-To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability. That’s why we call it *Sociocracy 3.0* (or “S3”).
+To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability. 
 
 ### The Name
 
-The name “*Sociocracy 3.0*” demonstrates both respect to the lineage and a significant step forward.
+
+The name “*Sociocracy 3.0*” demonstrates both respect to the lineage and a significant step forward.
 
 It also helps avoid the perception of us misrepresenting the *Sociocratic Circle Organization Method* (SCM) as promoted by The Sociocracy Group.
 
@@ -115,43 +116,43 @@ It also helps avoid the perception of us misrepresenting the *Sociocratic Circle
 
 ### The New Model of Distribution
 
-*Sociocracy 3.0* employs a non-centralized model for distribution. This is a paradigm shift in the way sociocracy is brought to people and organizations, and one that many people can relate to.
+*Sociocracy 3.0* employs a non-centralized model for distribution. This is a paradigm shift in the way sociocracy is brought to people and organizations, and one that many people can relate to.
 
 We support “viral” distribution through two key strategies:
 
-* **Sociocracy 3.0 is open**: We want to encourage growth of a vibrant ecosystem of applications and flavors of sociocracy, where people share and discuss their insights and the adaptations they are making for their specific context. To this end Sociocracy 3.0 puts emphasis on communicating the underlying principles and explicitly invites the creativity of everyone to remix, extend and adapt things to suit their needs.
-* **Sociocracy 3.0 is free**: To eliminate the barrier of entry for people and organizations we provide free resources under a *Creative Commons Free Culture License* to learn, practice and teach *Sociocracy 3.0*. Everyone can use our resources without our explicit permission, even in a commercial context, or as a basis for building their own resources [^as long as they share their new resources under the same license]. We encourage other organizations, consultants, coaches, learning facilitators and trainers to follow our example and release their resources too.
+* **Sociocracy 3.0 is open**: We want to encourage growth of a vibrant ecosystem of applications and flavors of sociocracy, where people share and discuss their insights and the adaptations they are making for their specific context. To this end Sociocracy 3.0 puts emphasis on communicating the underlying principles and explicitly invites the creativity of everyone to remix, extend and adapt things to suit their needs.
+* **Sociocracy 3.0 is free**: To eliminate the barrier of entry for people and organizations we provide free resources under a *Creative Commons Free Culture License* to learn, practice and teach *Sociocracy 3.0*. Everyone can use our resources without our explicit permission, even in a commercial context, or as a basis for building their own resources [^as long as they share their new resources under the same license]. We encourage other organizations, consultants, coaches, learning facilitators and trainers to follow our example and release their resources too.
 
 ### The Evolution of the Sociocratic Circle Organization Method
 
-Maybe we need to make this explicit: Sociocracy 3.0 is not targeted specifically at the existing community of people exploring the *Sociocratic Circle Organization Method*, or at The Sociocracy Group (TSG). The *Sociocratic Circle Organization Method* (SCM) is already well developed and many people appear to be mostly happy with it.
+Maybe we need to make this explicit: Sociocracy 3.0 is not targeted specifically at the existing community of people exploring the *Sociocratic Circle Organization Method*, or at The Sociocracy Group (TSG). The *Sociocratic Circle Organization Method* (SCM) is already well developed and many people appear to be mostly happy with it.
 
-Yet from our direct experience, even for those organizations that have heard about sociocracy, there are many obstacles to actually become invested. With *Sociocracy 3.0* we actively work on addressing and eliminating what stands in the way.
+Yet from our direct experience, even for those organizations that have heard about sociocracy, there are many obstacles to actually become invested. With *Sociocracy 3.0* we actively work on addressing and eliminating what stands in the way.
 
 #### Reducing Risk and Resistance
 
-*Sociocracy 3.0* meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. *Sociocracy 3.0* provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
+*Sociocracy 3.0* meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. *Sociocracy 3.0* provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
 
 #### Shifting Focus From Aim (or Purpose) to Need
 
-*Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
+*Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
 
-In *Sociocracy 3.0*, purpose is implicit in all cases – to flow value to the organization's drivers.
+In *Sociocracy 3.0*, purpose is implicit in all cases – to flow value to the organization's drivers.
 
 #### Condensed to the Essentials
 
-When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
+When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
 
-This doesn’t mean to say it’s all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it’s important to only pull in what you need, because there’s no point to changing things if what you are doing is already good enough.
+This doesn’t mean to say it’s all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it’s important to only pull in what you need, because there’s no point to changing things if what you are doing is already good enough.
 
 #### Integration With Agile and Lean Thinking
 
-The *Sociocratic Circle Organization Method* is an “empty” method when it comes to operations and creating a culture of close collaboration. Many organizations already implement or show preference for lean and agile thinking for operations and collaboration. We believe this is a great idea, so *Sociocracy 3.0* is designed for easy adoption into lean and agile organizations.
+The *Sociocratic Circle Organization Method* is an “empty” method when it comes to operations and creating a culture of close collaboration. Many organizations already implement or show preference for lean and agile thinking for operations and collaboration. We believe this is a great idea, so *Sociocracy 3.0* is designed for easy adoption into lean and agile organizations.
 
 #### A New Way to Evolve Organizational Structure
 
 The organizational structure according to the *Sociocratic Circle Organization Method* is modeled on a hierarchy of domains. We see an increasing emergence of collaborative multi-stakeholder environments and the need for a wider variety of patterns for organizational structure.
-Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
+Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
 
 _James Priest, Bernhard Bockelbrink and Liliana David_
 
@@ -463,9 +464,9 @@ Withholding objections can harm the objectives of a team or organization.
 
 _An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement)._
 
-Objections to proposals, decisions, existing agreements or actions, contain information about **certain or likely consequence of harm**, or about **other viable ways to improve**.
+Objections reveal information about **unintended consequences**, or about **viable ways to improve**.
 
-It's the accountability of individuals to raise potential objections. 
+It’s the accountability of individuals to raise potential objections to proposals, decisions, existing agreements or actions.
 
 Withholding objections can harm the ability of individuals, teams or
 the whole organization to respond to organizational drivers.
@@ -490,7 +491,7 @@ The information revealed by objections can be used to improve:
 
 #### Qualify Objections
 
-Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on opinion, preference or concern.
+Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on assumption or preference.
 
 To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
 
@@ -512,13 +513,16 @@ Some helpful questions:
 
 #### Concerns
 
-_A **concern** is an opinion that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
+_A **concern** is an assumption that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
 
 In _Consent Decision Making_, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
 
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
 If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
+
+![A process for qualifying an objection](img/agreements/qualify-objection-process.png)
+
 
 
 ###  Pattern 1.6: Resolve Objections
@@ -534,7 +538,6 @@ Typically it's most effective to **take one objection at a time**, resolve all o
 ![Some options for resolving objections](img/agreements/resolve-objections.png)
 
 ![A process for resolving objections](img/agreements/resolve-objections-process.png)
-
 
 
 ###  Pattern 1.7: Evaluate And Evolve Agreements
@@ -652,7 +655,7 @@ Consider:
 
 Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s).
 
-![A simple template for proposals](img/templates/proposal-template.png)
+![Proposal forming process](img/agreements/proposal-forming.png)
 
 
 ###  Pattern 1.11: Role Selection
@@ -666,6 +669,7 @@ Instead of simply assigning people for _roles_, or making a choice based only on
 - increase ownership over the decision
 - ensure support for the role keeper by those affected.
 
+A prerequisite to the selection process is a _clear description_ of the role's domain.
 
 #### Role Selection - Steps
 
@@ -728,7 +732,7 @@ Considerations:
 
 -   invite peers to take some time to prepare
 -   invite both **appreciations** and **actionable improvement suggestions**
--   inquire to better understand the feedback, and avoid to discuss or judge it
+-   inquire to better understand the feedback, and avoid discussing or judging it
 -   decide for yourself what you will do with feedback you receive
 
 
@@ -741,7 +745,7 @@ The role keeper — or team — leads the peer review by setting up the process 
 
 ![Peer review process](img/process/peer-review.png)
 
-Ensure to invite people with complementing perspectives to contribute to the review, and a _facilitator_.
+Ensure you invite people with complementary perspectives to contribute to the review, and a _facilitator_.
 
 Improvement suggestions may relate to personal development, collaboration, updates to the domain description (including the driver) and strategy.
 
@@ -784,8 +788,6 @@ _Artful Participation_ is an **individual commitment** to:
 
 #### Benefits Of Artful Participation
 
-![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
-
 Artful participation:
 
 - enables co-creation and evolution of agreements
@@ -793,6 +795,8 @@ Artful participation:
 - builds self-accountability, integrity and trust
 - generates a culture of mutual support and close collaboration
 - is more powerful when embraced by many
+
+![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
 
 #### Artful Participation: Self-Assessment
 
@@ -1242,6 +1246,7 @@ Establishing a process for the ongoing elimination of waste enables natural evol
 
 
 ![The Life-Cycle of an Agreement](img/evolution/agreement-lifecycle-long.png)
+
 
 ###  Pattern 6.1: Agreement
 
@@ -1788,6 +1793,7 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizati
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
 
+
 ###  Pattern 10.1: Service Circle
 
 **Outsource services required by two or more domains.**
@@ -1834,7 +1840,6 @@ Domains are linked as required to flow information and influence, and to support
 **Delegate all decision making to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence and building engagement.**
 
 1. Shift governance decision making from individuals to teams by forming self-governing circles on all levels of your organization.
-
 2. Each circle's members select one of their group to represent their interests and participate in the governance decision making of the next higher circle, and vice versa.
 
 A double-linked hierarchy:
@@ -1906,6 +1911,12 @@ The second and third tier:
 # Appendix
 
 ## Changelog
+
+### Changes 2019-05-01
+
+- _Objection_: refined definition of objection and concern, added illustration for a process to qualify an objection
+- _Proposal Forming_: added missing process illustration
+- _Role Selection_: small amendmend to illustration
 
 ### Changes 2019-03-08
 
@@ -2104,23 +2115,41 @@ The second and third tier:
 
 ## Links
 
-**Latest version of the Practical Guide:**
+The **latest online version** of the Practical Guide at <http://patterns.sociocracy30.org> can be annotated via hypothes.is and comes with an alphabetical index and a pattern map for easy navigation.
 
-The [online version](http://patterns.sociocracy30.org) can be [annotated via hypothes.is](https://via.hypothes.is/http://patterns.sociocracy30.org/) and comes with an alphabetical index and a pattern map for easy navigation.
+Various other formats and languages of the practical guide can be found at <http://sociocracy30.org/guide/>
 
-Various other formats and languages of the practical guide can be found at [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
+**More S3 Resources:** <http://sociocracy30.org/resources/>
 
-**More S3 Resources:** [http://sociocracy30.org/resources/](http://sociocracy30.org/resources/)
+**Main S3 website:**: <http://sociocracy30.org>
 
-**Main S3 website:**: [http://sociocracy30.org](http://sociocracy30.org)
-
-**Follow us on twitter:** [@sociocracy30](http://twitter.com/sociocracy30)
-
+**Follow us on twitter:** _@sociocracy30_
 
 ## License
 
-This work by Bernhard Bockelbrink, James Priest and Liliana David is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
-[http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
+
+"Sociocracy 3.0 - A Practical Guide"  by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**. 
+
+Basically this license grants you:
+
+1. Freedom to use the work itself.
+2. Freedom to use the information in the work for any purpose, even commercially.
+3. Freedom to share copies of the work for any purpose, even commercially.
+4. Freedom to make and share remixes and other derivatives for any purpose.
+
+You need to **attribute the original creator of the materials**, and **all derivatives need to be shared under the same license**. 
+
+To view the the full text of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
+
+There’s more on the topic of free culture on the [Creative Commons website](https://creativecommons.org/freeworks).
+
+### Attribution of derivative works
+
+If you create a derivative work, the license requires you to attribute them. A good attribution contains title, author, source and license, like this:
+
+> This work, “[name of your work]”, is a derivative of “Sociocracy 3.0 - A Practical Guide” by James Priest, Bernhard Bockelbrink and Liliana David used under CC BY SA. “[name of your work]” is licensed under CC BY SA by [your name].
+
+You can find out more about attribution on the [Creative Commons page about best practices for attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
 
 
 ## The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)
@@ -2194,26 +2223,26 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 ... serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
 
-[thriveincollaboration.com](http://thriveincollaboration.com)
+<https://thriveincollaboration.com>
 
-[james@thriveincollaboration.com](mailto:james@thriveincollaboration.com)
+<james@thriveincollaboration.com>
 
 
 ### Bernhard Bockelbrink 
 
 ... is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
 
-[evolvingcollaboration.com](http://evolvingcollaboration.com)
+<https://evolvingcollaboration.com>
 
-[bernhard.bockelbrink@evolvingcollaboration.com](mailto:bernhard.bockelbrink@evolvingcollaboration.com)
+<bernhard.bockelbrink@evolvingcollaboration.com>
 
 ### Liliana David
 
 ... serves internationally, providing training, facilitation and mentoring to teams and organizations wishing to develop greater effectiveness and equivalence in collaboration.
 
-[thriveincollaboration.com](http://thriveincollaboration.com)
+<https://thriveincollaboration.com>
 
-[lili@thriveincollaboration.com](mailto:lili@thriveincollaboration.com)
+<lili@thriveincollaboration.com>
 
 
 
@@ -2249,7 +2278,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 
 
-**Concern**: An opinion why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+**Concern**: An assumption why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
 
 
 **Consent (principle)**: Raise, seek out and resolve objections to decisions and actions.
@@ -2318,7 +2347,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Need**: The lack of something wanted or deemed necessary (a requirement).
 
 
-**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
+**Objection**: A _reason_ — relating to a proposal, decision, existing agreement or action — that reveals unintended consequences, or viable ways to improve.
 
 
 **Open Domain**: A domain that is accounted for by a set of people who are invited to contribute when they can.
@@ -2357,7 +2386,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Self-Organization**: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
 
 
-**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and [objections](glossary:objection) (including those of the delegator and of representatives).
+**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
 
 
 **Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.

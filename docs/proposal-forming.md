@@ -39,7 +39,7 @@ Consider:
 
 Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s).
 
-![A simple template for proposals](img/templates/proposal-template.png)
+![Proposal forming process](img/agreements/proposal-forming.png)
 
 
 [&#9654; Role Selection](role-selection.html)<br/>[&#9664; Co-Create Proposals](co-create-proposals.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
