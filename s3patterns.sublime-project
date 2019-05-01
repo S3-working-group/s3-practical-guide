@@ -13,7 +13,7 @@
 		{
 			"file_exclude_patterns":
 			[
-				"./docs/*.md"
+				"s3-practical-guide/docs/*.md"
 			],
 			"folder_exclude_patterns":
 			[
