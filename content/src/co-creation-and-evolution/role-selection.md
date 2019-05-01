@@ -9,7 +9,7 @@ Instead of simply assigning people for [roles](section:role), or making a choice
 - increase ownership over the decision
 - ensure support for the role keeper by those affected.
 
-A prerequisite to the selection process is a [clear description](section:clarify-domains) of the role's [domain]((glossary:domain)).
+A prerequisite to the selection process is a [clear description](section:clarify-domains) of the role's [domain](glossary:domain).
 
 ### Role Selection - Steps
 

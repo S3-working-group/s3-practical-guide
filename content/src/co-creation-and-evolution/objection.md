@@ -37,9 +37,6 @@ _“Do you think this argument qualifies as an objection?”_
 
 If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
 
-![A process for qualifying an objection](img/agreements/qualify-objection-process.png)
-
-
 ### Understanding Objections
 
 Some helpful questions:
@@ -61,3 +58,6 @@ In [Consent Decision Making](section:consent-decision-making), concerns can info
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
 If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
+
+![A process for qualifying an objection](img/agreements/qualify-objection-process.png)
+
