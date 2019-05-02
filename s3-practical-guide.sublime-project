@@ -20,7 +20,9 @@
 				"./docs/reveal.js/plugin",
 				"./docs/reveal.js/lib",
 				"./docs/reveal.js/js",
-				"./docs/_site"
+				"./docs/_site",
+				"_attic",
+				"tmp"
 			],
 			"path": "."
 		}
