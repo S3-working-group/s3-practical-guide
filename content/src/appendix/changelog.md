@@ -5,7 +5,7 @@
 - [Objection](section:objection): refined definition of objection and concern, added illustration for a process to qualify an objection
 - [Proposal Forming](section:proposal-forming): added missing process illustration
 - [Role Selection](section:role-selection): small amendment to illustration
-- refined glossary terms of [organization](glossary:organzation) and [team](glossary:team), added glossary term for [objective](glossary:objective)
+- refined glossary terms of [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
 
 ### Changes 2019-03-08
 
