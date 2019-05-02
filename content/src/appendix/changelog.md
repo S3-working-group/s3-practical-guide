@@ -48,11 +48,11 @@
 - lots of small improvements to grammar and language
 - included the URL to the web version of the practical guide 
 
-**Glossary**:
+**Glossary:**
 
--   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
--   **removed**: peer driver
+-   **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
+-   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
+-   **removed:** peer driver
 
 **Changes to Introduction**
 

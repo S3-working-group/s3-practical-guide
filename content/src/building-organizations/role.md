@@ -15,6 +15,6 @@ A role is a simple way for an organization (or [team](glossary:team)) to delegat
 
 A role keeper may maintain a governance [backlog](glossary:backlog), and a [logbook](glossary:logbook) to record and help them evolve their approach toward delivering [value](glossary:value).
 
-**Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
+**Note:** In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
 
 ![People can take responsibility for more than one role](img/illustrations/roles.png)
