@@ -148,10 +148,14 @@ terms:
     name: Peer Domain
     definition:
     glossary: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
+  objective:
+    name: Objective
+    definition:
+    glossary: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.
   organization:
     name: Organization
     definition:
-    glossary: A group of people collaborating toward a shared driver (or objective).
+    glossary: A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.
   organizational-driver:
     name: Organizational Driver
     definition:
@@ -213,7 +217,7 @@ terms:
   team:
     name: Team
     definition:
-    glossary: A group of people collaborating toward a shared driver (or objective).
+    glossary: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.
   tension:
     name: Tension
     definition:
