@@ -16,8 +16,6 @@ _Artful Participation_ is an **individual commitment** to:
 
 ### Benefits Of Artful Participation
 
-![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
-
 Artful participation:
 
 - enables co-creation and evolution of agreements
@@ -25,6 +23,8 @@ Artful participation:
 - builds self-accountability, integrity and trust
 - generates a culture of mutual support and close collaboration
 - is more powerful when embraced by many
+
+![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
 
 ### Artful Participation: Self-Assessment
 

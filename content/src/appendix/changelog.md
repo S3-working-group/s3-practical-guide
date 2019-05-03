@@ -1,5 +1,18 @@
 ## Changelog
 
+### Changes 2019-05-01
+
+- refined glossary terms for [agreement](glossary:agreement), [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
+- Principle of Accountability: clarified individual accountability for work as well as for collaboration
+- [Contract For Successful Collaboration](section:contract-for-successful-collaboration): revised text
+- [Describe Deliverables](section:describe-deliverables): added User Stories as an example for describing deliverables
+- [Double-Linked Hierarchy](section:double-linked-hierarchy): revised summary
+- [Delegate Circle](section:delegate-circle): refined summary
+- [Objection](section:objection): refined definition of objection and concern, added illustration for a process to qualify an objection
+- [Proposal Forming](section:proposal-forming): added missing process illustration
+- [Role Selection](section:role-selection): small amendment to illustration
+- [Transparent Salary](section:transparent-salary): explained what a salary formula is
+
 ### Changes 2019-03-08
 
 **General Changes**
@@ -8,8 +21,8 @@
 - updated section about governance in the introduction
 - added captions to all illustrations
 - renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
-- removed slide deck version and improved pdf and ePub version
-- added glossary links to many patterns
+- removed slide deck version and improved layout and formatting of pdf and ePub version
+- website version: added clickable pattern map for simpler navigation und  glossary overlays to many patterns
 
 **Glossary:**
 
@@ -41,19 +54,19 @@
 - lots of small improvements to grammar and language
 - included the URL to the web version of the practical guide 
 
-**Glossary**:
+**Glossary:**
 
--   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
--   **removed**: peer driver
+-   **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
+-   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
+-   **removed:** peer driver
 
 **Changes to Introduction**
 
 -   added the driver for creating Sociocracy 3.0
 -   The Seven Principles:
     -   _The Principle of Empiricism_: removed reference to “falsification” 
-    -   _The Principle of Consent_ is now explained more clearly as  “Raise, seek-out and resolve objections to decisions and actions” 
--   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”,  and clarified the distinction between governance and operations
+    -   _The Principle of Consent_ is now explained more clearly as “Raise, seek-out and resolve objections to decisions and actions” 
+-   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”, and clarified the distinction between governance and operations
 -   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
 
 **Changes to Patterns:**
@@ -75,7 +88,7 @@
 - [Double Linking](section:double-linking): aligned description to _Link_
 - [Double-Linked Hierarchy](section:double-linked-hierarchy): explained in more detail what a double-linked hierarchy is, and how it is created
 - [Evaluate and Evolve Agreements](section:evaluate-and-evolve-agreements): rearranged the text so it's clear there is a long and a short format
-- [Evaluation Criteria](section:evaluation-criteria): suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
+- [Evaluation Criteria](section:evaluation-criteria): suggested clarifying a threshold for success, and we explained about also evolving evaluation criteria when evolving agreements
 - [Facilitate Meetings](section:facilitate-meetings): improved description
 - [Fractal Organization](section:fractal-organization): extended and improved description
 - [Governance Backlog](section:governance-backlog): improved description
@@ -114,7 +127,7 @@
 
 ### Changes 2018-03-21
 
-* renamed pattern  _Describe Drivers_ to _Describe Organizational Drivers_
+* renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_
 * [Describe Organizational Drivers](section:describe-organizational-drivers): explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 * added _need_ to glossary
 

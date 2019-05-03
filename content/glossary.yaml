@@ -19,8 +19,8 @@ terms:
     glossary: to take the responsibility for something.
   agreement:
     name: Agreement
-    definition: An **agreement** is an agreed upon guideline, process or protocol designed to guide the flow of value.
-    glossary: An agreed upon guideline, process or protocol designed to guide the flow of value.
+    definition: An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value.
+    glossary: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.
   alignment:
     name: Alignment
     glossary: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
@@ -44,8 +44,8 @@ terms:
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
   concern:
     name: Concern
-    definition: A **concern** is an opinion that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver.
-    glossary: An opinion why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+    definition: A **concern** is an assumption that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver.
+    glossary: An assumption why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
   consent:
     name: Consent (principle)
     definition:
@@ -143,15 +143,19 @@ terms:
   objection:
     name: Objection
     definition: An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
-    glossary: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
+    glossary: A _reason_ — relating to a proposal, decision, existing agreement or action — that reveals unintended consequences, or viable ways to improve.
   peer-domain:
     name: Peer Domain
     definition:
     glossary: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
+  objective:
+    name: Objective
+    definition:
+    glossary: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.
   organization:
     name: Organization
     definition:
-    glossary: A group of people collaborating toward a shared driver (or objective).
+    glossary: A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.
   organizational-driver:
     name: Organizational Driver
     definition:
@@ -186,7 +190,7 @@ terms:
   semi-autonomy:
     name: Semi-Autonomy
     definition:
-    glossary: The autonomy of people to create value within their domain, further limited by their own governance decisions, and [objections](glossary:objection) (including those of the delegator and of representatives).
+    glossary: The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
   sociocracy:
     name: Sociocracy
     glossary: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
@@ -213,7 +217,7 @@ terms:
   team:
     name: Team
     definition:
-    glossary: A group of people collaborating toward a shared driver (or objective).
+    glossary: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.
   tension:
     name: Tension
     definition:

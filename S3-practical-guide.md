@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2019-03-08) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2019-05-03) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -19,9 +19,9 @@ theme: Plain Jane, 1
 
 ### Effective Collaboration At Any Scale
 
-Sociocracy 3.0 — **a.k.a. “S3”** — is a practical guide for evolving agile and resilient organizations of any size, from small start-ups to large international networks and nationwide, multi-agency collaboration. It provides for a is a coherent way for growing organizational integrity and **developing a sociocratic and agile mindset**. 
+Sociocracy 3.0 — **a.k.a. “S3”** — is a practical guide for evolving agile and resilient organizations of any size, from small start-ups to large international networks and nationwide, multi-agency collaboration. It provides for a coherent way for growing organizational integrity and **developing a sociocratic and agile mindset**. 
 
-S3 brings you an extensive collection of guidelines and practices (so-called “patterns”) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**
+S3 brings you an extensive collection of guidelines and practices (so-called “patterns”) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**.
 
 These patterns help you discover how to best reach your objectives and navigate complexity, one step at a time, **without the need for sudden radical reorganization or planning a long-term change initiative**:
 
@@ -31,8 +31,8 @@ These patterns help you discover how to best reach your objectives and navigate 
 
 Sociocracy 3.0 is:
 
--   **principles-based:** seven core principles of agile and sociocratic collaboration are reflected in every pattern
 -   **flexible:** adaptable patterns, independent and mutually reinforcing, to help you with all aspects of collaboration
+-   **principles-based:** seven core principles of agile and sociocratic collaboration are reflected in every pattern
 -   **free:** licensed under a Creative Commons Free Culture License
 
 
@@ -77,7 +77,7 @@ Sociocracy 3.0 is:
 
 ![Influences and history of Sociocracy 3.0](img/context/history.png)
 
-The literal meaning of the term **sociocracy**  is "rule of the companions": _socio__ - from Latin _socius_ – means "companion"", or "friend"", and the suffix _-cracy_  - from Ancient Greek κράτος (krátos) - means “power", or "rule”.
+The literal meaning of the term **sociocracy**  is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means “power", or "rule”.
 
 The word sociocracy can be traced back to 1851, when **Auguste Comté** suggested applying a scientific approach to society: states states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
 
@@ -99,14 +99,14 @@ Together, they seek to make S3 available and applicable to as many organizations
 
 ### The Sociocracy 3.0 Movement
 
-As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds - pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts -  who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and it’s various applications.
+As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and it’s various applications.
 
 
 
 
 ---
 
-## Why Sociocracy 3.0?
+## Why Sociocracy 3.0?
 
 Sociocracy as a form of governance has been referred to since 1851. Subsequently it has been developed and adapted by many different people and organizations, including Gerard Endenburg, The Sociocracy Group (TSG) and Brian Robertson (HolacracyOne).
 
@@ -118,11 +118,12 @@ We also love agile, lean, Kanban, the Core Protocols, NVC, and many other ideas 
 
 Therefore we decided to devote some of our time to develop and evolve Sociocracy, integrating it with many of these other potent ideas, to make it available and applicable to as many organizations as possible.
 
-To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability. That’s why we call it *Sociocracy 3.0* (or “S3”).
+To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability. 
 
 ### The Name
 
-The name “*Sociocracy 3.0*” demonstrates both respect to the lineage and a significant step forward.
+
+The name “*Sociocracy 3.0*” demonstrates both respect to the lineage and a significant step forward.
 
 It also helps avoid the perception of us misrepresenting the *Sociocratic Circle Organization Method* (SCM) as promoted by The Sociocracy Group.
 
@@ -130,43 +131,43 @@ It also helps avoid the perception of us misrepresenting the *Sociocratic Circle
 
 ### The New Model of Distribution
 
-*Sociocracy 3.0* employs a non-centralized model for distribution. This is a paradigm shift in the way sociocracy is brought to people and organizations, and one that many people can relate to.
+*Sociocracy 3.0* employs a non-centralized model for distribution. This is a paradigm shift in the way sociocracy is brought to people and organizations, and one that many people can relate to.
 
 We support “viral” distribution through two key strategies:
 
-* **Sociocracy 3.0 is open**: We want to encourage growth of a vibrant ecosystem of applications and flavors of sociocracy, where people share and discuss their insights and the adaptations they are making for their specific context. To this end Sociocracy 3.0 puts emphasis on communicating the underlying principles and explicitly invites the creativity of everyone to remix, extend and adapt things to suit their needs.
-* **Sociocracy 3.0 is free**: To eliminate the barrier of entry for people and organizations we provide free resources under a *Creative Commons Free Culture License* to learn, practice and teach *Sociocracy 3.0*. Everyone can use our resources without our explicit permission, even in a commercial context, or as a basis for building their own resources [^as long as they share their new resources under the same license]. We encourage other organizations, consultants, coaches, learning facilitators and trainers to follow our example and release their resources too.
+* **Sociocracy 3.0 is open:** We want to encourage growth of a vibrant ecosystem of applications and flavors of sociocracy, where people share and discuss their insights and the adaptations they are making for their specific context. To this end Sociocracy 3.0 puts emphasis on communicating the underlying principles and explicitly invites the creativity of everyone to remix, extend and adapt things to suit their needs.
+* **Sociocracy 3.0 is free:** To eliminate the barrier of entry for people and organizations we provide free resources under a *Creative Commons Free Culture License* to learn, practice and teach *Sociocracy 3.0*. Everyone can use our resources without our explicit permission, even in a commercial context, or as a basis for building their own resources [^as long as they share their new resources under the same license]. We encourage other organizations, consultants, coaches, learning facilitators and trainers to follow our example and release their resources too.
 
 ### The Evolution of the Sociocratic Circle Organization Method
 
-Maybe we need to make this explicit: Sociocracy 3.0 is not targeted specifically at the existing community of people exploring the *Sociocratic Circle Organization Method*, or at The Sociocracy Group (TSG). The *Sociocratic Circle Organization Method* (SCM) is already well developed and many people appear to be mostly happy with it.
+Maybe we need to make this explicit: Sociocracy 3.0 is not targeted specifically at the existing community of people exploring the *Sociocratic Circle Organization Method*, or at The Sociocracy Group (TSG). The *Sociocratic Circle Organization Method* (SCM) is already well developed and many people appear to be mostly happy with it.
 
-Yet from our direct experience, even for those organizations that have heard about sociocracy, there are many obstacles to actually become invested. With *Sociocracy 3.0* we actively work on addressing and eliminating what stands in the way.
+Yet from our direct experience, even for those organizations that have heard about sociocracy, there are many obstacles to actually become invested. With *Sociocracy 3.0* we actively work on addressing and eliminating what stands in the way.
 
 #### Reducing Risk and Resistance
 
-*Sociocracy 3.0* meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. *Sociocracy 3.0* provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
+*Sociocracy 3.0* meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. *Sociocracy 3.0* provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
 
 #### Shifting Focus From Aim (or Purpose) to Need
 
-*Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
+*Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
 
-In *Sociocracy 3.0*, purpose is implicit in all cases – to flow value to the organization's drivers.
+In *Sociocracy 3.0*, purpose is implicit in all cases – to flow value to the organization's drivers.
 
 #### Condensed to the Essentials
 
-When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
+When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
 
-This doesn’t mean to say it’s all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it’s important to only pull in what you need, because there’s no point to changing things if what you are doing is already good enough.
+This doesn’t mean to say it’s all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it’s important to only pull in what you need, because there’s no point to changing things if what you are doing is already good enough.
 
 #### Integration With Agile and Lean Thinking
 
-The *Sociocratic Circle Organization Method* is an “empty” method when it comes to operations and creating a culture of close collaboration. Many organizations already implement or show preference for lean and agile thinking for operations and collaboration. We believe this is a great idea, so *Sociocracy 3.0* is designed for easy adoption into lean and agile organizations.
+The *Sociocratic Circle Organization Method* is an “empty” method when it comes to operations and creating a culture of close collaboration. Many organizations already implement or show preference for lean and agile thinking for operations and collaboration. We believe this is a great idea, so *Sociocracy 3.0* is designed for easy adoption into lean and agile organizations.
 
 #### A New Way to Evolve Organizational Structure
 
 The organizational structure according to the *Sociocratic Circle Organization Method* is modeled on a hierarchy of domains. We see an increasing emergence of collaborative multi-stakeholder environments and the need for a wider variety of patterns for organizational structure.
-Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
+Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
 
 _James Priest, Bernhard Bockelbrink and Liliana David_
 
@@ -233,7 +234,7 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 Act within the constraints of any agreements governing domains you are accountable for, including the organization itself, teams you are part of, and roles you keep.
 
-Everyone's primary accountability is for effective collaboration in response to organizational drivers.
+Every member of the organization is accountable for effectively responding to organizational drivers, both in doing the work and in ensuring (supporting) effective collaboration.
 
 Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
 
@@ -307,7 +308,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
 
-Greater autonomy of individuals and teams necessitates clear agreements (i.e.guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they remain fit for purpose.
+Greater autonomy of individuals and teams necessitates clear agreements (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they remain fit for purpose.
 
 While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people’s behavior and actions, often benefits from a more participatory and deliberate _decision making process_.
 
@@ -334,18 +335,13 @@ This includes:
 
 Governance decisions can be made at any time and at any place, not just in a specific kind of meeting, although a _regular meeting for making and evolving agreements_ is often a good idea.
 
-The distinction between governance and operations is dependent on context and existing agreements, and is in some cases arbitrary. For those decisions, weigh benefits and costs of bringing together the governing body to make and evolve an agreement - not  everything that could be made a governance decision should be made one.
-
-Also, since governance is a conscious and deliberate process by people with a mandate, the existence of a precedent does not create a binding agreement: Just because someone in an organization has previously solved a specific problem in a specific way, this does not imply that when a similar issue comes up again it needs to be done in the same way. Sometimes it’s a good idea to again make an operative decision about the current issue, in other cases it is appropriate to take the issue to the governing body to make a governance decision.
-
-
 #### Related Concepts
 
-**Self-Governance**: People governing themselves within the constraints of a domain.
+**Self-Governance:** People governing themselves within the constraints of a domain.
 
-**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and [objections](glossary:objection) (including those of the delegator and of representatives).
+**Semi-Autonomy:** The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
 
-**Self-Organization**: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
+**Self-Organization:** Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
 
 Depending on the constraints set by the delegator, teams have more or less license to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing.
 
@@ -507,9 +503,9 @@ Withholding objections can harm the objectives of a team or organization.
 
 _An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement)._
 
-Objections to proposals, decisions, existing [agreements](glossary:agreement) or actions, contain information about **certain or likely consequence of harm**, or about **other viable ways to improve**.
+Objections reveal information about **unintended consequences**, or about **viable ways to improve**.
 
-It's the accountability of individuals to raise potential objections. 
+It’s the accountability of individuals to raise potential objections to proposals, decisions, existing [agreements](glossary:agreement) or actions.
 
 Withholding objections can harm the ability of individuals, teams or
 the whole organization to respond to [organizational drivers](glossary:organizational-driver).
@@ -534,7 +530,7 @@ The information revealed by objections can be used to improve:
 
 ### Qualify Objections
 
-Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on opinion, preference or concern.
+Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on assumption or preference.
 
 To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
 
@@ -556,13 +552,16 @@ Some helpful questions:
 
 ### Concerns
 
-_A **concern** is an opinion that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
+_A **concern** is an assumption that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
 
 In _Consent Decision Making_, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
 
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
 If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
+
+![A process for qualifying an objection](img/agreements/qualify-objection-process.png)
+
 
 
 ---
@@ -580,7 +579,6 @@ Typically it's most effective to **take one objection at a time**, resolve all o
 ![Some options for resolving objections](img/agreements/resolve-objections.png)
 
 ![A process for resolving objections](img/agreements/resolve-objections-process.png)
-
 
 
 ---
@@ -681,9 +679,9 @@ _Proposal Forming_ may also be used by an individual.
 
 ### Proposal Forming Steps
 
-**Consent to driver**: Briefly present the [driver](glossary:organizational-driver). _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_ 
+**Consent to driver:** Briefly present the [driver](glossary:organizational-driver). _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_ 
 
-**Deepen shared understanding of driver**: invite essential questions to understand the driver in more detail.
+**Deepen shared understanding of driver:** invite essential questions to understand the driver in more detail.
 
 **Collect considerations** phrased as questions relating to possible solutions. Questions either reveal constraints (information gathering questions) or possibilities (generative questions).
 
@@ -706,7 +704,7 @@ Consider:
 
 Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s).
 
-![A simple template for proposals](img/templates/proposal-template.png)
+![Proposal forming process](img/agreements/proposal-forming.png)
 
 
 ---
@@ -722,6 +720,7 @@ Instead of simply assigning people for _roles_, or making a choice based only on
 - increase ownership over the decision
 - ensure support for the role keeper by those affected.
 
+A prerequisite to the selection process is a _clear description_ of the role's [domain](glossary:domain).
 
 ### Role Selection - Steps
 
@@ -794,7 +793,7 @@ Considerations:
 
 -   invite peers to take some time to prepare
 -   invite both **appreciations** and **actionable improvement suggestions**
--   inquire to better understand the feedback, and avoid to discuss or judge it
+-   inquire to better understand the feedback, and avoid discussing or judging it
 -   decide for yourself what you will do with feedback you receive
 
 
@@ -809,7 +808,7 @@ The role keeper — or team — leads the peer review by setting up the process 
 
 ![Peer review process](img/process/peer-review.png)
 
-Ensure to invite people with complementing perspectives to contribute to the review, and a _facilitator_.
+Ensure you invite people with complementary perspectives to contribute to the review, and a _facilitator_.
 
 Improvement suggestions may relate to personal development, collaboration, updates to the [domain](glossary:domain) description (including the [driver](glossary:organizational-driver)) and [strategy](glossary:strategy).
 
@@ -860,8 +859,6 @@ _Artful Participation_ is an **individual commitment** to:
 
 ### Benefits Of Artful Participation
 
-![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
-
 Artful participation:
 
 - enables co-creation and evolution of agreements
@@ -869,6 +866,8 @@ Artful participation:
 - builds self-accountability, integrity and trust
 - generates a culture of mutual support and close collaboration
 - is more powerful when embraced by many
+
+![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
 
 ### Artful Participation: Self-Assessment
 
@@ -975,7 +974,7 @@ Developing shared understanding about needs and expectations is essential for su
 
 While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved. 
 
-This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations, e.g.: 
+This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). It is especially relevant for contracts that have a significant influence on the future of an organization or one of its partners, such as:
 
 - employment contracts and contracts with external contractors or consultants in _support roles_ (including any agreement that results in a change of remuneration or working hours)
 - contracts governing collaboration with customers, vendors or service providers
@@ -983,7 +982,7 @@ This pattern refers to contracts relating related to collaboration around any bu
 
 **Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
 
-### Criteria for a successful alliance between contracting parties
+### Success criteria for contract negotiation
 
 When negotiating a contract, ensure:
 
@@ -1000,12 +999,12 @@ If for any reason one or more of these criteria cannot be fulfilled, it is proba
 
 The way a contract is negotiated can significantly contribute toward building trust between parties. Approach contracting from the point of view of making an agreement between partners, not adversaries: co-create the contract, tailor it to its specific context, and ensure it is legally robust.
 
-- include all expectations to the parties involved, and explain each with adequate detail
+- the contract should include all expectations of the parties involved, each explained with adequate detail
 - use clear and simple language that all parties can understand, and be unambiguous about legal consequences
 - if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
 - consult a lawyer who supports the culture you aspire to and is competent in the field if business you are negotiating
 
-### When Co-Creating A Contract:
+### When Co-Creating a Contract:
 
 - ensure all parties have a delegation that includes representation for all affected [domains](glossary:domain) (e.g. not only sales, but also development / production / support, etc)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
@@ -1019,9 +1018,8 @@ The way a contract is negotiated can significantly contribute toward building tr
 ### Support The Full Lifecycle Of The Collaboration:
 
 Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
-
 - make provisions for successfully getting started by defining onboarding procedures
-- have a probationary period — where all parties can try out the collaboration — and a clear protocol for how to end the contract in the probationary period
+- have a probationary period, where all parties can try out the collaboration, and a clear protocol for how each party can terminate the contract during the probationary period
 - define and build into the contract regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
 - include procedures for breach of contract
 - consider making available alternative means for dispute resolution, e.g. mediation, conciliation  or arbitration
@@ -1045,7 +1043,7 @@ if you find that standard contracts in your industry are misaligned  with the cu
 
 **Create a fair salary formula and make it transparent.**
 
-Transparent salary (also referred to as "open salary") is the practice of making the salary formula — and often individual compensation as well — transparent to all members of an organization, and sometimes to the public.
+Transparent salary (also referred to as "open salary") is the practice of determining each employee's compensation according to a set of rules — the _salary formula_ — instead of making compensation subject to individual negotiation between employer and employee. The salary formula — and often individual compensation as well — is transparent to all members of an organization, and sometimes to the public.
 
 A transparent salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
 
@@ -1129,12 +1127,12 @@ A circle:
 -   may be [self-organizing](glossary:self-organization)
 -   is accountable for its own development and its body of [agreements](glossary:agreement)
 
--   **semi-autonomous**:
+-   **semi-autonomous:**
     -   A circle's members act within the constraints of their [domain](glossary:domain).
     -   Each circle can create [value](glossary:value) autonomously.
--   **self-governing**:
+-   **self-governing:**
     -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
--  **equivalence of circle members**
+-  **equivalence of circle members:**
     -   All members of a circle are equally accountable for [governance](glossary:governance) of the circle's domain.
 
 ![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)  
@@ -1159,7 +1157,7 @@ A role is a simple way for an organization (or [team](glossary:team)) to delegat
 
 A role keeper may maintain a governance [backlog](glossary:backlog), and a [logbook](glossary:logbook) to record and help them evolve their approach toward delivering [value](glossary:value).
 
-**Note**: In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
+**Note:** In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.  
 
 ![People can take responsibility for more than one role](img/illustrations/roles.png)
 
@@ -1385,7 +1383,7 @@ Establishing a process for the ongoing elimination of waste enables natural evol
 
 ## Pattern 6.1: Agreement
 
-_An **agreement** is an agreed upon guideline, process or protocol designed to guide the flow of value._
+_An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
 
 Agreements are created in response to [organizational drivers](glossary:organizational-driver), are **regularly reviewed**, and evolved as necessary.
 
@@ -1395,7 +1393,7 @@ An agreement can include **delegation of specific responsibilities** to individu
    
 Record any **expectations** related to [deliverables](glossary:deliverable), behavior or resources in the context of the agreement.
 
-**Note**: In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.  
+**Note:** In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.  
 
 ![Template for agreements](img/templates/agreement-template.png)
 
@@ -1469,6 +1467,7 @@ When describing deliverables:
 
 Explicitly describing deliverables can be useful for improving communication and collaboration within the organization, with customer and with external partners.
 
+**Example:** A popular way to describe deliverables in software-engineering are so-called **user stories**, which focus on the need of users in relation to a software system. User stories are developed in dialogue between a customer (or their representative, the product manager or "product owner"), and the software developer(s). What is written down is usually one sentence to remind the team of the user need, and acceptance criteria, a list of requirements for the new feature, which customer will use in a review meeting to decide whether or not they accept the new feature as delivered.
 
 ---
 
@@ -1545,7 +1544,7 @@ A governance meeting is usually:
 
 A typical governance meeting includes: 
 
--   opening: opening: _check in_ with each other and attune to the objective of the meeting
+-   opening: _check in_ with each other and attune to the objective of the meeting
 -   administrative matters 
     -   check for consent to the last meeting's minutes
     -   agree on a date for the next meeting
@@ -1615,9 +1614,9 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 **People meet at regular intervals (1-4 weeks) in timeboxed meetings to plan and review work.**
 
-**Planning meeting**: select and estimate work items for the next iteration.
+**Planning meeting:** select and estimate work items for the next iteration.
 
-**Review meeting**: review completed work items and decide on re-work and changes for the next iteration.
+**Review meeting:** review completed work items and decide on re-work and changes for the next iteration.
 
 ![Planning and review meetings](img/meetings/planning-review.png)
 
@@ -1788,7 +1787,7 @@ Preparation:
 -   set up the space and provide required materials and information
 -   ensure selection of a facilitator and a notetaker to record minutes, if appropriate
 
-**After the meeting**: clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
+**After the meeting:** clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
 
 **See also:** _Facilitate Meetings_, _Prepare For Meetings_
 
@@ -1833,8 +1832,8 @@ Types of backlog include:
 
 **Implementation:**
 
--   **analog backlog**: sticky notes on a wall, or index cards, magnets and whiteboard
--   **digital backlog**: e.g. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
+-   **analog backlog:** sticky notes on a wall, or index cards, magnets and whiteboard
+-   **digital backlog:** e.g. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
 Each item on a (prioritized) backlog typically contains:
 
@@ -1866,8 +1865,8 @@ A prioritized [backlog](glossary:backlog) helps to **maintain focus** on the mos
 
 -   valuable for [self-organization](glossary:self-organization) and pull-systems
 -   system must be accessible to everyone affected
--   **analog**: post-its on a wall, or index cards, magnets and white board
--   **digital**: [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
+-   **analog:** post-its on a wall, or index cards, magnets and white board
+-   **digital:** [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
 ![Visualization of a simple work process](img/workflow-and-value/simple-process.png)
 
@@ -1944,7 +1943,7 @@ You could timebox:
 
 **In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.**
 
-**Flow of value**: Deliverables traveling through an organization towards customers or other stakeholders.
+**Flow of value:** Deliverables traveling through an organization towards customers or other stakeholders.
 
 Achieve and maintain alignment of flow through the continuous evolution of an organization's body of [agreements](glossary:agreement):
 
@@ -2018,7 +2017,7 @@ A service circle can be populated by members of the [domains](glossary:domain) i
 ## Pattern 10.2: Delegate Circle
 
 
-**Delegate decision making for how to respond to drivers affecting multiple domains, to representatives.**
+**Delegate making governance decisions affecting multiple domains to representatives selected by those domains.**
 
 To make [governance](glossary:governance) decisions on their behalf, stakeholders send _representatives_ to form a delegate circle.
 
@@ -2053,10 +2052,9 @@ The center provides internal services to support the organization.
 
 ## Pattern 10.4: Double-Linked Hierarchy
 
-**Delegate all decision making to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence and building engagement.**
+**Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.**
 
 1. Shift governance decision making from individuals to teams by forming [self-governing](glossary:self-governance) [circles](glossary:circle) on all levels of your organization.
-
 2. Each circle's members select one of their group to represent their interests and participate in the [governance](glossary:governance) decision making of the next higher circle, and vice versa.
 
 A double-linked hierarchy:
@@ -2111,8 +2109,8 @@ A fractal organization has at least three tiers:
 
 ### Forming a Fractal Organization
 
-1.  Forming the **second tier**: In each constituent, the members of each common (and significant) functional domain, decide who of them will represent them in a **function-specific delegate circle**, where they share knowledge and learning, and contribute toward making and evolving agreements. Representatives are selected for a limited term (after which a new selection is made).
-2.  Forming the **third tier**: second-tier delegate circles each select a delegate to form the **cross-functional delegate circle**.
+1.  Forming the **second tier:** In each constituent, the members of each common (and significant) functional domain, decide who of them will represent them in a **function-specific delegate circle**, where they share knowledge and learning, and contribute toward making and evolving agreements. Representatives are selected for a limited term (after which a new selection is made).
+2.  Forming the **third tier:** second-tier delegate circles each select a delegate to form the **cross-functional delegate circle**.
 
 ### Impact on the organization(s)
 
@@ -2131,6 +2129,19 @@ The second and third tier:
 
 ## Changelog
 
+### Changes 2019-05-01
+
+- refined glossary terms for [agreement](glossary:agreement), [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
+- Principle of Accountability: clarified individual accountability for work as well as for collaboration
+- _Contract For Successful Collaboration_: revised text
+- _Describe Deliverables_: added User Stories as an example for describing deliverables
+- _Double-Linked Hierarchy_: revised summary
+- _Delegate Circle_: refined summary
+- _Objection_: refined definition of objection and concern, added illustration for a process to qualify an objection
+- _Proposal Forming_: added missing process illustration
+- _Role Selection_: small amendment to illustration
+- _Transparent Salary_: explained what a salary formula is
+
 ### Changes 2019-03-08
 
 **General Changes**
@@ -2139,8 +2150,8 @@ The second and third tier:
 - updated section about governance in the introduction
 - added captions to all illustrations
 - renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
-- removed slide deck version and improved pdf and ePub version
-- added glossary links to many patterns
+- removed slide deck version and improved layout and formatting of pdf and ePub version
+- website version: added clickable pattern map for simpler navigation und  glossary overlays to many patterns
 
 **Glossary:**
 
@@ -2172,19 +2183,19 @@ The second and third tier:
 - lots of small improvements to grammar and language
 - included the URL to the web version of the practical guide 
 
-**Glossary**:
+**Glossary:**
 
--   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
--   **removed**: peer driver
+-   **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
+-   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
+-   **removed:** peer driver
 
 **Changes to Introduction**
 
 -   added the driver for creating Sociocracy 3.0
 -   The Seven Principles:
     -   _The Principle of Empiricism_: removed reference to “falsification” 
-    -   _The Principle of Consent_ is now explained more clearly as  “Raise, seek-out and resolve objections to decisions and actions” 
--   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”,  and clarified the distinction between governance and operations
+    -   _The Principle of Consent_ is now explained more clearly as “Raise, seek-out and resolve objections to decisions and actions” 
+-   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”, and clarified the distinction between governance and operations
 -   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
 
 **Changes to Patterns:**
@@ -2206,7 +2217,7 @@ The second and third tier:
 - _Double Linking_: aligned description to _Link_
 - _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
 - _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
-- _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
+- _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about also evolving evaluation criteria when evolving agreements
 - _Facilitate Meetings_: improved description
 - _Fractal Organization_: extended and improved description
 - _Governance Backlog_: improved description
@@ -2245,7 +2256,7 @@ The second and third tier:
 
 ### Changes 2018-03-21
 
-* renamed pattern  _Describe Drivers_ to _Describe Organizational Drivers_
+* renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_
 * _Describe Organizational Drivers_: explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 * added _need_ to glossary
 
@@ -2330,25 +2341,43 @@ The second and third tier:
 
 ## Links
 
-**Latest version of the Practical Guide:**
+The **latest online version** of the Practical Guide at <http://patterns.sociocracy30.org> can be annotated via hypothes.is and comes with an alphabetical index and a pattern map for easy navigation.
 
-The [online version](http://patterns.sociocracy30.org) can be [annotated via hypothes.is](https://via.hypothes.is/http://patterns.sociocracy30.org/) and comes with an alphabetical index and a pattern map for easy navigation.
+Various other formats and languages of the practical guide can be found at <http://sociocracy30.org/guide/>
 
-Various other formats and languages of the practical guide can be found at [http://sociocracy30.org/guide/](http://sociocracy30.org/guide/)
+**More S3 Resources:** <http://sociocracy30.org/resources/>
 
-**More S3 Resources:** [http://sociocracy30.org/resources/](http://sociocracy30.org/resources/)
+**Main S3 website:** <http://sociocracy30.org>
 
-**Main S3 website:**: [http://sociocracy30.org](http://sociocracy30.org)
-
-**Follow us on twitter:** [@sociocracy30](http://twitter.com/sociocracy30)
-
+**Follow us on twitter:** _@sociocracy30_
 
 ---
 
 ## License
 
-This work by Bernhard Bockelbrink, James Priest and Liliana David is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit 
-[http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
+
+"Sociocracy 3.0 - A Practical Guide"  by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**. 
+
+Basically this license grants you:
+
+1. Freedom to use the work itself.
+2. Freedom to use the information in the work for any purpose, even commercially.
+3. Freedom to share copies of the work for any purpose, even commercially.
+4. Freedom to make and share remixes and other derivatives for any purpose.
+
+You need to **attribute the original creator of the materials**, and **all derivatives need to be shared under the same license**. 
+
+To view the the full text of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
+
+There’s more on the topic of free culture on the [Creative Commons website](https://creativecommons.org/freeworks).
+
+### Attribution of derivative works
+
+If you create a derivative work, the license requires you to attribute them. A good attribution contains title, author, source and license, like this:
+
+> This work, “[name of your work]”, is a derivative of “Sociocracy 3.0 - A Practical Guide” by James Priest, Bernhard Bockelbrink and Liliana David used under CC BY SA. “[name of your work]” is licensed under CC BY SA by [your name].
+
+You can find out more about attribution on the [Creative Commons page about best practices for attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
 
 
 ---
@@ -2428,26 +2457,26 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 ... serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
 
-[thriveincollaboration.com](http://thriveincollaboration.com)
+<https://thriveincollaboration.com>
 
-[james@thriveincollaboration.com](mailto:james@thriveincollaboration.com)
+<james@thriveincollaboration.com>
 
 
 ### Bernhard Bockelbrink 
 
 ... is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
 
-[evolvingcollaboration.com](http://evolvingcollaboration.com)
+<https://evolvingcollaboration.com>
 
-[bernhard.bockelbrink@evolvingcollaboration.com](mailto:bernhard.bockelbrink@evolvingcollaboration.com)
+<bernhard.bockelbrink@evolvingcollaboration.com>
 
 ### Liliana David
 
 ... serves internationally, providing training, facilitation and mentoring to teams and organizations wishing to develop greater effectiveness and equivalence in collaboration.
 
-[thriveincollaboration.com](http://thriveincollaboration.com)
+<https://thriveincollaboration.com>
 
-[lili@thriveincollaboration.com](mailto:lili@thriveincollaboration.com)
+<lili@thriveincollaboration.com>
 
 
 
@@ -2457,21 +2486,21 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 # Glossary 
 
 
-**Account for (v.)**: to take the responsibility for something.
-**Accountability (principle)**: Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.
-**Agreement**: An agreed upon guideline, process or protocol designed to guide the flow of value.
-**Alignment**: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
-**Backlog**: A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
-**Check-In**: A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
-**Chosen Values**: A set of principles a team (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
-**Circle**: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.
-**Complexity**: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
-**Concern**: An opinion why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
-**Consent (principle)**: Raise, seek out and resolve objections to decisions and actions.
-**Constituent**: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.
-**Continuous Improvement (principle)**: Change incrementally to accommodate steady empirical learning.
-**Coordination**: The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
-**Delegatee**: An individual or group accepting accountability for a domain delegated to them.
+**Account for (v.):** to take the responsibility for something.
+**Accountability (principle):** Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.
+**Agreement:** An agreed upon guideline, process, protocol or policy designed to guide the flow of value.
+**Alignment:** The process of bringing the actions of all parts of an organization in line with the organization's objectives.
+**Backlog:** A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
+**Check-In:** A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
+**Chosen Values:** A set of principles a team (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
+**Circle:** A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.
+**Complexity:** An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
+**Concern:** An assumption why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+**Consent (principle):** Raise, seek out and resolve objections to decisions and actions.
+**Constituent:** A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.
+**Continuous Improvement (principle):** Change incrementally to accommodate steady empirical learning.
+**Coordination:** The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
+**Delegatee:** An individual or group accepting accountability for a domain delegated to them.
 
 
 ---
@@ -2480,22 +2509,22 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 # Glossary (…)
 
 
-**Delegation**: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
-**Delegator**: An individual or group delegating a domain to other(s) to be accountable for.
-**Deliverable**: A product, service, component or material provided in response to an organizational driver.
-**Domain**: A distinct area of influence, activity and decision making within an organization.
-**Driver**: A person’s or a group's motive for responding to a specific situation.
-**Effectiveness (principle)**: Devote time only to what brings you closer toward achieving your objectives.
-**Empiricism (principle)**: Test all assumptions through experimentation and continuous revision.
-**Equivalence (principle)**: Involve people in making and evolving decisions that affect them.
-**Evolve (v.)**: to develop gradually.
-**Flow of Value**: Deliverables traveling through an organization towards customers or other stakeholders.
-**Governance**: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.
-**Governance Backlog**: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
-**Helping Team**: A team of equivalent people with the mandate to execute on a specific set of requirements.
-**Intended Outcome**: The expected result of an agreement, action, project or strategy.
-**Key responsibilities**: Essential work and decision making required in the context of a domain.
-**Logbook**: A (digital) system to store all information relevant for running an organization.
+**Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
+**Delegator:** An individual or group delegating a domain to other(s) to be accountable for.
+**Deliverable:** A product, service, component or material provided in response to an organizational driver.
+**Domain:** A distinct area of influence, activity and decision making within an organization.
+**Driver:** A person’s or a group's motive for responding to a specific situation.
+**Effectiveness (principle):** Devote time only to what brings you closer toward achieving your objectives.
+**Empiricism (principle):** Test all assumptions through experimentation and continuous revision.
+**Equivalence (principle):** Involve people in making and evolving decisions that affect them.
+**Evolve (v.):** to develop gradually.
+**Flow of Value:** Deliverables traveling through an organization towards customers or other stakeholders.
+**Governance:** The act of setting objectives, and making and evolving decisions that guide people towards achieving them.
+**Governance Backlog:** A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
+**Helping Team:** A team of equivalent people with the mandate to execute on a specific set of requirements.
+**Intended Outcome:** The expected result of an agreement, action, project or strategy.
+**Key responsibilities:** Essential work and decision making required in the context of a domain.
+**Logbook:** A (digital) system to store all information relevant for running an organization.
 
 
 ---
@@ -2504,22 +2533,22 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 # Glossary (…)
 
 
-**Need**: The lack of something wanted or deemed necessary (a requirement).
-**Objection**: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
-**Open Domain**: A domain that is accounted for by a set of people who are invited to contribute when they can.
-**Operations**: Doing the work and organizing day to day activities within the constraints defined through governance.
-**Operations Backlog**: A visible list of (typically prioritized) uncompleted work items (deliverables).
-**Organization**: A group of people collaborating toward a shared driver (or objective).
-**Organizational Driver**: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
-**Pattern**: A template for successfully navigating a specific context.
-**Peer Domain**: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
-**Primary Driver**: The primary driver for a domain is the main driver that people who account for that domain respond to.
-**Principle**: A basic idea or rule that guides behavior, or explains or controls how something happens or works.
-**Role**: A domain that is delegated to an individual.
-**Self-Governance**: People governing themselves within the constraints of a domain.
-**Self-Organization**: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
-**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and [objections](glossary:objection) (including those of the delegator and of representatives).
-**Sociocracy**: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
+**Need:** The lack of something wanted or deemed necessary (a requirement).
+**Objection:** A _reason_ — relating to a proposal, decision, existing agreement or action — that reveals unintended consequences, or viable ways to improve.
+**Objective:** A (specific) result that a person or team or organization wants to achieve; an aim or a goal.
+**Open Domain:** A domain that is accounted for by a set of people who are invited to contribute when they can.
+**Operations:** Doing the work and organizing day to day activities within the constraints defined through governance.
+**Operations Backlog:** A visible list of (typically prioritized) uncompleted work items (deliverables).
+**Organization:** A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.
+**Organizational Driver:** A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
+**Pattern:** A template for successfully navigating a specific context.
+**Peer Domain:** Two peer domains are contained within the same immediate superdomain, and may be overlapping.
+**Primary Driver:** The primary driver for a domain is the main driver that people who account for that domain respond to.
+**Principle:** A basic idea or rule that guides behavior, or explains or controls how something happens or works.
+**Role:** A domain that is delegated to an individual.
+**Self-Governance:** People governing themselves within the constraints of a domain.
+**Self-Organization:** Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
+**Semi-Autonomy:** The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
 
 
 ---
@@ -2528,19 +2557,20 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 # Glossary (…)
 
 
-**Sociocratic Circle-Organisation Method (SCM)**: An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
-**Strategy**: A high level approach for how people will create value to successfully account for a domain.
-**Subdomain**: A domain that is fully contained within another domain.
-**Subdriver**: A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
-**Superdomain**: A domain that fully contains another domain.
-**Superdriver**: see subdriver.
-**Team**: A group of people collaborating toward a shared driver (or objective).
-**Tension**: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
-**Timebox**: A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).
-**Transparency (principle)**: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
-**Value**: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
-**Values**: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.
-**Waste**: Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
+**Sociocracy:** A mindset where people affected by decisions can influence them on the basis of reasons to do so.
+**Sociocratic Circle-Organisation Method (SCM):** An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
+**Strategy:** A high level approach for how people will create value to successfully account for a domain.
+**Subdomain:** A domain that is fully contained within another domain.
+**Subdriver:** A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.
+**Superdomain:** A domain that fully contains another domain.
+**Superdriver:** see subdriver.
+**Team:** A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.
+**Tension:** A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
+**Timebox:** A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).
+**Transparency (principle):** Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
+**Value:** The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
+**Values:** Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.
+**Waste:** Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
 
 
 

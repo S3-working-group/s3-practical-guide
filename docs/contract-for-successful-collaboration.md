@@ -11,7 +11,7 @@ Developing shared understanding about needs and expectations is essential for su
 
 While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved. 
 
-This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). And particularly in matters concerning significant value and or obligations, e.g.: 
+This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). It is especially relevant for contracts that have a significant influence on the future of an organization or one of its partners, such as:
 
 - employment contracts and contracts with external contractors or consultants in [support roles](support-role.html) (including any agreement that results in a change of remuneration or working hours)
 - contracts governing collaboration with customers, vendors or service providers
@@ -19,7 +19,7 @@ This pattern refers to contracts relating related to collaboration around any bu
 
 **Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
 
-### Criteria for a successful alliance between contracting parties
+### Success criteria for contract negotiation
 
 When negotiating a contract, ensure:
 
@@ -36,12 +36,12 @@ If for any reason one or more of these criteria cannot be fulfilled, it is proba
 
 The way a contract is negotiated can significantly contribute toward building trust between parties. Approach contracting from the point of view of making an agreement between partners, not adversaries: co-create the contract, tailor it to its specific context, and ensure it is legally robust.
 
-- include all expectations to the parties involved, and explain each with adequate detail
+- the contract should include all expectations of the parties involved, each explained with adequate detail
 - use clear and simple language that all parties can understand, and be unambiguous about legal consequences
 - if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
 - consult a lawyer who supports the culture you aspire to and is competent in the field if business you are negotiating
 
-### When Co-Creating A Contract:
+### When Co-Creating a Contract:
 
 - ensure all parties have a delegation that includes representation for all affected <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> (e.g. not only sales, but also development / production / support, etc)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
@@ -55,9 +55,8 @@ The way a contract is negotiated can significantly contribute toward building tr
 ### Support The Full Lifecycle Of The Collaboration:
 
 Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
-
 - make provisions for successfully getting started by defining onboarding procedures
-- have a probationary period — where all parties can try out the collaboration — and a clear protocol for how to end the contract in the probationary period
+- have a probationary period, where all parties can try out the collaboration, and a clear protocol for how each party can terminate the contract during the probationary period
 - define and build into the contract regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
 - include procedures for breach of contract
 - consider making available alternative means for dispute resolution, e.g. mediation, conciliation  or arbitration

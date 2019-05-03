@@ -11,7 +11,7 @@ A governance meeting is usually:
 
 A typical governance meeting includes: 
 
--   opening: opening: [check in](section:check-in) with each other and attune to the objective of the meeting
+-   opening: [check in](section:check-in) with each other and attune to the objective of the meeting
 -   administrative matters 
     -   check for consent to the last meeting's minutes
     -   agree on a date for the next meeting

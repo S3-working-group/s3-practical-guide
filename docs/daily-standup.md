@@ -10,7 +10,7 @@ title: "Daily Standup"
 -   the team gathers around a visible project management board/tool to:
     -   organize daily work
     -   address impediments/blocks
-    -   adapt existing <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn> or create new agreements on the spot
+    -   adapt existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> or create new agreements on the spot
 
 ![Daily standup is an essential meeting for self-organizing teams.](img/meetings/planning-review-standup.png)
 

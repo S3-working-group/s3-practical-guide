@@ -1,5 +1,5 @@
 
-CONFIG=content/structure-new.yaml
+CONFIG=content/structure.yaml
 GLOSSARY=content/glossary.yaml
 SOURCE=content/src
 TMPFOLDER=tmp
@@ -14,6 +14,12 @@ define update-make-conf
 # update the make conf file from translations
 $(MKTPL) templates/make-conf config/make-conf $(LOC) $(PRJ)
 endef
+
+
+make translations:
+	$(MKTPL) templates/version content/version $(LOC) $(PRJ)
+	# it's intentional this is just echoed
+	echo "sudo crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version) --dryrun"
 
 deckset:
 	$(update-make-conf)
@@ -40,11 +46,12 @@ site:
 
 	# prepare templates
 	$(MKTPL) templates/docs/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
+	$(MKTPL) templates/docs/_layouts/plain.html docs/_layouts/plain.html $(LOC) $(PRJ)
 	$(MKTPL) templates/docs/_config.yml docs/_config.yml $(LOC) $(PRJ)
 	$(MKTPL) templates/docs/CNAME docs/CNAME $(LOC) $(PRJ)
 	$(MKTPL) content/website/_includes/footer.html docs/_includes/footer.html $(LOC) $(PRJ)
 	cp templates/docs/map.md docs/map.md
-	cp templates/docs/pattern-map.html docs/_includes/pattern-map.html
+	$(MKTPL)  templates/docs/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
 	cp content/website/_includes/header.html docs/_includes/header.html
 
 	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
@@ -86,7 +93,7 @@ ebook:
 	$(MKTPL) config/ebook-style.sty $(TMPFOLDER)/ebook/ebook-style.sty $(LOC) $(PRJ)
 
 	# make an index
-	mdslides index latex content/structure-new.yaml $(TMPFOLDER)/ebook/tmp-index.md
+	mdslides index latex $(CONFIG) $(TMPFOLDER)/ebook/tmp-index.md
 	# transclude all to one file
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 

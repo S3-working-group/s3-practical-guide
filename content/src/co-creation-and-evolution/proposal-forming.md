@@ -11,9 +11,9 @@ _Proposal Forming_ may also be used by an individual.
 
 ### Proposal Forming Steps
 
-**Consent to driver**: Briefly present the [driver](glossary:organizational-driver). _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_ 
+**Consent to driver:** Briefly present the [driver](glossary:organizational-driver). _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_ 
 
-**Deepen shared understanding of driver**: invite essential questions to understand the driver in more detail.
+**Deepen shared understanding of driver:** invite essential questions to understand the driver in more detail.
 
 **Collect considerations** phrased as questions relating to possible solutions. Questions either reveal constraints (information gathering questions) or possibilities (generative questions).
 
@@ -36,4 +36,4 @@ Consider:
 
 Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s).
 
-![A simple template for proposals](img/templates/proposal-template.png)
+![Proposal forming process](img/agreements/proposal-forming.png)

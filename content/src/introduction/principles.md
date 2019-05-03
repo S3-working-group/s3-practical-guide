@@ -27,7 +27,7 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 Act within the constraints of any agreements governing domains you are accountable for, including the organization itself, teams you are part of, and roles you keep.
 
-Everyone's primary accountability is for effective collaboration in response to organizational drivers.
+Every member of the organization is accountable for effectively responding to organizational drivers, both in doing the work and in ensuring (supporting) effective collaboration.
 
 Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
 

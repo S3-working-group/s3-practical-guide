@@ -3,7 +3,7 @@ title: "Breaking Agreements"
 ---
 
 
-Breaking <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn> is sometimes **necessary** but may come at a **cost** to the community.
+Breaking <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> is sometimes **necessary** but may come at a **cost** to the community.
 
 Be accountable:
 

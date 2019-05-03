@@ -12,6 +12,7 @@ Instead of simply assigning people for [roles](role.html), or making a choice ba
 - increase ownership over the decision
 - ensure support for the role keeper by those affected.
 
+A prerequisite to the selection process is a [clear description](clarify-domains.html) of the role's <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>.
 
 ### Role Selection - Steps
 
@@ -26,7 +27,7 @@ Instead of simply assigning people for [roles](role.html), or making a choice ba
     -   proposing a nominee themselves or asking a group member
     -   inviting (some) nominees to agree who should be proposed
     -   inviting group dialogue to help reveal the strongest nominee
-7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <dfn data-info="Objection: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).">objection</dfn>. 
+7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <dfn data-info="Objection: A _reason_ — relating to a proposal, decision, existing agreement or action — that reveals unintended consequences, or viable ways to improve.">objection</dfn>. 
 8. **Address and Resolve Objections,** beginning with any from the proposed nominee. [Objections may be resolved](resolve-objections.html) in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
 9. **Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
 

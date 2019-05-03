@@ -2,7 +2,7 @@
 
 S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
 
-Greater autonomy of individuals and teams necessitates clear agreements (i.e.guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they remain fit for purpose.
+Greater autonomy of individuals and teams necessitates clear agreements (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they remain fit for purpose.
 
 While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people’s behavior and actions, often benefits from a more participatory and deliberate [decision making process](section:consent-decision-making).
 
@@ -29,17 +29,12 @@ This includes:
 
 Governance decisions can be made at any time and at any place, not just in a specific kind of meeting, although a [regular meeting for making and evolving agreements](section:governance-meeting) is often a good idea.
 
-The distinction between governance and operations is dependent on context and existing agreements, and is in some cases arbitrary. For those decisions, weigh benefits and costs of bringing together the governing body to make and evolve an agreement - not  everything that could be made a governance decision should be made one.
-
-Also, since governance is a conscious and deliberate process by people with a mandate, the existence of a precedent does not create a binding agreement: Just because someone in an organization has previously solved a specific problem in a specific way, this does not imply that when a similar issue comes up again it needs to be done in the same way. Sometimes it’s a good idea to again make an operative decision about the current issue, in other cases it is appropriate to take the issue to the governing body to make a governance decision.
-
-
 #### Related Concepts
 
-**Self-Governance**: {{glossary:self-governance}}
+**Self-Governance:** {{glossary:self-governance}}
 
-**Semi-Autonomy**: {{glossary:semi-autonomy}}
+**Semi-Autonomy:** {{glossary:semi-autonomy}}
 
-**Self-Organization**: {{glossary:self-organization}}
+**Self-Organization:** {{glossary:self-organization}}
 
 Depending on the constraints set by the delegator, teams have more or less license to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing.

@@ -1,1 +1,0 @@
-crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-2018-08-17 --dryrun
