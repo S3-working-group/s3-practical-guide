@@ -14,7 +14,7 @@ A governance meeting is usually:
 
 A typical governance meeting includes: 
 
--   opening: opening: [check in](check-in.html) with each other and attune to the objective of the meeting
+-   opening: [check in](check-in.html) with each other and attune to the objective of the meeting
 -   administrative matters 
     -   check for consent to the last meeting's minutes
     -   agree on a date for the next meeting
@@ -28,7 +28,7 @@ A typical governance meeting includes:
 Typical agenda items include:
 
 -   any short reports 
--   evaluation of existing <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn> due review
+-   evaluation of existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> due review
 -   selecting people to roles 
 -   new drivers requiring decisions to be made, including: 
     -   [forming proposals](co-create-proposals.html)

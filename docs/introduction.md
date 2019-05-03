@@ -117,8 +117,8 @@ It also helps avoid the perception of us misrepresenting the *Sociocratic Circle
 
 We support “viral” distribution through two key strategies:
 
-* **Sociocracy 3.0 is open**: We want to encourage growth of a vibrant ecosystem of applications and flavors of sociocracy, where people share and discuss their insights and the adaptations they are making for their specific context. To this end Sociocracy 3.0 puts emphasis on communicating the underlying principles and explicitly invites the creativity of everyone to remix, extend and adapt things to suit their needs.
-* **Sociocracy 3.0 is free**: To eliminate the barrier of entry for people and organizations we provide free resources under a *Creative Commons Free Culture License* to learn, practice and teach *Sociocracy 3.0*. Everyone can use our resources without our explicit permission, even in a commercial context, or as a basis for building their own resources [^as long as they share their new resources under the same license]. We encourage other organizations, consultants, coaches, learning facilitators and trainers to follow our example and release their resources too.
+* **Sociocracy 3.0 is open:** We want to encourage growth of a vibrant ecosystem of applications and flavors of sociocracy, where people share and discuss their insights and the adaptations they are making for their specific context. To this end Sociocracy 3.0 puts emphasis on communicating the underlying principles and explicitly invites the creativity of everyone to remix, extend and adapt things to suit their needs.
+* **Sociocracy 3.0 is free:** To eliminate the barrier of entry for people and organizations we provide free resources under a *Creative Commons Free Culture License* to learn, practice and teach *Sociocracy 3.0*. Everyone can use our resources without our explicit permission, even in a commercial context, or as a basis for building their own resources [^as long as they share their new resources under the same license]. We encourage other organizations, consultants, coaches, learning facilitators and trainers to follow our example and release their resources too.
 
 ### The Evolution of the Sociocratic Circle Organization Method
 
@@ -207,7 +207,7 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 Act within the constraints of any agreements governing domains you are accountable for, including the organization itself, teams you are part of, and roles you keep.
 
-Everyone's primary accountability is for effective collaboration in response to organizational drivers.
+Every member of the organization is accountable for effectively responding to organizational drivers, both in doing the work and in ensuring (supporting) effective collaboration.
 
 Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
 
@@ -298,11 +298,11 @@ Governance decisions can be made at any time and at any place, not just in a spe
 
 #### Related Concepts
 
-**Self-Governance**: People governing themselves within the constraints of a domain.
+**Self-Governance:** People governing themselves within the constraints of a domain.
 
-**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
+**Semi-Autonomy:** The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
 
-**Self-Organization**: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
+**Self-Organization:** Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
 
 Depending on the constraints set by the delegator, teams have more or less license to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing.
 

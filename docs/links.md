@@ -9,6 +9,6 @@ Various other formats and languages of the practical guide can be found at <http
 
 **More S3 Resources:** <http://sociocracy30.org/resources/>
 
-**Main S3 website:**: <http://sociocracy30.org>
+**Main S3 website:** <http://sociocracy30.org>
 
 **Follow us on twitter:** _@sociocracy30_

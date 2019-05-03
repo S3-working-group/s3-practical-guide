@@ -41,3 +41,13 @@ Now that we are using quite a few  output formats and translated versions it mak
 1. merge release into master 
 2. tag with `release-YYYY-MM-DD`
 3. push to GitHub
+
+
+## Translation Strategy
+
+**Driver**: We want to preserve efforts of people translating the project as much as possible, so that with the release of a new version of the guide translators don't won't suffer a major setback from 
+
+For each release of the guifdee use release branches, so that when a translation is underway for a previous versions of the guide while we release a new one, that previous version can still be finished and before all changes in the new version have to be translated
+
+Hotfixes for a release are uploaded to the branch of the release, because they typically only require small changes. We might make exceptions for such changes that affect many strings, but don't change the wording.
+

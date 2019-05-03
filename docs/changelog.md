@@ -5,9 +5,16 @@ title: "Changelog"
 
 ### Changes 2019-05-01
 
+- refined glossary terms for <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreement</dfn>, <dfn data-info="Organization: A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.">organization</dfn> and <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</dfn>, added glossary term for <dfn data-info="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objective</dfn>
+- Principle of Accountability: clarified individual accountability for work as well as for collaboration
+- [Contract For Successful Collaboration](contract-for-successful-collaboration.html): revised text
+- [Describe Deliverables](describe-deliverables.html): added User Stories as an example for describing deliverables
+- [Double-Linked Hierarchy](double-linked-hierarchy.html): revised summary
+- [Delegate Circle](delegate-circle.html): refined summary
 - [Objection](objection.html): refined definition of objection and concern, added illustration for a process to qualify an objection
 - [Proposal Forming](proposal-forming.html): added missing process illustration
-- [Role Selection](role-selection.html): small amendmend to illustration
+- [Role Selection](role-selection.html): small amendment to illustration
+- [Transparent Salary](transparent-salary.html): explained what a salary formula is
 
 ### Changes 2019-03-08
 
@@ -22,7 +29,7 @@ title: "Changelog"
 
 **Glossary:**
 
--   added <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective).">team</dfn> to glossary (and replaced group with team throughout the practical guide where applicable)
+-   added <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</dfn> to glossary (and replaced group with team throughout the practical guide where applicable)
 -   updated definition for <dfn data-info="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</dfn>
 -   removed **driver statement** from text and glossary
 -   updated definitions for <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn>, <dfn data-info="Operations: Doing the work and organizing day to day activities within the constraints defined through governance.">operations</dfn>, and <dfn data-info="Self-Organization: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.">self-organization</dfn>
@@ -50,11 +57,11 @@ title: "Changelog"
 - lots of small improvements to grammar and language
 - included the URL to the web version of the practical guide 
 
-**Glossary**:
+**Glossary:**
 
--   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
--   **removed**: peer driver
+-   **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
+-   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
+-   **removed:** peer driver
 
 **Changes to Introduction**
 

@@ -6,7 +6,7 @@ title: "Consent Decision Making"
 
 **A (facilitated) group process for decision making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
 
-Proposals become <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn> when they are considered _good enough for now and safe enough to try_ until the next review.
+Proposals become <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> when they are considered _good enough for now and safe enough to try_ until the next review.
 
 Unresolved <dfn data-info="Objection: A _reason_ — relating to a proposal, decision, existing agreement or action — that reveals unintended consequences, or viable ways to improve.">objections</dfn> prevent proposals from becoming agreements.
 

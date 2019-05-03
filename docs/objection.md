@@ -7,7 +7,7 @@ _An **objection** is a reason why doing something stands in the way of (more) ef
 
 Objections reveal information about **unintended consequences**, or about **viable ways to improve**.
 
-It’s the accountability of individuals to raise potential objections to proposals, decisions, existing <dfn data-info="Agreement: An agreed upon guideline, process or protocol designed to guide the flow of value.">agreements</dfn> or actions.
+It’s the accountability of individuals to raise potential objections to proposals, decisions, existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> or actions.
 
 Withholding objections can harm the ability of individuals, teams or
 the whole organization to respond to <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">organizational drivers</dfn>.

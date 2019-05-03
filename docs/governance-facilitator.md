@@ -8,7 +8,7 @@ title: "Governance Facilitator"
 A [governance](governance.html) facilitator:
 
 -   ensures [governance meetings](governance-meeting.html) stay on track and are evaluated
--   is (usually) selected by a <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective).">team</dfn> from among it members (and for a specific term)
+-   is (usually) selected by a <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</dfn> from among it members (and for a specific term)
 -   familiarizes themselves with the [Governance Backlog](governance-backlog.html)
 -   often invites others to facilitate some agenda items
 
