@@ -2,6 +2,7 @@
 
 ### Changes 2019-05-01
 
+- [Delegate Circle](section:delegate-circle): refined summary
 - [Objection](section:objection): refined definition of objection and concern, added illustration for a process to qualify an objection
 - [Proposal Forming](section:proposal-forming): added missing process illustration
 - [Role Selection](section:role-selection): small amendment to illustration

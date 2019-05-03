@@ -1,7 +1,7 @@
 ## Delegate Circle
 
 
-**Delegate decision making for how to respond to drivers affecting multiple domains, to representatives.**
+**Delegate making governance decisions affecting multiple domains to representatives selected by those domains.**
 
 To make [governance](glossary:governance) decisions on their behalf, stakeholders send [representatives](section:representative) to form a delegate circle.
 
