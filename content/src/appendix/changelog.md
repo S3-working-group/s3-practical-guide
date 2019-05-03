@@ -5,6 +5,7 @@
 - Principle of Accountability: clarified individual accountability for work as well as for collaboration
 - [Contract For Successful Collaboration](section:contract-for-successful-collaboration): revised text
 - [Describe Deliverables](section:describe-deliverables): added User Stories as an example for describing deliverables
+- [Double-Linked Hierarchy](section:double-linked-hierarchy): revised summary
 - [Delegate Circle](section:delegate-circle): refined summary
 - [Objection](section:objection): refined definition of objection and concern, added illustration for a process to qualify an objection
 - [Proposal Forming](section:proposal-forming): added missing process illustration
