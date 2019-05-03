@@ -8,6 +8,7 @@
 - [Proposal Forming](section:proposal-forming): added missing process illustration
 - [Role Selection](section:role-selection): small amendment to illustration
 - refined glossary terms of [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
+- [Describe Deliverables](section:describe-deliverables): added User Stories as an example for describing deliverables
 
 ### Changes 2019-03-08
 
