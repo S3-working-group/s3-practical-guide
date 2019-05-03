@@ -31,10 +31,10 @@ Governance decisions can be made at any time and at any place, not just in a spe
 
 #### Related Concepts
 
-**Self-Governance**: {{glossary:self-governance}}
+**Self-Governance:** {{glossary:self-governance}}
 
-**Semi-Autonomy**: {{glossary:semi-autonomy}}
+**Semi-Autonomy:** {{glossary:semi-autonomy}}
 
-**Self-Organization**: {{glossary:self-organization}}
+**Self-Organization:** {{glossary:self-organization}}
 
 Depending on the constraints set by the delegator, teams have more or less license to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing.

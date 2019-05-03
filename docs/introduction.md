@@ -62,7 +62,7 @@ Sociocracy 3.0 is:
 
 ![Influences and history of Sociocracy 3.0](img/context/history.png)
 
-The literal meaning of the term **sociocracy**  is "rule of the companions": _socio__ - from Latin _socius_ – means "companion"", or "friend"", and the suffix _-cracy_  - from Ancient Greek κράτος (krátos) - means “power", or "rule”.
+The literal meaning of the term **sociocracy**  is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means “power", or "rule”.
 
 The word sociocracy can be traced back to 1851, when **Auguste Comté** suggested applying a scientific approach to society: states states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
 
@@ -84,11 +84,11 @@ Together, they seek to make S3 available and applicable to as many organizations
 
 ### The Sociocracy 3.0 Movement
 
-As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds - pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts -  who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and it’s various applications.
+As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and it’s various applications.
 
 
 
-## Why Sociocracy 3.0?
+## Why Sociocracy 3.0?
 
 Sociocracy as a form of governance has been referred to since 1851. Subsequently it has been developed and adapted by many different people and organizations, including Gerard Endenburg, The Sociocracy Group (TSG) and Brian Robertson (HolacracyOne).
 
@@ -105,7 +105,7 @@ To this end, we recognize the value of a strong identity, a radically different 
 ### The Name
 
 
-The name “*Sociocracy 3.0*” demonstrates both respect to the lineage and a significant step forward.
+The name “*Sociocracy 3.0*” demonstrates both respect to the lineage and a significant step forward.
 
 It also helps avoid the perception of us misrepresenting the *Sociocratic Circle Organization Method* (SCM) as promoted by The Sociocracy Group.
 
@@ -113,43 +113,43 @@ It also helps avoid the perception of us misrepresenting the *Sociocratic Circle
 
 ### The New Model of Distribution
 
-*Sociocracy 3.0* employs a non-centralized model for distribution. This is a paradigm shift in the way sociocracy is brought to people and organizations, and one that many people can relate to.
+*Sociocracy 3.0* employs a non-centralized model for distribution. This is a paradigm shift in the way sociocracy is brought to people and organizations, and one that many people can relate to.
 
 We support “viral” distribution through two key strategies:
 
-* **Sociocracy 3.0 is open**: We want to encourage growth of a vibrant ecosystem of applications and flavors of sociocracy, where people share and discuss their insights and the adaptations they are making for their specific context. To this end Sociocracy 3.0 puts emphasis on communicating the underlying principles and explicitly invites the creativity of everyone to remix, extend and adapt things to suit their needs.
-* **Sociocracy 3.0 is free**: To eliminate the barrier of entry for people and organizations we provide free resources under a *Creative Commons Free Culture License* to learn, practice and teach *Sociocracy 3.0*. Everyone can use our resources without our explicit permission, even in a commercial context, or as a basis for building their own resources [^as long as they share their new resources under the same license]. We encourage other organizations, consultants, coaches, learning facilitators and trainers to follow our example and release their resources too.
+* **Sociocracy 3.0 is open:** We want to encourage growth of a vibrant ecosystem of applications and flavors of sociocracy, where people share and discuss their insights and the adaptations they are making for their specific context. To this end Sociocracy 3.0 puts emphasis on communicating the underlying principles and explicitly invites the creativity of everyone to remix, extend and adapt things to suit their needs.
+* **Sociocracy 3.0 is free:** To eliminate the barrier of entry for people and organizations we provide free resources under a *Creative Commons Free Culture License* to learn, practice and teach *Sociocracy 3.0*. Everyone can use our resources without our explicit permission, even in a commercial context, or as a basis for building their own resources [^as long as they share their new resources under the same license]. We encourage other organizations, consultants, coaches, learning facilitators and trainers to follow our example and release their resources too.
 
 ### The Evolution of the Sociocratic Circle Organization Method
 
-Maybe we need to make this explicit: Sociocracy 3.0 is not targeted specifically at the existing community of people exploring the *Sociocratic Circle Organization Method*, or at The Sociocracy Group (TSG). The *Sociocratic Circle Organization Method* (SCM) is already well developed and many people appear to be mostly happy with it.
+Maybe we need to make this explicit: Sociocracy 3.0 is not targeted specifically at the existing community of people exploring the *Sociocratic Circle Organization Method*, or at The Sociocracy Group (TSG). The *Sociocratic Circle Organization Method* (SCM) is already well developed and many people appear to be mostly happy with it.
 
-Yet from our direct experience, even for those organizations that have heard about sociocracy, there are many obstacles to actually become invested. With *Sociocracy 3.0* we actively work on addressing and eliminating what stands in the way.
+Yet from our direct experience, even for those organizations that have heard about sociocracy, there are many obstacles to actually become invested. With *Sociocracy 3.0* we actively work on addressing and eliminating what stands in the way.
 
 #### Reducing Risk and Resistance
 
-*Sociocracy 3.0* meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. *Sociocracy 3.0* provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
+*Sociocracy 3.0* meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. *Sociocracy 3.0* provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
 
 #### Shifting Focus From Aim (or Purpose) to Need
 
-*Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
+*Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
 
-In *Sociocracy 3.0*, purpose is implicit in all cases – to flow value to the organization's drivers.
+In *Sociocracy 3.0*, purpose is implicit in all cases – to flow value to the organization's drivers.
 
 #### Condensed to the Essentials
 
-When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
+When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
 
-This doesn’t mean to say it’s all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it’s important to only pull in what you need, because there’s no point to changing things if what you are doing is already good enough.
+This doesn’t mean to say it’s all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it’s important to only pull in what you need, because there’s no point to changing things if what you are doing is already good enough.
 
 #### Integration With Agile and Lean Thinking
 
-The *Sociocratic Circle Organization Method* is an “empty” method when it comes to operations and creating a culture of close collaboration. Many organizations already implement or show preference for lean and agile thinking for operations and collaboration. We believe this is a great idea, so *Sociocracy 3.0* is designed for easy adoption into lean and agile organizations.
+The *Sociocratic Circle Organization Method* is an “empty” method when it comes to operations and creating a culture of close collaboration. Many organizations already implement or show preference for lean and agile thinking for operations and collaboration. We believe this is a great idea, so *Sociocracy 3.0* is designed for easy adoption into lean and agile organizations.
 
 #### A New Way to Evolve Organizational Structure
 
 The organizational structure according to the *Sociocratic Circle Organization Method* is modeled on a hierarchy of domains. We see an increasing emergence of collaborative multi-stakeholder environments and the need for a wider variety of patterns for organizational structure.
-Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
+Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
 
 _James Priest, Bernhard Bockelbrink and Liliana David_
 
@@ -207,7 +207,7 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 Act within the constraints of any agreements governing domains you are accountable for, including the organization itself, teams you are part of, and roles you keep.
 
-Everyone's primary accountability is for effective collaboration in response to organizational drivers.
+Every member of the organization is accountable for effectively responding to organizational drivers, both in doing the work and in ensuring (supporting) effective collaboration.
 
 Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
 
@@ -298,11 +298,11 @@ Governance decisions can be made at any time and at any place, not just in a spe
 
 #### Related Concepts
 
-**Self-Governance**: People governing themselves within the constraints of a domain.
+**Self-Governance:** People governing themselves within the constraints of a domain.
 
-**Semi-Autonomy**: The autonomy of people to create value within their domain, further limited by their own governance decisions, and <dfn data-info="Objection: A _reason_ why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).">objections</dfn> (including those of the delegator and of representatives).
+**Semi-Autonomy:** The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
 
-**Self-Organization**: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
+**Self-Organization:** Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
 
 Depending on the constraints set by the delegator, teams have more or less license to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing.
 

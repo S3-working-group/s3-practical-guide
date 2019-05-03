@@ -11,4 +11,3 @@ Typically it's most effective to **take one objection at a time**, resolve all o
 ![Some options for resolving objections](img/agreements/resolve-objections.png)
 
 ![A process for resolving objections](img/agreements/resolve-objections-process.png)
-

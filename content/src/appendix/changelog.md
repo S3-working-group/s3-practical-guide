@@ -1,5 +1,18 @@
 ## Changelog
 
+### Changes 2019-05-01
+
+- refined glossary terms for [agreement](glossary:agreement), [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
+- Principle of Accountability: clarified individual accountability for work as well as for collaboration
+- [Contract For Successful Collaboration](section:contract-for-successful-collaboration): revised text
+- [Describe Deliverables](section:describe-deliverables): added User Stories as an example for describing deliverables
+- [Double-Linked Hierarchy](section:double-linked-hierarchy): revised summary
+- [Delegate Circle](section:delegate-circle): refined summary
+- [Objection](section:objection): refined definition of objection and concern, added illustration for a process to qualify an objection
+- [Proposal Forming](section:proposal-forming): added missing process illustration
+- [Role Selection](section:role-selection): small amendment to illustration
+- [Transparent Salary](section:transparent-salary): explained what a salary formula is
+
 ### Changes 2019-03-08
 
 **General Changes**
@@ -41,11 +54,11 @@
 - lots of small improvements to grammar and language
 - included the URL to the web version of the practical guide 
 
-**Glossary**:
+**Glossary:**
 
--   **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
--   **removed**: peer driver
+-   **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
+-   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
+-   **removed:** peer driver
 
 **Changes to Introduction**
 

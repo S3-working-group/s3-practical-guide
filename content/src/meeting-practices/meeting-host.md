@@ -16,6 +16,6 @@ Preparation:
 -   set up the space and provide required materials and information
 -   ensure selection of a facilitator and a notetaker to record minutes, if appropriate
 
-**After the meeting**: clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
+**After the meeting:** clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
 
 **See also:** [Facilitate Meetings](section:facilitate-meetings), [Prepare For Meetings](section:prepare-for-meetings)

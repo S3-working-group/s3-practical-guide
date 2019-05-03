@@ -8,12 +8,12 @@ A circle:
 -   may be [self-organizing](glossary:self-organization)
 -   is accountable for its own development and its body of [agreements](glossary:agreement)
 
--   **semi-autonomous**:
+-   **semi-autonomous:**
     -   A circle's members act within the constraints of their [domain](glossary:domain).
     -   Each circle can create [value](glossary:value) autonomously.
--   **self-governing**:
+-   **self-governing:**
     -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
--  **equivalence of circle members**
+-  **equivalence of circle members:**
     -   All members of a circle are equally accountable for [governance](glossary:governance) of the circle's domain.
 
 ![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)  

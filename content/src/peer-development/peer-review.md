@@ -7,7 +7,7 @@ The role keeper — or team — leads the peer review by setting up the process 
 
 ![Peer review process](img/process/peer-review.png)
 
-Ensure to invite people with complementing perspectives to contribute to the review, and a [facilitator](section:facilitate-meetings).
+Ensure you invite people with complementary perspectives to contribute to the review, and a [facilitator](section:facilitate-meetings).
 
 Improvement suggestions may relate to personal development, collaboration, updates to the [domain](glossary:domain) description (including the [driver](glossary:organizational-driver)) and [strategy](glossary:strategy).
 
