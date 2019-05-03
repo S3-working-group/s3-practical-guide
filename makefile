@@ -1,5 +1,5 @@
 
-CONFIG=content/structure-new.yaml
+CONFIG=content/structure.yaml
 GLOSSARY=content/glossary.yaml
 SOURCE=content/src
 TMPFOLDER=tmp
@@ -87,7 +87,7 @@ ebook:
 	$(MKTPL) config/ebook-style.sty $(TMPFOLDER)/ebook/ebook-style.sty $(LOC) $(PRJ)
 
 	# make an index
-	mdslides index latex content/structure-new.yaml $(TMPFOLDER)/ebook/tmp-index.md
+	mdslides index latex $(CONFIG) $(TMPFOLDER)/ebook/tmp-index.md
 	# transclude all to one file
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
