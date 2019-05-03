@@ -2,6 +2,7 @@
 
 ### Changes 2019-05-01
 
+- refined glossary terms for [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
 - Principle of Accountability: clarified individual accountability for work as well as for collaboration
 - [Contract For Successful Collaboration](section:contract-for-successful-collaboration): revised text
 - [Describe Deliverables](section:describe-deliverables): added User Stories as an example for describing deliverables
@@ -11,7 +12,6 @@
 - [Proposal Forming](section:proposal-forming): added missing process illustration
 - [Role Selection](section:role-selection): small amendment to illustration
 - [Transparent Salary](sectiosn:transparent-salary): explained what a salary formula is
-- refined glossary terms of [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
 
 ### Changes 2019-03-08
 
