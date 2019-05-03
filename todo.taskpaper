@@ -1,6 +1,11 @@
 S3 - A Practical Guide :
 Translations:
 	- sort the Crowdin issue with HTML-Entities in authors.md (reupload the filen manually once Crowdin support figured out what the problem was) @done
+	- clean up translation branches:
+		- create branch for 2019-03-17c
+		- check if master is identical to to 2019-03-17c
+		- if so, delete master branch
+	- document translation process and update docs for release process
 Known Issues:
 	- in the epub, page breaks should be before each pattern: see https://electricbookworks.com/kb/creating-epub-from-indesign/after-indesign-export-to-epub/page-breaks/ and https://www.mobileread.com/forums/showthread.php?t=168471
 Build Process / mdtools:

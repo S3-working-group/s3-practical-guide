@@ -47,7 +47,8 @@ Now that we are using quite a few  output formats and translated versions it mak
 
 **Driver**: We want to preserve efforts of people translating the project as much as possible, so that with the release of a new version of the guide translators don't won't suffer a major setback from 
 
-For each release of the guifdee use release branches, so that when a translation is underway for a previous versions of the guide while we release a new one, that previous version can still be finished and before all changes in the new version have to be translated
+For each release of the guide we create a dedicated release branche, so that when a translation is underway for a previous versions of the guide while we release a new one, that previous version can still be finished before all changes in the new version have to be translated.
 
 Hotfixes for a release are uploaded to the branch of the release, because they typically only require small changes. We might make exceptions for such changes that affect many strings, but don't change the wording.
 
+What happens to proofread strings when uploading a new version?
