@@ -15,6 +15,12 @@ define update-make-conf
 $(MKTPL) templates/make-conf config/make-conf $(LOC) $(PRJ)
 endef
 
+
+make translations:
+	$(MKTPL) templates/version content/version $(LOC) $(PRJ)
+
+	echo "crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version) --dryrun"
+
 deckset:
 	$(update-make-conf)
 
