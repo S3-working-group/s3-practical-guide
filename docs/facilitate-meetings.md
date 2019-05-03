@@ -9,7 +9,7 @@ Before each meeting, prepare an agenda of topics, and select a facilitator to:
 
 -   hold the space, keep the time and navigate the agenda during the meeting
 -   facilitate a suitable activity for each topic
--   facilitate an [evaluation](meeting-evaluation.html) at the end of the meeting
+-   facilitate an [evaluation](evaluate-meetings.html) at the end of the meeting
 
 Consider selecting a facilitator for a specific term. Even an inexperienced facilitator can make a positive difference.
 
