@@ -18,7 +18,7 @@ There’s more on the topic of free culture on the [Creative Commons website](ht
 
 ### Attribution of derivative works
 
-If you create a derivative work, the license requires you to attribute them. A good attribution contains title, author, source and license, like this:
+If you create a derivative work, you must give appropriate credit, and indicate which changes you made. A good attribution contains title, author, source and license, like this:
 
 > This work, “[name of your work]”, is a derivative of “Sociocracy 3.0 - A Practical Guide” by James Priest, Bernhard Bockelbrink and Liliana David used under CC BY SA. “[name of your work]” is licensed under CC BY SA by [your name].
 
