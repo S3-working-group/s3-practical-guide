@@ -17,9 +17,9 @@ endef
 
 
 make translations:
-	$(MKTPL) templates/version content/version $(LOC) $(PRJ)
+	$(MKTPL) templates/version.txt content/version.txt $(LOC) $(PRJ)
 	# it's intentional this is just echoed
-	echo "sudo crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version) --dryrun"
+	echo "sudo crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version.txt) --dryrun"
 
 deckset:
 	$(update-make-conf)
