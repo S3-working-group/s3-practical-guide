@@ -1,6 +1,6 @@
 ## Changelog
 
-### Changes 2019-05-01
+### Changes 2019-05-03
 
 - refined glossary terms for [agreement](glossary:agreement), [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
 - Principle of Accountability: clarified individual accountability for work as well as for collaboration
