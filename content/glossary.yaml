@@ -142,8 +142,8 @@ terms:
     glossary: A visible list of (typically prioritized) uncompleted work items (deliverables).
   objection:
     name: Objection
-    definition: An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement).
-    glossary: A reason — relating to a proposal, decision, existing agreement or action — that reveals unintended consequences, or viable ways to improve.
+    definition: An **objection** is an argument demonstrating how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.
+    glossary: An argument demonstrating how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.
   peer-domain:
     name: Peer Domain
     definition:
