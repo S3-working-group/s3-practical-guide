@@ -1,6 +1,6 @@
 ## Clarify Intended Outcome
 
-**Be explicit about the expected results of agreements, actions, projects and strategies.**
+**Be explicit about the expected results of agreements, activities, projects and strategies.**
 
 Agree on and record a concise description of the intended outcome. 
 

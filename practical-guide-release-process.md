@@ -47,8 +47,18 @@ Now that we are using quite a few  output formats and translated versions it mak
 
 **Driver**: We want to preserve efforts of people translating the project as much as possible, so that with the release of a new version of the guide translators don't won't suffer a major setback from 
 
-For each release of the guide we create a dedicated release branche, so that when a translation is underway for a previous versions of the guide while we release a new one, that previous version can still be finished before all changes in the new version have to be translated.
+We attempted creation of release branches for previous versions, and deleted the master branch (files in the project root), but this messed up everything, it was then unclear which branch contained the "original" version of a string. Fortunately it's was possible to undo the deletion of the master files from the crowdin activity stream. So now everything is working again. 
 
-Hotfixes for a release are uploaded to the branch of the release, because they typically only require small changes. We might make exceptions for such changes that affect many strings, but don't change the wording.
+Branches are only relevant for future versions, i.e. the moment we start working on a new release, we can offer the work in progress for translations. But the moment we publish to master in Crowdin, we can only build the new version. 
 
-What happens to proofread strings when uploading a new version?
+According to Crowdin support, the proper workflow when using version branches always including following:
+
+- Using master branch to maintain the main release version
+- Other version branches should contain the same content + new content/features under development
+- Duplicate option you have (show - recommended for versions) helps translators to see only new content (as all duplicates are hidden and inherit translations from master branch)
+- Once you decide to merge version branch with master you can do in locally and then update it in Crowdin
+- Version branch that got merged locally now can be deleted in Crowdin project
+
+
+Here is more information on branches and versions management: <https://support.crowdin.com/versions-management/>
+

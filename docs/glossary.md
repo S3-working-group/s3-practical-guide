@@ -66,7 +66,7 @@ title: Glossary
 
 **Need:** The lack of something wanted or deemed necessary (a requirement).
 
-**Objection:** A _reason_ — relating to a proposal, decision, existing agreement or action — that reveals unintended consequences, or viable ways to improve.
+**Objection:** An argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.
 
 **Objective:** A (specific) result that a person or team or organization wants to achieve; an aim or a goal.
 
