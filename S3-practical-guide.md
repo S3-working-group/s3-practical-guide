@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2019-05-03) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2019-06-27) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -79,11 +79,11 @@ Sociocracy 3.0 is:
 
 The literal meaning of the term **sociocracy**  is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means “power", or "rule”.
 
-The word sociocracy can be traced back to 1851, when **Auguste Comté** suggested applying a scientific approach to society: states states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
+The word sociocracy can be traced back to 1851, when **Auguste Comte** suggested applying a scientific approach to society: states states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
 
 A few decades later, **Lester Frank Ward**, used the word 'sociocracy' to describe the rule of people with relations with each other. Instead of having sociologists at the center, he wanted to give more power and responsibility to the individual, he imagined sociologists in a role as researchers and consultant.
 
-In 1926, the Dutch reformist educator and Quaker **Kees Boeke**, established a residential school based on the principle of consent. Staff and students were treated as equal participants in the governance of the school, all decisions needed to be acceptable to everyone. He built this version of sociocracy on Quaker principles and practices, and described sociocracy as an evolution of democracy in his 1945 book “Sociocracy: Democracy as it might be”.
+In 1926, the Dutch reformist educator and Quaker **Kees Boeke**, established a residential school based on the principle of consent. Staff and students were treated as equal participants in the governance of the school, all decisions needed to be acceptable to everyone. He built this version of sociocracy on Quaker principles and practices, and described sociocracy as an evolution of democracy in his 1945 essay "Democracy as it might be".
 
 **Gerard Endenburg**, also a Quaker and a student in Boeke's school, wanted to apply sociocracy in his family's business, Endenburg Elektrotechniek. He created and evolved the _Sociocratic Circle Organisation Method (SCM)_ (later becoming the "Sociocratic Method"), integrating Boeke's form of sociocracy with engineering and cybernetics. In 1978 Endenburg founded the Sociocratisch Centrum in Utrecht (which is now the Sociocratic Center in Rotterdam) as a means to promote sociocracy in and beyond the Netherlands. Since 1994 organizations in the Netherlands using SCM are exempt from the legal requirement to have a worker's council.
 
@@ -238,7 +238,7 @@ Every member of the organization is accountable for effectively responding to or
 
 Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
 
-Everyone in an organization is accountable for aligning action with organizational values.
+Everyone in an organization is accountable for aligning activity with organizational values.
  
 
 ---
@@ -310,7 +310,7 @@ S3 seeks to enable productivity by freeing people up to do and decide as much as
 
 Greater autonomy of individuals and teams necessitates clear agreements (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they remain fit for purpose.
 
-While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people’s behavior and actions, often benefits from a more participatory and deliberate _decision making process_.
+While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people’s behavior and activity, often benefits from a more participatory and deliberate _decision making process_.
 
 Such agreements need to be documented, both to remember them and to support effective _review_, and to be communicated to people affected (who are ideally also _involved in the creation and evolution_ of those agreements).
 
@@ -324,7 +324,7 @@ For each domain in an organization there is a _governing body_: people with a ma
 
 There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a team lead, and sometimes it’s a group of people, e.g. in a circle where all circle members share responsibility for governance within the constraints of the domain.
 
-**Governance decisions** set constraints on actions and guide future decisions.
+**Governance decisions** set constraints on activity and guide future decisions.
 
 This includes: 
 
@@ -501,18 +501,18 @@ Withholding objections can harm the objectives of a team or organization.
 
 ## Pattern 1.5: Objection
 
-_An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement)._
+_An **objection** is an argument demonstrating (or revealing)how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it._
 
 Objections reveal information about **unintended consequences**, or about **viable ways to improve**.
 
-It’s the accountability of individuals to raise potential objections to proposals, decisions, existing [agreements](glossary:agreement) or actions.
+It’s the accountability of individuals to raise potential objections to proposals, decisions, existing [agreements](glossary:agreement) or activities.
 
 Withholding objections can harm the ability of individuals, teams or
 the whole organization to respond to [organizational drivers](glossary:organizational-driver).
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
 
-Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
+Those accountable for the activity or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
 
 When seeking out potential objections, consider:
 
@@ -522,7 +522,7 @@ When seeking out potential objections, consider:
 
 The information revealed by objections can be used to improve:
 
--   current and planned action
+-   current and planned activity
 -   how people execute on decisions
 -   existing agreements
 -   proposals
@@ -543,7 +543,7 @@ If nobody disagrees with the argument, an objection typically qualifies.  Otherw
 Some helpful questions:
 
 -   How does the argument relate to this specific proposal or agreement?
--   Does the argument reveal how a (proposed or current) **action or agreement**:
+-   Does the argument reveal how a (proposed or current) **activity or agreement**:
     -   harms response to any organizational driver?
     -   can be improved right now?
     -   prevents or diminishes someone's contribution towards responding to a driver?
@@ -1443,7 +1443,7 @@ Another way of clarifying a domain is by filling out an [S3 Delegation Canvas](h
 
 ## Pattern 6.4: Clarify Intended Outcome
 
-**Be explicit about the expected results of agreements, actions, projects and strategies.**
+**Be explicit about the expected results of agreements, activities, projects and strategies.**
 
 Agree on and record a concise description of the intended outcome. 
 
@@ -1467,7 +1467,7 @@ When describing deliverables:
 
 Explicitly describing deliverables can be useful for improving communication and collaboration within the organization, with customer and with external partners.
 
-**Example:** A popular way to describe deliverables in software-engineering are so-called **user stories**, which focus on the need of users in relation to a software system. User stories are developed in dialogue between a customer (or their representative, the product manager or "product owner"), and the software developer(s). What is written down is usually one sentence to remind the team of the user need, and acceptance criteria, a list of requirements for the new feature, which customer will use in a review meeting to decide whether or not they accept the new feature as delivered.
+**Example:** A popular way to describe deliverables in software-engineering are so-called **user stories**, which focus on the need of users in relation to a software system. User stories are developed in dialogue between a customer (or their representative, the product manager or "product owner"), and the software developer(s). What is written down is usually one sentence to remind the team of the user need, and acceptance criteria, a list of requirements for the new feature, which the customer will then use in a review meeting to decide whether or not they accept the new feature as delivered.
 
 ---
 
@@ -2129,7 +2129,13 @@ The second and third tier:
 
 ## Changelog
 
-### Changes 2019-05-01
+### Changes 2019-06-27
+
+- _Objection_: further refined definition of objection, and updated the glossary term for [objection](glossary:objection) accordingly
+- replaced "action" with activity in a few places where it made more sense
+- fixed a few typos
+
+### Changes 2019-05-03
 
 - refined glossary terms for [agreement](glossary:agreement), [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
 - Principle of Accountability: clarified individual accountability for work as well as for collaboration
@@ -2373,11 +2379,12 @@ There’s more on the topic of free culture on the [Creative Commons website](ht
 
 ### Attribution of derivative works
 
-If you create a derivative work, the license requires you to attribute them. A good attribution contains title, author, source and license, like this:
+If you create a derivative work, you must give appropriate credit, and indicate which changes you made. A good attribution contains title, author, source and license, like this:
 
 > This work, “[name of your work]”, is a derivative of “Sociocracy 3.0 - A Practical Guide” by James Priest, Bernhard Bockelbrink and Liliana David used under CC BY SA. “[name of your work]” is licensed under CC BY SA by [your name].
 
 You can find out more about attribution on the [Creative Commons page about best practices for attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
+
 
 
 ---
@@ -2534,7 +2541,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 
 **Need:** The lack of something wanted or deemed necessary (a requirement).
-**Objection:** A _reason_ — relating to a proposal, decision, existing agreement or action — that reveals unintended consequences, or viable ways to improve.
+**Objection:** An argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.
 **Objective:** A (specific) result that a person or team or organization wants to achieve; an aim or a goal.
 **Open Domain:** A domain that is accounted for by a set of people who are invited to contribute when they can.
 **Operations:** Doing the work and organizing day to day activities within the constraints defined through governance.
