@@ -3,18 +3,18 @@ title: "Objection"
 ---
 
 
-_An **objection** is a reason why doing something stands in the way of (more) effective response to an organizational driver (i.e. an organizational requirement)._
+_An **objection** is an argument demonstrating (or revealing)how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it._
 
 Objections reveal information about **unintended consequences**, or about **viable ways to improve**.
 
-It’s the accountability of individuals to raise potential objections to proposals, decisions, existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> or actions.
+It’s the accountability of individuals to raise potential objections to proposals, decisions, existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> or activities.
 
 Withholding objections can harm the ability of individuals, teams or
 the whole organization to respond to <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">organizational drivers</dfn>.
 
 Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
 
-Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
+Those accountable for the activity or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
 
 When seeking out potential objections, consider:
 
@@ -24,7 +24,7 @@ When seeking out potential objections, consider:
 
 The information revealed by objections can be used to improve:
 
--   current and planned action
+-   current and planned activity
 -   how people execute on decisions
 -   existing agreements
 -   proposals
@@ -45,7 +45,7 @@ If nobody disagrees with the argument, an objection typically qualifies.  Otherw
 Some helpful questions:
 
 -   How does the argument relate to this specific proposal or agreement?
--   Does the argument reveal how a (proposed or current) **action or agreement**:
+-   Does the argument reveal how a (proposed or current) **activity or agreement**:
     -   harms response to any organizational driver?
     -   can be improved right now?
     -   prevents or diminishes someone's contribution towards responding to a driver?

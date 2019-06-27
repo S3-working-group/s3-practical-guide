@@ -3,7 +3,13 @@ title: "Changelog"
 ---
 
 
-### Changes 2019-05-01
+### Changes 2019-06-27
+
+- [Objection](objection.html): further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.">objection</dfn> accordingly
+- replaced "action" with activity in a few places where it made more sense
+- fixed a few typos
+
+### Changes 2019-05-03
 
 - refined glossary terms for <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreement</dfn>, <dfn data-info="Organization: A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.">organization</dfn> and <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</dfn>, added glossary term for <dfn data-info="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objective</dfn>
 - Principle of Accountability: clarified individual accountability for work as well as for collaboration
