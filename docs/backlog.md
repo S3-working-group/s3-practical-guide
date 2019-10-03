@@ -27,7 +27,7 @@ Each item on a (prioritized) backlog typically contains:
 -   (the **order of work items**)
 -   **dependencies** to other work items or projects
 -   **due date** (if necessary)
--   (optional) a measure for **value** 
+-   (optional) a measure for **value**
 -   (optional) a measure for **investment** (often an estimate of time or complexity)
 
 

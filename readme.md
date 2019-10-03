@@ -1,10 +1,10 @@
 # Sociocracy 3.0 - A Practical Guide
 
-This repository contains the source file for  a slide deck for teaching Sociocracy 3.0, currently available as 
+This repository contains the source file for  a slide deck for teaching Sociocracy 3.0, currently available as:
 
 * fast and mobile friendly static html pages: <http://patterns.sociocracy30.org>
 * [online presentation](http://patterns.sociocracy30.org/slides.html)
-* various other download formats, see  [sociocracy30.org/guide/](http://sociocracy30.org/guide/) 
+* various other download formats, see  [sociocracy30.org/guide/](http://sociocracy30.org/guide/)
 
 German, Hebrew and French versions also exist and are also available via [sociocracy30.org/guide/](http://sociocracy30.org/guide/). If you want to help with translations into your language, please take a look at the [translations page](http://sociocracy30.org/translations/).
 
@@ -33,14 +33,14 @@ The main format for the practical guide is a Jekyll website on <https://patterns
 
 Downloads are currently available as PDF or PNG slides exported from [Deckset](decksetapp.com), as a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/) a static website (using jekyll and GitHub pages), and as e-books (ePub and PDF).
 
-Deckset is nice to quickly hack together a beautiful presentation, but is a bit lacking when it comes to navigating larger presentations, and it's only available as a macOS app. Building the Hebrew version I discovered the hard way it does not support RTL languages., and did not find a way to automate pdf export, so with a growing number of languages Deckset is becoming increasingly painful. 
+Deckset is nice to quickly hack together a beautiful presentation, but is a bit lacking when it comes to navigating larger presentations, and it's only available as a macOS app. Building the Hebrew version I discovered the hard way it does not support RTL languages., and did not find a way to automate pdf export, so with a growing number of languages Deckset is becoming increasingly painful.
 
 This is why I was looking at more open formats, and developed a generator for reveal.js, which generally works, but there might still a few small glitches in the CSS. Ping me if you find one. You can see it in action at <https://patterns.sociocracy30.org/slides.html>
 
 [Reveal.js docs](https://github.com/hakimel/reveal.js/blob/master/README.md)
 
 Exporting to epub (via pandoc) and pdf via LaTEX is working, but still rough around the edges. The epub will benefit from a stylesheet and setting some [metadata for ibooks](http://pandoc.org/MANUAL.html#epub-metadata), while the styles for the pdf need some cleanup in all but the German versions.
- 
+
 ## Markdown Styleguide
 
 Information in this section is preliminary, and needs further testing.
@@ -61,7 +61,7 @@ Keep (or adapt) `custom-styles.css` and `custom-theme.css` (derived from `css/th
 
 ## Translations
 
-Slides are translated in a [dedicated crowdin project](https://crowdin.com/project/sociocracy-30). The repository contains `crowdin.yaml` for use with the [crowdin CLI](https://support.crowdin.com/cli-tool/). 
+Slides are translated in a [dedicated crowdin project](https://crowdin.com/project/sociocracy-30). The repository contains `crowdin.yaml` for use with the [crowdin CLI](https://support.crowdin.com/cli-tool/).
 
 Uploading sources is handled through this command (remove `--dryrun` to run):
 
@@ -71,13 +71,13 @@ For each major revision we will create a branch with the version tag in crowdin,
 
 `crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b {branch name} --dryrun`
 
-The config file can be checked using 
+The config file can be checked using
 `crowdin --identity ~/crowdin-s3-patterns.yaml lint`
 
  These commands assume [crowdin credentials](https://support.crowdin.com/configuration-file/#cli-2) in `~/crowdin-s3-patterns.yaml`
 
 
-## License 
+## License
 
 [![](http://creativecommons.org/images/deed/seal.png)](http://creativecommons.org/freeworks)
 
@@ -90,7 +90,7 @@ Basically this license grants you
 1. Freedom to use the work itself.
 2. Freedom to use the information in the work for any purpose, even commercially.
 3. Freedom to share copies of the work for any purpose, even commercially.
-4. Freedom to make and share remixes and other derivatives for any purpose. 
+4. Freedom to make and share remixes and other derivatives for any purpose.
 
 You need to attribute the original creator of the materials, and all derivatives need to be shared under the same license. There's more on the topic of free culture on the [Creative Commons website.](http://creativecommons.org/freeworks)
 

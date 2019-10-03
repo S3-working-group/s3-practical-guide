@@ -7,7 +7,7 @@ title: "Peach Organization"
 
 Teams in the periphery:
 
--   deliver value in direct exchange with the outside world (customers, partners, communities, municipalities etc.) 
+-   deliver value in direct exchange with the outside world (customers, partners, communities, municipalities etc.)
 -   steward the monetary resources and steer the organization
 
 The center provides internal services to support the organization.

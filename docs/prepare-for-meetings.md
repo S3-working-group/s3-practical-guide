@@ -8,10 +8,10 @@ title: "Prepare For Meetings"
 Some considerations for successfully preparing a meeting:
 
 - clarify and communicate the <dfn data-info="Driver: A person’s or a group&apos;s motive for responding to a specific situation.">driver</dfn> for, and <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn> of the meeting
-- decide who to invite 
+- decide who to invite
 - create an agenda
 - schedule the meeting enough in advance, so people have time to prepare
-- choose an appropriate duration for the meeting 
+- choose an appropriate duration for the meeting
 - be clear who will [facilitate the meeting](facilitate-meetings.html), who will take minutes and who will take care of any follow-up
 
 ### Preparing an Agenda
@@ -20,10 +20,10 @@ Involve people in preparing and prioritizing an agenda and send it out in advanc
 
 For each agenda item agree on:
 
-- the driver 
+- the driver
 - the intended outcome
 - the process
-- the time you want to spend on it 
+- the time you want to spend on it
 - what people need to do to prepare
 
 ### Support the Participants' Preparation

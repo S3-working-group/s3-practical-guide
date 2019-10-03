@@ -10,7 +10,7 @@ Reflect on interactions, celebrate successes and share suggestions for improveme
 -   reserve 5 minutes for 1 hour, and 15 minutes for a full-day workshop
 -   record learning and review it before the next meeting
 
-Short formats you can use: 
+Short formats you can use:
 
 -   more of/less of/start/stop/keep
 -   positive/critical/suggested improvements

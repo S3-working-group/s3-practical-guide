@@ -61,7 +61,7 @@ title: "Changelog"
 - added and revised the brief summary for many of the patterns
 - removed bullet points in favor of full sentences in many patterns
 - lots of small improvements to grammar and language
-- included the URL to the web version of the practical guide 
+- included the URL to the web version of the practical guide
 
 **Glossary:**
 
@@ -73,8 +73,8 @@ title: "Changelog"
 
 -   added the driver for creating Sociocracy 3.0
 -   The Seven Principles:
-    -   _The Principle of Empiricism_: removed reference to “falsification” 
-    -   _The Principle of Consent_ is now explained more clearly as “Raise, seek-out and resolve objections to decisions and actions” 
+    -   _The Principle of Empiricism_: removed reference to “falsification”
+    -   _The Principle of Consent_ is now explained more clearly as “Raise, seek-out and resolve objections to decisions and actions”
 -   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”, and clarified the distinction between governance and operations
 -   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
 
@@ -120,10 +120,10 @@ title: "Changelog"
 - [Rounds](rounds.html): improved description
 - [Transparent Salary](transparent-salary.html): added more details about fairness, and on how to develop a salary formula
 
-**Renamed Patterns:** 
+**Renamed Patterns:**
 
 - _Evaluate Agreements_ to _Evaluate and Evolve Agreements_
-- _Intended Outcome_ to _Clarify Intended Outcome_ 
+- _Intended Outcome_ to _Clarify Intended Outcome_
 - _Open S3 Adoption_ to _Open Space for Change_
 - _Contracting and Accountability_ to _Contract For Successful Collaboration_
 
@@ -161,8 +161,8 @@ title: "Changelog"
 - added Liliana David to authors
 - dropped the term "framework" (replaced with "practical guide")
 - updated order of patterns
-- added an index of all the patterns 
-- added a glossary 
+- added an index of all the patterns
+- added a glossary
 - added acknowledgments
 - various small clarifications and corrections to text and illustrations
 - updated templates for agreement and development plan
@@ -195,7 +195,7 @@ title: "Changelog"
 - _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications
 - _Resolve Objections_: updated illustration to better reflect the process
 
-**Renamed Patterns:** 
+**Renamed Patterns:**
 
 - _Backbone Organization_ to _Service Organization_
 - _Effectiveness Review_ to _Peer Review_

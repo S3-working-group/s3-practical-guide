@@ -1,5 +1,5 @@
 ---
-title: Glossary 
+title: Glossary
 ---
 
 **Account for (v.):** to take the responsibility for something.

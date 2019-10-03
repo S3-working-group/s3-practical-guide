@@ -56,7 +56,7 @@ Some helpful questions:
 
 _A **concern** is an assumption that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
 
-In [Consent Decision Making](consent-decision-making.html), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
+In [Consent Decision Making](consent-decision-making.html), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).
 
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 

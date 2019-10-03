@@ -3,17 +3,17 @@ title: Introduction
 ---
 
 
-## Sociocracy 3.0 - A Practical Guide For Evolving Agile and Resilient Organizations 
+## Sociocracy 3.0 - A Practical Guide For Evolving Agile and Resilient Organizations
 
 ### Effective Collaboration At Any Scale
 
-Sociocracy 3.0 — **a.k.a. “S3”** — is a practical guide for evolving agile and resilient organizations of any size, from small start-ups to large international networks and nationwide, multi-agency collaboration. It provides for a coherent way for growing organizational integrity and **developing a sociocratic and agile mindset**. 
+Sociocracy 3.0 — **a.k.a. “S3”** — is a practical guide for evolving agile and resilient organizations of any size, from small start-ups to large international networks and nationwide, multi-agency collaboration. It provides for a coherent way for growing organizational integrity and **developing a sociocratic and agile mindset**.
 
 S3 brings you an extensive collection of guidelines and practices (so-called “patterns”) that have proven helpful for organizations to **improve performance, alignment, fulfillment and wellbeing**.
 
 These patterns help you discover how to best reach your objectives and navigate complexity, one step at a time, **without the need for sudden radical reorganization or planning a long-term change initiative**:
 
- Simply start with your area of greatest need, select one or more patterns to try, **move at your own pace** and develop skills as you go. 
+ Simply start with your area of greatest need, select one or more patterns to try, **move at your own pace** and develop skills as you go.
 
 **Regardless of your position in the organization**, you will find patterns that are relevant and helpful for you.
 
@@ -51,7 +51,7 @@ Sociocracy 3.0 is:
 
 -   a bit of history and a brief overview of some basic concepts behind S3
 -   a description of all the patterns in S3
--   an appendix 
+-   an appendix
     -   changelog
     -   info about authors and acknowledgments
     -   the license
@@ -74,9 +74,9 @@ In 1926, the Dutch reformist educator and Quaker **Kees Boeke**, established a r
 
 During the late 1990s and early 2000s, several non-Dutch speaking people came across sociocracy, but it wasn't until 2007 when **Sharon Villines and John Buck** launched their book, "We the People", that sociocracy became widely accessible to the English speaking world, and from there has began to migrate into several other languages.
 
-Sociocracy has proven to be effective for many organizations and communities around the world, but it has yet to become viral. 
+Sociocracy has proven to be effective for many organizations and communities around the world, but it has yet to become viral.
 
-In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015. 
+In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile, and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015.
 
 **Liliana David** joined the team soon after and together they regularly collaborate to develop both the framework and the website.
 
@@ -100,7 +100,7 @@ We also love agile, lean, Kanban, the Core Protocols, NVC, and many other ideas 
 
 Therefore we decided to devote some of our time to develop and evolve Sociocracy, integrating it with many of these other potent ideas, to make it available and applicable to as many organizations as possible.
 
-To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability. 
+To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability.
 
 ### The Name
 
@@ -157,7 +157,7 @@ _James Priest, Bernhard Bockelbrink and Liliana David_
 
 ## Basic Concepts
 
-Before diving into the content, consider taking time to learn about some basic concepts behind S3: 
+Before diving into the content, consider taking time to learn about some basic concepts behind S3:
 
 -   What is a pattern?
 -   The Seven Principles
@@ -168,7 +168,7 @@ Before diving into the content, consider taking time to learn about some basic c
 
 For any terms you don't understand check out the glossary at the end.
 
-### Patterns 
+### Patterns
 
 _A **pattern** is a template for successfully navigating a specific context._
 
@@ -178,7 +178,7 @@ _A **pattern** is a template for successfully navigating a specific context._
 
 ![Patterns are grouped by topic into ten categories](img/pattern-group-headers/all-groups-dark.png)
 
-### The Seven Principles 
+### The Seven Principles
 
 
 Sociocracy is built on seven principles that shape organizational culture. Since the seven principles are reflected in all of the patterns, understanding these principles is helpful for adopting and paramount to adapting Sociocracy 3.0 patterns.
@@ -212,14 +212,14 @@ Every member of the organization is accountable for effectively responding to or
 Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
 
 Everyone in an organization is accountable for aligning activity with organizational values.
- 
+
 ### Making Sense of Organizations
 
 #### Drivers
 
 _A **driver** is a person’s or a group's motive for responding to a specific situation._
 
-Drivers: 
+Drivers:
 
 -   can be used to derive goals, objectives, aims, mission, vision, purpose
 -   can change over time
@@ -275,19 +275,19 @@ While a decision of short-term consequence can easily be amended on the spot, ma
 
 Such agreements need to be documented, both to remember them and to support effective [review](evaluate-and-evolve-agreements.html), and to be communicated to people affected (who are ideally also [involved in the creation and evolution](those-affected-decide.html) of those agreements).
 
-Therefore it’s valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations: 
+Therefore it’s valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations:
 
 _**Governance** in an organization (or a domain within it) is the act of setting objectives, and making and evolving decisions that guide people towards achieving them._
 
 _**Operations** is doing the work and organizing day to day activities within the constraints defined through governance._
 
-For each domain in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value. 
+For each domain in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
 
 There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a team lead, and sometimes it’s a group of people, e.g. in a circle where all circle members share responsibility for governance within the constraints of the domain.
 
 **Governance decisions** set constraints on activity and guide future decisions.
 
-This includes: 
+This includes:
 
 -   defining domains
 -   delegating influence to people

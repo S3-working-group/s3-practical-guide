@@ -4,7 +4,7 @@ title: "Support Role"
 
 
 **Apply the role pattern to external contractors.**
-    
+
 -   clarify and describe the <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">driver</dfn> for the [role](role.html)
 -   create a [domain description](clarify-domains.html)
 -   if valuable, implement a selection process

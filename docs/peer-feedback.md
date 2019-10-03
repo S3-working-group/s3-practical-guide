@@ -3,7 +3,7 @@ title: "Peer Feedback"
 ---
 
 
-Invite a peer to give you some constructive feedback on: 
+Invite a peer to give you some constructive feedback on:
 
 -   your performance in a role
 -   your general participation and contribution
