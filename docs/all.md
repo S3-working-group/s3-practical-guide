@@ -121,7 +121,7 @@ It also helps avoid the perception of us misrepresenting the *Sociocratic Circle
 We support “viral” distribution through two key strategies:
 
 * **Sociocracy 3.0 is open:** We want to encourage growth of a vibrant ecosystem of applications and flavors of sociocracy, where people share and discuss their insights and the adaptations they are making for their specific context. To this end Sociocracy 3.0 puts emphasis on communicating the underlying principles and explicitly invites the creativity of everyone to remix, extend and adapt things to suit their needs.
-* **Sociocracy 3.0 is free:** To eliminate the barrier of entry for people and organizations we provide free resources under a *Creative Commons Free Culture License* to learn, practice and teach *Sociocracy 3.0*. Everyone can use our resources without our explicit permission, even in a commercial context, or as a basis for building their own resources [^as long as they share their new resources under the same license]. We encourage other organizations, consultants, coaches, learning facilitators and trainers to follow our example and release their resources too.
+* **Sociocracy 3.0 is free:** To eliminate the barrier of entry for people and organizations we provide free resources under a *Creative Commons Free Culture License* to learn, practice and teach *Sociocracy 3.0*. Everyone can use our resources without our explicit permission, even in a commercial context, or as a basis for building their own resources, as long as they share their new resources under the same license. We expect and support other organizations, consultants, coaches, learning facilitators and trainers to follow our example and release their resources too.
 
 ### The Evolution of the Sociocratic Circle Organization Method
 
@@ -462,7 +462,7 @@ Withholding objections can harm the objectives of a team or organization.
 
 ###  Pattern 1.5: Objection
 
-_An **objection** is an argument demonstrating (or revealing)how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it._
+_An **objection** is an argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it._
 
 Objections reveal information about **unintended consequences**, or about **viable ways to improve**.
 
@@ -852,7 +852,7 @@ Chosen values are an agreement that benefits from **regular review**.
 
 **Select someone to facilitate governance meetings.**
 
-A _governance_ facilitator:
+A governance facilitator:
 
 -   ensures _governance meetings_ stay on track and are evaluated
 -   is (usually) selected by a team from among it members (and for a specific term)

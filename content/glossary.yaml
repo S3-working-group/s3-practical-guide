@@ -128,6 +128,14 @@ terms:
     name: Need
     definition: A **need** is the lack of something wanted or deemed necessary (a requirement).
     glossary: The lack of something wanted or deemed necessary (a requirement).
+  objection:
+    name: Objection
+    definition: An **objection** is an argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.
+    glossary: An argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.
+  objective:
+    name: Objective
+    definition:
+    glossary: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.
   open-domain:
     name: Open Domain
     definition:
@@ -140,18 +148,6 @@ terms:
     name: Operations Backlog
     definition: An **operations backlog** is a visible list of (typically prioritized) uncompleted work items (deliverables).
     glossary: A visible list of (typically prioritized) uncompleted work items (deliverables).
-  objection:
-    name: Objection
-    definition: An **objection** is an argument demonstrating (or revealing)how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.
-    glossary: An argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.
-  peer-domain:
-    name: Peer Domain
-    definition:
-    glossary: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
-  objective:
-    name: Objective
-    definition:
-    glossary: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.
   organization:
     name: Organization
     definition:
@@ -164,6 +160,10 @@ terms:
     name: Pattern
     definition: A **pattern** is a template for successfully navigating a specific context.
     glossary: A template for successfully navigating a specific context.
+  peer-domain:
+    name: Peer Domain
+    definition:
+    glossary: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
   primary-driver:
     name: Primary Driver
     definition:

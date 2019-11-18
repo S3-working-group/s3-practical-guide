@@ -2,7 +2,7 @@
 
 **Select someone to facilitate governance meetings.**
 
-A [governance](section:governance) facilitator:
+A [governance](glossary:governance) facilitator:
 
 -   ensures [governance meetings](section:governance-meeting) stay on track and are evaluated
 -   is (usually) selected by a [team](glossary:team) from among it members (and for a specific term)
