@@ -3,7 +3,7 @@ title: "Objection"
 ---
 
 
-_An **objection** is an argument demonstrating (or revealing)how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it._
+_An **objection** is an argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it._
 
 Objections reveal information about **unintended consequences**, or about **viable ways to improve**.
 

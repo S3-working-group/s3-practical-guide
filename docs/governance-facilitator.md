@@ -5,7 +5,7 @@ title: "Governance Facilitator"
 
 **Select someone to facilitate governance meetings.**
 
-A [governance](governance.html) facilitator:
+A <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn> facilitator:
 
 -   ensures [governance meetings](governance-meeting.html) stay on track and are evaluated
 -   is (usually) selected by a <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</dfn> from among it members (and for a specific term)
