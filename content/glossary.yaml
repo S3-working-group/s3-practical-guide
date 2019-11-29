@@ -90,7 +90,7 @@ terms:
   empiricism:
     name: Empiricism (principle)
     definition:
-    glossary: Test all assumptions through experimentation and continuous revision.
+    glossary: Test all assumptions you rely on, through experiments and continuous revision.
   equivalence:
     name: Equivalence (principle)
     definition:
@@ -229,7 +229,7 @@ terms:
   transparency:
     name: Transparency (principle)
     definition:
-    glossary: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
+    glossary: Record all information that is valuable for the organization, and make it accessible to everyone, unless there is a reason for confidentiality.
   value:
     name: Value
     definition: "**Value** is the importance, worth or usefulness of something in relation to a driver."

@@ -1,5 +1,12 @@
 ## Changelog
 
+
+### Changes 2019-11-29
+
+- Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the orgaization
+- Principle of Empiricism: clarified that only those assumptions one relies on need to be tested
+
+
 ### Changes 2019-06-27
 
 - [Objection](section:objection): further refined definition of objection, and updated the glossary term for [objection](glossary:objection) accordingly
