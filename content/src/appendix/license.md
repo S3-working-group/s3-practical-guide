@@ -1,7 +1,7 @@
 ## License
 
 
-"Sociocracy 3.0 - A Practical Guide"  by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**. 
+"Sociocracy 3.0 - A Practical Guide" by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**. 
 
 Basically this license grants you:
 

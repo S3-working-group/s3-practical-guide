@@ -53,7 +53,7 @@ Some helpful questions:
 
 {{define:concern}}
 
-In [Consent Decision Making](section:consent-decision-making), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
+In [Consent Decision Making](section:consent-decision-making), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).
 
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 

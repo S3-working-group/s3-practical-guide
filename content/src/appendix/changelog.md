@@ -35,7 +35,7 @@
 - added captions to all illustrations
 - renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
 - removed slide deck version and improved layout and formatting of pdf and ePub version
-- website version: added clickable pattern map for simpler navigation und  glossary overlays to many patterns
+- website version: added clickable pattern map for simpler navigation, added glossary overlays to many patterns
 
 **Glossary:**
 
