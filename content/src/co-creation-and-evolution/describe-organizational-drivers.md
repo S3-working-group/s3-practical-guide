@@ -6,10 +6,10 @@ Describing [drivers](glossary:organizational-driver) may be done by a group or b
 
 A simple way to describe a driver is by explaining:
 
--   **What’s happening...:**
+-   **What's happening...:**
     -   the **current situation**
     -   the **effect** of this situation on the organization
--   ...and **what’s needed:**
+-   ...and **what's needed:**
     -   the **need** of the organization in relation to this situation
     -   the **impact** of attending to that need
 
@@ -19,11 +19,11 @@ Create a brief but comprehensive summary containing just enough information to c
 
 ### Example: 
 
-> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes and it’s not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work.”_
+> _"The kitchen is a mess: there are no clean cups, the sink is full of dishes and it's not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work."_
 
 ### 1. Current Situation
 
-> _“The kitchen is a mess: there are no clean cups, the sink is full of dishes...”_
+> _"The kitchen is a mess: there are no clean cups, the sink is full of dishes..."_
 
 Describe the current situation:
 
@@ -32,7 +32,7 @@ Describe the current situation:
 
 ### 2. Effect
 
-> _“...it’s not possible to quickly grab a coffee and get right back to work.”_
+> _"...it's not possible to quickly grab a coffee and get right back to work."_
 
 Explain the effect of this situation on the organization:
 
@@ -42,17 +42,17 @@ Explain the effect of this situation on the organization:
 
 ### 3. Need
 
-> _“We need the kitchen in a usable state...”_
+> _"We need the kitchen in a usable state..."_
 
 Explain the [need](glossary:need) of the organization in relation to this situation:
 
 - A **need of an organization** is anything a team (or individual) requires to effectively account for a [domain](glossary:domain). 
-- Be specific on whose need it is (“we need”, “they need”, “I need”).
-- If there’s disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
+- Be specific on whose need it is ("we need", "they need", "I need").
+- If there's disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
 
 ### 4. Impact
 
-> _“...so we can stay focused on our work”._
+> _"...so we can stay focused on our work"._
 
 Describe the impact of attending to that need:
 

@@ -22,15 +22,15 @@ I practice and facilitate S3 patterns.
 
 I maintain appropriate confidentiality about issues relating to my clients.
 
-I will work in accordance with my level of competence and the client’s needs, and disclose when I am out of my depth.
+I will work in accordance with my level of competence and the client's needs, and disclose when I am out of my depth.
 
-I stay up to date with the ongoing developments of the S3 and the way it’s presented. (e.g. by following the changelog in the latest version of the practical guide)
+I stay up to date with the ongoing developments of the S3 and the way it's presented. (e.g. by following the changelog in the latest version of the practical guide)
 
 I will continue learning about S3, deepen my understanding and explore related topics.
 
 I am transparent about my level of experience, my understanding of S3, the feedback I receive and my development plan.
 
-I conduct regular peer reviews, and I integrate feedback from clients and peers into evolving what I’m doing.
+I conduct regular peer reviews, and I integrate feedback from clients and peers into evolving what I'm doing.
 
 I will give all clients/peers the chance to publicly share feedback.
 
