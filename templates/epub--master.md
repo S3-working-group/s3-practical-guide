@@ -1,13 +1,13 @@
 ---
 title:
 - type: main
-  text: ${_("Sociocracy 3.0 - A Practical Guide")}
+  text: ${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}
 creator:
 - role: author
   text: Bernhard Bockelbrink, James Priest, Liliana David
 rights: ${version} © 2015 - 2019 Bernhard Bockelbrink, James Priest, Liliana David, CC BY-SA
 lang: ${html_language}
-cover-image: ../../img/framework/logo.png
+cover-image: ../../img/s3-practical-guide-cover-70dpi.png
 stylesheet: ../../templates/epub.css
 
 ...

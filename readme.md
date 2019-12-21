@@ -1,9 +1,8 @@
-# Sociocracy 3.0 - A Practical Guide
+# A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
 
-This repository contains the source file for  a slide deck for teaching Sociocracy 3.0, currently available as 
+This repository contains the source files for the book _A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0_, currently available as 
 
 * fast and mobile friendly static html pages: <http://patterns.sociocracy30.org>
-* [online presentation](http://patterns.sociocracy30.org/slides.html)
 * various other download formats, see  [sociocracy30.org/guide/](http://sociocracy30.org/guide/) 
 
 German, Hebrew and French versions also exist and are also available via [sociocracy30.org/guide/](http://sociocracy30.org/guide/). If you want to help with translations into your language, please take a look at the [translations page](http://sociocracy30.org/translations/).
