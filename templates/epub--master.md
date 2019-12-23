@@ -10,7 +10,7 @@ lang: ${html_language}
 cover-image: ../../img/s3-practical-guide-cover-70dpi.png
 stylesheet: ../../templates/epub.css
 
-...
+---
 
 # ${_("Introduction")}
 
