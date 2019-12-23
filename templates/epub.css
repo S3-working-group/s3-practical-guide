@@ -11,60 +11,15 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  page-break-after: avoid;
-  page-break-inside: avoid; /* TODO what does that mean ? */
   font-weight: bold;
   text-align: center;
   padding: 0;
   margin: 0;
   font-family: sans-serif;
 }
-/* never have a page break before a headline that follows another headline */
-h1+section>h2:first-child, h2+section>h3:first-child, 
-h3+section>h4:first-child, h4+section>h5:first-child, 
-h5+section>h6:first-child {
-  page-break-before: avoid;
-    color: green;
-}
-/* avoid page break before a paragraph, list or illustration that follows another headline */
-h1+p, h2+p, h3+p, h4+p, h5+p, h6+p,
-h1+ul, h2+ul, h3+ul, h4+ul, h5+ul, h6+ul,
-h1+img, h2+img, h3+img, h4+img, h5+img, h6+img,
-h1+figure, h2+figure, h3+figure, h4+figure, h5+figure, h6+figure {
-  page-break-before: avoid;
-}
-/* add a page break before each section */
-h1 {
-  page-break-before: always;
-}
-/* section 1: add a page break before h2 but the first one */
-#introduction h2, 
-#appendix h2 {
-  page-break-before: always;
-}
-#introduction h1+section>h2:first-child,
-#appendix h1+section>h2:first-child {
-  page-break-before: avoid;
-}
 
-/* section 2: add a page break before each h2 but the fist one */
-#the-patterns h2 {
-  page-break-before: always;
-  color: red;
-}
-#the-patterns h3 {
-  page-break-before: always;
-  color: orange;
-}
-#the-patterns h1+section>h2:first-child,
-#the-patterns h2+section>h3:first-child {
-  page-break-before: avoid;
-    color: green;
-}
 
-/* --- untested ---*/
 /* TODO: h2 has more padding below than above */
-
 
 /* --- PARAGRAPHS, CODE, QUOTES --- */
 /*  no indent first line */
@@ -105,6 +60,52 @@ figcaption {
   font-size: smaller;
   text-align:center;
 }
+
+/* ---- SET PAGE BREAKS ---- */
+
+h1, h2, h3, h4, h5, h6 {
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}
+/* never have a page break before a headline that follows another headline */
+h1+section>h2:first-child, h2+section>h3:first-child, 
+h3+section>h4:first-child, h4+section>h5:first-child, 
+h5+section>h6:first-child {
+  page-break-before: avoid;
+}
+/* avoid page break before a paragraph, list or illustration that follows another headline */
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p,
+h1+ul, h2+ul, h3+ul, h4+ul, h5+ul, h6+ul,
+h1+img, h2+img, h3+img, h4+img, h5+img, h6+img,
+h1+figure, h2+figure, h3+figure, h4+figure, h5+figure, h6+figure {
+  page-break-before: avoid;
+}
+/* add a page break before each section */
+h1 {
+  page-break-before: always;
+}
+/* section 1: add a page break before h2 but the first one */
+#introduction h2, 
+#appendix h2 {
+  page-break-before: always;
+}
+#introduction h1+section>h2:first-child,
+#appendix h1+section>h2:first-child {
+  page-break-before: avoid;
+}
+
+/* section 2: add a page break before each h2 but the fist one */
+#the-patterns h2 {
+  page-break-before: always;
+}
+#the-patterns h3 {
+  page-break-before: always;
+}
+#the-patterns h1+section>h2:first-child,
+#the-patterns h2+section>h3:first-child {
+  page-break-before: avoid;
+}
+
 table, figure {
   page-break-inside: avoid;
 }
