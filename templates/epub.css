@@ -11,15 +11,16 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: bold;
-  text-align: center;
+  font-weight: 600;
+  text-align: left;
   padding: 0;
-  margin: 0;
+  margin-top: 2em;
+  margin-bottom: 1.2em;
   font-family: sans-serif;
 }
-
-
-/* TODO: h2 has more padding below than above */
+strong {
+  font-weight: 600;
+}
 
 /* --- PARAGRAPHS, CODE, QUOTES --- */
 /*  no indent first line */
@@ -29,24 +30,26 @@ p {
 }
 /* add small margin between paragraphs and lists */
 ul, p {
-  margin-top: 2pt;
-  margin-bottom: 2pt;
+  margin-top: 0.6em;
+  margin-bottom: 0.6em;
 }
 li, li>ul {
-  margin-top: 1pt;
-  margin-bottom: 1pt;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
 } 
 blockquote > p {
   text-indent:0;
-  margin-left:1em;
-  margin-right:1em;
+  margin-left: 1em;
+  margin-right: 1em;
   margin-bottom:1em;
 }
-code { font-family: monospace; }
+code {
+ font-family: monospace; 
+}
 
 /* --- IMAGES AND CAPTIONS ---*/
 
-img{
+img {
   display:block;
   margin-left: auto;
   margin-right: auto;
