@@ -10,7 +10,7 @@ title: "Continuous Improvement Of Work Process"
 -   initiate a process of continuous improvement, e.g. through Kanban or regular [retrospectives](retrospective.html)
 -   members of the team pull in S3 patterns as required
 -   if valuable, iteratively expand the scope of the experiment to other teams
--   intentionally look out for impediments  
+-   intentionally look out for impediments
 
 ### Waste And Continuous Improvement
 
