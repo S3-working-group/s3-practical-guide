@@ -14,7 +14,6 @@ To this end, we recognize the value of a strong identity, a radically different 
 
 ### The Name
 
-
 The name "*Sociocracy 3.0*" demonstrates both respect to the lineage and a significant step forward.
 
 It also helps avoid the perception of us misrepresenting the *Sociocratic Circle Organization Method* (SCM) as promoted by The Sociocracy Group.
@@ -61,6 +60,5 @@ The *Sociocratic Circle Organization Method* is an "empty" method when it comes 
 The organizational structure according to the *Sociocratic Circle Organization Method* is modeled on a hierarchy of domains. We see an increasing emergence of collaborative multi-stakeholder environments and the need for a wider variety of patterns for organizational structure.
 Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
 
-_James Priest, Bernhard Bockelbrink and Liliana David_
-
+<!-- split here -->
 

@@ -26,6 +26,9 @@ msgstr "70+ Powerful Practices to Help You and Your Organization Thrive"
 msgid "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
 msgstr "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
 
+# Headline for page "Concepts and Principles" in website
+msgid "Concepts and Principles"
+msgstr "Concepts and Principles"
 
 # Headline for Section "Introduction" (e.g. in ebook)
 msgid "Introduction"

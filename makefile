@@ -26,6 +26,16 @@ site:
 	# build jekyll site
 	$(update-make-conf)
 
+	# build content files
+	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
+
+	# split introduction into intro and concepts/principles
+	awk '{print >out}; /<!-- split here -->/{out="tmp/docs/concepts-and-principles-content.md"}' out=tmp/docs/introduction-content.md docs/introduction.md
+	$(MKTPL) templates/docs/introduction.md $(TMPFOLDER)/docs/intro_tmpl.md $(LOC) $(PRJ)
+	cd $(TMPFOLDER)/docs; multimarkdown --to=mmd --output=../../docs/introduction.md intro_tmpl.md
+	$(MKTPL) templates/docs/concepts-and-principles.md $(TMPFOLDER)/docs/concepts_tmpl.md $(LOC) $(PRJ)
+	cd $(TMPFOLDER)/docs; multimarkdown --to=mmd --output=../../docs/concepts-and-principles.md concepts_tmpl.md
+	
 	# prepare templates
 	$(MKTPL) templates/docs/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
 	$(MKTPL) templates/docs/_layouts/plain.html docs/_layouts/plain.html $(LOC) $(PRJ)
@@ -36,7 +46,7 @@ site:
 	$(MKTPL)  templates/docs/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
 	cp content/website/_includes/header.html docs/_includes/header.html
 
-	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
+	# build the site
 	cd docs;jekyll build
 
 epub:
@@ -130,6 +140,7 @@ setup:
 	-mkdir -p $(TMPFOLDER)/ebook
 	-mkdir -p $(TMPFOLDER)/htmlbook
 	-mkdir -p $(TMPFOLDER)/web-out
+	-mkdir -p $(TMPFOLDER)/docs
 	-mkdir docs/_site
 	# -mkdir gitbook
 ifeq ("$(wildcard $(TMPFOLDER)/ebook/img)","")
