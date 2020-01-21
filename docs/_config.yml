@@ -1,8 +1,8 @@
 # Site settings
-title: Sociocracy 3.0 - A Practical Guide
+title: Sociocracy 3.0 - A Practical Guide
 email: bernhard.bockelbrink@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David.
+   The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://s3-working-group.github.io" # the base hostname & protocol for your site

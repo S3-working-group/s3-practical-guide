@@ -84,7 +84,7 @@ title: "Changelog"
 
 **Changes to Introduction**
 
--   added the driver for creating Sociocracy 3.0
+-   added the driver for creating Sociocracy 3.0
 -   The Seven Principles:
     -   _The Principle of Empiricism_: removed reference to "falsification" 
     -   _The Principle of Consent_ is now explained more clearly as "Raise, seek-out and resolve objections to decisions and actions" 
