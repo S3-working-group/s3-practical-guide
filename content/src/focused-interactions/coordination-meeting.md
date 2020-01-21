@@ -10,7 +10,7 @@
 Agenda items: 
 
 - cross domain synchronization and alignment
-- prioritization and distribution of work  
+- prioritization and distribution of work
 - responding to impediments
 
 ![Phases of a coordination meeting](img/meetings/coordination-meeting.png)

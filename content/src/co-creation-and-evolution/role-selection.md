@@ -15,9 +15,9 @@ A prerequisite to the selection process is a [clear description](section:clarify
 
 ![Role selection process](img/agreements/selection.png)
 
-1. **Present Role Description:** If possible, send out the role’s domain description in advance.
+1. **Present Role Description:** If possible, send out the role's domain description in advance.
 2. **Record Nominations:** Participants write their nomination on a slip of paper. People can nominate themselves, another, or pass.
-3. **Reasons for Nominations:**  Each person shares who they have nominated and why.
+3. **Reasons for Nominations:** Each person shares who they have nominated and why.
 4. **Information Gathering:** Participants share or request any information that might support the group in making an appropriate selection.
 5. **Nomination Changes:** Check if anyone wants to change their nomination in light of reasons and information shared so far, and hear the reasons for each change.
 6. **Propose a nominee** for the role: The facilitator guides the process to identify a suitable nominee on the strength of the reasons heard, e.g. by:

@@ -1,12 +1,42 @@
-S3 - A Practical Guide :
+Inbox:
+Content:
+	- add small intro text to teach pattern group, as well as intro to "the patterns" that explains a bit more about the patterns @later
+	- explanation for making sense of orgs (see intro for ideas) @later
+	- expand all seven principles! @later
+	- why s3 is not very simple to understand for people unfamiliar with SCM @later
 Translations:
-	- sort the Crowdin issue with HTML-Entities in authors.md (reupload the filen manually once Crowdin support figured out what the problem was) @done
-	- clean up translation branches:
-		- create branch for 2019-03-17c
-		- check if master is identical to to 2019-03-17c
-		- if so, delete master branch
 	- document translation process and update docs for release process
 Known Issues:
-	- in the epub, page breaks should be before each pattern: see https://electricbookworks.com/kb/creating-epub-from-indesign/after-indesign-export-to-epub/page-breaks/ and https://www.mobileread.com/forums/showthread.php?t=168471
+	- in the epub, page breaks should be before each pattern @done
+	info on epub and page breaks: https://electricbookworks.com/kb/creating-epub-from-indesign/after-indesign-export-to-epub/page-breaks/ and https://www.mobileread.com/forums/showthread.php?t=168471
 Build Process / mdtools:
 	- glossary links inside the glossary itself are not parsed correctly, add glossary links only when they are working!!
+	- add references for HTML, Epub, LaTex
+Supporter Edition and New Introduction:
+	- bump version number
+	- upload to crowdin
+	- make everything set in ragged left!!
+	Content:
+		- intro: reduce risk and resistance: explain what a pattern is???
+	Structure / Scripting:
+		- check if all works out without explaining "patterns"
+		- test links in disclaimer!
+	Website:
+		- make sure image captions are rendered and formatted accordingly!! (probably as "![]() /n*caption*/ and img + em {}
+	Epub:
+		- make sure authors meta is correct
+		- add description to metadata
+		- update formatting (font / paragraph style / headlines styles)
+	PDF Ebook:
+		- add subtitle to title page
+		- make sure figure numbering is continuous
+		- flow text ragged left?
+		- style figure captions a little smaller (and in italics?)
+		- add title image to pdf @later
+			https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
+			https://tex.stackexchange.com/questions/46280/how-to-create-a-background-image-on-title-page-with-latex
+			https://www.bhalash.com/archives/13544791365
+	
+	
+
+

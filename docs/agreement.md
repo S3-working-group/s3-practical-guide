@@ -13,7 +13,7 @@ An agreement can include **delegation of specific responsibilities** to individu
    
 Record any **expectations** related to <dfn data-info="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverables</dfn>, behavior or resources in the context of the agreement.
 
-**Note:** In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.  
+**Note:** In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.
 
 ![Template for agreements](img/templates/agreement-template.png)
 

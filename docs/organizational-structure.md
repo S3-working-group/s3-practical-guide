@@ -14,7 +14,7 @@ Continuously evolve your organization's structure to:
 
 The basic building blocks for organizational structure are interdependent, connected domains.
 
-Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex  adaptive system, or network, where multiple functional structures can co-exist).
+Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex adaptive system, or network, where multiple functional structures can co-exist).
 
 Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
 

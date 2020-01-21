@@ -1,5 +1,5 @@
 ---
-title: ${_("Sociocracy 3.0 - A Practical Guide")}
+title: ${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}
 ---
 
 # ${_("Introduction")}

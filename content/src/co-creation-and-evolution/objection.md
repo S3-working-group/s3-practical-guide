@@ -4,7 +4,7 @@
 
 Objections reveal information about **unintended consequences**, or about **viable ways to improve**.
 
-It’s the accountability of individuals to raise potential objections to proposals, decisions, existing [agreements](glossary:agreement) or activities.
+It's the accountability of individuals to raise potential objections to proposals, decisions, existing [agreements](glossary:agreement) or activities.
 
 Withholding objections can harm the ability of individuals, teams or
 the whole organization to respond to [organizational drivers](glossary:organizational-driver).
@@ -33,7 +33,7 @@ Not all arguments raised are objections. Distinguish between objections, which a
 
 To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
 
-_“Do you think this argument qualifies as an objection?”_
+_"Do you think this argument qualifies as an objection?"_
 
 If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
 
@@ -47,13 +47,13 @@ Some helpful questions:
     -   can be improved right now?
     -   prevents or diminishes someone's contribution towards responding to a driver?
     -   is in conflict with the organization's values?
-    -   is considered not ‘safe enough’ to try?
+    -   is considered not 'safe enough' to try?
 
 ### Concerns
 
 {{define:concern}}
 
-In [Consent Decision Making](section:consent-decision-making), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
+In [Consent Decision Making](section:consent-decision-making), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).
 
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 

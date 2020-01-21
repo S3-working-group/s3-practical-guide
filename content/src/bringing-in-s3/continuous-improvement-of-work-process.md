@@ -7,7 +7,7 @@
 -   initiate a process of continuous improvement, e.g. through Kanban or regular [retrospectives](section:retrospective)
 -   members of the team pull in S3 patterns as required
 -   if valuable, iteratively expand the scope of the experiment to other teams
--   intentionally look out for impediments  
+-   intentionally look out for impediments
 
 ### Waste And Continuous Improvement
 
