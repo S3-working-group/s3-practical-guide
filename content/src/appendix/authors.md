@@ -4,26 +4,20 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 ![James Priest, Liliana David, Bernhard Bockelbrink](img/james-liliana-bernhard.png)
 
-### James Priest
-
-... serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
+**James Priest** serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
 
 <https://thriveincollaboration.com>
 
 <james@thriveincollaboration.com>
 
 
-### Bernhard Bockelbrink 
-
-... is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
+**Bernhard Bockelbrink** is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
 
 <https://evolvingcollaboration.com>
 
 <bernhard.bockelbrink@evolvingcollaboration.com>
 
-### Liliana David
-
-... serves internationally, providing training, facilitation and mentoring to teams and organizations wishing to develop greater effectiveness and equivalence in collaboration.
+**Liliana David** serves internationally, providing training, facilitation and mentoring to teams and organizations wishing to develop greater effectiveness and equivalence in collaboration.
 
 <https://thriveincollaboration.com>
 
