@@ -1,6 +1,6 @@
-# A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
+# A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
 
-This repository contains the source files for the book _A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0_, currently available as 
+This repository contains the source files for the book _A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0_, currently available as 
 
 * fast and mobile-friendly static html pages: <http://patterns.sociocracy30.org>
 * ePub and PDF
@@ -64,9 +64,9 @@ The config file can be checked using
 
 [![](http://creativecommons.org/images/deed/seal.png)](http://creativecommons.org/freeworks)
 
-This slide deck is created by Bernhard Bockelbrink, James Priest and Liliana David, using illustrations from the [S3-Illustrations Repository](https://github.com/S3-working-group/s3-illustrations) by Bernhard Bockelbrink and [reveal.js](https://github.com/hakimel/reveal.js) by Hakim El Hattab.
+This book is created by Bernhard Bockelbrink, James Priest and Liliana David, using illustrations from the [S3-Illustrations Repository](https://github.com/S3-working-group/s3-illustrations) by Bernhard Bockelbrink.
 
-_Sociocracy 3.0 -A Practical Guide_ is licensed to you under a **Creative Commons Free Culture License**. The exact license can be viewed [here](http://creativecommons.org/licenses/by-sa/4.0/).
+_A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0_ is licensed to you under a **Creative Commons Free Culture License**. The exact license can be viewed [here](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Basically this license grants you
 

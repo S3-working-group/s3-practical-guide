@@ -1,4 +1,4 @@
-Title: ${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}
+Title: ${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}
 Subtitle: ${_("70+ Powerful Practices to Help You and Your Organization Thrive")}
 Author: Bernhard Bockelbrink
     James Priest

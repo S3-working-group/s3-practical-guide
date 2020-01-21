@@ -1,4 +1,4 @@
-# [fit] Sociocracy 3.0
+# [fit] Sociocracy 3.0
 
 ![fit](img/framework/logo.png)
 

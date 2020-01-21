@@ -1,7 +1,7 @@
 ---
 title:
 - type: main
-  text: ${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}
+  text: ${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}
 - type: subtitle
   text: ${_("70+ Powerful Practices to Help You and Your Organization Thrive")}
 creator:
