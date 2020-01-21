@@ -1,9 +1,15 @@
 ## Changelog
 
+### Changes 2019-12-22
+
+- added new introduction text
+- added "social technology" to glossary
+- website now has separate pages for "Introduction" and "Concepts and Principles"
+- ePub now looks much better
 
 ### Changes 2019-11-29
 
-- Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the orgaization
+- Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the organization
 - Principle of Empiricism: clarified that only those assumptions one relies on need to be tested
 
 
@@ -77,9 +83,9 @@
 
 -   added the driver for creating Sociocracy 3.0
 -   The Seven Principles:
-    -   _The Principle of Empiricism_: removed reference to “falsification” 
-    -   _The Principle of Consent_ is now explained more clearly as “Raise, seek-out and resolve objections to decisions and actions” 
--   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”, and clarified the distinction between governance and operations
+    -   _The Principle of Empiricism_: removed reference to "falsification" 
+    -   _The Principle of Consent_ is now explained more clearly as "Raise, seek-out and resolve objections to decisions and actions" 
+-   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to "coordination", and clarified the distinction between governance and operations
 -   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
 
 **Changes to Patterns:**
