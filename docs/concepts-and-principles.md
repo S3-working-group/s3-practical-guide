@@ -61,7 +61,7 @@ Every member of the organization is accountable for effectively responding to or
 Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
 
 Everyone in an organization is accountable for aligning activity with organizational values.
- 
+
 ### Making Sense of Organizations
 
 #### Drivers

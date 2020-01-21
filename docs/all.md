@@ -95,7 +95,6 @@ To this end, we recognize the value of a strong identity, a radically different 
 
 ### The Name
 
-
 The name "*Sociocracy 3.0*" demonstrates both respect to the lineage and a significant step forward.
 
 It also helps avoid the perception of us misrepresenting the *Sociocratic Circle Organization Method* (SCM) as promoted by The Sociocracy Group.
@@ -142,7 +141,7 @@ The *Sociocratic Circle Organization Method* is an "empty" method when it comes 
 The organizational structure according to the *Sociocratic Circle Organization Method* is modeled on a hierarchy of domains. We see an increasing emergence of collaborative multi-stakeholder environments and the need for a wider variety of patterns for organizational structure.
 Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
 
-
+<!-- split here -->
 
 
 
@@ -194,6 +193,7 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 **The Principle of Accountability:** *Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
 
+
 #### The Principle of Accountability
 
 *Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
@@ -205,7 +205,7 @@ Every member of the organization is accountable for effectively responding to or
 Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
 
 Everyone in an organization is accountable for aligning activity with organizational values.
- 
+
 
 ### Making Sense of Organizations
 
@@ -1901,12 +1901,12 @@ The second and third tier:
 
 ## Changelog
 
-### Changes 2019-12-20
+### Changes 2019-12-22
 
 - added new introduction text
 - added "social technology" to glossary
-- "Introducion" and "Concepts and Principles"
-
+- website now has separate pages for "Introduction" and "Concepts and Principles"
+- ePub now looks much better
 
 ### Changes 2019-11-29
 
