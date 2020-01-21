@@ -1,12 +1,12 @@
 ---
-title: A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
+title: A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
 ---
 
 # Introduction
 
-## A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
+## A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
 
-Sociocracy 3.0 — a.k.a. "S3" — is **social technology** for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
+Sociocracy 3.0 — a.k.a. "S3" — is **social technology** for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
 
 In this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
@@ -19,13 +19,13 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
 
 **Regardless of your position in the organization**, you'll find many proven ideas that are relevant and helpful for you.
  
-**Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
+**Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
 
-### How does Sociocracy 3.0 help?
+### How does Sociocracy 3.0 help?
 
 S3 is a transformational technology for both individuals and the whole organization that will help you figure out how to meet your organization's biggest challenges, take advantage of the opportunities you face and resolve the most persistent problems.
 
-Sociocracy 3.0 is designed to be flexible and supports experimentation and learning. You can take whatever you need, adapt things to suit your context and enrich your existing approach.
+Sociocracy 3.0 is designed to be flexible and supports experimentation and learning. You can take whatever you need, adapt things to suit your context and enrich your existing approach.
 
 S3 integrates core concepts and practices found in agile methodologies, lean management, Kanban (and KMM), Design Thinking, Teal Organizations and the family of sociocracy-based governance methods (SCM/Dynamic Governance, Holacracy® etc.). It's complimentary and compatible with any agile or lean framework, including but not limited to Scrum and its various scaling frameworks. 
 
@@ -41,16 +41,16 @@ S3 integrates core concepts and practices found in agile methodologies, lean man
     -   Patterns for **growing organizational structure beyond hierarchies** into flexible, decentralized networks where the flow of information and influence directly supports the creation of value.
 -   A **glossary** with explanations for all the terms you might be unfamiliar with.
 
-This practical guide to Sociocracy 3.0 is written and published by the three co-developers of Sociocracy 3.0. 
+This practical guide to Sociocracy 3.0 is written and published by the three co-developers of Sociocracy 3.0. 
 
 True to the mindset behind S3, this book will always be a work in progress that grows and changes as we learn from people who are experimenting with S3 in organizations around the world. Since we started out 5 years ago, we have released several updates per year and we'll continue to do so in the years to come.
 
 Even though several sections in this book are brief and may still be rough around the edges, this book has been sufficient for many people to get started with S3 and achieve positive change in their organizations. We hope it will also be of value for you.
 
 
-## Influences and History of Sociocracy 3.0
+## Influences and History of Sociocracy 3.0
 
-![Influences and history of Sociocracy 3.0](img/context/history.png)
+![Influences and history of Sociocracy 3.0](img/context/history.png)
 
 The literal meaning of the term **sociocracy** is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means "power", or "rule".
 
@@ -66,15 +66,15 @@ During the late 1990s and early 2000s, several non-Dutch speaking people came ac
 
 Sociocracy has proven to be effective for many organizations and communities around the world, but it has yet to become viral. 
 
-In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015. 
+In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015. 
 
 **Liliana David** joined the team soon after and together they regularly collaborate to develop both the framework and the website.
 
-Together, they seek to make S3 available and applicable to as many organizations as possible and provide resources under a **Creative Commons Free Culture License** for people who want to learn, apply and tell others about Sociocracy 3.0.
+Together, they seek to make S3 available and applicable to as many organizations as possible and provide resources under a **Creative Commons Free Culture License** for people who want to learn, apply and tell others about Sociocracy 3.0.
 
-### The Sociocracy 3.0 Movement
+### The Sociocracy 3.0 Movement
 
-As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and it's various applications.
+As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and it's various applications.
 
 
 
@@ -173,9 +173,9 @@ _A **pattern** is a template for successfully navigating a specific context._
 ### The Seven Principles 
 
 
-Sociocracy is built on seven principles that shape organizational culture. Since the seven principles are reflected in all of the patterns, understanding these principles is helpful for adopting and paramount to adapting Sociocracy 3.0 patterns.
+Sociocracy is built on seven principles that shape organizational culture. Since the seven principles are reflected in all of the patterns, understanding these principles is helpful for adopting and paramount to adapting Sociocracy 3.0 patterns.
 
-Practicing Sociocracy 3.0 helps people appreciate the essential value that these core principles bring, both to individuals and to organizations.
+Practicing Sociocracy 3.0 helps people appreciate the essential value that these core principles bring, both to individuals and to organizations.
 
 ![The Seven Principles](img/framework/s3-principles-plain.png)
 
@@ -1775,7 +1775,7 @@ The basic building blocks for organizational structure are interdependent, conne
 
 Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex adaptive system, or network, where multiple functional structures can co-exist).
 
-Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
+Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
 
 -   S3's structural patterns apply to different layers of abstraction
 -   different structural patterns serve different drivers
@@ -1982,7 +1982,7 @@ The second and third tier:
 
 **Changes to Introduction**
 
--   added the driver for creating Sociocracy 3.0
+-   added the driver for creating Sociocracy 3.0
 -   The Seven Principles:
     -   _The Principle of Empiricism_: removed reference to "falsification" 
     -   _The Principle of Consent_ is now explained more clearly as "Raise, seek-out and resolve objections to decisions and actions" 
@@ -2143,7 +2143,7 @@ Various other formats and languages of the practical guide can be found at <http
 ## License
 
 
-"A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**. 
+"A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**. 
 
 Basically this license grants you:
 
@@ -2162,13 +2162,13 @@ There's more on the topic of free culture on the [Creative Commons website](http
 
 If you create a derivative work, you must give appropriate credit, and indicate which changes you made. A good attribution contains title, author, source and license, like this:
 
-> This work, "[name of your work]", is a derivative of "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by James Priest, Bernhard Bockelbrink and Liliana David used under CC BY SA. "[name of your work]" is licensed under CC BY SA by [your name].
+> This work, "[name of your work]", is a derivative of "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by James Priest, Bernhard Bockelbrink and Liliana David used under CC BY SA. "[name of your work]" is licensed under CC BY SA by [your name].
 
 You can find out more about attribution on the [Creative Commons page about best practices for attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
 
 
 
-## The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)
+## The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)
 
 This commitment supports:
 
@@ -2176,15 +2176,15 @@ This commitment supports:
 
 **Clients and students** in selecting the people they wish to work with and learn from, according to their level of experience and the quality and integrity of their work.
 
-If you follow the voluntary Commitment you can add our banners to your website, or to other materials that promote you as a practitioner or teacher of Sociocracy 3.0. Please consider signing the commitment so that we can notify you of proposed changes to the ICPT and seek any objections or concerns you may have. Thank you.
+If you follow the voluntary Commitment you can add our banners to your website, or to other materials that promote you as a practitioner or teacher of Sociocracy 3.0. Please consider signing the commitment so that we can notify you of proposed changes to the ICPT and seek any objections or concerns you may have. Thank you.
 
 You can find out more about the ICPT at <https://sociocracy30.org/s3-intentional-commitment/>
 
 ### Full Text of the ICPT
 
-**Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0**
+**Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0**
 
-I commit to developing a sociocratic and agile mindset, and I hold myself accountable to practice and teach Sociocracy 3.0 with integrity, by following these guidelines:
+I commit to developing a sociocratic and agile mindset, and I hold myself accountable to practice and teach Sociocracy 3.0 with integrity, by following these guidelines:
 
 I strive to follow the seven principles in my daily life. I commit to participating artfully in my collaboration with others.
 
@@ -2217,13 +2217,13 @@ I will discuss possible objections relating to S3 patterns in my intervision gro
 
 The content of Sociocracy 3.0 reflects the accumulated experience and wisdom of contributors across generations. These people have shared a common quest: to evolve more effective, harmonious and conscious ways of collaborating together.
 
-Particular recognition goes to Gerard Endenburg and others over the years who have committed significant time towards evolving and documenting the Sociocratic Circle Organization Method, which has contributed towards and inspired the evolution of Sociocracy 3.0.
+Particular recognition goes to Gerard Endenburg and others over the years who have committed significant time towards evolving and documenting the Sociocratic Circle Organization Method, which has contributed towards and inspired the evolution of Sociocracy 3.0.
 
 We'd also like to recognize all those who have worked extensively to facilitate the emergence of a more agile and lean mindset, and those who have developed and shared various practices with the world.
 
-Finally to acknowledge our numerous colleagues, customers, clients and attendees of Sociocracy 3.0 courses who have chosen to experiment with Sociocracy 3.0. Thank you for contributing your ongoing feedback to help evolve the patterns and enable us all to learn and grow.
+Finally to acknowledge our numerous colleagues, customers, clients and attendees of Sociocracy 3.0 courses who have chosen to experiment with Sociocracy 3.0. Thank you for contributing your ongoing feedback to help evolve the patterns and enable us all to learn and grow.
 
-By no means an exhaustive list, we'd like to offer our appreciation to the following people who directly contributed toward developing Sociocracy 3.0, or whose work influenced what it is today:
+By no means an exhaustive list, we'd like to offer our appreciation to the following people who directly contributed toward developing Sociocracy 3.0, or whose work influenced what it is today:
 
 Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, François Knuchel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
 
@@ -2231,7 +2231,7 @@ Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrad
 
 ## Authors 
 
-We sell consulting, learning facilitation, coaching and mentoring, including but not limited to *Sociocracy 3.0*. We dedicate a part of our time and money to create free resources about *Sociocracy 3.0* as part of our ongoing commitment to make sociocracy and related ideas more accessible to the wider world.
+We sell consulting, learning facilitation, coaching and mentoring, including but not limited to *Sociocracy 3.0*. We dedicate a part of our time and money to create free resources about *Sociocracy 3.0* as part of our ongoing commitment to make sociocracy and related ideas more accessible to the wider world.
 
 ![James Priest, Liliana David, Bernhard Bockelbrink](img/james-liliana-bernhard.png)
 

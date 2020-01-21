@@ -1,6 +1,6 @@
-## A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
+## A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
 
-Sociocracy 3.0 — a.k.a. "S3" — is **social technology** for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
+Sociocracy 3.0 — a.k.a. "S3" — is **social technology** for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
 
 In this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
@@ -13,13 +13,13 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
 
 **Regardless of your position in the organization**, you'll find many proven ideas that are relevant and helpful for you.
  
-**Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
+**Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
 
-### How does Sociocracy 3.0 help?
+### How does Sociocracy 3.0 help?
 
 S3 is a transformational technology for both individuals and the whole organization that will help you figure out how to meet your organization's biggest challenges, take advantage of the opportunities you face and resolve the most persistent problems.
 
-Sociocracy 3.0 is designed to be flexible and supports experimentation and learning. You can take whatever you need, adapt things to suit your context and enrich your existing approach.
+Sociocracy 3.0 is designed to be flexible and supports experimentation and learning. You can take whatever you need, adapt things to suit your context and enrich your existing approach.
 
 S3 integrates core concepts and practices found in agile methodologies, lean management, Kanban (and KMM), Design Thinking, Teal Organizations and the family of sociocracy-based governance methods (SCM/Dynamic Governance, Holacracy® etc.). It's complimentary and compatible with any agile or lean framework, including but not limited to Scrum and its various scaling frameworks. 
 
@@ -35,7 +35,7 @@ S3 integrates core concepts and practices found in agile methodologies, lean man
     -   Patterns for **growing organizational structure beyond hierarchies** into flexible, decentralized networks where the flow of information and influence directly supports the creation of value.
 -   A **glossary** with explanations for all the terms you might be unfamiliar with.
 
-This practical guide to Sociocracy 3.0 is written and published by the three co-developers of Sociocracy 3.0. 
+This practical guide to Sociocracy 3.0 is written and published by the three co-developers of Sociocracy 3.0. 
 
 True to the mindset behind S3, this book will always be a work in progress that grows and changes as we learn from people who are experimenting with S3 in organizations around the world. Since we started out 5 years ago, we have released several updates per year and we'll continue to do so in the years to come.
 

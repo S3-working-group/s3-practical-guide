@@ -1,4 +1,4 @@
-## The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)
+## The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)
 
 This commitment supports:
 
@@ -6,15 +6,15 @@ This commitment supports:
 
 **Clients and students** in selecting the people they wish to work with and learn from, according to their level of experience and the quality and integrity of their work.
 
-If you follow the voluntary Commitment you can add our banners to your website, or to other materials that promote you as a practitioner or teacher of Sociocracy 3.0. Please consider signing the commitment so that we can notify you of proposed changes to the ICPT and seek any objections or concerns you may have. Thank you.
+If you follow the voluntary Commitment you can add our banners to your website, or to other materials that promote you as a practitioner or teacher of Sociocracy 3.0. Please consider signing the commitment so that we can notify you of proposed changes to the ICPT and seek any objections or concerns you may have. Thank you.
 
 You can find out more about the ICPT at <https://sociocracy30.org/s3-intentional-commitment/>
 
 ### Full Text of the ICPT
 
-**Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0**
+**Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0**
 
-I commit to developing a sociocratic and agile mindset, and I hold myself accountable to practice and teach Sociocracy 3.0 with integrity, by following these guidelines:
+I commit to developing a sociocratic and agile mindset, and I hold myself accountable to practice and teach Sociocracy 3.0 with integrity, by following these guidelines:
 
 I strive to follow the seven principles in my daily life. I commit to participating artfully in my collaboration with others.
 

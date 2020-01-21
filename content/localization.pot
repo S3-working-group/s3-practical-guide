@@ -11,20 +11,20 @@ msgid "Pattern"
 msgstr "Pattern"
 
 # site title for practical guide microsite
-msgid "Sociocracy 3.0 - A Practical Guide"
-msgstr "Sociocracy 3.0 - A Practical Guide"
+msgid "Sociocracy 3.0 - A Practical Guide"
+msgstr "Sociocracy 3.0 - A Practical Guide"
 
 # title for ebook
-msgid "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"
-msgstr "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"
+msgid "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"
+msgstr "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"
 
 # subtitle for ebook
 msgid "70+ Powerful Practices to Help You and Your Organization Thrive"
 msgstr "70+ Powerful Practices to Help You and Your Organization Thrive"
 
 # site descriptions for practical guide microsite
-msgid "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
-msgstr "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgid "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgstr "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
 
 # Headline for page "Concepts and Principles" in website
 msgid "Concepts and Principles"
