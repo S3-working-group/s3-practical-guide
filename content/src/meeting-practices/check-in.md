@@ -2,7 +2,7 @@
 
 **Help people to become aware of themselves and others, and to focus, be present and engage.**
 
-To check in, briefly disclose something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs. 
+To check in, briefly disclose something about what's up for you and how you are, revealing thoughts, feelings, distractions or needs. 
 
 Checking in may take the form of an opening or closing round in a group meeting, or just a brief exchange in a 1:1 meeting. 
 

@@ -19,7 +19,8 @@ A circle:
 -  **equivalence of circle members:**
     -   All members of a circle are equally accountable for <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn> of the circle's domain.
 
-![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)  
+![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)
+
 
 
 [&#9654; Role](role.html)<br/>[&#9664; Delegate Influence](delegate-influence.html)<br/>[&#9650; Building Organizations](building-organizations.html)

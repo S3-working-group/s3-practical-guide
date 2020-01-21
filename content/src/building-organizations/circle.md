@@ -16,4 +16,5 @@ A circle:
 -  **equivalence of circle members:**
     -   All members of a circle are equally accountable for [governance](glossary:governance) of the circle's domain.
 
-![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)  
+![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)
+

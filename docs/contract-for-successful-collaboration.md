@@ -55,11 +55,12 @@ The way a contract is negotiated can significantly contribute toward building tr
 ### Support The Full Lifecycle Of The Collaboration:
 
 Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
+
 - make provisions for successfully getting started by defining onboarding procedures
 - have a probationary period, where all parties can try out the collaboration, and a clear protocol for how each party can terminate the contract during the probationary period
 - define and build into the contract regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
 - include procedures for breach of contract
-- consider making available alternative means for dispute resolution, e.g. mediation, conciliation  or arbitration
+- consider making available alternative means for dispute resolution, e.g. mediation, conciliation or arbitration
 - consider limiting the contract to a fixed term after which the contract expires and can be renewed if required
 
 ### Culture
@@ -70,7 +71,7 @@ Every contract influences the culture of the collaboration it governs, even when
 - align the contract to the organizational culture (of all parties) and to legal requirements
 - build contracts that enable and encourage accountability
 
-if you find that standard contracts in your industry are misaligned  with the culture you want to create, build your own repository of templates for contracts and clauses and consider sharing it with others, so that you can leverage past experience when creating new contracts.
+If you find that standard contracts in your industry are misaligned with the culture you want to create, build your own repository of templates for contracts and clauses and consider sharing it with others, so that you can leverage past experience when creating new contracts.
 
 
 

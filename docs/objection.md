@@ -7,7 +7,7 @@ _An **objection** is an argument demonstrating (or revealing) how a (proposed) a
 
 Objections reveal information about **unintended consequences**, or about **viable ways to improve**.
 
-It’s the accountability of individuals to raise potential objections to proposals, decisions, existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> or activities.
+It's the accountability of individuals to raise potential objections to proposals, decisions, existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> or activities.
 
 Withholding objections can harm the ability of individuals, teams or
 the whole organization to respond to <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">organizational drivers</dfn>.
@@ -36,7 +36,7 @@ Not all arguments raised are objections. Distinguish between objections, which a
 
 To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
 
-_“Do you think this argument qualifies as an objection?”_
+_"Do you think this argument qualifies as an objection?"_
 
 If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
 
@@ -50,13 +50,13 @@ Some helpful questions:
     -   can be improved right now?
     -   prevents or diminishes someone's contribution towards responding to a driver?
     -   is in conflict with the organization's values?
-    -   is considered not ‘safe enough’ to try?
+    -   is considered not 'safe enough' to try?
 
 ### Concerns
 
 _A **concern** is an assumption that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
 
-In [Consent Decision Making](consent-decision-making.html), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).  
+In [Consent Decision Making](consent-decision-making.html), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).
 
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 

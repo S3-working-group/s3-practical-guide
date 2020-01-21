@@ -1,10 +1,9 @@
-# Sociocracy 3.0 - A Practical Guide
+# A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
 
-This repository contains the source file for  a slide deck for teaching Sociocracy 3.0, currently available as 
+This repository contains the source files for the book _A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0_, currently available as 
 
-* fast and mobile friendly static html pages: <http://patterns.sociocracy30.org>
-* [online presentation](http://patterns.sociocracy30.org/slides.html)
-* various other download formats, see  [sociocracy30.org/guide/](http://sociocracy30.org/guide/) 
+* fast and mobile-friendly static html pages: <http://patterns.sociocracy30.org>
+* ePub and PDF
 
 German, Hebrew and French versions also exist and are also available via [sociocracy30.org/guide/](http://sociocracy30.org/guide/). If you want to help with translations into your language, please take a look at the [translations page](http://sociocracy30.org/translations/).
 
@@ -21,47 +20,31 @@ German, Hebrew and French versions also exist and are also available via [socioc
 
 `build.sh` builds all available targets, you can also use `make <target>` to build individual target.
 
-The build process relies on [mdtools](https://github.com/bboc/mdtools) to prepare and compile the individual files, and on pandoc and LaTEX for epub formats.
+The build process relies on [mdtools](https://github.com/bboc/mdtools) to prepare and compile the individual files, and on Pandoc for ePub and LaTEX for PDF.
 
 Before the first target can be built, you need to run `make setup`, and the before building the static site adding or removing source files or illustrations it's a good idea to run `make clean`.
 
 To set up a new language, run `make clean` and then copy over `content`, `global`, `config` and all files in the project root except for `crowdin.yaml` and `upload-translations.sh`. Adapt `build.sh` so it only contains targets that are available in that language (e.g. deckset makes no sense for RTL languages).
 
-## Formats and Known Issues
+## Known Issues
 
-The main format for the practical guide is a Jekyll website on <https://patterns.sociocracy30.org>.
-
-Downloads are currently available as PDF or PNG slides exported from [Deckset](decksetapp.com), as a html-version in [reveal.js](http://lab.hakim.se/reveal-js/#/) a static website (using jekyll and GitHub pages), and as e-books (ePub and PDF).
-
-Deckset is nice to quickly hack together a beautiful presentation, but is a bit lacking when it comes to navigating larger presentations, and it's only available as a macOS app. Building the Hebrew version I discovered the hard way it does not support RTL languages., and did not find a way to automate pdf export, so with a growing number of languages Deckset is becoming increasingly painful. 
-
-This is why I was looking at more open formats, and developed a generator for reveal.js, which generally works, but there might still a few small glitches in the CSS. Ping me if you find one. You can see it in action at <https://patterns.sociocracy30.org/slides.html>
-
-[Reveal.js docs](https://github.com/hakimel/reveal.js/blob/master/README.md)
-
-Exporting to epub (via pandoc) and pdf via LaTEX is working, but still rough around the edges. The epub will benefit from a stylesheet and setting some [metadata for ibooks](http://pandoc.org/MANUAL.html#epub-metadata), while the styles for the pdf need some cleanup in all but the German versions.
+The ePub will benefit from polishing the stylesheet and setting some [metadata for iBooks](http://pandoc.org/MANUAL.html#epub-metadata).
  
 ## Markdown Styleguide
 
 Information in this section is preliminary, and needs further testing.
 
-The Markdown files for the individual patterns are grouped in directories per patterns group and built using a build script. Input format is Deckset 1 (for now), i.e. slide separators are "---". This will hopefully change in the future.
+The Markdown files for the individual patterns are grouped in directories per patterns group and built using a build script. 
 
-* Images always float right (because that works without clearing the float in reveal.js), and are set to height of 100%. Floating images go BEFORE the text, and are marked "right,fit"
-* single images on slides: [inline,fit]
-* Headline Level 1 is always the only content on the slide (apart from background images)
-* Headline level 2  or more is increased by one for reveal.js
-* within each pattern, the pattern title is headline level 2, all slides in patterns with a dedicated title need to use headline level 3, so it does not show up in the TOC on the website
+The following rules apply:
 
-## Updating reveal.js
+* MMd-transclusion  via {{filename}} is possible for all templates rendered via MMD 
+* Markdown must conform to GitHub-flavored Markdown so that the Jekyll-version is feature complete 
 
-Download zip from the [official repo](https://github.com/hakimel/reveal.js) and copy files over to `docs/reveal.js`. Diff `templates/revealjs-template.html` with `demo.html` to see if there are some changes to the basic html structure.
-
-Keep (or adapt) `custom-styles.css` and `custom-theme.css` (derived from `css/theme/white.css`.
 
 ## Translations
 
-Slides are translated in a [dedicated crowdin project](https://crowdin.com/project/sociocracy-30). The repository contains `crowdin.yaml` for use with the [crowdin CLI](https://support.crowdin.com/cli-tool/). 
+The content is translated in a [dedicated crowdin project](https://crowdin.com/project/sociocracy-30). The repository contains `crowdin.yaml` for use with the [crowdin CLI](https://support.crowdin.com/cli-tool/). 
 
 Uploading sources is handled through this command (remove `--dryrun` to run):
 

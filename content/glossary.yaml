@@ -90,7 +90,7 @@ terms:
   empiricism:
     name: Empiricism (principle)
     definition:
-    glossary: Test all assumptions through experimentation and continuous revision.
+    glossary: Test all assumptions you rely on, through experiments and continuous revision.
   equivalence:
     name: Equivalence (principle)
     definition:
@@ -191,6 +191,10 @@ terms:
     name: Semi-Autonomy
     definition:
     glossary: The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
+  social-technology:
+    name: Social Technology
+    definition: Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
+    glossary: Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
   sociocracy:
     name: Sociocracy
     glossary: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
@@ -229,7 +233,7 @@ terms:
   transparency:
     name: Transparency (principle)
     definition:
-    glossary: Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
+    glossary: Record all information that is valuable for the organization, and make it accessible to everyone, unless there is a reason for confidentiality.
   value:
     name: Value
     definition: "**Value** is the importance, worth or usefulness of something in relation to a driver."

@@ -44,7 +44,7 @@ title: Glossary
 
 **Effectiveness (principle):** Devote time only to what brings you closer toward achieving your objectives.
 
-**Empiricism (principle):** Test all assumptions through experimentation and continuous revision.
+**Empiricism (principle):** Test all assumptions you rely on, through experiments and continuous revision.
 
 **Equivalence (principle):** Involve people in making and evolving decisions that affect them.
 
@@ -96,6 +96,8 @@ title: Glossary
 
 **Semi-Autonomy:** The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
 
+**Social Technology:** Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
+
 **Sociocracy:** A mindset where people affected by decisions can influence them on the basis of reasons to do so.
 
 **Sociocratic Circle-Organisation Method (SCM):** An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
@@ -116,7 +118,7 @@ title: Glossary
 
 **Timebox:** A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).
 
-**Transparency (principle):** Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
+**Transparency (principle):** Record all information that is valuable for the organization, and make it accessible to everyone, unless there is a reason for confidentiality.
 
 **Value:** The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").
 

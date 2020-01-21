@@ -3,6 +3,19 @@ title: "Changelog"
 ---
 
 
+### Changes 2019-12-22
+
+- added new introduction text
+- added "social technology" to glossary
+- website now has separate pages for "Introduction" and "Concepts and Principles"
+- ePub now looks much better
+
+### Changes 2019-11-29
+
+- Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the organization
+- Principle of Empiricism: clarified that only those assumptions one relies on need to be tested
+
+
 ### Changes 2019-06-27
 
 - [Objection](objection.html): further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.">objection</dfn> accordingly
@@ -31,7 +44,7 @@ title: "Changelog"
 - added captions to all illustrations
 - renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
 - removed slide deck version and improved layout and formatting of pdf and ePub version
-- website version: added clickable pattern map for simpler navigation und  glossary overlays to many patterns
+- website version: added clickable pattern map for simpler navigation, added glossary overlays to many patterns
 
 **Glossary:**
 
@@ -73,9 +86,9 @@ title: "Changelog"
 
 -   added the driver for creating Sociocracy 3.0
 -   The Seven Principles:
-    -   _The Principle of Empiricism_: removed reference to “falsification” 
-    -   _The Principle of Consent_ is now explained more clearly as “Raise, seek-out and resolve objections to decisions and actions” 
--   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”, and clarified the distinction between governance and operations
+    -   _The Principle of Empiricism_: removed reference to "falsification" 
+    -   _The Principle of Consent_ is now explained more clearly as "Raise, seek-out and resolve objections to decisions and actions" 
+-   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to "coordination", and clarified the distinction between governance and operations
 -   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
 
 **Changes to Patterns:**
