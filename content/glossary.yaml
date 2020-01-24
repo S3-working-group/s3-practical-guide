@@ -77,8 +77,8 @@ terms:
     glossary: A product, service, component or material provided in response to an organizational driver.
   domain:
     name: Domain
-    definition: A **domain** is a distinct area of influence, activity and decision making within an organization.
-    glossary: A distinct area of influence, activity and decision making within an organization.
+    definition: A **domain** is a distinct area of influence, activity and decision-making within an organization.
+    glossary: A distinct area of influence, activity and decision-making within an organization.
   driver:
     name: Driver
     definition: A **driver** is a person’s or a group's motive for responding to a specific situation.
@@ -119,7 +119,7 @@ terms:
     glossary: A team of equivalent people with the mandate to execute on a specific set of requirements.
   key-responsibilities:
     name: Key responsibilities
-    glossary: Essential work and decision making required in the context of a domain.
+    glossary: Essential work and decision-making required in the context of a domain.
   logbook:
     name: Logbook
     definition:
