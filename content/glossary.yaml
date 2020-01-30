@@ -27,7 +27,7 @@ terms:
   backlog:
     name: Backlog
     definition: A **backlog** (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
-    glossary: A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
+    glossary: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
   chosen-values:
     name: Chosen Values
     glossary: A set of principles a team (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
