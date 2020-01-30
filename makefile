@@ -68,9 +68,6 @@ supporter-epub:
 	# render epub for supporter edition
 	$(update-make-conf)
 
-	# create description as html
-	multimarkdown --to=html --output=tmp/store-description.html content/src/introduction/s3-overview-supporter-edition.md
-
 	# render intro, chapters and appendix to separate md files
 	mdslides build ebook content/structure-supporter-edition.yaml $(SOURCE) $(TMPSUP)/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 
@@ -79,13 +76,15 @@ supporter-epub:
 	$(MKTPL) templates/supporter-epub/metadata.yaml $(TMPSUP)/metadata.yaml $(LOC) $(PRJ)
 	cp templates/epub.css $(TMPSUP)/epub.css
 	cp templates/covers/s3-practical-guide-cover-supporter-edition-70dpi.png $(TMPSUP)/cover.png
-	# transclude all to one file 
+
+	pandoc content/src/introduction/s3-overview-supporter-edition.md -f markdown_mmd -t html -o $(TMPSUP)/description.html
+	cd $(TMPSUP); tr -d "\n" <description.html >description-one-line.html
+	cd $(TMPSUP); awk 'BEGIN{RS = "\n\n+" getline l < "description-one-line.html"}/htmldescription/{gsub("htmldescription",l)}1' metadata.yaml >metadata-full.yaml
+
+	# transclude all to one file (rendering to html or mmd yields exactly the same epub)
 	cd $(TMPSUP); multimarkdown --to=mmd --output=epub-compiled.md master.md
-
 	# make epub via pandoc
-	cd $(TMPSUP); pandoc epub-compiled.md -f markdown --metadata-file=metadata.yaml -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE)-supporter-edition.epub
-	# TODO: how about html -- > pandoc??
-
+	cd $(TMPSUP); pandoc epub-compiled.md -f markdown --metadata-file=metadata-full.yaml -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE)-supporter-edition.epub
 
 ebook:
 	# render an ebook as pdf (via LaTEX)

@@ -16,4 +16,4 @@ direction: ${html_dir}
 page-progression-direction: ${html_dir}
 cover-image: cover.png
 css: epub.css
-description: will-be-replaced-later
+description: htmldescription
