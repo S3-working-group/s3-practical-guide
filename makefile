@@ -74,28 +74,18 @@ supporter-epub:
 	# render intro, chapters and appendix to separate md files
 	mdslides build ebook content/structure-supporter-edition.yaml $(SOURCE) $(TMPSUP)/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 
-	# prepare and copy template
+	# prepare and copy template, metadata, CSS and cover
 	$(MKTPL) templates/supporter-epub/master.md $(TMPSUP)/master.md $(LOC) $(PRJ)
-	# prepare and copy metadata
 	$(MKTPL) templates/supporter-epub/metadata.yaml $(TMPSUP)/metadata.yaml $(LOC) $(PRJ)
 	cp templates/epub.css $(TMPSUP)/epub.css
-
-
-htmlbook:
-	# render an ebook as html book
-	$(update-make-conf)
-
-	# render intro, chapters and appendix to separate md files
-	mdslides build ebook content/structure-supporter-edition.yaml $(SOURCE) $(TMPFOLDER)/htmlbook/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-
-	# prepare and copy template
-	$(MKTPL) templates/htmlbook--master.md $(TMPFOLDER)/htmlbook/htmlbook--master.md $(LOC) $(PRJ)
+	cp templates/covers/s3-practical-guide-cover-supporter-edition-70dpi.png $(TMPSUP)/cover.png
 	# transclude all to one file 
-	cd $(TMPFOLDER)/htmlbook; multimarkdown --to=html --output=book.html htmlbook--master.md
-	rm $(TMPFOLDER)/htmlbook/*.md
-	cp templates/epub.css $(TMPFOLDER)/htmlbook
-	-rm supporter-edition.zip
-	cd $(TMPFOLDER)/htmlbook; zip  -r ../../supporter-edition *
+	cd $(TMPSUP); multimarkdown --to=mmd --output=epub-compiled.md master.md
+
+	# make epub via pandoc
+	cd $(TMPSUP); pandoc epub-compiled.md -f markdown --metadata-file=metadata.yaml -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE)-supporter-edition.epub
+	# TODO: how about html -- > pandoc??
+
 
 ebook:
 	# render an ebook as pdf (via LaTEX)
@@ -156,13 +146,6 @@ setup:
 	-mkdir -p $(TMPFOLDER)/docs
 	-mkdir docs/_site
 	
-	# images for htmlbook
-ifneq ("$(wildcard $(TMPFOLDER)/htmlbook/img)","")
-	# take no risk here!
-	rm -r tmp/htmlbook/img
-endif 
-	cp -r img $(TMPFOLDER)/htmlbook/img
-
 	# images for supporter epub
 ifneq ("$(wildcard $(TMPSUP)/img)","")
 	# take no risk here!
