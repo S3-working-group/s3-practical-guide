@@ -3,6 +3,7 @@ CONFIG=content/structure.yaml
 GLOSSARY=content/glossary.yaml
 SOURCE=content/src
 TMPFOLDER=tmp
+TMPSUP = tmp/supporter-epub
 LOC=content/localization.po
 PRJ=config/project.yaml
 MKTPL=mdslides template
@@ -63,26 +64,27 @@ epub:
 	# render to epub
 	cd $(TMPFOLDER)/ebook; pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE).epub
 
-htmlbook:
-	# render an ebook as html book
+supporter-epub:
+	# render epub for supporter edition
 	$(update-make-conf)
 
-	# create description
-	multimarkdown --to=html --output=tmp/store-description.html content/src/introduction/s3-overview-supporter-edition.md
-
-	# -- start copied section
-
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook content/structure-supporter-edition.yaml $(SOURCE) $(TMPFOLDER)/htmlbook/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
+	mdslides build ebook content/structure-supporter-edition.yaml $(SOURCE) $(TMPSUP)/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 
-	# prepare and copy template
-	$(MKTPL) templates/htmlbook--master.md $(TMPFOLDER)/htmlbook/htmlbook--master.md $(LOC) $(PRJ)
-	# transclude all to one file 
-	cd $(TMPFOLDER)/htmlbook; multimarkdown --to=html --output=book.html htmlbook--master.md
-	rm $(TMPFOLDER)/htmlbook/*.md
-	cp templates/epub.css $(TMPFOLDER)/htmlbook
-	-rm supporter-edition.zip
-	cd $(TMPFOLDER)/htmlbook; zip  -r ../../supporter-edition *
+	# prepare and copy template, metadata, CSS and cover
+	$(MKTPL) templates/supporter-epub/master.md $(TMPSUP)/master.md $(LOC) $(PRJ)
+	$(MKTPL) templates/supporter-epub/metadata.yaml $(TMPSUP)/metadata.yaml $(LOC) $(PRJ)
+	cp templates/epub.css $(TMPSUP)/epub.css
+	cp templates/covers/s3-practical-guide-cover-supporter-edition-70dpi.png $(TMPSUP)/cover.png
+
+	pandoc content/src/introduction/s3-overview-supporter-edition.md -f markdown_mmd -t html -o $(TMPSUP)/description.html
+	cd $(TMPSUP); tr -d "\n" <description.html >description-one-line.html
+	cd $(TMPSUP); awk 'BEGIN{RS = "\n\n+" getline l < "description-one-line.html"}/htmldescription/{gsub("htmldescription",l)}1' metadata.yaml >metadata-full.yaml
+
+	# transclude all to one file (rendering to html or mmd yields exactly the same epub)
+	cd $(TMPSUP); multimarkdown --to=mmd --output=epub-compiled.md master.md
+	# make epub via pandoc
+	cd $(TMPSUP); pandoc epub-compiled.md -f markdown --metadata-file=metadata-full.yaml -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE)-supporter-edition.epub
 
 ebook:
 	# render an ebook as pdf (via LaTEX)
@@ -138,21 +140,17 @@ setup:
 	# prepare temp folders
 	echo "this might produce error output if folders already exist"
 	-mkdir -p $(TMPFOLDER)/ebook
-	-mkdir -p $(TMPFOLDER)/htmlbook
+	-mkdir -p $(TMPSUP)
 	-mkdir -p $(TMPFOLDER)/web-out
 	-mkdir -p $(TMPFOLDER)/docs
 	-mkdir docs/_site
-	# -mkdir gitbook
-ifeq ("$(wildcard $(TMPFOLDER)/ebook/img)","")
-	cd $(TMPFOLDER)/ebook; ln -s ../../img
-endif 
-
-	# images for htmlbook
-ifneq ("$(wildcard $(TMPFOLDER)/htmlbook/img)","")
+	
+	# images for supporter epub
+ifneq ("$(wildcard $(TMPSUP)/img)","")
 	# take no risk here!
-	rm -r tmp/htmlbook/img
+	rm -r $(TMPSUP)/img
 endif 
-	cp -r img $(TMPFOLDER)/htmlbook/img
+	cp -r img $(TMPSUP)/img
 
 
 	# clean up and copy images do to docs folder
