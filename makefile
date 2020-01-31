@@ -4,6 +4,7 @@ GLOSSARY=content/glossary.yaml
 SOURCE=content/src
 TMPFOLDER=tmp
 TMPSUP = tmp/supporter-epub
+EBOOK_TMP = tmp/ebook
 LOC=content/localization.po
 PRJ=config/project.yaml
 MKTPL=mdslides template
@@ -55,14 +56,14 @@ epub:
 	$(update-make-conf)
 
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
+	mdslides build ebook $(CONFIG) $(SOURCE) $(EBOOK_TMP)/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 
 	# prepare and copy template
-	$(MKTPL) templates/epub--master.md $(TMPFOLDER)/ebook/epub--master.md $(LOC) $(PRJ)
+	$(MKTPL) templates/epub--master.md $(EBOOK_TMP)/epub--master.md $(LOC) $(PRJ)
 	# transclude all to one file 
-	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
+	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
 	# render to epub
-	cd $(TMPFOLDER)/ebook; pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE).epub
+	cd $(EBOOK_TMP); pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE).epub
 
 supporter-epub:
 	# render epub for supporter edition
@@ -91,34 +92,34 @@ ebook:
 	$(update-make-conf)
 	
 	# render intro, chapters and appendix to separate md files (but without sectionprefix!)
-	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --no-section-prefix
+	mdslides build ebook $(CONFIG) $(SOURCE) $(EBOOK_TMP)/ --glossary=$(GLOSSARY) --no-section-prefix
 
 	# copy md and LaTEX templates
-	$(MKTPL) templates/ebook--master.md $(TMPFOLDER)/ebook/ebook--master.md $(LOC) $(PRJ)
-	$(MKTPL) config/ebook.tex $(TMPFOLDER)/ebook/ebook.tex $(LOC) $(PRJ)
-	$(MKTPL) config/ebook-style.sty $(TMPFOLDER)/ebook/ebook-style.sty $(LOC) $(PRJ)
+	$(MKTPL) templates/ebook--master.md $(EBOOK_TMP)/ebook--master.md $(LOC) $(PRJ)
+	$(MKTPL) config/ebook.tex $(EBOOK_TMP)/ebook.tex $(LOC) $(PRJ)
+	$(MKTPL) config/ebook-style.sty $(EBOOK_TMP)/ebook-style.sty $(LOC) $(PRJ)
 
 	# make an index
-	mdslides index latex $(CONFIG) $(TMPFOLDER)/ebook/tmp-index.md
+	mdslides index latex $(CONFIG) $(EBOOK_TMP)/tmp-index.md
 	# transclude all to one file
-	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
-	cd $(TMPFOLDER)/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
-	cd $(TMPFOLDER)/ebook; latexmk -pdf -xelatex -silent ebook.tex 
-	cd $(TMPFOLDER)/ebook; mv ebook.pdf ../../$(TARGETFILE).pdf
+	cd $(EBOOK_TMP); multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
+	cd $(EBOOK_TMP); latexmk -pdf -xelatex -silent ebook.tex 
+	cd $(EBOOK_TMP); mv ebook.pdf ../../$(TARGETFILE).pdf
 	
 	# clean up
-	cd $(TMPFOLDER)/ebook; latexmk -C
+	cd $(EBOOK_TMP); latexmk -C
 
 single:
 	$(update-make-conf)
 
-	$(MKTPL) templates/single-page--master.md $(TMPFOLDER)/ebook/single-page--master.md $(LOC) $(PRJ)
+	$(MKTPL) templates/single-page--master.md $(EBOOK_TMP)/single-page--master.md $(LOC) $(PRJ)
 
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY)
+	mdslides build ebook $(CONFIG) $(SOURCE) $(EBOOK_TMP)/ --glossary=$(GLOSSARY)
 	# transclude all to one file 
-	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
+	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
 
 gitbook:
 	mdslides build gitbook $(CONFIG) $(SOURCE) gitbook/ --glossary=$(GLOSSARY)
@@ -139,12 +140,17 @@ setup:
 	$(update-make-conf)
 	# prepare temp folders
 	echo "this might produce error output if folders already exist"
-	-mkdir -p $(TMPFOLDER)/ebook
-	-mkdir -p $(TMPSUP)
-	-mkdir -p $(TMPFOLDER)/web-out
+	-mkdir -p $(EBOOK_TMP)
 	-mkdir -p $(TMPFOLDER)/docs
+	-mkdir -p $(TMPSUP)
 	-mkdir docs/_site
-	
+
+	# images for ebook
+ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
+	rm -r $(EBOOK_TMP)/img
+endif
+	cp -r img $(EBOOK_TMP)/img
+
 	# images for supporter epub
 ifneq ("$(wildcard $(TMPSUP)/img)","")
 	# take no risk here!
@@ -158,6 +164,7 @@ ifneq ("$(wildcard docs/img)","")
 	rm -r docs/img
 endif
 	cp -r img docs/img
+
 ifneq ("$(wildcard gitbook/img)","")
 	# rm -r gitbook/img
 endif
