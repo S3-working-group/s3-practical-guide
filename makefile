@@ -5,6 +5,7 @@ SOURCE=content/src
 TMPFOLDER=tmp
 TMPSUP = tmp/supporter-epub
 EBOOK_TMP = tmp/ebook
+DOCS_TMP = tmp/docs
 LOC=content/localization.po
 PRJ=config/project.yaml
 MKTPL=mdslides template
@@ -32,11 +33,11 @@ site:
 	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
 
 	# split introduction into intro and concepts/principles
-	awk '{print >out}; /<!-- split here -->/{out="tmp/docs/concepts-and-principles-content.md"}' out=tmp/docs/introduction-content.md docs/introduction.md
-	$(MKTPL) templates/docs/introduction.md $(TMPFOLDER)/docs/intro_tmpl.md $(LOC) $(PRJ)
-	cd $(TMPFOLDER)/docs; multimarkdown --to=mmd --output=../../docs/introduction.md intro_tmpl.md
-	$(MKTPL) templates/docs/concepts-and-principles.md $(TMPFOLDER)/docs/concepts_tmpl.md $(LOC) $(PRJ)
-	cd $(TMPFOLDER)/docs; multimarkdown --to=mmd --output=../../docs/concepts-and-principles.md concepts_tmpl.md
+	awk '{print >out}; /<!-- split here -->/{out="$(DOCS_TMP)/concepts-and-principles-content.md"}' out=$(DOCS_TMP)/introduction-content.md docs/introduction.md
+	$(MKTPL) templates/docs/introduction.md $(DOCS_TMP)/intro_tmpl.md $(LOC) $(PRJ)
+	cd $(DOCS_TMP); multimarkdown --to=mmd --output=../../docs/introduction.md intro_tmpl.md
+	$(MKTPL) templates/docs/concepts-and-principles.md $(DOCS_TMP)/concepts_tmpl.md $(LOC) $(PRJ)
+	cd $(DOCS_TMP); multimarkdown --to=mmd --output=../../docs/concepts-and-principles.md concepts_tmpl.md
 	
 	# prepare templates
 	$(MKTPL) templates/docs/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
@@ -141,7 +142,7 @@ setup:
 	# prepare temp folders
 	echo "this might produce error output if folders already exist"
 	-mkdir -p $(EBOOK_TMP)
-	-mkdir -p $(TMPFOLDER)/docs
+	-mkdir -p $(DOCS_TMP)
 	-mkdir -p $(TMPSUP)
 	-mkdir docs/_site
 
