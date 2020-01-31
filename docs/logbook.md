@@ -21,7 +21,7 @@ Content relating to a specific team or <dfn data-info="Role: A domain that is de
 
 -   the domain description and strategy
 -   agreements (including <dfn data-info="Delegatee: An individual or group accepting accountability for a domain delegated to them.">delegatees'</dfn> domain descriptions, strategies and [development plans](development-plan.html))
--   <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.">backlogs</dfn> and other information relating to work and <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn>
+-   <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlogs</dfn> and other information relating to work and <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn>
 
 
 
