@@ -18,6 +18,9 @@ version: "v2019-12-22"
 # URL o the Github project
 github_url: "https://github.com/S3-working-group/s3-practical-guide"
 
+# URL of the website
+site_url: "https://patterns.sociocracy30.org"
+
 # directive for makefile to generate translatable pattern index
 # must be set to "NO" for translations, and "YES" for source language (English)
 build_index: "YES"
