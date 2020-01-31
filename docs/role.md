@@ -16,7 +16,7 @@ A role is a simple way for an organization (or <dfn data-info="Team: A group of 
 - role keepers are selected by consent and for a limited term
 - peers support one another to develop in the roles they keep
 
-A role keeper may maintain a governance <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.">backlog</dfn>, and a <dfn data-info="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</dfn> to record and help them evolve their approach toward delivering <dfn data-info="Value: The importance, worth or usefulness of something in relation to a driver. Also &quot;a principle of some significance that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">value</dfn>.
+A role keeper may maintain a governance <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</dfn>, and a <dfn data-info="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</dfn> to record and help them evolve their approach toward delivering <dfn data-info="Value: The importance, worth or usefulness of something in relation to a driver. Also &quot;a principle of some significance that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">value</dfn>.
 
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.
 

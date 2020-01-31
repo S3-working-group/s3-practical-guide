@@ -2273,7 +2273,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Alignment:** The process of bringing the actions of all parts of an organization in line with the organization's objectives.
 
 
-**Backlog:** A list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
+**Backlog:** A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
 
 
 **Check-In:** A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
