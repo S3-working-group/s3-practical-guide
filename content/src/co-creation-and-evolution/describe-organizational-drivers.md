@@ -19,11 +19,11 @@ Create a brief but comprehensive summary containing just enough information to c
 
 ### Example: 
 
-> _"The kitchen is a mess: there are no clean cups, the sink is full of dishes and it's not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work."_
+> _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes and it's not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work."_
 
 ### 1. Current Situation
 
-> _"The kitchen is a mess: there are no clean cups, the sink is full of dishes..."_
+> _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes..."_
 
 Describe the current situation:
 
