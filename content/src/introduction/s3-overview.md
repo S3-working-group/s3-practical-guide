@@ -1,8 +1,8 @@
-## A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
+## What is Sociocracy 3.0?
 
-Sociocracy 3.0 — a.k.a. "S3" — is **social technology** for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
+Sociocracy 3.0 — a.k.a. "S3" — is [social technology](glossary:social-technology) for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
 
-In this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
+Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
 Since its launch in 2015, S3 patterns have been helping people across a diverse range of organizational contexts to get the best out of collaboration. From start-ups to small and medium businesses, large international organizations, investor-funded and nonprofit organizations, families and communities.
 
@@ -15,7 +15,7 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
  
 **Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
 
-### How does Sociocracy 3.0 help?
+## How does Sociocracy 3.0 help?
 
 S3 is a transformational technology for both individuals and the whole organization that will help you figure out how to meet your organization's biggest challenges, take advantage of the opportunities you face and resolve the most persistent problems.
 
