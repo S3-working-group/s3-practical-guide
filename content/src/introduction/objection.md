@@ -27,29 +27,10 @@ The information revealed by objections can be used to improve:
 -   proposals
 -   shared understanding of drivers
 
-### Qualify Objections
-
-Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on assumption or preference.
-
-To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
-
-_"Do you think this argument qualifies as an objection?"_
-
-If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
-
-### Understanding Objections
-
-Some helpful questions:
-
--   How does the argument relate to this specific proposal or agreement?
--   Does the argument reveal how a (proposed or current) **activity or agreement**:
-    -   harms response to any organizational driver?
-    -   can be improved right now?
-    -   prevents or diminishes someone's contribution towards responding to a driver?
-    -   is in conflict with the organization's values?
-    -   is considered not 'safe enough' to try?
 
 ### Concerns
+
+**Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on assumption or preference.**
 
 {{define:concern}}
 
@@ -58,6 +39,4 @@ In [Consent Decision Making](section:consent-decision-making), concerns can info
 Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
 If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
-
-![A process for qualifying an objection](img/agreements/qualify-objection-process.png)
 
