@@ -1,4 +1,4 @@
-## Objection
+#### Objection
 
 {{define:objection}}
 
@@ -28,7 +28,7 @@ The information revealed by objections can be used to improve:
 -   shared understanding of drivers
 
 
-### Concerns
+#### Concerns
 
 **Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on assumption or preference.**
 

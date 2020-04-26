@@ -11,7 +11,7 @@ Keep records of agreements up to date, e.g. in a [logbook](glossary:logbook).
 
 ### What to record?
 
-Record agreements with adequate detail so that important information / elements can be recalled later. 
+Record agreements with adequate detail so that important information can be recalled later. 
 
 At the very least include a summary of the driver, a description of what’s been agreed, who is responsible for what, evaluation criteria and a review date.
 
@@ -32,7 +32,7 @@ Depending on the scope and significance of the agreement, consider including all
     - [Deliverables](section:describe-deliverables)
     - Rationale
 -   [Evaluation criteria](section:evaluation-criteria) (and potentially [concerns](glossary:concern))
--    Appendix (if helpful)
+-   Appendix (if helpful)
     - Background information
     - Previous versions of the agreements
     - References
