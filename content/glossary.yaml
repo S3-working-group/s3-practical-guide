@@ -155,7 +155,7 @@ terms:
   organizational-driver:
     name: Organizational Driver
     definition:
-    glossary: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
+    glossary: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
   pattern:
     name: Pattern
     definition: A **pattern** is a template for successfully navigating a specific context.
