@@ -239,4 +239,11 @@
             font-size: 18px;
         }
     }
+    h5 {
+        font-size: 18px;
+
+        @include media-query($on-laptop) {
+            font-size: 16px;
+        }
+    }
 }
