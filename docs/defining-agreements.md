@@ -8,7 +8,7 @@ title: "Defining Agreements"
 
 ![The Life-Cycle of an Agreement](img/evolution/agreement-lifecycle-long.png)
 
-- [Agreement](agreement.html)
+- [Record Agreements](record-agreements.html)
 - [Develop Strategy](develop-strategy.html)
 - [Clarify Domains](clarify-domains.html)
 - [Clarify Intended Outcome](clarify-intended-outcome.html)
@@ -18,5 +18,5 @@ title: "Defining Agreements"
 - [Logbook Keeper](logbook-keeper.html)
 
 
-[&#9654; Agreement](agreement.html)<br/>[&#9664; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)
+[&#9654; Record Agreements](record-agreements.html)<br/>[&#9664; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)
 
