@@ -11,8 +11,8 @@ msgid "Pattern"
 msgstr "Pattern"
 
 # site title for practical guide microsite
-msgid "Sociocracy 3.0 - A Practical Guide"
-msgstr "Sociocracy 3.0 - A Practical Guide"
+msgid "A Practical Guide to Sociocracy 3.0"
+msgstr "A Practical Guide to Sociocracy 3.0"
 
 # title for ebook
 msgid "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"

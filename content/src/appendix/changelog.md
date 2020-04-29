@@ -1,11 +1,21 @@
 ## Changelog
 
+### Changes 2020-04-29
+
+- Introduction: Added _Objection_ and _Agreement_ to concepts
+- renamed pattern _Objection_ to [Test Arguments Qualify as Objections](section:arguments-qualify-as-objections) 
+- renamed pattern _Agreement_ to [Record Argreements](section:record-agreements)
+- [Test Arguments Qualify as Objections](section:arguments-qualify-as-objections): revised text and updated illustration
+- [Record Argreements](section:record-agreements): revised text, added more details of agreements that might be recorded, updated illustration
+
+
 ### Changes 2019-12-22
 
 - added new introduction text
 - added "social technology" to glossary
 - website now has separate pages for "Introduction" and "Concepts and Principles"
 - ePub now looks much better
+
 
 ### Changes 2019-11-29
 
@@ -32,6 +42,7 @@
 - [Role Selection](section:role-selection): small amendment to illustration
 - [Transparent Salary](section:transparent-salary): explained what a salary formula is
 
+
 ### Changes 2019-03-08
 
 **General Changes**
@@ -54,7 +65,6 @@
 
 - updated templates for domain description and role description
 - updated illustrations for [Linking](section:linking) and [Double-Linking](section:double-linking)
-
 
 **Changes to Patterns:**
 
@@ -144,11 +154,13 @@
 - [Prepare for Meetings](section:prepare-for-meetings)
 - [Timebox Activities](section:timebox-activities)
 
+
 ### Changes 2018-03-21
 
 * renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_
 * [Describe Organizational Drivers](section:describe-organizational-drivers): explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 * added _need_ to glossary
+
 
 ### Changes 2017-11-16
 
@@ -156,6 +168,7 @@
 - aligned glossary entries for _Circle_ and _Role_ to pattern text
 - _Development Plan_: clarification of responsibilities
 - _Role_: clarified evolution of strategy
+
 
 ### Changes 2017-11-10
 
@@ -165,6 +178,7 @@
 - _Rounds_: improved description
 - moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
 - added several terms to the glossary
+
 
 ### Changes 2017-10-21
 

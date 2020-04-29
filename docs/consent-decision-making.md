@@ -20,5 +20,5 @@ Withholding objections can harm the objectives of a team or organization.
 ![Consent Decision Making](img/agreements/consent-decision-making.png)
 
 
-[&#9654; Objection](objection.html)<br/>[&#9664; Describe Organizational Drivers](describe-organizational-drivers.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
+[&#9654; Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)<br/>[&#9664; Describe Organizational Drivers](describe-organizational-drivers.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
 

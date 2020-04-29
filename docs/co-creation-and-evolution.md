@@ -6,7 +6,7 @@ title: "Co-Creation And Evolution"
 - [Navigate Via Tension](navigate-via-tension.html)
 - [Describe Organizational Drivers](describe-organizational-drivers.html)
 - [Consent Decision Making](consent-decision-making.html)
-- [Objection](objection.html)
+- [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)
 - [Resolve Objections](resolve-objections.html)
 - [Evaluate And Evolve Agreements](evaluate-and-evolve-agreements.html)
 - [Those Affected Decide](those-affected-decide.html)

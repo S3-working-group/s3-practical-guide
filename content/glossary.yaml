@@ -44,8 +44,8 @@ terms:
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
   concern:
     name: Concern
-    definition: A **concern** is an assumption that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver.
-    glossary: An assumption why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+    definition: A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver.
+    glossary: An assumption – or optinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver.
   consent:
     name: Consent (principle)
     definition:
@@ -155,7 +155,7 @@ terms:
   organizational-driver:
     name: Organizational Driver
     definition:
-    glossary: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
+    glossary: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
   pattern:
     name: Pattern
     definition: A **pattern** is a template for successfully navigating a specific context.
