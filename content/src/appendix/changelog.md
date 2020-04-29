@@ -1,6 +1,6 @@
 ## Changelog
 
-### Changes 2020-04-26
+### Changes 2020-04-29
 
 - Introduction: Added _Objection_ and _Agreement_ to concepts
 - renamed pattern _Objection_ to [Test Arguments Qualify as Objections](section:arguments-qualify-as-objections) 
