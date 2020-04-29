@@ -4,11 +4,11 @@ title: "Introduction"
 
 
 
-## A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
+## What is Sociocracy 3.0?
 
-Sociocracy 3.0 — a.k.a. "S3" — is **social technology** for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
+Sociocracy 3.0 — a.k.a. "S3" — is <dfn data-info="Social Technology: Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.">social technology</dfn> for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
 
-In this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
+Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
 Since its launch in 2015, S3 patterns have been helping people across a diverse range of organizational contexts to get the best out of collaboration. From start-ups to small and medium businesses, large international organizations, investor-funded and nonprofit organizations, families and communities.
 
@@ -21,7 +21,7 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
  
 **Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
 
-### How does Sociocracy 3.0 help?
+## How does Sociocracy 3.0 help?
 
 S3 is a transformational technology for both individuals and the whole organization that will help you figure out how to meet your organization's biggest challenges, take advantage of the opportunities you face and resolve the most persistent problems.
 
@@ -45,7 +45,7 @@ This practical guide to Sociocracy 3.0 is written and published by the three co
 
 True to the mindset behind S3, this book will always be a work in progress that grows and changes as we learn from people who are experimenting with S3 in organizations around the world. Since we started out 5 years ago, we have released several updates per year and we'll continue to do so in the years to come.
 
-Even though several sections in this book are brief and may still be rough around the edges, this book has been sufficient for many people to get started with S3 and achieve positive change in their organizations. We hope it will also be of value for you.
+Even though several sections in this book are brief and may still be rough around the edges, the content and explanations have been sufficient for many people to get started with S3 and achieve positive change in their organizations. We hope you'll find it useful too.
 
 ## Influences and History of Sociocracy 3.0
 
@@ -67,9 +67,8 @@ Sociocracy has proven to be effective for many organizations and communities aro
 
 In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015. 
 
-**Liliana David** joined the team soon after and together they regularly collaborate to develop both the framework and the website.
+**Liliana David** joined the team soon after. Together they regularly collaborate to make S3 available and applicable to as many organizations as possible, and provide resources under a **Creative Commons Free Culture License** for people who want to learn, apply and tell others about Sociocracy_3.0.
 
-Together, they seek to make S3 available and applicable to as many organizations as possible and provide resources under a **Creative Commons Free Culture License** for people who want to learn, apply and tell others about Sociocracy 3.0.
 
 ### The Sociocracy 3.0 Movement
 

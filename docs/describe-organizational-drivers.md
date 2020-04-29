@@ -5,7 +5,7 @@ title: "Describe Organizational Drivers"
 
 **Describe organizational drivers to understand, communicate and remember them.**
 
-Describing <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.">drivers</dfn> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
+Describing <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</dfn> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
 A simple way to describe a driver is by explaining:
 
@@ -22,11 +22,11 @@ Create a brief but comprehensive summary containing just enough information to c
 
 ### Example: 
 
-> _"The kitchen is a mess: there are no clean cups, the sink is full of dishes and it's not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work."_
+> _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes and it's not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work."_
 
 ### 1. Current Situation
 
-> _"The kitchen is a mess: there are no clean cups, the sink is full of dishes..."_
+> _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes..."_
 
 Describe the current situation:
 

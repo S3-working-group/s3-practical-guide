@@ -2,7 +2,7 @@ Comment: This text is used as book description. See https://kdp.amazon.com/en_US
 
 Sociocracy 3.0 — a.k.a. "S3" — is **social technology** for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
 
-In this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
+Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
 Since its launch in 2015, Sociocracy 3.0 has been helping people in start-ups, small and medium businesses, large international organizations, investor-funded and nonprofit organizations, families and communities.
 
@@ -32,5 +32,4 @@ All content inside this book is also available under a Creative Commons license.
 
 True to the mindset behind S3, this book will always be a work in progress that grows and changes as we learn from people who are experimenting with S3 in organizations around the world. Since we started out 5 years ago, we have released several updates per year and we'll continue to do so in the years to come.
 
-Even though several sections in this book are brief and may still be rough around the edges, this book has been sufficient for many people to get started with S3 and achieve positive change in their organizations. We hope it will also be of value for you.
-
+Even though several sections in this book are brief and may still be rough around the edges, the content and explanations have been sufficient for many people to get started with S3 and achieve positive change in their organizations. We hope you'll find it useful too.

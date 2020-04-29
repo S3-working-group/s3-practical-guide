@@ -28,6 +28,10 @@ content:
         slug: driver
       - title: Domain
         slug: domain
+      - title: Objection
+        slug: objection
+      - title: Agreement
+        slug: agreement      
       - title: Governance
         slug: governance  
 
@@ -43,8 +47,8 @@ content:
           slug: describe-organizational-drivers
         - title: Consent Decision Making
           slug: consent-decision-making
-        - title: Objection
-          slug: objection
+        - title: Test Arguments Qualify as Objections
+          slug: test-arguments-qualify-as-objections
         - title: Resolve Objections
           slug: resolve-objections
         - title: Evaluate And Evolve Agreements
@@ -135,8 +139,8 @@ content:
     - title: Defining Agreements
       slug: defining-agreements
       sections:
-        - title: Agreement
-          slug: agreement
+        - title: Record Agreements
+          slug: record-agreements
         - title: Develop Strategy
           slug: develop-strategy
         - title: Clarify Domains

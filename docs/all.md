@@ -4,11 +4,11 @@ title: A Practical Guide for Evolving Agile and Resilient Organizations with Soc
 
 # Introduction
 
-## A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
+## What is Sociocracy 3.0?
 
-Sociocracy 3.0 — a.k.a. "S3" — is **social technology** for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
+Sociocracy 3.0 — a.k.a. "S3" — is social technology for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
 
-In this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
+Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
 Since its launch in 2015, S3 patterns have been helping people across a diverse range of organizational contexts to get the best out of collaboration. From start-ups to small and medium businesses, large international organizations, investor-funded and nonprofit organizations, families and communities.
 
@@ -21,7 +21,7 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
  
 **Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
 
-### How does Sociocracy 3.0 help?
+## How does Sociocracy 3.0 help?
 
 S3 is a transformational technology for both individuals and the whole organization that will help you figure out how to meet your organization's biggest challenges, take advantage of the opportunities you face and resolve the most persistent problems.
 
@@ -45,7 +45,7 @@ This practical guide to Sociocracy 3.0 is written and published by the three co
 
 True to the mindset behind S3, this book will always be a work in progress that grows and changes as we learn from people who are experimenting with S3 in organizations around the world. Since we started out 5 years ago, we have released several updates per year and we'll continue to do so in the years to come.
 
-Even though several sections in this book are brief and may still be rough around the edges, this book has been sufficient for many people to get started with S3 and achieve positive change in their organizations. We hope it will also be of value for you.
+Even though several sections in this book are brief and may still be rough around the edges, the content and explanations have been sufficient for many people to get started with S3 and achieve positive change in their organizations. We hope you'll find it useful too.
 
 
 ## Influences and History of Sociocracy 3.0
@@ -68,9 +68,8 @@ Sociocracy has proven to be effective for many organizations and communities aro
 
 In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015. 
 
-**Liliana David** joined the team soon after and together they regularly collaborate to develop both the framework and the website.
+**Liliana David** joined the team soon after. Together they regularly collaborate to make S3 available and applicable to as many organizations as possible, and provide resources under a **Creative Commons Free Culture License** for people who want to learn, apply and tell others about Sociocracy_3.0.
 
-Together, they seek to make S3 available and applicable to as many organizations as possible and provide resources under a **Creative Commons Free Culture License** for people who want to learn, apply and tell others about Sociocracy 3.0.
 
 ### The Sociocracy 3.0 Movement
 
@@ -154,6 +153,7 @@ Before diving into the content, consider taking time to learn about some basic c
 -   Making Sense of Organizations:
     -   Drivers, Value and Waste
     -   Domains, Delegation and Accountability
+    -   Agreements and Objections
     -   Governance and Operations
 
 For any terms you don't understand check out the glossary at the end.
@@ -262,6 +262,61 @@ It's also possible to understand a domain in relation to organizational drivers:
 ![Drivers and domains](img/driver-domain/drivers-and-domains.png)
 
 
+#### Objection
+
+_An **objection** is an argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it._
+
+Objections reveal information about (potential) **unintended consequences**, or about **worthwhile ways to improve**.
+
+Be aware that withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
+
+It’s the responsibility of each individual in an organization to raise potential objections to proposals, decisions, existing agreements or activities.
+
+Those accountable for an activity or (proposed) agreement in question, are responsible for *considering arguments and addressing objections* that are raised, when doing so will help to meet the organization’s objectives.
+
+When seeking out potential objections, consider:
+
+- why the intended outcome would not be (fully) achieved: **effectiveness**
+- why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
+- the negative consequences something would have elsewhere (in the same domain, in the wider organization, or beyond): **side-effects**
+
+The information revealed by objections can be used to improve:
+
+-   current and planned activity
+-   how people execute on decisions
+-   existing agreements
+-   proposals
+-   shared understanding of drivers
+
+Create a culture where people feel comfortable to raise *potential* objections at any time, so that they can relax into making decisions that are *good enough for now and safe enough to try*. This encourages developing a preference for trying things out, instead of attempting to anticipate and account for all possibilities in advance.
+
+Harness a diversity of perspectives and be open to challenge your own, to discover when and what to change, and enjoy iterating more rapidly, running experiments and learning from the outcomes as you proceed.
+
+
+#### Concerns
+
+**Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on  assumptions, or a personal preference or opinion.**
+
+_A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver._
+
+In _Consent Decision Making_, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation). Bring up concerns if you think it’s valuable to consider them, and at least record them along with the agreement, and monitor outcomes over time.
+
+If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see _Test Arguments Qualify as Objections_). 
+
+
+#### Agreement
+
+_An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
+
+Shared guidelines about why, how and when to act, and what is specifically required, enable effective collaboration.
+
+Agreements are created in response to organizational drivers, are **regularly reviewed** and evolved as necessary.
+
+**Overall accountability** for an agreement lies with the people that make them.
+
+An agreement can include **delegation of specific responsibilities** to individuals or groups.
+
+
 ### Governance and Operations
 
 S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
@@ -325,13 +380,13 @@ The response to an organizational driver is typically treated as an experiment t
 
 ![Possible responses to organizational drivers](img/driver-domain/driver-response-full.png)
 
-#### Qualify Organizational Drivers
+#### Qualify Drivers as Organizational Drivers
 
-A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
+A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
 
 A simple way to qualify whether or not a driver falls within an organization's domain is by checking:
 
-_Would it help the organization if we respond to this driver? Or would it harm us if we don't?_
+_Would it help the organization if we respond to this driver? Or would it lead to unintended consequences if we don't?_
 
 
 ###  Pattern 1.2: Navigate Via Tension
@@ -368,11 +423,11 @@ Create a brief but comprehensive summary containing just enough information to c
 
 #### Example: 
 
-> _"The kitchen is a mess: there are no clean cups, the sink is full of dishes and it's not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work."_
+> _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes and it's not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work."_
 
 #### 1. Current Situation
 
-> _"The kitchen is a mess: there are no clean cups, the sink is full of dishes..."_
+> _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes..."_
 
 Describe the current situation:
 
@@ -447,44 +502,21 @@ Withholding objections can harm the objectives of a team or organization.
 ![Consent Decision Making](img/agreements/consent-decision-making.png)
 
 
-###  Pattern 1.5: Objection
+###  Pattern 1.5: Test Arguments Qualify as Objections
 
-_An **objection** is an argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it._
 
-Objections reveal information about **unintended consequences**, or about **viable ways to improve**.
+**Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.**
 
-It's the accountability of individuals to raise potential objections to proposals, decisions, existing agreements or activities.
+When someone raises an argument for changing something, check that the argument reveals how leaving things unchanged will – or could — lead to consequences you want to avoid, or that it informs you of a worthwhile way to improve how to go about achieving your objectives.
 
-Withholding objections can harm the ability of individuals, teams or
-the whole organization to respond to organizational drivers.
+Explore and refine each argument as necessary to identify any misconceptions or misunderstanding, and to eliminate aspects of the argument that are based merely on assumptions, or a personal preference or opinion. If you establish that what remains of the argument qualifies as an objection, then go on to _resolve the objection_.
 
-Being able to raise *potential* objections at any time means decisions only need *to be good enough for now and safe enough to try*.
-
-Those accountable for the activity or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
-
-When seeking out potential objections, consider:
-
-- why the intended outcome would not be (fully) achieved: **effectiveness**
-- why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
-- the negative consequences something would have elsewhere (in the same domain, in the wider organization, or beyond): **side-effects**
-
-The information revealed by objections can be used to improve:
-
--   current and planned activity
--   how people execute on decisions
--   existing agreements
--   proposals
--   shared understanding of drivers
-
-#### Qualify Objections
-
-Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on assumption or preference.
-
-To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
+To discover if an argument qualifies as an objection in a group context, a facilitator can invite reflection by asking:
 
 _"Do you think this argument qualifies as an objection?"_
 
-If nobody disagrees with the argument, an objection typically qualifies.  Otherwise aim to discover the actual objection or reveal any misconceptions.
+If no one disagrees, treat the argument as an objection. In case of disagreement, invite a dialogue to discover if an objection is revealed by the argument.
+
 
 #### Understanding Objections
 
@@ -498,18 +530,8 @@ Some helpful questions:
     -   is in conflict with the organization's values?
     -   is considered not 'safe enough' to try?
 
-#### Concerns
 
-_A **concern** is an assumption that doing something (even in the absence of objections) **might** stand in the way of (more) effective response to an organizational driver._
-
-In _Consent Decision Making_, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).
-
-Bring up concerns if you consider them important and at least record them along with evaluation criteria.
-
-If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
-
-![A process for qualifying an objection](img/agreements/qualify-objection-process.png)
-
+![A process for testing if an argument qualifies as an objection](img/agreements/qualify-objection-process.png)
 
 
 ###  Pattern 1.6: Resolve Objections
@@ -1236,21 +1258,47 @@ Establishing a process for the ongoing elimination of waste enables natural evol
 ![The Life-Cycle of an Agreement](img/evolution/agreement-lifecycle-long.png)
 
 
-###  Pattern 6.1: Agreement
+###  Pattern 6.1: Record Agreements
+
+**Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.**
 
 _An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
 
-Agreements are created in response to organizational drivers, are **regularly reviewed**, and evolved as necessary.
-
-**Overall accountability** for an agreement lies with the people that make them.
-
-An agreement can include **delegation of specific responsibilities** to individuals or groups.
-   
-Record any **expectations** related to deliverables, behavior or resources in the context of the agreement.
-
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.
 
+Keep records of agreements up to date, e.g. in a logbook.
+
+
+#### What to record?
+
+Record agreements with adequate detail so that important information can be recalled later. 
+
+At the very least include a summary of the driver, a description of what’s been agreed, who is responsible for what, evaluation criteria and a review date.
+
+Depending on the scope and significance of the agreement, consider including all of the following:
+
+-   A title for the agreement
+-   _Description of the driver_
+-   Date of creation (and/or version)
+-   Date of expiry or due date (if relevant)
+-   Review date (or frequency)
+-   Who is responsible for what?
+-   A description of the agreement, including:
+    - Any relevant requirements and expectations
+    - Action items
+    - Resources
+    - Constraints
+    - _Intended outcomes_
+    - _Deliverables_
+    - Rationale
+-   _Evaluation criteria_ (and potentially concerns)
+-   Appendix (if helpful)
+    - Background information
+    - Previous versions of the agreements
+    - References
+
 ![Template for agreements](img/templates/agreement-template.png)
+
 
 
 ###  Pattern 6.2: Develop Strategy
@@ -1901,12 +1949,22 @@ The second and third tier:
 
 ## Changelog
 
+### Changes 2020-04-29
+
+- Introduction: Added _Objection_ and _Agreement_ to concepts
+- renamed pattern _Objection_ to _Test Arguments Qualify as Objections_ 
+- renamed pattern _Agreement_ to _Record Argreements_
+- _Test Arguments Qualify as Objections_: revised text and updated illustration
+- _Record Argreements_: revised text, added more details of agreements that might be recorded, updated illustration
+
+
 ### Changes 2019-12-22
 
 - added new introduction text
 - added "social technology" to glossary
 - website now has separate pages for "Introduction" and "Concepts and Principles"
 - ePub now looks much better
+
 
 ### Changes 2019-11-29
 
@@ -1933,6 +1991,7 @@ The second and third tier:
 - _Role Selection_: small amendment to illustration
 - _Transparent Salary_: explained what a salary formula is
 
+
 ### Changes 2019-03-08
 
 **General Changes**
@@ -1955,7 +2014,6 @@ The second and third tier:
 
 - updated templates for domain description and role description
 - updated illustrations for _Linking_ and _Double-Linking_
-
 
 **Changes to Patterns:**
 
@@ -2045,11 +2103,13 @@ The second and third tier:
 - _Prepare for Meetings_
 - _Timebox Activities_
 
+
 ### Changes 2018-03-21
 
 * renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_
 * _Describe Organizational Drivers_: explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 * added _need_ to glossary
+
 
 ### Changes 2017-11-16
 
@@ -2057,6 +2117,7 @@ The second and third tier:
 - aligned glossary entries for _Circle_ and _Role_ to pattern text
 - _Development Plan_: clarification of responsibilities
 - _Role_: clarified evolution of strategy
+
 
 ### Changes 2017-11-10
 
@@ -2066,6 +2127,7 @@ The second and third tier:
 - _Rounds_: improved description
 - moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
 - added several terms to the glossary
+
 
 ### Changes 2017-10-21
 
@@ -2225,7 +2287,7 @@ Finally to acknowledge our numerous colleagues, customers, clients and attendees
 
 By no means an exhaustive list, we'd like to offer our appreciation to the following people who directly contributed toward developing Sociocracy 3.0, or whose work influenced what it is today:
 
-Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, François Knuchel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
+Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Sonja Blignaut, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, François Knuchel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
 
 
 
@@ -2288,7 +2350,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Complexity:** An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 
 
-**Concern:** An assumption why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+**Concern:** An assumption – or optinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver.
 
 
 **Consent (principle):** Raise, seek out and resolve objections to decisions and actions.
@@ -2375,7 +2437,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Organization:** A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.
 
 
-**Organizational Driver:** A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
+**Organizational Driver:** A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
 
 
 **Pattern:** A template for successfully navigating a specific context.

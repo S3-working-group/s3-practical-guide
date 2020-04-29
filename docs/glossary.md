@@ -20,7 +20,7 @@ title: Glossary
 
 **Complexity:** An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 
-**Concern:** An assumption why doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+**Concern:** An assumption – or optinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver.
 
 **Consent (principle):** Raise, seek out and resolve objections to decisions and actions.
 
@@ -78,7 +78,7 @@ title: Glossary
 
 **Organization:** A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.
 
-**Organizational Driver:** A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid harm.
+**Organizational Driver:** A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
 
 **Pattern:** A template for successfully navigating a specific context.
 

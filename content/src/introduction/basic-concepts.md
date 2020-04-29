@@ -7,6 +7,7 @@ Before diving into the content, consider taking time to learn about some basic c
 -   Making Sense of Organizations:
     -   Drivers, Value and Waste
     -   Domains, Delegation and Accountability
+    -   Agreements and Objections
     -   Governance and Operations
 
 For any terms you don't understand check out the glossary at the end.
