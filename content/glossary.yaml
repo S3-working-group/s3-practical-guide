@@ -64,13 +64,13 @@ terms:
     glossary: The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
   delegatee:
     name: Delegatee
-    glossary: An individual or group accepting accountability for a domain delegated to them.
+    glossary: An individual or group accepting responsibility for a domain delegated to them.
   delegation:
     name: Delegation
     glossary: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
   delegator:
     name: Delegator
-    glossary: An individual or group delegating a domain to other(s) to be accountable for.
+    glossary: An individual or group delegating responsibility for a domain to other(s).
   deliverable:
     name: Deliverable
     definition: A **deliverable** is a product, service, component or material provided in response to an organizational driver.
@@ -158,8 +158,8 @@ terms:
     glossary: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
   pattern:
     name: Pattern
-    definition: A **pattern** is a template for successfully navigating a specific context.
-    glossary: A template for successfully navigating a specific context.
+    definition: A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.
+    glossary: A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.
   peer-domain:
     name: Peer Domain
     definition:
