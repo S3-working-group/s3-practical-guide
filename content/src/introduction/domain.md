@@ -4,13 +4,16 @@
 
 All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 
-Domains are delegated to people (e.g. to a unit, department, team or individuals), who take responsibility for the domain, and act within its defined constraints on influence and autonomy.
-
 ![Domains may overlap and/or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
 
-##### Delegating Domains
+##### Delegating Responsibility for Domains
 
-Those delegating a domain (the _delegators_) still retain overall accountability for that domain, allocate **resources** and often define:
+
+{{define:delegation}}
+
+Responsibility for domains is delegated to people (e.g. to a unit, department, team or individuals), who then act within its defined constraints on influence and autonomy.
+
+Those delegating responsibility for a domain (the delegators) to others still retain overall accountability for that domain, allocate **resources** and often define:
 
 -   the **organizational need** the domain is designed to respond to
 -   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
