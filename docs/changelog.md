@@ -3,13 +3,21 @@ title: "Changelog"
 ---
 
 
+
+### Changes 2020-05-08
+
+- revised all illustrations for a more consistent style and increased readability
+- revised introduction: more explanation about patterns and core concepts
+- updated glossary: delegator, delegatee and pattern
+
+
 ### Changes 2020-04-29
 
 - Introduction: Added _Objection_ and _Agreement_ to concepts
 - renamed pattern _Objection_ to [Test Arguments Qualify as Objections](arguments-qualify-as-objections.html) 
-- renamed pattern _Agreement_ to [Record Argreements](record-agreements.html)
+- renamed pattern _Agreement_ to [Record Agreements](record-agreements.html)
 - [Test Arguments Qualify as Objections](arguments-qualify-as-objections.html): revised text and updated illustration
-- [Record Argreements](record-agreements.html): revised text, added more details of agreements that might be recorded, updated illustration
+- [Record Agreements](record-agreements.html): revised text, added more details of agreements that might be recorded, updated illustration
 
 
 ### Changes 2019-12-22
@@ -28,7 +36,7 @@ title: "Changelog"
 
 ### Changes 2019-06-27
 
-- [Objection](objection.html): further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.">objection</dfn> accordingly
+- _Objection_: further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.">objection</dfn> accordingly
 - replaced "action" with activity in a few places where it made more sense
 - fixed a few typos
 
@@ -40,7 +48,7 @@ title: "Changelog"
 - [Describe Deliverables](describe-deliverables.html): added User Stories as an example for describing deliverables
 - [Double-Linked Hierarchy](double-linked-hierarchy.html): revised summary
 - [Delegate Circle](delegate-circle.html): refined summary
-- [Objection](objection.html): refined definition of objection and concern, added illustration for a process to qualify an objection
+- _Objection_: refined definition of objection and concern, added illustration for a process to qualify an objection
 - [Proposal Forming](proposal-forming.html): added missing process illustration
 - [Role Selection](role-selection.html): small amendment to illustration
 - [Transparent Salary](transparent-salary.html): explained what a salary formula is
@@ -71,7 +79,7 @@ title: "Changelog"
 
 **Changes to Patterns:**
 
-- [Agreement](agreement.html): description now mentions that any expectations should be recorded
+- [Agreement](record-agreements.html): description now mentions that any expectations should be recorded
 - [Describe Deliverables](describe-deliverables.html): updated summary
 - [Describe Organizational Drivers](oescribe-organizational-drivers.html): more information on summarizing drivers
 - [Resolve Objections](resolve-objections.html): added summary and description
@@ -106,7 +114,7 @@ title: "Changelog"
 - [Agree on Values](agree-on-values.html): improved description
 - [Align Flow](align-flow.html): improved description and illustration
 - [Adapt Patterns To Context](adapt-patterns-to-context.html): improved description
-- [Agreement](agreement.html): improved description, updated template
+- [Agreement](record-agreements.html): improved description, updated template
 - [Artful Participation](artful-participation.html): improved summary
 - [Clarify Intended Outcome](clarify-intended-outcome.html) (renamed from _Intended Outcome_): improved description
 - [Consent Decision Making](consent-decision-making.html): improved description, updated illustration
@@ -129,7 +137,7 @@ title: "Changelog"
 - [Linking](linking.html): aligned description to [Double Linking](double-linking.html)
 - [Logbook](logbook.html): clarified that there is no difference between logbooks for groups and logbooks for roles
 - [Navigate Via Tension](navigate-via-tension.html): improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
-- [Objection](objection.html): clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
+- _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
 - [Open Domain](open-domain.html): improved description and updated illustration
 - [Open Systems](open-systems.html): improved description
 - [Open Space for Change](open-space-for-change.html): renamed from _Open S3 Adoption_, improved description

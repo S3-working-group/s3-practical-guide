@@ -6,7 +6,7 @@ title: "Open Domain"
 
 **Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.**
 
-The <dfn data-info="Delegator: An individual or group delegating a domain to other(s) to be accountable for.">delegator</dfn> of the open domain clarifies:
+The <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn> of the open domain clarifies:
  
 - the <dfn data-info="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</dfn>, key responsibilities and constraints of the open domain
 - who is invited to contribute to the open domain

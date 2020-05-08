@@ -7,7 +7,7 @@ A workshop format to identify an effective response to a complex situation: orga
 
 A (small or large) group identifies and clusters <dfn data-info="Driver: A person’s or a group&apos;s motive for responding to a specific situation.">drivers</dfn>, to then progress quickly from concept to action in smaller and self-organizing teams.
 
-![Driver Mapping: Process](img/facilitation-guides/driver-mapping-fg-print.png)
+![Driver Mapping: Process](img/process/driver-mapping.png)
 
 ![Driver Mapping: A template for domains](img/templates/domain-template.png)
 
