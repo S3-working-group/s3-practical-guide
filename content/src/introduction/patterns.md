@@ -9,4 +9,4 @@ The patterns are grouped by topic into ten categories to help you more easily id
 By providing a menu of patterns to choose from according to need, S3 encourages an organic, **iterative approach to change without a huge upfront investment** . It meets people where they are and helps them move forward pulling in patterns at their own pace and according to their unique context. 
 
 
-![Patterns are grouped by topic into ten categories](img/pattern-group-headers/all-groups-dark.png)
+![Patterns are grouped by topic into ten categories](img/framework/s3-pattern-groups.png)
