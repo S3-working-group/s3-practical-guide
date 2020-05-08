@@ -44,8 +44,8 @@ terms:
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
   concern:
     name: Concern
-    definition: A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver.
-    glossary: An assumption – or optinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver.
+    definition: A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+    glossary: An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
   consent:
     name: Consent (principle)
     definition:
@@ -245,5 +245,5 @@ terms:
     glossary: "Valued principles that guide behavior. Not to be confused with \"value\" (singular) in the context of a driver."
   waste:
     name: Waste
-    definition: "**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response of a driver."
-    glossary: Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
+    definition: "**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver."
+    glossary: Anything unnecessary for — or standing in the way of — a (more) effective response to a driver.
