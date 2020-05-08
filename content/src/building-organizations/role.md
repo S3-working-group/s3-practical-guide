@@ -1,8 +1,8 @@
 ## Role
 
-**Delegate accountability for a domain to individuals.**
+**Delegate responsibility for a domain to individuals.**
 
-A role is an area of accountability (a [domain](glossary:domain)) that is [delegated](glossary:delegation) to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
+A role is an area of responsibility (a [domain](glossary:domain)) that is [delegated](glossary:delegation) to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
 The role keeper leads in creating a [strategy](glossary:strategy) for how they will account for their domain. They evolve their strategy in collaboration with the [delegator](glossary:delegator).
 

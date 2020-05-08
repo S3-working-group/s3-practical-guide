@@ -44,8 +44,8 @@ terms:
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
   concern:
     name: Concern
-    definition: A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver.
-    glossary: An assumption – or optinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver.
+    definition: A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+    glossary: An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
   consent:
     name: Consent (principle)
     definition:
@@ -64,13 +64,14 @@ terms:
     glossary: The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
   delegatee:
     name: Delegatee
-    glossary: An individual or group accepting accountability for a domain delegated to them.
+    glossary: An individual or group accepting responsibility for a domain delegated to them.
   delegation:
     name: Delegation
+    definition: Delegation is the grant of authority over a domain by one party to another.
     glossary: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
   delegator:
     name: Delegator
-    glossary: An individual or group delegating a domain to other(s) to be accountable for.
+    glossary: An individual or group delegating responsibility for a domain to other(s).
   deliverable:
     name: Deliverable
     definition: A **deliverable** is a product, service, component or material provided in response to an organizational driver.
@@ -158,8 +159,8 @@ terms:
     glossary: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
   pattern:
     name: Pattern
-    definition: A **pattern** is a template for successfully navigating a specific context.
-    glossary: A template for successfully navigating a specific context.
+    definition: A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.
+    glossary: A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.
   peer-domain:
     name: Peer Domain
     definition:
@@ -244,5 +245,5 @@ terms:
     glossary: "Valued principles that guide behavior. Not to be confused with \"value\" (singular) in the context of a driver."
   waste:
     name: Waste
-    definition: "**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response of a driver."
-    glossary: Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
+    definition: "**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver."
+    glossary: Anything unnecessary for — or standing in the way of — a (more) effective response to a driver.

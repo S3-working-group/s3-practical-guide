@@ -5,7 +5,7 @@ title: "Coordinator"
 
 A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
 
-The coordinator may be selected by the team itself, or by the <dfn data-info="Delegator: An individual or group delegating a domain to other(s) to be accountable for.">delegator</dfn>.
+The coordinator may be selected by the team itself, or by the <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn>.
 
 Several coordinators may collaborate to synchronize work across multiple <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn>.
 

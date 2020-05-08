@@ -7,7 +7,7 @@ title: "Helping Team"
 
 A helping team: 
 
--   is a way for a <dfn data-info="Delegator: An individual or group delegating a domain to other(s) to be accountable for.">delegator</dfn> to expand their capacity
+-   is a way for a <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn> to expand their capacity
 -   may be self-organizing, or guided by a [coordinator](coordinator.html) chosen by the delegator
 -   is governed by the delegator
 -   benefits from a clearly defined <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>

@@ -73,7 +73,7 @@ In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a b
 
 ### The Sociocracy 3.0 Movement
 
-As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and it's various applications.
+As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and its various applications.
 
 
 
@@ -144,38 +144,26 @@ Evolution of organizational structure happens naturally when the flow of informa
 
 
 
-## Basic Concepts
-
-Before diving into the content, consider taking time to learn about some basic concepts behind S3: 
-
--   What is a pattern?
--   The Seven Principles
--   Making Sense of Organizations:
-    -   Drivers, Value and Waste
-    -   Domains, Delegation and Accountability
-    -   Agreements and Objections
-    -   Governance and Operations
-
-For any terms you don't understand check out the glossary at the end.
-
+## Patterns and the Seven Principles
 
 ### Patterns 
 
-_A **pattern** is a template for successfully navigating a specific context._
+S3 offers a pattern-based approach to organizational change. 
 
--   S3 patterns are discovered through observing many organizations as they solve problems and respond to opportunities
--   S3 patterns can be evolved and adapted to suit differing contexts
--   the patterns are grouped by topic into ten categories
+A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity. S3 patterns are discovered through observing people working together in organizations to solve problems and respond to opportunities they face. When you find that your habitual ways of doing things fail to bring about the outcomes you expected or hope for, you can look to S3 for patterns that might help.
 
-![Patterns are grouped by topic into ten categories](img/pattern-group-headers/all-groups-dark.png)
+The patterns are grouped by topic into ten categories to help you more easily identify those that are useful to you. They are modular and adaptable, can be used independently, and are mutually reinforcing, complementing one another when used in combination. S3 patterns can be evolved and adapted to address your specific needs.
+
+By providing a menu of patterns to choose from according to need, S3 encourages an organic, **iterative approach to change without a huge upfront investment** . It meets people where they are and helps them move forward pulling in patterns at their own pace and according to their unique context. 
+
+![Patterns are grouped by topic into ten categories; the Seven Principles are reflected in every pattern](img/framework/s3-pattern-groups.png)
 
 
 ### The Seven Principles 
 
-
 Sociocracy is built on seven principles that shape organizational culture. Since the seven principles are reflected in all of the patterns, understanding these principles is helpful for adopting and paramount to adapting Sociocracy 3.0 patterns.
 
-Practicing Sociocracy 3.0 helps people appreciate the essential value that these core principles bring, both to individuals and to organizations.
+Practicing Sociocracy 3.0 helps people appreciate the essential value that these core principles bring – both to individuals and to organizations – and supports their integration into organizational culture.
 
 ![The Seven Principles](img/framework/s3-principles-plain.png)
 
@@ -207,10 +195,24 @@ Individuals are also accountable for their work, ongoing learning and developmen
 Everyone in an organization is accountable for aligning activity with organizational values.
 
 
-### Making Sense of Organizations
+## Key Concepts for Making Sense of Organizations
+
+In this section you’ll learn about the following key concepts:
+
+- Driver
+- Domain
+- Agreement
+- Objection
+- Governance and Operations
+
+You will also discover how these concepts relate to value (and waste), delegation (and accountability), self-organization, self-governance and semi-autonomy.
+
+When people understand these concepts, it gives them a common language for describing clearly what’s going on in the organization. This helps to increase shared understanding and enables constructive dialogue about what needs to be done.
+
+For any terms you don’t understand, check out the glossary at the end.
 
 
-#### Drivers
+### Drivers
 
 _A **driver** is a person’s or a group's motive for responding to a specific situation._
 
@@ -219,11 +221,11 @@ Drivers:
 -   can be used to derive goals, objectives, aims, mission, vision, purpose
 -   can change over time
 
-##### Drivers, Value and Waste
+#### Drivers, Value and Waste
 
 _**Value** is the importance, worth or usefulness of something in relation to a driver._
 
-_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response of a driver._
+_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
 
 By adopting the concept of value and waste, many practices and ideas from **lean production** and **lean software development** can be utilized by organizations pulling in S3 patterns:
 
@@ -232,25 +234,28 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 -   the Kanban Method
 
 
-#### Domains
+### Domains
 
 _A **domain** is a distinct area of influence, activity and decision making within an organization._
 
 All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 
-Domains are delegated to people (e.g. to a unit, department, team or individuals), who take responsibility for the domain, and act within its defined constraints on influence and autonomy.
-
 ![Domains may overlap and/or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
 
-##### Delegating Domains
 
-Those delegating a domain (the _delegators_) still retain overall accountability for that domain, allocate **resources** and often define:
+#### Delegating Responsibility for Domains
+
+_Delegation is the grant of authority over a domain by one party to another._
+
+Responsibility for domains is delegated to people (e.g. to a unit, department, team or individuals), who then act within its defined constraints on influence and autonomy.
+
+Those delegating responsibility for a domain (the delegators) to others still retain overall accountability for that domain, allocate **resources** and often define:
 
 -   the **organizational need** the domain is designed to respond to
 -   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
 -   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
-##### Drivers and Domains
+#### Drivers and Domains
 
 It's also possible to understand a domain in relation to organizational drivers:
 
@@ -262,7 +267,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 ![Drivers and domains](img/driver-domain/drivers-and-domains.png)
 
 
-#### Objection
+### Objections
 
 _An **objection** is an argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it._
 
@@ -297,14 +302,14 @@ Harness a diversity of perspectives and be open to challenge your own, to discov
 
 **Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on  assumptions, or a personal preference or opinion.**
 
-_A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver._
+_A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver._
 
 In _Consent Decision Making_, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation). Bring up concerns if you think it’s valuable to consider them, and at least record them along with the agreement, and monitor outcomes over time.
 
 If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see _Test Arguments Qualify as Objections_). 
 
 
-#### Agreement
+### Agreements
 
 _An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
 
@@ -710,7 +715,7 @@ A workshop format to identify an effective response to a complex situation: orga
 
 A (small or large) group identifies and clusters drivers, to then progress quickly from concept to action in smaller and self-organizing teams.
 
-![Driver Mapping: Process](img/facilitation-guides/driver-mapping-fg-print.png)
+![Driver Mapping: Process](img/process/driver-mapping.png)
 
 ![Driver Mapping: A template for domains](img/templates/domain-template.png)
 
@@ -1023,7 +1028,7 @@ Consider:
 
 A delegator can support delegatees to deliver value by:
 
--   Clearly defining domains of autonomy and accountability
+-   Clearly defining domains of autonomy and responsibility
 -   Ensuring there are opportunities for learning and development
 -   Providing support if required
 
@@ -1056,9 +1061,9 @@ A circle:
 
 ###  Pattern 4.3: Role
 
-**Delegate accountability for a domain to individuals.**
+**Delegate responsibility for a domain to individuals.**
 
-A role is an area of accountability (a domain) that is delegated to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
+A role is an area of responsibility (a domain) that is delegated to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
 The role keeper leads in creating a strategy for how they will account for their domain. They evolve their strategy in collaboration with the delegator.
 
@@ -1239,7 +1244,7 @@ Include the people involved and affected in regular evaluation of outcomes.
 
 #### Waste And Continuous Improvement
 
-_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response of a driver._
+_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
 
 Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
 
@@ -1320,7 +1325,7 @@ Strategies are validated and refined through experimentation and learning.
 
 ###  Pattern 6.3: Clarify Domains
 
-**A clear understanding of people's area of accountability and autonomy enables greater efficiency, effective collaboration and agility throughout an organization.**
+**A clear understanding of people's area of responsibility and autonomy enables greater efficiency, effective collaboration and agility throughout an organization.**
 
 A simple way to clarify domains is with a **domain description** that contains:
 
@@ -1949,13 +1954,21 @@ The second and third tier:
 
 ## Changelog
 
+
+### Changes 2020-05-08
+
+- revised all illustrations for a more consistent style and increased readability
+- revised introduction: more explanation about patterns and core concepts
+- updated glossary: delegator, delegatee and pattern
+
+
 ### Changes 2020-04-29
 
 - Introduction: Added _Objection_ and _Agreement_ to concepts
 - renamed pattern _Objection_ to _Test Arguments Qualify as Objections_ 
-- renamed pattern _Agreement_ to _Record Argreements_
+- renamed pattern _Agreement_ to _Record Agreements_
 - _Test Arguments Qualify as Objections_: revised text and updated illustration
-- _Record Argreements_: revised text, added more details of agreements that might be recorded, updated illustration
+- _Record Agreements_: revised text, added more details of agreements that might be recorded, updated illustration
 
 
 ### Changes 2019-12-22
@@ -2350,7 +2363,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Complexity:** An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 
 
-**Concern:** An assumption – or optinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver.
+**Concern:** An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
 
 
 **Consent (principle):** Raise, seek out and resolve objections to decisions and actions.
@@ -2365,13 +2378,13 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Coordination:** The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
 
 
-**Delegatee:** An individual or group accepting accountability for a domain delegated to them.
+**Delegatee:** An individual or group accepting responsibility for a domain delegated to them.
 
 
 **Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
 
 
-**Delegator:** An individual or group delegating a domain to other(s) to be accountable for.
+**Delegator:** An individual or group delegating responsibility for a domain to other(s).
 
 
 **Deliverable:** A product, service, component or material provided in response to an organizational driver.
@@ -2440,7 +2453,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Organizational Driver:** A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
 
 
-**Pattern:** A template for successfully navigating a specific context.
+**Pattern:** A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.
 
 
 **Peer Domain:** Two peer domains are contained within the same immediate superdomain, and may be overlapping.
@@ -2506,7 +2519,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Values:** Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.
 
 
-**Waste:** Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
+**Waste:** Anything unnecessary for — or standing in the way of — a (more) effective response to a driver.
 
 
 

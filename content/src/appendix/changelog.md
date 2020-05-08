@@ -1,12 +1,20 @@
 ## Changelog
 
+
+### Changes 2020-05-08
+
+- revised all illustrations for a more consistent style and increased readability
+- revised introduction: more explanation about patterns and core concepts
+- updated glossary: delegator, delegatee and pattern
+
+
 ### Changes 2020-04-29
 
 - Introduction: Added _Objection_ and _Agreement_ to concepts
 - renamed pattern _Objection_ to [Test Arguments Qualify as Objections](section:arguments-qualify-as-objections) 
-- renamed pattern _Agreement_ to [Record Argreements](section:record-agreements)
+- renamed pattern _Agreement_ to [Record Agreements](section:record-agreements)
 - [Test Arguments Qualify as Objections](section:arguments-qualify-as-objections): revised text and updated illustration
-- [Record Argreements](section:record-agreements): revised text, added more details of agreements that might be recorded, updated illustration
+- [Record Agreements](section:record-agreements): revised text, added more details of agreements that might be recorded, updated illustration
 
 
 ### Changes 2019-12-22
@@ -25,7 +33,7 @@
 
 ### Changes 2019-06-27
 
-- [Objection](section:objection): further refined definition of objection, and updated the glossary term for [objection](glossary:objection) accordingly
+- _Objection_: further refined definition of objection, and updated the glossary term for [objection](glossary:objection) accordingly
 - replaced "action" with activity in a few places where it made more sense
 - fixed a few typos
 
@@ -37,7 +45,7 @@
 - [Describe Deliverables](section:describe-deliverables): added User Stories as an example for describing deliverables
 - [Double-Linked Hierarchy](section:double-linked-hierarchy): revised summary
 - [Delegate Circle](section:delegate-circle): refined summary
-- [Objection](section:objection): refined definition of objection and concern, added illustration for a process to qualify an objection
+- _Objection_: refined definition of objection and concern, added illustration for a process to qualify an objection
 - [Proposal Forming](section:proposal-forming): added missing process illustration
 - [Role Selection](section:role-selection): small amendment to illustration
 - [Transparent Salary](section:transparent-salary): explained what a salary formula is
@@ -68,7 +76,7 @@
 
 **Changes to Patterns:**
 
-- [Agreement](section:agreement): description now mentions that any expectations should be recorded
+- [Agreement](section:record-agreements): description now mentions that any expectations should be recorded
 - [Describe Deliverables](section:describe-deliverables): updated summary
 - [Describe Organizational Drivers](section:oescribe-organizational-drivers): more information on summarizing drivers
 - [Resolve Objections](section:resolve-objections): added summary and description
@@ -103,7 +111,7 @@
 - [Agree on Values](section:agree-on-values): improved description
 - [Align Flow](section:align-flow): improved description and illustration
 - [Adapt Patterns To Context](section:adapt-patterns-to-context): improved description
-- [Agreement](section:agreement): improved description, updated template
+- [Agreement](section:record-agreements): improved description, updated template
 - [Artful Participation](section:artful-participation): improved summary
 - [Clarify Intended Outcome](section:clarify-intended-outcome) (renamed from _Intended Outcome_): improved description
 - [Consent Decision Making](section:consent-decision-making): improved description, updated illustration
@@ -126,7 +134,7 @@
 - [Linking](section:linking): aligned description to [Double Linking](section:double-linking)
 - [Logbook](section:logbook): clarified that there is no difference between logbooks for groups and logbooks for roles
 - [Navigate Via Tension](section:navigate-via-tension): improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
-- [Objection](section:objection): clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
+- _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
 - [Open Domain](section:open-domain): improved description and updated illustration
 - [Open Systems](section:open-systems): improved description
 - [Open Space for Change](section:open-space-for-change): renamed from _Open S3 Adoption_, improved description

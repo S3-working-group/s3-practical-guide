@@ -16,23 +16,22 @@ content:
         slug: history
       - title: Why Sociocracy 3.0?
         slug: why-s3
-      - title: Basic Concepts
-        slug: basic-concepts
+      - title: Patterns and the Seven Principles
+        slug: patterns-and-principles
       - title: Patterns
         slug: patterns
       - title: Principles
         slug: principles
-      - title: Making Sense of Organizations
+      - title: Key Concepts for Making Sense of Organizations
         slug: making-sense-of-organizations
-      - title: Driver
+      - title: Drivers
         slug: driver
-      - title: Domain
+      - title: Domains
         slug: domain
-      - title: Objection
+      - title: Objections
         slug: objection
-      - title: Agreement
-        slug: agreement      
-
+      - title: Agreements
+        slug: agreement
       - title: Governance
         slug: governance  
 

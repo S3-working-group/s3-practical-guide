@@ -14,7 +14,7 @@ title: "Continuous Improvement Of Work Process"
 
 ### Waste And Continuous Improvement
 
-_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response of a driver._
+_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
 
 Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
 

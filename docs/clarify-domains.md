@@ -3,13 +3,13 @@ title: "Clarify Domains"
 ---
 
 
-**A clear understanding of people's area of accountability and autonomy enables greater efficiency, effective collaboration and agility throughout an organization.**
+**A clear understanding of people's area of responsibility and autonomy enables greater efficiency, effective collaboration and agility throughout an organization.**
 
 A simple way to clarify <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> is with a **domain description** that contains:
 
 -   <dfn data-info="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</dfn> (the **organizational need** the domain is designed to respond to)
 -   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
--   **constraints to the autonomy and influence** of those the domain is <dfn data-info="Delegation: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.">delegated</dfn> to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the <dfn data-info="Delegator: An individual or group delegating a domain to other(s) to be accountable for.">delegator</dfn>, reporting etc.)
+-   **constraints to the autonomy and influence** of those the domain is <dfn data-info="Delegation: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.">delegated</dfn> to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn>, reporting etc.)
 -   **resources** (time, money, facilities, privileges, tools)
 -   **evaluation criteria** and frequency of evaluation
 -   term (for a role)

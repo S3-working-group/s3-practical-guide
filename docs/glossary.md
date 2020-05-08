@@ -20,7 +20,7 @@ title: Glossary
 
 **Complexity:** An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 
-**Concern:** An assumption – or optinion – that doing something (even in the absence of objections) *might* stand in the way of (more) effective response to an organizational driver.
+**Concern:** An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
 
 **Consent (principle):** Raise, seek out and resolve objections to decisions and actions.
 
@@ -30,11 +30,11 @@ title: Glossary
 
 **Coordination:** The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
 
-**Delegatee:** An individual or group accepting accountability for a domain delegated to them.
+**Delegatee:** An individual or group accepting responsibility for a domain delegated to them.
 
 **Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
 
-**Delegator:** An individual or group delegating a domain to other(s) to be accountable for.
+**Delegator:** An individual or group delegating responsibility for a domain to other(s).
 
 **Deliverable:** A product, service, component or material provided in response to an organizational driver.
 
@@ -80,7 +80,7 @@ title: Glossary
 
 **Organizational Driver:** A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
 
-**Pattern:** A template for successfully navigating a specific context.
+**Pattern:** A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.
 
 **Peer Domain:** Two peer domains are contained within the same immediate superdomain, and may be overlapping.
 
@@ -124,5 +124,5 @@ title: Glossary
 
 **Values:** Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.
 
-**Waste:** Anything unnecessary for — or standing in the way of — a (more) effective response of a driver.
+**Waste:** Anything unnecessary for — or standing in the way of — a (more) effective response to a driver.
 

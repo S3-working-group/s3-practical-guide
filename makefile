@@ -34,19 +34,19 @@ site:
 
 	# split introduction into intro and concepts/principles
 	awk '{print >out}; /<!-- split here -->/{out="$(DOCS_TMP)/concepts-and-principles-content.md"}' out=$(DOCS_TMP)/introduction-content.md docs/introduction.md
-	$(MKTPL) templates/docs/introduction.md $(DOCS_TMP)/intro_tmpl.md $(LOC) $(PRJ)
+	$(MKTPL) templates/website/introduction.md $(DOCS_TMP)/intro_tmpl.md $(LOC) $(PRJ)
 	cd $(DOCS_TMP); multimarkdown --to=mmd --output=../../docs/introduction.md intro_tmpl.md
-	$(MKTPL) templates/docs/concepts-and-principles.md $(DOCS_TMP)/concepts_tmpl.md $(LOC) $(PRJ)
+	$(MKTPL) content/website/_templates/concepts-and-principles.md $(DOCS_TMP)/concepts_tmpl.md $(LOC) $(PRJ)
 	cd $(DOCS_TMP); multimarkdown --to=mmd --output=../../docs/concepts-and-principles.md concepts_tmpl.md
 	
 	# prepare templates
-	$(MKTPL) templates/docs/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
-	$(MKTPL) templates/docs/_layouts/plain.html docs/_layouts/plain.html $(LOC) $(PRJ)
-	$(MKTPL) templates/docs/_config.yml docs/_config.yml $(LOC) $(PRJ)
-	$(MKTPL) templates/docs/CNAME docs/CNAME $(LOC) $(PRJ)
+	$(MKTPL) templates/website/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
+	$(MKTPL) templates/website/_layouts/plain.html docs/_layouts/plain.html $(LOC) $(PRJ)
+	$(MKTPL) templates/website/_config.yml docs/_config.yml $(LOC) $(PRJ)
+	$(MKTPL) templates/website/CNAME docs/CNAME $(LOC) $(PRJ)
 	$(MKTPL) content/website/_includes/footer.html docs/_includes/footer.html $(LOC) $(PRJ)
-	cp templates/docs/map.md docs/map.md
-	$(MKTPL)  templates/docs/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
+	cp templates/website/map.md docs/map.md
+	$(MKTPL)  templates/website/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
 	cp content/website/_includes/header.html docs/_includes/header.html
 
 	# build the site
@@ -107,7 +107,11 @@ ebook:
 
 	cd $(EBOOK_TMP); multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	cd $(EBOOK_TMP); latexmk -pdf -xelatex -silent ebook.tex 
-	cd $(EBOOK_TMP); mv ebook.pdf ../../$(TARGETFILE).pdf
+
+	# merge with cover
+	cd $(EBOOK_TMP); gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf ../../templates/ebook-cover.pdf ebook.pdf
+
+	cd $(EBOOK_TMP); mv merged.pdf ../../$(TARGETFILE).pdf
 	
 	# clean up
 	cd $(EBOOK_TMP); latexmk -C
@@ -147,10 +151,11 @@ setup:
 	-mkdir docs/_site
 
 	# images for ebook
-ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
-	rm -r $(EBOOK_TMP)/img
-endif
-	cp -r img $(EBOOK_TMP)/img
+# ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
+# 	rm -r $(EBOOK_TMP)/img
+# endif
+# 	cp -r img $(EBOOK_TMP)/img
+# 	cp templates/covers/* $(EBOOK_TMP)/img
 
 	# images for supporter epub
 ifneq ("$(wildcard $(TMPSUP)/img)","")
