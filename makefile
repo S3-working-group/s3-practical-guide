@@ -46,8 +46,16 @@ site:
 	$(MKTPL) templates/website/CNAME docs/CNAME $(LOC) $(PRJ)
 	$(MKTPL) content/website/_includes/footer.html docs/_includes/footer.html $(LOC) $(PRJ)
 	cp templates/website/map.md docs/map.md
-	$(MKTPL)  templates/website/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
+	$(MKTPL) templates/website/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
 	cp content/website/_includes/header.html docs/_includes/header.html
+	cp content/website/_templates/404.md docs/404.md
+
+	# build the single page version
+	$(MKTPL) templates/single-page--master.md $(EBOOK_TMP)/single-page--master.md $(LOC) $(PRJ)
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) $(EBOOK_TMP)/ --glossary=$(GLOSSARY)
+	# transclude all to one file 
+	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
 
 	# build the site
 	cd docs;jekyll build
@@ -116,16 +124,6 @@ ebook:
 	# clean up
 	cd $(EBOOK_TMP); latexmk -C
 
-single:
-	$(update-make-conf)
-
-	$(MKTPL) templates/single-page--master.md $(EBOOK_TMP)/single-page--master.md $(LOC) $(PRJ)
-
-	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) $(EBOOK_TMP)/ --glossary=$(GLOSSARY)
-	# transclude all to one file 
-	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
-
 gitbook:
 	mdslides build gitbook $(CONFIG) $(SOURCE) gitbook/ --glossary=$(GLOSSARY)
 
@@ -150,12 +148,8 @@ setup:
 	-mkdir -p $(TMPSUP)
 	-mkdir docs/_site
 
-	# images for ebook
-# ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
-# 	rm -r $(EBOOK_TMP)/img
-# endif
-# 	cp -r img $(EBOOK_TMP)/img
-# 	cp templates/covers/* $(EBOOK_TMP)/img
+	# update version number in content
+	$(MKTPL) templates/version.txt content/version.txt $(LOC) $(PRJ)
 
 	# images for supporter epub
 ifneq ("$(wildcard $(TMPSUP)/img)","")
@@ -163,7 +157,6 @@ ifneq ("$(wildcard $(TMPSUP)/img)","")
 	rm -r $(TMPSUP)/img
 endif 
 	cp -r img $(TMPSUP)/img
-
 
 	# clean up and copy images do to docs folder
 ifneq ("$(wildcard docs/img)","")
