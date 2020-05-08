@@ -107,7 +107,11 @@ ebook:
 
 	cd $(EBOOK_TMP); multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	cd $(EBOOK_TMP); latexmk -pdf -xelatex -silent ebook.tex 
-	cd $(EBOOK_TMP); mv ebook.pdf ../../$(TARGETFILE).pdf
+
+	# merge with cover
+	cd $(EBOOK_TMP); gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf ../../templates/ebook-cover.pdf ebook.pdf
+
+	cd $(EBOOK_TMP); mv merged.pdf ../../$(TARGETFILE).pdf
 	
 	# clean up
 	cd $(EBOOK_TMP); latexmk -C
@@ -147,10 +151,11 @@ setup:
 	-mkdir docs/_site
 
 	# images for ebook
-ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
-	rm -r $(EBOOK_TMP)/img
-endif
-	cp -r img $(EBOOK_TMP)/img
+# ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
+# 	rm -r $(EBOOK_TMP)/img
+# endif
+# 	cp -r img $(EBOOK_TMP)/img
+# 	cp templates/covers/* $(EBOOK_TMP)/img
 
 	# images for supporter epub
 ifneq ("$(wildcard $(TMPSUP)/img)","")
