@@ -1,7 +1,6 @@
-
+# clean everything, then build the site, the epub and the pdf
 make clean
 make setup
 make site
-make single
 make epub
 make ebook
