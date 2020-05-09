@@ -5,7 +5,7 @@
 
 - revised all illustrations for a more consistent style and increased readability
 - revised introduction: more explanation about patterns and core concepts
-- updated glossary: delegator, delegatee and pattern
+- updated glossary: revised explanation of [Delegator](glossary:delegator), [Delegatee](glossary:delegatee), [Role](glossary:role) and [Pattern](glossary:pattern), added [Role Keeper](glossary:role-keeper)
 
 
 ### Changes 2020-04-29

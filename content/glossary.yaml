@@ -64,7 +64,7 @@ terms:
     glossary: The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
   delegatee:
     name: Delegatee
-    glossary: An individual or group accepting responsibility for a domain delegated to them.
+    glossary: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
   delegation:
     name: Delegation
     definition: Delegation is the grant of authority over a domain by one party to another.
@@ -176,7 +176,11 @@ terms:
   role:
     name: Role
     definition:
-    glossary: A domain that is delegated to an individual.
+    glossary: A domain that is delegated to an individual, who then becomes the role keeper. 
+  role-keeper:
+    name: Role Keeper
+    definition:
+    glossary: Role Keeper: An individual taking responsibility for a role.
   scm:
     name: Sociocratic Circle-Organisation Method (SCM)
     glossary: An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
