@@ -108,6 +108,8 @@ _Delegation is the grant of authority over a domain by one party to another._
 
 Responsibility for domains is delegated to people (e.g. to a unit, department, team or individuals), who then act within its defined constraints on influence and autonomy.
 
+When a domain is delegated to a group of people, they become a team, when it’s delegated to an individual, they become a role keeper.
+
 Those delegating responsibility for a domain (the delegators) to others still retain overall accountability for that domain, allocate **resources** and often define:
 
 -   the **organizational need** the domain is designed to respond to

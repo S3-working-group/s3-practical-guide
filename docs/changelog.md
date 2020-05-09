@@ -8,7 +8,7 @@ title: "Changelog"
 
 - revised all illustrations for a more consistent style and increased readability
 - revised introduction: more explanation about patterns and core concepts
-- updated glossary: delegator, delegatee and pattern
+- updated glossary: revised explanation of <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">Delegator</dfn>, <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">Delegatee</dfn>, <dfn data-info="Role: A domain that is delegated to an individual, who then becomes the role keeper.">Role</dfn> and <dfn data-info="Pattern: A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.">Pattern</dfn>, added <dfn data-info="Role Keeper: An individual taking responsibility for a role.">Role Keeper</dfn>
 
 
 ### Changes 2020-04-29

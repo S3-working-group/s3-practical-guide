@@ -30,7 +30,7 @@ title: Glossary
 
 **Coordination:** The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
 
-**Delegatee:** An individual or group accepting responsibility for a domain delegated to them.
+**Delegatee:** An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
 
 **Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
 
@@ -88,7 +88,9 @@ title: Glossary
 
 **Principle:** A basic idea or rule that guides behavior, or explains or controls how something happens or works.
 
-**Role:** A domain that is delegated to an individual.
+**Role:** A domain that is delegated to an individual, who then becomes the role keeper.
+
+**Role Keeper:** An individual taking responsibility for a role.
 
 **Self-Governance:** People governing themselves within the constraints of a domain.
 

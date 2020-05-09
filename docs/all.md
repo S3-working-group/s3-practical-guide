@@ -249,6 +249,8 @@ _Delegation is the grant of authority over a domain by one party to another._
 
 Responsibility for domains is delegated to people (e.g. to a unit, department, team or individuals), who then act within its defined constraints on influence and autonomy.
 
+When a domain is delegated to a group of people, they become a team, when it’s delegated to an individual, they become a role keeper.
+
 Those delegating responsibility for a domain (the delegators) to others still retain overall accountability for that domain, allocate **resources** and often define:
 
 -   the **organizational need** the domain is designed to respond to
@@ -1959,7 +1961,7 @@ The second and third tier:
 
 - revised all illustrations for a more consistent style and increased readability
 - revised introduction: more explanation about patterns and core concepts
-- updated glossary: delegator, delegatee and pattern
+- updated glossary: revised explanation of Delegator, Delegatee, Role and Pattern, added Role Keeper
 
 
 ### Changes 2020-04-29
@@ -2378,7 +2380,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Coordination:** The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
 
 
-**Delegatee:** An individual or group accepting responsibility for a domain delegated to them.
+**Delegatee:** An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
 
 
 **Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
@@ -2465,7 +2467,10 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Principle:** A basic idea or rule that guides behavior, or explains or controls how something happens or works.
 
 
-**Role:** A domain that is delegated to an individual.
+**Role:** A domain that is delegated to an individual, who then becomes the role keeper.
+
+
+**Role Keeper:** An individual taking responsibility for a role.
 
 
 **Self-Governance:** People governing themselves within the constraints of a domain.

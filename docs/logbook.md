@@ -17,10 +17,10 @@ Content relating to the whole organization:
 -   organizational structure (<dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> and the connections between them)
 -   <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> 
 
-Content relating to a specific team or <dfn data-info="Role: A domain that is delegated to an individual.">role</dfn>: 
+Content relating to a specific team or <dfn data-info="Role: A domain that is delegated to an individual, who then becomes the role keeper.">role</dfn>: 
 
 -   the domain description and strategy
--   agreements (including <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them.">delegatees'</dfn> domain descriptions, strategies and [development plans](development-plan.html))
+-   agreements (including <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatees'</dfn> domain descriptions, strategies and [development plans](development-plan.html))
 -   <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlogs</dfn> and other information relating to work and <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn>
 
 
