@@ -168,33 +168,3 @@ ifneq ("$(wildcard gitbook/img)","")
 	# rm -r gitbook/img
 endif
 	# cp -r img gitbook/img
-
-# --- legacy commands ----
-
-deckset-:
-	$(update-make-conf)
-
-	# build deckset presentation and add pattern index
-	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=img --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	
-	$(MKTPL) templates/deckset-template.md $(TMPFOLDER)/deckset-template.md $(LOC) $(PRJ)
-	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=$(TMPFOLDER)/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
-	# append pattern-index
-	mdslides index deckset $(CONFIG) $(TARGETFILE).md --append
-
-revealjs-:
-	$(update-make-conf)
-
-	$(MKTPL) templates/revealjs-template.html $(TMPFOLDER)/revealjs-template.html $(LOC) $(PRJ)
-
-	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=text --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build revealjs $(CONFIG) $(TMPFOLDER) docs/slides.html --template=$(TMPFOLDER)/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
-
-wordpress-:
-	# join each pattern group into one md file to be used in wordpress
-	$(update-make-conf)
-ifeq ("$(wildcard $(TMPFOLDER)/web-out)","")
-	mkdir $(TMPFOLDER)/web-out
-endif 
-	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=none --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build wordpress $(CONFIG) $(TMPFOLDER) $(TMPFOLDER)/web-out/ --footer=templates/wordpress-footer.md  --glossary=$(GLOSSARY)
