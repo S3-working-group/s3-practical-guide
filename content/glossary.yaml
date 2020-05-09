@@ -180,7 +180,7 @@ terms:
   role-keeper:
     name: Role Keeper
     definition:
-    glossary: Role Keeper: An individual taking responsibility for a role.
+    glossary: An individual taking responsibility for a role.
   scm:
     name: Sociocratic Circle-Organisation Method (SCM)
     glossary: An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
