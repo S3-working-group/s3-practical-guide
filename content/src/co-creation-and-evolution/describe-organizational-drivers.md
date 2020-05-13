@@ -1,6 +1,8 @@
 ## Describe Organizational Drivers
 
+<summary>
 **Describe organizational drivers to understand, communicate and remember them.**
+</summary>
 
 Describing [drivers](glossary:organizational-driver) may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
