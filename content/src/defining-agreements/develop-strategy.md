@@ -1,6 +1,8 @@
 ## Develop Strategy
 
+<summary>
 {{define:strategy}}
+</summary>
 
 It is usually more effective if a team or role keeper lead in developing their own strategy.
 

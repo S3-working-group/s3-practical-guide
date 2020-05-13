@@ -1,6 +1,8 @@
 ## Retrospective
 
+<summary>
 **Dedicate time to reflect on past experience, learn, and decide how to improve work process.**
+</summary>
 
 -   output: changes to work process, new tasks, on-the-fly [agreements](glossary:agreement), and [drivers](glossary:organizational-driver) requiring an agreement
 -   facilitated meeting (~1hr)

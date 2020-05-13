@@ -1,6 +1,8 @@
 ## Continuous Improvement Of Work Process
 
+<summary>
 **Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.**
+</summary>
 
 -   introduce the principle of consent and [Navigate Via Tension](section:navigate-via-tension) to evolve work process in a team
 -   consider selecting a facilitator to guide group processes, and choosing values to guide behavior

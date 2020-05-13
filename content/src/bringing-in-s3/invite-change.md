@@ -1,6 +1,8 @@
 ## Invite Change
 
+<summary>
 **Clarify the reason for change and invite people to participate.**
+</summary>
 
 Inviting rather than imposing change helps reduce resistance and enables people to choose for themselves.
 

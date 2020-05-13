@@ -3,7 +3,6 @@ title: "Role Selection"
 ---
 
 
-
 **A group process for selecting a person for a role on the strength of the reason.**
 
 Instead of simply assigning people for [roles](role.html), or making a choice based only on majority, use the role selection process to:

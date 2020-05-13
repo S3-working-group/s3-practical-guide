@@ -1,6 +1,8 @@
 ## Record Agreements
 
+<summary>
 **Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.**
+</summary>
 
 {{define:agreement}}
 

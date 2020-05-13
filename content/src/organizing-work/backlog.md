@@ -1,6 +1,8 @@
 ## Backlog
 
+<summary>
 {{define:backlog}}
+</summary>
 
 Consider making backlogs visible, not only to other members of a team, but also to the wider organization.
 

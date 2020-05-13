@@ -1,6 +1,8 @@
 ## Circle
 
+<summary>
 {{define:circle}}
+</summary>
 
 A circle:
 

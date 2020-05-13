@@ -1,6 +1,8 @@
 ## Daily Standup
 
+<summary>
 **Meet daily to organize work, facilitate learning and improve your productivity and effectiveness.**
+</summary>
 
 -   [timeboxed](glossary:timebox) (usually 15 minutes)
 -   held daily at the same time

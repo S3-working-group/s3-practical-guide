@@ -1,6 +1,8 @@
 ## Align Flow
 
+<summary>
 **In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.**
+</summary>
 
 **Flow of value:** {{glossary:flow-of-value}}
 

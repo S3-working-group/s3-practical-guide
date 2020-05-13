@@ -1,6 +1,8 @@
 ## Support Role
 
+<summary>
 **Apply the role pattern to external contractors.**
+</summary>
 
 -   clarify and describe the [driver](glossary:organizational-driver) for the [role](section:role)
 -   create a [domain description](section:clarify-domains)

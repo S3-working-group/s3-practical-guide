@@ -3,7 +3,6 @@ title: "Peer Review"
 ---
 
 
-
 **Support each other to learn and grow in the roles and teams you serve in.**
 
 The role keeper — or team — leads the peer review by setting up the process and speaking first in each step.

@@ -3,7 +3,6 @@ title: "Agree On Values"
 ---
 
 
-
 **Intentionally evolve the culture in your organization.**
 
 _**Values** are valued principles that guide behavior. Values define scope for action and ethical constraints._

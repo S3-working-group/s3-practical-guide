@@ -1,6 +1,8 @@
 ## Helping Team
 
+<summary>
 **Bring together a team of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.**
+</summary>
 
 A helping team: 
 
