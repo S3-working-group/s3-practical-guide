@@ -1,6 +1,8 @@
 ## Evaluate Meetings
 
+<summary>
 **Take time for learning at the end of each meeting or workshop.**
+</summary>
 
 Reflect on interactions, celebrate successes and share suggestions for improvement before closing the meeting.
 

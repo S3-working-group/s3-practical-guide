@@ -1,6 +1,8 @@
 ## Peach Organization
 
+<summary>
 **Deliver value in complex and competitive environments through _decentralization_ (of resources and influence) and _direct interaction_ between those creating value and the customers they serve.**
+</summary>
 
 Teams in the periphery:
 

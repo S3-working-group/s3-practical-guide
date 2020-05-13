@@ -1,6 +1,8 @@
 ## Prepare For Meetings
 
+<summary>
 **Prepare in advance to make meetings more effective.**
+</summary>
 
 Some considerations for successfully preparing a meeting:
 

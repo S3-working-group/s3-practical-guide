@@ -1,6 +1,8 @@
 ## Clarify Domains
 
+<summary>
 **A clear understanding of people's area of responsibility and autonomy enables greater efficiency, effective collaboration and agility throughout an organization.**
+</summary>
 
 A simple way to clarify [domains](glossary:domain) is with a **domain description** that contains:
 

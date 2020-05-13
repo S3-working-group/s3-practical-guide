@@ -1,6 +1,8 @@
 ## Governance Backlog
 
+<summary>
 {{define:governance-backlog}}
+</summary>
 
 A governance backlog contains:
 

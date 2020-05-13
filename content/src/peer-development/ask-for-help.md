@@ -1,6 +1,8 @@
 ## Ask For Help
 
+<summary>
 **A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.**
+</summary>
 
 Ask someone, "_would you be willing to help me with ..._?" The person asked accepts or declines with a simple "_yes_" or "_no_".
 

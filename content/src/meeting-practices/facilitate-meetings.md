@@ -1,6 +1,8 @@
 ## Facilitate Meetings
 
+<summary>
 **Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track and draw out the participant's creativity and wisdom.**
+</summary>
 
 Before each meeting, prepare an agenda of topics, and select a facilitator to:
 
