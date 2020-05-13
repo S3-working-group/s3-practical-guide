@@ -492,7 +492,6 @@ Helpful questions for a review include:
 
 ###  Pattern 1.4: Consent Decision Making
 
-
 **A (facilitated) group process for decision making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
 
 Proposals become agreements when they are considered _good enough for now and safe enough to try_ until the next review.
@@ -510,7 +509,6 @@ Withholding objections can harm the objectives of a team or organization.
 
 
 ###  Pattern 1.5: Test Arguments Qualify as Objections
-
 
 **Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.**
 
@@ -557,7 +555,6 @@ Typically it's most effective to **take one objection at a time**, resolve all o
 
 
 ###  Pattern 1.7: Evaluate And Evolve Agreements
-
 
 **Continuously evolve the body of agreements, and eliminate waste.**
 
@@ -635,7 +632,6 @@ Besides in a face-to-face workshop, you can adapt this process for online meetin
 
 ###  Pattern 1.10: Proposal Forming
 
-
 **A (facilitated) group process for co-creating a response to a driver.**
 
 -   draws on the collective intelligence and diversity of perspective within a group
@@ -675,7 +671,6 @@ Between two and three tuners is usually appropriate. Check for any objections to
 
 
 ###  Pattern 1.11: Role Selection
-
 
 **A group process for selecting a person for a role on the strength of the reason.**
 
@@ -754,7 +749,6 @@ Considerations:
 
 ###  Pattern 2.3: Peer Review
 
-
 **Support each other to learn and grow in the roles and teams you serve in.**
 
 The role keeper — or team — leads the peer review by setting up the process and speaking first in each step.
@@ -829,7 +823,6 @@ Artful participation:
 
 ###  Pattern 3.2: Adopt The Seven Principles
 
-
 **Align collaboration with the Seven Principles.**
 
 Adopting the Seven Principles reduces the number of explicit agreements required, and guides adaptation of S3 patterns to suit the organization's context.
@@ -842,7 +835,6 @@ An organization's values need to embrace the Seven Principles.
 
 
 ###  Pattern 3.3: Agree On Values
-
 
 **Intentionally evolve the culture in your organization.**
 
@@ -1138,7 +1130,6 @@ Members of the helping team:
 
 
 ###  Pattern 4.8: Open Domain
-
 
 **Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.**
 
@@ -1849,7 +1840,6 @@ A service circle can be populated by members of the domains it serves, and/or by
 
 ###  Pattern 10.2: Delegate Circle
 
-
 **Delegate making governance decisions affecting multiple domains to representatives selected by those domains.**
 
 To make governance decisions on their behalf, stakeholders send _representatives_ to form a delegate circle.
@@ -1910,7 +1900,7 @@ A double-linked hierarchy:
 
 ###  Pattern 10.6: Fractal Organization
 
-**Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy)**.
+**Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).**
 
 Creating a fractal organization can enable a large network to rapidly respond to changing contexts. 
 

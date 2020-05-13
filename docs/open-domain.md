@@ -3,7 +3,6 @@ title: "Open Domain"
 ---
 
 
-
 **Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.**
 
 The <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn> of the open domain clarifies:

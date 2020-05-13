@@ -3,7 +3,6 @@ title: "Evaluate And Evolve Agreements"
 ---
 
 
-
 **Continuously evolve the body of agreements, and eliminate waste.**
 
 Regular review of agreements is an essential practice for a learning organization:
