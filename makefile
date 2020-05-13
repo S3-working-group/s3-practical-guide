@@ -148,6 +148,13 @@ setup:
 	-mkdir -p $(TMPSUP)
 	-mkdir docs/_site
 
+	# images for ebook
+ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
+	rm -r $(EBOOK_TMP)/img
+endif
+	cp -r img $(EBOOK_TMP)/img
+	cp templates/covers/* $(EBOOK_TMP)/img
+
 	# update version number in content
 	$(MKTPL) templates/version.txt content/version.txt $(LOC) $(PRJ)
 
