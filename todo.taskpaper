@@ -4,6 +4,51 @@ Content:
 	- explanation for making sense of orgs (see intro for ideas) @later @done
 	- expand all seven principles! @later
 	- why s3 is not very simple to understand for people unfamiliar with SCM @later
+
+Link between language versions:
+	Images are broken in epub:
+		fix config.ebook.tex and makefile
+		- fix English epub build
+		- fix Dutch epub build
+		- fix French epub build
+		- fix German epub build
+Pattern Summaries, Tags, Dynamic Pattern Map:
+	Pattern Summaries:
+		We want  pattern summaries to show up in the alphabetical list of patterns.
+		- tag all summaries with <summary> </summary> @done
+		- expand mdtools @done
+			- collect summaries @done
+			- expand definitions @done
+			- add to in-memory database @done
+			- dump to pattern index (maybe as definition list?) @done
+			- adapt CSS accordingly @done
+			- make sure all other renderers swallow the summary tag @done
+		Dynamic Pattern map:
+			- use memory structure to render a clickable pattern map that contains summaries on mouserover
+			- add a filter (like on omnijs page) to search and filter for panels
+				- what happens to pattern groups, do they just disappear when the first letter is typed??
+		Index with pattern and glossary:
+			- create a new index file that contains both
+			- make a filter that hides one or the other 
+		Full Index: @later
+			Create an alphabetical index that can be filtered by pattern, group, concept and glossary
+			- decide how to handle translation of tag names
+				<metadata tags="pattern csf-coherence-key" />
+				<tags tags="Foo | Bar  Baz" />
+				<tags>Pattern | Building Organizations | Patterns for Managers | Coherence (Key Pattern) | Purpose (related pattern)</tags>
+				<tag tag="pattern"/> <tag tag="csf-coherence-key" />
+				<tags list="pattern csf-coherence-key" />
+				<tags>
+					<tag:pattern />
+					<tag:csf-coherence-key />
+				</tags>
+				- generate translatable file that maps them?
+				- derive tag slug from tag name and autodetect collission?
+				
+			- add finding tags to mdtools: <tags
+			- 
+			- add individual pages for each concept (with a navigation on bottom that goes back to the full concepts page?? priciples and patterns also tagged as concepts!)
+			- add tags to pages: 
 Translations:
 	- document translation process and update docs for release process
 Known Issues:
@@ -12,15 +57,6 @@ Known Issues:
 Build Process / mdtools:
 	- glossary links inside the glossary itself are not parsed correctly, add glossary links only when they are working!!
 	- add references for HTML, Epub, LaTex
-	Compile Pattern Summaries:
-		assume a summary is just one paragraph, and we don't want to change the summary's styling at all
-		- ? strip bold from summary to leave it mostly untouched????
-		- add stylesheet ot index
-		- remove ** around summaries in text?? 
-		- add to CSS:
-			- <summary> is bold ?? conflict with epub renderer???
-			- <dd> is indented
-		- for ebook: replace summary with LaTex markup
 Supporter Edition and New Introduction:
 	- bump version number
 	- upload to crowdin
@@ -41,7 +77,8 @@ Supporter Edition and New Introduction:
 		- make sure figure numbering is continuous
 		- flow text ragged left?
 		- style figure captions a little smaller (and in italics?)
-		- add title image to pdf @later
+		- add title page to PDF @done
+		- add title image to latex build @later
 			https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
 			https://tex.stackexchange.com/questions/46280/how-to-create-a-background-image-on-title-page-with-latex
 			https://www.bhalash.com/archives/13544791365
