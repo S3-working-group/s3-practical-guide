@@ -15,6 +15,7 @@ Link between language versions:
 Pattern Summaries, Tags, Dynamic Pattern Map:
 	Pattern Summaries:
 		We want  pattern summaries to show up in the alphabetical list of patterns.
+		- add summaries to pattern group pages @done
 		- tag all summaries with <summary> </summary> @done
 		- expand mdtools @done
 			- collect summaries @done
@@ -24,7 +25,7 @@ Pattern Summaries, Tags, Dynamic Pattern Map:
 			- adapt CSS accordingly @done
 			- make sure all other renderers swallow the summary tag @done
 		Dynamic Pattern map:
-			- use memory structure to render a clickable pattern map that contains summaries on mouserover
+			- render a clickable pattern map that contains summaries on mouserover
 			- add a filter (like on omnijs page) to search and filter for panels
 				- what happens to pattern groups, do they just disappear when the first letter is typed??
 		Index with pattern and glossary:
@@ -44,9 +45,7 @@ Pattern Summaries, Tags, Dynamic Pattern Map:
 				</tags>
 				- generate translatable file that maps them?
 				- derive tag slug from tag name and autodetect collission?
-				
 			- add finding tags to mdtools: <tags
-			- 
 			- add individual pages for each concept (with a navigation on bottom that goes back to the full concepts page?? priciples and patterns also tagged as concepts!)
 			- add tags to pages: 
 Translations:
