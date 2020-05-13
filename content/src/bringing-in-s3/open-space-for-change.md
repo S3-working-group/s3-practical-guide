@@ -1,6 +1,8 @@
 ## Open Space For Change
 
+<summary>
 **Invite everyone to create and run experiments for evolving the organization.**
+</summary>
 
 -   clarify the [driver](glossary:organizational-driver) for change
 -   schedule regular open space events:

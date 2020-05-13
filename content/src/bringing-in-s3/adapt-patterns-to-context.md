@@ -1,6 +1,8 @@
 ## Adapt Patterns To Context
 
+<summary>
 **Adapt and evolve S3 patterns to suit your specific context.**
+</summary>
 
 Ensure that everyone affected:
 
