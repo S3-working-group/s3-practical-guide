@@ -2,11 +2,21 @@
 title: "Focused Interactions"
 ---
 
-- [Governance Meeting](governance-meeting.html)
-- [Retrospective](retrospective.html)
-- [Daily Standup](daily-standup.html)
-- [Planning And Review Meetings](planning-and-review-meetings.html)
-- [Coordination Meeting](coordination-meeting.html)
+
+  <dt><a href="governance-meeting.html">Governance Meeting</a></dt>
+  <dd><p>Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.</p></dd>
+
+  <dt><a href="retrospective.html">Retrospective</a></dt>
+  <dd><p>Dedicate time to reflect on past experience, learn, and decide how to improve work process.</p></dd>
+
+  <dt><a href="daily-standup.html">Daily Standup</a></dt>
+  <dd><p>Meet daily to organize work, facilitate learning and improve your productivity and effectiveness.</p></dd>
+
+  <dt><a href="planning-and-review-meetings.html">Planning And Review Meetings</a></dt>
+  <dd><p>People meet at regular intervals (1-4 weeks) in timeboxed meetings to plan and review work.</p></dd>
+
+  <dt><a href="coordination-meeting.html">Coordination Meeting</a></dt>
+  <dd><p>Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.</p></dd>
 
 
 [&#9654; Governance Meeting](governance-meeting.html)<br/>[&#9664; Logbook Keeper](logbook-keeper.html)
