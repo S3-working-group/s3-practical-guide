@@ -155,9 +155,6 @@ endif
 	cp -r img $(EBOOK_TMP)/img
 	cp templates/covers/* $(EBOOK_TMP)/img
 
-	# update version number in content
-	$(MKTPL) templates/version.txt content/version.txt $(LOC) $(PRJ)
-
 	# images for supporter epub
 ifneq ("$(wildcard $(TMPSUP)/img)","")
 	# take no risk here!
