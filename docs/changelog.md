@@ -36,7 +36,7 @@ title: "Changelog"
 
 ### Changes 2019-06-27
 
-- _Objection_: further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it.">objection</dfn> accordingly
+- _Objection_: further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objection</dfn> accordingly
 - replaced "action" with activity in a few places where it made more sense
 - fixed a few typos
 

@@ -129,7 +129,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 ### Objections
 
-_An **objection** is an argument demonstrating (or revealing) how a (proposed) agreement or activity can lead to unintended consequences, or that there are worthwhile ways to improve it._
+_An **objection** is an argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve._
 
 Objections reveal information about (potential) **unintended consequences**, or about **worthwhile ways to improve**.
 
