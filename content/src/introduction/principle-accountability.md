@@ -6,6 +6,6 @@ Act within the constraints of any agreements governing domains you are accountab
 
 Every member of the organization is accountable for effectively responding to organizational drivers, both in doing the work and in ensuring (supporting) effective collaboration.
 
-Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
+Individuals are also accountable for their work, for ongoing learning and development, and for supporting one another.
 
 Everyone in an organization is accountable for aligning activity with organizational values.
