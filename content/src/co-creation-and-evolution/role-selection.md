@@ -25,7 +25,7 @@ A prerequisite to the selection process is a [clear description](section:clarify
     -   proposing a nominee themselves or asking a group member
     -   inviting (some) nominees to agree who should be proposed
     -   inviting group dialogue to help reveal the strongest nominee
-7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an [objection](glossary:objection). 
+7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an [objection](glossary:objection).
 8. **Address and Resolve Objections,** beginning with any from the proposed nominee. [Objections may be resolved](section:resolve-objections) in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
 9. **Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
 

@@ -12,7 +12,7 @@ _Proposal Forming_ may also be used by an individual.
 
 ### Proposal Forming Steps
 
-**Consent to driver:** Briefly present the [driver](glossary:organizational-driver). _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_ 
+**Consent to driver:** Briefly present the [driver](glossary:organizational-driver). _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_
 
 **Deepen shared understanding of driver:** invite essential questions to understand the driver in more detail.
 
@@ -28,7 +28,7 @@ _Proposal Forming_ may also be used by an individual.
 
 ### Choosing Tuners
 
-Consider: 
+Consider:
 
 -   who should be there?
 -   who wants to be there?

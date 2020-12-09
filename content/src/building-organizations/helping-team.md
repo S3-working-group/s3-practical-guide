@@ -4,7 +4,7 @@
 **Bring together a team of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.**
 </summary>
 
-A helping team: 
+A helping team:
 
 -   is a way for a [delegator](glossary:delegator) to expand their capacity
 -   may be self-organizing, or guided by a [coordinator](section:coordinator) chosen by the delegator

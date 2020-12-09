@@ -37,4 +37,4 @@ Harness a diversity of perspectives and be open to challenge your own, to discov
 
 In [Consent Decision Making](section:consent-decision-making), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation). Bring up concerns if you think it’s valuable to consider them, and at least record them along with the agreement, and monitor outcomes over time.
 
-If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)). 
+If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)).

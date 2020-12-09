@@ -8,19 +8,19 @@ While a decision of short-term consequence can easily be amended on the spot, ma
 
 Such agreements need to be documented, both to remember them and to support effective [review](section:evaluate-and-evolve-agreements), and to be communicated to people affected (who are ideally also [involved in the creation and evolution](section:those-affected-decide) of those agreements).
 
-Therefore it's valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations: 
+Therefore it's valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations:
 
 {{define:governance}}
 
 {{define:operations}}
 
-For each domain in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value. 
+For each domain in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
 
 There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a team lead, and sometimes it's a group of people, e.g. in a circle where all circle members share responsibility for governance within the constraints of the domain.
 
 **Governance decisions** set constraints on activity and guide future decisions.
 
-This includes: 
+This includes:
 
 -   defining domains
 -   delegating influence to people

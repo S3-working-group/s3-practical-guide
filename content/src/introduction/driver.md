@@ -2,7 +2,7 @@
 
 {{define:driver}}
 
-Drivers: 
+Drivers:
 
 -   can be used to derive goals, objectives, aims, mission, vision, purpose
 -   can change over time

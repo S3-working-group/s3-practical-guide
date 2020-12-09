@@ -6,4 +6,4 @@
 
 Prioritize pending work items to ensure that important items are worked on first.
 
-Pulling in work prevents overloading the system, especially when [work in progress (WIP) per person or team is limited](section:limit-work-in-progress). 
+Pulling in work prevents overloading the system, especially when [work in progress (WIP) per person or team is limited](section:limit-work-in-progress).

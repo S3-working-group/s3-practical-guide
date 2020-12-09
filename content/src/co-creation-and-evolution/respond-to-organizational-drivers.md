@@ -7,7 +7,7 @@
 Responses to [organizational drivers](glossary:organizational-driver) include:
 
 - direct action ([operations](glossary:operations))
-- organizing how work will be done 
+- organizing how work will be done
 - making governance decisions
 
 The response to an organizational driver is typically treated as an experiment that is evaluated and evolved over time.

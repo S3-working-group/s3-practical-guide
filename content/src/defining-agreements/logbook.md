@@ -10,13 +10,13 @@ Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.or
 
 ### Logbook Contents
 
-Content relating to the whole organization: 
+Content relating to the whole organization:
 
 -   [primary driver](glossary:primary-driver), [strategy](glossary:strategy) and organizational [values](glossary:values)
 -   organizational structure ([domains](glossary:domain) and the connections between them)
--   [agreements](glossary:agreement) 
+-   [agreements](glossary:agreement)
 
-Content relating to a specific team or [role](glossary:role): 
+Content relating to a specific team or [role](glossary:role):
 
 -   the domain description and strategy
 -   agreements (including [delegatees'](glossary:delegatee) domain descriptions, strategies and [development plans](section:development-plan))

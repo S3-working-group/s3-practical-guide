@@ -30,7 +30,7 @@ Artful participation:
 
 ### Artful Participation: Self-Assessment
 
--   How can I support myself and others to participate more artfully? 
+-   How can I support myself and others to participate more artfully?
 -   Where are my interactions with others unhelpful or ineffective?
 -   Which agreements do I find hard to keep? What can I do to address this?
 -   What skills can I develop, that would support me to participate more artfully?
