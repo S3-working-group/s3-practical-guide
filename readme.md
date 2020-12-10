@@ -7,6 +7,19 @@ This repository contains the source files for the book _A Practical Guide for Ev
 
 German, Hebrew and French versions also exist and are also available via [sociocracy30.org/guide/](http://sociocracy30.org/guide/). If you want to help with translations into your language, please take a look at the [translations page](http://sociocracy30.org/translations/).
 
+## Contribution Policy
+
+This repository serves several main purposes:
+
+- as a means of making all content available to people who want to build on it in simple and open file formats
+- as a means of deploying the practical guide in its various forms
+- as a means of making the text easily accessible for translations
+- as a means of making changes to the practical guide transparent
+
+The actual content of the practical guide is being developed outside of this repository by Lili David, James Priest and Bernhard Bockelbrink, and only pushed to that repository after 
+
+If you want to contribute towards the improvement of the Practical Guide, we have set up [a dedicated page](https://sociocracy30.org/ways-of-contributing-to-the-development-of-s3/ that explains how to notify us about typos and corrections, how to raise technical issues and how to suggest more significant updates to the content). Please note that we can't promise picking up github issues on a regular basis, and due to the nature of our development process, and we can't guarantee that we will accept any pull requests.
+
 ## Project Structure
 
 - `content`: all the files that are uploaded to Crowdin for translation (or downloaded from crowdin to the translated repositories)
