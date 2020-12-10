@@ -1,5 +1,5 @@
 ---
-title: "Acknowledgments "
+title: "Acknowledgments"
 ---
 
 

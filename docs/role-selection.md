@@ -26,7 +26,7 @@ A prerequisite to the selection process is a [clear description](clarify-domains
     -   proposing a nominee themselves or asking a group member
     -   inviting (some) nominees to agree who should be proposed
     -   inviting group dialogue to help reveal the strongest nominee
-7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objection</dfn>. 
+7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objection</dfn>.
 8. **Address and Resolve Objections,** beginning with any from the proposed nominee. [Objections may be resolved](resolve-objections.html) in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
 9. **Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
 

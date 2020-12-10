@@ -16,11 +16,11 @@ A simple way to describe a driver is by explaining:
     -   the **need** of the organization in relation to this situation
     -   the **impact** of attending to that need
 
-Create a brief but comprehensive summary containing just enough information to clearly communicate the need for an action or a decision. 
+Create a brief but comprehensive summary containing just enough information to clearly communicate the need for an action or a decision.
 
 ![Describe Organizational Drivers](img/process/describe-organizational-drivers.png)
 
-### Example: 
+### Example:
 
 > _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes and it's not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work."_
 
@@ -39,9 +39,9 @@ Describe the current situation:
 
 Explain the effect of this situation on the organization:
 
-- Clarify **why** the situation needs attention: how does it affect the organization? 
-- Be explicit about whether the effects are current or anticipated. 
-- Explain challenges, losses, opportunities or gains. 
+- Clarify **why** the situation needs attention: how does it affect the organization?
+- Be explicit about whether the effects are current or anticipated.
+- Explain challenges, losses, opportunities or gains.
 
 ### 3. Need
 
@@ -49,7 +49,7 @@ Explain the effect of this situation on the organization:
 
 Explain the <dfn data-info="Need: The lack of something wanted or deemed necessary (a requirement).">need</dfn> of the organization in relation to this situation:
 
-- A **need of an organization** is anything a team (or individual) requires to effectively account for a <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>. 
+- A **need of an organization** is anything a team (or individual) requires to effectively account for a <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>.
 - Be specific on whose need it is ("we need", "they need", "I need").
 - If there's disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
 
@@ -67,7 +67,7 @@ Describe the impact of attending to that need:
 Aim for one or two sentences, so that the information is easy to remember and process.
 
 Besides the summary, more details about the driver may be kept in the logbook.
- 
+
 
 ### Review Drivers
 

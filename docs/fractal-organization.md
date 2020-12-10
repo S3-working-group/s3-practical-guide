@@ -5,9 +5,9 @@ title: "Fractal Organization"
 
 **Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).**
 
-Creating a fractal organization can enable a large network to rapidly respond to changing contexts. 
+Creating a fractal organization can enable a large network to rapidly respond to changing contexts.
 
-If necessary, the pattern can be repeated to connect multiple fractal organizations into one. 
+If necessary, the pattern can be repeated to connect multiple fractal organizations into one.
 
 ![Fractal Organization](img/structural-patterns/fractal-organization.png)
 
@@ -19,7 +19,7 @@ These <dfn data-info="Constituent: A team (e.g. a circle, team, department, bran
 
 ### Tiers
 
-A fractal organization has at least three tiers: 
+A fractal organization has at least three tiers:
 
 - first tier: the **constituents** (i.e. organizations, branches, departments or projects)
 - second tier: **function-specific [delegate circles](delegate-circle.html)** to share learning and to make and evolve agreements on behalf of function-specific domains

@@ -5,7 +5,7 @@ title: "Helping Team"
 
 **Bring together a team of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.**
 
-A helping team: 
+A helping team:
 
 -   is a way for a <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn> to expand their capacity
 -   may be self-organizing, or guided by a [coordinator](coordinator.html) chosen by the delegator

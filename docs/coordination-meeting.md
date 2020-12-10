@@ -10,7 +10,7 @@ title: "Coordination Meeting"
     -   include details of any prerequisites that can help attendees to prepare
     -   further agenda items may come up when hearing status reports
 
-Agenda items: 
+Agenda items:
 
 - cross domain synchronization and alignment
 - prioritization and distribution of work

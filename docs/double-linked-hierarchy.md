@@ -15,7 +15,7 @@ A double-linked hierarchy:
 
 ![A double-linked hierarchy: not your typical hierarchy](img/structural-patterns/double-linked-hierarchy.png)
 
-**See also:** [Circle](circle.html), [Double Linking](double-linking.html), [Representative](representative.html)
+**See also:** [Circle](Circle.html), [Double Linking](Double-Linking.html), [Representative](Representative.html)
 
 [&#9654; Service Organization](service-organization.html)<br/>[&#9664; Peach Organization](peach-organization.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
 

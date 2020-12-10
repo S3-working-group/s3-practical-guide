@@ -2,7 +2,7 @@
 title: "Concepts and Principles"
 ---
 
-Jump to: 
+Jump to:
 
 - [Patterns and the Seven Principles](#patterns-and-the-seven-principles): [Patterns](#patterns) \| [The Seven Principles](#the-seven-principles)
 - [Key Concepts for Making Sense of Organizations](#key-concepts-for-making-sense-of-organizations): [Drivers](#drivers) \| [Domains](#domains) \| [Objections](#objections) \| [Agreements](#agreements) \| [Governance and Operations](#governance-and-operations)
@@ -10,21 +10,21 @@ Jump to:
 
 
 ## Patterns and the Seven Principles
-### Patterns 
+### Patterns
 
-S3 offers a pattern-based approach to organizational change. 
+S3 offers a pattern-based approach to organizational change.
 
 A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity. S3 patterns are discovered through observing people working together in organizations to solve problems and respond to opportunities they face. When you find that your habitual ways of doing things fail to bring about the outcomes you expected or hope for, you can look to S3 for patterns that might help.
 
 The patterns are grouped by topic into ten categories to help you more easily identify those that are useful to you. They are modular and adaptable, can be used independently, and are mutually reinforcing, complementing one another when used in combination. S3 patterns can be evolved and adapted to address your specific needs.
 
-By providing a menu of patterns to choose from according to need, S3 encourages an organic, **iterative approach to change without a huge upfront investment** . It meets people where they are and helps them move forward pulling in patterns at their own pace and according to their unique context. 
+By providing a menu of patterns to choose from according to need, S3 encourages an organic, **iterative approach to change without a huge upfront investment** . It meets people where they are and helps them move forward pulling in patterns at their own pace and according to their unique context.
 
 ![Patterns are grouped by topic into ten categories; the Seven Principles are reflected in every pattern](img/framework/s3-pattern-groups.png)
 
-### The Seven Principles 
+### The Seven Principles
 
-Sociocracy is built on seven principles that shape organizational culture. Since the seven principles are reflected in all of the patterns, understanding these principles is helpful for adopting and paramount to adapting Sociocracy 3.0 patterns.
+Sociocracy 3.0 is built on seven foundational principles which enable sococratic and agile collaboration. Since the seven principles are reflected in all of the patterns, understanding these principles is helpful for adopting and paramount to adapting Sociocracy 3.0 patterns.
 
 Practicing Sociocracy 3.0 helps people appreciate the essential value that these core principles bring – both to individuals and to organizations – and supports their integration into organizational culture.
 
@@ -52,7 +52,7 @@ Act within the constraints of any agreements governing domains you are accountab
 
 Every member of the organization is accountable for effectively responding to organizational drivers, both in doing the work and in ensuring (supporting) effective collaboration.
 
-Individuals are also accountable for their work, ongoing learning and development, and for supporting one another.
+Individuals are also accountable for their work, for ongoing learning and development, and for supporting one another.
 
 Everyone in an organization is accountable for aligning activity with organizational values.
 
@@ -76,7 +76,7 @@ For any terms you don’t understand, check out the glossary at the end.
 
 _A **driver** is a person’s or a group's motive for responding to a specific situation._
 
-Drivers: 
+Drivers:
 
 -   can be used to derive goals, objectives, aims, mission, vision, purpose
 -   can change over time
@@ -166,7 +166,7 @@ _A **concern** is an assumption – or opinion – that doing something (even in
 
 In [Consent Decision Making](consent-decision-making.html), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation). Bring up concerns if you think it’s valuable to consider them, and at least record them along with the agreement, and monitor outcomes over time.
 
-If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)). 
+If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)).
 
 ### Agreements
 
@@ -190,19 +190,19 @@ While a decision of short-term consequence can easily be amended on the spot, ma
 
 Such agreements need to be documented, both to remember them and to support effective [review](evaluate-and-evolve-agreements.html), and to be communicated to people affected (who are ideally also [involved in the creation and evolution](those-affected-decide.html) of those agreements).
 
-Therefore it's valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations: 
+Therefore it's valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations:
 
 _**Governance** in an organization (or a domain within it) is the act of setting objectives, and making and evolving decisions that guide people towards achieving them._
 
 _**Operations** is doing the work and organizing day to day activities within the constraints defined through governance._
 
-For each domain in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value. 
+For each domain in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
 
 There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a team lead, and sometimes it's a group of people, e.g. in a circle where all circle members share responsibility for governance within the constraints of the domain.
 
 **Governance decisions** set constraints on activity and guide future decisions.
 
-This includes: 
+This includes:
 
 -   defining domains
 -   delegating influence to people

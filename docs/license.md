@@ -4,7 +4,7 @@ title: "License"
 
 
 
-"A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**. 
+"A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**.
 
 Basically this license grants you:
 
@@ -13,7 +13,7 @@ Basically this license grants you:
 3. Freedom to share copies of the work for any purpose, even commercially.
 4. Freedom to make and share remixes and other derivatives for any purpose.
 
-You need to **attribute the original creator of the materials**, and **all derivatives need to be shared under the same license**. 
+You need to **attribute the original creator of the materials**, and **all derivatives need to be shared under the same license**.
 
 To view the the full text of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
 

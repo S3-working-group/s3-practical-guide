@@ -11,13 +11,13 @@ Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.or
 
 ### Logbook Contents
 
-Content relating to the whole organization: 
+Content relating to the whole organization:
 
 -   <dfn data-info="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</dfn>, <dfn data-info="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</dfn> and organizational <dfn data-info="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</dfn>
 -   organizational structure (<dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> and the connections between them)
--   <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> 
+-   <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>
 
-Content relating to a specific team or <dfn data-info="Role: A domain that is delegated to an individual, who then becomes the role keeper.">role</dfn>: 
+Content relating to a specific team or <dfn data-info="Role: A domain that is delegated to an individual, who then becomes the role keeper.">role</dfn>:
 
 -   the domain description and strategy
 -   agreements (including <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatees'</dfn> domain descriptions, strategies and [development plans](development-plan.html))

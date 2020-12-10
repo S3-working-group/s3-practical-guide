@@ -6,7 +6,7 @@ title: "Introduction"
 
 ## What is Sociocracy 3.0?
 
-Sociocracy 3.0 — a.k.a. "S3" — is <dfn data-info="Social Technology: Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.">social technology</dfn> for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration. 
+Sociocracy 3.0 — a.k.a. "S3" — is <dfn data-info="Social Technology: Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.">social technology</dfn> for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
 
 Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
@@ -18,7 +18,7 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
 -   Proceed at your own pace, and develop both your skills and a more sociocratic and agile mindset as you go.
 
 **Regardless of your position in the organization**, you'll find many proven ideas that are relevant and helpful for you.
- 
+
 **Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
 
 ## How does Sociocracy 3.0 help?
@@ -27,7 +27,7 @@ S3 is a transformational technology for both individuals and the whole organizat
 
 Sociocracy 3.0 is designed to be flexible and supports experimentation and learning. You can take whatever you need, adapt things to suit your context and enrich your existing approach.
 
-S3 integrates core concepts and practices found in agile methodologies, lean management, Kanban (and KMM), Design Thinking, Teal Organizations and the family of sociocracy-based governance methods (SCM/Dynamic Governance, Holacracy® etc.). It's complimentary and compatible with any agile or lean framework, including but not limited to Scrum and its various scaling frameworks. 
+S3 integrates core concepts and practices found in agile methodologies, lean management, Kanban (and KMM), Design Thinking, Teal Organizations and the family of sociocracy-based governance methods (SCM/Dynamic Governance, Holacracy® etc.). It's complimentary and compatible with any agile or lean framework, including but not limited to Scrum and its various scaling frameworks.
 
 **Inside this practical guide book you'll discover:**
 
@@ -41,7 +41,7 @@ S3 integrates core concepts and practices found in agile methodologies, lean man
     -   Patterns for **growing organizational structure beyond hierarchies** into flexible, decentralized networks where the flow of information and influence directly supports the creation of value.
 -   A **glossary** with explanations for all the terms you might be unfamiliar with.
 
-This practical guide to Sociocracy 3.0 is written and published by the three co-developers of Sociocracy 3.0. 
+This practical guide to Sociocracy 3.0 is written and published by the three co-developers of Sociocracy 3.0.
 
 True to the mindset behind S3, this book will always be a work in progress that grows and changes as we learn from people who are experimenting with S3 in organizations around the world. Since we started out 5 years ago, we have released several updates per year and we'll continue to do so in the years to come.
 
@@ -53,7 +53,7 @@ Even though several sections in this book are brief and may still be rough aroun
 
 The literal meaning of the term **sociocracy** is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means "power", or "rule".
 
-The word sociocracy can be traced back to 1851, when **Auguste Comte** suggested applying a scientific approach to society: states states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
+The word sociocracy can be traced back to 1851, when **Auguste Comte** suggested applying a scientific approach to society: states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
 
 A few decades later, **Lester Frank Ward**, used the word 'sociocracy' to describe the rule of people with relations with each other. Instead of having sociologists at the center, he wanted to give more power and responsibility to the individual, he imagined sociologists in a role as researchers and consultant.
 
@@ -63,9 +63,9 @@ In 1926, the Dutch reformist educator and Quaker **Kees Boeke**, established a r
 
 During the late 1990s and early 2000s, several non-Dutch speaking people came across sociocracy, but it wasn't until 2007 when **Sharon Villines and John Buck** launched their book, "We the People", that sociocracy became widely accessible to the English speaking world, and from there has began to migrate into several other languages.
 
-Sociocracy has proven to be effective for many organizations and communities around the world, but it has yet to become viral. 
+Sociocracy has proven to be effective for many organizations and communities around the world, but it has yet to become viral.
 
-In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, alignment, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015. 
+In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, coherence, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015.
 
 **Liliana David** joined the team soon after. Together they regularly collaborate to make S3 available and applicable to as many organizations as possible, and provide resources under a **Creative Commons Free Culture License** for people who want to learn, apply and tell others about Sociocracy_3.0.
 
@@ -88,7 +88,7 @@ We also love agile, lean, Kanban, the Core Protocols, NVC, and many other ideas 
 
 Therefore we decided to devote some of our time to develop and evolve Sociocracy, integrating it with many of these other potent ideas, to make it available and applicable to as many organizations as possible.
 
-To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability. 
+To this end, we recognize the value of a strong identity, a radically different way of distribution, and of adapting the *Sociocratic Circle Organization Method* to improve its applicability.
 
 ### The Name
 

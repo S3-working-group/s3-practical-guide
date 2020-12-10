@@ -2,14 +2,14 @@
 title: "Contract For Successful Collaboration"
 ---
 
- 
+
 **Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.**
 
-A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies. 
+A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies.
 
 Developing shared understanding about needs and expectations is essential for successful collaboration.
 
-While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved. 
+While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved.
 
 This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). It is especially relevant for contracts that have a significant influence on the future of an organization or one of its partners, such as:
 
@@ -67,7 +67,7 @@ Any contract can be changed at any time, provided all signatories agree. However
 
 Every contract influences the culture of the collaboration it governs, even when it appears to only describe *what* needs to be delivered:
 
-- intentionally create the culture of collaboration you want to see by including expectations on *how* things should be done 
+- intentionally create the culture of collaboration you want to see by including expectations on *how* things should be done
 - align the contract to the organizational culture (of all parties) and to legal requirements
 - build contracts that enable and encourage accountability
 
