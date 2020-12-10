@@ -16,9 +16,11 @@ This repository serves several main purposes:
 - as a means of making the text easily accessible for translations
 - as a means of making changes to the practical guide transparent
 
-The actual content of the practical guide is being developed outside of this repository by Lili David, James Priest and Bernhard Bockelbrink, and only pushed to that repository after 
+The actual content of the practical guide is being developed outside of this repository by Lili David, James Priest and Bernhard Bockelbrink.
 
-If you want to contribute towards the improvement of the Practical Guide, we have set up [a dedicated page](https://sociocracy30.org/ways-of-contributing-to-the-development-of-s3/ that explains how to notify us about typos and corrections, how to raise technical issues and how to suggest more significant updates to the content). Please note that we can't promise picking up github issues on a regular basis, and due to the nature of our development process, and we can't guarantee that we will accept any pull requests.
+If you want to contribute towards the improvement of the Practical Guide, we have set up [a dedicated page](https://sociocracy30.org/ways-of-contributing-to-the-development-of-s3/ that explains how to notify us about typos and corrections, how to raise technical issues and how to suggest more significant updates to the content). 
+
+Please note that we can't promise picking up github issues on a regular basis, and due to the nature of our development process, and we can't guarantee that we will accept any pull requests that include changes to the content of the Practical Guide.
 
 ## Project Structure
 
