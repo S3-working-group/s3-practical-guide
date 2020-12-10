@@ -7,7 +7,7 @@ This repository contains the source files for the book _A Practical Guide for Ev
 
 German, Hebrew and French versions also exist and are also available via [sociocracy30.org/guide/](http://sociocracy30.org/guide/). If you want to help with translations into your language, please take a look at the [translations page](http://sociocracy30.org/translations/).
 
-## Contribution Policy
+## Contribution Guidelines
 
 This repository serves several main purposes:
 
