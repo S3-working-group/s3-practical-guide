@@ -17,6 +17,10 @@ A simple way to describe a driver is by explaining:
 
 Create a brief but comprehensive summary containing just enough information to clearly communicate the need for an action or a decision.
 
+Aim for one or two sentences, so that the information is easy to remember and process.
+
+Besides the summary, more details about the driver may be kept in the logbook.
+
 ![Describe Organizational Drivers](img/process/describe-organizational-drivers.png)
 
 ### Example:
@@ -60,13 +64,6 @@ Describe the impact of attending to that need:
 
 - Explain the [intended outcome](glossary:intended-outcome), potential benefits or opportunities.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
-
-### Summarize the Driver
-
-Aim for one or two sentences, so that the information is easy to remember and process.
-
-Besides the summary, more details about the driver may be kept in the logbook.
-
 
 ### Review Drivers
 
