@@ -125,6 +125,10 @@ terms:
     name: Logbook
     definition:
     glossary: A (digital) system to store all information relevant for running an organization. 
+  metrci:
+    name: Metric
+    definition: A **metric** is a quantifiable measure used to track and assess progress, evaluate outcomes and determine success.
+    glossary: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success
   need:
     name: Need
     definition: A **need** is the lack of something wanted or deemed necessary (a requirement).
