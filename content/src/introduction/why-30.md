@@ -1,4 +1,4 @@
-## Why Sociocracy 3.0?
+## Why "3.0"?
 
 Sociocracy as a form of governance has been referred to since 1851. Subsequently it has been developed and adapted by many different people and organizations, including Gerard Endenburg, The Sociocracy Group (TSG) and Brian Robertson (HolacracyOne).
 
