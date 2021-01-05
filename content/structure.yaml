@@ -234,6 +234,8 @@ content:
       slug: links
     - title: License
       slug: license
+    - title: Disclaimer
+      slug: disclaimer
     - title: S3 Intentional Commitment
       slug: icpt
     - title: Acknowledgments

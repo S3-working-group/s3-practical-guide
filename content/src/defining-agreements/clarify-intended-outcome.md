@@ -6,6 +6,6 @@
 
 Agree on and record a concise description of the intended outcome.
 
-The intended outcome can be used to define [Evaluation Criteria](section:evaluation-criteria) and [metrics](glossary:metrics) for reviewing actual outcome.
+The intended outcome can be used to define [Evaluation Criteria](section:evaluation-criteria) and [metrics](glossary:metric) for reviewing actual outcome.
 
 ![Intended Outcome, and Evaluation Criteria](img/templates/outcome-and-criteria.png)
