@@ -23,7 +23,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 <lili@thriveincollaboration.com>
 
-## Our commitment to you.
+### Our Commitment to You
 
 We dedicate a part of our time and money to create free resources about Sociocracy 3.0 as part of our ongoing commitment to make sociocracy and related ideas more accessible to the wider world. 
 
@@ -35,4 +35,5 @@ On top of that, we make all the content of this website and all the materials on
 
 We share new documentation we create, describing and explaining about S3 patterns and how they can be applied, in the Practical Guide and on the Sociocracy 3.0 website, when those documents are in a state of readiness that we are happy with. 
 
-Go here to find out how you can contribute to the development of S3.
+To find out how you can contribute to the development of S3, go to <https://sociocracy30.org/contribute/>
+
