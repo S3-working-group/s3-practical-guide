@@ -8,7 +8,7 @@ To make better use of their limited time, energy, and resources, people in organ
 
 Any role or team’s purpose is to contribute towards the overall purpose of the organization by taking care of a specific organizational need. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work suffers because of missed dependencies, double work, or work not done at all.
 
-Clarifying domains makes the contract between [delegator](gloassart:delegator) and [delegatee](glossary:delegatee) explicit, which enables everyone to learn about what works and what doesn’t, because everyone understands who is responsible for what. A clear domain description with a reasonable amount of detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work.
+Clarifying domains makes the contract between [delegator](gloassart:delegator) and [delegatee(s)](glossary:delegatee) explicit, which enables everyone to learn about what works and what doesn’t, because everyone understands who is responsible for what. A clear domain description with a reasonable amount of detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work.
 
 A simple way for supporting stakeholders in developing shared understanding about the various aspects of a domain is by creating a **domain description** that contains information about:
 
@@ -26,8 +26,8 @@ A simple way for supporting stakeholders in developing shared understanding abou
 
 Consider designing domains with the minimal constraints necessary and always choose constraints that enable people to maximally create value.
 
-The delegatee may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else’s (explicit) domain, or impede other people's contribution to the organization in some other way. 
-Things that are forbidden may include explicit constraints laid out in the domain description, any other agreements the delegatee needs to keep, or legal and regulatory requirements.
+The delegatee(s) may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else’s (explicit) domain, or impede other people's contribution to the organization in some other way. 
+Things that are forbidden may include explicit constraints laid out in the domain description, any other agreements the delegatee(s) needs to keep, or legal and regulatory requirements.
 
 
 ### When to clarify domains
@@ -36,12 +36,12 @@ Consider clarifying domains whenever you identify that stakeholders have differi
 
 As a delegator, clarify any new domains that you intend to delegate.
 
-When retrospectively clarifying domains that have already been delegated to people, a delegator can gain valuable insights by inviting the delegatee to describe the domain from their perspective first. 
+When retrospectively clarifying domains that have already been delegated to people, a delegator can gain valuable insights by inviting the delegatee(s) to describe the domain from their perspective first. 
 
 
 ### Regularly evaluate and evolve domains
 
-People’s understanding of the organization is limited and the environment is always changing. Therefore it is essential that delegator, delegatee and other relevant stakeholders regularly take the time to evaluate and evolve both the design of the domain and how people account for it as their understanding of the domain deepens. 
+People’s understanding of the organization is limited and the environment is always changing. Therefore it is essential that delegator, delegatee(s) and other relevant stakeholders regularly take the time to evaluate and evolve both the design of the domain and how people account for it as their understanding of the domain deepens. 
 
 People might do a great job of accounting for a domain in the way it’s designed, but the design of the domain might be primitive or flawed. On the other hand, even if the design of a domain is poor in the first iteration, through this process it will improve over time.
 
@@ -64,9 +64,9 @@ One way of clarifying an organization’s domain is by filling out an [S3 Organi
 
 #### Primary Driver
 
-Explain how the delegatee will contribute to the overall purpose of the organization, by clarifying the specific organizational need they (will) take care of. 
+Explain how the delegatee(s) will contribute to the overall purpose of the organization, by clarifying the specific organizational need they (will) take care of. 
 
-Describe the main organizational driver the delegatee (will) respond to, for example using the pattern [Describe Organizational Drivers](section:describe- organizational-drivers).
+Describe the main organizational driver the delegatee(s) (will) respond to, for example using the pattern [Describe Organizational Drivers](section:describe- organizational-drivers).
 
 Aim for one or two sentences, so that the information is easy to remember and process.
 
@@ -77,7 +77,7 @@ Besides the summary, more details about the driver may be kept in the [logbook](
 
 List all essential work and decision making being delegated, in a way that enables measuring success. 
 
-Key responsibilities are those responsibilities that stakeholders consider essential to take care of for the delegatee to successfully account for the domain. 
+Key responsibilities are those responsibilities that stakeholders consider essential to take care of for the delegatee(s) to successfully account for the domain. 
 
 Describe explicitly why each of these responsibilities matter for the organization and the value that taking care of them brings to the organization.
 
@@ -86,20 +86,20 @@ Responsibilities should be specific and measurable, so they can be reviewed and 
 
 #### Dependencies
 
-Make explicit the essential dependencies between this domain and other parts of the organization, so that the delegatee can collaborate on managing those dependencies with the other stakeholders.
+Make explicit the essential dependencies between this domain and other parts of the organization, so that the delegatee(s) can collaborate on managing those dependencies with the other stakeholders.
 
 Consider:
 
 -   Internal and external customers (those who consume the team’s output)
--   Providers of products or services essential to the work of the delegatee.
+-   Providers of products or services essential to the work of the delegatee(s).
 -   Shared resources
 
 
 #### External Constraints
 
-Describe important constraints to the autonomy and influence of the delegatee. 
+Describe important constraints to the autonomy and influence of the delegatee(s). 
 
-External constraints might be fixed or negotiable. They may refer to customer requirements, to the outside world, to other essential stakeholders in the organization, to overarching responsibilities delegatees may have, or to the preference of the delegator. 
+External constraints might be fixed or negotiable. They may refer to customer requirements, to the outside world, to other essential stakeholders in the organization, to overarching responsibilities the delegatee(s) may have, or to the preference of the delegator. 
 
 Some examples:
 
@@ -112,7 +112,7 @@ Some examples:
 
 #### Key Challenges
 
-What are the known or anticipated challenges that the delegatee might face when accounting for this domain: relating to the outside world, the rest of the organization and sometimes to a specific delegatee?
+What are the known or anticipated challenges that the delegatee(s) might face when accounting for this domain: relating to the outside world, the rest of the organization and sometimes to a specific delegatee?
 
 -   risks and vulnerabilities
 -   variables (e.g. weather)
@@ -126,7 +126,7 @@ What are the known or anticipated challenges that the delegatee might face when 
 
 What does the team or role provide to respond to it’s primary driver, the key responsibilities and the key challenges faced?
 
-As a delegator, consider carefully to what degree you will leave the design of deliverables to the delegatee, who can then define deliverables and add them to the domain description later. Letting the delegatee lead on the design of deliverables often frees them up to deliver value according to their strengths and interest.
+As a delegator, consider carefully to what degree you will leave the design of deliverables to the delegatee(s), who can then define deliverables and add them to the domain description later. Letting the delegatee(s) lead on the design of deliverables often frees them up to deliver value according to their strengths and interest.
 Describe each deliverable with a reasonable amount of detail and ensure that deliverables are valuable to the stakeholders that receive them. You can start with a sentence or two about each deliverable but eventually you might need to [describe them in more detail](section:describe-deliverables).
 
  
@@ -137,20 +137,20 @@ What competencies, qualities and skills are required – or at least preferable 
 
 #### Key Resources
 
-Essential resources the delegatee can make use of in accounting for their domain, e.g. time allocation, budget, privileges, facilities, hardware, software, etc.
+Essential resources the delegatee(s) can make use of in accounting for their domain, e.g. time allocation, budget, privileges, facilities, hardware, software, etc.
 
 
 #### Delegator Responsibilities
 
 When delegating a domain to others, the delegator still retains overall accountability for the domain and often has a valuable contribution to make toward accounting for that domain. 
 
-List the exact responsibilities the delegator takes on in support of the delegatee accounting for this domain. 
+List the exact responsibilities the delegator takes on in support of the delegatee(s) accounting for this domain. 
 
 Consider: 
 
--   Opportunities for learning and development and support offered to the delegatee. 
+-   Opportunities for learning and development and support offered to the delegatee(s). 
 -   Things essential for successfully accounting for the domain that only the delegator can do.
--   Things that make the delegatee’s life easier and are worthwhile including. 
+-   Things that make the delegatees' life easier and are worthwhile including. 
 
 Describe the delegator’s responsibilities in specific and measurable terms, so that they can be reviewed and developed as required.
  
@@ -174,12 +174,12 @@ Describe when and how evaluations take place and who should be involved.
 
 In the evaluation, ensure you consider the following aspects:
 
--   The value the delegatee brought to the organization by accounting for the domain.
--   The delegatee’s work processes, and their collaboration with each other, with the delegator, and with the rest of the organization.
+-   The value the delegatee(s) brought to the organization by accounting for the domain.
+-   The delegatees' work processes, and their collaboration with each other, with the delegator, and with the rest of the organization.
 -   How well the delegator takes care of their responsibilities.
 -   The design of the domain itself (and potentially the design of other related domains).
--   The delegatee’s competencies and skills in relation to the domain.
--   The [strategy](glossary:strategy) the delegatee follows to account for this domain.
+-   The delegatees' competencies and skills in relation to the domain.
+-   The [strategy](glossary:strategy) the delegatee(s) follows to account for this domain.
 
 Define:
 
@@ -198,7 +198,7 @@ Consider also including the following information to the domain description
 
 -   Domain Name
 -   Delegator (name of the circle or role; e.g. R&D, Project Manager, CEO, etc)
--   Delegatee (if they are known at the time)
+-   Delegatee(s) (if they are known at the time)
 -   Date of latest update to the domain description
 -   Author’s Names
 -   Term (for a role)
