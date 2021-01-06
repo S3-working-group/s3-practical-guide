@@ -1,6 +1,22 @@
 ## Changelog
 
 
+### Changes 2021-01-xx
+
+-   [Clarify Domains](section:clarify-domains): revised text, added more details and explanations about domain descriptions
+-   [Peer Review](section:peer-review): added more details about what should be reviewed
+-   [Peer Feedback](section:peer-feedback): revised the text and added more details
+-   [Breaking Agreements](section:breaking-agreements): added summary
+-   added glossary entry for metric
+-   [Describe Organizational Drivers](section:describe-organizational-drivers): revised text
+-   Appendix: 
+    -   added a disclaimer 
+    -   added more information about the authors
+-   Introduction: 
+    -   added more details to the section about Domains and delegation
+    -   removed illustration in the section about patterns and listed the pattern groups in the text 
+
+
 ### Changes 2020-05-08
 
 - revised all illustrations for a more consistent style and increased readability
@@ -78,7 +94,7 @@
 
 - [Agreement](section:record-agreements): description now mentions that any expectations should be recorded
 - [Describe Deliverables](section:describe-deliverables): updated summary
-- [Describe Organizational Drivers](section:oescribe-organizational-drivers): more information on summarizing drivers
+- [Describe Organizational Drivers](section:describe-organizational-drivers): more information on summarizing drivers
 - [Resolve Objections](section:resolve-objections): added summary and description
 
 
