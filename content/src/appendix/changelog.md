@@ -7,7 +7,8 @@
 -   [Peer Review](section:peer-review): added more details about what should be reviewed
 -   [Peer Feedback](section:peer-feedback): revised the text and added more details
 -   [Breaking Agreements](section:breaking-agreements): added summary
--   added glossary entry for metric
+-   added glossary entry for "metric"
+-   revised glossary entry for "governance"
 -   [Describe Organizational Drivers](section:describe-organizational-drivers): revised text
 -   Appendix: 
     -   added a disclaimer 
