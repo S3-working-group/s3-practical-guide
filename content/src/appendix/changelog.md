@@ -3,19 +3,22 @@
 
 ### Changes 2021-01-xx
 
--   [Clarify Domains](section:clarify-domains): revised text, added more details and explanations about domain descriptions
+-   **Renamed Patterns:**
+    - renamed _Clarify Domains_ to _Clarify and Develop Domains_
+    - renamed _Develop Strategy_ to _Clarify and Develop Strategy_
+-   [Clarify and Develop Domains](section:clarify-and-develop-domains): revised text, added more details and explanations about domain descriptions
 -   [Peer Review](section:peer-review): added more details about what should be reviewed
 -   [Peer Feedback](section:peer-feedback): revised the text and added more details
 -   [Breaking Agreements](section:breaking-agreements): added summary
 -   added glossary entry for "metric"
 -   revised glossary entry for "governance"
 -   [Describe Organizational Drivers](section:describe-organizational-drivers): revised text
--   Appendix: 
-    -   added a disclaimer 
-    -   added more information about the authors
 -   Introduction: 
     -   added more details to the section about Domains and delegation
     -   removed illustration in the section about patterns and listed the pattern groups in the text 
+-   Appendix: 
+    -   added a disclaimer 
+    -   added more information about the authors
 
 
 ### Changes 2020-05-08

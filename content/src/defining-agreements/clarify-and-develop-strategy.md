@@ -1,4 +1,4 @@
-## Develop Strategy
+## Clarify and Develop Strategy
 
 <summary>
 {{define:strategy}}

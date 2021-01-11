@@ -1,4 +1,4 @@
-## Clarify Domains
+## Clarify and Develop Domains
 
 <summary>
 **A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.**

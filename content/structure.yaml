@@ -141,10 +141,10 @@ content:
       sections:
         - title: Record Agreements
           slug: record-agreements
-        - title: Develop Strategy
-          slug: develop-strategy
-        - title: Clarify Domains
-          slug: clarify-domains
+        - title: Clarify And Develop Strategy
+          slug: clarify-and-develop-strategy
+        - title: Clarify And Develop Domains
+          slug: clarify-and-develop-domains
         - title: Clarify Intended Outcome
           slug: clarify-intended-outcome
         - title: Describe Deliverables
