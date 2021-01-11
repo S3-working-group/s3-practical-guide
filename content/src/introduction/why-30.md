@@ -43,8 +43,6 @@ Yet from our direct experience, even for those organizations that have heard abo
 
 *Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
 
-In *Sociocracy 3.0*, purpose is implicit in all cases – to flow value to the organization's drivers.
-
 #### Condensed to the Essentials
 
 When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
