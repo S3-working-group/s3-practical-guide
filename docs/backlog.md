@@ -9,8 +9,8 @@ Consider making backlogs visible, not only to other members of a team, but also 
 
 Types of backlog include:
 
--   <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn> backlog
--   <dfn data-info="Operations: Doing the work and organizing day to day activities within the constraints defined through governance.">operations</dfn> backlog
+-   <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn> backlog
+-   <dfn data-info="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</dfn> backlog
 -   [sprint](planning-and-review-meetings.html) backlog
 -   product backlog
 -   impediments backlog

@@ -15,7 +15,7 @@ Since its launch in 2015, S3 patterns have been helping people across a diverse 
 Using S3 can **help you to achieve your objectives** and successfully navigate complexity. You can make changes one step at a time, **without the need for sudden radical reorganization** or planning a long-term change initiative:
 
 -   Simply start with identifying your areas of greatest need and select one or more practices or guidelines that help.
--   Proceed at your own pace, and develop both your skills and a more sociocratic and agile mindset as you go.
+-   Proceed at your own pace, and develop  your skills and competences as you go.
 
 **Regardless of your position in the organization**, you'll find many proven ideas that are relevant and helpful for you.
 
@@ -65,7 +65,7 @@ During the late 1990s and early 2000s, several non-Dutch speaking people came ac
 
 Sociocracy has proven to be effective for many organizations and communities around the world, but it has yet to become viral.
 
-In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, coherence, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015.
+In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a more sociocratic and agile approach to achieve greater effectiveness, coherence, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015.
 
 **Liliana David** joined the team soon after. Together they regularly collaborate to make S3 available and applicable to as many organizations as possible, and provide resources under a **Creative Commons Free Culture License** for people who want to learn, apply and tell others about Sociocracy_3.0.
 
@@ -76,7 +76,7 @@ As interest in Sociocracy 3.0 grows there is a fast growing community of people
 
 
 
-## Why Sociocracy 3.0?
+## Why "3.0"?
 
 Sociocracy as a form of governance has been referred to since 1851. Subsequently it has been developed and adapted by many different people and organizations, including Gerard Endenburg, The Sociocracy Group (TSG) and Brian Robertson (HolacracyOne).
 
@@ -120,8 +120,6 @@ Yet from our direct experience, even for those organizations that have heard abo
 #### Shifting Focus From Aim (or Purpose) to Need
 
 *Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
-
-In *Sociocracy 3.0*, purpose is implicit in all cases – to flow value to the organization's drivers.
 
 #### Condensed to the Essentials
 
