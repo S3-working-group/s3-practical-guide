@@ -14,8 +14,8 @@ content:
         slug: s3-overview      
       - title: History
         slug: history
-      - title: Why Sociocracy 3.0?
-        slug: why-s3
+      - title: Why "3.0"?
+        slug: why-30
       - title: Patterns and the Seven Principles
         slug: patterns-and-principles
       - title: Patterns
@@ -32,8 +32,8 @@ content:
         slug: objection
       - title: Agreements
         slug: agreement
-      - title: Governance
-        slug: governance  
+      - title: Governance and Operations
+        slug: governance
 
   chapters:
     - title: Co-Creation And Evolution
@@ -141,10 +141,10 @@ content:
       sections:
         - title: Record Agreements
           slug: record-agreements
-        - title: Develop Strategy
-          slug: develop-strategy
-        - title: Clarify Domains
-          slug: clarify-domains
+        - title: Clarify And Develop Strategy
+          slug: clarify-and-develop-strategy
+        - title: Clarify And Develop Domains
+          slug: clarify-and-develop-domains
         - title: Clarify Intended Outcome
           slug: clarify-intended-outcome
         - title: Describe Deliverables
@@ -232,6 +232,8 @@ content:
       slug: changelog
     - title: Links
       slug: links
+    - title: Disclaimer
+      slug: disclaimer
     - title: S3 Intentional Commitment
       slug: icpt
     - title: Acknowledgments

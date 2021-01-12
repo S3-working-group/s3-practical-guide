@@ -12,7 +12,7 @@ content:
         slug: s3-overview      
       - title: History
         slug: history
-      - title: Why Sociocracy 3.0?
+      - title: Why "3.0"?
         slug: why-30
       - title: Patterns and the Seven Principles
         slug: patterns-and-principles
@@ -31,9 +31,9 @@ content:
       - title: Objections
         slug: objection
       - title: Agreements
-        slug: agreement      
-      - title: Governances
-        slug: governance  
+        slug: agreement
+      - title: Governance and Operations
+        slug: governance
 
   chapters:
     - title: Co-Creation And Evolution
