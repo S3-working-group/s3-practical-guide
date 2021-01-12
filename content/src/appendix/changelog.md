@@ -1,7 +1,7 @@
 ## Changelog
 
 
-### Changes 2021-01-xx
+### Changes 2021-01-12
 
 -   **Renamed Patterns:**
     - renamed _Clarify Domains_ to _Clarify and Develop Domains_
