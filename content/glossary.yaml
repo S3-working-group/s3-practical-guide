@@ -147,8 +147,8 @@ terms:
     glossary: A domain that is accounted for by a set of people who are invited to contribute when they can.
   operations:
     name: Operations
-    definition: "**Operations** is doing the work and organizing day to day activities within the constraints defined through governance."
-    glossary: Doing the work and organizing day to day activities within the constraints defined through governance. 
+    definition: "**Operations** is doing the work and organizing day-to-day activities within the constraints defined through governance."
+    glossary: Doing the work and organizing day-to-day activities within the constraints defined through governance. 
   operations-backlog:
     name: Operations Backlog
     definition: An **operations backlog** is a visible list of (typically prioritized) uncompleted work items (deliverables).
