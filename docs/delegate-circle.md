@@ -5,7 +5,7 @@ title: "Delegate Circle"
 
 **Delegate making governance decisions affecting multiple domains to representatives selected by those domains.**
 
-To make <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn> decisions on their behalf, stakeholders send [representatives](representative.html) to form a delegate circle.
+To make <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn> decisions on their behalf, stakeholders send [representatives](representative.html) to form a delegate circle.
 
 ![Delegate Circle](img/structural-patterns/delegate-circle.png)
 

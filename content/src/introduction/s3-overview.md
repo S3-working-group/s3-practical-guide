@@ -9,7 +9,7 @@ Since its launch in 2015, S3 patterns have been helping people across a diverse 
 Using S3 can **help you to achieve your objectives** and successfully navigate complexity. You can make changes one step at a time, **without the need for sudden radical reorganization** or planning a long-term change initiative:
 
 -   Simply start with identifying your areas of greatest need and select one or more practices or guidelines that help.
--   Proceed at your own pace, and develop both your skills and a more sociocratic and agile mindset as you go.
+-   Proceed at your own pace, and develop  your skills and competences as you go.
 
 **Regardless of your position in the organization**, you'll find many proven ideas that are relevant and helpful for you.
 

@@ -15,7 +15,7 @@ Since its launch in 2015, S3 patterns have been helping people across a diverse 
 Using S3 can **help you to achieve your objectives** and successfully navigate complexity. You can make changes one step at a time, **without the need for sudden radical reorganization** or planning a long-term change initiative:
 
 -   Simply start with identifying your areas of greatest need and select one or more practices or guidelines that help.
--   Proceed at your own pace, and develop both your skills and a more sociocratic and agile mindset as you go.
+-   Proceed at your own pace, and develop  your skills and competences as you go.
 
 **Regardless of your position in the organization**, you'll find many proven ideas that are relevant and helpful for you.
 
@@ -66,7 +66,7 @@ During the late 1990s and early 2000s, several non-Dutch speaking people came ac
 
 Sociocracy has proven to be effective for many organizations and communities around the world, but it has yet to become viral.
 
-In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a sociocratic and agile mindset to achieve greater effectiveness, coherence, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015.
+In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a body of Creative Commons licensed learning resources, synthesizing ideas from Sociocracy, Agile and Lean. They discovered that organizations of all sizes need a flexible menu of practices and structures – appropriate for their specific context – that enable the evolution of a more sociocratic and agile approach to achieve greater effectiveness, coherence, fulfillment and wellbeing. The first version of **Sociocracy 3.0.** was launched in March 2015.
 
 **Liliana David** joined the team soon after. Together they regularly collaborate to make S3 available and applicable to as many organizations as possible, and provide resources under a **Creative Commons Free Culture License** for people who want to learn, apply and tell others about Sociocracy_3.0.
 
@@ -78,7 +78,7 @@ As interest in Sociocracy 3.0 grows there is a fast growing community of people
 
 
 
-## Why Sociocracy 3.0?
+## Why "3.0"?
 
 Sociocracy as a form of governance has been referred to since 1851. Subsequently it has been developed and adapted by many different people and organizations, including Gerard Endenburg, The Sociocracy Group (TSG) and Brian Robertson (HolacracyOne).
 
@@ -123,8 +123,6 @@ Yet from our direct experience, even for those organizations that have heard abo
 
 *Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
 
-In *Sociocracy 3.0*, purpose is implicit in all cases – to flow value to the organization's drivers.
-
 #### Condensed to the Essentials
 
 When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
@@ -152,11 +150,26 @@ S3 offers a pattern-based approach to organizational change.
 
 A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity. S3 patterns are discovered through observing people working together in organizations to solve problems and respond to opportunities they face. When you find that your habitual ways of doing things fail to bring about the outcomes you expected or hope for, you can look to S3 for patterns that might help.
 
-The patterns are grouped by topic into ten categories to help you more easily identify those that are useful to you. They are modular and adaptable, can be used independently, and are mutually reinforcing, complementing one another when used in combination. S3 patterns can be evolved and adapted to address your specific needs.
+Patterns are modular and adaptable, can be used independently, and are mutually reinforcing, complementing one another when used in combination. S3 patterns can be evolved and adapted to address your specific needs.
 
-By providing a menu of patterns to choose from according to need, S3 encourages an organic, **iterative approach to change without a huge upfront investment** . It meets people where they are and helps them move forward pulling in patterns at their own pace and according to their unique context.
+In this guide, the patterns are grouped by topic into ten categories to help you more easily identify those that are useful to you:
 
-![Patterns are grouped by topic into ten categories; the Seven Principles are reflected in every pattern](img/framework/s3-pattern-groups.png)
+-   Co-Creation And Evolution
+-   Peer Development
+-   Enablers Of Collaboration
+-   Building Organizations
+-   Bringing In S3
+-   Defining Agreements
+-   Focused Interactions
+-   Meeting Practices
+-   Organizing Work
+-   Organizational Structure
+
+By providing a menu of patterns to choose from according to need, S3 encourages an organic, **iterative approach to change without a huge upfront investment**. It meets people where they are and helps them move forward pulling in patterns at their own pace and according to their unique context.
+
+
+
+
 
 
 ### The Seven Principles
@@ -238,35 +251,49 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 
 _A **domain** is a distinct area of influence, activity and decision making within an organization._
 
-All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
+To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 
 ![Domains may overlap and/or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
+
+Any role or team's purpose is to contribute towards the overall purpose of the organization by taking care of a specific organizational need. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work suffers because of missed dependencies, double work, or work not done at all.
+
+_Clarifying domains_ makes the contract between the _delegator_ (who delegate responsibility for a domain) and the _delegatee(s)_ (to whom the domain is delegated) explicit, which enables everyone to learn about what works and what doesn't, and to understand who is responsible for what. A clear domain description with a reasonable amount of detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work.
+
+
+#### Regularly evaluate and evolve domains
+
+People's understanding of the organization is limited and the environment is always changing. Therefore it is essential that delegator, delegatee(s) and other relevant stakeholders regularly take the time to evaluate and evolve both the design of the domain and how people account for it as their understanding of the domain deepens. 
+
+People might do a great job of accounting for a domain in the way it's designed, but the design of the domain might be primitive or flawed. On the other hand, even if the design of a domain is poor in the first iteration, through this process it will improve over time.
 
 
 #### Delegating Responsibility for Domains
 
-_Delegation is the grant of authority over a domain by one party to another._
+_Delegation is the grant of authority by one party (the _delegator_) to another (the _delegatee_) to account for a domain (i.e. to do certain things and/or to make certain decisions),for which the delegator maintains overall accountability._
 
-Responsibility for domains is delegated to people (e.g. to a unit, department, team or individuals), who then act within its defined constraints on influence and autonomy.
+Responsibility for domains is delegated to groups or individuals, who then act within its defined constraints on their autonomy and influence.
 
-When a domain is delegated to a group of people, they become a team, when it’s delegated to an individual, they become a role keeper.
+When a domain is delegated to a group of people, they become a team, when it's delegated to an individual, they become a role keeper.
 
-Those delegating responsibility for a domain (the delegators) to others still retain overall accountability for that domain, allocate **resources** and often define:
+The delegatee(s) may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else's (explicit) domain, or impede other people's contribution to the organization in some other way. 
+
+**Note:** _Things that are forbidden include explicit constraints laid out in the domain description, any other agreements the delegatee(s) need to keep, and legal and regulatory requirements._
+
+The delegator still retains overall accountability for that domain, allocates **resources** and often defines:
 
 -   the **organizational need** the domain is designed to respond to
 -   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
--   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
+-   **constraints to the autonomy and influence** of the delegatee(s), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
+
 
 #### Drivers and Domains
 
 It's also possible to understand a domain in relation to organizational drivers:
 
--   the domain's **primary driver** - the main driver the people accounting for that domain (the _delegatees_) respond to
--   the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include:
+-   the domain's **primary driver** - the main driver the delegatee(s) respond to
+-  the set of subdrivers the organization may benefit from addressing when responding to the domain's primary driver, which include:
     -   **key responsibilities** (any driver following directly from the domain's primary driver)
-    -   drivers for **constraints of the domain** (which typically relate to the organization's wider context)
-
-![Drivers and domains](img/driver-domain/drivers-and-domains.png)
+-  **dependencies** and **external constraints** (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees' autonomy
 
 
 ### Objections
@@ -336,9 +363,9 @@ Such agreements need to be documented, both to remember them and to support effe
 
 Therefore it's valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations:
 
-_**Governance** in an organization (or a domain within it) is the act of setting objectives, and making and evolving decisions that guide people towards achieving them._
+_**Governance** in an organization (or a domain within it) is the process of setting objectives and making and evolving decisions that guide people towards achieving those objectives._
 
-_**Operations** is doing the work and organizing day to day activities within the constraints defined through governance._
+_**Operations** is doing the work and organizing day-to-day activities within the constraints defined through governance._
 
 For each domain in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
 
@@ -426,6 +453,10 @@ A simple way to describe a driver is by explaining:
 
 Create a brief but comprehensive summary containing just enough information to clearly communicate the need for an action or a decision.
 
+Aim for one or two sentences, so that the information is easy to remember and process.
+
+Besides the summary, more details about the driver may be kept in the logbook.
+
 ![Describe Organizational Drivers](img/process/describe-organizational-drivers.png)
 
 #### Example:
@@ -469,13 +500,6 @@ Describe the impact of attending to that need:
 
 - Explain the intended outcome, potential benefits or opportunities.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
-
-#### Summarize the Driver
-
-Aim for one or two sentences, so that the information is easy to remember and process.
-
-Besides the summary, more details about the driver may be kept in the logbook.
-
 
 #### Review Drivers
 
@@ -733,31 +757,43 @@ Ask someone, "_would you be willing to help me with ..._?" The person asked acce
 
 ###  Pattern 2.2: Peer Feedback
 
-Invite a peer to give you some constructive feedback on:
+**Invite any member of your organization to give you some constructive feedback on your performance in a role or in a team, about your general participation and contribution, or about any other area you wish to develop.**
 
--   your performance in a role
--   your general participation and contribution
--   any specific aspect you may be interested in
+Before the invitation, consider who might be able and willing to provide the feedback you seek, and decide on an appropriate duration – 15 or 30 minutes is usually enough.
 
-Considerations:
+Schedule the session in advance, so that your peer can prepare for your meeting, and schedule some time for yourself after the session to decide how you will act on the feedback you received.
 
--   invite peers to take some time to prepare
--   invite both **appreciations** and **actionable improvement suggestions**
--   inquire to better understand the feedback, and avoid discussing or judging it
--   decide for yourself what you will do with feedback you receive
+In the invitation, clarify the topic you want feedback on, and explain that you are looking for both **appreciations** and **actionable improvement suggestions**.
+
+During the session itself, consider:
+
+-   taking notes to ensure you can remember the details
+-   repeating back, feedback you receive in your own words to check for the accuracy of your understanding
+-   asking clarifying question to better understand feedback if the intended meaning is unclear for you 
+
+Avoid discussing or judging the feedback you receive and remember to thank your peer for taking the time to give you their feedback. 
+
+After the session, review your notes and decide for yourself what you will do with the feedback you received. It’s your choice if you want to share your decision with your peer.
 
 
 ###  Pattern 2.3: Peer Review
 
 **Support each other to learn and grow in the roles and teams you serve in.**
 
-The role keeper — or team — leads the peer review by setting up the process and speaking first in each step.
+The role keeper — or team — leads the peer review by setting up the process, and by speaking first in each step.
 
 ![Peer review process](img/process/peer-review.png)
 
 Ensure you invite people with complementary perspectives to contribute to the review, and a _facilitator_.
 
-Improvement suggestions may relate to personal development, collaboration, updates to the domain description (including the driver) and strategy.
+For both appreciations and improvement suggestions, ensure you consider the following aspects:
+
+-   The **value** the delegatee brought to the organization by accounting for the domain.
+-   The role keeper’s or team’s **work processes**, and their **collaboration** with the delegator and with other relevant stakeholders, and – in the case of a team - with each other.
+-   How well the **delegator** takes care of their responsibilities.
+-   The **design of the domain** itself (and potentially the design of other related domains).
+-   The role keeper’s or team’s **competencies and skills** in relation to the domain.
+-   The **strategy** the role keeper or team follows to account for this domain.
 
 ![Continuous improvement of people's ability to effectively keep roles or collaborate in teams](img/evolution/development-process.png)
 
@@ -881,6 +917,8 @@ As a governance facilitator, consider learning about and using the following pat
 
 
 ###  Pattern 3.5: Breaking Agreements
+
+**Break agreements when you are certain the benefit for the organization outweighs the cost of waiting to amend that agreement first, and take responsibility for any consequences.**
 
 Breaking agreements is sometimes **necessary** but may come at a **cost** to the community.
 
@@ -1299,7 +1337,7 @@ Depending on the scope and significance of the agreement, consider including all
 
 
 
-###  Pattern 6.2: Develop Strategy
+###  Pattern 6.2: Clarify and Develop Strategy
 
 _A **strategy** is a high level approach for how people will create value to successfully account for a domain._
 
@@ -1316,24 +1354,208 @@ A strategy is a shared agreement between delegator(s) and delegatee(s) that is r
 Strategies are validated and refined through experimentation and learning.
 
 
-###  Pattern 6.3: Clarify Domains
+###  Pattern 6.3: Clarify and Develop Domains
 
-**A clear understanding of people's area of responsibility and autonomy enables greater efficiency, effective collaboration and agility throughout an organization.**
+**A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.**
 
-A simple way to clarify domains is with a **domain description** that contains:
+To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. 
 
--   primary driver (the **organizational need** the domain is designed to respond to)
--   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
--   **constraints to the autonomy and influence** of those the domain is delegated to (the _delegatees_), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
--   **resources** (time, money, facilities, privileges, tools)
--   **evaluation criteria** and frequency of evaluation
--   term (for a role)
+Any role or team’s purpose is to contribute towards the overall purpose of the organization by taking care of a specific organizational need. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work suffers because of missed dependencies, double work, or work not done at all.
 
-Domain descriptions can be created for a _role_, position, _circle_, team, _open domain_, department, unit, or the whole organization.
+Clarifying domains makes the contract between [delegator](gloassart:delegator) and delegatee(s) explicit, which enables everyone to learn about what works and what doesn’t, because everyone understands who is responsible for what. A clear domain description with a reasonable amount of detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work.
 
-Another way of clarifying a domain is by filling out an [S3 Delegation Canvas](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html).
+A simple way for supporting stakeholders in developing shared understanding about the various aspects of a domain is by creating a **domain description** that contains information about:
 
-![A template for domain descriptions](img/templates/domain-description-template.png)
+-   Primary Driver (and/or Purpose)
+-   Key Responsibilities
+-   Dependencies
+-   External Constraints
+-   Key Challenges
+-   Key Deliverables
+-   Competencies, Qualities and Skills
+-   Key Resources
+-   Delegator Responsibilities
+-   Key Metrics
+-   Evaluation
+
+Consider designing domains with the minimal constraints necessary and always choose constraints that enable people to maximally create value.
+
+The delegatee(s) may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else’s (explicit) domain, or impede other people's contribution to the organization in some other way. 
+Things that are forbidden may include explicit constraints laid out in the domain description, any other agreements the delegatee(s) needs to keep, or legal and regulatory requirements.
+
+
+#### When to clarify domains
+
+Consider clarifying domains whenever you identify that stakeholders have differing assumptions about the domain of an existing _role_, position, team, department, or unit, or even about the domain of the organization as a whole.
+
+As a delegator, clarify any new domains that you intend to delegate.
+
+When retrospectively clarifying domains that have already been delegated to people, a delegator can gain valuable insights by inviting the delegatee(s) to describe the domain from their perspective first. 
+
+
+#### Regularly evaluate and evolve domains
+
+People’s understanding of the organization is limited and the environment is always changing. Therefore it is essential that delegator, delegatee(s) and other relevant stakeholders regularly take the time to evaluate and evolve both the design of the domain and how people account for it as their understanding of the domain deepens. 
+
+People might do a great job of accounting for a domain in the way it’s designed, but the design of the domain might be primitive or flawed. On the other hand, even if the design of a domain is poor in the first iteration, through this process it will improve over time.
+
+
+#### Clarify the domain of the whole organization
+
+All domains in an organization are nested within the overall domain of the organization, which can be designed deliberately in the early stages of the organization, or clarified retrospectively. An organization’s domain needs to enable the members of the organization to effectively fulfil its purpose and typically needs to be evolved over time.
+
+Consider explicitly clarifying the organization’s overall domain if you discover that key stakeholders have differing understanding about it, or when changes to that domain need to be made. In order to do this it’s necessary to identify the overall delegator of the organization. 
+
+An organization’s domain should be designed with the customer and business model in mind, and needs to factor in environmental constraints (e.g. legal, economic, market, competition, etc.)
+
+Regularly evaluate the organization’s domain to support those responsible for the organization to quickly learn and adapt.
+
+One way of clarifying an organization’s domain is by filling out an [S3 Organization Canvas](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
+
+
+#### Useful aspects to clarify in a Domain Description
+
+
+##### Primary Driver
+
+Explain how the delegatee(s) will contribute to the overall purpose of the organization, by clarifying the specific organizational need they (will) take care of. 
+
+Describe the main organizational driver the delegatee(s) (will) respond to, for example using the pattern _Describe Organizational Drivers_.
+
+Aim for one or two sentences, so that the information is easy to remember and process.
+
+Besides the summary, more details about the driver may be kept in the _logbook_.
+
+
+##### Key Responsibilities
+
+List all essential work and decision making being delegated, in a way that enables measuring success. 
+
+Key responsibilities are those responsibilities that stakeholders consider essential to take care of for the delegatee(s) to successfully account for the domain. 
+
+Describe explicitly why each of these responsibilities matter for the organization and the value that taking care of them brings to the organization.
+
+Responsibilities should be specific and measurable, so they can be reviewed and developed as required.
+
+
+##### Dependencies
+
+Make explicit the essential dependencies between this domain and other parts of the organization, so that the delegatee(s) can collaborate on managing those dependencies with the other stakeholders.
+
+Consider:
+
+-   Internal and external customers (those who consume the team’s output)
+-   Providers of products or services essential to the work of the delegatee(s).
+-   Shared resources
+
+
+##### External Constraints
+
+Describe important constraints to the autonomy and influence of the delegatee(s). 
+
+External constraints might be fixed or negotiable. They may refer to customer requirements, to the outside world, to other essential stakeholders in the organization, to overarching responsibilities the delegatee(s) may have, or to the preference of the delegator. 
+
+Some examples:
+
+-   Specific decisions requiring authorization
+-   Legal, time, or budget constraints
+-   Audits and or expected reporting
+-   Strategy of the delegator and the whole organization
+-   Organizational values
+
+
+##### Key Challenges
+
+What are the known or anticipated challenges that the delegatee(s) might face when accounting for this domain: relating to the outside world, the rest of the organization and sometimes to a specific delegatee?
+
+-   risks and vulnerabilities
+-   variables (e.g. weather)
+-   uncertainty and complexity
+-   lack of skills or resources.
+
+**Note:** there are always some risks that you need to manage. Try to list at least 3!
+
+
+##### Key Deliverables
+
+What does the team or role provide to respond to it’s primary driver, the key responsibilities and the key challenges faced?
+
+As a delegator, consider carefully to what degree you will leave the design of deliverables to the delegatee(s), who can then define deliverables and add them to the domain description later. Letting the delegatee(s) lead on the design of deliverables often frees them up to deliver value according to their strengths and interest.
+Describe each deliverable with a reasonable amount of detail and ensure that deliverables are valuable to the stakeholders that receive them. You can start with a sentence or two about each deliverable but eventually you might need to _describe them in more detail_.
+
+ 
+##### Competencies, qualities and skills
+
+What competencies, qualities and skills are required – or at least preferable – to successfully account for this domain?
+
+
+##### Key Resources
+
+Essential resources the delegatee(s) can make use of in accounting for their domain, e.g. time allocation, budget, privileges, facilities, hardware, software, etc.
+
+
+##### Delegator Responsibilities
+
+When delegating a domain to others, the delegator still retains overall accountability for the domain and often has a valuable contribution to make toward accounting for that domain. 
+
+List the exact responsibilities the delegator takes on in support of the delegatee(s) accounting for this domain. 
+
+Consider: 
+
+-   Opportunities for learning and development and support offered to the delegatee(s). 
+-   Things essential for successfully accounting for the domain that only the delegator can do.
+-   Things that make the delegatees' life easier and are worthwhile including. 
+
+Describe the delegator’s responsibilities in specific and measurable terms, so that they can be reviewed and developed as required.
+ 
+
+##### Key Metrics
+
+Key Metrics are critical indicators of progress. They relate to the primary driver (and/or purpose), key responsibilities, challenges, deliverables, and delegator responsibilities defined for this domain. 
+
+Key Metrics are monitored and assessed frequently. They are relevant criteria for evaluating outcomes and success in scheduled reviews (see “Evaluation” below).
+
+For each metric, consider the actual numbers that are monitored, as well as the meaning of those numbers in relation to the domain (targets, acceptable range, or tolerance).
+
+Aim to define simple and specific metrics that you can take regularly (preferably daily).
+
+
+##### Evaluation
+
+Regularly evaluate the outcome resulting from activity in this domain and use what you learn to improve creation of value.
+
+Describe when and how evaluations take place and who should be involved. 
+
+In the evaluation, ensure you consider the following aspects:
+
+-   The value the delegatee(s) brought to the organization by accounting for the domain.
+-   The delegatees' work processes, and their collaboration with each other, with the delegator, and with the rest of the organization.
+-   How well the delegator takes care of their responsibilities.
+-   The design of the domain itself (and potentially the design of other related domains).
+-   The delegatees' competencies and skills in relation to the domain.
+-   The strategy the delegatee(s) follows to account for this domain.
+
+Define:
+
+-   A schedule or frequency for reviews. 
+-   Additional helpful evaluation criteria in addition the key metrics.
+-   Any other relevant aspects to consider for the evaluation. 
+-   Who should take part in the evaluation.
+-   A process for evaluation (e.g. _Peer Review_).
+-   Consider including a term (for a role).
+
+Make sure to record and monitor when a domain is due review and add these dates to your _logbook_.
+
+##### Additional Information
+
+Consider also including the following information to the domain description
+
+-   Domain Name
+-   Delegator (name of the circle or role; e.g. R&D, Project Manager, CEO, etc)
+-   Delegatee(s) (if they are known at the time)
+-   Date of latest update to the domain description
+-   Author’s Names
+-   Term (for a role)
 
 
 ###  Pattern 6.4: Clarify Intended Outcome
@@ -1947,66 +2169,86 @@ The second and third tier:
 ## Changelog
 
 
+### Changes 2021-01-12
+
+-   **Renamed Patterns:**
+    - renamed _Clarify Domains_ to _Clarify and Develop Domains_
+    - renamed _Develop Strategy_ to _Clarify and Develop Strategy_
+-   _Clarify and Develop Domains_: revised text, added more details and explanations about domain descriptions
+-   _Peer Review_: added more details about what should be reviewed
+-   _Peer Feedback_: revised the text and added more details
+-   _Breaking Agreements_: added summary
+-   added glossary entry for "metric"
+-   revised glossary entry for "governance"
+-   _Describe Organizational Drivers_: revised text
+-   Introduction: 
+    -   added more details to the section about Domains and delegation
+    -   removed illustration in the section about patterns and listed the pattern groups in the text 
+-   Appendix: 
+    -   added a disclaimer 
+    -   added more information about the authors
+
+
 ### Changes 2020-05-08
 
-- revised all illustrations for a more consistent style and increased readability
-- revised introduction: more explanation about patterns and core concepts
-- updated glossary: revised explanation of Delegator, Delegatee, Role and Pattern, added Role Keeper
+-   revised all illustrations for a more consistent style and increased readability
+-   revised introduction: more explanation about patterns and core concepts
+-   updated glossary: revised explanation of Delegator, Delegatee, Role and Pattern, added Role Keeper
 
 
 ### Changes 2020-04-29
 
-- Introduction: Added _Objection_ and _Agreement_ to concepts
-- renamed pattern _Objection_ to _Test Arguments Qualify as Objections_
-- renamed pattern _Agreement_ to _Record Agreements_
-- _Test Arguments Qualify as Objections_: revised text and updated illustration
-- _Record Agreements_: revised text, added more details of agreements that might be recorded, updated illustration
+-   Introduction: Added _Objection_ and _Agreement_ to concepts
+-   renamed pattern _Objection_ to _Test Arguments Qualify as Objections_
+-   renamed pattern _Agreement_ to _Record Agreements_
+-   _Test Arguments Qualify as Objections_: revised text and updated illustration
+-   _Record Agreements_: revised text, added more details of agreements that might be recorded, updated illustration
 
 
 ### Changes 2019-12-22
 
-- added new introduction text
-- added "social technology" to glossary
-- website now has separate pages for "Introduction" and "Concepts and Principles"
-- ePub now looks much better
+-   added new introduction text
+-   added "social technology" to glossary
+-   website now has separate pages for "Introduction" and "Concepts and Principles"
+-   ePub now looks much better
 
 
 ### Changes 2019-11-29
 
-- Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the organization
-- Principle of Empiricism: clarified that only those assumptions one relies on need to be tested
+-   Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the organization
+-   Principle of Empiricism: clarified that only those assumptions one relies on need to be tested
 
 
 ### Changes 2019-06-27
 
-- _Objection_: further refined definition of objection, and updated the glossary term for objection accordingly
-- replaced "action" with activity in a few places where it made more sense
-- fixed a few typos
+-   _Objection_: further refined definition of objection, and updated the glossary term for objection accordingly
+-   replaced "action" with activity in a few places where it made more sense
+-   fixed a few typos
 
 ### Changes 2019-05-03
 
-- refined glossary terms for agreement, organization and team, added glossary term for objective
-- Principle of Accountability: clarified individual accountability for work as well as for collaboration
-- _Contract For Successful Collaboration_: revised text
-- _Describe Deliverables_: added User Stories as an example for describing deliverables
-- _Double-Linked Hierarchy_: revised summary
-- _Delegate Circle_: refined summary
-- _Objection_: refined definition of objection and concern, added illustration for a process to qualify an objection
-- _Proposal Forming_: added missing process illustration
-- _Role Selection_: small amendment to illustration
-- _Transparent Salary_: explained what a salary formula is
+-   refined glossary terms for agreement, organization and team, added glossary term for objective
+-   Principle of Accountability: clarified individual accountability for work as well as for collaboration
+-   _Contract For Successful Collaboration_: revised text
+-   _Describe Deliverables_: added User Stories as an example for describing deliverables
+-   _Double-Linked Hierarchy_: revised summary
+-   _Delegate Circle_: refined summary
+-   _Objection_: refined definition of objection and concern, added illustration for a process to qualify an objection
+-   _Proposal Forming_: added missing process illustration
+-   _Role Selection_: small amendment to illustration
+-   _Transparent Salary_: explained what a salary formula is
 
 
 ### Changes 2019-03-08
 
 **General Changes**
 
-- expanded the introduction with more information about S3 and the history of sociocracy that was previously only available on the main S3 website
-- updated section about governance in the introduction
-- added captions to all illustrations
-- renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
-- removed slide deck version and improved layout and formatting of pdf and ePub version
-- website version: added clickable pattern map for simpler navigation, added glossary overlays to many patterns
+-   expanded the introduction with more information about S3 and the history of sociocracy that was previously only available on the main S3 website
+-   updated section about governance in the introduction
+-   added captions to all illustrations
+-   renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
+-   removed slide deck version and improved layout and formatting of pdf and ePub version
+-   website version: added clickable pattern map for simpler navigation, added glossary overlays to many patterns
 
 **Glossary:**
 
@@ -2017,25 +2259,25 @@ The second and third tier:
 
 **Illustrations:**
 
-- updated templates for domain description and role description
-- updated illustrations for _Linking_ and _Double-Linking_
+-   updated templates for domain description and role description
+-   updated illustrations for _Linking_ and _Double-Linking_
 
 **Changes to Patterns:**
 
-- _Agreement_: description now mentions that any expectations should be recorded
-- _Describe Deliverables_: updated summary
-- _Describe Organizational Drivers_: more information on summarizing drivers
-- _Resolve Objections_: added summary and description
+-   _Agreement_: description now mentions that any expectations should be recorded
+-   _Describe Deliverables_: updated summary
+-   _Describe Organizational Drivers_: more information on summarizing drivers
+-   _Resolve Objections_: added summary and description
 
 
 ### Changes 2018-08-17
 
 **General Changes**
 
-- added and revised the brief summary for many of the patterns
-- removed bullet points in favor of full sentences in many patterns
-- lots of small improvements to grammar and language
-- included the URL to the web version of the practical guide
+-   added and revised the brief summary for many of the patterns
+-   removed bullet points in favor of full sentences in many patterns
+-   lots of small improvements to grammar and language
+-   included the URL to the web version of the practical guide
 
 **Glossary:**
 
@@ -2050,100 +2292,100 @@ The second and third tier:
     -   _The Principle of Empiricism_: removed reference to "falsification"
     -   _The Principle of Consent_ is now explained more clearly as "Raise, seek-out and resolve objections to decisions and actions"
 -   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to "coordination", and clarified the distinction between governance and operations
--   _Drivers and Domains_ - we clarified how domains can be understood in relation to organizational drivers
+-   _Drivers and Domains_ -   we clarified how domains can be understood in relation to organizational drivers
 
 **Changes to Patterns:**
 
-- _Agree on Values_: improved description
-- _Align Flow_: improved description and illustration
-- _Adapt Patterns To Context_: improved description
-- _Agreement_: improved description, updated template
-- _Artful Participation_: improved summary
-- _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
-- _Consent Decision Making_: improved description, updated illustration
-- _Continuous Improvement Of Work Process_: improved description
-- _Contract For Successful Collaboration_: renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
-- _Coordination Meeting_: clarified agenda items, updated illustration
-- _Delegate Circle_: improved description
-- _Delegate Influence_: improved description
-- _Describe Deliverables_: improved description
-- _Describe Organizational Drivers_: made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
-- _Double Linking_: aligned description to _Link_
-- _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
-- _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
-- _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about also evolving evaluation criteria when evolving agreements
-- _Facilitate Meetings_: improved description
-- _Fractal Organization_: extended and improved description
-- _Governance Backlog_: improved description
-- _Governance Meeting_: improved description, clarified agenda items
-- _Invite Change_: description now focuses on _how_ to invite change
-- _Linking_: aligned description to _Double Linking_
-- _Logbook_: clarified that there is no difference between logbooks for groups and logbooks for roles
-- _Navigate Via Tension_: improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
-- _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
-- _Open Domain_: improved description and updated illustration
-- _Open Systems_: improved description
-- _Open Space for Change_: renamed from _Open S3 Adoption_, improved description
-- _Peach Organization_: clarified relationship between periphery and center
-- _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
-- _Representative_: improved description
-- _Resolve Objections_: updated both illustrations
-- _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
-- _Role_: improved description
-- _Role Selection_: improved description, added description of each step
-- _Rounds_: improved description
-- _Transparent Salary_: added more details about fairness, and on how to develop a salary formula
+-   _Agree on Values_: improved description
+-   _Align Flow_: improved description and illustration
+-   _Adapt Patterns To Context_: improved description
+-   _Agreement_: improved description, updated template
+-   _Artful Participation_: improved summary
+-   _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
+-   _Consent Decision Making_: improved description, updated illustration
+-   _Continuous Improvement Of Work Process_: improved description
+-   _Contract For Successful Collaboration_: renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
+-   _Coordination Meeting_: clarified agenda items, updated illustration
+-   _Delegate Circle_: improved description
+-   _Delegate Influence_: improved description
+-   _Describe Deliverables_: improved description
+-   _Describe Organizational Drivers_: made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
+-   _Double Linking_: aligned description to _Link_
+-   _Double-Linked Hierarchy_: explained in more detail what a double-linked hierarchy is, and how it is created
+-   _Evaluate and Evolve Agreements_: rearranged the text so it's clear there is a long and a short format
+-   _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about also evolving evaluation criteria when evolving agreements
+-   _Facilitate Meetings_: improved description
+-   _Fractal Organization_: extended and improved description
+-   _Governance Backlog_: improved description
+-   _Governance Meeting_: improved description, clarified agenda items
+-   _Invite Change_: description now focuses on _how_ to invite change
+-   _Linking_: aligned description to _Double Linking_
+-   _Logbook_: clarified that there is no difference between logbooks for groups and logbooks for roles
+-   _Navigate Via Tension_: improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
+-   _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
+-   _Open Domain_: improved description and updated illustration
+-   _Open Systems_: improved description
+-   _Open Space for Change_: renamed from _Open S3 Adoption_, improved description
+-   _Peach Organization_: clarified relationship between periphery and center
+-   _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
+-   _Representative_: improved description
+-   _Resolve Objections_: updated both illustrations
+-   _Respond to Organizational Drivers_: improved description, simplified qualification of organizational drivers
+-   _Role_: improved description
+-   _Role Selection_: improved description, added description of each step
+-   _Rounds_: improved description
+-   _Transparent Salary_: added more details about fairness, and on how to develop a salary formula
 
 **Renamed Patterns:**
 
-- _Evaluate Agreements_ to _Evaluate and Evolve Agreements_
-- _Intended Outcome_ to _Clarify Intended Outcome_
-- _Open S3 Adoption_ to _Open Space for Change_
-- _Contracting and Accountability_ to _Contract For Successful Collaboration_
+-   _Evaluate Agreements_ to _Evaluate and Evolve Agreements_
+-   _Intended Outcome_ to _Clarify Intended Outcome_
+-   _Open S3 Adoption_ to _Open Space for Change_
+-   _Contracting and Accountability_ to _Contract For Successful Collaboration_
 
 **Added Patterns:**
 
-- _Check In_
-- _Co-create Proposals_
-- _Prepare for Meetings_
-- _Timebox Activities_
+-   _Check In_
+-   _Co-create Proposals_
+-   _Prepare for Meetings_
+-   _Timebox Activities_
 
 
 ### Changes 2018-03-21
 
-* renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_
-* _Describe Organizational Drivers_: explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
-* added _need_ to glossary
+-   renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_
+-   _Describe Organizational Drivers_: explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
+-   added _need_ to glossary
 
 
 ### Changes 2017-11-16
 
-- small corrections
-- aligned glossary entries for _Circle_ and _Role_ to pattern text
-- _Development Plan_: clarification of responsibilities
-- _Role_: clarified evolution of strategy
+-   small corrections
+-   aligned glossary entries for _Circle_ and _Role_ to pattern text
+-   _Development Plan_: clarification of responsibilities
+-   _Role_: clarified evolution of strategy
 
 
 ### Changes 2017-11-10
 
-- various small clarifications and corrections
-- _Circle_: clarified relationship between circle and domain
-- _Role_: improved description
-- _Rounds_: improved description
-- moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
-- added several terms to the glossary
+-   various small clarifications and corrections
+-   _Circle_: clarified relationship between circle and domain
+-   _Role_: improved description
+-   _Rounds_: improved description
+-   moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
+-   added several terms to the glossary
 
 
 ### Changes 2017-10-21
 
-- added Liliana David to authors
-- dropped the term "framework" (replaced with "practical guide")
-- updated order of patterns
-- added an index of all the patterns
-- added a glossary
-- added acknowledgments
-- various small clarifications and corrections to text and illustrations
-- updated templates for agreement and development plan
+-   added Liliana David to authors
+-   dropped the term "framework" (replaced with "practical guide")
+-   updated order of patterns
+-   added an index of all the patterns
+-   added a glossary
+-   added acknowledgments
+-   various small clarifications and corrections to text and illustrations
+-   updated templates for agreement and development plan
 
 **Changes to Introduction**
 
@@ -2155,43 +2397,43 @@ The second and third tier:
 
 **Changes to Patterns:**
 
-- _Artful Participation_: improved description
-- _Agreement_: clarified that the concept of agreements is applicable to people in roles
-- _Clarify Domains_: improved description
-- _Circle_: updated definition of "circle", improved description
-- _Driver_: updated definition of "driver"
-- _Development Plan_: improved description, updated template
-- _Develop Strategy_: updated definition of "strategy", improved description
-- _Double-Linked Hierarchy_: new illustration
-- _Evaluate Agreements_: aligned questions to peer review
-- _Governance Backlog_: improved description
-- _Logbook_: added details about governance to personal logbook
-- _Objections_: clarified qualifying objections
-- _Peer Review_: improved description
-- _Respond to Organizational Driver_: integrated information about qualifying drivers
-- _Role_: clarified role keeper may maintain a governance backlog, introduced the term "role keeper" for a person in a role
-- _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications
-- _Resolve Objections_: updated illustration to better reflect the process
+-   _Artful Participation_: improved description
+-   _Agreement_: clarified that the concept of agreements is applicable to people in roles
+-   _Clarify Domains_: improved description
+-   _Circle_: updated definition of "circle", improved description
+-   _Driver_: updated definition of "driver"
+-   _Development Plan_: improved description, updated template
+-   _Develop Strategy_: updated definition of "strategy", improved description
+-   _Double-Linked Hierarchy_: new illustration
+-   _Evaluate Agreements_: aligned questions to peer review
+-   _Governance Backlog_: improved description
+-   _Logbook_: added details about governance to personal logbook
+-   _Objections_: clarified qualifying objections
+-   _Peer Review_: improved description
+-   _Respond to Organizational Driver_: integrated information about qualifying drivers
+-   _Role_: clarified role keeper may maintain a governance backlog, introduced the term "role keeper" for a person in a role
+-   _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications
+-   _Resolve Objections_: updated illustration to better reflect the process
 
 **Renamed Patterns:**
 
-- _Backbone Organization_ to _Service Organization_
-- _Effectiveness Review_ to _Peer Review_
-- _Strategy_ to _Develop Strategy_
-- _Domain Description_ to _Clarify Domains_
-- _Describing Deliverables_ to _Describe Deliverables_
+-   _Backbone Organization_ to _Service Organization_
+-   _Effectiveness Review_ to _Peer Review_
+-   _Strategy_ to _Develop Strategy_
+-   _Domain Description_ to _Clarify Domains_
+-   _Describing Deliverables_ to _Describe Deliverables_
 
 **Added Patterns:**
 
-- _Delegate Influence_
-- _Describe Drivers_
-- _Open Domain_
+-   _Delegate Influence_
+-   _Describe Drivers_
+-   _Open Domain_
 
 **Removed Patterns**
 
-- _Coordination Circle_
-- _Nested Domains_
-- _Qualify Driver_
+-   _Coordination Circle_
+-   _Nested Domains_
+-   _Qualify Driver_
 
 
 
@@ -2233,6 +2475,11 @@ If you create a derivative work, you must give appropriate credit, and indicate 
 
 You can find out more about attribution on the [Creative Commons page about best practices for attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
 
+
+
+## Disclaimer
+
+The information available in this guide may be used by any entity/organisation. Consequently, any entity/organisation may use, from the information and suggestions made available, those it finds useful, depending on the particularities of the activity carried out by that entity/organisation. For the avoidance of doubt, the authors of said information shall not be held liable, in any form whatsoever, in respect of the achievement of certain objectives and/or attainment of certain results by such entities/organisations further to the use of the information or any one or several of the suggestions made available in this guide.
 
 
 ## The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)
@@ -2321,6 +2568,20 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 <lili@thriveincollaboration.com>
 
+### Our Commitment to You
+
+We dedicate a part of our time and money to create free resources about Sociocracy 3.0 as part of our ongoing commitment to make sociocracy and related ideas more accessible to the wider world. 
+
+There’s an overlap between what we give away for free and how we make a living. Besides our work co-developing Sociocracy 3.0, we also sell consulting, facilitation, coaching and mentoring services, and design and delivery courses and events about, but not limited to Sociocracy 3.0. 
+
+You can always rely on the the Practical Guide as being the current and authoritative description of Sociocracy 3.0, which will always be available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+On top of that, we make all the content of this website and all the materials on the Resources page available under the same license. 
+
+We share new documentation we create, describing and explaining about S3 patterns and how they can be applied, in the Practical Guide and on the Sociocracy 3.0 website, when those documents are in a state of readiness that we are happy with. 
+
+To find out how you can contribute to the development of S3, go to <https://sociocracy30.org/contribute/>
+
 
 
 
@@ -2373,7 +2634,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Delegatee:** An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
 
 
-**Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
+**Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.
 
 
 **Delegator:** An individual or group delegating responsibility for a domain to other(s).
@@ -2403,7 +2664,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Flow of Value:** Deliverables traveling through an organization towards customers or other stakeholders.
 
 
-**Governance:** The act of setting objectives, and making and evolving decisions that guide people towards achieving them.
+**Governance:** The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.
 
 
 **Governance Backlog:** A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
@@ -2421,6 +2682,9 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Logbook:** A (digital) system to store all information relevant for running an organization.
 
 
+**Metric:** A quantifiable measure used to track and assess progress, evaluate outcomes and determine success
+
+
 **Need:** The lack of something wanted or deemed necessary (a requirement).
 
 
@@ -2433,7 +2697,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 **Open Domain:** A domain that is accounted for by a set of people who are invited to contribute when they can.
 
 
-**Operations:** Doing the work and organizing day to day activities within the constraints defined through governance.
+**Operations:** Doing the work and organizing day-to-day activities within the constraints defined through governance.
 
 
 **Operations Backlog:** A visible list of (typically prioritized) uncompleted work items (deliverables).

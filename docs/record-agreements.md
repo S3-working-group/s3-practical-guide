@@ -44,5 +44,5 @@ Depending on the scope and significance of the agreement, consider including all
 
 
 
-[&#9654; Develop Strategy](develop-strategy.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
+[&#9654; Clarify And Develop Strategy](clarify-and-develop-strategy.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

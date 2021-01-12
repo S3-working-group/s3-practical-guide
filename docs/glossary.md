@@ -32,7 +32,7 @@ title: Glossary
 
 **Delegatee:** An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
 
-**Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
+**Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.
 
 **Delegator:** An individual or group delegating responsibility for a domain to other(s).
 
@@ -52,7 +52,7 @@ title: Glossary
 
 **Flow of Value:** Deliverables traveling through an organization towards customers or other stakeholders.
 
-**Governance:** The act of setting objectives, and making and evolving decisions that guide people towards achieving them.
+**Governance:** The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.
 
 **Governance Backlog:** A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
 
@@ -64,6 +64,8 @@ title: Glossary
 
 **Logbook:** A (digital) system to store all information relevant for running an organization.
 
+**Metric:** A quantifiable measure used to track and assess progress, evaluate outcomes and determine success
+
 **Need:** The lack of something wanted or deemed necessary (a requirement).
 
 **Objection:** An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.
@@ -72,7 +74,7 @@ title: Glossary
 
 **Open Domain:** A domain that is accounted for by a set of people who are invited to contribute when they can.
 
-**Operations:** Doing the work and organizing day to day activities within the constraints defined through governance.
+**Operations:** Doing the work and organizing day-to-day activities within the constraints defined through governance.
 
 **Operations Backlog:** A visible list of (typically prioritized) uncompleted work items (deliverables).
 

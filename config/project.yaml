@@ -13,7 +13,7 @@ target_filename: "S3-practical-guide"
 pattern_prefix: " Pattern %(chapter)s.%(section)s:"
 
 # Version of the practical guide (added to all releases)
-version: "v2020-05-08"
+version: "v2021-01-12"
 
 # URL o the Github project
 github_url: "https://github.com/S3-working-group/s3-practical-guide"

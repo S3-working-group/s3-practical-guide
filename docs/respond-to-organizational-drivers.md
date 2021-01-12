@@ -7,7 +7,7 @@ title: "Respond to Organizational Drivers"
 
 Responses to <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">organizational drivers</dfn> include:
 
-- direct action (<dfn data-info="Operations: Doing the work and organizing day to day activities within the constraints defined through governance.">operations</dfn>)
+- direct action (<dfn data-info="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</dfn>)
 - organizing how work will be done
 - making governance decisions
 

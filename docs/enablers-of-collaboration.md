@@ -16,7 +16,7 @@ title: "Enablers Of Collaboration"
   <dd><p>Select someone to facilitate governance meetings.</p></dd>
 
   <dt><a href="breaking-agreements.html">Breaking Agreements</a></dt>
-  <dd></dd>
+  <dd><p>Break agreements when you are certain the benefit for the organization outweighs the cost of waiting to amend that agreement first, and take responsibility for any consequences.</p></dd>
 
   <dt><a href="contract-for-successful-collaboration.html">Contract For Successful Collaboration</a></dt>
   <dd><p>Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.</p></dd>

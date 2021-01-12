@@ -67,8 +67,8 @@ terms:
     glossary: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
   delegation:
     name: Delegation
-    definition: Delegation is the grant of authority over a domain by one party to another.
-    glossary: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain, (i.e. to do certain things and/or to make certain decisions) for which the delegator maintains overall accountability.
+    definition: Delegation is the grant of authority by one party (the _delegator_) to another (the _delegatee_) to account for a domain (i.e. to do certain things and/or to make certain decisions),for which the delegator maintains overall accountability.
+    glossary: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.
   delegator:
     name: Delegator
     glossary: An individual or group delegating responsibility for a domain to other(s).
@@ -104,8 +104,8 @@ terms:
     glossary: Deliverables traveling through an organization towards customers or other stakeholders.
   governance:
     name: Governance
-    definition: "**Governance** in an organization (or a domain within it) is the act of setting objectives, and making and evolving decisions that guide people towards achieving them."
-    glossary: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.
+    definition: "**Governance** in an organization (or a domain within it) is the process of setting objectives and making and evolving decisions that guide people towards achieving those objectives."
+    glossary: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.
   governance-backlog:
     name: Governance Backlog
     definition: A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
@@ -125,6 +125,10 @@ terms:
     name: Logbook
     definition:
     glossary: A (digital) system to store all information relevant for running an organization. 
+  metric:
+    name: Metric
+    definition: A **metric** is a quantifiable measure used to track and assess progress, evaluate outcomes and determine success.
+    glossary: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success
   need:
     name: Need
     definition: A **need** is the lack of something wanted or deemed necessary (a requirement).
@@ -143,8 +147,8 @@ terms:
     glossary: A domain that is accounted for by a set of people who are invited to contribute when they can.
   operations:
     name: Operations
-    definition: "**Operations** is doing the work and organizing day to day activities within the constraints defined through governance."
-    glossary: Doing the work and organizing day to day activities within the constraints defined through governance. 
+    definition: "**Operations** is doing the work and organizing day-to-day activities within the constraints defined through governance."
+    glossary: Doing the work and organizing day-to-day activities within the constraints defined through governance. 
   operations-backlog:
     name: Operations Backlog
     definition: An **operations backlog** is a visible list of (typically prioritized) uncompleted work items (deliverables).

@@ -1,5 +1,9 @@
 ## Breaking Agreements
 
+<summary>
+**Break agreements when you are certain the benefit for the organization outweighs the cost of waiting to amend that agreement first, and take responsibility for any consequences.**
+</summary>
+
 Breaking [agreements](glossary:agreement) is sometimes **necessary** but may come at a **cost** to the community.
 
 Be accountable:

@@ -28,7 +28,7 @@ title: Alphabetical List Of All Patterns
   <dd><p>Lead by example.</p></dd>
 
   <dt><a href="breaking-agreements.html">Breaking Agreements</a></dt>
-  <dd></dd>
+  <dd><p>Break agreements when you are certain the benefit for the organization outweighs the cost of waiting to amend that agreement first, and take responsibility for any consequences.</p></dd>
 
   <dt><a href="bylaws.html">Bylaws</a></dt>
   <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and <strong>organizational culture</strong></p></dd>
@@ -39,8 +39,11 @@ title: Alphabetical List Of All Patterns
   <dt><a href="circle.html">Circle</a></dt>
   <dd><p><em>A <strong>circle</strong> is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.</em></p></dd>
 
-  <dt><a href="clarify-domains.html">Clarify Domains</a></dt>
-  <dd><p>A clear understanding of people's area of responsibility and autonomy enables greater efficiency, effective collaboration and agility throughout an organization.</p></dd>
+  <dt><a href="clarify-and-develop-domains.html">Clarify And Develop Domains</a></dt>
+  <dd><p>A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.</p></dd>
+
+  <dt><a href="clarify-and-develop-strategy.html">Clarify And Develop Strategy</a></dt>
+  <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
 
   <dt><a href="clarify-intended-outcome.html">Clarify Intended Outcome</a></dt>
   <dd><p>Be explicit about the expected results of agreements, activities, projects and strategies.</p></dd>
@@ -80,9 +83,6 @@ title: Alphabetical List Of All Patterns
 
   <dt><a href="describe-organizational-drivers.html">Describe Organizational Drivers</a></dt>
   <dd><p>Describe organizational drivers to understand, communicate and remember them.</p></dd>
-
-  <dt><a href="develop-strategy.html">Develop Strategy</a></dt>
-  <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
 
   <dt><a href="development-plan.html">Development Plan</a></dt>
   <dd><p>A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.</p></dd>
@@ -157,7 +157,7 @@ title: Alphabetical List Of All Patterns
   <dd><p>Deliver value in complex and competitive environments through <em>decentralization</em> (of resources and influence) and <em>direct interaction</em> between those creating value and the customers they serve.</p></dd>
 
   <dt><a href="peer-feedback.html">Peer Feedback</a></dt>
-  <dd></dd>
+  <dd><p>Invite any member of your organization to give you some constructive feedback on your performance in a role or in a team, about your general participation and contribution, or about any other area you wish to develop.</p></dd>
 
   <dt><a href="peer-review.html">Peer Review</a></dt>
   <dd><p>Support each other to learn and grow in the roles and teams you serve in.</p></dd>

@@ -17,7 +17,7 @@ A circle:
 -   **self-governing:**
     -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
 -  **equivalence of circle members:**
-    -   All members of a circle are equally accountable for <dfn data-info="Governance: The act of setting objectives, and making and evolving decisions that guide people towards achieving them.">governance</dfn> of the circle's domain.
+    -   All members of a circle are equally accountable for <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn> of the circle's domain.
 
 ![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)
 
