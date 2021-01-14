@@ -1,10 +1,4 @@
 Inbox:
-Content:
-	- add small intro text to teach pattern group, as well as intro to "the patterns" that explains a bit more about the patterns @later
-	- explanation for making sense of orgs (see intro for ideas) @later @done
-	- expand all seven principles! @later
-	- why s3 is not very simple to understand for people unfamiliar with SCM @later
-
 Link between language versions:
 	Images are broken in epub:
 		fix config.ebook.tex and makefile
