@@ -1,0 +1,130 @@
+config: 
+  section-prefix: ' Pattern %(chapter)s.%(section)s:'
+  title: title
+  end: SKIP
+
+parts:
+  introduction:
+    chapters:
+      - s3-overview
+      - history
+      - why-30
+      - patterns-and-principles
+      - patterns
+      - principles
+      - principle-accountability
+      - making-sense-of-organizations
+      - driver
+      - domain
+      - objection
+      - agreement
+      - governance
+
+  patterns:
+    chapters:
+      co-creation-and-evolution:
+        sections:
+          - respond-to-organizational-drivers
+          - navigate-via-tension
+          - describe-organizational-drivers
+          - consent-decision-making
+          - test-arguments-qualify-as-objections
+          - resolve-objections
+          - evaluate-and-evolve-agreements
+          - those-affected-decide
+          - co-create-proposals
+          - proposal-forming
+          - role-selection
+          - driver-mapping
+      peer-development:
+        sections:
+          - ask-for-help
+          - peer-feedback
+          - peer-review
+          - development-plan
+      enablers-of-collaboration:
+        sections:
+          - artful-participation
+          - adopt-the-seven-principles
+          - agree-on-values
+          - governance-facilitator
+          - breaking-agreements
+          - contract-for-successful-collaboration
+          - transparent-salary
+          - support-role
+          - bylaws
+      building-organizations:
+        sections:
+          - delegate-influence
+          - circle
+          - role
+          - linking
+          - double-linking
+          - representative
+          - helping-team
+          - open-domain
+          - open-systems
+      bringing-in-s3:
+        sections:
+          - adapt-patterns-to-context
+          - create-a-pull-system-for-organizational-change
+          - be-the-change
+          - invite-change
+          - open-space-for-change
+          - continuous-improvement-of-work-process
+      defining-agreements:
+        sections:
+          - record-agreements
+          - clarify-and-develop-strategy
+          - clarify-and-develop-domains
+          - clarify-intended-outcome
+          - describe-deliverables
+          - evaluation-criteria
+          - logbook
+          - logbook-keeper
+      focused-interactions:
+        sections:
+          - governance-meeting
+          - retrospective
+          - daily-standup
+          - planning-and-review-meetings
+          - coordination-meeting
+      meeting-practices:
+        sections:
+          - rounds
+          - facilitate-meetings
+          - prepare-for-meetings
+          - check-in
+          - evaluate-meetings
+          - meeting-host
+          - governance-backlog
+      organizing-work:
+        sections:
+          - backlog
+          - prioritize-backlogs
+          - visualize-work
+          - pull-system-for-work
+          - limit-work-in-progress
+          - timebox-activities
+          - align-flow
+          - coordinator
+      organizational-structure:
+        sections:
+          - service-circle
+          - delegate-circle
+          - peach-organization
+          - double-linked-hierarchy
+          - service-organization
+          - fractal-organization
+
+  appendix:
+    chapters:
+      - changelog
+      - links
+      - license
+      - disclaimer
+      - icpt
+      - acknowledgments
+      - authors
+      - glossary
+
