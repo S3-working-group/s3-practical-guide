@@ -17,7 +17,7 @@ When deciding (or agreeing) on a salary formula for an organization or departmen
 - how to calculate compensation according to need, investment, productivity, or merit
 - how to distribute the organization's profit and cover for losses in line with expectations and needs of the various stakeholders
 
-Decide how to handle remuneration for changing roles and [develop a strategy](develop-strategy.html) for how to transition towards new contracts and compensation agreements.
+Decide how to handle remuneration for changing roles and [develop a strategy](clarify-and-develop-strategy.html) for how to transition towards new contracts and compensation agreements.
 
 ![Two ways of opening salaries](img/process/opening-salaries.png)
 

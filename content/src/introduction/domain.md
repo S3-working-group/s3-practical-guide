@@ -8,7 +8,7 @@ To make better use of their limited time, energy, and resources, people in organ
 
 Any role or team's purpose is to contribute towards the overall purpose of the organization by taking care of a specific organizational need. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work suffers because of missed dependencies, double work, or work not done at all.
 
-[Clarifying domains](section:clarify-domains) makes the contract between the _delegator_ (who delegate responsibility for a domain) and the _delegatee(s)_ (to whom the domain is delegated) explicit, which enables everyone to learn about what works and what doesn't, and to understand who is responsible for what. A clear domain description with a reasonable amount of detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work.
+[Clarifying domains](section:clarify-and-develop-domains) makes the contract between the _delegator_ (who delegate responsibility for a domain) and the _delegatee(s)_ (to whom the domain is delegated) explicit, which enables everyone to learn about what works and what doesn't, and to understand who is responsible for what. A clear domain description with a reasonable amount of detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work.
 
 
 #### Regularly evaluate and evolve domains

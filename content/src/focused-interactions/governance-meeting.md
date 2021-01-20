@@ -32,6 +32,6 @@ Typical agenda items include:
 -   new drivers requiring decisions to be made, including:
     -   [forming proposals](section:co-create-proposals)
     -   [making agreements](section:consent-decision-making)
-    -   [designing domains](section:clarify-domains) and deciding how to account for them (e.g. new [roles](section:role), [circles](section:circle), teams or [open domains](section:open-domain))
+    -   [designing domains](section:clarify-and-develop-domains) and deciding how to account for them (e.g. new [roles](section:role), [circles](section:circle), teams or [open domains](section:open-domain))
 
 
