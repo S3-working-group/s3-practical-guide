@@ -5,7 +5,7 @@
 </summary>
 
 -   clarify and describe the [driver](glossary:organizational-driver) for the [role](section:role)
--   create a [domain description](section:clarify-domains)
+-   create a [domain description](section:clarify-and-develop-domains)
 -   if valuable, implement a selection process
 -   limit the term of the contract
 -   build in regular [peer reviews](section:peer-review)
