@@ -24,7 +24,9 @@ make translations:
 	# it's intentional this is just echoed
 	echo "sudo crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version.txt) --dryrun"
 
-
+new:
+	mdslides build jekyll content/structure-new.yaml $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
+	
 site:
 	# build jekyll site
 	$(update-make-conf)
