@@ -4,7 +4,7 @@ config:
   end: SKIP
 
 parts:
-  introduction:
+  - id: introduction
     chapters:
       - s3-overview
       - history
@@ -20,9 +20,9 @@ parts:
       - agreement
       - governance
 
-  patterns:
+  - id: patterns
     chapters:
-      co-creation-and-evolution:
+      - id: co-creation-and-evolution
         sections:
           - respond-to-organizational-drivers
           - navigate-via-tension
@@ -36,13 +36,13 @@ parts:
           - proposal-forming
           - role-selection
           - driver-mapping
-      peer-development:
+      - id: peer-development
         sections:
           - ask-for-help
           - peer-feedback
           - peer-review
           - development-plan
-      enablers-of-collaboration:
+      - id: enablers-of-collaboration
         sections:
           - artful-participation
           - adopt-the-seven-principles
@@ -53,7 +53,7 @@ parts:
           - transparent-salary
           - support-role
           - bylaws
-      building-organizations:
+      - id: building-organizations
         sections:
           - delegate-influence
           - circle
@@ -64,7 +64,7 @@ parts:
           - helping-team
           - open-domain
           - open-systems
-      bringing-in-s3:
+      - id: bringing-in-s3
         sections:
           - adapt-patterns-to-context
           - create-a-pull-system-for-organizational-change
@@ -72,7 +72,7 @@ parts:
           - invite-change
           - open-space-for-change
           - continuous-improvement-of-work-process
-      defining-agreements:
+      - id: defining-agreements
         sections:
           - record-agreements
           - clarify-and-develop-strategy
@@ -82,14 +82,14 @@ parts:
           - evaluation-criteria
           - logbook
           - logbook-keeper
-      focused-interactions:
+      - id: focused-interactions
         sections:
           - governance-meeting
           - retrospective
           - daily-standup
           - planning-and-review-meetings
           - coordination-meeting
-      meeting-practices:
+      - id: meeting-practices
         sections:
           - rounds
           - facilitate-meetings
@@ -98,7 +98,7 @@ parts:
           - evaluate-meetings
           - meeting-host
           - governance-backlog
-      organizing-work:
+      - id: organizing-work
         sections:
           - backlog
           - prioritize-backlogs
@@ -108,7 +108,7 @@ parts:
           - timebox-activities
           - align-flow
           - coordinator
-      organizational-structure:
+      - id: organizational-structure
         sections:
           - service-circle
           - delegate-circle
@@ -117,7 +117,7 @@ parts:
           - service-organization
           - fractal-organization
 
-  appendix:
+  - id: appendix
     chapters:
       - changelog
       - links
