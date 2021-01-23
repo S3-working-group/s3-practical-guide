@@ -25,7 +25,7 @@ make translations:
 	echo "sudo crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version.txt) --dryrun"
 
 new:
-	mdslides build jekyll content/structure-new.yaml $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
+	mdbuild jekyll config/project-new.yaml
 	
 site:
 	# build jekyll site
