@@ -1,5 +1,4 @@
 config: 
-  section-prefix: ' Pattern %(chapter)s.%(section)s:'
   title: title
   end: SKIP
 
