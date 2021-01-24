@@ -28,8 +28,6 @@ defaults:
   footer: ""
   # template: The template to use (deckset, revealjs, and jekyll output)
   template: ""
-  # section-index-template [jekyll]: Template for the alphabetical section index page. (Jekyll)
-  section-index-template: ""
   # introduction-template [jekyll]: Template for the introduction page.
   introduction-template: ""
 
@@ -50,7 +48,6 @@ presets:
     target: docs-new/ 
     #--template=content/website/_templates/index.md
     index_template: content/website/_templates/index.md
-    section_index_template: content/website/_templates/pattern-index.md
     introduction_template: content/website/_templates/introduction.md
 
     templates: 
