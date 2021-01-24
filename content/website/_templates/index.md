@@ -1,6 +1,4 @@
----
-title: The S3 Patterns
----
+# The S3 Patterns
 
 The official description of Sociocracy 3.0: All patterns, the Seven Principles and key concepts.
 
