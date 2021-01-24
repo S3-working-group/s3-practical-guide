@@ -43,7 +43,7 @@ presets:
     target: docs-new/ 
 
     templates: 
-      - source: templates/website/index.md
+      - source: content/website/_templates/index.md
         destination: docs/index.md
         mode: markdown
       - source: templates/website/_layouts/default.html
