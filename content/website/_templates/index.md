@@ -12,6 +12,7 @@ For further information about Sociocracy 3.0 and more free resources check out 
 
 ## Pattern Groups
 
-<!-- GROUP-INDEX -->
+{{index:root=patterns}}
+
 
 
