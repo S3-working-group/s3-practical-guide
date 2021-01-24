@@ -1,4 +1,4 @@
 ## Alphabetical List Of All Patterns
 
-{{index:tag=patterns}}
+{{index:tag=pattern,sort=title}}
 
