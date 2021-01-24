@@ -204,6 +204,7 @@ parts:
   - id: appendix
     chapters:
       - changelog
+      - pattern-index
       - links
       - license
       - disclaimer
