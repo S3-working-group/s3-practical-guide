@@ -9,15 +9,16 @@ parts:
       - history
       - why-30
       - patterns-and-principles
-      - patterns
+      - pattern
       - principles
       - principle-accountability
-      - making-sense-of-organizations
-      - driver
-      - domain
-      - objection
-      - agreement
-      - governance
+      - id: making-sense-of-organizations
+        sections:
+          - driver
+          - domain
+          - objection
+          - agreement
+          - governance
 
   - id: patterns
     chapters:
