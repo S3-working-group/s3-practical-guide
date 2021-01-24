@@ -1,1 +1,3 @@
 # Introduction
+
+{{index:root=introduction}}

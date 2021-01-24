@@ -1,1 +1,3 @@
 # Appendix
+
+{{index:root=appendix}}

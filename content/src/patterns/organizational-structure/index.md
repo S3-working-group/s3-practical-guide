@@ -19,3 +19,5 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
 -   different structural patterns serve different [drivers](glossary:driver)
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
+
+{{index:root=organizational-structure}}

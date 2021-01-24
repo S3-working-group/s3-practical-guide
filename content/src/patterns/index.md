@@ -1,1 +1,4 @@
 # Patterns
+
+{{index:root=patterns}}
+
