@@ -1,8 +1,8 @@
 defaults:
-  # Version of the practical guide (added to all releases)
-  version: "v2021-01-12"
+  variables:
+    # Version of the practical guide (added to all releases)
+    version: "v2021-01-12"
 
-  # get language specific parameters
   # File name used for build targets
   target_filename: "S3-practical-guide"
 
@@ -17,10 +17,6 @@ defaults:
   # glossary-style: plain:glossary style for ebook builder (plain(default)|footnotes|underline)
   glossary-style: plain
 
-  # TODO: is this still necessary
-  # must be set to "NO" for translations, and "YES" for source language (English)
-  build_index: "YES"
-
   # TODO: update the make conf file from translations
   # target::Target file (for reveal.js and deckset) or folder (for wordpress or jekyll).
   target: "" 
@@ -28,45 +24,49 @@ defaults:
   footer: ""
   # template: The template to use (deckset, revealjs, and jekyll output)
   template: ""
-  # introduction-template [jekyll]: Template for the introduction page.
-  introduction-template: ""
 
 presets:
   jekyll:
     renderer: jekyll
-    # Language and text direction for Jekyll site
-    html_language: "en"
-    html_dir: "ltr"
-    # CNAME for GitHub-Page
-    microsite_cname: "patterns.sociocracy30.org"
-    # URL o the Github project
-    github_url: "https://github.com/S3-working-group/s3-practical-guide"
-    # URL of the website
-    site_url: "https://patterns.sociocracy30.org"
+    variables:
+      # Language and text direction for Jekyll site
+      html_language: "en"
+      html_dir: "ltr"
+      # CNAME for GitHub-Page
+      microsite_cname: "patterns.sociocracy30.org"
+      # URL o the Github project
+      github_url: "https://github.com/S3-working-group/s3-practical-guide"
+      # URL of the website
+      site_url: "https://patterns.sociocracy30.org"
 
     # build content files
     target: docs-new/ 
-    #--template=content/website/_templates/index.md
-    index_template: content/website/_templates/index.md
-    introduction_template: content/website/_templates/introduction.md
 
     templates: 
-      - source: templates/website/_layouts/default.html docs/_layouts/default.html
-        destination: templates/website/_layouts/plain.html docs/_layouts/plain.html
+      - source: templates/website/index.md
+        destination: docs/index.md
+        mode: markdown
+      - source: templates/website/_layouts/default.html
+        destination: docs/_layouts/default.html
+      - source: templates/website/_layouts/plain.html
+        destination: docs/_layouts/plain.html
       - source: templates/website/_config.yml
         destination: docs/_config.yml
-      - source: templates/website/CNAME docs/CNAME
+      - source: templates/website/CNAME
+        destination: docs/CNAME
       - source: content/website/_includes/footer.html
         destination: docs/_includes/footer.html
       - source: templates/website/pattern-map.html
         destination: docs/_includes/pattern-map.html
-      # TODO these templates were simply copied
       - source: templates/website/map.md
         destination: docs/map.md
+        mode: copy
       - source: content/website/_includes/header.html
         destination: docs/_includes/header.html
+        mode: copy
       - source: content/website/_templates/404.md
         destination: docs/404.md
+        mode: copy
 
     # TODO: build the single page version
     # - source: templates/single-page--master.md tmp/ebook/single-page--master.md
