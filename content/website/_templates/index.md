@@ -10,7 +10,7 @@ For further information about Sociocracy 3.0 and more free resources check out 
 
 ## Pattern Groups
 
-{{index:root=patterns}}
+{{index:root=patterns,force_format=plain}}
 
 
 
