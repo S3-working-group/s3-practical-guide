@@ -122,20 +122,16 @@ presets:
     target_format: latex
     # render intro, chapters and appendix to separate md files (but without sectionprefix!)
     # mdslides build ebook $(CONFIG) $(SOURCE) tmp/ebook/ --glossary=$(GLOSSARY) --no-section-prefix
-    target: tmp/ebook/
-    no-section-prefix: True
-
+    target: tmp/ebook/tmp-ebook-compiled.md
+    # template is empty on purpose, because it is not required
+    template: ""
     # copy md and LaTEX templates
     templates:
-      - source: templates/ebook--master.md
-        destination: tmp/ebook/ebook--master.md
       - source: config/ebook.tex
         destination: tmp/ebook/ebook.tex
       - source: config/ebook-style.sty
         destination: tmp/ebook/ebook-style.sty
 
-    # make an index
-    #slides index latex $(CONFIG) tmp/ebook/tmp-index.md
     # transclude all to one file
     # cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
