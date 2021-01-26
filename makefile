@@ -22,11 +22,18 @@ endef
 make translations:
 	$(MKTPL) templates/version.txt content/version.txt $(LOC) $(PRJ)
 	# it's intentional this is just echoed
-	echo "sudo crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version.txt) --dryrun"
+	echo "sudo crXXXXowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version.txt) --dryrun"
 
-new:
+new-site:
 	mdbuild jekyll config/project-new.yaml
 	
+new-single:
+	mdbuild single-jekyll-page config/project-new.yaml
+
+new-epup:
+	mdbuild epub config/project-new.yaml
+
+
 site:
 	# build jekyll site
 	$(update-make-conf)
