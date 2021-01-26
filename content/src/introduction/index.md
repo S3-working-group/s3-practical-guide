@@ -1,3 +1,3 @@
 # Introduction
 
-{{index:root=introduction}}
+{{index:root=introduction,style=list,only=jekyll}}

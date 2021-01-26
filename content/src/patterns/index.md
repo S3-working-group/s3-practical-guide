@@ -1,4 +1,4 @@
 # Patterns
 
-{{index:root=patterns}}
+{{index:root=patterns,style=list,only=jekyll}}
 

@@ -1,4 +1,4 @@
 ## Building Organizations
 
-{{index:root=building-organizations}}
+{{index:root=building-organizations,style=summary,only=jekyll}}
 

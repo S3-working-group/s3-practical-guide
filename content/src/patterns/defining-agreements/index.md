@@ -7,4 +7,4 @@
 
 ![The Life-Cycle of an Agreement](img/evolution/agreement-lifecycle-long.png)
 
-{{index:root=defining-agreements}}
+{{index:root=defining-agreements,style=summary,only=jekyll}}

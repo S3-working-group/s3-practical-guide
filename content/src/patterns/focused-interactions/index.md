@@ -1,3 +1,3 @@
 ## Focused Interactions
 
-{{index:root=focused-interactions}}
+{{index:root=focused-interactions,style=summary,only=jekyll}}

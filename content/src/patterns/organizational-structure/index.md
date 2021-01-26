@@ -20,4 +20,4 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
 
-{{index:root=organizational-structure}}
+{{index:root=organizational-structure,style=summary,only=jekyll}}

@@ -1,3 +1,3 @@
 # Appendix
 
-{{index:root=appendix}}
+{{index:root=appendix,style=list,only=jekyll}}
