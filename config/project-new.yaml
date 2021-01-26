@@ -19,7 +19,7 @@ defaults:
 
   # TODO: update the make conf file from translations
   # target::Target file (for reveal.js and deckset) or folder (for wordpress or jekyll).
-  target: "" 
+  target: ""
   # template: The template to use (deckset, revealjs, and jekyll output)
   template: ""
   # the target format (html, markdown, latex)
@@ -41,9 +41,9 @@ presets:
       site_url: "https://patterns.sociocracy30.org"
 
     # build content files
-    target: docs-new/ 
+    target: docs-new/
 
-    templates: 
+    templates:
       - source: content/website/_templates/index.md
         destination: docs/index.md
         mode: markdown
@@ -70,18 +70,20 @@ presets:
         mode: copy
 
   single-jekyll-page:
+    # a single-page-version for the website
     renderer: ebook
     template: templates/single-page--master.md
     target: docs/all-new.md
+    target_format: html
     # - source: templates/single-page--master.md tmp/ebook/single-page--master.md
 
   epub:
     target: tmp/ebook/
     target_format: html
-    templates:     # prepare and copy template
-      - source: templates/epub--master.md 
+    templates:
+      - source: templates/epub--master.md
         destination: tmp/ebook/epub--master.md
-    # transclude all to one file 
+    # transclude all to one file
     # cd tmp/ebook; multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
     # render to epub
     # cd tmp/ebook; pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE).epub
@@ -138,13 +140,13 @@ presets:
     # cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
     # cd tmp/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
-    # cd tmp/ebook; latexmk -pdf -xelatex -silent ebook.tex 
+    # cd tmp/ebook; latexmk -pdf -xelatex -silent ebook.tex
 
     # merge with cover
     # cd tmp/ebook; gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf ../../templates/ebook-cover.pdf ebook.pdf
 
     # cd tmp/ebook; mv merged.pdf ../../$(TARGETFILE).pdf
-    
+
     # clean up
     # cd tmp/ebook; latexmk -C
 
