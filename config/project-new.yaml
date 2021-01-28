@@ -44,30 +44,38 @@ presets:
     target: docs-new/
 
     templates:
+      # main website index.html, 404 and map
       - source: content/website/_templates/index.md
         destination: docs/index.md
         mode: markdown
-      - source: templates/website/_layouts/default.html
-        destination: docs/_layouts/default.html
-      - source: templates/website/_layouts/plain.html
-        destination: docs/_layouts/plain.html
-      - source: templates/website/_config.yml
-        destination: docs/_config.yml
-      - source: templates/website/CNAME
-        destination: docs/CNAME
-      - source: content/website/_includes/footer.html
-        destination: docs/_includes/footer.html
+      - source: content/website/_templates/404.md
+        destination: docs/404.md
+        mode: copy
       - source: templates/website/pattern-map.html
         destination: docs/_includes/pattern-map.html
       - source: templates/website/map.md
         destination: docs/map.md
         mode: copy
+      # layouts for website
+      - source: templates/website/_layouts/default.html
+        destination: docs/_layouts/default.html
+      - source: templates/website/_layouts/plain.html
+        destination: docs/_layouts/plain.html
+      # includes for website
+      - source: content/website/_includes/footer.html
+        destination: docs/_includes/footer.html
+      - source: content/website/_includes/menu.html
+        destination: tmp/menu.html
+      #  destination: docs/_includes/menu.html
+        mode: html
       - source: content/website/_includes/header.html
         destination: docs/_includes/header.html
         mode: copy
-      - source: content/website/_templates/404.md
-        destination: docs/404.md
-        mode: copy
+      # other website config files
+      - source: templates/website/_config.yml
+        destination: docs/_config.yml
+      - source: templates/website/CNAME
+        destination: docs/CNAME
 
   single-jekyll-page:
     # a single-page-version for the website
