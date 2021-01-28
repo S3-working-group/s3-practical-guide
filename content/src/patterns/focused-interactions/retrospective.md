@@ -1,4 +1,4 @@
-## Retrospective
+# Retrospective
 
 <summary>
 **Dedicate time to reflect on past experience, learn, and decide how to improve work process.**
@@ -11,7 +11,7 @@
 
 ![Output of a retrospective](img/meetings/retrospective.png)
 
-### Five Phases of a Retrospective Meeting
+## Five Phases of a Retrospective Meeting
 
 1. Set the stage
 2. Gather data

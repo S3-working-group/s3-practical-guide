@@ -1,4 +1,4 @@
-### Patterns
+# Patterns
 
 S3 offers a pattern-based approach to organizational change.
 

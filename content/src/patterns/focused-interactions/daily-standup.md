@@ -1,4 +1,4 @@
-## Daily Standup
+# Daily Standup
 
 <summary>
 **Meet daily to organize work, facilitate learning and improve your productivity and effectiveness.**

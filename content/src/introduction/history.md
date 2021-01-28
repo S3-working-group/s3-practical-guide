@@ -1,4 +1,4 @@
-## Influences and History of Sociocracy 3.0
+# Influences and History of Sociocracy 3.0
 
 ![Influences and history of Sociocracy 3.0](img/context/history.png)
 
@@ -21,7 +21,7 @@ In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a b
 **Liliana David** joined the team soon after. Together they regularly collaborate to make S3 available and applicable to as many organizations as possible, and provide resources under a **Creative Commons Free Culture License** for people who want to learn, apply and tell others about Sociocracy_3.0.
 
 
-### The Sociocracy 3.0 Movement
+## The Sociocracy 3.0 Movement
 
 As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and its various applications.
 

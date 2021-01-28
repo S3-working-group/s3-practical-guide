@@ -1,4 +1,4 @@
-## Open Domain
+# Open Domain
 
 <summary>
 **Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.**

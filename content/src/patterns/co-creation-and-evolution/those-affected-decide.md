@@ -1,4 +1,4 @@
-## Those Affected Decide
+# Those Affected Decide
 
 <summary>
 **Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.**

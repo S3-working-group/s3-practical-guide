@@ -1,4 +1,4 @@
-### Domains
+# Domains
 
 {{define:domain}}
 
@@ -11,14 +11,14 @@ Any role or team's purpose is to contribute towards the overall purpose of the o
 [Clarifying domains](section:clarify-and-develop-domains) makes the contract between the _delegator_ (who delegate responsibility for a domain) and the _delegatee(s)_ (to whom the domain is delegated) explicit, which enables everyone to learn about what works and what doesn't, and to understand who is responsible for what. A clear domain description with a reasonable amount of detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work.
 
 
-#### Regularly evaluate and evolve domains
+## Regularly evaluate and evolve domains
 
 People's understanding of the organization is limited and the environment is always changing. Therefore it is essential that delegator, delegatee(s) and other relevant stakeholders regularly take the time to evaluate and evolve both the design of the domain and how people account for it as their understanding of the domain deepens. 
 
 People might do a great job of accounting for a domain in the way it's designed, but the design of the domain might be primitive or flawed. On the other hand, even if the design of a domain is poor in the first iteration, through this process it will improve over time.
 
 
-#### Delegating Responsibility for Domains
+## Delegating Responsibility for Domains
 
 {{define:delegation}}
 
@@ -37,7 +37,7 @@ The [delegator](glossary:delegator) still retains overall accountability for tha
 -   **constraints to the autonomy and influence** of the delegatee(s), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
 
-#### Drivers and Domains
+## Drivers and Domains
 
 It's also possible to understand a domain in relation to organizational drivers:
 

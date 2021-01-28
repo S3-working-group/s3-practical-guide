@@ -1,4 +1,4 @@
-## Delegate Influence
+# Delegate Influence
 
 <summary>
 **Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.**

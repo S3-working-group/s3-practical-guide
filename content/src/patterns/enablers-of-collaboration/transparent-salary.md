@@ -1,4 +1,4 @@
-## Transparent Salary
+# Transparent Salary
 
 <summary>
 **Create a fair salary formula and make it transparent.**

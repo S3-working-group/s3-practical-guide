@@ -1,4 +1,4 @@
-## Bylaws
+# Bylaws
 
 <summary>
 Secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture**

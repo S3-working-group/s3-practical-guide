@@ -1,4 +1,4 @@
-## Navigate Via Tension
+# Navigate Via Tension
 
 <summary>
 **Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.**

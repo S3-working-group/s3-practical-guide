@@ -1,4 +1,4 @@
-## Agree On Values
+# Agree On Values
 
 <summary>
 **Intentionally evolve the culture in your organization.**

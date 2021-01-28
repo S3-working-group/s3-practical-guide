@@ -1,4 +1,4 @@
-## Development Plan
+# Development Plan
 
 <summary>
 **A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.**

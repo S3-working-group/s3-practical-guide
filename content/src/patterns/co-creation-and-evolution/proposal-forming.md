@@ -1,4 +1,4 @@
-## Proposal Forming
+# Proposal Forming
 
 <summary>
 **A (facilitated) group process for co-creating a response to a driver.**
@@ -10,7 +10,7 @@
 
 _Proposal Forming_ may also be used by an individual.
 
-### Proposal Forming Steps
+## Proposal Forming Steps
 
 **Consent to driver:** Briefly present the [driver](glossary:organizational-driver). _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_
 
@@ -26,7 +26,7 @@ _Proposal Forming_ may also be used by an individual.
 
 **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group of "tuners".
 
-### Choosing Tuners
+## Choosing Tuners
 
 Consider:
 

@@ -1,4 +1,4 @@
-## Visualize Work
+# Visualize Work
 
 <summary>
 **Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.**
@@ -11,7 +11,7 @@
 
 ![Visualization of a simple work process](img/workflow-and-value/simple-process.png)
 
-### Things to track:
+## Things to track:
 
 -   **types of work items** (e.g. customer request, project tasks, reporting tasks, rework)
 -   **start date** (and **due date** if necessary)

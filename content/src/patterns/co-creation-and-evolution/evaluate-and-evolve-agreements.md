@@ -1,4 +1,4 @@
-## Evaluate And Evolve Agreements
+# Evaluate And Evolve Agreements
 
 <summary>
 **Continuously evolve the body of agreements, and eliminate waste.**
@@ -21,14 +21,14 @@ Adjust review frequency as necessary, and review early if required.
 
 Elements of this pattern can also be used by individuals to evaluate decisions they make.
 
-### Short Format
+## Short Format
 
 -   _How has this agreement helped us?_
 -   _Is there any reason to drop this agreement?_
 -   _How can this agreement be improved?_
 -   Agree on a next review date.
 
-### Long Format
+## Long Format
 
 ![A long format for evaluating and evolving agreements](img/agreements/evaluate-agreements.png)
 

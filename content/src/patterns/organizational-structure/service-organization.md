@@ -1,4 +1,4 @@
-## Service Organization
+# Service Organization
 
 <summary>
 **Multi-stakeholder collaboration and alignment towards a shared driver (or objective).**

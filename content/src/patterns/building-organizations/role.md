@@ -1,4 +1,4 @@
-## Role
+# Role
 
 <summary>
 **Delegate responsibility for a domain to individuals.**

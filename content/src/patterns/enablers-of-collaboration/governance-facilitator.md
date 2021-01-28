@@ -1,4 +1,4 @@
-## Governance Facilitator
+# Governance Facilitator
 
 <summary>
 **Select someone to facilitate governance meetings.**

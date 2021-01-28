@@ -1,4 +1,4 @@
-## Acknowledgments
+# Acknowledgments
 
 The content of Sociocracy 3.0 reflects the accumulated experience and wisdom of contributors across generations. These people have shared a common quest: to evolve more effective, harmonious and conscious ways of collaborating together.
 

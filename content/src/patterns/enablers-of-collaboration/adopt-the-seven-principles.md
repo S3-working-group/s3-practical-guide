@@ -1,4 +1,4 @@
-## Adopt The Seven Principles
+# Adopt The Seven Principles
 
 <summary>
 **Align collaboration with the Seven Principles.**

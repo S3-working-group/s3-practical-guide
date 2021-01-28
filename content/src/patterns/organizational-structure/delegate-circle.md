@@ -1,4 +1,4 @@
-## Delegate Circle
+# Delegate Circle
 
 <summary>
 **Delegate making governance decisions affecting multiple domains to representatives selected by those domains.**

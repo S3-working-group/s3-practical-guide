@@ -1,4 +1,4 @@
-## Artful Participation
+# Artful Participation
 
 <summary>
 **Commit to doing your best to act and interact in ways that enable effective collaboration.**
@@ -16,7 +16,7 @@ _Artful Participation_ is an **individual commitment** to:
 -   **support others** to participate artfully
 -   bring impediments and improvement suggestions to the attention of others if necessary
 
-### Benefits Of Artful Participation
+## Benefits Of Artful Participation
 
 Artful participation:
 
@@ -28,7 +28,7 @@ Artful participation:
 
 ![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
 
-### Artful Participation: Self-Assessment
+## Artful Participation: Self-Assessment
 
 -   How can I support myself and others to participate more artfully?
 -   Where are my interactions with others unhelpful or ineffective?

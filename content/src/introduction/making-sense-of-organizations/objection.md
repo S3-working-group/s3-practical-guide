@@ -1,4 +1,4 @@
-### Objections
+# Objections
 
 {{define:objection}}
 
@@ -29,7 +29,7 @@ Create a culture where people feel comfortable to raise *potential* objections a
 Harness a diversity of perspectives and be open to challenge your own, to discover when and what to change, and enjoy iterating more rapidly, running experiments and learning from the outcomes as you proceed.
 
 
-#### Concerns
+## Concerns
 
 **Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on  assumptions, or a personal preference or opinion.**
 

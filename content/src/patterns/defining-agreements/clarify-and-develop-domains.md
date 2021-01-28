@@ -1,4 +1,4 @@
-## Clarify and Develop Domains
+# Clarify and Develop Domains
 
 <summary>
 **A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.**
@@ -30,7 +30,7 @@ The delegatee(s) may do whatever they think will help them achieve their purpose
 Things that are forbidden may include explicit constraints laid out in the domain description, any other agreements the delegatee(s) needs to keep, or legal and regulatory requirements.
 
 
-### When to clarify domains
+## When to clarify domains
 
 Consider clarifying domains whenever you identify that stakeholders have differing assumptions about the domain of an existing [role](section:role), position, team, department, or unit, or even about the domain of the organization as a whole.
 
@@ -39,14 +39,14 @@ As a delegator, clarify any new domains that you intend to delegate.
 When retrospectively clarifying domains that have already been delegated to people, a delegator can gain valuable insights by inviting the delegatee(s) to describe the domain from their perspective first. 
 
 
-### Regularly evaluate and evolve domains
+## Regularly evaluate and evolve domains
 
 People’s understanding of the organization is limited and the environment is always changing. Therefore it is essential that delegator, delegatee(s) and other relevant stakeholders regularly take the time to evaluate and evolve both the design of the domain and how people account for it as their understanding of the domain deepens. 
 
 People might do a great job of accounting for a domain in the way it’s designed, but the design of the domain might be primitive or flawed. On the other hand, even if the design of a domain is poor in the first iteration, through this process it will improve over time.
 
 
-### Clarify the domain of the whole organization
+## Clarify the domain of the whole organization
 
 All domains in an organization are nested within the overall domain of the organization, which can be designed deliberately in the early stages of the organization, or clarified retrospectively. An organization’s domain needs to enable the members of the organization to effectively fulfil its purpose and typically needs to be evolved over time.
 
@@ -59,10 +59,10 @@ Regularly evaluate the organization’s domain to support those responsible for 
 One way of clarifying an organization’s domain is by filling out an [S3 Organization Canvas](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
 
 
-### Useful aspects to clarify in a Domain Description
+## Useful aspects to clarify in a Domain Description
 
 
-#### Primary Driver
+### Primary Driver
 
 Explain how the delegatee(s) will contribute to the overall purpose of the organization, by clarifying the specific organizational need they (will) take care of. 
 
@@ -73,7 +73,7 @@ Aim for one or two sentences, so that the information is easy to remember and pr
 Besides the summary, more details about the driver may be kept in the [logbook](section:logbook).
 
 
-#### Key Responsibilities
+### Key Responsibilities
 
 List all essential work and decision making being delegated, in a way that enables measuring success. 
 
@@ -84,7 +84,7 @@ Describe explicitly why each of these responsibilities matter for the organizati
 Responsibilities should be specific and measurable, so they can be reviewed and developed as required.
 
 
-#### Dependencies
+### Dependencies
 
 Make explicit the essential dependencies between this domain and other parts of the organization, so that the delegatee(s) can collaborate on managing those dependencies with the other stakeholders.
 
@@ -95,7 +95,7 @@ Consider:
 -   Shared resources
 
 
-#### External Constraints
+### External Constraints
 
 Describe important constraints to the autonomy and influence of the delegatee(s). 
 
@@ -110,7 +110,7 @@ Some examples:
 -   Organizational values
 
 
-#### Key Challenges
+### Key Challenges
 
 What are the known or anticipated challenges that the delegatee(s) might face when accounting for this domain: relating to the outside world, the rest of the organization and sometimes to a specific delegatee?
 
@@ -122,7 +122,7 @@ What are the known or anticipated challenges that the delegatee(s) might face wh
 **Note:** there are always some risks that you need to manage. Try to list at least 3!
 
 
-#### Key Deliverables
+### Key Deliverables
 
 What does the team or role provide to respond to it’s primary driver, the key responsibilities and the key challenges faced?
 
@@ -130,17 +130,17 @@ As a delegator, consider carefully to what degree you will leave the design of d
 Describe each deliverable with a reasonable amount of detail and ensure that deliverables are valuable to the stakeholders that receive them. You can start with a sentence or two about each deliverable but eventually you might need to [describe them in more detail](section:describe-deliverables).
 
  
-#### Competencies, qualities and skills
+### Competencies, qualities and skills
 
 What competencies, qualities and skills are required – or at least preferable – to successfully account for this domain?
 
 
-#### Key Resources
+### Key Resources
 
 Essential resources the delegatee(s) can make use of in accounting for their domain, e.g. time allocation, budget, privileges, facilities, hardware, software, etc.
 
 
-#### Delegator Responsibilities
+### Delegator Responsibilities
 
 When delegating a domain to others, the delegator still retains overall accountability for the domain and often has a valuable contribution to make toward accounting for that domain. 
 
@@ -155,7 +155,7 @@ Consider:
 Describe the delegator’s responsibilities in specific and measurable terms, so that they can be reviewed and developed as required.
  
 
-#### Key Metrics
+### Key Metrics
 
 Key [Metrics](glossary:metric) are critical indicators of progress. They relate to the primary driver (and/or purpose), key responsibilities, challenges, deliverables, and delegator responsibilities defined for this domain. 
 
@@ -166,7 +166,7 @@ For each metric, consider the actual numbers that are monitored, as well as the 
 Aim to define simple and specific metrics that you can take regularly (preferably daily).
 
 
-#### Evaluation
+### Evaluation
 
 Regularly evaluate the outcome resulting from activity in this domain and use what you learn to improve creation of value.
 
@@ -192,7 +192,7 @@ Define:
 
 Make sure to record and monitor when a domain is due review and add these dates to your [logbook](section:logbook).
 
-#### Additional Information
+### Additional Information
 
 Consider also including the following information to the domain description
 

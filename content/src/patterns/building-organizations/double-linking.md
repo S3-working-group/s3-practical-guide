@@ -1,4 +1,4 @@
-## Double Linking
+# Double Linking
 
 <summary>
 **Enable the _two-way_ flow of information and influence between two teams.**

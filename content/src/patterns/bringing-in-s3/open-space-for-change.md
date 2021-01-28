@@ -1,4 +1,4 @@
-## Open Space For Change
+# Open Space For Change
 
 <summary>
 **Invite everyone to create and run experiments for evolving the organization.**

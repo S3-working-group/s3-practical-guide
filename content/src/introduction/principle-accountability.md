@@ -1,4 +1,4 @@
-#### The Principle of Accountability
+# The Principle of Accountability
 
 *{{glossary:accountability}}*
 

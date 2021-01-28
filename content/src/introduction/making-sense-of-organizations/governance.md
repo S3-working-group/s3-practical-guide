@@ -1,4 +1,4 @@
-### Governance and Operations
+# Governance and Operations
 
 S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
 
@@ -29,7 +29,7 @@ This includes:
 
 Governance decisions can be made at any time and at any place, not just in a specific kind of meeting, although a [regular meeting for making and evolving agreements](section:governance-meeting) is often a good idea.
 
-#### Related Concepts
+## Related Concepts
 
 **Self-Governance:** {{glossary:self-governance}}
 

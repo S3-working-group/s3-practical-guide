@@ -1,4 +1,4 @@
-## Meeting Host
+# Meeting Host
 
 <summary>
 **Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
@@ -6,7 +6,7 @@
 
 A person may take on the role of meeting host for a specific event or for several events over a period of time.
 
-### Responsibilities Of A Meeting Host
+## Responsibilities Of A Meeting Host
 
 Preparation:
 

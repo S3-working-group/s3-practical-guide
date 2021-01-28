@@ -1,4 +1,4 @@
-## Continuous Improvement Of Work Process
+# Continuous Improvement Of Work Process
 
 <summary>
 **Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.**
@@ -11,7 +11,7 @@
 -   if valuable, iteratively expand the scope of the experiment to other teams
 -   intentionally look out for impediments
 
-### Waste And Continuous Improvement
+## Waste And Continuous Improvement
 
 {{define:waste}}
 

@@ -1,4 +1,4 @@
-## Planning And Review Meetings
+# Planning And Review Meetings
 
 <summary>
 **People meet at regular intervals (1-4 weeks) in timeboxed meetings to plan and review work.**

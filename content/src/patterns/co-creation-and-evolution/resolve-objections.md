@@ -1,4 +1,4 @@
-## Resolve Objections
+# Resolve Objections
 
 <summary>
 **Resolve objections one at a time by using the information they contain to make and evolve amendments.**

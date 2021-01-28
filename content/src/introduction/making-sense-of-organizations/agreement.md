@@ -1,4 +1,4 @@
-### Agreements
+# Agreements
 
 {{define:agreement}}
 

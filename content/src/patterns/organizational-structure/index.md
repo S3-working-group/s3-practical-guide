@@ -1,4 +1,4 @@
-## Organizational Structure
+# Organizational Structure
 
 Organizational structure is the actual arrangement of [domains](glossary:domain) and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
 

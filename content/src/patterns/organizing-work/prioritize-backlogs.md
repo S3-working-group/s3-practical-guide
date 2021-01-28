@@ -1,4 +1,4 @@
-## Prioritize Backlogs
+# Prioritize Backlogs
 
 <summary>
 **Order all uncompleted work items with the most important items first, then pull work items from the top whenever there is new capacity.**

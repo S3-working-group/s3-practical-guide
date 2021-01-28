@@ -1,4 +1,4 @@
-## Support Role
+# Support Role
 
 <summary>
 **Apply the role pattern to external contractors.**

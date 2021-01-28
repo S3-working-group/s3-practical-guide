@@ -1,4 +1,4 @@
-## Test Arguments Qualify as Objections
+# Test Arguments Qualify as Objections
 
 <summary>
 **Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.**
@@ -15,7 +15,7 @@ _"Do you think this argument qualifies as an objection?"_
 If no one disagrees, treat the argument as an objection. In case of disagreement, invite a dialogue to discover if an objection is revealed by the argument.
 
 
-### Understanding Objections
+## Understanding Objections
 
 Some helpful questions:
 

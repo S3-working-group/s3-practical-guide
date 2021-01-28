@@ -1,4 +1,4 @@
-## Logbook
+# Logbook
 
 <summary>
 **Maintain a coherent and accessible system that stores all information required for collaboration.**
@@ -8,7 +8,7 @@ A logbook is a (digital) system to store all information relevant for running an
 
 Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (e.g. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) or even [Trello](https://trello.com/).
 
-### Logbook Contents
+## Logbook Contents
 
 Content relating to the whole organization:
 

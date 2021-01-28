@@ -1,4 +1,4 @@
-## Logbook Keeper
+# Logbook Keeper
 
 <summary>
 **Select a member of your team to be specifically accountable for keeping up to date records of all information the team requires.**

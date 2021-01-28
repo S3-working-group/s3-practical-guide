@@ -1,4 +1,4 @@
-## Clarify Intended Outcome
+# Clarify Intended Outcome
 
 <summary>
 **Be explicit about the expected results of agreements, activities, projects and strategies.**

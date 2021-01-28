@@ -1,4 +1,4 @@
-## Linking
+# Linking
 
 <summary>
 **Enable the flow of information and influence between two teams.**

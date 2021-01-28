@@ -1,4 +1,4 @@
-## Respond to Organizational Drivers
+# Respond to Organizational Drivers
 
 <summary>
 **Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.**
@@ -14,7 +14,7 @@ The response to an organizational driver is typically treated as an experiment t
 
 ![Possible responses to organizational drivers](img/driver-domain/driver-response-full.png)
 
-### Qualify Drivers as Organizational Drivers
+## Qualify Drivers as Organizational Drivers
 
 {{glossary:organizational-driver}}
 

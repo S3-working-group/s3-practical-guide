@@ -1,4 +1,4 @@
-## Check In
+# Check In
 
 <summary>
 **Help people to become aware of themselves and others, and to focus, be present and engage.**

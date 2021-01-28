@@ -1,4 +1,4 @@
-## Double-Linked Hierarchy
+# Double-Linked Hierarchy
 
 <summary>
 **Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.**

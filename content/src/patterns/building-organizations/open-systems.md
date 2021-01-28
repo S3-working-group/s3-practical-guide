@@ -1,4 +1,4 @@
-## Open Systems
+# Open Systems
 
 <summary>
 **Intentionally communicate with and learn from others outside of your system.**
