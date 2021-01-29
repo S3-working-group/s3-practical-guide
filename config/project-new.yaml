@@ -81,10 +81,10 @@ presets:
       - source: templates/website/CNAME
         destination: docs/CNAME
 
-  single-jekyll-page:
+  all-in-one-jekyll-page:
     # a single-page-version for the website
     renderer: ebook
-    template: templates/single-page--master.md
+    template: templates/website/all-in-one-page.md
     target: docs/all-new.md
     target-format: html
     header-offset: 1

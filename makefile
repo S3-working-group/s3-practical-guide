@@ -26,21 +26,17 @@ make translations:
 
 site:
 	# build jekyll site
-	mdbuild jekyll config/project-new.yaml
-	# TODO: sinngle page version needs to go here
-	
-	#cd docs;jekyll build
-	
-single:
-	# build the single page version
-	# TODO: add to make site!!!!
-	mdbuild single-jekyll-page config/project-new.yaml
+	mdbuild jekyll config/project-new.yaml -vv
+	mdbuild all-in-one-jekyll-page config/project-new.yaml -vv
+	cd docs;jekyll build
 
+single:
+	mdbuild all-in-one-jekyll-page config/project-new.yaml -vv
 
 epup:
 	# render an ebook as epub
 
-	mdbuild epub config/project-new.yaml
+	mdbuild epub config/project-new.yaml -vv
 
 # 	# transclude all to one file 
 # 	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
@@ -71,7 +67,7 @@ supporter-epub:
 
 ebook:
 	# render an ebook as pdf (via LaTEX)
-	mdbuild ebook config/project-new.yaml
+	mdbuild ebook config/project-new.yaml -vv
 	
 	#cd $(EBOOK_TMP); multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	#cd $(EBOOK_TMP); latexmk -pdf -xelatex -silent ebook.tex 
