@@ -8,10 +8,11 @@ parts:
       - s3-overview
       - history
       - why-30
-      - patterns-and-principles
-      - pattern
-      - principles
-      - principle-accountability
+      - id: patterns-and-principles
+        sections:
+          - pattern
+          - principles
+          # - principle-accountability
       - id: making-sense-of-organizations
         sections:
           - driver
