@@ -8,7 +8,7 @@ defaults:
   target-filename: "S3-practical-guide"
 
   source: content/src
-  structure: content/structure-new.yaml
+  structure: content/structure.yaml
   # That must be .po for translations, and .pot for the source language!
   localization: content/localization.pot
 
@@ -19,7 +19,6 @@ defaults:
   # glossary-style: plain:glossary style for ebook builder (plain(default)|footnotes|underline)
   glossary-style: plain
 
-  # TODO: update the make conf file from translations
   # target::Target file (for reveal.js and deckset) or folder (for wordpress or jekyll).
   target: ""
   # template: The template to use (deckset, revealjs, and jekyll output)
