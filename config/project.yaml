@@ -8,7 +8,7 @@ defaults:
   target-filename: "S3-practical-guide"
 
   source: content/src
-  structure: content/structure.yaml
+  structure: config/structure.yaml
   # That must be .po for translations, and .pot for the source language!
   localization: content/localization.pot
 
