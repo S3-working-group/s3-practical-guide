@@ -59,18 +59,18 @@ ebook:
 	# render an ebook as pdf (via LaTEX)
 	mdbuild ebook $(PROJECT) -vv
 	
-	#cd $(EBOOK_TMP); multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
-	#cd $(EBOOK_TMP); latexmk -pdf -xelatex -silent ebook.tex 
+	cd $(EBOOK_TMP); multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
+	cd $(EBOOK_TMP); latexmk -pdf -xelatex -silent ebook.tex 
 
 	# merge with cover
-	#cd $(EBOOK_TMP); gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf ../../templates/ebook-cover.pdf ebook.pdf
+	cd $(EBOOK_TMP); gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf ../../templates/ebook-cover.pdf ebook.pdf
 
-	#cd $(EBOOK_TMP); mv merged.pdf ../../$(TARGETFILE).pdf
+	cd $(EBOOK_TMP); mv merged.pdf ../../$(TARGETFILE).pdf
 	
 	# clean up
-	#cd $(EBOOK_TMP); latexmk -C
+	cd $(EBOOK_TMP); latexmk -C
 
-#gitbook:
+gitbook:
 	# mdslides build gitbook $(CONFIG) $(SOURCE) gitbook/ --glossary=$(GLOSSARY)
 
 clean:
