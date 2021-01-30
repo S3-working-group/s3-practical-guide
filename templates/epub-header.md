@@ -1,3 +1,4 @@
+---
 title:
 - type: main
   text: ${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}
@@ -5,15 +6,11 @@ title:
   text: ${_("70+ Powerful Practices to Help You and Your Organization Thrive")}
 creator:
 - role: author
-  text: Bernhard Bockelbrink
-- role: author
-  text: James Priest
-- role: author
-  text: Liliana David
-rights: ${version} © 2015 - 2021 Bernhard Bockelbrink, James Priest, Liliana David
+  text: Bernhard Bockelbrink, James Priest, Liliana David
+rights: ${version} © 2015 - 2021 Bernhard Bockelbrink, James Priest, Liliana David, CC BY-SA
 lang: ${html_language}
-direction: ${html_dir}
 page-progression-direction: ${html_dir}
-cover-image: cover.png
-css: epub.css
-description: htmldescription
+cover-image: ../../templates/covers/s3-practical-guide-cover-70dpi.png
+css: ../../templates/epub.css
+...
+

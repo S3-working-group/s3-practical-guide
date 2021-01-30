@@ -3,6 +3,9 @@ defaults:
   variables:
     # Version of the practical guide (added to all releases)
     version: "v2021-01-12"
+    # Language and text direction for Jekyll site and epub
+    html-language: "en"
+    html-dir: "ltr"
 
   # File name used for build targets
   target-filename: "S3-practical-guide"
@@ -31,17 +34,14 @@ defaults:
 presets:
   jekyll:
     renderer: jekyll
-    target_format: html
+    target-format: html
     variables:
-      # Language and text direction for Jekyll site
-      html_language: "en"
-      html_dir: "ltr"
       # CNAME for GitHub-Page
-      microsite_cname: "patterns.sociocracy30.org"
+      microsite-cname: "patterns.sociocracy30.org"
       # URL o the Github project
-      github_url: "https://github.com/S3-working-group/s3-practical-guide"
+      github-url: "https://github.com/S3-working-group/s3-practical-guide"
       # URL of the website
-      site_url: "https://patterns.sociocracy30.org"
+      site-url: "https://patterns.sociocracy30.org"
 
     # build content files
     target: docs/
@@ -84,78 +84,53 @@ presets:
     # a single-page-version for the website
     renderer: ebook
     template: templates/website/all-in-one-page.md
-    target: docs/all-new.md
+    target: docs/all.md
     target-format: html
     header-offset: 1
 
   epub:
-    target: tmp/ebook/
+    renderer: ebook
+    target: tmp/epub-compiled.md
     target-format: html
+    template: templates/epub-header.md
     templates:
-      - source: templates/epub--master.md
-        destination: tmp/ebook/epub--master.md
-    # transclude all to one file
-    # cd tmp/ebook; multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
-    # render to epub
-    # cd tmp/ebook; pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE).epub
+        - source: templates/covers/s3-practical-guide-cover-70dpi.png
+          destination: tmp/s3-practical-guide-cover-70dpi.png
+          mode: copy
+        - source: templates/epub.css
+          destination: tmp/epub.css
+
 
   supporter-epub:
     # render epub for supporter edition
 
     # render intro, chapters and appendix to separate md files
-    # mdslides build ebook content/structure-supporter-edition.yaml $(SOURCE) tmp/supporter-epub/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-    target: tmp/supporter-epub/
-
+    # mdslides build ebook content/structure-supporter-edition.yaml $(SOURCE) tmp/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
+    target: tmp/supporter-epub-compiled.md
+    template: templates/supporter-edition-master.md
 
     # prepare and copy template, metadata, CSS and cover
     templates:
-      - source: templates/supporter-epub/master.md
-        destination: tmp/supporter-epub/master.md
-      - source: templates/supporter-epub/metadata.yaml
-        destination: tmp/supporter-epub/metadata.yaml
+      - source: templates/supporter-edition-metadata.yaml
+        destination: tmp/supporter-edition-metadata.yaml
       # those were just copied
       - source: templates/epub.css
-        destination: tmp/supporter-epub/epub.css
+        destination: tmp/supporter-edition.css
       - source: templates/covers/s3-practical-guide-cover-supporter-edition-70dpi.png
-        destination: tmp/supporter-epub/cover.png
-
-    # pandoc content/src/introduction/s3-overview-supporter-edition.md -f markdown_mmd -t html -o tmp/supporter-epub/description.html
-    #cd tmp/supporter-epub; tr -d "\n" <description.html >description-one-line.html
-    #cd tmp/supporter-epub; awk 'BEGIN{RS = "\n\n+" getline l < "description-one-line.html"}/htmldescription/{gsub("htmldescription",l)}1' metadata.yaml >metadata-full.yaml
-
-    # transclude all to one file (rendering to html or mmd yields exactly the same epub)
-    #cd tmp/supporter-epub; multimarkdown --to=mmd --output=epub-compiled.md master.md
-    # make epub via pandoc
-    #cd tmp/supporter-epub; pandoc epub-compiled.md -f markdown --metadata-file=metadata-full.yaml -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE)-supporter-edition.epub
+        destination: tmp/supporter-edition-cover.png
 
   ebook:
     renderer: ebook
     target-format: latex
-    # render intro, chapters and appendix to separate md files (but without sectionprefix!)
-    # mdslides build ebook $(CONFIG) $(SOURCE) tmp/ebook/ --glossary=$(GLOSSARY) --no-section-prefix
-    target: tmp/ebook/tmp-ebook-compiled.md
+    target: tmp/tmp-ebook-compiled.md
     # template is empty on purpose, because it is not required
     template: ""
-    # copy md and LaTEX templates
+    # copy md and LaTeX templates
     templates:
       - source: config/ebook.tex
-        destination: tmp/ebook/ebook.tex
+        destination: tmp/ebook.tex
       - source: config/ebook-style.sty
-        destination: tmp/ebook/ebook-style.sty
-
-    # transclude all to one file
-    # cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
-
-    # cd tmp/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
-    # cd tmp/ebook; latexmk -pdf -xelatex -silent ebook.tex
-
-    # merge with cover
-    # cd tmp/ebook; gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf ../../templates/ebook-cover.pdf ebook.pdf
-
-    # cd tmp/ebook; mv merged.pdf ../../$(TARGETFILE).pdf
-
-    # clean up
-    # cd tmp/ebook; latexmk -C
+        destination: tmp/ebook-style.sty
 
   gitbook:
     renderer: gitbook
