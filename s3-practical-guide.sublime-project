@@ -4,14 +4,14 @@
 		{
 			"file_exclude_patterns":
 			[
-				"s3-practical-guide/docs/*.md"
+				"s3-practical-guide/docs/*.md",
+				"s3-practical-guide/docs/_site/*.html"
 			],
 			"folder_exclude_patterns":
 			[
 				"s3-practical-guide/docs/reveal.js/plugin",
 				"s3-practical-guide/docs/reveal.js/lib",
 				"s3-practical-guide/docs/reveal.js/js",
-				"s3-practical-guide/docs/_site/*",
 				"s3-practical-guide/_attic",
 				"s3-practical-guide/tmp"
 			],
