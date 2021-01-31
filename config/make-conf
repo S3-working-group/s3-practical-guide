@@ -1,9 +1,0 @@
-
-# filename for the slide deck
-TARGETFILE=S3-practical-guide
-
-# template pattern numbers
-SECTIONPREFIX= Pattern %(chapter)s.%(section)s:
-
-# build index database?
-BUILD_INDEX=YES

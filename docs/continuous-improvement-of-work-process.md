@@ -12,7 +12,7 @@ title: "Continuous Improvement Of Work Process"
 -   if valuable, iteratively expand the scope of the experiment to other teams
 -   intentionally look out for impediments
 
-### Waste And Continuous Improvement
+## Waste And Continuous Improvement
 
 _**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
 
@@ -23,5 +23,5 @@ Establishing a process for the ongoing elimination of waste enables natural evol
 ![Drivers, value and waste](img/workflow-and-value/drivers-value-waste.png)
 
 
-[&#9654; Defining Agreements](defining-agreements.html)<br/>[&#9664; Open Space For Change](open-space-for-change.html)<br/>[&#9650; Bringing In S3](bringing-in-s3.html)
+[&#9654; Defining Agreements](defining-agreements.html)<br/>[&#9664; Open Space For Change](open-space-for-change.html)<br/>[&#9650; Bringing in S3](bringing-in-s3.html)
 

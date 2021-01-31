@@ -1,7 +1,7 @@
-## Changelog
+# Changelog
 
 
-### Changes 2021-01-12
+## Changes 2021-01-12
 
 -   **Renamed Patterns:**
     - renamed _Clarify Domains_ to _Clarify and Develop Domains_
@@ -21,14 +21,14 @@
     -   added more information about the authors
 
 
-### Changes 2020-05-08
+## Changes 2020-05-08
 
 -   revised all illustrations for a more consistent style and increased readability
 -   revised introduction: more explanation about patterns and core concepts
 -   updated glossary: revised explanation of [Delegator](glossary:delegator), [Delegatee](glossary:delegatee), [Role](glossary:role) and [Pattern](glossary:pattern), added [Role Keeper](glossary:role-keeper)
 
 
-### Changes 2020-04-29
+## Changes 2020-04-29
 
 -   Introduction: Added _Objection_ and _Agreement_ to concepts
 -   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](section:arguments-qualify-as-objections)
@@ -37,7 +37,7 @@
 -   [Record Agreements](section:record-agreements): revised text, added more details of agreements that might be recorded, updated illustration
 
 
-### Changes 2019-12-22
+## Changes 2019-12-22
 
 -   added new introduction text
 -   added "social technology" to glossary
@@ -45,19 +45,19 @@
 -   ePub now looks much better
 
 
-### Changes 2019-11-29
+## Changes 2019-11-29
 
 -   Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the organization
 -   Principle of Empiricism: clarified that only those assumptions one relies on need to be tested
 
 
-### Changes 2019-06-27
+## Changes 2019-06-27
 
 -   _Objection_: further refined definition of objection, and updated the glossary term for [objection](glossary:objection) accordingly
 -   replaced "action" with activity in a few places where it made more sense
 -   fixed a few typos
 
-### Changes 2019-05-03
+## Changes 2019-05-03
 
 -   refined glossary terms for [agreement](glossary:agreement), [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
 -   Principle of Accountability: clarified individual accountability for work as well as for collaboration
@@ -71,7 +71,7 @@
 -   [Transparent Salary](section:transparent-salary): explained what a salary formula is
 
 
-### Changes 2019-03-08
+## Changes 2019-03-08
 
 **General Changes**
 
@@ -102,7 +102,7 @@
 -   [Resolve Objections](section:resolve-objections): added summary and description
 
 
-### Changes 2018-08-17
+## Changes 2018-08-17
 
 **General Changes**
 
@@ -183,14 +183,14 @@
 -   [Timebox Activities](section:timebox-activities)
 
 
-### Changes 2018-03-21
+## Changes 2018-03-21
 
 -   renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_
 -   [Describe Organizational Drivers](section:describe-organizational-drivers): explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 -   added _need_ to glossary
 
 
-### Changes 2017-11-16
+## Changes 2017-11-16
 
 -   small corrections
 -   aligned glossary entries for _Circle_ and _Role_ to pattern text
@@ -198,7 +198,7 @@
 -   _Role_: clarified evolution of strategy
 
 
-### Changes 2017-11-10
+## Changes 2017-11-10
 
 -   various small clarifications and corrections
 -   _Circle_: clarified relationship between circle and domain
@@ -208,7 +208,7 @@
 -   added several terms to the glossary
 
 
-### Changes 2017-10-21
+## Changes 2017-10-21
 
 -   added Liliana David to authors
 -   dropped the term "framework" (replaced with "practical guide")

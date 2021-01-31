@@ -17,7 +17,7 @@ _Artful Participation_ is an **individual commitment** to:
 -   **support others** to participate artfully
 -   bring impediments and improvement suggestions to the attention of others if necessary
 
-### Benefits Of Artful Participation
+## Benefits Of Artful Participation
 
 Artful participation:
 
@@ -29,7 +29,7 @@ Artful participation:
 
 ![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
 
-### Artful Participation: Self-Assessment
+## Artful Participation: Self-Assessment
 
 -   How can I support myself and others to participate more artfully?
 -   Where are my interactions with others unhelpful or ineffective?
@@ -42,5 +42,5 @@ Artful participation:
     -   the wider environment?
 
 
-[&#9654; Adopt The Seven Principles](adopt-the-seven-principles.html)<br/>[&#9650; Enablers Of Collaboration](enablers-of-collaboration.html)
+[&#9654; Adopt The Seven Principles](adopt-the-seven-principles.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
 

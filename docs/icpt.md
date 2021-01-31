@@ -13,7 +13,7 @@ If you follow the voluntary Commitment you can add our banners to your website, 
 
 You can find out more about the ICPT at <https://sociocracy30.org/s3-intentional-commitment/>
 
-### Full Text of the ICPT
+## Full Text of the ICPT
 
 **Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0**
 
@@ -44,3 +44,7 @@ I dedicate some time to actively support others from the S3 community to learn a
 I will make any S3 resources I adapt or create available under a Creative Commons Attribution-ShareAlike license.
 
 I will discuss possible objections relating to S3 patterns in my intervision group, and pass to S3 developers if I believe they qualify.
+
+
+[&#9654; Acknowledgments](acknowledgments.html)<br/>[&#9664; Disclaimer](disclaimer.html)<br/>[&#9650; Appendix](appendix.html)
+

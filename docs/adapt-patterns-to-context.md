@@ -19,5 +19,5 @@ Share valuable adaptations with the S3 community.
 
 
 
-[&#9654; Create A Pull-System For Organizational Change](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; Bringing In S3](bringing-in-s3.html)
+[&#9654; Create a Pull-System For Organizational Change](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; Bringing in S3](bringing-in-s3.html)
 

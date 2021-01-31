@@ -12,7 +12,7 @@ _An **agreement** is an agreed upon guideline, process, protocol or policy desig
 Keep records of agreements up to date, e.g. in a <dfn data-info="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</dfn>.
 
 
-### What to record?
+## What to record?
 
 Record agreements with adequate detail so that important information can be recalled later.
 
@@ -27,22 +27,21 @@ Depending on the scope and significance of the agreement, consider including all
 -   Review date (or frequency)
 -   Who is responsible for what?
 -   A description of the agreement, including:
-    - Any relevant requirements and expectations
-    - Action items
-    - Resources
-    - Constraints
-    - [Intended outcomes](clarify-intended-outcome.html)
-    - [Deliverables](describe-deliverables.html)
-    - Rationale
+    -   Any relevant requirements and expectations
+    -   Action items
+    -   Resources
+    -   Constraints
+    -   [Intended outcomes](clarify-intended-outcome.html)
+    -   [Deliverables](describe-deliverables.html)
+    -   Rationale
 -   [Evaluation criteria](evaluation-criteria.html) (and potentially <dfn data-info="Concern: An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.">concerns</dfn>)
 -   Appendix (if helpful)
-    - Background information
-    - Previous versions of the agreements
-    - References
+    -   Background information
+    -   Previous versions of the agreements
+    -   References
 
 ![Template for agreements](img/templates/agreement-template.png)
 
 
-
-[&#9654; Clarify And Develop Strategy](clarify-and-develop-strategy.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
+[&#9654; Clarify and Develop Strategy](clarify-and-develop-strategy.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

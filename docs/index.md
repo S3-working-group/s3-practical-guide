@@ -1,6 +1,7 @@
 ---
-title: The S3 Patterns
+title: "The S3 Patterns"
 ---
+
 
 The official description of Sociocracy 3.0: All patterns, the Seven Principles and key concepts.
 
@@ -12,15 +13,17 @@ For further information about Sociocracy 3.0 and more free resources check out 
 
 ## Pattern Groups
 
-- [Co-Creation And Evolution](co-creation-and-evolution.html)
-- [Peer Development](peer-development.html)
-- [Enablers Of Collaboration](enablers-of-collaboration.html)
-- [Building Organizations](building-organizations.html)
-- [Bringing In S3](bringing-in-s3.html)
-- [Defining Agreements](defining-agreements.html)
-- [Focused Interactions](focused-interactions.html)
-- [Meeting Practices](meeting-practices.html)
-- [Organizing Work](organizing-work.html)
-- [Organizational Structure](organizational-structure.html)
+- [Co-Creation and Evolution](content/src/patterns/co-creation-and-evolution.html)
+- [Peer Development](content/src/patterns/peer-development.html)
+- [Enablers of Collaboration](content/src/patterns/enablers-of-collaboration.html)
+- [Building Organizations](content/src/patterns/building-organizations.html)
+- [Bringing in S3](content/src/patterns/bringing-in-s3.html)
+- [Defining Agreements](content/src/patterns/defining-agreements.html)
+- [Focused Interactions](content/src/patterns/focused-interactions.html)
+- [Meeting Practices](content/src/patterns/meeting-practices.html)
+- [Organizing Work](content/src/patterns/organizing-work.html)
+- [Organizational Structure](content/src/patterns/organizational-structure.html)
+
+
 
 

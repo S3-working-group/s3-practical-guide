@@ -1,8 +1,10 @@
 ---
-title: Alphabetical List Of All Patterns
+title: "Alphabetical List Of All Patterns"
 ---
 
+
 <dl>
+
   <dt><a href="adapt-patterns-to-context.html">Adapt Patterns To Context</a></dt>
   <dd><p>Adapt and evolve S3 patterns to suit your specific context.</p></dd>
 
@@ -39,14 +41,14 @@ title: Alphabetical List Of All Patterns
   <dt><a href="circle.html">Circle</a></dt>
   <dd><p><em>A <strong>circle</strong> is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.</em></p></dd>
 
-  <dt><a href="clarify-and-develop-domains.html">Clarify And Develop Domains</a></dt>
-  <dd><p>A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.</p></dd>
-
-  <dt><a href="clarify-and-develop-strategy.html">Clarify And Develop Strategy</a></dt>
-  <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
-
   <dt><a href="clarify-intended-outcome.html">Clarify Intended Outcome</a></dt>
   <dd><p>Be explicit about the expected results of agreements, activities, projects and strategies.</p></dd>
+
+  <dt><a href="clarify-and-develop-domains.html">Clarify and Develop Domains</a></dt>
+  <dd><p>A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.</p></dd>
+
+  <dt><a href="clarify-and-develop-strategy.html">Clarify and Develop Strategy</a></dt>
+  <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
 
   <dt><a href="co-create-proposals.html">Co-Create Proposals</a></dt>
   <dd><p>Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.</p></dd>
@@ -66,7 +68,7 @@ title: Alphabetical List Of All Patterns
   <dt><a href="coordinator.html">Coordinator</a></dt>
   <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term.</strong></p></dd>
 
-  <dt><a href="create-a-pull-system-for-organizational-change.html">Create A Pull-System For Organizational Change</a></dt>
+  <dt><a href="create-a-pull-system-for-organizational-change.html">Create a Pull-System For Organizational Change</a></dt>
   <dd><p>Create an environment that invites and enables members of the organization to drive change.</p></dd>
 
   <dt><a href="daily-standup.html">Daily Standup</a></dt>
@@ -126,7 +128,7 @@ title: Alphabetical List Of All Patterns
   <dt><a href="invite-change.html">Invite Change</a></dt>
   <dd><p>Clarify the reason for change and invite people to participate.</p></dd>
 
-  <dt><a href="limit-work-in-progress.html">Limit Work In Progress</a></dt>
+  <dt><a href="limit-work-in-progress.html">Limit Work in Progress</a></dt>
   <dd><p>Limit the number of work items in any stage of your work process.</p></dd>
 
   <dt><a href="linking.html">Linking</a></dt>
@@ -186,7 +188,7 @@ title: Alphabetical List Of All Patterns
   <dt><a href="resolve-objections.html">Resolve Objections</a></dt>
   <dd><p>Resolve objections one at a time by using the information they contain to make and evolve amendments.</p></dd>
 
-  <dt><a href="respond-to-organizational-drivers.html">Respond To Organizational Drivers</a></dt>
+  <dt><a href="respond-to-organizational-drivers.html">Respond to Organizational Drivers</a></dt>
   <dd><p>Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.</p></dd>
 
   <dt><a href="retrospective.html">Retrospective</a></dt>
@@ -225,3 +227,7 @@ title: Alphabetical List Of All Patterns
   <dt><a href="visualize-work.html">Visualize Work</a></dt>
   <dd><p>Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.</p></dd>
 </dl>
+
+
+[&#9654; Links](links.html)<br/>[&#9664; Changelog](changelog.html)<br/>[&#9650; Appendix](appendix.html)
+

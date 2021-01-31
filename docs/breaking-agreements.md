@@ -14,5 +14,5 @@ Be accountable:
 -   **change the agreement** instead of repeatedly breaking it
 
 
-[&#9654; Contract For Successful Collaboration](contract-for-successful-collaboration.html)<br/>[&#9664; Governance Facilitator](governance-facilitator.html)<br/>[&#9650; Enablers Of Collaboration](enablers-of-collaboration.html)
+[&#9654; Contract For Successful Collaboration](contract-for-successful-collaboration.html)<br/>[&#9664; Governance Facilitator](governance-facilitator.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
 

@@ -1,4 +1,4 @@
-## Links
+# Links
 
 The **latest online version** of the Practical Guide at <http://patterns.sociocracy30.org> can be annotated via hypothes.is and comes with an alphabetical index and a pattern map for easy navigation.
 

@@ -19,10 +19,11 @@ Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex ad
 Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
 
 -   S3's structural patterns apply to different layers of abstraction
--   different structural patterns serve different <dfn data-info="Driver: A person’s or a group&apos;s motive for responding to a specific situation.">drivers</dfn>
+-   different structural patterns serve different <dfn data-info="Driver: A person’s or a group's motive for responding to a specific situation.">drivers</dfn>
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
 
+<dl>
 
   <dt><a href="service-circle.html">Service Circle</a></dt>
   <dd><p>Outsource services required by two or more domains.</p></dd>
@@ -41,7 +42,8 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
 
   <dt><a href="fractal-organization.html">Fractal Organization</a></dt>
   <dd><p>Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).</p></dd>
+</dl>
 
 
-[&#9654; Service Circle](service-circle.html)<br/>[&#9664; Coordinator](coordinator.html)
+[&#9654; Service Circle](service-circle.html)<br/>[&#9664; Coordinator](coordinator.html)<br/>[&#9650; The Patterns](patterns.html)
 

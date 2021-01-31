@@ -11,9 +11,9 @@ title: "Proposal Forming"
 
 _Proposal Forming_ may also be used by an individual.
 
-### Proposal Forming Steps
+## Proposal Forming Steps
 
-**Consent to driver:** Briefly present the <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn>. _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_
+**Consent to driver:** Briefly present the <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn>. _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_
 
 **Deepen shared understanding of driver:** invite essential questions to understand the driver in more detail.
 
@@ -27,7 +27,7 @@ _Proposal Forming_ may also be used by an individual.
 
 **Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group of "tuners".
 
-### Choosing Tuners
+## Choosing Tuners
 
 Consider:
 
@@ -41,5 +41,5 @@ Between two and three tuners is usually appropriate. Check for any objections to
 ![Proposal forming process](img/agreements/proposal-forming.png)
 
 
-[&#9654; Role Selection](role-selection.html)<br/>[&#9664; Co-Create Proposals](co-create-proposals.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
+[&#9654; Role Selection](role-selection.html)<br/>[&#9664; Co-Create Proposals](co-create-proposals.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
 

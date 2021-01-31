@@ -1,0 +1,216 @@
+config: 
+  title: title
+  end: SKIP
+
+parts:
+  - id: introduction
+    parts:
+      - s3-overview
+      - history
+      - why-30
+      - id: patterns-and-principles
+        parts:
+          - pattern
+          - principles
+          # - principle-accountability
+      - id: making-sense-of-organizations
+        parts:
+          - driver
+          - domain
+          - objection
+          - agreement
+          - governance
+
+  - id: patterns
+    parts:
+      - id: co-creation-and-evolution
+        tags: [group]
+        parts:
+          - id: respond-to-organizational-drivers
+            tags: [pattern]
+          - id: navigate-via-tension
+            tags: [pattern]
+          - id: describe-organizational-drivers
+            tags: [pattern]
+          - id: consent-decision-making
+            tags: [pattern]
+          - id: test-arguments-qualify-as-objections
+            tags: [pattern]
+          - id: resolve-objections
+            tags: [pattern]
+          - id: evaluate-and-evolve-agreements
+            tags: [pattern]
+          - id: those-affected-decide
+            tags: [pattern]
+          - id: co-create-proposals
+            tags: [pattern]
+          - id: proposal-forming
+            tags: [pattern]
+          - id: role-selection
+            tags: [pattern]
+          - id: driver-mapping
+            tags: [pattern]
+      - id: peer-development
+        tags: [group]
+        parts:
+          - id: ask-for-help
+            tags: [pattern]
+          - id: peer-feedback
+            tags: [pattern]
+          - id: peer-review
+            tags: [pattern]
+          - id: development-plan
+            tags: [pattern]
+      - id: enablers-of-collaboration
+        tags: [group]
+        parts:
+          - id: artful-participation
+            tags: [pattern]
+          - id: adopt-the-seven-principles
+            tags: [pattern]
+          - id: agree-on-values
+            tags: [pattern]
+          - id: governance-facilitator
+            tags: [pattern]
+          - id: breaking-agreements
+            tags: [pattern]
+          - id: contract-for-successful-collaboration
+            tags: [pattern]
+          - id: transparent-salary
+            tags: [pattern]
+          - id: support-role
+            tags: [pattern]
+          - id: bylaws
+            tags: [pattern]
+      - id: building-organizations
+        tags: [group]
+        parts:
+          - id: delegate-influence
+            tags: [pattern]
+          - id: circle
+            tags: [pattern]
+          - id: role
+            tags: [pattern]
+          - id: linking
+            tags: [pattern]
+          - id: double-linking
+            tags: [pattern]
+          - id: representative
+            tags: [pattern]
+          - id: helping-team
+            tags: [pattern]
+          - id: open-domain
+            tags: [pattern]
+          - id: open-systems
+            tags: [pattern]
+      - id: bringing-in-s3
+        tags: [group]
+        parts:
+          - id: adapt-patterns-to-context
+            tags: [pattern]
+          - id: create-a-pull-system-for-organizational-change
+            tags: [pattern]
+          - id: be-the-change
+            tags: [pattern]
+          - id: invite-change
+            tags: [pattern]
+          - id: open-space-for-change
+            tags: [pattern]
+          - id: continuous-improvement-of-work-process
+            tags: [pattern]
+      - id: defining-agreements
+        tags: [group]
+        parts:
+          - id: record-agreements
+            tags: [pattern]
+          - id: clarify-and-develop-strategy
+            tags: [pattern]
+          - id: clarify-and-develop-domains
+            tags: [pattern]
+          - id: clarify-intended-outcome
+            tags: [pattern]
+          - id: describe-deliverables
+            tags: [pattern]
+          - id: evaluation-criteria
+            tags: [pattern]
+          - id: logbook
+            tags: [pattern]
+          - id: logbook-keeper
+            tags: [pattern]
+      - id: focused-interactions
+        tags: [group]
+        parts:
+          - id: governance-meeting
+            tags: [pattern]
+          - id: retrospective
+            tags: [pattern]
+          - id: daily-standup
+            tags: [pattern]
+          - id: planning-and-review-meetings
+            tags: [pattern]
+          - id: coordination-meeting
+            tags: [pattern]
+      - id: meeting-practices
+        tags: [group]
+        parts:
+          - id: rounds
+            tags: [pattern]
+          - id: facilitate-meetings
+            tags: [pattern]
+          - id: prepare-for-meetings
+            tags: [pattern]
+          - id: check-in
+            tags: [pattern]
+          - id: evaluate-meetings
+            tags: [pattern]
+          - id: meeting-host
+            tags: [pattern]
+          - id: governance-backlog
+            tags: [pattern]
+      - id: organizing-work
+        tags: [group]
+        parts:
+          - id: backlog
+            tags: [pattern]
+          - id: prioritize-backlogs
+            tags: [pattern]
+          - id: visualize-work
+            tags: [pattern]
+          - id: pull-system-for-work
+            tags: [pattern]
+          - id: limit-work-in-progress
+            tags: [pattern]
+          - id: timebox-activities
+            tags: [pattern]
+          - id: align-flow
+            tags: [pattern]
+          - id: coordinator
+            tags: [pattern]
+      - id: organizational-structure
+        tags: [group]
+        parts:
+          - id: service-circle
+            tags: [pattern]
+          - id: delegate-circle
+            tags: [pattern]
+          - id: peach-organization
+            tags: [pattern]
+          - id: double-linked-hierarchy
+            tags: [pattern]
+          - id: service-organization
+            tags: [pattern]
+          - id: fractal-organization
+            tags: [pattern]
+
+  - id: appendix
+    parts:
+      - changelog
+      - pattern-index
+      - links
+      - license
+      - disclaimer
+      - icpt
+      - acknowledgments
+      - authors
+      - glossary
+

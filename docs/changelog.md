@@ -4,7 +4,7 @@ title: "Changelog"
 
 
 
-### Changes 2021-01-12
+## Changes 2021-01-12
 
 -   **Renamed Patterns:**
     - renamed _Clarify Domains_ to _Clarify and Develop Domains_
@@ -24,14 +24,14 @@ title: "Changelog"
     -   added more information about the authors
 
 
-### Changes 2020-05-08
+## Changes 2020-05-08
 
 -   revised all illustrations for a more consistent style and increased readability
 -   revised introduction: more explanation about patterns and core concepts
 -   updated glossary: revised explanation of <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">Delegator</dfn>, <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">Delegatee</dfn>, <dfn data-info="Role: A domain that is delegated to an individual, who then becomes the role keeper.">Role</dfn> and <dfn data-info="Pattern: A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.">Pattern</dfn>, added <dfn data-info="Role Keeper: An individual taking responsibility for a role.">Role Keeper</dfn>
 
 
-### Changes 2020-04-29
+## Changes 2020-04-29
 
 -   Introduction: Added _Objection_ and _Agreement_ to concepts
 -   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](arguments-qualify-as-objections.html)
@@ -40,7 +40,7 @@ title: "Changelog"
 -   [Record Agreements](record-agreements.html): revised text, added more details of agreements that might be recorded, updated illustration
 
 
-### Changes 2019-12-22
+## Changes 2019-12-22
 
 -   added new introduction text
 -   added "social technology" to glossary
@@ -48,19 +48,19 @@ title: "Changelog"
 -   ePub now looks much better
 
 
-### Changes 2019-11-29
+## Changes 2019-11-29
 
 -   Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the organization
 -   Principle of Empiricism: clarified that only those assumptions one relies on need to be tested
 
 
-### Changes 2019-06-27
+## Changes 2019-06-27
 
 -   _Objection_: further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objection</dfn> accordingly
 -   replaced "action" with activity in a few places where it made more sense
 -   fixed a few typos
 
-### Changes 2019-05-03
+## Changes 2019-05-03
 
 -   refined glossary terms for <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreement</dfn>, <dfn data-info="Organization: A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.">organization</dfn> and <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</dfn>, added glossary term for <dfn data-info="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objective</dfn>
 -   Principle of Accountability: clarified individual accountability for work as well as for collaboration
@@ -74,7 +74,7 @@ title: "Changelog"
 -   [Transparent Salary](transparent-salary.html): explained what a salary formula is
 
 
-### Changes 2019-03-08
+## Changes 2019-03-08
 
 **General Changes**
 
@@ -105,7 +105,7 @@ title: "Changelog"
 -   [Resolve Objections](resolve-objections.html): added summary and description
 
 
-### Changes 2018-08-17
+## Changes 2018-08-17
 
 **General Changes**
 
@@ -186,14 +186,14 @@ title: "Changelog"
 -   [Timebox Activities](timebox-activities.html)
 
 
-### Changes 2018-03-21
+## Changes 2018-03-21
 
 -   renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_
 -   [Describe Organizational Drivers](describe-organizational-drivers.html): explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
 -   added _need_ to glossary
 
 
-### Changes 2017-11-16
+## Changes 2017-11-16
 
 -   small corrections
 -   aligned glossary entries for _Circle_ and _Role_ to pattern text
@@ -201,7 +201,7 @@ title: "Changelog"
 -   _Role_: clarified evolution of strategy
 
 
-### Changes 2017-11-10
+## Changes 2017-11-10
 
 -   various small clarifications and corrections
 -   _Circle_: clarified relationship between circle and domain
@@ -211,7 +211,7 @@ title: "Changelog"
 -   added several terms to the glossary
 
 
-### Changes 2017-10-21
+## Changes 2017-10-21
 
 -   added Liliana David to authors
 -   dropped the term "framework" (replaced with "practical guide")
@@ -269,4 +269,8 @@ title: "Changelog"
 -   _Coordination Circle_
 -   _Nested Domains_
 -   _Qualify Driver_
+
+
+
+[&#9654; Alphabetical List Of All Patterns](pattern-index.html)<br/>[&#9650; Appendix](appendix.html)
 

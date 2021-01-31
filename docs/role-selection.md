@@ -13,7 +13,7 @@ Instead of simply assigning people for [roles](role.html), or making a choice ba
 
 A prerequisite to the selection process is a [clear description](clarify-and-develop-domains.html) of the role's <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>.
 
-### Role Selection - Steps
+## Role Selection - Steps
 
 ![Role selection process](img/agreements/selection.png)
 
@@ -37,5 +37,5 @@ Sometimes a role selection reveals a lack of capacity, relevant experience, qual
 This pattern can also be used in any situation where there is a need to choose between a variety of options.
 
 
-[&#9654; Driver Mapping](driver-mapping.html)<br/>[&#9664; Proposal Forming](proposal-forming.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
+[&#9654; Driver Mapping](driver-mapping.html)<br/>[&#9664; Proposal Forming](proposal-forming.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
 

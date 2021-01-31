@@ -1,4 +1,4 @@
-## The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)
+# The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)
 
 This commitment supports:
 
@@ -10,7 +10,7 @@ If you follow the voluntary Commitment you can add our banners to your website, 
 
 You can find out more about the ICPT at <https://sociocracy30.org/s3-intentional-commitment/>
 
-### Full Text of the ICPT
+## Full Text of the ICPT
 
 **Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0**
 

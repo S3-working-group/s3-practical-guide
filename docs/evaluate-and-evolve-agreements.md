@@ -22,14 +22,14 @@ Adjust review frequency as necessary, and review early if required.
 
 Elements of this pattern can also be used by individuals to evaluate decisions they make.
 
-### Short Format
+## Short Format
 
 -   _How has this agreement helped us?_
 -   _Is there any reason to drop this agreement?_
 -   _How can this agreement be improved?_
 -   Agree on a next review date.
 
-### Long Format
+## Long Format
 
 ![A long format for evaluating and evolving agreements](img/agreements/evaluate-agreements.png)
 
@@ -45,5 +45,5 @@ Follow-up:
 -   Consider effects on any related agreements.
 
 
-[&#9654; Those Affected Decide](those-affected-decide.html)<br/>[&#9664; Resolve Objections](resolve-objections.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
+[&#9654; Those Affected Decide](those-affected-decide.html)<br/>[&#9664; Resolve Objections](resolve-objections.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
 

@@ -3,19 +3,22 @@ title: "Defining Agreements"
 ---
 
 
+## S3 promotes a hypothesis-driven approach to decision making
+
 ![Any agreement or decision can be viewed as an experiment.](img/evolution/experiments.png)
 
 
 ![The Life-Cycle of an Agreement](img/evolution/agreement-lifecycle-long.png)
 
+<dl>
 
   <dt><a href="record-agreements.html">Record Agreements</a></dt>
   <dd><p>Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.</p></dd>
 
-  <dt><a href="clarify-and-develop-strategy.html">Clarify And Develop Strategy</a></dt>
+  <dt><a href="clarify-and-develop-strategy.html">Clarify and Develop Strategy</a></dt>
   <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
 
-  <dt><a href="clarify-and-develop-domains.html">Clarify And Develop Domains</a></dt>
+  <dt><a href="clarify-and-develop-domains.html">Clarify and Develop Domains</a></dt>
   <dd><p>A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.</p></dd>
 
   <dt><a href="clarify-intended-outcome.html">Clarify Intended Outcome</a></dt>
@@ -32,7 +35,8 @@ title: "Defining Agreements"
 
   <dt><a href="logbook-keeper.html">Logbook Keeper</a></dt>
   <dd><p>Select a member of your team to be specifically accountable for keeping up to date records of all information the team requires.</p></dd>
+</dl>
 
 
-[&#9654; Record Agreements](record-agreements.html)<br/>[&#9664; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)
+[&#9654; Record Agreements](record-agreements.html)<br/>[&#9664; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)<br/>[&#9650; The Patterns](patterns.html)
 
