@@ -204,12 +204,12 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 36px;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 34px;
     }
 }
 
@@ -217,7 +217,7 @@
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 30px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -225,10 +225,10 @@
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 25px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 23px;
         }
     }
 
