@@ -10,7 +10,7 @@ creator:
 rights: ${version} © 2015 - 2021 Bernhard Bockelbrink, James Priest, Liliana David, CC BY-SA
 lang: ${html_language}
 page-progression-direction: ${html_dir}
-cover-image: ../../templates/covers/s3-practical-guide-cover-70dpi.png
-css: ../../templates/epub.css
+cover-image: epub-cover.png
+css: epub.css
 ...
 

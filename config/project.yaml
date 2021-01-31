@@ -91,11 +91,11 @@ presets:
   epub:
     renderer: ebook
     target: tmp/epub-compiled.md
-    target-format: html
+    target-format: html/epub
     template: templates/epub-header.md
     templates:
         - source: templates/covers/s3-practical-guide-cover-70dpi.png
-          destination: tmp/s3-practical-guide-cover-70dpi.png
+          destination: tmp/epub-cover.png
           mode: copy
         - source: templates/epub.css
           destination: tmp/epub.css
@@ -122,7 +122,7 @@ presets:
   ebook:
     renderer: ebook
     target-format: latex
-    target: tmp/tmp-ebook-compiled.md
+    target: tmp/ebook-compiled.md
     # template is empty on purpose, because it is not required
     template: ""
     # copy md and LaTeX templates

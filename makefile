@@ -20,9 +20,10 @@ single:
 
 epub:
 	# render an ebook as epub
-
+	echo $(TARGETFILE)
 	mdbuild epub $(PROJECT) -vv
- 	cd $(TMP); pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../$(TARGETFILE).epub
+	cd $(TMP); pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../$(TARGETFILE).epub
+	#pandoc tmp/epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o $(TARGETFILE).epub
 
 supporter-epub:
 	# render epub for supporter edition
@@ -32,7 +33,6 @@ supporter-epub:
 	pandoc content/src/introduction/s3-overview-supporter-edition.md -f markdown_mmd -t html -o $(TMP)/description.html
 	cd $(TMP); tr -d "\n" <description.html >description-one-line.html
 	cd $(TMP); awk 'BEGIN{RS = "\n\n+" getline l < "description-one-line.html"}/htmldescription/{gsub("htmldescription",l)}1' supporter-edition-metadata.yaml >metadata-full.yaml
-
 
 	# make epub via pandoc
 	# cd $(TMP); pandoc supporter-epub-compiled.md -f markdown --metadata-file=metadata-full.yaml -t epub3 --toc --toc-depth=3 -s -o ../$(TARGETFILE)-supporter-edition.epub
