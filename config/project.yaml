@@ -91,7 +91,7 @@ presets:
   epub:
     renderer: ebook
     target: tmp/epub-compiled.md
-    target-format: html/epub
+    target-format: epub
     template: templates/epub-header.md
     templates:
         - source: templates/covers/s3-practical-guide-cover-70dpi.png
