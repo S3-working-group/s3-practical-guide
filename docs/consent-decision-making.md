@@ -11,7 +11,7 @@ Unresolved <dfn data-info="Objection: An argument relating to a (proposed) agree
 
 Withholding objections can harm the objectives of a team or organization.
 
-### Implicit Contract of Consent
+## Implicit Contract of Consent
 
 1.   In the absence of objections to an agreement, I intend to follow through on the agreement to the best of my ability.
 2.   I agree to share objections as I become aware of them.
@@ -19,5 +19,5 @@ Withholding objections can harm the objectives of a team or organization.
 ![Consent Decision Making](img/agreements/consent-decision-making.png)
 
 
-[&#9654; Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)<br/>[&#9664; Describe Organizational Drivers](describe-organizational-drivers.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
+[&#9654; Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)<br/>[&#9664; Describe Organizational Drivers](describe-organizational-drivers.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
 

@@ -23,5 +23,5 @@ Chosen values are an agreement that benefits from **regular review**.
 ![Chosen values define constraints for collaboration](img/collaboration-values/chosen-values.png)
 
 
-[&#9654; Governance Facilitator](governance-facilitator.html)<br/>[&#9664; Adopt The Seven Principles](adopt-the-seven-principles.html)<br/>[&#9650; Enablers Of Collaboration](enablers-of-collaboration.html)
+[&#9654; Governance Facilitator](governance-facilitator.html)<br/>[&#9664; Adopt The Seven Principles](adopt-the-seven-principles.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
 

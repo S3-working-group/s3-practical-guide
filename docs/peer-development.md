@@ -3,6 +3,8 @@ title: "Peer Development"
 ---
 
 
+<dl>
+
   <dt><a href="ask-for-help.html">Ask For Help</a></dt>
   <dd><p>A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.</p></dd>
 
@@ -14,7 +16,8 @@ title: "Peer Development"
 
   <dt><a href="development-plan.html">Development Plan</a></dt>
   <dd><p>A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.</p></dd>
+</dl>
 
 
-[&#9654; Ask For Help](ask-for-help.html)<br/>[&#9664; Driver Mapping](driver-mapping.html)
+[&#9654; Ask For Help](ask-for-help.html)<br/>[&#9664; Driver Mapping](driver-mapping.html)<br/>[&#9650; The Patterns](patterns.html)
 

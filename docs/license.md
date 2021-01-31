@@ -19,11 +19,16 @@ To view the the full text of this license, visit <https://creativecommons.org/li
 
 There's more on the topic of free culture on the [Creative Commons website](https://creativecommons.org/freeworks).
 
-### Attribution of derivative works
+
+## Attribution of derivative works
 
 If you create a derivative work, you must give appropriate credit, and indicate which changes you made. A good attribution contains title, author, source and license, like this:
 
 > This work, "[name of your work]", is a derivative of "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by James Priest, Bernhard Bockelbrink and Liliana David used under CC BY SA. "[name of your work]" is licensed under CC BY SA by [your name].
 
 You can find out more about attribution on the [Creative Commons page about best practices for attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
+
+
+
+[&#9654; Disclaimer](disclaimer.html)<br/>[&#9664; Links](links.html)<br/>[&#9650; Appendix](appendix.html)
 

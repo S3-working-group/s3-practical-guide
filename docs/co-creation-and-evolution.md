@@ -1,9 +1,11 @@
 ---
-title: "Co-Creation And Evolution"
+title: "Co-Creation and Evolution"
 ---
 
 
-  <dt><a href="respond-to-organizational-drivers.html">Respond To Organizational Drivers</a></dt>
+<dl>
+
+  <dt><a href="respond-to-organizational-drivers.html">Respond to Organizational Drivers</a></dt>
   <dd><p>Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.</p></dd>
 
   <dt><a href="navigate-via-tension.html">Navigate Via Tension</a></dt>
@@ -38,7 +40,8 @@ title: "Co-Creation And Evolution"
 
   <dt><a href="driver-mapping.html">Driver Mapping</a></dt>
   <dd></dd>
+</dl>
 
 
-[&#9654; Respond To Organizational Drivers](respond-to-organizational-drivers.html)<br/>[&#9664; Fractal Organization](fractal-organization.html)
+[&#9654; Respond to Organizational Drivers](respond-to-organizational-drivers.html)<br/>[&#9650; The Patterns](patterns.html)
 

@@ -19,7 +19,7 @@ This pattern refers to contracts relating related to collaboration around any bu
 
 **Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
 
-### Success criteria for contract negotiation
+## Success criteria for contract negotiation
 
 When negotiating a contract, ensure:
 
@@ -32,7 +32,7 @@ When negotiating a contract, ensure:
 
 If for any reason one or more of these criteria cannot be fulfilled, it is probably wise to not proceed.
 
-### Co-creating the contract
+## Co-creating the contract
 
 The way a contract is negotiated can significantly contribute toward building trust between parties. Approach contracting from the point of view of making an agreement between partners, not adversaries: co-create the contract, tailor it to its specific context, and ensure it is legally robust.
 
@@ -41,7 +41,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 - if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
 - consult a lawyer who supports the culture you aspire to and is competent in the field if business you are negotiating
 
-### When Co-Creating a Contract:
+## When Co-Creating a Contract:
 
 - ensure all parties have a delegation that includes representation for all affected <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> (e.g. not only sales, but also development / production / support, etc)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
@@ -52,7 +52,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 - negotiate in several iterations, allowing time to consider implications and propose amendments
 - keep minutes of each meeting to reduce the potential for misconceptions
 
-### Support The Full Lifecycle Of The Collaboration:
+## Support The Full Lifecycle Of The Collaboration:
 
 Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
 
@@ -63,7 +63,7 @@ Any contract can be changed at any time, provided all signatories agree. However
 - consider making available alternative means for dispute resolution, e.g. mediation, conciliation or arbitration
 - consider limiting the contract to a fixed term after which the contract expires and can be renewed if required
 
-### Culture
+## Culture
 
 Every contract influences the culture of the collaboration it governs, even when it appears to only describe *what* needs to be delivered:
 
@@ -75,5 +75,5 @@ If you find that standard contracts in your industry are misaligned with the cul
 
 
 
-[&#9654; Transparent Salary](transparent-salary.html)<br/>[&#9664; Breaking Agreements](breaking-agreements.html)<br/>[&#9650; Enablers Of Collaboration](enablers-of-collaboration.html)
+[&#9654; Transparent Salary](transparent-salary.html)<br/>[&#9664; Breaking Agreements](breaking-agreements.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
 

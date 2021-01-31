@@ -17,5 +17,5 @@ When making the invitation:
 Include the people involved and affected in regular evaluation of outcomes.
 
 
-[&#9654; Open Space For Change](open-space-for-change.html)<br/>[&#9664; Be The Change](be-the-change.html)<br/>[&#9650; Bringing In S3](bringing-in-s3.html)
+[&#9654; Open Space For Change](open-space-for-change.html)<br/>[&#9664; Be The Change](be-the-change.html)<br/>[&#9650; Bringing in S3](bringing-in-s3.html)
 

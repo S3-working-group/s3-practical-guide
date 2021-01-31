@@ -22,5 +22,5 @@ Decide how to handle remuneration for changing roles and [develop a strategy](cl
 ![Two ways of opening salaries](img/process/opening-salaries.png)
 
 
-[&#9654; Support Role](support-role.html)<br/>[&#9664; Contract For Successful Collaboration](contract-for-successful-collaboration.html)<br/>[&#9650; Enablers Of Collaboration](enablers-of-collaboration.html)
+[&#9654; Support Role](support-role.html)<br/>[&#9664; Contract For Successful Collaboration](contract-for-successful-collaboration.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
 

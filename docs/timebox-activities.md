@@ -25,5 +25,5 @@ You could timebox:
 - a longer stretch of work (a sprint)
 
 
-[&#9654; Align Flow](align-flow.html)<br/>[&#9664; Limit Work In Progress](limit-work-in-progress.html)<br/>[&#9650; Organizing Work](organizing-work.html)
+[&#9654; Align Flow](align-flow.html)<br/>[&#9664; Limit Work in Progress](limit-work-in-progress.html)<br/>[&#9650; Organizing Work](organizing-work.html)
 

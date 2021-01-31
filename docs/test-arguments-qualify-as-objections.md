@@ -16,7 +16,7 @@ _"Do you think this argument qualifies as an objection?"_
 If no one disagrees, treat the argument as an objection. In case of disagreement, invite a dialogue to discover if an objection is revealed by the argument.
 
 
-### Understanding Objections
+## Understanding Objections
 
 Some helpful questions:
 
@@ -32,5 +32,5 @@ Some helpful questions:
 ![A process for testing if an argument qualifies as an objection](img/agreements/qualify-objection-process.png)
 
 
-[&#9654; Resolve Objections](resolve-objections.html)<br/>[&#9664; Consent Decision Making](consent-decision-making.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
+[&#9654; Resolve Objections](resolve-objections.html)<br/>[&#9664; Consent Decision Making](consent-decision-making.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
 

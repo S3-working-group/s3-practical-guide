@@ -3,6 +3,8 @@ title: "Building Organizations"
 ---
 
 
+<dl>
+
   <dt><a href="delegate-influence.html">Delegate Influence</a></dt>
   <dd><p>Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.</p></dd>
 
@@ -29,7 +31,9 @@ title: "Building Organizations"
 
   <dt><a href="open-systems.html">Open Systems</a></dt>
   <dd><p>Intentionally communicate with and learn from others outside of your system.</p></dd>
+</dl>
 
 
-[&#9654; Delegate Influence](delegate-influence.html)<br/>[&#9664; Bylaws](bylaws.html)
+
+[&#9654; Delegate Influence](delegate-influence.html)<br/>[&#9664; Bylaws](bylaws.html)<br/>[&#9650; The Patterns](patterns.html)
 

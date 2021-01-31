@@ -12,3 +12,6 @@ Various other formats and languages of the practical guide can be found at <http
 **Main S3 website:** <http://sociocracy30.org>
 
 **Follow us on twitter:** _@sociocracy30_
+
+[&#9654; License](license.html)<br/>[&#9664; Alphabetical List Of All Patterns](pattern-index.html)<br/>[&#9650; Appendix](appendix.html)
+

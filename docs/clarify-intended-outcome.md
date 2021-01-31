@@ -12,5 +12,5 @@ The intended outcome can be used to define [Evaluation Criteria](evaluation-crit
 ![Intended Outcome, and Evaluation Criteria](img/templates/outcome-and-criteria.png)
 
 
-[&#9654; Describe Deliverables](describe-deliverables.html)<br/>[&#9664; Clarify And Develop Domains](clarify-and-develop-domains.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
+[&#9654; Describe Deliverables](describe-deliverables.html)<br/>[&#9664; Clarify and Develop Domains](clarify-and-develop-domains.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
 

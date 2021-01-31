@@ -3,6 +3,8 @@ title: "Organizing Work"
 ---
 
 
+<dl>
+
   <dt><a href="backlog.html">Backlog</a></dt>
   <dd><p><em>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</em></p></dd>
 
@@ -15,7 +17,7 @@ title: "Organizing Work"
   <dt><a href="pull-system-for-work.html">Pull-System For Work</a></dt>
   <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them.</p></dd>
 
-  <dt><a href="limit-work-in-progress.html">Limit Work In Progress</a></dt>
+  <dt><a href="limit-work-in-progress.html">Limit Work in Progress</a></dt>
   <dd><p>Limit the number of work items in any stage of your work process.</p></dd>
 
   <dt><a href="timebox-activities.html">Timebox Activities</a></dt>
@@ -26,7 +28,7 @@ title: "Organizing Work"
 
   <dt><a href="coordinator.html">Coordinator</a></dt>
   <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term.</strong></p></dd>
+</dl>
 
-
-[&#9654; Backlog](backlog.html)<br/>[&#9664; Governance Backlog](governance-backlog.html)
+[&#9654; Backlog](backlog.html)<br/>[&#9664; Governance Backlog](governance-backlog.html)<br/>[&#9650; The Patterns](patterns.html)
 

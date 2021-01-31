@@ -3,6 +3,8 @@ title: "Focused Interactions"
 ---
 
 
+<dl>
+
   <dt><a href="governance-meeting.html">Governance Meeting</a></dt>
   <dd><p>Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.</p></dd>
 
@@ -17,7 +19,8 @@ title: "Focused Interactions"
 
   <dt><a href="coordination-meeting.html">Coordination Meeting</a></dt>
   <dd><p>Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.</p></dd>
+</dl>
 
 
-[&#9654; Governance Meeting](governance-meeting.html)<br/>[&#9664; Logbook Keeper](logbook-keeper.html)
+[&#9654; Governance Meeting](governance-meeting.html)<br/>[&#9664; Logbook Keeper](logbook-keeper.html)<br/>[&#9650; The Patterns](patterns.html)
 

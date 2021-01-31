@@ -3,6 +3,8 @@ title: "Meeting Practices"
 ---
 
 
+<dl>
+
   <dt><a href="rounds.html">Rounds</a></dt>
   <dd><p>In a group meeting, go around the circle giving everyone the chance to speak in turn.</p></dd>
 
@@ -23,7 +25,8 @@ title: "Meeting Practices"
 
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
   <dd><p><em>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</em></p></dd>
+</dl>
 
 
-[&#9654; Rounds](rounds.html)<br/>[&#9664; Coordination Meeting](coordination-meeting.html)
+[&#9654; Rounds](rounds.html)<br/>[&#9664; Coordination Meeting](coordination-meeting.html)<br/>[&#9650; The Patterns](patterns.html)
 

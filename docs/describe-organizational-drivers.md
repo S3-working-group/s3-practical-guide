@@ -5,7 +5,7 @@ title: "Describe Organizational Drivers"
 
 **Describe organizational drivers to understand, communicate and remember them.**
 
-Describing <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</dfn> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
+Describing <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</dfn> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
 A simple way to describe a driver is by explaining:
 
@@ -24,11 +24,11 @@ Besides the summary, more details about the driver may be kept in the logbook.
 
 ![Describe Organizational Drivers](img/process/describe-organizational-drivers.png)
 
-### Example:
+## Example:
 
 > _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes and it's not possible to quickly grab a coffee and get right back to work. We need the kitchen in a usable state so we can stay focused on our work."_
 
-### 1. Current Situation
+## 1. Current Situation
 
 > _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes..."_
 
@@ -37,7 +37,7 @@ Describe the current situation:
 - Briefly capture the essentials of what is happening, and, if necessary, the context in which it occurs.
 - Be objective - describe observations and avoid evaluation.
 
-### 2. Effect
+## 2. Effect
 
 > _"...it's not possible to quickly grab a coffee and get right back to work."_
 
@@ -47,7 +47,7 @@ Explain the effect of this situation on the organization:
 - Be explicit about whether the effects are current or anticipated.
 - Explain challenges, losses, opportunities or gains.
 
-### 3. Need
+## 3. Need
 
 > _"We need the kitchen in a usable state..."_
 
@@ -57,7 +57,7 @@ Explain the <dfn data-info="Need: The lack of something wanted or deemed necessa
 - Be specific on whose need it is ("we need", "they need", "I need").
 - If there's disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
 
-### 4. Impact
+## 4. Impact
 
 > _"...so we can stay focused on our work"._
 
@@ -66,7 +66,7 @@ Describe the impact of attending to that need:
 - Explain the <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn>, potential benefits or opportunities.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
 
-### Review Drivers
+## Review Drivers
 
 Make sure to review drivers on a regular basis, to deepen you understanding of what's happening and needed.
 
@@ -79,5 +79,5 @@ Helpful questions for a review include:
 
 
 
-[&#9654; Consent Decision Making](consent-decision-making.html)<br/>[&#9664; Navigate Via Tension](navigate-via-tension.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
+[&#9654; Consent Decision Making](consent-decision-making.html)<br/>[&#9664; Navigate Via Tension](navigate-via-tension.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
 

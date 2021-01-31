@@ -7,7 +7,7 @@ title: "Co-Create Proposals"
 
 There are many ways to co-create proposals. They typically follow a similar pattern:
 
-1. Agree on the <dfn data-info="Organizational Driver: A driver is a person’s or a group&apos;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn> (or problem / opportunity / need)
+1. Agree on the <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn> (or problem / opportunity / need)
 2. Explore the topic and understand constraints
 3. Generate ideas
 4. Design a proposal (often done by a smaller group)
@@ -21,5 +21,5 @@ For inspiration for steps 2 and 3, look to classic group facilitation techniques
 Besides in a face-to-face workshop, you can adapt this process for online meetings. You can even use it asynchronously (and over an extended period of time) to include many people.
 
 
-[&#9654; Proposal Forming](proposal-forming.html)<br/>[&#9664; Those Affected Decide](those-affected-decide.html)<br/>[&#9650; Co-Creation And Evolution](co-creation-and-evolution.html)
+[&#9654; Proposal Forming](proposal-forming.html)<br/>[&#9664; Those Affected Decide](those-affected-decide.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
 
