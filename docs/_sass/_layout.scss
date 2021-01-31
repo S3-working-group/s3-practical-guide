@@ -169,6 +169,8 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    display: block;
+    overflow: hidden;
 }
 
 .page-heading {

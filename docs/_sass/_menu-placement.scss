@@ -1,11 +1,8 @@
 // placement of smartmenu
 
-@include media-query($on-laptop) {
-    #main-nav {
-            line-height: 0;
-            text-align: center;
-    }
+@media (min-width: 768px) {
     #main-menu {
-        display: inline-block;
+        float: left;
+        width: 12em;
     }
 }

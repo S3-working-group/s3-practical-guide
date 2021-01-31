@@ -4,17 +4,13 @@
   {% include head.html %}
 
   <body onload="setupAnnotations();">
-
     <div class="wrapper" markdown="1">
-    {% include header.html %}
-
-    <div class="page-content">
-        {{ content }}
+      {% include header.html %}
+      <div class="page-content">
+          {{ content }}
       </div>
-
-    {% include footer.html %}
-    {% include smartmenu.html %}
+      {% include footer.html %}
+      {% include smartmenu.html %}
     </div>
   </body>
-
 </html>
