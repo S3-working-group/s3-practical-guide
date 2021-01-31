@@ -64,16 +64,12 @@ presets:
         destination: docs/_layouts/default.html
       - source: templates/website/_layouts/plain.html
         destination: docs/_layouts/plain.html
-      # includes for website
+      # includes for website (header contains {{menu}})
       - source: content/website/_includes/footer.html
         destination: docs/_includes/footer.html
-      - source: content/website/_includes/menu.html
-        destination: docs/_includes/menu.html
-      #  destination: docs/_includes/menu.html
-        mode: html
       - source: content/website/_includes/header.html
         destination: docs/_includes/header.html
-        mode: copy
+        mode: html
       # other website config files
       - source: templates/website/_config.yml
         destination: docs/_config.yml

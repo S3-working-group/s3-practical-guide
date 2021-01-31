@@ -1,0 +1,11 @@
+// placement of smartmenu
+
+@include media-query($on-laptop) {
+    #main-nav {
+            line-height: 0;
+            text-align: center;
+    }
+    #main-menu {
+        display: inline-block;
+    }
+}

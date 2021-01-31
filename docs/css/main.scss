@@ -43,12 +43,11 @@ $on-laptop:        800px;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
         "glossary-overlay",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "menu-placement"
 ;
