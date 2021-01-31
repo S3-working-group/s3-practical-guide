@@ -4,17 +4,17 @@ config:
 
 parts:
   - id: introduction
-    chapters:
+    parts:
       - s3-overview
       - history
       - why-30
       - id: patterns-and-principles
-        sections:
+        parts:
           - pattern
           - principles
           # - principle-accountability
       - id: making-sense-of-organizations
-        sections:
+        parts:
           - driver
           - domain
           - objection
@@ -22,10 +22,10 @@ parts:
           - governance
 
   - id: patterns
-    chapters:
+    parts:
       - id: co-creation-and-evolution
         tags: [group]
-        sections:
+        parts:
           - id: respond-to-organizational-drivers
             tags: [pattern]
           - id: navigate-via-tension
@@ -52,7 +52,7 @@ parts:
             tags: [pattern]
       - id: peer-development
         tags: [group]
-        sections:
+        parts:
           - id: ask-for-help
             tags: [pattern]
           - id: peer-feedback
@@ -63,7 +63,7 @@ parts:
             tags: [pattern]
       - id: enablers-of-collaboration
         tags: [group]
-        sections:
+        parts:
           - id: artful-participation
             tags: [pattern]
           - id: adopt-the-seven-principles
@@ -84,7 +84,7 @@ parts:
             tags: [pattern]
       - id: building-organizations
         tags: [group]
-        sections:
+        parts:
           - id: delegate-influence
             tags: [pattern]
           - id: circle
@@ -105,7 +105,7 @@ parts:
             tags: [pattern]
       - id: bringing-in-s3
         tags: [group]
-        sections:
+        parts:
           - id: adapt-patterns-to-context
             tags: [pattern]
           - id: create-a-pull-system-for-organizational-change
@@ -120,7 +120,7 @@ parts:
             tags: [pattern]
       - id: defining-agreements
         tags: [group]
-        sections:
+        parts:
           - id: record-agreements
             tags: [pattern]
           - id: clarify-and-develop-strategy
@@ -139,7 +139,7 @@ parts:
             tags: [pattern]
       - id: focused-interactions
         tags: [group]
-        sections:
+        parts:
           - id: governance-meeting
             tags: [pattern]
           - id: retrospective
@@ -152,7 +152,7 @@ parts:
             tags: [pattern]
       - id: meeting-practices
         tags: [group]
-        sections:
+        parts:
           - id: rounds
             tags: [pattern]
           - id: facilitate-meetings
@@ -169,7 +169,7 @@ parts:
             tags: [pattern]
       - id: organizing-work
         tags: [group]
-        sections:
+        parts:
           - id: backlog
             tags: [pattern]
           - id: prioritize-backlogs
@@ -188,7 +188,7 @@ parts:
             tags: [pattern]
       - id: organizational-structure
         tags: [group]
-        sections:
+        parts:
           - id: service-circle
             tags: [pattern]
           - id: delegate-circle
@@ -203,7 +203,7 @@ parts:
             tags: [pattern]
 
   - id: appendix
-    chapters:
+    parts:
       - changelog
       - pattern-index
       - links
