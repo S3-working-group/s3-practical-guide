@@ -13,8 +13,8 @@
 
 $sm-mint__white:										#fff !default;
 $sm-mint__black:										#333 !default;
-$sm-mint__green:										#F6FFED !default;
-$sm-mint__green-dark:									#8db863 !default;
+$sm-mint__color:										#e0e6f9 !default;
+$sm-mint__color-dark:									#9aadeb !default;
 
 $sm-mint__box-shadow:									rgba(0, 0, 0, 0.25) !default;
 
@@ -50,7 +50,7 @@ $sm-mint__border-radius-base:							4px !default;
 
 // Menu box
 $sm-mint__collapsible-bg:								$sm-mint__white !default;
-$sm-mint__collapsible-border-color:						$sm-mint__green-dark !default;
+$sm-mint__collapsible-border-color:						$sm-mint__color-dark !default;
 
 // Items
 $sm-mint__collapsible-item-color:						$sm-mint__black !default;
@@ -59,10 +59,10 @@ $sm-mint__collapsible-item-padding-vertical:			13px !default;
 $sm-mint__collapsible-item-padding-horizontal:			20px !default;
 
 // Items separators
-$sm-mint__collapsible-separators-color:					rgba($sm-mint__green-dark, 0.2) !default;
+$sm-mint__collapsible-separators-color:					rgba($sm-mint__color-dark, 0.2) !default;
 
 // Toggle button (sub menu indicators)
-$sm-mint__collapsible-toggle-bg:						rgba($sm-mint__green-dark, 0.2) !default;
+$sm-mint__collapsible-toggle-bg:						rgba($sm-mint__color-dark, 0.2) !default;
 
 
 // ----------------------------------------------------------
@@ -70,7 +70,7 @@ $sm-mint__collapsible-toggle-bg:						rgba($sm-mint__green-dark, 0.2) !default;
 // ----------------------------------------------------------
 
 // Menu box
-$sm-mint__collapsible-sub-bg:							rgba($sm-mint__green-dark, 0.2) !default;
+$sm-mint__collapsible-sub-bg:							rgba($sm-mint__color-dark, 0.2) !default;
 
 // Items text indentation for deeper levels
 $sm-mint__collapsible-sub-item-indentation:				8px !default;
@@ -86,9 +86,9 @@ $sm-mint__desktop-bg:									transparent !default;
 // Items
 $sm-mint__desktop-item-color:							$sm-mint__black !default;
 $sm-mint__desktop-item-hover-color:						$sm-mint__white !default;
-$sm-mint__desktop-item-hover-bg:						$sm-mint__green-dark !default;
+$sm-mint__desktop-item-hover-bg:						$sm-mint__color-dark !default;
 $sm-mint__desktop-item-highlighted-color:				$sm-mint__black !default;
-$sm-mint__desktop-item-highlighted-bg:					$sm-mint__green !default;
+$sm-mint__desktop-item-highlighted-bg:					$sm-mint__color !default;
 $sm-mint__desktop-item-highlighted-box-shadow:			0 4px 3px $sm-mint__box-shadow !default;
 $sm-mint__desktop-item-disabled-color:					darken($sm-mint__white, 20%) !default;
 $sm-mint__desktop-item-padding-vertical:				11px !default;
@@ -96,9 +96,9 @@ $sm-mint__desktop-item-padding-horizontal:				20px !default;
 
 // Sub menu indicators
 $sm-mint__desktop-arrow-size:							6px !default;		// border-width
-$sm-mint__desktop-arrow-color:							$sm-mint__green-dark !default;
+$sm-mint__desktop-arrow-color:							$sm-mint__color-dark !default;
 $sm-mint__desktop-arrow-hover-color:					$sm-mint__white !default;
-$sm-mint__desktop-arrow-highlighted-color:				$sm-mint__green-dark !default;
+$sm-mint__desktop-arrow-highlighted-color:				$sm-mint__color-dark !default;
 $sm-mint__desktop-arrow-spacing:						6px !default;
 
 // Vertical items
@@ -113,7 +113,7 @@ $sm-mint__desktop-vertical-item-padding-horizontal:		20px !default;
 // ----------------------------------------------------------
 
 // Menu box
-$sm-mint__desktop-sub-bg:								$sm-mint__green !default;
+$sm-mint__desktop-sub-bg:								$sm-mint__color !default;
 $sm-mint__desktop-sub-box-shadow:						0 4px 3px $sm-mint__box-shadow !default;
 $sm-mint__desktop-sub-padding-vertical:					8px !default;
 $sm-mint__desktop-sub-padding-horizontal:				0 !default;
@@ -121,7 +121,7 @@ $sm-mint__desktop-sub-padding-horizontal:				0 !default;
 // Items
 $sm-mint__desktop-sub-item-color:						$sm-mint__black !default;
 $sm-mint__desktop-sub-item-hover-color:					$sm-mint__white !default;
-$sm-mint__desktop-sub-item-hover-bg:					$sm-mint__green-dark !default;
+$sm-mint__desktop-sub-item-hover-bg:					$sm-mint__color-dark !default;
 $sm-mint__desktop-sub-item-disabled-color:				lighten($sm-mint__black, 50%) !default;
 $sm-mint__desktop-sub-item-padding-vertical:			10px !default;
 $sm-mint__desktop-sub-item-padding-horizontal:			20px !default;
