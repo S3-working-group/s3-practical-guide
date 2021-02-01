@@ -1,4 +1,4 @@
-# Patterns
+# A pattern-based approach to organizational change
 
 S3 offers a pattern-based approach to organizational change.
 
@@ -20,7 +20,3 @@ In this guide, the patterns are grouped by topic into ten categories to help you
 -   Organizational Structure
 
 By providing a menu of patterns to choose from according to need, S3 encourages an organic, **iterative approach to change without a huge upfront investment**. It meets people where they are and helps them move forward pulling in patterns at their own pace and according to their unique context.
-
-
-
-

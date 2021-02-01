@@ -31,5 +31,5 @@ As interest in Sociocracy 3.0 grows there is a fast growing community of people
 
 
 
-[&#9654; Why "3.0"?](why-30.html)<br/>[&#9664; What is Sociocracy 3.0?](s3-overview.html)<br/>[&#9650; Introduction](introduction.html)
+[&#9654; Why "3.0"?](why-30.html)<br/>[&#9664; What's in this guide?](contents.html)<br/>[&#9650; What is Sociocracy 3.0?](what-is-s3.html)
 

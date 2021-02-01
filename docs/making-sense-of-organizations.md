@@ -18,5 +18,5 @@ When people understand these concepts, it gives them a common language for descr
 For any terms you don’t understand, check out the glossary at the end.
 
 
-[&#9654; Drivers](driver.html)<br/>[&#9664; The Seven Principles](principles.html)<br/>[&#9650; Introduction](introduction.html)
+[&#9654; Drivers](driver.html)<br/>[&#9664; The Seven Principles](principles.html)<br/>
 
