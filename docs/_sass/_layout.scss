@@ -188,8 +188,10 @@
     display: block;
     font-size: 24px;
 }
-
-
+.bottom-nav {
+    padding-top: $spacing-unit;
+    font-size: $small-font-size;
+}
 
 /**
  * Posts

@@ -69,7 +69,20 @@ msgid "Contents"
 msgstr "Contents"
 
 
+# (mdtools) webpage bottomnavigation: next page in reading order
+msgid "read next:"
+msgstr "read next:"
+
+# (mdtools): webpage bottomnavigation: previous page in reading order
+msgid "back to:"
+msgstr "back to:"
+
+# (mdtools): webpage bottom navigation
+msgid "up:"
+msgstr "up:"
+
 #
 msgid ""
 msgstr ""
+
 
