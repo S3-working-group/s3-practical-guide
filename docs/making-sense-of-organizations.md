@@ -18,5 +18,6 @@ When people understand these concepts, it gives them a common language for descr
 For any terms you don’t understand, check out the glossary at the end.
 
 
-[&#9654; Drivers](driver.html)<br/>[&#9664; The Seven Principles](principles.html)<br/>
-
+<div class="bottom-nav">
+<a href="principles.html" title="Back to: The Seven Principles">◀</a> <a href="driver.html" title="">▶ Read next: Drivers</a>
+</div>

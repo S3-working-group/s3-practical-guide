@@ -35,5 +35,6 @@ title: "Building Organizations"
 
 
 
-[&#9654; Delegate Influence](delegate-influence.html)<br/>[&#9664; Bylaws](bylaws.html)<br/>[&#9650; The Patterns](patterns.html)
-
+<div class="bottom-nav">
+<a href="bylaws.html" title="Back to: Bylaws">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="delegate-influence.html" title="">▶ Read next: Delegate Influence</a>
+</div>

@@ -23,5 +23,6 @@ A role keeper may maintain a governance <dfn data-info="Backlog: A list of (ofte
 ![People can take responsibility for more than one role](img/illustrations/roles.png)
 
 
-[&#9654; Linking](linking.html)<br/>[&#9664; Circle](circle.html)<br/>[&#9650; Building Organizations](building-organizations.html)
-
+<div class="bottom-nav">
+<a href="circle.html" title="Back to: Circle">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="linking.html" title="">▶ Read next: Linking</a>
+</div>

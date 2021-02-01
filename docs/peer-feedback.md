@@ -22,5 +22,6 @@ Avoid discussing or judging the feedback you receive and remember to thank your 
 After the session, review your notes and decide for yourself what you will do with the feedback you received. It’s your choice if you want to share your decision with your peer.
 
 
-[&#9654; Peer Review](peer-review.html)<br/>[&#9664; Ask For Help](ask-for-help.html)<br/>[&#9650; Peer Development](peer-development.html)
-
+<div class="bottom-nav">
+<a href="ask-for-help.html" title="Back to: Ask For Help">◀</a> <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="peer-review.html" title="">▶ Read next: Peer Review</a>
+</div>

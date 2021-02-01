@@ -17,5 +17,6 @@ title: "The Patterns"
 
 
 
-[&#9654; Co-Creation and Evolution](co-creation-and-evolution.html)<br/>[&#9664; Governance and Operations](governance.html)<br/>
-
+<div class="bottom-nav">
+<a href="governance.html" title="Back to: Governance and Operations">◀</a> <a href="co-creation-and-evolution.html" title="">▶ Read next: Co-Creation and Evolution</a>
+</div>

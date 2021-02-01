@@ -19,5 +19,6 @@ Agenda items:
 ![Phases of a coordination meeting](img/meetings/coordination-meeting.png)
 
 
-[&#9654; Meeting Practices](meeting-practices.html)<br/>[&#9664; Planning And Review Meetings](planning-and-review-meetings.html)<br/>[&#9650; Focused Interactions](focused-interactions.html)
-
+<div class="bottom-nav">
+<a href="planning-and-review-meetings.html" title="Back to: Planning And Review Meetings">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="meeting-practices.html" title="">▶ Read next: Meeting Practices</a>
+</div>

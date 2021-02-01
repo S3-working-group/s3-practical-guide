@@ -11,5 +11,6 @@ Several coordinators may collaborate to synchronize work across multiple <dfn da
 
 Instead of selecting a coordinator, a team may choose to self-organize.
 
-[&#9654; Organizational Structure](organizational-structure.html)<br/>[&#9664; Align Flow](align-flow.html)<br/>[&#9650; Organizing Work](organizing-work.html)
-
+<div class="bottom-nav">
+<a href="align-flow.html" title="Back to: Align Flow">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="organizational-structure.html" title="">▶ Read next: Organizational Structure</a>
+</div>

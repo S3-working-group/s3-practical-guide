@@ -1,29 +1,39 @@
 ---
-title: "The S3 Patterns"
+title: "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"
 ---
 
 
-The official description of Sociocracy 3.0: All patterns, the Seven Principles and key concepts.
+<p class="hp-version">v2021-01-12</p>
 
-Start with the [&#9654; introduction](introduction.html), which explains what S3 is all about, and what it can bring to your organization. At the end of the introduction, you will find a guided tour through all the patterns, just follow the links at the bottom of the page. Refer to the [&#9654; glossary](glossary.html) for terms you are not familiar with. You can also select a specific pattern from the [&#9654;pattern index](pattern-index.html), or browse the patterns groups below.
+<div class="homepage-box hp-box1">
+    <h2> If you're new to S3…</h2>
 
-This guide is also available in other languages and formats, see the [S3 resources page ](https://sociocracy30.org/resources) for a complete list.
+    <p>Start with <a href="what-is-s3.html">&#9654;&nbsp;What is Sociocracy 3.0</a>, which explains what S3 is all about, and what it can bring to your organization or team.</p>
 
-For further information about Sociocracy 3.0 and more free resources check out <http://sociocracy30.org>
+    <p>Refer to the <a href="glossary.html">&#9654;&nbsp;Glossary</a> for terms you are not familiar with.</p>
 
-## Pattern Groups
+    <p>At the bottom of each page, you will find a <strong>guided tour</strong> through this book, all you need to do to read it cover-to-cover is follow those links.</p>
+</div>
 
-- [Co-Creation and Evolution](co-creation-and-evolution.html)
-- [Peer Development](peer-development.html)
-- [Enablers of Collaboration](enablers-of-collaboration.html)
-- [Building Organizations](building-organizations.html)
-- [Bringing in S3](bringing-in-s3.html)
-- [Defining Agreements](defining-agreements.html)
-- [Focused Interactions](focused-interactions.html)
-- [Meeting Practices](meeting-practices.html)
-- [Organizing Work](organizing-work.html)
-- [Organizational Structure](organizational-structure.html)
+<div class="homepage-box hp-box2">
+    <h2>If you already know S3…</h2>
 
+    <p>To see what has changed in the Practical Guide, take a look at the <a href="changelog.html">&#9654; Changelog</a>.</p>
 
+    <p><strong>To find a specific pattern</strong>, or to get an overview over what's available, you can use the <a href="pattern-index.html">&#9654;&nbsp;Pattern Index</a> or the <a href="map.html" ><img src="img/map.png" />&nbsp;Pattern Map</a>.</p>
+
+    <p>These tools are also available in the "Tools" menu.</p>
+</div>
 
 
+<div class="homepage-box hp-box3">
+    <h2>Downloads and other languages</h2>
+
+    <p>You can read this guide also in <a href="https://patterns-de.sociocracy30.org">German</a>, <a href="https://patterns-fr.sociocracy30.org">French</a>, <a href="https://patterns-nl.sociocracy30.org">Dutch</a>, or <a href="https://patterns-he.sociocracy30.org">Hebrew</a>. Each page has links to other language versions of that page in the <strong>footer</strong>.</p>
+
+    <p>If you prefer to read this guide offline or on your ebook reader, you will find <strong>downloads as PDF and EPUB</strong> in the <a href="https://sociocracy30.org/resources/#se-practical-guide">&#9654;&nbsp;S3&nbsp;Resources Page</a> in all available languages.</p>
+</div>
+
+<p>For further information about Sociocracy 3.0 and more free resources check out <a href="http://sociocracy30.org">http://sociocracy30.org</a></p>
+
+[&#9654; read next: What is Sociocracy 3.0](what-is-s3.html)

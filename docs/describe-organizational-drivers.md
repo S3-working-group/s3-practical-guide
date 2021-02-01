@@ -79,5 +79,6 @@ Helpful questions for a review include:
 
 
 
-[&#9654; Consent Decision Making](consent-decision-making.html)<br/>[&#9664; Navigate Via Tension](navigate-via-tension.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="navigate-via-tension.html" title="Back to: Navigate Via Tension">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="consent-decision-making.html" title="">▶ Read next: Consent Decision Making</a>
+</div>

@@ -22,5 +22,6 @@ True to the mindset behind S3, this book will always be a work in progress that 
 Even though several sections in this book are brief and may still be rough around the edges, the content and explanations have been sufficient for many people to get started with S3 and achieve positive change in their organizations. We hope you'll find it useful too.
 
 
-[&#9654; Influences and History of Sociocracy 3.0](history.html)<br/>[&#9664; A pattern-based approach to organizational change](pattern.html)<br/>[&#9650; What is Sociocracy 3.0?](what-is-s3.html)
-
+<div class="bottom-nav">
+<a href="pattern.html" title="Back to: A pattern-based approach to organizational change">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="history.html" title="">▶ Read next: Influences and History of Sociocracy 3.0</a>
+</div>

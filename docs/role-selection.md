@@ -37,5 +37,6 @@ Sometimes a role selection reveals a lack of capacity, relevant experience, qual
 This pattern can also be used in any situation where there is a need to choose between a variety of options.
 
 
-[&#9654; Driver Mapping](driver-mapping.html)<br/>[&#9664; Proposal Forming](proposal-forming.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="proposal-forming.html" title="Back to: Proposal Forming">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="driver-mapping.html" title="">▶ Read next: Driver Mapping</a>
+</div>

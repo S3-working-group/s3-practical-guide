@@ -43,5 +43,6 @@ Depending on the scope and significance of the agreement, consider including all
 ![Template for agreements](img/templates/agreement-template.png)
 
 
-[&#9654; Clarify and Develop Strategy](clarify-and-develop-strategy.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
-
+<div class="bottom-nav">
+<a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="clarify-and-develop-strategy.html" title="">▶ Read next: Clarify and Develop Strategy</a>
+</div>

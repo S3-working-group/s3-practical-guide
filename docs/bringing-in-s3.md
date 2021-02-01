@@ -25,5 +25,6 @@ title: "Bringing in S3"
 </dl>
 
 
-[&#9654; Adapt Patterns To Context](adapt-patterns-to-context.html)<br/>[&#9664; Open Systems](open-systems.html)<br/>[&#9650; The Patterns](patterns.html)
-
+<div class="bottom-nav">
+<a href="open-systems.html" title="Back to: Open Systems">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="adapt-patterns-to-context.html" title="">▶ Read next: Adapt Patterns To Context</a>
+</div>

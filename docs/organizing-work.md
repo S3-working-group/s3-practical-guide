@@ -30,5 +30,6 @@ title: "Organizing Work"
   <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term.</strong></p></dd>
 </dl>
 
-[&#9654; Backlog](backlog.html)<br/>[&#9664; Governance Backlog](governance-backlog.html)<br/>[&#9650; The Patterns](patterns.html)
-
+<div class="bottom-nav">
+<a href="governance-backlog.html" title="Back to: Governance Backlog">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="backlog.html" title="">▶ Read next: Backlog</a>
+</div>

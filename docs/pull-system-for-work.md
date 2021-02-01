@@ -10,5 +10,6 @@ Prioritize pending work items to ensure that important items are worked on first
 Pulling in work prevents overloading the system, especially when [work in progress (WIP) per person or team is limited](limit-work-in-progress.html).
 
 
-[&#9654; Limit Work in Progress](limit-work-in-progress.html)<br/>[&#9664; Visualize Work](visualize-work.html)<br/>[&#9650; Organizing Work](organizing-work.html)
-
+<div class="bottom-nav">
+<a href="visualize-work.html" title="Back to: Visualize Work">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="limit-work-in-progress.html" title="">▶ Read next: Limit Work in Progress</a>
+</div>

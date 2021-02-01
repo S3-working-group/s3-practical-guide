@@ -75,5 +75,6 @@ If you find that standard contracts in your industry are misaligned with the cul
 
 
 
-[&#9654; Transparent Salary](transparent-salary.html)<br/>[&#9664; Breaking Agreements](breaking-agreements.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
-
+<div class="bottom-nav">
+<a href="breaking-agreements.html" title="Back to: Breaking Agreements">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="transparent-salary.html" title="">▶ Read next: Transparent Salary</a>
+</div>

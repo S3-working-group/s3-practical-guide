@@ -15,5 +15,6 @@ title: "Daily Standup"
 ![Daily standup is an essential meeting for self-organizing teams.](img/meetings/planning-review-standup.png)
 
 
-[&#9654; Planning And Review Meetings](planning-and-review-meetings.html)<br/>[&#9664; Retrospective](retrospective.html)<br/>[&#9650; Focused Interactions](focused-interactions.html)
-
+<div class="bottom-nav">
+<a href="retrospective.html" title="Back to: Retrospective">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="planning-and-review-meetings.html" title="">▶ Read next: Planning And Review Meetings</a>
+</div>

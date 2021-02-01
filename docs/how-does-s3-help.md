@@ -10,5 +10,6 @@ Sociocracy 3.0 is designed to be flexible and supports experimentation and lear
 S3 integrates core concepts and practices found in agile methodologies, lean management, Kanban (and KMM), Design Thinking, Teal Organizations and the family of sociocracy-based governance methods (SCM/Dynamic Governance, Holacracy® etc.). It's complimentary and compatible with any agile or lean framework, including but not limited to Scrum and its various scaling frameworks.
 
 
-[&#9654; A pattern-based approach to organizational change](pattern.html)<br/>[&#9650; What is Sociocracy 3.0?](what-is-s3.html)
-
+<div class="bottom-nav">
+<a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="pattern.html" title="">▶ Read next: A pattern-based approach to organizational change</a>
+</div>

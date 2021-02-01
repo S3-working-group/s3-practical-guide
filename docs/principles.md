@@ -24,5 +24,6 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 **The Principle of Accountability:** *Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
 
 
-[&#9654; Key Concepts for Making Sense of Organizations](making-sense-of-organizations.html)<br/>[&#9664; Why "3.0"?](why-30.html)<br/>
-
+<div class="bottom-nav">
+<a href="why-30.html" title="Back to: Why &quot;3.0&quot;?">◀</a> <a href="making-sense-of-organizations.html" title="">▶ Read next: Key Concepts for Making Sense of Organizations</a>
+</div>

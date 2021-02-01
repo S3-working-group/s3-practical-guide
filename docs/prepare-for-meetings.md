@@ -40,5 +40,6 @@ For each agenda item agree on:
 - review improvement suggestions from the last meeting's evaluation and consider how **you** might act on them
 
 
-[&#9654; Check In](check-in.html)<br/>[&#9664; Facilitate Meetings](facilitate-meetings.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
-
+<div class="bottom-nav">
+<a href="facilitate-meetings.html" title="Back to: Facilitate Meetings">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="check-in.html" title="">▶ Read next: Check In</a>
+</div>

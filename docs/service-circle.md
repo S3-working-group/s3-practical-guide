@@ -10,5 +10,6 @@ A service circle can be populated by members of the <dfn data-info="Domain: A di
 ![Service Circle](img/structural-patterns/service-circle.png)
 
 
-[&#9654; Delegate Circle](delegate-circle.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
-
+<div class="bottom-nav">
+<a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="delegate-circle.html" title="">▶ Read next: Delegate Circle</a>
+</div>

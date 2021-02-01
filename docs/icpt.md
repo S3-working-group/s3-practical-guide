@@ -46,5 +46,6 @@ I will make any S3 resources I adapt or create available under a Creative Common
 I will discuss possible objections relating to S3 patterns in my intervision group, and pass to S3 developers if I believe they qualify.
 
 
-[&#9654; Acknowledgments](acknowledgments.html)<br/>[&#9664; Disclaimer](disclaimer.html)<br/>[&#9650; Appendix](appendix.html)
-
+<div class="bottom-nav">
+<a href="disclaimer.html" title="Back to: Disclaimer">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="acknowledgments.html" title="">▶ Read next: Acknowledgments</a>
+</div>

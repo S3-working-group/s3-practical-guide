@@ -45,5 +45,6 @@ Follow-up:
 -   Consider effects on any related agreements.
 
 
-[&#9654; Those Affected Decide](those-affected-decide.html)<br/>[&#9664; Resolve Objections](resolve-objections.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="resolve-objections.html" title="Back to: Resolve Objections">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="those-affected-decide.html" title="">▶ Read next: Those Affected Decide</a>
+</div>

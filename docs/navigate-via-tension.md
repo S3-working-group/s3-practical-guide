@@ -14,5 +14,6 @@ To **discover drivers**, investigate what stimulates tension, and describe what'
 ![Navigate Via Tension, Describe Organizational Drivers, Respond To Organizational Drivers](img/process/navigate-describe-respond.png)
 
 
-[&#9654; Describe Organizational Drivers](describe-organizational-drivers.html)<br/>[&#9664; Respond to Organizational Drivers](respond-to-organizational-drivers.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="respond-to-organizational-drivers.html" title="Back to: Respond to Organizational Drivers">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="describe-organizational-drivers.html" title="">▶ Read next: Describe Organizational Drivers</a>
+</div>

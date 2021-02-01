@@ -23,5 +23,6 @@ Preparation:
 
 **See also:** [Facilitate Meetings](facilitate-meetings.html), [Prepare For Meetings](prepare-for-meetings.html)
 
-[&#9654; Governance Backlog](governance-backlog.html)<br/>[&#9664; Evaluate Meetings](evaluate-meetings.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
-
+<div class="bottom-nav">
+<a href="evaluate-meetings.html" title="Back to: Evaluate Meetings">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="governance-backlog.html" title="">▶ Read next: Governance Backlog</a>
+</div>

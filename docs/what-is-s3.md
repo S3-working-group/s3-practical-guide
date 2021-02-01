@@ -19,5 +19,6 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
 **Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
 
 
-[&#9654; How does Sociocracy 3.0 help?](how-does-s3-help.html)<br/>
-
+<div class="bottom-nav">
+<a href="how-does-s3-help.html" title="">▶ Read next: How does Sociocracy 3.0 help?</a>
+</div>

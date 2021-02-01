@@ -23,5 +23,6 @@ title: "Retrospective"
 Many different activities for each phase can be found at [plans-for-retrospectives.com](http://www.plans-for-retrospectives.com/)
 
 
-[&#9654; Daily Standup](daily-standup.html)<br/>[&#9664; Governance Meeting](governance-meeting.html)<br/>[&#9650; Focused Interactions](focused-interactions.html)
-
+<div class="bottom-nav">
+<a href="governance-meeting.html" title="Back to: Governance Meeting">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="daily-standup.html" title="">▶ Read next: Daily Standup</a>
+</div>

@@ -17,5 +17,6 @@ When making the invitation:
 Include the people involved and affected in regular evaluation of outcomes.
 
 
-[&#9654; Open Space For Change](open-space-for-change.html)<br/>[&#9664; Be The Change](be-the-change.html)<br/>[&#9650; Bringing in S3](bringing-in-s3.html)
-
+<div class="bottom-nav">
+<a href="be-the-change.html" title="Back to: Be The Change">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="open-space-for-change.html" title="">▶ Read next: Open Space For Change</a>
+</div>

@@ -18,5 +18,6 @@ A delegator is accountable for conducting regular reviews to support effectivene
 ![Open Domain](img/structural-patterns/open-domain.png)
 
 
-[&#9654; Open Systems](open-systems.html)<br/>[&#9664; Helping Team](helping-team.html)<br/>[&#9650; Building Organizations](building-organizations.html)
-
+<div class="bottom-nav">
+<a href="helping-team.html" title="Back to: Helping Team">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="open-systems.html" title="">▶ Read next: Open Systems</a>
+</div>

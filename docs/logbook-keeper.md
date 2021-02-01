@@ -14,5 +14,6 @@ The logbook keeper is accountable for maintaining a team's <dfn data-info="Logbo
 -   attending to all technical aspects of logbook keeping
 
 
-[&#9654; Focused Interactions](focused-interactions.html)<br/>[&#9664; Logbook](logbook.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
-
+<div class="bottom-nav">
+<a href="logbook.html" title="Back to: Logbook">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="focused-interactions.html" title="">▶ Read next: Focused Interactions</a>
+</div>

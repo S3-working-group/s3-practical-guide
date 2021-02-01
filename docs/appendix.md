@@ -15,5 +15,6 @@ title: "Appendix"
 
 
 
-[&#9654; Changelog](changelog.html)<br/>[&#9664; Fractal Organization](fractal-organization.html)<br/>
-
+<div class="bottom-nav">
+<a href="fractal-organization.html" title="Back to: Fractal Organization">◀</a> <a href="changelog.html" title="">▶ Read next: Changelog</a>
+</div>

@@ -34,5 +34,6 @@ title: "Enablers of Collaboration"
 </dl>
 
 
-[&#9654; Artful Participation](artful-participation.html)<br/>[&#9664; Development Plan](development-plan.html)<br/>[&#9650; The Patterns](patterns.html)
-
+<div class="bottom-nav">
+<a href="development-plan.html" title="Back to: Development Plan">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="artful-participation.html" title="">▶ Read next: Artful Participation</a>
+</div>

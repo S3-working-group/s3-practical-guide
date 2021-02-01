@@ -13,5 +13,6 @@ title: "Open Space For Change"
 
 
 
-[&#9654; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)<br/>[&#9664; Invite Change](invite-change.html)<br/>[&#9650; Bringing in S3](bringing-in-s3.html)
-
+<div class="bottom-nav">
+<a href="invite-change.html" title="Back to: Invite Change">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="continuous-improvement-of-work-process.html" title="">▶ Read next: Continuous Improvement Of Work Process</a>
+</div>

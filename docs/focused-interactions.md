@@ -22,5 +22,6 @@ title: "Focused Interactions"
 </dl>
 
 
-[&#9654; Governance Meeting](governance-meeting.html)<br/>[&#9664; Logbook Keeper](logbook-keeper.html)<br/>[&#9650; The Patterns](patterns.html)
-
+<div class="bottom-nav">
+<a href="logbook-keeper.html" title="Back to: Logbook Keeper">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="governance-meeting.html" title="">▶ Read next: Governance Meeting</a>
+</div>

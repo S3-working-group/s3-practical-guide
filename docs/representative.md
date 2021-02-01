@@ -15,5 +15,6 @@ Representatives (a.k.a. links):
     -   raise <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objections</dfn> to proposals and existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>
 
 
-[&#9654; Helping Team](helping-team.html)<br/>[&#9664; Double Linking](double-linking.html)<br/>[&#9650; Building Organizations](building-organizations.html)
-
+<div class="bottom-nav">
+<a href="double-linking.html" title="Back to: Double Linking">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="helping-team.html" title="">▶ Read next: Helping Team</a>
+</div>

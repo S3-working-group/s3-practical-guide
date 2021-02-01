@@ -14,5 +14,6 @@ Consider:
 -   sharing gains and costs
 
 
-[&#9654; Building Organizations](building-organizations.html)<br/>[&#9664; Support Role](support-role.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
-
+<div class="bottom-nav">
+<a href="support-role.html" title="Back to: Support Role">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="building-organizations.html" title="">▶ Read next: Building Organizations</a>
+</div>

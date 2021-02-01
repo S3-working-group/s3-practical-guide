@@ -229,5 +229,6 @@ title: "Alphabetical List Of All Patterns"
 </dl>
 
 
-[&#9654; Links](links.html)<br/>[&#9664; Changelog](changelog.html)<br/>[&#9650; Appendix](appendix.html)
-
+<div class="bottom-nav">
+<a href="changelog.html" title="Back to: Changelog">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="links.html" title="">▶ Read next: Links</a>
+</div>

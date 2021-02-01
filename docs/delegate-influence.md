@@ -16,5 +16,6 @@ Adjust constraints incrementally, considering capabilities, reliability and outc
 Decentralize as much as possible, and retain as much influence as necessary.
 
 
-[&#9654; Circle](circle.html)<br/>[&#9650; Building Organizations](building-organizations.html)
-
+<div class="bottom-nav">
+<a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="circle.html" title="">▶ Read next: Circle</a>
+</div>

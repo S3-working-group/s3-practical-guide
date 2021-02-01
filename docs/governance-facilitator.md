@@ -25,5 +25,6 @@ As a governance facilitator, consider learning about and using the following pat
 ![The governance facilitator is typically a member of the team](img/circle/facilitator.png)
 
 
-[&#9654; Breaking Agreements](breaking-agreements.html)<br/>[&#9664; Agree On Values](agree-on-values.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
-
+<div class="bottom-nav">
+<a href="agree-on-values.html" title="Back to: Agree On Values">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="breaking-agreements.html" title="">▶ Read next: Breaking Agreements</a>
+</div>

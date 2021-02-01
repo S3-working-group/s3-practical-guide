@@ -11,5 +11,6 @@ title: "Evaluation Criteria"
 -   when reviewing an agreement, consider **evolving the evaluation criteria** based on what you have learned
 
 
-[&#9654; Logbook](logbook.html)<br/>[&#9664; Describe Deliverables](describe-deliverables.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
-
+<div class="bottom-nav">
+<a href="describe-deliverables.html" title="Back to: Describe Deliverables">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="logbook.html" title="">▶ Read next: Logbook</a>
+</div>

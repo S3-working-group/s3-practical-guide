@@ -19,5 +19,6 @@ When decision making is conducted close to where value is created, and the flow 
 ![Aligning the flow of information to support the flow of value](img/workflow-and-value/align-flow.png)
 
 
-[&#9654; Coordinator](coordinator.html)<br/>[&#9664; Timebox Activities](timebox-activities.html)<br/>[&#9650; Organizing Work](organizing-work.html)
-
+<div class="bottom-nav">
+<a href="timebox-activities.html" title="Back to: Timebox Activities">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="coordinator.html" title="">▶ Read next: Coordinator</a>
+</div>

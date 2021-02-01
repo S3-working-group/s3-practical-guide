@@ -14,5 +14,6 @@ A development plan (and any accompanying recommendations for changes to the desc
 ![A template for development plans](img/templates/development-plan-template.png)
 
 
-[&#9654; Enablers of Collaboration](enablers-of-collaboration.html)<br/>[&#9664; Peer Review](peer-review.html)<br/>[&#9650; Peer Development](peer-development.html)
-
+<div class="bottom-nav">
+<a href="peer-review.html" title="Back to: Peer Review">◀</a> <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="enablers-of-collaboration.html" title="">▶ Read next: Enablers of Collaboration</a>
+</div>

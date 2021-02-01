@@ -16,5 +16,6 @@ Delegate circles provide a way of steering organizations in alignment with the <
 A delegate circle may bring in other people (e.g. external experts) to help with specific decisions, or even as a member of the circle.
 
 
-[&#9654; Peach Organization](peach-organization.html)<br/>[&#9664; Service Circle](service-circle.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
-
+<div class="bottom-nav">
+<a href="service-circle.html" title="Back to: Service Circle">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="peach-organization.html" title="">▶ Read next: Peach Organization</a>
+</div>
