@@ -2,6 +2,12 @@
   <p><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></p>
 </header>
 <nav id="main-nav">
+  <!-- Mobile menu toggle button (hamburger/x icon) -->
+  <input id="main-menu-state" type="checkbox" />
+  <label class="main-menu-btn" for="main-menu-state">
+    <span class="main-menu-btn-icon"></span> Toggle main menu visibility
+  </label>
+  <!-- the actual menu -->
   <ul id="main-menu" class="sm sm-mint sm-vertical">
     <li><a href="index.html">Home</a></li>
     <li><a href="introduction.html">Introduction</a>
