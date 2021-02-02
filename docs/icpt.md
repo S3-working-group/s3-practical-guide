@@ -49,3 +49,12 @@ I will discuss possible objections relating to S3 patterns in my intervision gro
 <div class="bottom-nav">
 <a href="disclaimer.html" title="Back to: Disclaimer">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="acknowledgments.html" title="">▶ Read next: Acknowledgments</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'acknowledgments.html';
+    return false;
+});
+</script>
+

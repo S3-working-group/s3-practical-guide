@@ -15,3 +15,12 @@ Ask someone, "_would you be willing to help me with ..._?" The person asked acce
 <div class="bottom-nav">
 <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="peer-feedback.html" title="">▶ Read next: Peer Feedback</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'peer-feedback.html';
+    return false;
+});
+</script>
+

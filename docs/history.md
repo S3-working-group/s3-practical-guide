@@ -34,3 +34,12 @@ As interest in Sociocracy 3.0 grows there is a fast growing community of people
 <div class="bottom-nav">
 <a href="contents.html" title="Back to: What&apos;s in this guide?">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="why-30.html" title="">▶ Read next: Why &quot;3.0&quot;?</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'why-30.html';
+    return false;
+});
+</script>
+

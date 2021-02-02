@@ -28,3 +28,12 @@ title: "Bringing in S3"
 <div class="bottom-nav">
 <a href="open-systems.html" title="Back to: Open Systems">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="adapt-patterns-to-context.html" title="">▶ Read next: Adapt Patterns To Context</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'adapt-patterns-to-context.html';
+    return false;
+});
+</script>
+

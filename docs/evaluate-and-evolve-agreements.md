@@ -48,3 +48,12 @@ Follow-up:
 <div class="bottom-nav">
 <a href="resolve-objections.html" title="Back to: Resolve Objections">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="those-affected-decide.html" title="">▶ Read next: Those Affected Decide</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'those-affected-decide.html';
+    return false;
+});
+</script>
+

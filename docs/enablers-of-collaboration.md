@@ -37,3 +37,12 @@ title: "Enablers of Collaboration"
 <div class="bottom-nav">
 <a href="development-plan.html" title="Back to: Development Plan">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="artful-participation.html" title="">▶ Read next: Artful Participation</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'artful-participation.html';
+    return false;
+});
+</script>
+

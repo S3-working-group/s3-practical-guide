@@ -19,3 +19,12 @@ A delegate circle may bring in other people (e.g. external experts) to help with
 <div class="bottom-nav">
 <a href="service-circle.html" title="Back to: Service Circle">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="peach-organization.html" title="">▶ Read next: Peach Organization</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'peach-organization.html';
+    return false;
+});
+</script>
+

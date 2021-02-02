@@ -20,3 +20,12 @@ A double-linked hierarchy:
 <div class="bottom-nav">
 <a href="peach-organization.html" title="Back to: Peach Organization">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="service-organization.html" title="">▶ Read next: Service Organization</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'service-organization.html';
+    return false;
+});
+</script>
+

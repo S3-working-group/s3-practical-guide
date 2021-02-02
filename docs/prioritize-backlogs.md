@@ -12,3 +12,12 @@ A prioritized <dfn data-info="Backlog: A list of (often prioritized) uncompleted
 <div class="bottom-nav">
 <a href="backlog.html" title="Back to: Backlog">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="visualize-work.html" title="">▶ Read next: Visualize Work</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'visualize-work.html';
+    return false;
+});
+</script>
+

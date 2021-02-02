@@ -18,3 +18,12 @@ When checking in, in a new setting, people can also say their name and where the
 <div class="bottom-nav">
 <a href="prepare-for-meetings.html" title="Back to: Prepare For Meetings">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="evaluate-meetings.html" title="">▶ Read next: Evaluate Meetings</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'evaluate-meetings.html';
+    return false;
+});
+</script>
+

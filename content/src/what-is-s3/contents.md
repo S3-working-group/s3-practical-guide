@@ -10,6 +10,7 @@ Inside this practical guide book you'll discover:
     -   **Group-practices** to help organizations make the best use of talent they already have, through **people supporting each other** in building skills, accountability and engagement.
     -   Simple **tools for clarifying who does what**, freeing people up to decide and act for themselves as much as possible, within clearly defined constraints that enable experimentation and development.
     -   Patterns for **growing organizational structure beyond hierarchies** into flexible, decentralized networks where the flow of information and influence directly supports the creation of value.
+-   The **Common Sense Framework**, a tool for making sense of teams and organizations and figuring out how to get started with S3.   
 -   A **glossary** with explanations for all the terms you might be unfamiliar with.
 
 This practical guide to Sociocracy 3.0 is written and published by the three co-developers of Sociocracy 3.0.

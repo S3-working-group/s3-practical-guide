@@ -41,3 +41,12 @@ Typical agenda items include:
 <div class="bottom-nav">
 <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="retrospective.html" title="">▶ Read next: Retrospective</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'retrospective.html';
+    return false;
+});
+</script>
+

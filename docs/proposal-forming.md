@@ -44,3 +44,12 @@ Between two and three tuners is usually appropriate. Check for any objections to
 <div class="bottom-nav">
 <a href="co-create-proposals.html" title="Back to: Co-Create Proposals">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="role-selection.html" title="">▶ Read next: Role Selection</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'role-selection.html';
+    return false;
+});
+</script>
+

@@ -15,3 +15,12 @@ Double linking enables equivalence between two teams and can be used to draw out
 <div class="bottom-nav">
 <a href="linking.html" title="Back to: Linking">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="representative.html" title="">▶ Read next: Representative</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'representative.html';
+    return false;
+});
+</script>
+

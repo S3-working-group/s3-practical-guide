@@ -35,3 +35,12 @@ Some helpful questions:
 <div class="bottom-nav">
 <a href="consent-decision-making.html" title="Back to: Consent Decision Making">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="resolve-objections.html" title="">▶ Read next: Resolve Objections</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'resolve-objections.html';
+    return false;
+});
+</script>
+

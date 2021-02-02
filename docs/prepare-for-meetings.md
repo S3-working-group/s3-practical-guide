@@ -43,3 +43,12 @@ For each agenda item agree on:
 <div class="bottom-nav">
 <a href="facilitate-meetings.html" title="Back to: Facilitate Meetings">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="check-in.html" title="">▶ Read next: Check In</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'check-in.html';
+    return false;
+});
+</script>
+

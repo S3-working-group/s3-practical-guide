@@ -38,3 +38,12 @@ title: "Building Organizations"
 <div class="bottom-nav">
 <a href="bylaws.html" title="Back to: Bylaws">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="delegate-influence.html" title="">▶ Read next: Delegate Influence</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'delegate-influence.html';
+    return false;
+});
+</script>
+

@@ -14,3 +14,12 @@ Individuals, teams and entire organizations can acknowledge interdependence and 
 <div class="bottom-nav">
 <a href="open-domain.html" title="Back to: Open Domain">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="bringing-in-s3.html" title="">▶ Read next: Bringing in S3</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'bringing-in-s3.html';
+    return false;
+});
+</script>
+

@@ -16,3 +16,12 @@ title: "Open Space For Change"
 <div class="bottom-nav">
 <a href="invite-change.html" title="Back to: Invite Change">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="continuous-improvement-of-work-process.html" title="">▶ Read next: Continuous Improvement Of Work Process</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'continuous-improvement-of-work-process.html';
+    return false;
+});
+</script>
+

@@ -208,3 +208,12 @@ Consider also including the following information to the domain description
 <div class="bottom-nav">
 <a href="clarify-and-develop-strategy.html" title="Back to: Clarify and Develop Strategy">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="clarify-intended-outcome.html" title="">▶ Read next: Clarify Intended Outcome</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'clarify-intended-outcome.html';
+    return false;
+});
+</script>
+

@@ -8,7 +8,7 @@ title: "Co-Creation and Evolution"
   <dt><a href="respond-to-organizational-drivers.html">Respond to Organizational Drivers</a></dt>
   <dd><p>Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.</p></dd>
 
-  <dt><a href="navigate-via-tension.html">Navigate Via Tension</a></dt>
+  <dt><a href="navigate-via-tension.html">Navigate via Tension</a></dt>
   <dd><p>Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.</p></dd>
 
   <dt><a href="describe-organizational-drivers.html">Describe Organizational Drivers</a></dt>
@@ -46,3 +46,12 @@ title: "Co-Creation and Evolution"
 <div class="bottom-nav">
 <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="respond-to-organizational-drivers.html" title="">▶ Read next: Respond to Organizational Drivers</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'respond-to-organizational-drivers.html';
+    return false;
+});
+</script>
+

@@ -22,3 +22,12 @@ When decision making is conducted close to where value is created, and the flow 
 <div class="bottom-nav">
 <a href="timebox-activities.html" title="Back to: Timebox Activities">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="coordinator.html" title="">▶ Read next: Coordinator</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'coordinator.html';
+    return false;
+});
+</script>
+

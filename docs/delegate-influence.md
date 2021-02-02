@@ -19,3 +19,12 @@ Decentralize as much as possible, and retain as much influence as necessary.
 <div class="bottom-nav">
 <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="circle.html" title="">▶ Read next: Circle</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'circle.html';
+    return false;
+});
+</script>
+

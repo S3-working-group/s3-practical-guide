@@ -29,3 +29,12 @@ title: "Visualize Work"
 <div class="bottom-nav">
 <a href="prioritize-backlogs.html" title="Back to: Prioritize Backlogs">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="pull-system-for-work.html" title="">▶ Read next: Pull-System For Work</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'pull-system-for-work.html';
+    return false;
+});
+</script>
+

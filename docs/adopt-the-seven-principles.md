@@ -17,3 +17,12 @@ An organization's values need to embrace the Seven Principles.
 <div class="bottom-nav">
 <a href="artful-participation.html" title="Back to: Artful Participation">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="agree-on-values.html" title="">▶ Read next: Agree On Values</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'agree-on-values.html';
+    return false;
+});
+</script>
+

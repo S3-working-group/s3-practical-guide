@@ -20,3 +20,12 @@ Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrad
 <div class="bottom-nav">
 <a href="icpt.html" title="Back to: The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="authors.html" title="">▶ Read next: Authors</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'authors.html';
+    return false;
+});
+</script>
+

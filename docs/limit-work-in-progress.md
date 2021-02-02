@@ -18,3 +18,12 @@ When an action would exceed an agreed upon limit of work items in progress, this
 <div class="bottom-nav">
 <a href="pull-system-for-work.html" title="Back to: Pull-System For Work">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="timebox-activities.html" title="">▶ Read next: Timebox Activities</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'timebox-activities.html';
+    return false;
+});
+</script>
+

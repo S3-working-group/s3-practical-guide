@@ -22,3 +22,12 @@ title: "Peer Development"
 <div class="bottom-nav">
 <a href="driver-mapping.html" title="Back to: Driver Mapping">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="ask-for-help.html" title="">▶ Read next: Ask For Help</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'ask-for-help.html';
+    return false;
+});
+</script>
+

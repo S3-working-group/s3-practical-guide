@@ -28,3 +28,12 @@ Content relating to a specific team or <dfn data-info="Role: A domain that is de
 <div class="bottom-nav">
 <a href="evaluation-criteria.html" title="Back to: Evaluation Criteria">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="logbook-keeper.html" title="">▶ Read next: Logbook Keeper</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'logbook-keeper.html';
+    return false;
+});
+</script>
+

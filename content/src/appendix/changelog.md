@@ -1,6 +1,22 @@
 # Changelog
 
 
+## Changes 2021-02-03
+
+-   Added the **Common Sense Framework** to the Practical Guide
+-   A new structure of the Practical Guide that makes that the relevant parts easier to find:
+    -   What is Sociocracy 3.0
+    -   The Seven Prinicples
+    -   Key Concepts for Making Sense of Organizations
+    -   The Patterns
+    -   The Common Sense Framework 
+    -   Appendix
+-   Redesigned the website for better usability: 
+    -   A new responsive menu that provides direct access to all patterns and other sections of the guide
+    -   A new homepage that explains what is where
+    -   A new layout for a cleaner experience on desktop and mobile devices
+
+
 ## Changes 2021-01-12
 
 -   **Renamed Patterns:**
@@ -153,7 +169,7 @@
 -   [Invite Change](section:invite-change): description now focuses on _how_ to invite change
 -   [Linking](section:linking): aligned description to [Double Linking](section:double-linking)
 -   [Logbook](section:logbook): clarified that there is no difference between logbooks for groups and logbooks for roles
--   [Navigate Via Tension](section:navigate-via-tension): improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
+-   [Navigate via Tension](section:navigate-via-tension): improved description, added a new illustration to clarify the distinction between _Navigate via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
 -   _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
 -   [Open Domain](section:open-domain): improved description and updated illustration
 -   [Open Systems](section:open-systems): improved description
