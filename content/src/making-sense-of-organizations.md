@@ -1,3 +1,5 @@
+[:menu-title]: # "Concepts"
+
 # Key Concepts for Making Sense of Organizations
 
 In this section you’ll learn about the following key concepts:

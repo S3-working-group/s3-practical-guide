@@ -35,6 +35,7 @@ presets:
   jekyll:
     renderer: jekyll
     target-format: html
+    # noob_menu: true
     variables:
       # CNAME for GitHub-Page
       microsite-cname: "patterns.sociocracy30.org"
