@@ -3,5 +3,5 @@
 # Two Principles for Orientation
 
 
-![alt_text](img/csf/csf-light-orientation.png)
+![Two Principles for Orientation: Clarify Purpose | Develop Strategy](img/csf/csf-light-orientation.png)
 

@@ -224,8 +224,6 @@ parts:
           - develop-culture
           - shared-mental-models
       - where-to-start
-      - csf-and-s3
-      - 10-principles-one-page
   - id: appendix
     parts:
       - changelog

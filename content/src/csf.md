@@ -2,7 +2,7 @@
 
 # A Common Sense Framework for Organizations and Teams
 
-![](img/csf/csf-logo.png)
+![A Common Sense Framework for Organizations and Teams](img/csf/csf-logo.png)
 
 We’re observing an emerging common sense that is transforming organizations around the world, inspiring and enabling people to build successful organizations where BOTH the people and the organization thrive.
 
