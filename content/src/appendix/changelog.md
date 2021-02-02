@@ -1,6 +1,22 @@
 # Changelog
 
 
+## Changes 2021-02-03
+
+-   Added the **Common Sense Framework** to the Practical Guide
+-   A new structure of the Practical Guide that makes that the relevant parts easier to find:
+    -   What is Sociocracy 3.0
+    -   The Seven Prinicples
+    -   Key Concepts for Making Sense of Organizations
+    -   The Patterns
+    -   The Common Sense Framework 
+    -   Appendix
+-   Redesigned the website for better usability: 
+    -   A new responsive menu that provides direct access to all patterns and other sections of the guide
+    -   A new homepage that explains what is where
+    -   A new layout for a cleaner experience on desktop and mobile devices
+
+
 ## Changes 2021-01-12
 
 -   **Renamed Patterns:**
