@@ -28,3 +28,12 @@ As a governance facilitator, consider learning about and using the following pat
 <div class="bottom-nav">
 <a href="agree-on-values.html" title="Back to: Agree On Values">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="breaking-agreements.html" title="">▶ Read next: Breaking Agreements</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'breaking-agreements.html';
+    return false;
+});
+</script>
+

@@ -3,7 +3,7 @@ title: "A Practical Guide for Evolving Agile and Resilient Organizations with So
 ---
 
 
-<p class="hp-version">v2021-01-12</p>
+<p class="hp-version">v2021-02-03</p>
 
 <div class="homepage-box hp-box1">
     <h2> If you're new to S3…</h2>
@@ -25,7 +25,6 @@ title: "A Practical Guide for Evolving Agile and Resilient Organizations with So
     <p>These tools are also available in the "Tools" menu.</p>
 </div>
 
-
 <div class="homepage-box hp-box3">
     <h2>Downloads and other languages</h2>
 
@@ -34,6 +33,34 @@ title: "A Practical Guide for Evolving Agile and Resilient Organizations with So
     <p>If you prefer to read this guide offline or on your ebook reader, you will find <strong>downloads as PDF and EPUB</strong> in the <a href="https://sociocracy30.org/resources/#se-practical-guide">&#9654;&nbsp;S3&nbsp;Resources Page</a> in all available languages.</p>
 </div>
 
+<div class="homepage-box hp-box4">
+    <h2>Keyboard Shortcuts</h2>
+
+    <p>For those of you who use the Practical Guide in their daily work, we added some keyboard shortcuts to make your life a little easier.</p>
+
+    <p><strong>Shift + m</strong> will open the <strong>m</strong>enu, which you can then navigate with the arrow keys, and select an item with &lt;space&lt; or &lt;enter&lt;</p>
+
+    <p>The following commants will take you to specific pages, for all of those you will have to type 'g' (for 'Go'), followed by another letter:</p>
+
+    <ul>
+        <li><em>g n</em> – <strong>G</strong>o to the <strong>N</strong>ext page in the book</li>
+        <li>g m – <strong>G</strong>o to the Pattern <strong>M</strong>ap</li>
+        <li>g i – <strong>G</strong>o to the Pattern <strong>I</strong>ndex</li>
+        <li>g g – <strong>G</strong>o to the <strong>G</strong>lossary</li>
+        <li><em>g c</em> – <strong>G</strong>o to the <strong>C</strong>hangelog</li>
+        <li><em>g h</em> – <strong>G</strong>o to this <strong>H</strong>omepage</li>
+        <li><em>g s</em> – <strong>G</strong>o to the page that contains the whole Practical Guide in one <strong>S</strong>ingle page</li>
+    </ul>
+    <p>Just try it, type 'g n' to go to the next page</p>
+</div>
+
 <p>For further information about Sociocracy 3.0 and more free resources check out <a href="http://sociocracy30.org">http://sociocracy30.org</a></p>
 
 [&#9654; read next: What is Sociocracy 3.0](what-is-s3.html)
+
+<script type="text/javascript">
+  Mousetrap.bind('g n', function() {
+    window.location.href = 'what-is-s3.html';
+    return false;
+  });
+</script>

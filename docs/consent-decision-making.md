@@ -22,3 +22,12 @@ Withholding objections can harm the objectives of a team or organization.
 <div class="bottom-nav">
 <a href="describe-organizational-drivers.html" title="Back to: Describe Organizational Drivers">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="test-arguments-qualify-as-objections.html" title="">▶ Read next: Test Arguments Qualify as Objections</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'test-arguments-qualify-as-objections.html';
+    return false;
+});
+</script>
+

@@ -18,3 +18,12 @@ title: "Daily Standup"
 <div class="bottom-nav">
 <a href="retrospective.html" title="Back to: Retrospective">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="planning-and-review-meetings.html" title="">▶ Read next: Planning And Review Meetings</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'planning-and-review-meetings.html';
+    return false;
+});
+</script>
+

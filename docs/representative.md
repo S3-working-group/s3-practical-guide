@@ -18,3 +18,12 @@ Representatives (a.k.a. links):
 <div class="bottom-nav">
 <a href="double-linking.html" title="Back to: Double Linking">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="helping-team.html" title="">▶ Read next: Helping Team</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'helping-team.html';
+    return false;
+});
+</script>
+

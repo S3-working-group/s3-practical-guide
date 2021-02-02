@@ -3,7 +3,7 @@ title: "Defining Agreements"
 ---
 
 
-## S3 promotes a hypothesis-driven approach to decision making
+S3 promotes a hypothesis-driven approach to decision making.
 
 ![Any agreement or decision can be viewed as an experiment.](img/evolution/experiments.png)
 
@@ -41,3 +41,12 @@ title: "Defining Agreements"
 <div class="bottom-nav">
 <a href="continuous-improvement-of-work-process.html" title="Back to: Continuous Improvement Of Work Process">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="record-agreements.html" title="">▶ Read next: Record Agreements</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'record-agreements.html';
+    return false;
+});
+</script>
+

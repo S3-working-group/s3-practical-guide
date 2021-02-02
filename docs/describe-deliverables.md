@@ -19,3 +19,12 @@ Explicitly describing deliverables can be useful for improving communication and
 <div class="bottom-nav">
 <a href="clarify-intended-outcome.html" title="Back to: Clarify Intended Outcome">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="evaluation-criteria.html" title="">▶ Read next: Evaluation Criteria</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'evaluation-criteria.html';
+    return false;
+});
+</script>
+

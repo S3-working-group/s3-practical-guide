@@ -16,5 +16,14 @@ title: "Appendix"
 
 
 <div class="bottom-nav">
-<a href="fractal-organization.html" title="Back to: Fractal Organization">◀</a> <a href="changelog.html" title="">▶ Read next: Changelog</a>
+<a href="where-to-start.html" title="Back to: Where to Start?">◀</a> <a href="changelog.html" title="">▶ Read next: Changelog</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'changelog.html';
+    return false;
+});
+</script>
+

@@ -15,3 +15,12 @@ title: "Planning And Review Meetings"
 <div class="bottom-nav">
 <a href="daily-standup.html" title="Back to: Daily Standup">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="coordination-meeting.html" title="">▶ Read next: Coordination Meeting</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'coordination-meeting.html';
+    return false;
+});
+</script>
+

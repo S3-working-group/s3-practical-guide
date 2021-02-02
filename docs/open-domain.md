@@ -21,3 +21,12 @@ A delegator is accountable for conducting regular reviews to support effectivene
 <div class="bottom-nav">
 <a href="helping-team.html" title="Back to: Helping Team">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="open-systems.html" title="">▶ Read next: Open Systems</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'open-systems.html';
+    return false;
+});
+</script>
+

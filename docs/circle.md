@@ -26,3 +26,12 @@ A circle:
 <div class="bottom-nav">
 <a href="delegate-influence.html" title="Back to: Delegate Influence">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="role.html" title="">▶ Read next: Role</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'role.html';
+    return false;
+});
+</script>
+

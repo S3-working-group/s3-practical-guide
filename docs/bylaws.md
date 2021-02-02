@@ -17,3 +17,12 @@ Consider:
 <div class="bottom-nav">
 <a href="support-role.html" title="Back to: Support Role">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="building-organizations.html" title="">▶ Read next: Building Organizations</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'building-organizations.html';
+    return false;
+});
+</script>
+

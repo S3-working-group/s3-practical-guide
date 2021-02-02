@@ -14,3 +14,12 @@ Instead of selecting a coordinator, a team may choose to self-organize.
 <div class="bottom-nav">
 <a href="align-flow.html" title="Back to: Align Flow">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="organizational-structure.html" title="">▶ Read next: Organizational Structure</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'organizational-structure.html';
+    return false;
+});
+</script>
+

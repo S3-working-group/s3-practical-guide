@@ -14,3 +14,12 @@ title: "Evaluation Criteria"
 <div class="bottom-nav">
 <a href="describe-deliverables.html" title="Back to: Describe Deliverables">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="logbook.html" title="">▶ Read next: Logbook</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'logbook.html';
+    return false;
+});
+</script>
+

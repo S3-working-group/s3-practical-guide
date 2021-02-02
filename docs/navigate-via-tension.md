@@ -1,5 +1,5 @@
 ---
-title: "Navigate Via Tension"
+title: "Navigate via Tension"
 ---
 
 
@@ -11,9 +11,18 @@ title: "Navigate Via Tension"
 
 To **discover drivers**, investigate what stimulates tension, and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
 
-![Navigate Via Tension, Describe Organizational Drivers, Respond To Organizational Drivers](img/process/navigate-describe-respond.png)
+![Navigate via Tension, Describe Organizational Drivers, Respond To Organizational Drivers](img/process/navigate-describe-respond.png)
 
 
 <div class="bottom-nav">
 <a href="respond-to-organizational-drivers.html" title="Back to: Respond to Organizational Drivers">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="describe-organizational-drivers.html" title="">▶ Read next: Describe Organizational Drivers</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'describe-organizational-drivers.html';
+    return false;
+});
+</script>
+

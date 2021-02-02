@@ -27,3 +27,12 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 <div class="bottom-nav">
 <a href="why-30.html" title="Back to: Why &quot;3.0&quot;?">◀</a> <a href="making-sense-of-organizations.html" title="">▶ Read next: Key Concepts for Making Sense of Organizations</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'making-sense-of-organizations.html';
+    return false;
+});
+</script>
+

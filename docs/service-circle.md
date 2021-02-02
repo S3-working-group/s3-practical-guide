@@ -13,3 +13,12 @@ A service circle can be populated by members of the <dfn data-info="Domain: A di
 <div class="bottom-nav">
 <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="delegate-circle.html" title="">▶ Read next: Delegate Circle</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'delegate-circle.html';
+    return false;
+});
+</script>
+

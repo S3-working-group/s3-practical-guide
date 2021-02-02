@@ -48,3 +48,12 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
 <div class="bottom-nav">
 <a href="coordinator.html" title="Back to: Coordinator">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="service-circle.html" title="">▶ Read next: Service Circle</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'service-circle.html';
+    return false;
+});
+</script>
+

@@ -143,7 +143,7 @@ title: "Alphabetical List Of All Patterns"
   <dt><a href="meeting-host.html">Meeting Host</a></dt>
   <dd><p>Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.</p></dd>
 
-  <dt><a href="navigate-via-tension.html">Navigate Via Tension</a></dt>
+  <dt><a href="navigate-via-tension.html">Navigate via Tension</a></dt>
   <dd><p>Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.</p></dd>
 
   <dt><a href="open-domain.html">Open Domain</a></dt>
@@ -232,3 +232,12 @@ title: "Alphabetical List Of All Patterns"
 <div class="bottom-nav">
 <a href="changelog.html" title="Back to: Changelog">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="links.html" title="">▶ Read next: Links</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'links.html';
+    return false;
+});
+</script>
+

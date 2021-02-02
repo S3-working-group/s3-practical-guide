@@ -32,3 +32,12 @@ Ask everyone in a [round](round.html) to reflect on any or all of the following 
 <div class="bottom-nav">
 <a href="check-in.html" title="Back to: Check In">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="meeting-host.html" title="">▶ Read next: Meeting Host</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'meeting-host.html';
+    return false;
+});
+</script>
+

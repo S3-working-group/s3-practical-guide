@@ -13,3 +13,12 @@ Pulling in work prevents overloading the system, especially when [work in progre
 <div class="bottom-nav">
 <a href="visualize-work.html" title="Back to: Visualize Work">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="limit-work-in-progress.html" title="">▶ Read next: Limit Work in Progress</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'limit-work-in-progress.html';
+    return false;
+});
+</script>
+

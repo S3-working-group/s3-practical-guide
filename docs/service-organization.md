@@ -17,3 +17,12 @@ title: "Service Organization"
 <div class="bottom-nav">
 <a href="double-linked-hierarchy.html" title="Back to: Double-Linked Hierarchy">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="fractal-organization.html" title="">▶ Read next: Fractal Organization</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'fractal-organization.html';
+    return false;
+});
+</script>
+

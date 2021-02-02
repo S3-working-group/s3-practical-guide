@@ -17,3 +17,12 @@ A development plan (and any accompanying recommendations for changes to the desc
 <div class="bottom-nav">
 <a href="peer-review.html" title="Back to: Peer Review">◀</a> <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="enablers-of-collaboration.html" title="">▶ Read next: Enablers of Collaboration</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'enablers-of-collaboration.html';
+    return false;
+});
+</script>
+

@@ -46,3 +46,12 @@ Depending on the constraints set by the delegator, teams have more or less licen
 <div class="bottom-nav">
 <a href="agreement.html" title="Back to: Agreements">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="patterns.html" title="">▶ Read next: The Patterns</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'patterns.html';
+    return false;
+});
+</script>
+

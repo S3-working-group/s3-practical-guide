@@ -24,3 +24,12 @@ Besides in a face-to-face workshop, you can adapt this process for online meetin
 <div class="bottom-nav">
 <a href="those-affected-decide.html" title="Back to: Those Affected Decide">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="proposal-forming.html" title="">▶ Read next: Proposal Forming</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'proposal-forming.html';
+    return false;
+});
+</script>
+

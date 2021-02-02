@@ -9,3 +9,12 @@ The information available in this guide may be used by any entity/organisation. 
 <div class="bottom-nav">
 <a href="license.html" title="Back to: License">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="icpt.html" title="">▶ Read next: The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'icpt.html';
+    return false;
+});
+</script>
+

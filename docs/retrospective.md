@@ -26,3 +26,12 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 <div class="bottom-nav">
 <a href="governance-meeting.html" title="Back to: Governance Meeting">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="daily-standup.html" title="">▶ Read next: Daily Standup</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'daily-standup.html';
+    return false;
+});
+</script>
+

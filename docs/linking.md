@@ -13,3 +13,12 @@ A team selects one of its members to represent their interests in the <dfn data-
 <div class="bottom-nav">
 <a href="role.html" title="Back to: Role">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="double-linking.html" title="">▶ Read next: Double Linking</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'double-linking.html';
+    return false;
+});
+</script>
+

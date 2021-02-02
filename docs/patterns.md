@@ -20,3 +20,12 @@ title: "The Patterns"
 <div class="bottom-nav">
 <a href="governance.html" title="Back to: Governance and Operations">◀</a> <a href="co-creation-and-evolution.html" title="">▶ Read next: Co-Creation and Evolution</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'co-creation-and-evolution.html';
+    return false;
+});
+</script>
+

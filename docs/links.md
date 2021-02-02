@@ -16,3 +16,12 @@ Various other formats and languages of the practical guide can be found at <http
 <div class="bottom-nav">
 <a href="pattern-index.html" title="Back to: Alphabetical List Of All Patterns">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="license.html" title="">▶ Read next: License</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'license.html';
+    return false;
+});
+</script>
+

@@ -13,3 +13,12 @@ S3 integrates core concepts and practices found in agile methodologies, lean man
 <div class="bottom-nav">
 <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="pattern.html" title="">▶ Read next: A pattern-based approach to organizational change</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'pattern.html';
+    return false;
+});
+</script>
+

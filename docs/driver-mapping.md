@@ -15,3 +15,12 @@ A (small or large) group identifies and clusters <dfn data-info="Driver: A perso
 <div class="bottom-nav">
 <a href="role-selection.html" title="Back to: Role Selection">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="peer-development.html" title="">▶ Read next: Peer Development</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'peer-development.html';
+    return false;
+});
+</script>
+

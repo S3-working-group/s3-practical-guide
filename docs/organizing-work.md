@@ -33,3 +33,12 @@ title: "Organizing Work"
 <div class="bottom-nav">
 <a href="governance-backlog.html" title="Back to: Governance Backlog">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="backlog.html" title="">▶ Read next: Backlog</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'backlog.html';
+    return false;
+});
+</script>
+

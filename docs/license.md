@@ -33,3 +33,12 @@ You can find out more about attribution on the [Creative Commons page about best
 <div class="bottom-nav">
 <a href="links.html" title="Back to: Links">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="disclaimer.html" title="">▶ Read next: Disclaimer</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'disclaimer.html';
+    return false;
+});
+</script>
+

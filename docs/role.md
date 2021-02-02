@@ -26,3 +26,12 @@ A role keeper may maintain a governance <dfn data-info="Backlog: A list of (ofte
 <div class="bottom-nav">
 <a href="circle.html" title="Back to: Circle">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="linking.html" title="">▶ Read next: Linking</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'linking.html';
+    return false;
+});
+</script>
+

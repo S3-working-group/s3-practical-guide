@@ -44,5 +44,14 @@ The second and third tier:
 
 
 <div class="bottom-nav">
-<a href="service-organization.html" title="Back to: Service Organization">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="appendix.html" title="">▶ Read next: Appendix</a>
+<a href="service-organization.html" title="Back to: Service Organization">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="csf.html" title="">▶ Read next: A Common Sense Framework for Organizations and Teams</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'csf.html';
+    return false;
+});
+</script>
+

@@ -21,3 +21,12 @@ For any terms you don’t understand, check out the glossary at the end.
 <div class="bottom-nav">
 <a href="principles.html" title="Back to: The Seven Principles">◀</a> <a href="driver.html" title="">▶ Read next: Drivers</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'driver.html';
+    return false;
+});
+</script>
+

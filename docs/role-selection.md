@@ -40,3 +40,12 @@ This pattern can also be used in any situation where there is a need to choose b
 <div class="bottom-nav">
 <a href="proposal-forming.html" title="Back to: Proposal Forming">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="driver-mapping.html" title="">▶ Read next: Driver Mapping</a>
 </div>
+
+
+<script type="text/javascript">
+Mousetrap.bind('g n', function() {
+    window.location.href = 'driver-mapping.html';
+    return false;
+});
+</script>
+
