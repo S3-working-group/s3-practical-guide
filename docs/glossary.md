@@ -199,5 +199,6 @@ title: "Glossary"
 
 
 
-[&#9664; Authors](authors.html)<br/>[&#9650; Appendix](appendix.html)
-
+<div class="bottom-nav">
+<a href="authors.html" title="Back to: Authors">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a>
+</div>

@@ -21,5 +21,6 @@ Members of the helping team:
 ![Helping Team](img/structural-patterns/helping-team.png)
 
 
-[&#9654; Open Domain](open-domain.html)<br/>[&#9664; Representative](representative.html)<br/>[&#9650; Building Organizations](building-organizations.html)
-
+<div class="bottom-nav">
+<a href="representative.html" title="Back to: Representative">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="open-domain.html" title="">▶ Read next: Open Domain</a>
+</div>

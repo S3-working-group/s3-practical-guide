@@ -17,5 +17,6 @@ A double-linked hierarchy:
 
 **See also:** [Circle](Circle.html), [Double Linking](Double-Linking.html), [Representative](Representative.html)
 
-[&#9654; Service Organization](service-organization.html)<br/>[&#9664; Peach Organization](peach-organization.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
-
+<div class="bottom-nav">
+<a href="peach-organization.html" title="Back to: Peach Organization">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="service-organization.html" title="">▶ Read next: Service Organization</a>
+</div>

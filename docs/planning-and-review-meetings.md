@@ -12,5 +12,6 @@ title: "Planning And Review Meetings"
 ![Planning and review meetings](img/meetings/planning-review.png)
 
 
-[&#9654; Coordination Meeting](coordination-meeting.html)<br/>[&#9664; Daily Standup](daily-standup.html)<br/>[&#9650; Focused Interactions](focused-interactions.html)
-
+<div class="bottom-nav">
+<a href="daily-standup.html" title="Back to: Daily Standup">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="coordination-meeting.html" title="">▶ Read next: Coordination Meeting</a>
+</div>

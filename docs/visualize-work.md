@@ -26,5 +26,6 @@ title: "Visualize Work"
 ![A card representing a work item](img/workflow-and-value/card.png)
 
 
-[&#9654; Pull-System For Work](pull-system-for-work.html)<br/>[&#9664; Prioritize Backlogs](prioritize-backlogs.html)<br/>[&#9650; Organizing Work](organizing-work.html)
-
+<div class="bottom-nav">
+<a href="prioritize-backlogs.html" title="Back to: Prioritize Backlogs">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="pull-system-for-work.html" title="">▶ Read next: Pull-System For Work</a>
+</div>

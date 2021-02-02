@@ -1,5 +1,5 @@
 ---
-title: "Patterns"
+title: "A pattern-based approach to organizational change"
 ---
 
 
@@ -25,9 +25,6 @@ In this guide, the patterns are grouped by topic into ten categories to help you
 By providing a menu of patterns to choose from according to need, S3 encourages an organic, **iterative approach to change without a huge upfront investment**. It meets people where they are and helps them move forward pulling in patterns at their own pace and according to their unique context.
 
 
-
-
-
-
-[&#9654; The Seven Principles](principles.html)<br/>[&#9650; Patterns and the Seven Principles](patterns-and-principles.html)
-
+<div class="bottom-nav">
+<a href="how-does-s3-help.html" title="Back to: How does Sociocracy 3.0 help?">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="contents.html" title="">▶ Read next: What&apos;s in this guide?</a>
+</div>

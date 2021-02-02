@@ -3,24 +3,23 @@ config:
   end: SKIP
 
 parts:
-  - id: introduction
+  - id: what-is-s3
     parts:
-      - s3-overview
+      - how-does-s3-help
+      - pattern
+      - contents
       - history
       - why-30
-      - id: patterns-and-principles
-        parts:
-          - pattern
-          - principles
-          # - principle-accountability
-      - id: making-sense-of-organizations
-        parts:
-          - driver
-          - domain
-          - objection
-          - agreement
-          - governance
-
+  - id: principles
+  #  parts:
+  #     - principle-accountability
+  - id: making-sense-of-organizations
+    parts:
+      - driver
+      - domain
+      - objection
+      - agreement
+      - governance
   - id: patterns
     parts:
       - id: co-creation-and-evolution

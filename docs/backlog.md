@@ -32,5 +32,6 @@ Each item on a (prioritized) backlog typically contains:
 
 
 
-[&#9654; Prioritize Backlogs](prioritize-backlogs.html)<br/>[&#9650; Organizing Work](organizing-work.html)
-
+<div class="bottom-nav">
+<a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="prioritize-backlogs.html" title="">▶ Read next: Prioritize Backlogs</a>
+</div>

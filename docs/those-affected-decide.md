@@ -13,5 +13,6 @@ For larger groups:
 Consider including those affected in reviewing and evolving decisions, too.
 
 
-[&#9654; Co-Create Proposals](co-create-proposals.html)<br/>[&#9664; Evaluate And Evolve Agreements](evaluate-and-evolve-agreements.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="evaluate-and-evolve-agreements.html" title="Back to: Evaluate And Evolve Agreements">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="co-create-proposals.html" title="">▶ Read next: Co-Create Proposals</a>
+</div>

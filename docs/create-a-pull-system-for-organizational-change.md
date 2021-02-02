@@ -13,5 +13,6 @@ Change things when there is value in doing so:
 -   …and let them choose their own pace.
 
 
-[&#9654; Be The Change](be-the-change.html)<br/>[&#9664; Adapt Patterns To Context](adapt-patterns-to-context.html)<br/>[&#9650; Bringing in S3](bringing-in-s3.html)
-
+<div class="bottom-nav">
+<a href="adapt-patterns-to-context.html" title="Back to: Adapt Patterns To Context">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="be-the-change.html" title="">▶ Read next: Be The Change</a>
+</div>

@@ -205,5 +205,6 @@ Consider also including the following information to the domain description
 -   Term (for a role)
 
 
-[&#9654; Clarify Intended Outcome](clarify-intended-outcome.html)<br/>[&#9664; Clarify and Develop Strategy](clarify-and-develop-strategy.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
-
+<div class="bottom-nav">
+<a href="clarify-and-develop-strategy.html" title="Back to: Clarify and Develop Strategy">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="clarify-intended-outcome.html" title="">▶ Read next: Clarify Intended Outcome</a>
+</div>

@@ -38,5 +38,6 @@ Typical agenda items include:
 
 
 
-[&#9654; Retrospective](retrospective.html)<br/>[&#9650; Focused Interactions](focused-interactions.html)
-
+<div class="bottom-nav">
+<a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="retrospective.html" title="">▶ Read next: Retrospective</a>
+</div>

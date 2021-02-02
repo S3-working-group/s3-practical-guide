@@ -15,5 +15,6 @@ A governance backlog contains:
 
 
 
-[&#9654; Organizing Work](organizing-work.html)<br/>[&#9664; Meeting Host](meeting-host.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
-
+<div class="bottom-nav">
+<a href="meeting-host.html" title="Back to: Meeting Host">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="organizing-work.html" title="">▶ Read next: Organizing Work</a>
+</div>

@@ -12,5 +12,6 @@ Double linking enables equivalence between two teams and can be used to draw out
 ![Double linking two circles](img/structural-patterns/double-link.png)
 
 
-[&#9654; Representative](representative.html)<br/>[&#9664; Linking](linking.html)<br/>[&#9650; Building Organizations](building-organizations.html)
-
+<div class="bottom-nav">
+<a href="linking.html" title="Back to: Linking">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="representative.html" title="">▶ Read next: Representative</a>
+</div>

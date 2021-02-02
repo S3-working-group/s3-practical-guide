@@ -23,5 +23,6 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 -   the Kanban Method
 
 
-[&#9654; Domains](domain.html)<br/>[&#9650; Key Concepts for Making Sense of Organizations](making-sense-of-organizations.html)
-
+<div class="bottom-nav">
+<a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="domain.html" title="">▶ Read next: Domains</a>
+</div>

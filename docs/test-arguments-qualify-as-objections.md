@@ -32,5 +32,6 @@ Some helpful questions:
 ![A process for testing if an argument qualifies as an objection](img/agreements/qualify-objection-process.png)
 
 
-[&#9654; Resolve Objections](resolve-objections.html)<br/>[&#9664; Consent Decision Making](consent-decision-making.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="consent-decision-making.html" title="Back to: Consent Decision Making">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="resolve-objections.html" title="">▶ Read next: Resolve Objections</a>
+</div>

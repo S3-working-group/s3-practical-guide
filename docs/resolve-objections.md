@@ -16,5 +16,6 @@ Typically it's most effective to **take one objection at a time**, resolve all o
 ![A process for resolving objections](img/agreements/resolve-objections-process.png)
 
 
-[&#9654; Evaluate And Evolve Agreements](evaluate-and-evolve-agreements.html)<br/>[&#9664; Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="test-arguments-qualify-as-objections.html" title="Back to: Test Arguments Qualify as Objections">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="evaluate-and-evolve-agreements.html" title="">▶ Read next: Evaluate And Evolve Agreements</a>
+</div>

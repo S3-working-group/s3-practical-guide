@@ -50,5 +50,6 @@ It's also possible to understand a domain in relation to organizational drivers:
 -  **dependencies** and **external constraints** (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees' autonomy
 
 
-[&#9654; Objections](objection.html)<br/>[&#9664; Drivers](driver.html)<br/>[&#9650; Key Concepts for Making Sense of Organizations](making-sense-of-organizations.html)
-
+<div class="bottom-nav">
+<a href="driver.html" title="Back to: Drivers">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="objection.html" title="">▶ Read next: Objections</a>
+</div>

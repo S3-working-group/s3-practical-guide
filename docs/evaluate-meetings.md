@@ -29,5 +29,6 @@ Ask everyone in a [round](round.html) to reflect on any or all of the following 
 -   wild ideas and radical suggestions (What if...)
 
 
-[&#9654; Meeting Host](meeting-host.html)<br/>[&#9664; Check In](check-in.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
-
+<div class="bottom-nav">
+<a href="check-in.html" title="Back to: Check In">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="meeting-host.html" title="">▶ Read next: Meeting Host</a>
+</div>

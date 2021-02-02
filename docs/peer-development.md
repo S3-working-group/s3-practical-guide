@@ -19,5 +19,6 @@ title: "Peer Development"
 </dl>
 
 
-[&#9654; Ask For Help](ask-for-help.html)<br/>[&#9664; Driver Mapping](driver-mapping.html)<br/>[&#9650; The Patterns](patterns.html)
-
+<div class="bottom-nav">
+<a href="driver-mapping.html" title="Back to: Driver Mapping">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="ask-for-help.html" title="">▶ Read next: Ask For Help</a>
+</div>

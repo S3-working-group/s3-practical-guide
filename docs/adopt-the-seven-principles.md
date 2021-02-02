@@ -14,5 +14,6 @@ An organization's values need to embrace the Seven Principles.
 ![An organization's values need to embrace the Seven Principles](img/collaboration-values/values-7principles.png)
 
 
-[&#9654; Agree On Values](agree-on-values.html)<br/>[&#9664; Artful Participation](artful-participation.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
-
+<div class="bottom-nav">
+<a href="artful-participation.html" title="Back to: Artful Participation">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="agree-on-values.html" title="">▶ Read next: Agree On Values</a>
+</div>

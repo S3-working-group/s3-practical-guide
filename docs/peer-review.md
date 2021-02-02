@@ -25,5 +25,6 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 
 
 
-[&#9654; Development Plan](development-plan.html)<br/>[&#9664; Peer Feedback](peer-feedback.html)<br/>[&#9650; Peer Development](peer-development.html)
-
+<div class="bottom-nav">
+<a href="peer-feedback.html" title="Back to: Peer Feedback">◀</a> <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="development-plan.html" title="">▶ Read next: Development Plan</a>
+</div>

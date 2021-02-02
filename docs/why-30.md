@@ -62,5 +62,6 @@ The organizational structure according to the *Sociocratic Circle Organization M
 Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
 
 
-[&#9654; Patterns and the Seven Principles](patterns-and-principles.html)<br/>[&#9664; Influences and History of Sociocracy 3.0](history.html)<br/>[&#9650; Introduction](introduction.html)
-
+<div class="bottom-nav">
+<a href="history.html" title="Back to: Influences and History of Sociocracy 3.0">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="principles.html" title="">▶ Read next: The Seven Principles</a>
+</div>

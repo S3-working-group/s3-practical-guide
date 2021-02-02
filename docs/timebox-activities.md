@@ -25,5 +25,6 @@ You could timebox:
 - a longer stretch of work (a sprint)
 
 
-[&#9654; Align Flow](align-flow.html)<br/>[&#9664; Limit Work in Progress](limit-work-in-progress.html)<br/>[&#9650; Organizing Work](organizing-work.html)
-
+<div class="bottom-nav">
+<a href="limit-work-in-progress.html" title="Back to: Limit Work in Progress">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="align-flow.html" title="">▶ Read next: Align Flow</a>
+</div>

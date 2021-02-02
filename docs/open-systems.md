@@ -11,5 +11,6 @@ Individuals, teams and entire organizations can acknowledge interdependence and 
 -   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see [Those Affected Decide](those-affected-decide.html))
 
 
-[&#9654; Bringing in S3](bringing-in-s3.html)<br/>[&#9664; Open Domain](open-domain.html)<br/>[&#9650; Building Organizations](building-organizations.html)
-
+<div class="bottom-nav">
+<a href="open-domain.html" title="Back to: Open Domain">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="bringing-in-s3.html" title="">▶ Read next: Bringing in S3</a>
+</div>

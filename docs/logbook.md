@@ -25,5 +25,6 @@ Content relating to a specific team or <dfn data-info="Role: A domain that is de
 
 
 
-[&#9654; Logbook Keeper](logbook-keeper.html)<br/>[&#9664; Evaluation Criteria](evaluation-criteria.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
-
+<div class="bottom-nav">
+<a href="evaluation-criteria.html" title="Back to: Evaluation Criteria">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="logbook-keeper.html" title="">▶ Read next: Logbook Keeper</a>
+</div>

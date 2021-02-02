@@ -24,5 +24,6 @@ A simple way to qualify whether or not a driver falls within an organization's <
 _Would it help the organization if we respond to this driver? Or would it lead to unintended consequences if we don't?_
 
 
-[&#9654; Navigate Via Tension](navigate-via-tension.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="navigate-via-tension.html" title="">▶ Read next: Navigate Via Tension</a>
+</div>

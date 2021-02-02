@@ -21,5 +21,6 @@ For inspiration for steps 2 and 3, look to classic group facilitation techniques
 Besides in a face-to-face workshop, you can adapt this process for online meetings. You can even use it asynchronously (and over an extended period of time) to include many people.
 
 
-[&#9654; Proposal Forming](proposal-forming.html)<br/>[&#9664; Those Affected Decide](those-affected-decide.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="those-affected-decide.html" title="Back to: Those Affected Decide">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="proposal-forming.html" title="">▶ Read next: Proposal Forming</a>
+</div>

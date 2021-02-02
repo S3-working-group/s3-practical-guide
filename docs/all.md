@@ -2,11 +2,7 @@
 title: A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0
 ---
 
-## Introduction
-
-
-
-### What is Sociocracy 3.0?
+## What is Sociocracy 3.0?
 
 Sociocracy 3.0 — a.k.a. "S3" — is <dfn data-info="Social Technology: Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.">social technology</dfn> for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
 
@@ -23,6 +19,7 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
 
 **Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
 
+
 ### How does Sociocracy 3.0 help?
 
 S3 is a transformational technology for both individuals and the whole organization that will help you figure out how to meet your organization's biggest challenges, take advantage of the opportunities you face and resolve the most persistent problems.
@@ -31,7 +28,34 @@ Sociocracy 3.0 is designed to be flexible and supports experimentation and lear
 
 S3 integrates core concepts and practices found in agile methodologies, lean management, Kanban (and KMM), Design Thinking, Teal Organizations and the family of sociocracy-based governance methods (SCM/Dynamic Governance, Holacracy® etc.). It's complimentary and compatible with any agile or lean framework, including but not limited to Scrum and its various scaling frameworks.
 
-**Inside this practical guide book you'll discover:**
+
+### A pattern-based approach to organizational change
+
+S3 offers a pattern-based approach to organizational change.
+
+A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity. S3 patterns are discovered through observing people working together in organizations to solve problems and respond to opportunities they face. When you find that your habitual ways of doing things fail to bring about the outcomes you expected or hope for, you can look to S3 for patterns that might help.
+
+Patterns are modular and adaptable, can be used independently, and are mutually reinforcing, complementing one another when used in combination. S3 patterns can be evolved and adapted to address your specific needs.
+
+In this guide, the patterns are grouped by topic into ten categories to help you more easily identify those that are useful to you:
+
+-   Co-Creation And Evolution
+-   Peer Development
+-   Enablers Of Collaboration
+-   Building Organizations
+-   Bringing In S3
+-   Defining Agreements
+-   Focused Interactions
+-   Meeting Practices
+-   Organizing Work
+-   Organizational Structure
+
+By providing a menu of patterns to choose from according to need, S3 encourages an organic, **iterative approach to change without a huge upfront investment**. It meets people where they are and helps them move forward pulling in patterns at their own pace and according to their unique context.
+
+
+### What's in this guide?
+
+Inside this practical guide book you'll discover:
 
 -   Useful concepts that will help you **make more sense of your organization** and communicate effectively about where change is needed.
 -   An **organic, iterative approach to change** that meets people where they are and helps them move forward at their own pace and according to their unique context and needs.
@@ -141,37 +165,7 @@ The organizational structure according to the *Sociocratic Circle Organization M
 Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
 
 
-### Patterns and the Seven Principles
-
-#### Patterns
-
-S3 offers a pattern-based approach to organizational change.
-
-A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity. S3 patterns are discovered through observing people working together in organizations to solve problems and respond to opportunities they face. When you find that your habitual ways of doing things fail to bring about the outcomes you expected or hope for, you can look to S3 for patterns that might help.
-
-Patterns are modular and adaptable, can be used independently, and are mutually reinforcing, complementing one another when used in combination. S3 patterns can be evolved and adapted to address your specific needs.
-
-In this guide, the patterns are grouped by topic into ten categories to help you more easily identify those that are useful to you:
-
--   Co-Creation And Evolution
--   Peer Development
--   Enablers Of Collaboration
--   Building Organizations
--   Bringing In S3
--   Defining Agreements
--   Focused Interactions
--   Meeting Practices
--   Organizing Work
--   Organizational Structure
-
-By providing a menu of patterns to choose from according to need, S3 encourages an organic, **iterative approach to change without a huge upfront investment**. It meets people where they are and helps them move forward pulling in patterns at their own pace and according to their unique context.
-
-
-
-
-
-
-#### The Seven Principles
+## The Seven Principles
 
 Sociocracy 3.0 is built on seven foundational principles which enable sococratic and agile collaboration. Since the seven principles are reflected in all of the patterns, understanding these principles is helpful for adopting and paramount to adapting Sociocracy 3.0 patterns.
 
@@ -194,7 +188,7 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 **The Principle of Accountability:** *Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
 
 
-### Key Concepts for Making Sense of Organizations
+## Key Concepts for Making Sense of Organizations
 
 In this section you’ll learn about the following key concepts:
 
@@ -211,7 +205,7 @@ When people understand these concepts, it gives them a common language for descr
 For any terms you don’t understand, check out the glossary at the end.
 
 
-#### Drivers
+### Drivers
 
 _A **driver** is a person’s or a group's motive for responding to a specific situation._
 
@@ -220,7 +214,7 @@ Drivers:
 -   can be used to derive goals, objectives, aims, mission, vision, purpose
 -   can change over time
 
-##### Drivers, Value and Waste
+#### Drivers, Value and Waste
 
 _**Value** is the importance, worth or usefulness of something in relation to a driver._
 
@@ -233,7 +227,7 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 -   the Kanban Method
 
 
-#### Domains
+### Domains
 
 _A **domain** is a distinct area of influence, activity and decision making within an organization._
 
@@ -246,14 +240,14 @@ Any role or team's purpose is to contribute towards the overall purpose of the o
 _Clarifying domains_ makes the contract between the _delegator_ (who delegate responsibility for a domain) and the _delegatee(s)_ (to whom the domain is delegated) explicit, which enables everyone to learn about what works and what doesn't, and to understand who is responsible for what. A clear domain description with a reasonable amount of detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work.
 
 
-##### Regularly evaluate and evolve domains
+#### Regularly evaluate and evolve domains
 
 People's understanding of the organization is limited and the environment is always changing. Therefore it is essential that delegator, delegatee(s) and other relevant stakeholders regularly take the time to evaluate and evolve both the design of the domain and how people account for it as their understanding of the domain deepens. 
 
 People might do a great job of accounting for a domain in the way it's designed, but the design of the domain might be primitive or flawed. On the other hand, even if the design of a domain is poor in the first iteration, through this process it will improve over time.
 
 
-##### Delegating Responsibility for Domains
+#### Delegating Responsibility for Domains
 
 _Delegation is the grant of authority by one party (the _delegator_) to another (the _delegatee_) to account for a domain (i.e. to do certain things and/or to make certain decisions),for which the delegator maintains overall accountability._
 
@@ -272,7 +266,7 @@ The <dfn data-info="Delegator: An individual or group delegating responsibility 
 -   **constraints to the autonomy and influence** of the delegatee(s), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
 
-##### Drivers and Domains
+#### Drivers and Domains
 
 It's also possible to understand a domain in relation to organizational drivers:
 
@@ -282,7 +276,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 -  **dependencies** and **external constraints** (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees' autonomy
 
 
-#### Objections
+### Objections
 
 _An **objection** is an argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve._
 
@@ -313,7 +307,7 @@ Create a culture where people feel comfortable to raise *potential* objections a
 Harness a diversity of perspectives and be open to challenge your own, to discover when and what to change, and enjoy iterating more rapidly, running experiments and learning from the outcomes as you proceed.
 
 
-##### Concerns
+#### Concerns
 
 **Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on  assumptions, or a personal preference or opinion.**
 
@@ -324,7 +318,7 @@ In _Consent Decision Making_, concerns can inform ways to further evolve agreeme
 If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see _Test Arguments Qualify as Objections_).
 
 
-#### Agreements
+### Agreements
 
 _An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
 
@@ -337,7 +331,7 @@ Agreements are created in response to <dfn data-info="Organizational Driver: A d
 An agreement can include **delegation of specific responsibilities** to individuals or groups.
 
 
-#### Governance and Operations
+### Governance and Operations
 
 S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
 
@@ -368,7 +362,7 @@ This includes:
 
 Governance decisions can be made at any time and at any place, not just in a specific kind of meeting, although a _regular meeting for making and evolving agreements_ is often a good idea.
 
-##### Related Concepts
+#### Related Concepts
 
 **Self-Governance:** People governing themselves within the constraints of a domain.
 

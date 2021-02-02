@@ -28,5 +28,6 @@ title: "Meeting Practices"
 </dl>
 
 
-[&#9654; Rounds](rounds.html)<br/>[&#9664; Coordination Meeting](coordination-meeting.html)<br/>[&#9650; The Patterns](patterns.html)
-
+<div class="bottom-nav">
+<a href="coordination-meeting.html" title="Back to: Coordination Meeting">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="rounds.html" title="">▶ Read next: Rounds</a>
+</div>

@@ -41,5 +41,6 @@ Between two and three tuners is usually appropriate. Check for any objections to
 ![Proposal forming process](img/agreements/proposal-forming.png)
 
 
-[&#9654; Role Selection](role-selection.html)<br/>[&#9664; Co-Create Proposals](co-create-proposals.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="co-create-proposals.html" title="Back to: Co-Create Proposals">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="role-selection.html" title="">▶ Read next: Role Selection</a>
+</div>

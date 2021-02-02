@@ -38,5 +38,6 @@ title: "Defining Agreements"
 </dl>
 
 
-[&#9654; Record Agreements](record-agreements.html)<br/>[&#9664; Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html)<br/>[&#9650; The Patterns](patterns.html)
-
+<div class="bottom-nav">
+<a href="continuous-improvement-of-work-process.html" title="Back to: Continuous Improvement Of Work Process">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="record-agreements.html" title="">▶ Read next: Record Agreements</a>
+</div>

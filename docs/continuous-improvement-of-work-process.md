@@ -23,5 +23,6 @@ Establishing a process for the ongoing elimination of waste enables natural evol
 ![Drivers, value and waste](img/workflow-and-value/drivers-value-waste.png)
 
 
-[&#9654; Defining Agreements](defining-agreements.html)<br/>[&#9664; Open Space For Change](open-space-for-change.html)<br/>[&#9650; Bringing in S3](bringing-in-s3.html)
-
+<div class="bottom-nav">
+<a href="open-space-for-change.html" title="Back to: Open Space For Change">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="defining-agreements.html" title="">▶ Read next: Defining Agreements</a>
+</div>

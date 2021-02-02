@@ -14,5 +14,6 @@ Be accountable:
 -   **change the agreement** instead of repeatedly breaking it
 
 
-[&#9654; Contract For Successful Collaboration](contract-for-successful-collaboration.html)<br/>[&#9664; Governance Facilitator](governance-facilitator.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
-
+<div class="bottom-nav">
+<a href="governance-facilitator.html" title="Back to: Governance Facilitator">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="contract-for-successful-collaboration.html" title="">▶ Read next: Contract For Successful Collaboration</a>
+</div>

@@ -42,5 +42,6 @@ To find out how you can contribute to the development of S3, go to <https://soci
 
 
 
-[&#9654; Glossary](glossary.html)<br/>[&#9664; Acknowledgments](acknowledgments.html)<br/>[&#9650; Appendix](appendix.html)
-
+<div class="bottom-nav">
+<a href="acknowledgments.html" title="Back to: Acknowledgments">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="glossary.html" title="">▶ Read next: Glossary</a>
+</div>

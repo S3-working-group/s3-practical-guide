@@ -31,5 +31,6 @@ As interest in Sociocracy 3.0 grows there is a fast growing community of people
 
 
 
-[&#9654; Why "3.0"?](why-30.html)<br/>[&#9664; What is Sociocracy 3.0?](s3-overview.html)<br/>[&#9650; Introduction](introduction.html)
-
+<div class="bottom-nav">
+<a href="contents.html" title="Back to: What&apos;s in this guide?">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="why-30.html" title="">▶ Read next: Why &quot;3.0&quot;?</a>
+</div>

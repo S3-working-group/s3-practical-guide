@@ -42,5 +42,6 @@ Artful participation:
     -   the wider environment?
 
 
-[&#9654; Adopt The Seven Principles](adopt-the-seven-principles.html)<br/>[&#9650; Enablers of Collaboration](enablers-of-collaboration.html)
-
+<div class="bottom-nav">
+<a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="adopt-the-seven-principles.html" title="">▶ Read next: Adopt The Seven Principles</a>
+</div>

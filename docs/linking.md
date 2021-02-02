@@ -10,5 +10,6 @@ A team selects one of its members to represent their interests in the <dfn data-
 ![One circle linked to another circle](img/structural-patterns/link.png)
 
 
-[&#9654; Double Linking](double-linking.html)<br/>[&#9664; Role](role.html)<br/>[&#9650; Building Organizations](building-organizations.html)
-
+<div class="bottom-nav">
+<a href="role.html" title="Back to: Role">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="double-linking.html" title="">▶ Read next: Double Linking</a>
+</div>

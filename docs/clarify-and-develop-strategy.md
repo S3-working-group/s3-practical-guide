@@ -18,5 +18,6 @@ A strategy is a shared agreement between delegator(s) and delegatee(s) that is r
 Strategies are validated and refined through experimentation and learning.
 
 
-[&#9654; Clarify and Develop Domains](clarify-and-develop-domains.html)<br/>[&#9664; Record Agreements](record-agreements.html)<br/>[&#9650; Defining Agreements](defining-agreements.html)
-
+<div class="bottom-nav">
+<a href="record-agreements.html" title="Back to: Record Agreements">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="clarify-and-develop-domains.html" title="">▶ Read next: Clarify and Develop Domains</a>
+</div>

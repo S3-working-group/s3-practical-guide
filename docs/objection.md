@@ -43,5 +43,6 @@ In [Consent Decision Making](consent-decision-making.html), concerns can inform 
 If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)).
 
 
-[&#9654; Agreements](agreement.html)<br/>[&#9664; Domains](domain.html)<br/>[&#9650; Key Concepts for Making Sense of Organizations](making-sense-of-organizations.html)
-
+<div class="bottom-nav">
+<a href="domain.html" title="Back to: Domains">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="agreement.html" title="">▶ Read next: Agreements</a>
+</div>

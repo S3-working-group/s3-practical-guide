@@ -1,0 +1,41 @@
+/** 
+* special styles for the homepage
+**/
+
+
+.hp-version {
+  text-align: right;
+  font-size: $small-font-size;
+  color: $grey-color;      
+}
+
+.homepage-box {
+  border: 1px solid; 
+  border-radius: 15px;
+  -moz-border-radius: 15px;
+  margin-bottom: $spacing-unit;
+  padding: $spacing-unit / 2;
+}
+
+.homepage-box h2 {
+  font-size: $base-font-size * 1.25;
+  font-style: italic;
+}
+
+.hp-box1 {
+  background: #eef5f1;
+  border-color: #45996d;
+  color: #45996d;
+}
+
+.hp-box2 {
+  background: #f3f5fc;
+  border-color: #7f98e5;
+  color: #7f98e5;
+}
+
+.hp-box3 {
+  background: #f6f1f8;
+  border-color: #a073bf;
+  color: #a073bf;
+}

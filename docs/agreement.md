@@ -14,5 +14,6 @@ Agreements are created in response to <dfn data-info="Organizational Driver: A d
 An agreement can include **delegation of specific responsibilities** to individuals or groups.
 
 
-[&#9654; Governance and Operations](governance.html)<br/>[&#9664; Objections](objection.html)<br/>[&#9650; Key Concepts for Making Sense of Organizations](making-sense-of-organizations.html)
-
+<div class="bottom-nav">
+<a href="objection.html" title="Back to: Objections">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="governance.html" title="">▶ Read next: Governance and Operations</a>
+</div>

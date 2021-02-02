@@ -17,5 +17,6 @@ The center provides internal services to support the organization.
 ![Peach Organization](img/structural-patterns/peach-organization.png)
 
 
-[&#9654; Double-Linked Hierarchy](double-linked-hierarchy.html)<br/>[&#9664; Delegate Circle](delegate-circle.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
-
+<div class="bottom-nav">
+<a href="delegate-circle.html" title="Back to: Delegate Circle">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="double-linked-hierarchy.html" title="">▶ Read next: Double-Linked Hierarchy</a>
+</div>

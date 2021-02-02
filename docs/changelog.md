@@ -272,5 +272,6 @@ title: "Changelog"
 
 
 
-[&#9654; Alphabetical List Of All Patterns](pattern-index.html)<br/>[&#9650; Appendix](appendix.html)
-
+<div class="bottom-nav">
+<a href="appendix.html" title="Up: Appendix">▲</a> <a href="pattern-index.html" title="">▶ Read next: Alphabetical List Of All Patterns</a>
+</div>

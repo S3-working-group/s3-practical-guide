@@ -43,5 +43,6 @@ Governance decisions can be made at any time and at any place, not just in a spe
 Depending on the constraints set by the delegator, teams have more or less license to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing.
 
 
-[&#9654; The Patterns](patterns.html)<br/>[&#9664; Agreements](agreement.html)<br/>[&#9650; Key Concepts for Making Sense of Organizations](making-sense-of-organizations.html)
-
+<div class="bottom-nav">
+<a href="agreement.html" title="Back to: Agreements">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="patterns.html" title="">▶ Read next: The Patterns</a>
+</div>

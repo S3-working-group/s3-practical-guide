@@ -45,5 +45,6 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
 </dl>
 
 
-[&#9654; Service Circle](service-circle.html)<br/>[&#9664; Coordinator](coordinator.html)<br/>[&#9650; The Patterns](patterns.html)
-
+<div class="bottom-nav">
+<a href="coordinator.html" title="Back to: Coordinator">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="service-circle.html" title="">▶ Read next: Service Circle</a>
+</div>

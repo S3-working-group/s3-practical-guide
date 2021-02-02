@@ -15,5 +15,6 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 
 
-[&#9654; Timebox Activities](timebox-activities.html)<br/>[&#9664; Pull-System For Work](pull-system-for-work.html)<br/>[&#9650; Organizing Work](organizing-work.html)
-
+<div class="bottom-nav">
+<a href="pull-system-for-work.html" title="Back to: Pull-System For Work">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="timebox-activities.html" title="">▶ Read next: Timebox Activities</a>
+</div>

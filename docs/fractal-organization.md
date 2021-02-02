@@ -43,5 +43,6 @@ The second and third tier:
 - organize, align and steer the whole system while preserving autonomy and agency of the individual constituents
 
 
-[&#9654; Appendix](appendix.html)<br/>[&#9664; Service Organization](service-organization.html)<br/>[&#9650; Organizational Structure](organizational-structure.html)
-
+<div class="bottom-nav">
+<a href="service-organization.html" title="Back to: Service Organization">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="appendix.html" title="">▶ Read next: Appendix</a>
+</div>

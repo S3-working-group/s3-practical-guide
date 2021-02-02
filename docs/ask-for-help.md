@@ -12,5 +12,6 @@ Ask someone, "_would you be willing to help me with ..._?" The person asked acce
 -   if you accept a request for help, support your peer in the best way you can
 
 
-[&#9654; Peer Feedback](peer-feedback.html)<br/>[&#9650; Peer Development](peer-development.html)
-
+<div class="bottom-nav">
+<a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="peer-feedback.html" title="">▶ Read next: Peer Feedback</a>
+</div>

@@ -63,13 +63,22 @@ msgstr "S3 - A Practical Guide"
 msgid "Pattern-Index"
 msgstr "Pattern-Index"
 
-
 # Title for Table of Contents in PDF
 msgid "Contents"
 msgstr "Contents"
 
+# (mdtools) webpage bottomnavigation: next page in reading order
+msgid "Read next:"
+msgstr "Read next:"
+
+# (mdtools): webpage bottomnavigation: previous page in reading order
+msgid "Back to:"
+msgstr "Back to:"
+
+# (mdtools): webpage bottom navigation
+msgid "Up:"
+msgstr "Up:"
 
 #
 msgid ""
 msgstr ""
-

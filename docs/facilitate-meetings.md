@@ -16,5 +16,6 @@ Consider selecting a facilitator for a specific term. Even an inexperienced faci
 **See also:** [Prepare For Meetings](prepare-for-meetings.html), [Role Selection](role-selection.html)
 
 
-[&#9654; Prepare For Meetings](prepare-for-meetings.html)<br/>[&#9664; Rounds](rounds.html)<br/>[&#9650; Meeting Practices](meeting-practices.html)
-
+<div class="bottom-nav">
+<a href="rounds.html" title="Back to: Rounds">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="prepare-for-meetings.html" title="">▶ Read next: Prepare For Meetings</a>
+</div>

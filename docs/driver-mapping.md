@@ -12,5 +12,6 @@ A (small or large) group identifies and clusters <dfn data-info="Driver: A perso
 ![Driver Mapping: A template for domains](img/templates/domain-template.png)
 
 
-[&#9654; Peer Development](peer-development.html)<br/>[&#9664; Role Selection](role-selection.html)<br/>[&#9650; Co-Creation and Evolution](co-creation-and-evolution.html)
-
+<div class="bottom-nav">
+<a href="role-selection.html" title="Back to: Role Selection">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="peer-development.html" title="">▶ Read next: Peer Development</a>
+</div>
