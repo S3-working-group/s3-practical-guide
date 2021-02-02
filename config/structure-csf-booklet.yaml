@@ -1,0 +1,25 @@
+parts:
+  - csf-booklet-title
+  - thrive
+  - ten-principles
+  - id: orientation
+    parts:
+      - clarify-purpose
+      - develop-strategy
+  - id: navigation
+    parts:
+      - focus-on-value
+      - sense-respond
+      - run-experiments
+  - id: structure
+    parts:
+      - enable-autonomy
+      - collaborate-on-dependencies
+  - id: transformation
+    parts:
+      - invest-in-learning
+      - develop-culture
+      - shared-mental-models
+  - where-to-start
+  - csf-and-s3
+  - 10-principles-one-page
