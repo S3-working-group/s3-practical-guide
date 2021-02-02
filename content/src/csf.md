@@ -264,8 +264,8 @@ Run experiments to address complex challenges._
 **Principle 6 – Enable Autonomy** \
 _Free individuals and teams up to create value as autonomously as possible._
 
-**Principle 7 – Collaborate on Dependencies_ \
-Co-create and evolve a coherent system to deal with all dependencies._
+**Principle 7 – Collaborate on Dependencies** \
+_Co-create and evolve a coherent system to deal with all dependencies._
 
 **Principle 8 – Invest in Learning** \
 _Ensure the people grow competence and skill, so that they develop._
