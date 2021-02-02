@@ -169,7 +169,7 @@
 -   [Invite Change](section:invite-change): description now focuses on _how_ to invite change
 -   [Linking](section:linking): aligned description to [Double Linking](section:double-linking)
 -   [Logbook](section:logbook): clarified that there is no difference between logbooks for groups and logbooks for roles
--   [Navigate Via Tension](section:navigate-via-tension): improved description, added a new illustration to clarify the distinction between _Navigate Via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
+-   [Navigate via Tension](section:navigate-via-tension): improved description, added a new illustration to clarify the distinction between _Navigate via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
 -   _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
 -   [Open Domain](section:open-domain): improved description and updated illustration
 -   [Open Systems](section:open-systems): improved description
