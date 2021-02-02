@@ -9,7 +9,7 @@
 
 **Principle 4 – Sense & Respond:** _Identify, prioritize and respond to impediments and opportunities, so that you can adapt or pivot as necessary and improve where you can._
 
-**Principle 5 – _Run Experiments:** _Run experiments to address complex challenges, so that you learn how to move closer to where you want to be._
+**Principle 5 – Run Experiments:** _Run experiments to address complex challenges, so that you learn how to move closer to where you want to be._
 
 **Principle 6 – Enable Autonomy:** _Free individuals and teams up to create value as autonomously as possible, so that you can deliver value fast and avoid unnecessary dependencies._
 
