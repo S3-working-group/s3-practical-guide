@@ -201,6 +201,7 @@ parts:
           - id: fractal-organization
             tags: [pattern]
 
+  - id: csf
   - id: appendix
     parts:
       - changelog
