@@ -35,7 +35,7 @@ presets:
   jekyll:
     renderer: jekyll
     target-format: html
-    # noob_menu: true
+    noob_menu: true
     # add "read next" below content pages
     read-next-navigation: true
     read-next-shortcuts: true 
