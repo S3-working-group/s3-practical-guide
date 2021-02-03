@@ -2,6 +2,10 @@
 * special styles for the homepage
 **/
 
+$hp-box1-color-main:  #45996d !default;
+$hp-box2-color-main:  #7f98e5 !default;
+$hp-box3-color-main:  #a073bf !default;
+$hp-box4-color-main:  #6c797f !default;
 
 .hp-version {
   text-align: right;
@@ -10,7 +14,7 @@
 }
 
 .homepage-box {
-  border: 1px solid; 
+  /* border: 2px solid; */
   border-radius: 15px;
   -moz-border-radius: 15px;
   margin-bottom: $spacing-unit;
@@ -23,25 +27,24 @@
 }
 
 .hp-box1 {
-  background: #eef5f1;
-  border-color: #45996d;
-  color: #45996d;
+  background: rgba($hp-box1-color-main, 0.1);
+  border-color: rgba($hp-box1-color-main, 0.2);
+  color: darken( $hp-box1-color-main, 15% );
 }
-
 .hp-box2 {
-  background: #f3f5fc;
-  border-color: #7f98e5;
-  color: #7f98e5;
+  background: rgba($hp-box2-color-main, 0.1);
+  border-color: rgba($hp-box2-color-main, 0.2);
+  color: darken( $hp-box2-color-main, 15% );
 }
-
 .hp-box3 {
-  background: #f6f1f8;
-  border-color: #a073bf;
-  color: #a073bf;
+  background: rgba($hp-box3-color-main, 0.1);
+  border-color: rgba($hp-box3-color-main, 0.2);
+  color: darken( $hp-box3-color-main, 15% );
+}
+.hp-box4 {
+  background: rgba($hp-box4-color-main, 0.1);
+  border-color: rgba($hp-box4-color-main, 0.2);
+  color: darken( $hp-box4-color-main, 15% );
 }
 
-.hp-box4 {
-  background: #f1f2f3;
-  border-color: #6c797f;
-  color: #6c797f;
-}
+
