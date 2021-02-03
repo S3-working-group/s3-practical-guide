@@ -1,4 +1,4 @@
-# ${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}
+# The Official Description of Sociocracy 3.0 (Online Version)
 
 <p class="hp-version">${version}</p>
 
@@ -25,9 +25,9 @@
 <div class="homepage-box hp-box3">
     <h2>Downloads and other languages</h2>
 
-    <p>You can read this guide also in <a href="https://patterns-de.sociocracy30.org">German</a>, <a href="https://patterns-fr.sociocracy30.org">French</a>, <a href="https://patterns-nl.sociocracy30.org">Dutch</a>, or <a href="https://patterns-he.sociocracy30.org">Hebrew</a>. Each page has links to other language versions of that page in the <strong>footer</strong>.</p>
+    <p>You can read this guide in <a href="https://patterns-de.sociocracy30.org">German</a>, <a href="https://patterns-fr.sociocracy30.org">French</a>, <a href="https://patterns-nl.sociocracy30.org">Dutch</a>, or <a href="https://patterns-he.sociocracy30.org">Hebrew</a>. Each page has links to other language versions of that page in the <strong>footer</strong>.</p>
 
-    <p>If you prefer to read this guide offline or on your ebook reader, you will find <strong>downloads as PDF and EPUB</strong> in the <a href="https://sociocracy30.org/resources/#se-practical-guide">&#9654;&nbsp;S3&nbsp;Resources Page</a> in all available languages.</p>
+    <p>If you prefer to read this guide offline or on your ebook reader, you can find <strong>downloads as PDF and EPUB</strong> in the <a href="https://sociocracy30.org/resources/#se-practical-guide">&#9654;&nbsp;S3&nbsp;Resources Page</a> in all available languages.</p>
 </div>
 
 <div class="homepage-box hp-box4">

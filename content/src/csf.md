@@ -1,4 +1,4 @@
-[:menu-title]: # "CSF"
+[:menu-title]: # "CommonS3nse"
 
 # A Common Sense Framework for Organizations and Teams
 
