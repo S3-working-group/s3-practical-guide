@@ -5,9 +5,12 @@ PROJECT=config/project.yaml
 include config/local-conf
 
 make translations:
-	$(MKTPL) templates/version.txt content/version.txt $(LOC) $(PRJ)
+	mdtemplate default $(PROJECT) templates/version.txt content/version.txt
 	# it's intentional this is just echoed
 	echo "sudo crXXXXowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version.txt) --dryrun"
+
+version:
+	mdtemplate default $(PROJECT) templates/version.txt content/version.txt
 
 site:
 	# build jekyll site
