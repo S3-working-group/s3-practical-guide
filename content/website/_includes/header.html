@@ -1,5 +1,6 @@
-<header class="site-header">
-  <p><a class="site-title" href="\{\{ site.baseurl \}\}/">\{\{ site.title \}\}</a></p>
+<header class="site-header header-wrapper">
+  <div class="header-col header-title"><a class="site-title" href="\{\{ site.baseurl \}\}/">\{\{ site.title \}\}</a></div>
+  <div class="header-col header-icons"><a href="map.html" ><img src="img/map.png" title="Use the pattern map to jump to another pattern." /></a> <span id="annotate-span"><a href="" id="annotate-link"><img src="img/feedback.png" title="Annotate this page with hypothes.is. Click here, wait for the page to reload, then you can highlight text and add public comments. You will need to set up a free account at hypothes.is." /></a></span></div>
 </header>
 <nav id="main-nav">
   <!-- Mobile menu toggle button (hamburger/x icon) -->
@@ -11,8 +12,9 @@
   <ul id="main-menu" class="sm sm-mint sm-vertical">
     <li><a href="index.html">Home</a></li>
     {{html-menu}}
-    <li><a href="#">Tools</a>
+    <li><a href="#">Quick Links</a>
       <ul class="mega-menu">
+        <li><a href="index.html">How to Use This Website</a></li>
         <li><a href="pattern-index.html">Pattern Index</a></li>
         <li><a href="glossary.html">Glossary</a></li>
         <li><a href="changelog.html">Changelog</a></li>
