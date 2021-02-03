@@ -36,6 +36,9 @@ presets:
     renderer: jekyll
     target-format: html
     # noob_menu: true
+    # add "read next" below content pages
+    read-next-navigation: true
+    read-next-shortcuts: true 
     variables:
       # CNAME for GitHub-Page
       microsite-cname: "patterns.sociocracy30.org"
