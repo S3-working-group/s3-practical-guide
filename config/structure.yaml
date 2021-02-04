@@ -39,7 +39,7 @@ parts:
             tags: [pattern]
           - id: evaluate-and-evolve-agreements
             tags: [pattern]
-          - id: those-affected-decide
+          - id: involve-those-affected
             tags: [pattern]
           - id: co-create-proposals
             tags: [pattern]
