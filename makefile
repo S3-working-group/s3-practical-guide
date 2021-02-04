@@ -28,7 +28,12 @@ epub:
 	echo $(TARGETFILE)
 	mdbuild epub $(PROJECT) -vv
 	cd $(TMP); pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../$(TARGETFILE).epub
-	#pandoc tmp/epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o $(TARGETFILE).epub
+
+docx:
+	# render an ebook as epub
+	echo $(TARGETFILE)
+	mdbuild epub $(PROJECT) -vv
+	cd $(TMP); pandoc epub-compiled.md -f markdown -t docx --toc --toc-depth=3 -s -o ../$(TARGETFILE).docx
 
 supporter-epub:
 	# render epub for supporter edition
