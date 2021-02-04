@@ -7,7 +7,8 @@ include config/local-conf
 make translations:
 	mdtemplate default $(PROJECT) templates/version.txt content/version.txt
 	# it's intentional this is just echoed
-	echo "sudo crXXXXowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version.txt) --dryrun"
+	echo "sudo crowdin upload sources --identity ~/crowdin-s3-patterns.yaml --dryrun"
+	echo "sudo crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version.txt) --dryrun"
 
 version:
 	mdtemplate default $(PROJECT) templates/version.txt content/version.txt
