@@ -1,16 +1,21 @@
 # Changelog
 
 
+## Changes 2021-02-05
+
+-   Revised glossary definitions for Semi-Autonomy, Self-Organization,  Sociocracy
+-   Renamed Pattern: Those Affected Decide_ to _Involve Those Affected_
+
 ## Changes 2021-02-03
 
--   Added the **Common Sense Framework** to the Practical Guide
+-   Added the **[Common Sense Framework](section:csf)** to the Practical Guide
 -   A new structure of the Practical Guide that makes that the relevant parts easier to find:
-    -   What is Sociocracy 3.0
-    -   The Seven Prinicples
-    -   Key Concepts for Making Sense of Organizations
-    -   The Patterns
-    -   The Common Sense Framework 
-    -   Appendix
+    -   [What is Sociocracy 3.0](section:what-is-s3)
+    -   [The Seven Principles](section:principles)
+    -   [Key Concepts for Making Sense of Organizations](section:making-sense-of-organizations)
+    -   [The Patterns](section:patterns)
+    -   [The Common Sense Framework ]
+    -   [Appendix](section:appendix)
 -   Redesigned the website for better usability: 
     -   A new responsive menu that provides direct access to all patterns and other sections of the guide
     -   A new homepage that explains what is where
