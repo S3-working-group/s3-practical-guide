@@ -4,7 +4,7 @@ title: "Two Principles for Structure"
 
 
 
-![Two Principles for Structure: Enable Autonomy | Collaborate on Dependencies](img/csf/csf-light-structure.png)
+![Two Principles for Structure: Enable Autonomy – Collaborate on Dependencies](img/csf/csf-light-structure.png)
 
 
 <div class="bottom-nav">

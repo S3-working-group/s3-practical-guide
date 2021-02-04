@@ -195,18 +195,18 @@ terms:
   self-organization:
     name: Self-Organization
     definition:
-    glossary: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist. 
+    glossary: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).
   semi-autonomy:
     name: Semi-Autonomy
     definition:
-    glossary: The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
+    glossary: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.
   social-technology:
     name: Social Technology
     definition: Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
     glossary: Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
   sociocracy:
     name: Sociocracy
-    glossary: A mindset where people affected by decisions can influence them on the basis of reasons to do so.
+    glossary: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.
   strategy:
     name: Strategy
     definition: A **strategy** is a high level approach for how people will create value to successfully account for a domain.

@@ -376,6 +376,13 @@ Depending on the constraints set by the delegator, teams have more or less licen
 
 ## The Patterns
 
+S3 offers a pattern-based approach to organizational change.
+
+_A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity._
+
+Patterns are modular and adaptable, can be used independently, and are mutually reinforcing, complementing one another when used in combination. S3 patterns can be evolved and adapted to address your specific needs.
+
+In this guide, the patterns are grouped by topic into ten categories to help you more easily identify those that are useful to you:
 
 
 
@@ -2223,7 +2230,7 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 ### Two Principles for Orientation
 
 
-![Two Principles for Orientation: Clarify Purpose | Develop Strategy](img/csf/csf-light-orientation.png)
+![Two Principles for Orientation: Clarify Purpose – Develop Strategy](img/csf/csf-light-orientation.png)
 
 
 
@@ -2256,7 +2263,7 @@ Essential Patterns to help you achieve this:
 ### Three Principles for Navigation
 
 
-![Three Principles for Navigation: Focus on Value | Sense & Respond | Run Experiments](img/csf/csf-light-navigation.png)
+![Three Principles for Navigation: Focus on Value – Sense & Respond – Run Experiments](img/csf/csf-light-navigation.png)
 
 
 #### Principle 3 – Focus on Value
@@ -2307,7 +2314,7 @@ Essential patterns to help you achieve this:
 ### Two Principles for Structure
 
 
-![Two Principles for Structure: Enable Autonomy | Collaborate on Dependencies](img/csf/csf-light-structure.png)
+![Two Principles for Structure: Enable Autonomy – Collaborate on Dependencies](img/csf/csf-light-structure.png)
 
 
 #### Principle 6 – Enable Autonomy
@@ -2349,7 +2356,7 @@ Essential patterns to help you achieve this:
 ### Three Principles for Transformation
 
 
-![Three Principles for Transformation: Invest in Learning | Intentionally Develop Culture | Build Shared Mental Models](img/csf/csf-light-transformation.png)
+![Three Principles for Transformation: Invest in Learning – Intentionally Develop Culture – Build Shared Mental Models](img/csf/csf-light-transformation.png)
 
 
 #### Principle 8 – Invest in Learning

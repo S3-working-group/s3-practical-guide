@@ -4,7 +4,7 @@ title: "Three Principles for Navigation"
 
 
 
-![Three Principles for Navigation: Focus on Value | Sense & Respond | Run Experiments](img/csf/csf-light-navigation.png)
+![Three Principles for Navigation: Focus on Value – Sense & Respond – Run Experiments](img/csf/csf-light-navigation.png)
 
 
 <div class="bottom-nav">
