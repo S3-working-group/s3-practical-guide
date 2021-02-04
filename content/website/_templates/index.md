@@ -19,7 +19,7 @@
 
     <p><strong>To find a specific pattern</strong>, or to get an overview over what's available, you can use the <a href="pattern-index.html">&#9654;&nbsp;Pattern Index</a> or the <a href="map.html" ><img src="img/map.png" />&nbsp;Pattern Map</a>.</p>
 
-    <p>These tools are also available in the "Tools" menu.</p>
+    <p>These tools are also available in the "Quick Links" menu.</p>
 </div>
 
 <div class="homepage-box hp-box3">
