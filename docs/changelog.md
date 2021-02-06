@@ -4,16 +4,22 @@ title: "Changelog"
 
 
 
+## Changes 2021-02-06
+
+-   Revised glossary definitions for <dfn data-info="Semi-Autonomy: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.">Semi-Autonomy</dfn>, <dfn data-info="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">Self-Organization</dfn> and <dfn data-info="Sociocracy: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.">Sociocracy</dfn>
+-   Renamed Pattern: _Those Affected Decide_ to _Involve Those Affected_
+-   Several small corrections and revisions
+
 ## Changes 2021-02-03
 
--   Added the **Common Sense Framework** to the Practical Guide
+-   Added the **[Common Sense Framework](csf.html)** to the Practical Guide
 -   A new structure of the Practical Guide that makes that the relevant parts easier to find:
-    -   What is Sociocracy 3.0
-    -   The Seven Prinicples
-    -   Key Concepts for Making Sense of Organizations
-    -   The Patterns
-    -   The Common Sense Framework 
-    -   Appendix
+    -   [What is Sociocracy 3.0](what-is-s3.html)
+    -   [The Seven Principles](principles.html)
+    -   [Key Concepts for Making Sense of Organizations](making-sense-of-organizations.html)
+    -   [The Patterns](patterns.html)
+    -   [The Common Sense Framework](csf.html)
+    -   [Appendix](appendix.html)
 -   Redesigned the website for better usability: 
     -   A new responsive menu that provides direct access to all patterns and other sections of the guide
     -   A new homepage that explains what is where
@@ -106,7 +112,7 @@ title: "Changelog"
 -   added <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</dfn> to glossary (and replaced group with team throughout the practical guide where applicable)
 -   updated definition for <dfn data-info="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</dfn>
 -   removed **driver statement** from text and glossary
--   updated definitions for <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn>, <dfn data-info="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</dfn>, and <dfn data-info="Self-Organization: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.">self-organization</dfn>
+-   updated definitions for <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn>, <dfn data-info="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</dfn>, and <dfn data-info="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</dfn>
 
 **Illustrations:**
 

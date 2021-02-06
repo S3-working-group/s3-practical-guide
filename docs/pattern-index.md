@@ -128,6 +128,9 @@ title: "Alphabetical List Of All Patterns"
   <dt><a href="invite-change.html">Invite Change</a></dt>
   <dd><p>Clarify the reason for change and invite people to participate.</p></dd>
 
+  <dt><a href="involve-those-affected.html">Involve Those Affected</a></dt>
+  <dd><p>Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.</p></dd>
+
   <dt><a href="limit-work-in-progress.html">Limit Work in Progress</a></dt>
   <dd><p>Limit the number of work items in any stage of your work process.</p></dd>
 
@@ -214,9 +217,6 @@ title: "Alphabetical List Of All Patterns"
 
   <dt><a href="test-arguments-qualify-as-objections.html">Test Arguments Qualify as Objections</a></dt>
   <dd><p>Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.</p></dd>
-
-  <dt><a href="those-affected-decide.html">Those Affected Decide</a></dt>
-  <dd><p>Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.</p></dd>
 
   <dt><a href="timebox-activities.html">Timebox Activities</a></dt>
   <dd><p>Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.</p></dd>

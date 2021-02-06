@@ -195,11 +195,11 @@ title: "Glossary"
 
 
 <dt id="entry-self-organization">Self-Organization</dt>
-<dd>Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.</dd>
+<dd>Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).</dd>
 
 
 <dt id="entry-semi-autonomy">Semi-Autonomy</dt>
-<dd>The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).</dd>
+<dd>The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.</dd>
 
 
 <dt id="entry-social-technology">Social Technology</dt>
@@ -207,7 +207,7 @@ title: "Glossary"
 
 
 <dt id="entry-sociocracy">Sociocracy</dt>
-<dd>A mindset where people affected by decisions can influence them on the basis of reasons to do so.</dd>
+<dd>An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.</dd>
 
 
 <dt id="entry-scm">Sociocratic Circle-Organisation Method (SCM)</dt>

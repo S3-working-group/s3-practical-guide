@@ -26,7 +26,7 @@ title: "Co-Creation and Evolution"
   <dt><a href="evaluate-and-evolve-agreements.html">Evaluate And Evolve Agreements</a></dt>
   <dd><p>Continuously evolve the body of agreements, and eliminate waste.</p></dd>
 
-  <dt><a href="those-affected-decide.html">Those Affected Decide</a></dt>
+  <dt><a href="involve-those-affected.html">Involve Those Affected</a></dt>
   <dd><p>Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.</p></dd>
 
   <dt><a href="co-create-proposals.html">Co-Create Proposals</a></dt>

@@ -100,7 +100,7 @@ In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a b
 
 #### The Sociocracy 3.0 Movement
 
-As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the framework and its various applications.
+As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the S3 and its various applications.
 
 
 
@@ -152,7 +152,7 @@ Yet from our direct experience, even for those organizations that have heard abo
 
 ##### Condensed to the Essentials
 
-When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight framework to adapt and build on as necessary.
+When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight approach to adapt and build on as necessary.
 
 This doesn't mean to say it's all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it's important to only pull in what you need, because there's no point to changing things if what you are doing is already good enough.
 
@@ -325,7 +325,7 @@ _An **agreement** is an agreed upon guideline, process, protocol or policy desig
 
 Shared guidelines about why, how and when to act, and what is specifically required, enable effective collaboration.
 
-Agreements are created in response to <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">organizational drivers</dfn>, are **regularly reviewed** and evolved as necessary.
+Agreements are created in response to <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">organizational drivers</dfn>, are **regularly reviewed** and evolved as necessary.
 
 **Overall accountability** for an agreement lies with the people that make them.
 
@@ -367,14 +367,15 @@ Governance decisions can be made at any time and at any place, not just in a spe
 
 **Self-Governance:** People governing themselves within the constraints of a domain.
 
-**Semi-Autonomy:** The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
+**Semi-Autonomy:** The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.
 
-**Self-Organization:** Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
+**Self-Organization:** Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).
 
 Depending on the constraints set by the delegator, teams have more or less license to conduct governance and decide how they organize their operations, and are therefore more or less self-governing and self-organizing.
 
 
 ## The Patterns
+
 
 S3 offers a pattern-based approach to organizational change.
 
@@ -384,6 +385,16 @@ Patterns are modular and adaptable, can be used independently, and are mutually 
 
 In this guide, the patterns are grouped by topic into ten categories to help you more easily identify those that are useful to you:
 
+- [Co-Creation and Evolution](co-creation-and-evolution.html)
+- [Peer Development](peer-development.html)
+- [Enablers of Collaboration](enablers-of-collaboration.html)
+- [Building Organizations](building-organizations.html)
+- [Bringing in S3](bringing-in-s3.html)
+- [Defining Agreements](defining-agreements.html)
+- [Focused Interactions](focused-interactions.html)
+- [Meeting Practices](meeting-practices.html)
+- [Organizing Work](organizing-work.html)
+- [Organizational Structure](organizational-structure.html)
 
 
 
@@ -396,7 +407,7 @@ In this guide, the patterns are grouped by topic into ten categories to help you
 
 **Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.**
 
-Responses to <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">organizational drivers</dfn> include:
+Responses to <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">organizational drivers</dfn> include:
 
 - direct action (<dfn data-info="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</dfn>)
 - organizing how work will be done
@@ -432,7 +443,7 @@ To **discover drivers**, investigate what stimulates tension, and describe what'
 
 **Describe organizational drivers to understand, communicate and remember them.**
 
-Describing <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</dfn> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
+Describing <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</dfn> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
 A simple way to describe a driver is by explaining:
 
@@ -614,7 +625,7 @@ Follow-up:
 -   Consider effects on any related agreements.
 
 
-#### Those Affected Decide
+#### Involve Those Affected
 
 **Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.**
 
@@ -632,7 +643,7 @@ Consider including those affected in reviewing and evolving decisions, too.
 
 There are many ways to co-create proposals. They typically follow a similar pattern:
 
-1. Agree on the <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn> (or problem / opportunity / need)
+1. Agree on the <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn> (or problem / opportunity / need)
 2. Explore the topic and understand constraints
 3. Generate ideas
 4. Design a proposal (often done by a smaller group)
@@ -658,7 +669,7 @@ _Proposal Forming_ may also be used by an individual.
 
 ##### Proposal Forming Steps
 
-**Consent to driver:** Briefly present the <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn>. _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_
+**Consent to driver:** Briefly present the <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn>. _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_
 
 **Deepen shared understanding of driver:** invite essential questions to understand the driver in more detail.
 
@@ -726,7 +737,7 @@ This pattern can also be used in any situation where there is a need to choose b
 
 A workshop format to identify an effective response to a complex situation: organize start-ups, kick-off projects, tackle major impediments or opportunities, develop organizational structure to better enable the <dfn data-info="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</dfn>.
 
-A (small or large) group identifies and clusters <dfn data-info="Driver: A person’s or a group's motive for responding to a specific situation.">drivers</dfn>, to then progress quickly from concept to action in smaller and self-organizing teams.
+A (small or large) group identifies and clusters <dfn data-info="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">drivers</dfn>, to then progress quickly from concept to action in smaller and self-organizing teams.
 
 ![Driver Mapping: Process](img/process/driver-mapping.png)
 
@@ -802,7 +813,7 @@ The development plan may be created for a person in a role, or for a team (e.g. 
 
 Development may happen in the form of refining the description of the _driver_ and the <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>, making amendments to <dfn data-info="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</dfn>, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
 
-A development plan (and any accompanying recommendations for changes to the descriptions of the <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn> and the <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn>) requires consent from both the <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</dfn> and the <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn>.
+A development plan (and any accompanying recommendations for changes to the descriptions of the <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn> and the <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn>) requires consent from both the <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</dfn> and the <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn>.
 
 ![A template for development plans](img/templates/development-plan-template.png)
 
@@ -1024,7 +1035,7 @@ Decide how to handle remuneration for changing roles and _develop a strategy_ fo
 
 **Apply the role pattern to external contractors.**
 
--   clarify and describe the <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn> for the _role_
+-   clarify and describe the <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn> for the _role_
 -   create a _domain description_
 -   if valuable, implement a selection process
 -   limit the term of the contract
@@ -1042,7 +1053,7 @@ Consider:
    
 -   consent and equivalence in decision making
 -   selection process for leadership roles
--   organizational structure, <dfn data-info="Values: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.">values</dfn> and <dfn data-info="Principle: A basic idea or rule that guides behavior, or explains or controls how something happens or works.">principles</dfn>
+-   organizational structure, <dfn data-info="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</dfn> and <dfn data-info="Principle: A basic idea or rule that guides behavior, or explains or controls how something happens or works.">principles</dfn>
 -   influence of owners or shareholders
 -   sharing gains and costs
 
@@ -1075,12 +1086,12 @@ _A **circle** is a self-governing and semi-autonomous team of equivalent people 
 A circle:
 
 -   may be permanent or temporary
--   may be <dfn data-info="Self-Organization: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.">self-organizing</dfn>
--   is accountable for its own development and its body of <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>
+-   may be <dfn data-info="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organizing</dfn>
+-   is responsible for its own development and its body of <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>
 
 -   **semi-autonomous:**
     -   A circle's members act within the constraints of their <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>.
-    -   Each circle can create <dfn data-info="Value: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").">value</dfn> autonomously.
+    -   Each circle can create <dfn data-info="Value: The importance, worth or usefulness of something in relation to a driver. Also &quot;a principle of some significance that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">value</dfn> autonomously.
 -   **self-governing:**
     -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
 -  **equivalence of circle members:**
@@ -1105,7 +1116,7 @@ A role is a simple way for an organization (or <dfn data-info="Team: A group of 
 - role keepers are selected by consent and for a limited term
 - peers support one another to develop in the roles they keep
 
-A role keeper may maintain a governance <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</dfn>, and a <dfn data-info="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</dfn> to record and help them evolve their approach toward delivering <dfn data-info="Value: The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").">value</dfn>.
+A role keeper may maintain a governance <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</dfn>, and a <dfn data-info="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</dfn> to record and help them evolve their approach toward delivering <dfn data-info="Value: The importance, worth or usefulness of something in relation to a driver. Also &quot;a principle of some significance that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">value</dfn>.
 
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.
 
@@ -1255,10 +1266,10 @@ Include the people involved and affected in regular evaluation of outcomes.
 
 **Invite everyone to create and run experiments for evolving the organization.**
 
--   clarify the <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn> for change
+-   clarify the <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn> for change
 -   schedule regular open space events:
     -   invite all members to create and run experiments
-    -   define constraints for the experiments that enable development of a <dfn data-info="Sociocracy: A mindset where people affected by decisions can influence them on the basis of reasons to do so.">sociocratic</dfn> and agile mindset (e.g. S3 principles)
+    -   define constraints for the experiments that enable development of a <dfn data-info="Sociocracy: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.">sociocratic</dfn> and agile mindset (e.g. S3 principles)
     -   review and learn from experimentation in the next open space
 
 
@@ -1608,7 +1619,7 @@ Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.or
 
 Content relating to the whole organization:
 
--   <dfn data-info="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</dfn>, <dfn data-info="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</dfn> and organizational <dfn data-info="Values: Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.">values</dfn>
+-   <dfn data-info="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</dfn>, <dfn data-info="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</dfn> and organizational <dfn data-info="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</dfn>
 -   organizational structure (<dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> and the connections between them)
 -   <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>
 
@@ -1679,7 +1690,7 @@ Typical agenda items include:
 
 **Dedicate time to reflect on past experience, learn, and decide how to improve work process.**
 
--   output: changes to work process, new tasks, on-the-fly <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>, and <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</dfn> requiring an agreement
+-   output: changes to work process, new tasks, on-the-fly <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>, and <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</dfn> requiring an agreement
 -   facilitated meeting (~1hr)
 -   regular intervals (1-4 weeks)
 -   adapt to situation and context
@@ -1779,7 +1790,7 @@ Consider selecting a facilitator for a specific term. Even an inexperienced faci
 
 Some considerations for successfully preparing a meeting:
 
-- clarify and communicate the <dfn data-info="Driver: A person’s or a group's motive for responding to a specific situation.">driver</dfn> for, and <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn> of the meeting
+- clarify and communicate the <dfn data-info="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</dfn> for, and <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn> of the meeting
 - decide who to invite
 - create an agenda
 - schedule the meeting enough in advance, so people have time to prepare
@@ -1915,7 +1926,7 @@ Types of backlog include:
 
 Each item on a (prioritized) backlog typically contains:
 
--   a **short description** of a <dfn data-info="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</dfn> or a <dfn data-info="Organizational Driver: A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn>
+-   a **short description** of a <dfn data-info="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</dfn> or a <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn>
 -   a **unique reference number** (or link) for each work item
 -   (the **order of work items**)
 -   **dependencies** to other work items or projects
@@ -1937,7 +1948,7 @@ A prioritized <dfn data-info="Backlog: A list of (often prioritized) uncompleted
 
 **Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.**
 
--   valuable for <dfn data-info="Self-Organization: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.">self-organization</dfn> and pull-systems
+-   valuable for <dfn data-info="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</dfn> and pull-systems
 -   system must be accessible to everyone affected
 -   **analog:** post-its on a wall, or index cards, magnets and white board
 -   **digital:** [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
@@ -2051,7 +2062,7 @@ Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex ad
 Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
 
 -   S3's structural patterns apply to different layers of abstraction
--   different structural patterns serve different <dfn data-info="Driver: A person’s or a group's motive for responding to a specific situation.">drivers</dfn>
+-   different structural patterns serve different <dfn data-info="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">drivers</dfn>
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
 
@@ -2139,7 +2150,7 @@ If necessary, the pattern can be repeated to connect multiple fractal organizati
 
 ##### Prerequisites
 
-A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <dfn data-info="Driver: A person’s or a group's motive for responding to a specific situation.">driver</dfn>, or by multiple branches, departments, or projects within a larger organization.
+A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <dfn data-info="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</dfn>, or by multiple branches, departments, or projects within a larger organization.
 
 These <dfn data-info="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</dfn> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> (e.g. accounting, product management, or development).
 
@@ -2419,16 +2430,22 @@ For each principle we included a list of suggestions for things you can try. The
 ### Changelog
 
 
+#### Changes 2021-02-06
+
+-   Revised glossary definitions for <dfn data-info="Semi-Autonomy: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.">Semi-Autonomy</dfn>, <dfn data-info="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">Self-Organization</dfn> and <dfn data-info="Sociocracy: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.">Sociocracy</dfn>
+-   Renamed Pattern: _Those Affected Decide_ to _Involve Those Affected_
+-   Several small corrections and revisions
+
 #### Changes 2021-02-03
 
--   Added the **Common Sense Framework** to the Practical Guide
+-   Added the **_Common Sense Framework_** to the Practical Guide
 -   A new structure of the Practical Guide that makes that the relevant parts easier to find:
-    -   What is Sociocracy 3.0
-    -   The Seven Prinicples
-    -   Key Concepts for Making Sense of Organizations
-    -   The Patterns
-    -   The Common Sense Framework 
-    -   Appendix
+    -   _What is Sociocracy 3.0_
+    -   _The Seven Principles_
+    -   _Key Concepts for Making Sense of Organizations_
+    -   _The Patterns_
+    -   _The Common Sense Framework_
+    -   _Appendix_
 -   Redesigned the website for better usability: 
     -   A new responsive menu that provides direct access to all patterns and other sections of the guide
     -   A new homepage that explains what is where
@@ -2521,7 +2538,7 @@ For each principle we included a list of suggestions for things you can try. The
 -   added <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</dfn> to glossary (and replaced group with team throughout the practical guide where applicable)
 -   updated definition for <dfn data-info="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</dfn>
 -   removed **driver statement** from text and glossary
--   updated definitions for <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn>, <dfn data-info="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</dfn>, and <dfn data-info="Self-Organization: Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.">self-organization</dfn>
+-   updated definitions for <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn>, <dfn data-info="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</dfn>, and <dfn data-info="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</dfn>
 
 **Illustrations:**
 
@@ -2830,6 +2847,9 @@ For each principle we included a list of suggestions for things you can try. The
   <dt><a href="invite-change.html">Invite Change</a></dt>
   <dd><p>Clarify the reason for change and invite people to participate.</p></dd>
 
+  <dt><a href="involve-those-affected.html">Involve Those Affected</a></dt>
+  <dd><p>Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.</p></dd>
+
   <dt><a href="limit-work-in-progress.html">Limit Work in Progress</a></dt>
   <dd><p>Limit the number of work items in any stage of your work process.</p></dd>
 
@@ -2916,9 +2936,6 @@ For each principle we included a list of suggestions for things you can try. The
 
   <dt><a href="test-arguments-qualify-as-objections.html">Test Arguments Qualify as Objections</a></dt>
   <dd><p>Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.</p></dd>
-
-  <dt><a href="those-affected-decide.html">Those Affected Decide</a></dt>
-  <dd><p>Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.</p></dd>
 
   <dt><a href="timebox-activities.html">Timebox Activities</a></dt>
   <dd><p>Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.</p></dd>
@@ -3222,16 +3239,16 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Self-Governance:** People governing themselves within the constraints of a domain.
 
 
-**Self-Organization:** Any activity or process through which people organize their day-to-day work without the influence of an external agent, and within constraints defined through governance. In any organization or team, self-organization and external influence co-exist.
+**Self-Organization:** Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).
 
 
-**Semi-Autonomy:** The autonomy of people to create value within their domain, further limited by their own governance decisions, and objections (including those of the delegator and of representatives).
+**Semi-Autonomy:** The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.
 
 
 **Social Technology:** Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
 
 
-**Sociocracy:** A mindset where people affected by decisions can influence them on the basis of reasons to do so.
+**Sociocracy:** An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.
 
 
 **Sociocratic Circle-Organisation Method (SCM):** An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
