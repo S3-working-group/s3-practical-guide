@@ -1,7 +1,7 @@
 # Changelog
 
 
-## Changes 2021-02-05
+## Changes 2021-02-06
 
 -   Revised glossary definitions for Semi-Autonomy, Self-Organization,  Sociocracy
 -   Renamed Pattern: _Those Affected Decide_ to _Involve Those Affected_
