@@ -14,4 +14,4 @@ Patterns are modular and adaptable, can be used independently, and are mutually 
 
 In this guide, the patterns are grouped by topic into ten categories to help you more easily identify those that are useful to you:
 
-{{index:root=patterns,style=list,only=jekyll}}
+{{index:root=patterns,style=list}}
