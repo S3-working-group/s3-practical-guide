@@ -4,7 +4,7 @@
 ## Changes 2021-02-05
 
 -   Revised glossary definitions for Semi-Autonomy, Self-Organization,  Sociocracy
--   Renamed Pattern: Those Affected Decide_ to _Involve Those Affected_
+-   Renamed Pattern: _Those Affected Decide_ to _Involve Those Affected_
 
 ## Changes 2021-02-03
 
@@ -14,7 +14,7 @@
     -   [The Seven Principles](section:principles)
     -   [Key Concepts for Making Sense of Organizations](section:making-sense-of-organizations)
     -   [The Patterns](section:patterns)
-    -   [The Common Sense Framework ]
+    -   [The Common Sense Framework](section:csf)
     -   [Appendix](section:appendix)
 -   Redesigned the website for better usability: 
     -   A new responsive menu that provides direct access to all patterns and other sections of the guide
