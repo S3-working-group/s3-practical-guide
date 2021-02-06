@@ -52,8 +52,8 @@ presets:
 
     templates:
       # main website index.html, 404 and map
-      - source: content/website/_templates/index.md
-        destination: docs/index.md
+      - source: content/website/_templates/index.html
+        destination: docs/index.html
         mode: markdown
       - source: content/website/_templates/404.md
         destination: docs/404.md
