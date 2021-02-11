@@ -2505,7 +2505,7 @@ Essential patterns to help you achieve this:
 -   _Clarify and Develop Domains_ – When people understand their own areas of responsibility, and those of others too, they also understand where collaboration on dependencies will be necessary.
 -   _Visualize Work_ – Visualizing work items and the dependencies between them, makes it easier to manage dependencies in cooperation with the relevant stakeholders. 
 -   _Respond to Organizational Drivers_ Understanding why a dependency exists in the first place, and ensuring it is taken care of, is essential for collaborating on managing or resolving dependencies. 
--   _Those Affected Decide_ – To address dependencies in an effective way, it often helps to gather the perspectives of all (relevant) stakeholders and involve them in the decision making process.
+-   _Involve Those Affected_ – To address dependencies in an effective way, it often helps to gather the perspectives of all (relevant) stakeholders and involve them in the decision making process.
 -   _Linking_ – Dependencies between two teams can often be addressed effectively by sending a _Representative_ to the decision making of the other team, to ensure all relevant perspectives are considered and ownership of decisions is shared.
 -   _Delegate Circle_ – Delegating the power to make and evolve agreements for how to deal with specific dependencies between teams, to a circle of representatives, brings together relevant perspectives and generates ownership among stakeholders. 
 -   _Align Flow_ – Moving decision making close to where value is created, brings together the people necessary for making decisions in response to specific dependencies and eliminates unnecessary decision making bottlenecks.
