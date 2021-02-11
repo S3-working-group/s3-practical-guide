@@ -3,6 +3,9 @@ title: "Changelog"
 ---
 
 
+## Changes 2021-02-11
+
+* [Driver Mapping](driver-mapping.html): added explanation about applications of the pattern, and detailed instructions for each step of the format
 
 ## Changes 2021-02-06
 

@@ -96,7 +96,7 @@ title: "Alphabetical List Of All Patterns"
   <dd><p>Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.</p></dd>
 
   <dt><a href="driver-mapping.html">Driver Mapping</a></dt>
-  <dd></dd>
+  <dd><p>A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.</p></dd>
 
   <dt><a href="evaluate-and-evolve-agreements.html">Evaluate And Evolve Agreements</a></dt>
   <dd><p>Continuously evolve the body of agreements, and eliminate waste.</p></dd>
