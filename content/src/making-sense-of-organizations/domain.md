@@ -44,4 +44,4 @@ It's also possible to understand a domain in relation to organizational drivers:
 -   the domain's **primary driver** - the main driver the delegatee(s) respond to
 -  the set of subdrivers the organization may benefit from addressing when responding to the domain's primary driver, which include:
     -   **key responsibilities** (any driver following directly from the domain's primary driver)
--  **dependencies** and **external constraints** (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees' autonomy
+    -  **dependencies** and **external constraints** (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees' autonomy
