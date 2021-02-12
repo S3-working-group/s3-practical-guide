@@ -14,7 +14,7 @@ _Focus your daily work on value delivery._
 _Identify, prioritize and respond to impediments and opportunities._
 
 **Principle 5 – _Run Experiments** \
-Run experiments to address complex challenges._
+_Run experiments to address complex challenges._
 
 **Principle 6 – Enable Autonomy** \
 _Free individuals and teams up to create value as autonomously as possible._
