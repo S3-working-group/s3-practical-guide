@@ -38,3 +38,5 @@ exclude:      [
   "_python",
   "_templates",
   ]
+
+theme: jekyll-theme-minimal
