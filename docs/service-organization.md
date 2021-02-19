@@ -15,7 +15,7 @@ title: "Service Organization"
 ![Service Organization](img/structural-patterns/service-organization-text.png)
 
 <div class="bottom-nav">
-<a href="double-linked-hierarchy.html" title="Back to: Double-Linked Hierarchy">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="fractal-organization.html" title="">▶ Read next: Fractal Organization</a>
+<a href="double-linked-hierarchy.html" title="Back to: Double-Linked Hierarchy">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="fractal-organization.html" title="Read next: Fractal Organization">▶ Read next: Fractal Organization</a>
 </div>
 
 

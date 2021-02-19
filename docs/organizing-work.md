@@ -31,7 +31,7 @@ title: "Organizing Work"
 </dl>
 
 <div class="bottom-nav">
-<a href="governance-backlog.html" title="Back to: Governance Backlog">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="backlog.html" title="">▶ Read next: Backlog</a>
+<a href="governance-backlog.html" title="Back to: Governance Backlog">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="backlog.html" title="Read next: Backlog">▶ Read next: Backlog</a>
 </div>
 
 

@@ -47,7 +47,7 @@ I will discuss possible objections relating to S3 patterns in my intervision gro
 
 
 <div class="bottom-nav">
-<a href="disclaimer.html" title="Back to: Disclaimer">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="acknowledgments.html" title="">▶ Read next: Acknowledgments</a>
+<a href="disclaimer.html" title="Back to: Disclaimer">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="acknowledgments.html" title="Read next: Acknowledgments">▶ Read next: Acknowledgments</a>
 </div>
 
 

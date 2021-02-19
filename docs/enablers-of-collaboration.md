@@ -35,7 +35,7 @@ title: "Enablers of Collaboration"
 
 
 <div class="bottom-nav">
-<a href="development-plan.html" title="Back to: Development Plan">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="artful-participation.html" title="">▶ Read next: Artful Participation</a>
+<a href="development-plan.html" title="Back to: Development Plan">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="artful-participation.html" title="Read next: Artful Participation">▶ Read next: Artful Participation</a>
 </div>
 
 

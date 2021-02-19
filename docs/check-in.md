@@ -16,7 +16,7 @@ In a group check-in, allow people to pass if they choose.
 When checking in, in a new setting, people can also say their name and where they are coming from, as a way to introduce themselves. (Tip: Avoid talking about function, rank etc unless there is a reason to do so.)
 
 <div class="bottom-nav">
-<a href="prepare-for-meetings.html" title="Back to: Prepare For Meetings">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="evaluate-meetings.html" title="">▶ Read next: Evaluate Meetings</a>
+<a href="prepare-for-meetings.html" title="Back to: Prepare For Meetings">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="evaluate-meetings.html" title="Read next: Evaluate Meetings">▶ Read next: Evaluate Meetings</a>
 </div>
 
 

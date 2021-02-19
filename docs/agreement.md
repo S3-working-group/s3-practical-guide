@@ -15,7 +15,7 @@ An agreement can include **delegation of specific responsibilities** to individu
 
 
 <div class="bottom-nav">
-<a href="objection.html" title="Back to: Objections">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="governance.html" title="">▶ Read next: Governance and Operations</a>
+<a href="objection.html" title="Back to: Objections">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="governance.html" title="Read next: Governance and Operations">▶ Read next: Governance and Operations</a>
 </div>
 
 

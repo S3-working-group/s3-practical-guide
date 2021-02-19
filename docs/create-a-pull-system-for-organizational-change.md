@@ -14,7 +14,7 @@ Change things when there is value in doing so:
 
 
 <div class="bottom-nav">
-<a href="adapt-patterns-to-context.html" title="Back to: Adapt Patterns To Context">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="be-the-change.html" title="">▶ Read next: Be The Change</a>
+<a href="adapt-patterns-to-context.html" title="Back to: Adapt Patterns To Context">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="be-the-change.html" title="Read next: Be The Change">▶ Read next: Be The Change</a>
 </div>
 
 

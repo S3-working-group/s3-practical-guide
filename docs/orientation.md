@@ -9,7 +9,7 @@ title: "Two Principles for Orientation"
 
 
 <div class="bottom-nav">
-<a href="ten-principles.html" title="Back to: Ten Principles for Evolving Teams and Organizations">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="clarify-purpose.html" title="">▶ Read next: Principle 1 – Clarify Purpose</a>
+<a href="ten-principles.html" title="Back to: Ten Principles for Evolving Teams and Organizations">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="clarify-purpose.html" title="Read next: Principle 1 – Clarify Purpose">▶ Read next: Principle 1 – Clarify Purpose</a>
 </div>
 
 

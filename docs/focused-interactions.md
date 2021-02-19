@@ -23,7 +23,7 @@ title: "Focused Interactions"
 
 
 <div class="bottom-nav">
-<a href="logbook-keeper.html" title="Back to: Logbook Keeper">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="governance-meeting.html" title="">▶ Read next: Governance Meeting</a>
+<a href="logbook-keeper.html" title="Back to: Logbook Keeper">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="governance-meeting.html" title="Read next: Governance Meeting">▶ Read next: Governance Meeting</a>
 </div>
 
 

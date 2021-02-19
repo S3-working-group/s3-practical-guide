@@ -17,7 +17,7 @@ Consider selecting a facilitator for a specific term. Even an inexperienced faci
 
 
 <div class="bottom-nav">
-<a href="rounds.html" title="Back to: Rounds">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="prepare-for-meetings.html" title="">▶ Read next: Prepare For Meetings</a>
+<a href="rounds.html" title="Back to: Rounds">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="prepare-for-meetings.html" title="Read next: Prepare For Meetings">▶ Read next: Prepare For Meetings</a>
 </div>
 
 

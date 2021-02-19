@@ -16,7 +16,7 @@ External contractors consent to take on their role.
 **See also:** [Contract For Successful Collaboration](contract-for-successful-collaboration.html)
 
 <div class="bottom-nav">
-<a href="transparent-salary.html" title="Back to: Transparent Salary">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="bylaws.html" title="">▶ Read next: Bylaws</a>
+<a href="transparent-salary.html" title="Back to: Transparent Salary">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="bylaws.html" title="Read next: Bylaws">▶ Read next: Bylaws</a>
 </div>
 
 

@@ -29,7 +29,7 @@ title: "Meeting Practices"
 
 
 <div class="bottom-nav">
-<a href="coordination-meeting.html" title="Back to: Coordination Meeting">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="rounds.html" title="">▶ Read next: Rounds</a>
+<a href="coordination-meeting.html" title="Back to: Coordination Meeting">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="rounds.html" title="Read next: Rounds">▶ Read next: Rounds</a>
 </div>
 
 

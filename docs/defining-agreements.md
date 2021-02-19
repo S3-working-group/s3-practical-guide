@@ -39,7 +39,7 @@ S3 promotes a hypothesis-driven approach to decision making.
 
 
 <div class="bottom-nav">
-<a href="continuous-improvement-of-work-process.html" title="Back to: Continuous Improvement Of Work Process">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="record-agreements.html" title="">▶ Read next: Record Agreements</a>
+<a href="continuous-improvement-of-work-process.html" title="Back to: Continuous Improvement Of Work Process">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="record-agreements.html" title="Read next: Record Agreements">▶ Read next: Record Agreements</a>
 </div>
 
 

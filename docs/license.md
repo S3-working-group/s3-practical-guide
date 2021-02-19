@@ -31,7 +31,7 @@ You can find out more about attribution on the [Creative Commons page about best
 
 
 <div class="bottom-nav">
-<a href="links.html" title="Back to: Links">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="disclaimer.html" title="">▶ Read next: Disclaimer</a>
+<a href="links.html" title="Back to: Links">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="disclaimer.html" title="Read next: Disclaimer">▶ Read next: Disclaimer</a>
 </div>
 
 

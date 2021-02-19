@@ -13,7 +13,7 @@ The intended outcome can be used to define [Evaluation Criteria](evaluation-crit
 
 
 <div class="bottom-nav">
-<a href="clarify-and-develop-domains.html" title="Back to: Clarify and Develop Domains">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="describe-deliverables.html" title="">▶ Read next: Describe Deliverables</a>
+<a href="clarify-and-develop-domains.html" title="Back to: Clarify and Develop Domains">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="describe-deliverables.html" title="Read next: Describe Deliverables">▶ Read next: Describe Deliverables</a>
 </div>
 
 

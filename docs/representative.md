@@ -16,7 +16,7 @@ Representatives (a.k.a. links):
 
 
 <div class="bottom-nav">
-<a href="double-linking.html" title="Back to: Double Linking">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="helping-team.html" title="">▶ Read next: Helping Team</a>
+<a href="double-linking.html" title="Back to: Double Linking">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="helping-team.html" title="Read next: Helping Team">▶ Read next: Helping Team</a>
 </div>
 
 

@@ -15,7 +15,7 @@ Be accountable:
 
 
 <div class="bottom-nav">
-<a href="governance-facilitator.html" title="Back to: Governance Facilitator">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="contract-for-successful-collaboration.html" title="">▶ Read next: Contract For Successful Collaboration</a>
+<a href="governance-facilitator.html" title="Back to: Governance Facilitator">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="contract-for-successful-collaboration.html" title="Read next: Contract For Successful Collaboration">▶ Read next: Contract For Successful Collaboration</a>
 </div>
 
 

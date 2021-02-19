@@ -63,7 +63,7 @@ Evolution of organizational structure happens naturally when the flow of informa
 
 
 <div class="bottom-nav">
-<a href="history.html" title="Back to: Influences and History of Sociocracy 3.0">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="principles.html" title="">▶ Read next: The Seven Principles</a>
+<a href="history.html" title="Back to: Influences and History of Sociocracy 3.0">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="principles.html" title="Read next: The Seven Principles">▶ Read next: The Seven Principles</a>
 </div>
 
 

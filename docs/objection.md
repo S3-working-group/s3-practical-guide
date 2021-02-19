@@ -44,7 +44,7 @@ If in doubt about whether you have an objection or a concern, be proactive and c
 
 
 <div class="bottom-nav">
-<a href="domain.html" title="Back to: Domains">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="agreement.html" title="">▶ Read next: Agreements</a>
+<a href="domain.html" title="Back to: Domains">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="agreement.html" title="Read next: Agreements">▶ Read next: Agreements</a>
 </div>
 
 

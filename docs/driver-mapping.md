@@ -19,7 +19,7 @@ You can use Driver Mapping to:
 
 The outcome of a driver mapping workshop is typically:
 
--   a distribution of work, categorised in a number of domains, centred around the needs of stakeholders. 
+-   a distribution of work, categorized in a number of domains, centered around the needs of stakeholders. 
 -   a bespoke organizational structure that brings it all together, including interlinking domains for managing dependencies.
 -   a first draft of prioritized governance and operations backlogs for each identified subdomain.
 -   delegation of influence and the distribution of people to the subdomains through self-selection and nomination.
@@ -161,7 +161,7 @@ _Take a moment to celebrate your achievements in getting your organization or in
 	
 
 <div class="bottom-nav">
-<a href="role-selection.html" title="Back to: Role Selection">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="peer-development.html" title="">▶ Read next: Peer Development</a>
+<a href="role-selection.html" title="Back to: Role Selection">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="peer-development.html" title="Read next: Peer Development">▶ Read next: Peer Development</a>
 </div>
 
 

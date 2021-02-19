@@ -9,7 +9,7 @@ Greater autonomy of individuals and teams necessitates clear agreements (i.e. gu
 
 While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people's behavior and activity, often benefits from a more participatory and deliberate [decision making process](consent-decision-making.html).
 
-Such agreements need to be documented, both to remember them and to support effective [review](evaluate-and-evolve-agreements.html), and to be communicated to people affected (who are ideally also [involved in the creation and evolution](those-affected-decide.html) of those agreements).
+Such agreements need to be documented, both to remember them and to support effective [review](evaluate-and-evolve-agreements.html), and to be communicated to people affected (who are ideally also [involved in the creation and evolution](involve-those-affected.html) of those agreements).
 
 Therefore it's valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations:
 
@@ -44,7 +44,7 @@ Depending on the constraints set by the delegator, teams have more or less licen
 
 
 <div class="bottom-nav">
-<a href="agreement.html" title="Back to: Agreements">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="patterns.html" title="">▶ Read next: The Patterns</a>
+<a href="agreement.html" title="Back to: Agreements">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="patterns.html" title="Read next: The Patterns">▶ Read next: The Patterns</a>
 </div>
 
 

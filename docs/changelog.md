@@ -3,9 +3,14 @@ title: "Changelog"
 ---
 
 
+## Changes 2021-02-19
+
+-   fixed several broken links on the online version
+-   corrected a few typos
+
 ## Changes 2021-02-11
 
-* [Driver Mapping](driver-mapping.html): added explanation about applications of the pattern, and detailed instructions for each step of the format
+-   [Driver Mapping](driver-mapping.html): added explanation about applications of the pattern, and detailed instructions for each step of the format
 
 ## Changes 2021-02-06
 
@@ -59,9 +64,9 @@ title: "Changelog"
 ## Changes 2020-04-29
 
 -   Introduction: Added _Objection_ and _Agreement_ to concepts
--   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](arguments-qualify-as-objections.html)
+-   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)
 -   renamed pattern _Agreement_ to [Record Agreements](record-agreements.html)
--   [Test Arguments Qualify as Objections](arguments-qualify-as-objections.html): revised text and updated illustration
+-   [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html): revised text and updated illustration
 -   [Record Agreements](record-agreements.html): revised text, added more details of agreements that might be recorded, updated illustration
 
 
@@ -298,7 +303,7 @@ title: "Changelog"
 
 
 <div class="bottom-nav">
-<a href="appendix.html" title="Up: Appendix">▲</a> <a href="pattern-index.html" title="">▶ Read next: Alphabetical List Of All Patterns</a>
+<a href="appendix.html" title="Up: Appendix">▲</a> <a href="pattern-index.html" title="Read next: Alphabetical List Of All Patterns">▶ Read next: Alphabetical List Of All Patterns</a>
 </div>
 
 

@@ -14,7 +14,7 @@ Various other formats and languages of the practical guide can be found at <http
 **Follow us on twitter:** _@sociocracy30_
 
 <div class="bottom-nav">
-<a href="pattern-index.html" title="Back to: Alphabetical List Of All Patterns">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="license.html" title="">▶ Read next: License</a>
+<a href="pattern-index.html" title="Back to: Alphabetical List Of All Patterns">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="license.html" title="Read next: License">▶ Read next: License</a>
 </div>
 
 

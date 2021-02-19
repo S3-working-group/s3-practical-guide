@@ -44,7 +44,7 @@ title: "Co-Creation and Evolution"
 
 
 <div class="bottom-nav">
-<a href="patterns.html" title="Up: The Patterns">▲</a> <a href="respond-to-organizational-drivers.html" title="">▶ Read next: Respond to Organizational Drivers</a>
+<a href="patterns.html" title="Up: The Patterns">▲</a> <a href="respond-to-organizational-drivers.html" title="Read next: Respond to Organizational Drivers">▶ Read next: Respond to Organizational Drivers</a>
 </div>
 
 

@@ -20,7 +20,7 @@ Agenda items:
 
 
 <div class="bottom-nav">
-<a href="planning-and-review-meetings.html" title="Back to: Planning And Review Meetings">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="meeting-practices.html" title="">▶ Read next: Meeting Practices</a>
+<a href="planning-and-review-meetings.html" title="Back to: Planning And Review Meetings">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="meeting-practices.html" title="Read next: Meeting Practices">▶ Read next: Meeting Practices</a>
 </div>
 
 

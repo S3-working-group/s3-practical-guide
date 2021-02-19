@@ -24,7 +24,7 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 
 
 <div class="bottom-nav">
-<a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="domain.html" title="">▶ Read next: Domains</a>
+<a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="domain.html" title="Read next: Domains">▶ Read next: Domains</a>
 </div>
 
 

@@ -22,7 +22,7 @@ Besides in a face-to-face workshop, you can adapt this process for online meetin
 
 
 <div class="bottom-nav">
-<a href="involve-those-affected.html" title="Back to: Involve Those Affected">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="proposal-forming.html" title="">▶ Read next: Proposal Forming</a>
+<a href="involve-those-affected.html" title="Back to: Involve Those Affected">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="proposal-forming.html" title="Read next: Proposal Forming">▶ Read next: Proposal Forming</a>
 </div>
 
 

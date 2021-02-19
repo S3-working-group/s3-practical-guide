@@ -15,7 +15,7 @@ Sit in a circle, begin each round with a different person, and change direction 
 
 
 <div class="bottom-nav">
-<a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="facilitate-meetings.html" title="">▶ Read next: Facilitate Meetings</a>
+<a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="facilitate-meetings.html" title="Read next: Facilitate Meetings">▶ Read next: Facilitate Meetings</a>
 </div>
 
 

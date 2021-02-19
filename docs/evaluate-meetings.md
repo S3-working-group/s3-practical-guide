@@ -19,7 +19,7 @@ Short formats you can use:
 
 ## Evaluate Meetings: Long Format
 
-Ask everyone in a [round](round.html) to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
+Ask everyone in a [round](rounds.html) to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
 
 -   effectiveness and format
 -   facilitation and participation
@@ -30,7 +30,7 @@ Ask everyone in a [round](round.html) to reflect on any or all of the following 
 
 
 <div class="bottom-nav">
-<a href="check-in.html" title="Back to: Check In">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="meeting-host.html" title="">▶ Read next: Meeting Host</a>
+<a href="check-in.html" title="Back to: Check In">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="meeting-host.html" title="Read next: Meeting Host">▶ Read next: Meeting Host</a>
 </div>
 
 

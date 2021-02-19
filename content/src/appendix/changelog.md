@@ -2,7 +2,7 @@
 
 ## Changes 2021-02-19
 
--   fixed several broken links
+-   fixed several broken links on the online version
 -   corrected a few typos
 
 ## Changes 2021-02-11

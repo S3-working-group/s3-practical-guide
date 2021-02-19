@@ -17,7 +17,7 @@ Typically it's most effective to **take one objection at a time**, resolve all o
 
 
 <div class="bottom-nav">
-<a href="test-arguments-qualify-as-objections.html" title="Back to: Test Arguments Qualify as Objections">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="evaluate-and-evolve-agreements.html" title="">▶ Read next: Evaluate And Evolve Agreements</a>
+<a href="test-arguments-qualify-as-objections.html" title="Back to: Test Arguments Qualify as Objections">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="evaluate-and-evolve-agreements.html" title="Read next: Evaluate And Evolve Agreements">▶ Read next: Evaluate And Evolve Agreements</a>
 </div>
 
 

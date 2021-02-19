@@ -230,7 +230,7 @@ title: "Alphabetical List Of All Patterns"
 
 
 <div class="bottom-nav">
-<a href="changelog.html" title="Back to: Changelog">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="links.html" title="">▶ Read next: Links</a>
+<a href="changelog.html" title="Back to: Changelog">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="links.html" title="Read next: Links">▶ Read next: Links</a>
 </div>
 
 

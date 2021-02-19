@@ -10,7 +10,7 @@ No two items can be of equal importance, meaning it is necessary to agree on pri
 A prioritized <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</dfn> helps to **maintain focus** on the most important items.
 
 <div class="bottom-nav">
-<a href="backlog.html" title="Back to: Backlog">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="visualize-work.html" title="">▶ Read next: Visualize Work</a>
+<a href="backlog.html" title="Back to: Backlog">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="visualize-work.html" title="Read next: Visualize Work">▶ Read next: Visualize Work</a>
 </div>
 
 

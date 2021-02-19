@@ -23,7 +23,7 @@ After the session, review your notes and decide for yourself what you will do wi
 
 
 <div class="bottom-nav">
-<a href="ask-for-help.html" title="Back to: Ask For Help">◀</a> <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="peer-review.html" title="">▶ Read next: Peer Review</a>
+<a href="ask-for-help.html" title="Back to: Ask For Help">◀</a> <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="peer-review.html" title="Read next: Peer Review">▶ Read next: Peer Review</a>
 </div>
 
 

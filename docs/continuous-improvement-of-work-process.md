@@ -24,7 +24,7 @@ Establishing a process for the ongoing elimination of waste enables natural evol
 
 
 <div class="bottom-nav">
-<a href="open-space-for-change.html" title="Back to: Open Space For Change">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="defining-agreements.html" title="">▶ Read next: Defining Agreements</a>
+<a href="open-space-for-change.html" title="Back to: Open Space For Change">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="defining-agreements.html" title="Read next: Defining Agreements">▶ Read next: Defining Agreements</a>
 </div>
 
 

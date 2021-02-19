@@ -19,7 +19,7 @@ Strategies are validated and refined through experimentation and learning.
 
 
 <div class="bottom-nav">
-<a href="record-agreements.html" title="Back to: Record Agreements">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="clarify-and-develop-domains.html" title="">▶ Read next: Clarify and Develop Domains</a>
+<a href="record-agreements.html" title="Back to: Record Agreements">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="clarify-and-develop-domains.html" title="Read next: Clarify and Develop Domains">▶ Read next: Clarify and Develop Domains</a>
 </div>
 
 

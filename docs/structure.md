@@ -8,7 +8,7 @@ title: "Two Principles for Structure"
 
 
 <div class="bottom-nav">
-<a href="run-experiments.html" title="Back to: Principle 5 – Run Experiments">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="enable-autonomy.html" title="">▶ Read next: Principle 6 – Enable Autonomy</a>
+<a href="run-experiments.html" title="Back to: Principle 5 – Run Experiments">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="enable-autonomy.html" title="Read next: Principle 6 – Enable Autonomy">▶ Read next: Principle 6 – Enable Autonomy</a>
 </div>
 
 

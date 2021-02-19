@@ -26,7 +26,7 @@ title: "Ten Principles for Evolving Teams and Organizations"
 
 
 <div class="bottom-nav">
-<a href="thrive.html" title="Back to: An Organization Where BOTH the People and the Organization can Thrive">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="orientation.html" title="">▶ Read next: Two Principles for Orientation</a>
+<a href="thrive.html" title="Back to: An Organization Where BOTH the People and the Organization can Thrive">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="orientation.html" title="Read next: Two Principles for Orientation">▶ Read next: Two Principles for Orientation</a>
 </div>
 
 

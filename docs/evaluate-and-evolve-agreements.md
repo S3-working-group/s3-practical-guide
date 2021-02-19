@@ -46,7 +46,7 @@ Follow-up:
 
 
 <div class="bottom-nav">
-<a href="resolve-objections.html" title="Back to: Resolve Objections">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="involve-those-affected.html" title="">▶ Read next: Involve Those Affected</a>
+<a href="resolve-objections.html" title="Back to: Resolve Objections">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="involve-those-affected.html" title="Read next: Involve Those Affected">▶ Read next: Involve Those Affected</a>
 </div>
 
 

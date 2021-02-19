@@ -20,7 +20,7 @@ Share valuable adaptations with the S3 community.
 
 
 <div class="bottom-nav">
-<a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="create-a-pull-system-for-organizational-change.html" title="">▶ Read next: Create a Pull-System For Organizational Change</a>
+<a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="create-a-pull-system-for-organizational-change.html" title="Read next: Create a Pull-System For Organizational Change">▶ Read next: Create a Pull-System For Organizational Change</a>
 </div>
 
 

@@ -20,7 +20,7 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
 
 
 <div class="bottom-nav">
-<a href="how-does-s3-help.html" title="">▶ Read next: How does Sociocracy 3.0 help?</a>
+<a href="how-does-s3-help.html" title="Read next: How does Sociocracy 3.0 help?">▶ Read next: How does Sociocracy 3.0 help?</a>
 </div>
 
 

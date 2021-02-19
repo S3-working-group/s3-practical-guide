@@ -24,7 +24,7 @@ Even though several sections in this book are brief and may still be rough aroun
 
 
 <div class="bottom-nav">
-<a href="pattern.html" title="Back to: A pattern-based approach to organizational change">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="history.html" title="">▶ Read next: Influences and History of Sociocracy 3.0</a>
+<a href="pattern.html" title="Back to: A pattern-based approach to organizational change">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="history.html" title="Read next: Influences and History of Sociocracy 3.0">▶ Read next: Influences and History of Sociocracy 3.0</a>
 </div>
 
 

@@ -16,7 +16,7 @@ title: "Appendix"
 
 
 <div class="bottom-nav">
-<a href="where-to-start.html" title="Back to: Where to Start?">◀</a> <a href="changelog.html" title="">▶ Read next: Changelog</a>
+<a href="where-to-start.html" title="Back to: Where to Start?">◀</a> <a href="changelog.html" title="Read next: Changelog">▶ Read next: Changelog</a>
 </div>
 
 

@@ -29,7 +29,7 @@ In this guide, the patterns are grouped by topic into ten categories to help you
 
 
 <div class="bottom-nav">
-<a href="governance.html" title="Back to: Governance and Operations">◀</a> <a href="co-creation-and-evolution.html" title="">▶ Read next: Co-Creation and Evolution</a>
+<a href="governance.html" title="Back to: Governance and Operations">◀</a> <a href="co-creation-and-evolution.html" title="Read next: Co-Creation and Evolution">▶ Read next: Co-Creation and Evolution</a>
 </div>
 
 

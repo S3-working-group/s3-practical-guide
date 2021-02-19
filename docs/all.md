@@ -168,7 +168,7 @@ Evolution of organizational structure happens naturally when the flow of informa
 
 ## The Seven Principles
 
-Sociocracy 3.0 is built on seven foundational principles which enable sococratic and agile collaboration. Since the seven principles are reflected in all of the patterns, understanding these principles is helpful for adopting and paramount to adapting Sociocracy 3.0 patterns.
+Sociocracy 3.0 is built on seven foundational principles which enable sociocratic and agile collaboration. Since the seven principles are reflected in all of the patterns, understanding these principles is helpful for adopting and paramount to adapting Sociocracy 3.0 patterns.
 
 Practicing Sociocracy 3.0 helps people appreciate the essential value that these core principles bring – both to individuals and to organizations – and supports their integration into organizational culture.
 
@@ -751,7 +751,7 @@ You can use Driver Mapping to:
 
 The outcome of a driver mapping workshop is typically:
 
--   a distribution of work, categorised in a number of domains, centred around the needs of stakeholders. 
+-   a distribution of work, categorized in a number of domains, centered around the needs of stakeholders. 
 -   a bespoke organizational structure that brings it all together, including interlinking domains for managing dependencies.
 -   a first draft of prioritized governance and operations backlogs for each identified subdomain.
 -   delegation of influence and the distribution of people to the subdomains through self-selection and nomination.
@@ -959,9 +959,9 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 
 The development plan may be created for a person in a role, or for a team (e.g. a department, _circle_ or _open domain_).
 
-Development may happen in the form of refining the description of the _driver_ and the <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>, making amendments to <dfn data-info="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</dfn>, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
+Development may happen in the form of refining the _description of the driver_ and the <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>, making amendments to <dfn data-info="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</dfn>, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
 
-A development plan (and any accompanying recommendations for changes to the descriptions of the <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn> and the <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn>) requires consent from both the <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</dfn> and the <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn>.
+A development plan (and any accompanying recommendations for changes to the descriptions of the domain and the <dfn data-info="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</dfn>) requires consent from both the <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</dfn> and the <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn>.
 
 ![A template for development plans](img/templates/development-plan-template.png)
 
@@ -1349,7 +1349,7 @@ A delegator is accountable for conducting regular reviews to support effectivene
 Individuals, teams and entire organizations can acknowledge interdependence and intentionally invite people from outside their system to bring in **knowledge, experience and influence** to assist with decision making and support collective learning.
 
 -   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
--   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see _Those Affected Decide_)
+-   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see _Involve Those Affected _)
 
 
 ### Bringing in S3
@@ -1563,7 +1563,7 @@ People might do a great job of accounting for a domain in the way it’s designe
 
 ##### Clarify the domain of the whole organization
 
-All domains in an organization are nested within the overall domain of the organization, which can be designed deliberately in the early stages of the organization, or clarified retrospectively. An organization’s domain needs to enable the members of the organization to effectively fulfil its purpose and typically needs to be evolved over time.
+All domains in an organization are nested within the overall domain of the organization, which can be designed deliberately in the early stages of the organization, or clarified retrospectively. An organization’s domain needs to enable the members of the organization to effectively fulfill its purpose and typically needs to be evolved over time.
 
 Consider explicitly clarifying the organization’s overall domain if you discover that key stakeholders have differing understanding about it, or when changes to that domain need to be made. In order to do this it’s necessary to identify the overall delegator of the organization. 
 
@@ -1667,7 +1667,7 @@ Consider:
 -   Things essential for successfully accounting for the domain that only the delegator can do.
 -   Things that make the delegatees' life easier and are worthwhile including. 
 
-Describe the delegator’s responsibilities in specific and measurable terms, so that they can be reviewed and developed as required.
+Describe the delegator's responsibilities in specific and measurable terms, so that they can be reviewed and developed as required.
  
 
 ###### Key Metrics
@@ -1761,7 +1761,7 @@ Explicitly describing deliverables can be useful for improving communication and
 
 A logbook is a (digital) system to store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, and information is kept confidential only when there is good reason to do so.
 
-Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (e.g. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) or even [Trello](https://trello.com/).
+Common platforms for logbooks are Wikis (e.g. [DokuWiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (e.g. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) or even [Trello](https://trello.com/).
 
 ##### Logbook Contents
 
@@ -2261,7 +2261,7 @@ The center provides internal services to support the organization.
 
 **Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.**
 
-1. Shift governance decision making from individuals to teams by forming <dfn data-info="Self-Governance: People governing themselves within the constraints of a domain.">self-governing</dfn> <dfn data-info="Circle: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.">circles</dfn> on all levels of your organization.
+1. Shift governance decision making from individuals to teams by forming <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">self-governing</dfn> <dfn data-info="Circle: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.">circles</dfn> on all levels of your organization.
 2. Each circle's members select one of their group to represent their interests and participate in the <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn> decision making of the next higher circle, and vice versa.
 
 A double-linked hierarchy:
@@ -2335,7 +2335,7 @@ The second and third tier:
 
 We’re observing an emerging common sense that is transforming organizations around the world, inspiring and enabling people to build successful organizations where BOTH the people and the organization thrive.
 
-We have distilled the essence of this _common sense_ into a concise  framework for teams and organizations: The **Common Sense Framework (CSF)** is a tool for sensemaking, designed to help people address the challenges and opportunities they face. It supports building a shared understanding of the bigger picture, identifying and prioritizing areas of need within a team and throughout an organization, and understanding what to focus on next.
+We have distilled the essence of this _common sense_ into a concise  framework for teams and organizations: The **Common Sense Framework (CSF)** is a tool for sense-making, designed to help people address the challenges and opportunities they face. It supports building a shared understanding of the bigger picture, identifying and prioritizing areas of need within a team and throughout an organization, and understanding what to focus on next.
 
 We mapped the 10 principles that comprise the framework to the patterns in S3, so that you can use the CSF as a guide for identifying those patterns that help address your specific needs.
 
@@ -2351,7 +2351,7 @@ People face many challenges and opportunities in organizations and recognize the
 
 They need a simple way to build shared understanding about what is happening in their organization, and what needs to be done, so that they can effectively and sustainably respond to the impediments and opportunities they face.
 
-The **Common Sense Framework** (CSF) lays out the big picture of what to consider to grow and maintain organizations where BOTH the people and the organization can thrive, and suggests speciﬁc practices and tools that can help you to get there.
+The **Common Sense Framework** (CSF) lays out the big picture of what to consider to grow and maintain organizations where BOTH the people and the organization can thrive, and suggests specific practices and tools that can help you to get there.
 
 **Through 10 essential principles** that apply equally to individual teams, and the organization as a whole, evolve organizations that are:
 
@@ -2450,8 +2450,8 @@ Essential patterns to help you achieve this:
 -   _Continuous Improvement of Work Process_ – Getting in the habit of continuously seeking to improve the work process supports people's skill in identifying and acting on opportunities to improve.
 -   _Describe Organizational Drivers_ – Before responding to a perceived impediment or opportunity, it is essential to understand the current situation, and why it makes sense for the organization to respond
 -   _Governance Backlog_ – Keeping a prioritized list of all impediments and opportunities that require a governance decision to be made, keeps outstanding issues visible and clarifies what is most important to respond to first.
--   _Navigate via Tension_ – When everyone in the organization pays attention for situations that appear different to what is expected or desired, and brings that information to the attention of those responsible, you maximise the organization’s potential for identifying impediments and opportunities.
--   _Respond to Organizational Driver_ – Responding only to challenges and opportunities that are valuable for the organization,  maximises return on investment of  limited time, energy and resources.
+-   _Navigate via Tension_ – When everyone in the organization pays attention for situations that appear different to what is expected or desired, and brings that information to the attention of those responsible, you maximize the organization’s potential for identifying impediments and opportunities.
+-   _Respond to Organizational Driver_ – Responding only to challenges and opportunities that are valuable for the organization,  maximizes return on investment of  limited time, energy and resources.
 
 
 #### Principle 5 – Run Experiments
@@ -2563,7 +2563,7 @@ Essential patterns to help you achieve this:
 
 ![Ten Principles for Evolving Teams and Organizations](img/csf/csf-light.png)
 
-Each principle supports a speciﬁc outcome. To determine where to start in your organization or team, **take a look at the outcomes for each principle** (the text after “_so that_”) and reﬂect on where your greatest need lies at the moment. In any case, **check that you are clear enough on your organization’s or team’s purpose and strategy before you proceed**.
+Each principle supports a specific outcome. To determine where to start in your organization or team, **take a look at the outcomes for each principle** (the text after “_so that_”) and reflect on where your greatest need lies at the moment. In any case, **check that you are clear enough on your organization’s or team’s purpose and strategy before you proceed**.
 
 In the illustration below you can see that some of the principles are more closely related than others, which might further inform you of where to start.
 
@@ -2577,9 +2577,14 @@ For each principle we included a list of suggestions for things you can try. The
 
 ### Changelog
 
+#### Changes 2021-02-19
+
+-   fixed several broken links on the online version
+-   corrected a few typos
+
 #### Changes 2021-02-11
 
-* _Driver Mapping_: added explanation about applications of the pattern, and detailed instructions for each step of the format
+-   _Driver Mapping_: added explanation about applications of the pattern, and detailed instructions for each step of the format
 
 #### Changes 2021-02-06
 
@@ -3142,7 +3147,7 @@ You can find out more about attribution on the [Creative Commons page about best
 
 ### Disclaimer
 
-The information available in this guide may be used by any entity/organisation. Consequently, any entity/organisation may use, from the information and suggestions made available, those it finds useful, depending on the particularities of the activity carried out by that entity/organisation. For the avoidance of doubt, the authors of said information shall not be held liable, in any form whatsoever, in respect of the achievement of certain objectives and/or attainment of certain results by such entities/organisations further to the use of the information or any one or several of the suggestions made available in this guide.
+The information available in this guide may be used by any entity/organization. Consequently, any entity/organization may use, from the information and suggestions made available, those it finds useful, depending on the particularities of the activity carried out by that entity/organization. For the avoidance of doubt, the authors of said information shall not be held liable, in any form whatsoever, in respect of the achievement of certain objectives and/or attainment of certain results by such entities/organizations further to the use of the information or any one or several of the suggestions made available in this guide.
 
 
 ### The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)

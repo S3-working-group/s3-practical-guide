@@ -51,7 +51,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 
 <div class="bottom-nav">
-<a href="driver.html" title="Back to: Drivers">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="objection.html" title="">▶ Read next: Objections</a>
+<a href="driver.html" title="Back to: Drivers">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="objection.html" title="Read next: Objections">▶ Read next: Objections</a>
 </div>
 
 

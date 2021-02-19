@@ -9,11 +9,11 @@ title: "Principle 1 – Clarify Purpose"
 
 Essential Patterns to help you achieve this:
 
--   [Describe Organizational Drivers](describe-organizational-drivers.html.html) –  Understanding the motive for acting in response to a specific situation is an essential component for understanding, defining and communicating the purpose of an organization, a team or department.
+-   [Describe Organizational Drivers](describe-organizational-drivers.html) –  Understanding the motive for acting in response to a specific situation is an essential component for understanding, defining and communicating the purpose of an organization, a team or department.
 
 
 <div class="bottom-nav">
-<a href="orientation.html" title="Up: Two Principles for Orientation">▲</a> <a href="develop-strategy.html" title="">▶ Read next: Principle 2 – Develop Strategy</a>
+<a href="orientation.html" title="Up: Two Principles for Orientation">▲</a> <a href="develop-strategy.html" title="Read next: Principle 2 – Develop Strategy">▶ Read next: Principle 2 – Develop Strategy</a>
 </div>
 
 

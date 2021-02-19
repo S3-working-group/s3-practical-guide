@@ -10,7 +10,7 @@ People face many challenges and opportunities in organizations and recognize the
 
 They need a simple way to build shared understanding about what is happening in their organization, and what needs to be done, so that they can effectively and sustainably respond to the impediments and opportunities they face.
 
-The **Common Sense Framework** (CSF) lays out the big picture of what to consider to grow and maintain organizations where BOTH the people and the organization can thrive, and suggests speciﬁc practices and tools that can help you to get there.
+The **Common Sense Framework** (CSF) lays out the big picture of what to consider to grow and maintain organizations where BOTH the people and the organization can thrive, and suggests specific practices and tools that can help you to get there.
 
 **Through 10 essential principles** that apply equally to individual teams, and the organization as a whole, evolve organizations that are:
 
@@ -22,7 +22,7 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 
 
 <div class="bottom-nav">
-<a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="ten-principles.html" title="">▶ Read next: Ten Principles for Evolving Teams and Organizations</a>
+<a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="ten-principles.html" title="Read next: Ten Principles for Evolving Teams and Organizations">▶ Read next: Ten Principles for Evolving Teams and Organizations</a>
 </div>
 
 

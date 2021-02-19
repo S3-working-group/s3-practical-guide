@@ -16,7 +16,7 @@ A governance backlog contains:
 
 
 <div class="bottom-nav">
-<a href="meeting-host.html" title="Back to: Meeting Host">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="organizing-work.html" title="">▶ Read next: Organizing Work</a>
+<a href="meeting-host.html" title="Back to: Meeting Host">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="organizing-work.html" title="Read next: Organizing Work">▶ Read next: Organizing Work</a>
 </div>
 
 

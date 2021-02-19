@@ -8,7 +8,7 @@ title: "Three Principles for Transformation"
 
 
 <div class="bottom-nav">
-<a href="collaborate-on-dependencies.html" title="Back to: Principle 7 – Collaborate on Dependencies">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="invest-in-learning.html" title="">▶ Read next: Principle 8 – Invest in Learning</a>
+<a href="collaborate-on-dependencies.html" title="Back to: Principle 7 – Collaborate on Dependencies">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="invest-in-learning.html" title="Read next: Principle 8 – Invest in Learning">▶ Read next: Principle 8 – Invest in Learning</a>
 </div>
 
 

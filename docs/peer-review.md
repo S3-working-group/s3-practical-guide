@@ -26,7 +26,7 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 
 
 <div class="bottom-nav">
-<a href="peer-feedback.html" title="Back to: Peer Feedback">◀</a> <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="development-plan.html" title="">▶ Read next: Development Plan</a>
+<a href="peer-feedback.html" title="Back to: Peer Feedback">◀</a> <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="development-plan.html" title="Read next: Development Plan">▶ Read next: Development Plan</a>
 </div>
 
 

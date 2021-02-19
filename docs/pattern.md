@@ -26,7 +26,7 @@ By providing a menu of patterns to choose from according to need, S3 encourages 
 
 
 <div class="bottom-nav">
-<a href="how-does-s3-help.html" title="Back to: How does Sociocracy 3.0 help?">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="contents.html" title="">▶ Read next: What&#x27;s in this guide?</a>
+<a href="how-does-s3-help.html" title="Back to: How does Sociocracy 3.0 help?">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="contents.html" title="Read next: What&#x27;s in this guide?">▶ Read next: What&#x27;s in this guide?</a>
 </div>
 
 
