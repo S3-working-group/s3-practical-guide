@@ -8,7 +8,7 @@ title: "Principle 7 – Collaborate on Dependencies"
 
 Essential patterns to help you achieve this:
 
--   [Navigate via Tension](navigate-via-tension.html) – Everyone in the organization paying attention to dependencies maximises the potential for unmanaged dependencies to be identified and responded to.
+-   [Navigate via Tension](navigate-via-tension.html) – Everyone in the organization paying attention to dependencies maximizes the potential for unmanaged dependencies to be identified and responded to.
 -   [Clarify and Develop Domains](clarify-and-develop-domains.html) – When people understand their own areas of responsibility, and those of others too, they also understand where collaboration on dependencies will be necessary.
 -   [Visualize Work](visualize-work.html) – Visualizing work items and the dependencies between them, makes it easier to manage dependencies in cooperation with the relevant stakeholders. 
 -   [Respond to Organizational Drivers](respond-to-organizational-drivers.html) Understanding why a dependency exists in the first place, and ensuring it is taken care of, is essential for collaborating on managing or resolving dependencies. 

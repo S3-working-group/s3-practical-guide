@@ -2433,7 +2433,7 @@ Essential Patterns to help you achieve this:
 Essential patterns to help you achieve this:
 
 -   _Clarify and Develop Domains_ – Clarifying the area of influence, activity and decision making that a team, or person in a role is responsible for, enables them to understand the value they are expected to deliver.
--   _Respond to Organizational Drivers_ – Understanding what’s necessary to respond to and why, and ensuring those things are taken care of, maximises potential for creating value.
+-   _Respond to Organizational Drivers_ – Understanding what’s necessary to respond to and why, and ensuring those things are taken care of, maximizes potential for creating value.
 -   _Prioritize Backlogs_ –  When you prioritize your list of work items by value, it is obvious which ones need to be worked on first. 
 -   _Limit Work In Progress_ –  Limiting the number of concurrent work items for people and teams, helps to maintain a steady flow of value and encourages collaboration when work is blocked.
 -   _Daily Standup_ – A Daily Standup provides the space for a team to organize how they will create value during the day ahead
@@ -2501,7 +2501,7 @@ Essential patterns to help you achieve this:
 
 Essential patterns to help you achieve this:
 
--   _Navigate via Tension_ – Everyone in the organization paying attention to dependencies maximises the potential for unmanaged dependencies to be identified and responded to.
+-   _Navigate via Tension_ – Everyone in the organization paying attention to dependencies maximizes the potential for unmanaged dependencies to be identified and responded to.
 -   _Clarify and Develop Domains_ – When people understand their own areas of responsibility, and those of others too, they also understand where collaboration on dependencies will be necessary.
 -   _Visualize Work_ – Visualizing work items and the dependencies between them, makes it easier to manage dependencies in cooperation with the relevant stakeholders. 
 -   _Respond to Organizational Drivers_ Understanding why a dependency exists in the first place, and ensuring it is taken care of, is essential for collaborating on managing or resolving dependencies. 
