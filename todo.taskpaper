@@ -1,4 +1,8 @@
 Inbox:
+
+- fix source of pattern map (outdated link to enablers of co-creation) and merge updated templates (also in docs/includes) to language versions
+
+
 Link between language versions:
 	Images are broken in epub:
 		fix config.ebook.tex and makefile
@@ -6,18 +10,8 @@ Link between language versions:
 		- fix Dutch epub build
 		- fix French epub build
 		- fix German epub build
-Pattern Summaries, Tags, Dynamic Pattern Map:
-	Pattern Summaries:
-		We want  pattern summaries to show up in the alphabetical list of patterns.
-		- add summaries to pattern group pages @done
-		- tag all summaries with <summary> </summary> @done
-		- expand mdtools @done
-			- collect summaries @done
-			- expand definitions @done
-			- add to in-memory database @done
-			- dump to pattern index (maybe as definition list?) @done
-			- adapt CSS accordingly @done
-			- make sure all other renderers swallow the summary tag @done
+Indexes, Tags, Dynamic Pattern Map:
+
 		Dynamic Pattern map:
 			- render a clickable pattern map that contains summaries on mouserover
 			- add a filter (like on omnijs page) to search and filter for panels
