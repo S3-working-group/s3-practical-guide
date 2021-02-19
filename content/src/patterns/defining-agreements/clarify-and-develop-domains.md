@@ -48,7 +48,7 @@ People might do a great job of accounting for a domain in the way it’s designe
 
 ## Clarify the domain of the whole organization
 
-All domains in an organization are nested within the overall domain of the organization, which can be designed deliberately in the early stages of the organization, or clarified retrospectively. An organization’s domain needs to enable the members of the organization to effectively fulfil its purpose and typically needs to be evolved over time.
+All domains in an organization are nested within the overall domain of the organization, which can be designed deliberately in the early stages of the organization, or clarified retrospectively. An organization’s domain needs to enable the members of the organization to effectively fulfill its purpose and typically needs to be evolved over time.
 
 Consider explicitly clarifying the organization’s overall domain if you discover that key stakeholders have differing understanding about it, or when changes to that domain need to be made. In order to do this it’s necessary to identify the overall delegator of the organization. 
 
@@ -66,7 +66,7 @@ One way of clarifying an organization’s domain is by filling out an [S3 Organi
 
 Explain how the delegatee(s) will contribute to the overall purpose of the organization, by clarifying the specific organizational need they (will) take care of. 
 
-Describe the main organizational driver the delegatee(s) (will) respond to, for example using the pattern [Describe Organizational Drivers](section:describe- organizational-drivers).
+Describe the main organizational driver the delegatee(s) (will) respond to, for example using the pattern [Describe Organizational Drivers](section:describe-organizational-drivers).
 
 Aim for one or two sentences, so that the information is easy to remember and process.
 
@@ -152,7 +152,7 @@ Consider:
 -   Things essential for successfully accounting for the domain that only the delegator can do.
 -   Things that make the delegatees' life easier and are worthwhile including. 
 
-Describe the delegator’s responsibilities in specific and measurable terms, so that they can be reviewed and developed as required.
+Describe the delegator's responsibilities in specific and measurable terms, so that they can be reviewed and developed as required.
  
 
 ### Key Metrics
