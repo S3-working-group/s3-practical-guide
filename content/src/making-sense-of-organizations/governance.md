@@ -6,7 +6,7 @@ Greater autonomy of individuals and teams necessitates clear agreements (i.e. gu
 
 While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people's behavior and activity, often benefits from a more participatory and deliberate [decision making process](section:consent-decision-making).
 
-Such agreements need to be documented, both to remember them and to support effective [review](section:evaluate-and-evolve-agreements), and to be communicated to people affected (who are ideally also [involved in the creation and evolution](section:those-affected-decide) of those agreements).
+Such agreements need to be documented, both to remember them and to support effective [review](section:evaluate-and-evolve-agreements), and to be communicated to people affected (who are ideally also [involved in the creation and evolution](section:involve-those-affected) of those agreements).
 
 Therefore it's valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations:
 

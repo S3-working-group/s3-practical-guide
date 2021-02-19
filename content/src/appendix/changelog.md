@@ -56,9 +56,9 @@
 ## Changes 2020-04-29
 
 -   Introduction: Added _Objection_ and _Agreement_ to concepts
--   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](section:arguments-qualify-as-objections)
+-   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)
 -   renamed pattern _Agreement_ to [Record Agreements](section:record-agreements)
--   [Test Arguments Qualify as Objections](section:arguments-qualify-as-objections): revised text and updated illustration
+-   [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections): revised text and updated illustration
 -   [Record Agreements](section:record-agreements): revised text, added more details of agreements that might be recorded, updated illustration
 
 
