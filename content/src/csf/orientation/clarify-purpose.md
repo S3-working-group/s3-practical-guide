@@ -8,4 +8,4 @@
 
 Essential Patterns to help you achieve this:
 
--   [Describe Organizational Drivers](section:describe-organizational-drivers.html) –  Understanding the motive for acting in response to a specific situation is an essential component for understanding, defining and communicating the purpose of an organization, a team or department.
+-   [Describe Organizational Drivers](section:describe-organizational-drivers) –  Understanding the motive for acting in response to a specific situation is an essential component for understanding, defining and communicating the purpose of an organization, a team or department.
