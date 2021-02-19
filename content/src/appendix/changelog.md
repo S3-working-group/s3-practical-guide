@@ -1,8 +1,13 @@
 # Changelog
 
+## Changes 2021-02-19
+
+-   fixed several broken links
+-   corrected a few typos
+
 ## Changes 2021-02-11
 
-* [Driver Mapping](section:driver-mapping): added explanation about applications of the pattern, and detailed instructions for each step of the format
+-   [Driver Mapping](section:driver-mapping): added explanation about applications of the pattern, and detailed instructions for each step of the format
 
 ## Changes 2021-02-06
 
