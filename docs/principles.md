@@ -9,19 +9,19 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 ![The Seven Principles](img/framework/s3-principles-plain.png)
 
-**The Principle of Effectiveness:** *Devote time only to what brings you closer toward achieving your objectives.*
+**The Principle of Effectiveness:** *Devote time only to what brings you closer towards achieving your organization’s overall objectives,* so that you can make the best use of your limited time, energy and resources.
 
-**The Principle of Consent:** *Raise, seek out and resolve objections to decisions and actions.*
+**The Principle of Consent:** *Raise, seek out and resolve objections to decisions and actions,* so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
 
-**The Principle of Empiricism:** *Test all assumptions you rely on, through experiments and continuous revision.*
+**The Principle of Empiricism:** *Test all assumptions you rely on, through experiments and continuous revision,* so that you learn fast, make sense of things and navigate complexity as effectively as you can.
 
-**The Principle of Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
+**The Principle of Continuous Improvement:** *Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn,* so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.
 
-**The Principle of Equivalence:** *Involve people in making and evolving decisions that affect them.*
+**The Principle of Equivalence:** *Involve people in making and evolving decisions that affect them,* so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
 
-**The Principle of Transparency:** *Record all information that is valuable for the organization, and make it accessible to everyone, unless there is a reason for confidentiality.*
+**The Principle of Transparency:** *Record all information that is valuable for the organization, and make it accessible to everyone in the organization, unless there is a reason for confidentiality,* so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.
 
-**The Principle of Accountability:** *Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
+**The Principle of Accountability:** *Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,* so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
 
 
 <div class="bottom-nav">

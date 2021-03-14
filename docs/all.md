@@ -174,19 +174,19 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 ![The Seven Principles](img/framework/s3-principles-plain.png)
 
-**The Principle of Effectiveness:** *Devote time only to what brings you closer toward achieving your objectives.*
+**The Principle of Effectiveness:** *Devote time only to what brings you closer towards achieving your organization’s overall objectives,* so that you can make the best use of your limited time, energy and resources.
 
-**The Principle of Consent:** *Raise, seek out and resolve objections to decisions and actions.*
+**The Principle of Consent:** *Raise, seek out and resolve objections to decisions and actions,* so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
 
-**The Principle of Empiricism:** *Test all assumptions you rely on, through experiments and continuous revision.*
+**The Principle of Empiricism:** *Test all assumptions you rely on, through experiments and continuous revision,* so that you learn fast, make sense of things and navigate complexity as effectively as you can.
 
-**The Principle of Continuous Improvement:** *Change incrementally to accommodate steady empirical learning.*
+**The Principle of Continuous Improvement:** *Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn,* so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.
 
-**The Principle of Equivalence:** *Involve people in making and evolving decisions that affect them.*
+**The Principle of Equivalence:** *Involve people in making and evolving decisions that affect them,* so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
 
-**The Principle of Transparency:** *Record all information that is valuable for the organization, and make it accessible to everyone, unless there is a reason for confidentiality.*
+**The Principle of Transparency:** *Record all information that is valuable for the organization, and make it accessible to everyone in the organization, unless there is a reason for confidentiality,* so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.
 
-**The Principle of Accountability:** *Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.*
+**The Principle of Accountability:** *Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,* so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
 
 
 ## Key Concepts for Making Sense of Organizations
@@ -2577,6 +2577,10 @@ For each principle we included a list of suggestions for things you can try. The
 
 ### Changelog
 
+#### Changes 2021-03-15
+
+-   updated the Seven Principles
+
 #### Changes 2021-02-19
 
 -   fixed several broken links on the online version
@@ -3257,7 +3261,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Account for (v.):** to take the responsibility for something.
 
 
-**Accountability (principle):** Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.
+**Accountability (principle):** *Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,* so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
 
 
 **Agreement:** An agreed upon guideline, process, protocol or policy designed to guide the flow of value.
@@ -3284,13 +3288,13 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Concern:** An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
 
 
-**Consent (principle):** Raise, seek out and resolve objections to decisions and actions.
+**Consent (principle):** *Raise, seek out and resolve objections to decisions and actions,* so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
 
 
 **Constituent:** A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.
 
 
-**Continuous Improvement (principle):** Change incrementally to accommodate steady empirical learning.
+**Continuous Improvement (principle):** *Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn,* so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.
 
 
 **Coordination:** The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
@@ -3314,13 +3318,13 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Driver:** A person’s or a group's motive for responding to a specific situation.
 
 
-**Effectiveness (principle):** Devote time only to what brings you closer toward achieving your objectives.
+**Effectiveness (principle):** *Devote time only to what brings you closer towards achieving your organization’s overall objectives,* so that you can make the best use of your limited time, energy and resources.
 
 
-**Empiricism (principle):** Test all assumptions you rely on, through experiments and continuous revision.
+**Empiricism (principle):** *Test all assumptions you rely on, through experiments and continuous revision,* so that you learn fast, make sense of things and navigate complexity as effectively as you can.
 
 
-**Equivalence (principle):** Involve people in making and evolving decisions that affect them.
+**Equivalence (principle):** *Involve people in making and evolving decisions that affect them,* so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
 
 
 **Evolve (v.):** to develop gradually.
@@ -3434,7 +3438,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Timebox:** A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).
 
 
-**Transparency (principle):** Record all information that is valuable for the organization, and make it accessible to everyone, unless there is a reason for confidentiality.
+**Transparency (principle):** *Record all information that is valuable for the organization, and make it accessible to everyone in the organization, unless there is a reason for confidentiality,* so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.
 
 
 **Value:** The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").

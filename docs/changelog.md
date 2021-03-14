@@ -3,6 +3,10 @@ title: "Changelog"
 ---
 
 
+## Changes 2021-03-15
+
+-   updated the Seven Principles
+
 ## Changes 2021-02-19
 
 -   fixed several broken links on the online version
