@@ -13,7 +13,7 @@ terms:
   accountability:
     name: Accountability (principle)
     definition:
-    glossary: Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.
+    glossary: "*Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,* so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization."
   account:
     name: Account for (v.)
     glossary: to take the responsibility for something.
@@ -49,7 +49,7 @@ terms:
   consent:
     name: Consent (principle)
     definition:
-    glossary: Raise, seek out and resolve objections to decisions and actions.
+    glossary: "*Raise, seek out and resolve objections to decisions and actions,* so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve."
   constituent:
     name: Constituent
     definition:
@@ -57,7 +57,7 @@ terms:
   continuous-improvement:
     name: Continuous Improvement (principle)
     definition:
-    glossary: Change incrementally to accommodate steady empirical learning.
+    glossary: "*Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn,* so that you can adapt to changes when necessary, and maintain or improve effectiveness over time."
   coordination:
     name: Coordination
     definition:
@@ -86,16 +86,16 @@ terms:
     glossary: A person’s or a group's motive for responding to a specific situation.
   effectiveness:
     name: Effectiveness (principle)
-    definition: Devote time only to what brings you closer toward achieving your objectives.
-    glossary: Devote time only to what brings you closer toward achieving your objectives.
+    definition:
+    glossary: "*Devote time only to what brings you closer towards achieving your organization’s overall objectives,* so that you can make the best use of your limited time, energy and resources."
   empiricism:
     name: Empiricism (principle)
     definition:
-    glossary: Test all assumptions you rely on, through experiments and continuous revision.
+    glossary: "*Test all assumptions you rely on, through experiments and continuous revision,* so that you learn fast, make sense of things and navigate complexity as effectively as you can."
   equivalence:
     name: Equivalence (principle)
     definition:
-    glossary: Involve people in making and evolving decisions that affect them.
+    glossary: "*Involve people in making and evolving decisions that affect them,* so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives."
   evolve:
     name: Evolve (v.)
     glossary: to develop gradually.
@@ -242,7 +242,7 @@ terms:
   transparency:
     name: Transparency (principle)
     definition:
-    glossary: Record all information that is valuable for the organization, and make it accessible to everyone, unless there is a reason for confidentiality.
+    glossary: "*Record all information that is valuable for the organization, and make it accessible to everyone in the organization, unless there is a reason for confidentiality,* so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole."
   value:
     name: Value
     definition: "**Value** is the importance, worth or usefulness of something in relation to a driver."
