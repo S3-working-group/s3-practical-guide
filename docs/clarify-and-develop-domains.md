@@ -60,7 +60,11 @@ Regularly evaluate the organization’s domain to support those responsible for 
 One way of clarifying an organization’s domain is by filling out an [S3 Organization Canvas](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
 
 
-## Useful aspects to clarify in a Domain Description
+## Useful aspects to clarify in a domain description
+
+All of the following elements are important to consider when clarifying a domain. Depending on your situation and where you are in the lifecycle of the domain, you might be able to describe each of them more or less clearly. Regularly evaluate, test assumptions and make things clearer as you learn. 
+
+![Template for a domain description](img/templates/domain-description-template.png)
 
 
 ### Primary Driver
@@ -158,7 +162,7 @@ Describe the delegator's responsibilities in specific and measurable terms, so t
 
 ### Key Metrics
 
-Key <dfn data-info="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">Metrics</dfn> are critical indicators of progress. They relate to the primary driver (and/or purpose), key responsibilities, challenges, deliverables, and delegator responsibilities defined for this domain. 
+Key <dfn data-info="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">Metrics</dfn> are statistics that serve as critical indicators of progress, project health or performance. They relate to the primary driver (and/or purpose), key responsibilities, challenges, deliverables, and delegator responsibilities defined for this domain. 
 
 Key Metrics are monitored and assessed frequently. They are relevant criteria for evaluating outcomes and success in scheduled reviews (see “Evaluation” below).
 
@@ -167,11 +171,9 @@ For each metric, consider the actual numbers that are monitored, as well as the 
 Aim to define simple and specific metrics that you can take regularly (preferably daily).
 
 
-### Evaluation
+### Monitoring and Evaluation
 
 Regularly evaluate the outcome resulting from activity in this domain and use what you learn to improve creation of value.
-
-Describe when and how evaluations take place and who should be involved. 
 
 In the evaluation, ensure you consider the following aspects:
 
@@ -184,8 +186,8 @@ In the evaluation, ensure you consider the following aspects:
 
 Define:
 
--   A schedule or frequency for reviews. 
--   Additional helpful evaluation criteria in addition the key metrics.
+-   A schedule or frequency for evaluations. 
+-   Other helpful evaluation criteria in addition the key metrics.
 -   Any other relevant aspects to consider for the evaluation. 
 -   Who should take part in the evaluation.
 -   A process for evaluation (e.g. [Peer Review](peer-review.html)).

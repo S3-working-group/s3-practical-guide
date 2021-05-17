@@ -436,6 +436,8 @@ _Would it help the organization if we respond to this driver? Or would it lead t
 
 To **discover drivers**, investigate what stimulates tension, and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
 
+When passing on a driver to another domain, it is often enough to communicate what is happening and why you think it matters (the effect on the organization). Let those responsible think about what's needed.
+
 ![Navigate via Tension, Describe Organizational Drivers, Respond To Organizational Drivers](img/process/navigate-describe-respond.png)
 
 
@@ -1574,7 +1576,11 @@ Regularly evaluate the organization’s domain to support those responsible for 
 One way of clarifying an organization’s domain is by filling out an [S3 Organization Canvas](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
 
 
-##### Useful aspects to clarify in a Domain Description
+##### Useful aspects to clarify in a domain description
+
+All of the following elements are important to consider when clarifying a domain. Depending on your situation and where you are in the lifecycle of the domain, you might be able to describe each of them more or less clearly. Regularly evaluate, test assumptions and make things clearer as you learn. 
+
+![Template for a domain description](img/templates/domain-description-template.png)
 
 
 ###### Primary Driver
@@ -1672,7 +1678,7 @@ Describe the delegator's responsibilities in specific and measurable terms, so t
 
 ###### Key Metrics
 
-Key <dfn data-info="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">Metrics</dfn> are critical indicators of progress. They relate to the primary driver (and/or purpose), key responsibilities, challenges, deliverables, and delegator responsibilities defined for this domain. 
+Key <dfn data-info="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">Metrics</dfn> are statistics that serve as critical indicators of progress, project health or performance. They relate to the primary driver (and/or purpose), key responsibilities, challenges, deliverables, and delegator responsibilities defined for this domain. 
 
 Key Metrics are monitored and assessed frequently. They are relevant criteria for evaluating outcomes and success in scheduled reviews (see “Evaluation” below).
 
@@ -1681,11 +1687,9 @@ For each metric, consider the actual numbers that are monitored, as well as the 
 Aim to define simple and specific metrics that you can take regularly (preferably daily).
 
 
-###### Evaluation
+###### Monitoring and Evaluation
 
 Regularly evaluate the outcome resulting from activity in this domain and use what you learn to improve creation of value.
-
-Describe when and how evaluations take place and who should be involved. 
 
 In the evaluation, ensure you consider the following aspects:
 
@@ -1698,8 +1702,8 @@ In the evaluation, ensure you consider the following aspects:
 
 Define:
 
--   A schedule or frequency for reviews. 
--   Additional helpful evaluation criteria in addition the key metrics.
+-   A schedule or frequency for evaluations. 
+-   Other helpful evaluation criteria in addition the key metrics.
 -   Any other relevant aspects to consider for the evaluation. 
 -   Who should take part in the evaluation.
 -   A process for evaluation (e.g. _Peer Review_).
@@ -2576,6 +2580,12 @@ For each principle we included a list of suggestions for things you can try. The
 
 
 ### Changelog
+
+
+#### Changes 2021-05-15
+
+-   _Navigate via Tension_: added more explanation about passing on drivers to another domain
+-   _Clarify and Develop Domains_: more explanation about refining the elements of a domain description, more information about metricx, monitoring and evaluation, added template illustration, 
 
 #### Changes 2021-03-15
 
