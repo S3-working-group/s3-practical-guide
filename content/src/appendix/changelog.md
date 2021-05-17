@@ -1,5 +1,11 @@
 # Changelog
 
+
+## Changes 2021-05-15
+
+-   [Navigate via Tension](section:navigate-via-tension): added more explanation about passing on drivers to another domain
+-   [Clarify and Develop Domains](section:clarify-and-develop-domains): more explanation about refining the elements of a domain description, more information about metricx, monitoring and evaluation, added template illustration, 
+
 ## Changes 2021-03-15
 
 -   updated the Seven Principles
