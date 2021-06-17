@@ -8,17 +8,29 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 ![The Seven Principles](img/framework/s3-principles-plain.png)
 
-**The Principle of Effectiveness:** {{glossary:effectiveness}}
+**The Principle of Effectiveness:** 
 
-**The Principle of Consent:** {{glossary:consent}}
+_{{glossary:effectiveness}}_
 
-**The Principle of Empiricism:** {{glossary:empiricism}}
+**The Principle of Consent:**
 
-**The Principle of Continuous Improvement:** {{glossary:continuous-improvement}}
+_{{glossary:consent}}_
 
-**The Principle of Equivalence:** {{glossary:equivalence}}
+**The Principle of Empiricism:** 
 
-**The Principle of Transparency:** {{glossary:transparency}}
+_{{glossary:empiricism}}_
+
+**The Principle of Continuous Improvement:**
+
+_{{glossary:continuous-improvement}}_
+
+**The Principle of Equivalence:**
+
+_{{glossary:equivalence}}_
+
+**The Principle of Transparency:** 
+
+_{{glossary:transparency}}_
 
 **The Principle of Accountability:** 
 
