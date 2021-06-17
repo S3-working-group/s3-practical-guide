@@ -121,7 +121,7 @@ _Organize the work that lies ahead in each domain, ensure things are prioritized
 
 -   For each domain, copy the template below to a flip chart
 -   Sort all remaining needs into the two backlogs on the flip chart:
-    -   operations backlog: needs that can be acted
+    -   operations backlog: needs that can be acted on
     -   governance backlog: needs that would benefit from or necessitate a decision
 -   Combine and rephrase cards as necessary, so that description on each card is clear. Consult the author of the card when in doubt.
 -   Prioritize the cards in each board.
@@ -130,7 +130,7 @@ _Organize the work that lies ahead in each domain, ensure things are prioritized
 -   Pass on cards that appear to be the accountability of another domain to address.
 -   Add cards concerning multiple domains to a dedicated backlog to address later.
 
-_As a facilitator of the driver mapping process, provide a space to collect cards concerning multiple domains so that they can be addressed later. _
+_As a facilitator of the driver mapping process, provide a space to collect cards concerning multiple domains so that they can be addressed later._
 
 Regularly pause to share reports between the various domains. Note: Some domains might dissolve, change or merge with others.
 

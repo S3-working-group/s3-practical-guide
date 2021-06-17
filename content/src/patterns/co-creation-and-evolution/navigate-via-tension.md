@@ -10,6 +10,6 @@
 
 To **discover drivers**, investigate what stimulates tension, and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
 
-When passing on a driver to another domain, it is often enough to communicate what is happening and why you think it matters (the effect on the organization). Let those responsible think about what's needed.
+When passing on a driver to another domain, it is often enough to communicate what is happening and why you think it matters (the effect on the organization). Let those responsible think about what's needed and what to do about it.
 
 ![Navigate via Tension, Describe Organizational Drivers, Respond To Organizational Drivers](img/process/navigate-describe-respond.png)
