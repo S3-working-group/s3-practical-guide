@@ -2,14 +2,13 @@
 
 _{{glossary:consent}}_
 
-
 Raise, seek out and resolve objections to decisions and actions, so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
 
 Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions and activity through the lens of different people’s perspectives helps to identify reasons why a decision or activity could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
 
 Adopting the principle of consent invites a change of focus in decision making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough or that there are worthwhile ways to improve? 
 
-Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. Instead it’s useful to make decisions that, over time, free people up as much as possible to decide and act to create value by themselves. It does however require adequate transparency and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see equivalence).
+Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. Instead it’s useful to make decisions that, over time, free people up as much as possible to decide and act to create value by themselves. It does however require adequate [transparency](section:principle-transparency) and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see [the Principle of Equivalence](section:principle-equivalence)).
 
 ## Invite dissent
 
@@ -25,7 +24,7 @@ When a group or organization adopts the principle of consent, supremacy shifts f
 
 ## Distinguish between opinion or preference, and objections
 
-Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible [objections], but also by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid (objections). So it’s typically a good idea to [Test Arguments Qualify as Objections] and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias. 
+Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible [objections](section:objection), but also by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it’s typically a good idea to [test arguments qualify as objections](section:test-arguments-qualify-as-objections) and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias. 
 
 Arguments that qualify as objections — at least as far as stakeholders can tell — help a group in directing their effort toward making changes in those areas where it’s necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
 
@@ -33,7 +32,7 @@ Adopting the principle of consent shifts the aim of decision making towards iden
 
 ## Integrate learning from objections
 
-Objections inform people of things that can be improved. [Resolving objections] typically means evolving (proposed) agreements and changing activity in ways that render that argument void. Sometimes however, there might be a reason why there is more to be gained from leaving things unchanged despite the existence of a valid objection. Ultimately, resolving objections involves weighing up pros and cons of any decision, both in relation to the specific situation a decision is intended to address, but also in the context of the organization as a whole. In complexity there are typically no perfect or entirely correct decisions, only those that (for now at least) appear good enough for now and safe enough to try. Often all that is needed is a good enough next step which allows us to learn empirically and adapt and evolve the decision over time.
+Objections inform people of things that can be improved. [Resolving objections](section:resolve-objections) typically means evolving (proposed) agreements and changing activity in ways that render that argument void. Sometimes however, there might be a reason why there is more to be gained from leaving things unchanged despite the existence of a valid objection. Ultimately, resolving objections involves weighing up pros and cons of any decision, both in relation to the specific situation a decision is intended to address, but also in the context of the organization as a whole. In complexity there are typically no perfect or entirely correct decisions, only those that (for now at least) appear good enough for now and safe enough to try. Often all that is needed is a good enough next step which allows us to learn empirically and adapt and evolve the decision over time.
 
 This facilitation of natural and incremental learning draws on the diversity of knowledge, experience and expertise distributed throughout an organization. It helps to shift from a paradigm rooted in binary thinking and polarization (either/or) to a continual process of synergy (both/and), which over time fosters stronger relationships between peers as well.
 
