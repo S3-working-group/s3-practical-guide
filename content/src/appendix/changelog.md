@@ -1,5 +1,13 @@
 # Changelog
 
+## Changes 2021-06-18
+
+-   added a dedicatec chapter for each of the Seven Principles
+-   updated section about governance in the introduction
+    -   added more text to explain how governance can be distributed throughout the organization
+    -   more examples for governance decisions   
+-   corrected a few typos
+-   several small revisions
 
 ## Changes 2021-05-15
 
