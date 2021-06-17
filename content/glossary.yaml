@@ -242,7 +242,7 @@ terms:
   transparency:
     name: Transparency (principle)
     definition:
-    glossary: "*Record all information that is valuable for the organization, and make it accessible to everyone in the organization, unless there is a reason for confidentiality,* so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole."
+    glossary: "*Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality,* so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole."
   value:
     name: Value
     definition: "**Value** is the importance, worth or usefulness of something in relation to a driver."

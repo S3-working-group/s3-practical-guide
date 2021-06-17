@@ -11,8 +11,14 @@ parts:
       - history
       - why-30
   - id: principles
-  #  parts:
-  #     - principle-accountability
+    parts:
+       - principle-accountability
+       - principle-consent
+       - principle-continuous-improvement
+       - principle-effectiveness
+       - principle-empiricism
+       - principle-equivalence
+       - principle-transparency
   - id: making-sense-of-organizations
     parts:
       - driver
