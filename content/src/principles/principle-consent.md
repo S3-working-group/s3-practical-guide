@@ -1,6 +1,6 @@
 # The Principle of Consent
 
-*{{glossary:consent}}*
+_{{glossary:consent}}_
 
 
 Raise, seek out and resolve objections to decisions and actions, so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.

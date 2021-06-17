@@ -20,4 +20,6 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 **The Principle of Transparency:** {{glossary:transparency}}
 
-**The Principle of Accountability:** {{glossary:accountability}}
+**The Principle of Accountability:** 
+
+_{{glossary:accountability}}_

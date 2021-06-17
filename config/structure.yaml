@@ -12,13 +12,13 @@ parts:
       - why-30
   - id: principles
     parts:
-       - principle-accountability
-       - principle-consent
-       - principle-continuous-improvement
        - principle-effectiveness
+       - principle-consent
        - principle-empiricism
+       - principle-continuous-improvement
        - principle-equivalence
        - principle-transparency
+       - principle-accountability
   - id: making-sense-of-organizations
     parts:
       - driver

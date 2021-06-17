@@ -1,6 +1,6 @@
 # The Principle of Effectiveness: 
 
-*{{glossary:effectiveness}}*
+_{{glossary:effectiveness}}_
 
 
 Devote time only to what brings you closer toward achieving your organization’s overall objectives, so that you can make the best use of your limited time, energy and resources.

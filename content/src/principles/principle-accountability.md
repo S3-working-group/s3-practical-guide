@@ -1,6 +1,6 @@
-# The Principle of Accountability:
+# The Principle of Accountability
 
-*{{glossary:accountability}}*
+_{{glossary:accountability}}_
 
 Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization, so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
 
@@ -35,9 +35,9 @@ The principle of accountability applies to everyone. It promotes a shift from be
 
 Merely clarifying what people can and cannot do is not enough to encourage a culture where accountability is embraced. In fact, alone, this can have the opposite effect. To increase the level of self-accountability in an organization there are various factors that can help:
 
--   **Involvement**: the more that people are able to influence decisions that affect them, the greater their sense of ownership will be, and the greater the likelihood that they will share a sense of accountability for the results (see also: [The Principle of Equivalence](section:the-principle-of-equivalence))
--   **Access to information**: when people have the opportunity to find out what is going on in the organization and why certain decisions are made, they can figure out how they can best contribute to the whole and be an active and artful member of the organization (see also: [The Principle of Transparency](section:the-principle-of-transparency))
--   **Safety to disagree**: when people are free to express their opinions and learn how to listen and disagree in constructive ways, the organization can rely on a broader scope of perspectives, experiences and expertise, and people will feel more psychologically safe and in control. (see also: [The Principle of Consent](section:the-principle-of-consent))
+-   **Involvement**: the more that people are able to influence decisions that affect them, the greater their sense of ownership will be, and the greater the likelihood that they will share a sense of accountability for the results (see also: [The Principle of Equivalence](section:principle-equivalence))
+-   **Access to information**: when people have the opportunity to find out what is going on in the organization and why certain decisions are made, they can figure out how they can best contribute to the whole and be an active and artful member of the organization (see also: [The Principle of Transparency](section:principle-transparency))
+-   **Safety to disagree**: when people are free to express their opinions and learn how to listen and disagree in constructive ways, the organization can rely on a broader scope of perspectives, experiences and expertise, and people will feel more psychologically safe and in control. (see also: [The Principle of Consent](section:principle-consent))
 
 ## Make implicit responsibilities explicit
 

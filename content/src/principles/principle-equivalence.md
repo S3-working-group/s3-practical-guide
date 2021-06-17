@@ -1,9 +1,6 @@
-# The Principle of Accountability
-
-
 # The Principle of Equivalence
 
-*{{glossary:equivalence}}*
+_{{glossary:equivalence}}_
 
 
 Involve people in making and evolving decisions that affect them, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.

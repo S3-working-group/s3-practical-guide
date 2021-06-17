@@ -1,6 +1,6 @@
 # The Principle of Transparency 
 
-*{{glossary:transparency}}*
+_{{glossary:transparency}}_
 
 Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.
 

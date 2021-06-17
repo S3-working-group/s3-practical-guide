@@ -1,7 +1,7 @@
 # The Principle of Continuous Improvement
 
 
-*{{glossary:continuous-improvement}}*
+_{{glossary:continuous-improvement}}_
 
 
 Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.

@@ -1,6 +1,6 @@
 #  The Principle of Empiricism
 
-*{{glossary:empiricism}}*
+_{{glossary:empiricism}}_
 
 Test all assumptions you rely on, through experiments and continuous revision, to learn more, make sense of things and navigate complexity as effectively as you can.
 
