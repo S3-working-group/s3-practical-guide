@@ -2,7 +2,6 @@
 
 _{{glossary:equivalence}}_
 
-
 Involve people in making and evolving decisions that affect them, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
 
 Equivalence is important in organizational systems, precisely because people are not equal to one other in a variety of ways and depending on the context. 
@@ -13,7 +12,7 @@ By including people in making and evolving a decision that affects them, they ga
 
 People are more likely to take responsibility for following through on decisions when they are involved in making them. This is further reinforced when ensuring affected parties have influence in adapting those decisions later, should they discover reasons why a decision is no longer good enough, or if they discover a viable way for improving something.  
 
-Decisions we develop together will always be ‘our’ decisions, whereas decisions taken by others, will always be ‘theirs’ and will be appreciated and supported more or less by others, depending on their personal preference and point of view.
+Decisions we develop together will always be ‘_our_’ decisions, whereas decisions taken by others, will always be ‘_theirs_’ and will be appreciated and supported more or less by others, depending on their personal preference and point of view.
 
 Some decisions will affect a large group of people, e.g. an entire department, or even the  organization as a whole. Including those affected in the decision making process will yield benefits that reach far beyond the decision in question. People will build connection, trust and a greater sense of community and belonging. For effectively involving a large number of stakeholders in the decision making process you can use a variety of group facilitation techniques and online tools. 
 
@@ -31,7 +30,7 @@ Everyone throughout an organization is impacted by all decisions to some degree,
 
 The degree of worthwhile involvement is context dependent. At one end of the spectrum, it might be enough that decisions affecting others are made initially by an individual or a smaller group and that these decisions are then tested for any objections with those affected afterwards. On the other end of the spectrum, equivalence could manifest as a fully collaborative process where those affected participate in decision making from end-to-end. A middle road is a participatory approach that keeps people informed about progress and invites specific input at various stages along the way.
 
-Equivalence needs to be balanced with [effectiveness], enabled through [transparency] and constrained by [Consent], for it to function at its best. It’s valuable to weigh up the benefits of more or less involvement, versus the cost in terms of resources, energy and time. 
+Equivalence needs to be balanced with [Effectiveness](section:principle-effectiveness), enabled through [Transparency](section:principle-transparency) and constrained by [Consent](section:principle-consent), for it to function at its best. It’s valuable to weigh up the benefits of more or less involvement, versus the cost in terms of resources, energy and time. 
 
 For any decision of significance it’s good to ask yourself who, if anyone, should be involved, and to what degree? Consider those who will be directly or indirectly impacted and those who will have responsibility for acting on what you decide. While not directly related to Equivalence, it might also be prudent to consider those who are not obviously affected by a decision, but who could contribute with their influence, experience and expertise.
 

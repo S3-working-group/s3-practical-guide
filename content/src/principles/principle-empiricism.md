@@ -13,16 +13,15 @@ Observing and probing systems, and making use of experimentation to inform an it
 
 ## Clarify your hypothesis
 
-A hypothesis is a tentative explanation of a relationship between a specific cause and effect that is both testable and falsifiable. It provides a starting point for experiments that prove or disprove that hypothesis.  
+A hypothesis is a tentative explanation of a relationship between a specific cause and effect that is both testable and falsifiable. It provides a starting point for experiments that prove or disprove that hypothesis. 
 
 In the context of organizations, you might develop hypotheses about how a change to a work process or to the organizational structure would improve effectiveness or reduce cost. Or about how rescheduling a meeting would increase engagement, or making a certain change to a product would attract a new customer segment while keeping existing customers happy, and so on. 
 
 When faced with uncertainty, it helps to make any questions and assumptions you have explicit and describe a clear hypothesis that allows for answering those questions and validating if your assumptions are true. A vague or ambiguous description will make assumptions hard or even impossible to test, and trying to test too many assumptions at once, might set you up on a long path where you learn little of value. Less is often more.
 
-One vital skill to develop when designing experiments is the ability to distinguish between established knowledge and mere assumptions. By acknowledging what you don’t know yet and what you assume to be more or less true, you can identify questions and assumptions around which to build a hypothesis.
+One vital skill to develop when designing experiments is the ability to **distinguish between established knowledge and mere assumptions**. By acknowledging what you don’t know yet and what you assume to be more or less true, you can identify questions and assumptions around which to build a hypothesis.
 
 In complex domains, a hypothesis-driven approach relies on experiments to validate or disprove hypotheses, so that you can find viable ideas or falsify them fast. Making sense of things through experimentation, not only enables you to more effectively achieve what you need or desire but it can also help you to validate assumptions you have about which objectives are worthwhile pursuing to start with.  
-
 
 
 ## Design good experiments
@@ -31,7 +30,7 @@ An experiment is a controlled test designed to prove or disprove a hypothesis. E
 
 Before you start an experiment, it’s important to fully define and document it. In the context of an organization, a good experiment will consist of a list of things you need to do, and if helpful, how you need to do them, as well as a list of variables you will track before, during and/or after the experiment. 
 
-Define and document specific thresholds for success and failure of the experiment related to your variables and add details about this to your evaluation criteria. In particular, consider what you would accept as evidence that your hypothesis is false. While an experiment is running, avoid making changes to it, and if you do change something, document those changes, otherwise your measurements may become meaningless. It is vital that you measure before starting the experiment to ensure that the threshold for success is not already met because you made an error in your experiment’s design.
+Define and document specific thresholds for success and failure of the experiment related to your variables and add details about this to your evaluation criteria. In particular, consider what you would accept as evidence that your hypothesis is false. While an experiment is running, avoid making changes to it, and if you do change something, document those changes, otherwise your measurements may become meaningless. It is vital that you **measure before starting the experiment** to ensure that the threshold for success is not already met because you made an error in your experiment’s design.
 
 ## Treat decisions as experiments
 
