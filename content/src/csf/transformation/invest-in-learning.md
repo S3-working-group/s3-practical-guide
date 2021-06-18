@@ -3,7 +3,7 @@
 # Principle 8 – Invest in Learning
 
 
-**_Ensure the people grow competence and skill, so that they develop, their contribution remains valuable and the organization can evolve._**
+**_Support everyone in developing their competence and skill, so that their contribution remains valuable and the organization can evolve._**
 
 Essential patterns to help you achieve this:
 

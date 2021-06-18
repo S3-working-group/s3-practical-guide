@@ -23,11 +23,11 @@ _Free individuals and teams up to create value as autonomously as possible._
 _Co-create and evolve a coherent system to deal with all dependencies._
 
 **Principle 8 – Invest in Learning** \
-_Ensure the people grow competence and skill, so that they develop._
+_Support everyone indeveloping their competence and skill._
 
 **Principle 9 – Intentionally Develop Culture** \
-_Collaborate on fostering a cooperative culture where people achieve their fuller potential._
+_Collaborate on fostering a cooperative culture where everyone can achieve their fuller potential._
 
 **Principle 10 – Build Shared Mental Models** \
-_Invest in building shared mental models, so that people can engage in meaningful dialogue about what’s happening and what needs to be done._
+_Invest in building shared mental models._
 

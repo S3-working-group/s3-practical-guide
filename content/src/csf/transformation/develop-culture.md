@@ -3,7 +3,7 @@
 # Principle 9 – Intentionally Develop Culture
 
 
-**_Collaborate on fostering a cooperative culture where people achieve their fuller potential, so that you build and maintain an engaging and productive work environment._**
+**_Collaborate on fostering a cooperative culture where everyone can achieve their fuller potential, so that you build and maintain an engaging and productive work environment._**
 
 Essential patterns to help you achieve this:
 

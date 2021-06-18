@@ -3,7 +3,7 @@
 # Principle 2 – Develop Strategy
 
 
-**_Develop a strategy to guide value creation, so that people share a common direction, and strategy is adapted as necessary to achieve the purpose._**
+**_Develop a strategy to guide value creation, so that everyone shares a common direction, and strategy is adapted as necessary to achieve the purpose._**
 
 Essential Patterns to help you achieve this:
 

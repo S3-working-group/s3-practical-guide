@@ -3,7 +3,7 @@
 # Principle 1 – Clarify Purpose
 
 
-**_Ensure that everyone understands who the organization or team is serving, why and to what end, so that people are able to focus and unite their efforts on achieving that purpose._**
+**_Ensure that everyone understands who the organization or team is serving, why and to what end, so that everyone is able to focus and unite their efforts on achieving that purpose._**
 
 
 Essential Patterns to help you achieve this:
