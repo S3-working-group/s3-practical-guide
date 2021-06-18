@@ -24,6 +24,10 @@ A simple way for supporting stakeholders in developing shared understanding abou
 -   Key Metrics
 -   Evaluation
 
+On the [S3 Canvas microsite] you can find a variety of templates you can use for (co-)creating and documenting domain descriptions.
+
+(http://s3canvas.sociocracy30.org/s3-delegation-canvas.html)
+
 Consider designing domains with the minimal constraints necessary and always choose constraints that enable people to maximally create value.
 
 The delegatee(s) may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else’s (explicit) domain, or impede other people's contribution to the organization in some other way. 

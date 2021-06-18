@@ -87,7 +87,7 @@ _Identify who has experience or expertise in responding to these needs, so that 
 
 ### 5. Identify Domains
 
-_Cluster actors and/or needs according to relevance, into coherent **domains** as a starting point to sorting and prioritizing needs. Consider how to optimize end-to-end delivery of value to the various actors that you identified in step 2._
+_Cluster actors and/or needs according to relevance, into coherent **domains** as a starting point for sorting and prioritizing needs. Consider how to optimize end-to-end delivery of value to the various actors that you identified in step 2._
 
 Ways to identify domains:
 
