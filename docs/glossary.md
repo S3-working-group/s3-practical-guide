@@ -11,7 +11,7 @@ title: "Glossary"
 
 
 <dt id="entry-accountability">Accountability (principle)</dt>
-<dd>*Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,* so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.</dd>
+<dd>**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.</dd>
 
 
 <dt id="entry-agreement">Agreement</dt>
@@ -47,7 +47,7 @@ title: "Glossary"
 
 
 <dt id="entry-consent">Consent (principle)</dt>
-<dd>*Raise, seek out and resolve objections to decisions and actions,* so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.</dd>
+<dd>**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.</dd>
 
 
 <dt id="entry-constituent">Constituent</dt>
@@ -55,7 +55,7 @@ title: "Glossary"
 
 
 <dt id="entry-continuous-improvement">Continuous Improvement (principle)</dt>
-<dd>*Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn,* so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.</dd>
+<dd>**Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.</dd>
 
 
 <dt id="entry-coordination">Coordination</dt>
@@ -87,15 +87,15 @@ title: "Glossary"
 
 
 <dt id="entry-effectiveness">Effectiveness (principle)</dt>
-<dd>*Devote time only to what brings you closer towards achieving your organization’s overall objectives,* so that you can make the best use of your limited time, energy and resources.</dd>
+<dd>**Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources.</dd>
 
 
 <dt id="entry-empiricism">Empiricism (principle)</dt>
-<dd>*Test all assumptions you rely on, through experiments and continuous revision,* so that you learn fast, make sense of things and navigate complexity as effectively as you can.</dd>
+<dd>**Test all assumptions you rely on, through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can.</dd>
 
 
 <dt id="entry-equivalence">Equivalence (principle)</dt>
-<dd>*Involve people in making and evolving decisions that affect them,* so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.</dd>
+<dd>**Involve people in making and evolving decisions that affect them**, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.</dd>
 
 
 <dt id="entry-evolve">Evolve (v.)</dt>
@@ -247,7 +247,7 @@ title: "Glossary"
 
 
 <dt id="entry-transparency">Transparency (principle)</dt>
-<dd>*Record all information that is valuable for the organization, and make it accessible to everyone in the organization, unless there is a reason for confidentiality,* so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.</dd>
+<dd>**Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.</dd>
 
 
 <dt id="entry-value">Value</dt>

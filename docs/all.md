@@ -174,19 +174,359 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 ![The Seven Principles](img/framework/s3-principles-plain.png)
 
-**The Principle of Effectiveness:** *Devote time only to what brings you closer towards achieving your organization’s overall objectives,* so that you can make the best use of your limited time, energy and resources.
+**The Principle of Effectiveness:** 
 
-**The Principle of Consent:** *Raise, seek out and resolve objections to decisions and actions,* so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
+_**Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources._
 
-**The Principle of Empiricism:** *Test all assumptions you rely on, through experiments and continuous revision,* so that you learn fast, make sense of things and navigate complexity as effectively as you can.
+**The Principle of Consent:**
 
-**The Principle of Continuous Improvement:** *Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn,* so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.
+_**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve._
 
-**The Principle of Equivalence:** *Involve people in making and evolving decisions that affect them,* so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
+**The Principle of Empiricism:** 
 
-**The Principle of Transparency:** *Record all information that is valuable for the organization, and make it accessible to everyone in the organization, unless there is a reason for confidentiality,* so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.
+_**Test all assumptions you rely on, through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
 
-**The Principle of Accountability:** *Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,* so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
+**The Principle of Continuous Improvement:**
+
+_**Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time._
+
+**The Principle of Equivalence:**
+
+_**Involve people in making and evolving decisions that affect them**, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives._
+
+**The Principle of Transparency:** 
+
+_**Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole._
+
+**The Principle of Accountability:** 
+
+_**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization._
+
+
+### The Principle of Effectiveness: 
+
+_**Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources._
+
+Devote time only to what brings you closer toward achieving your organization’s overall objectives, so that you can make the best use of your limited time, energy and resources.
+
+The principle of effectiveness invites us to think consciously about what we do and how we do things. It calls for the intentional consideration of the consequences of our actions, both now and across time, on our organizations but also on the wider environment and the world at large. 
+
+Pursuing effectiveness requires that we act with intent to minimize waste, remove impediments and, where possible, conduct ourselves in ways that over time, lead to the greatest value creation possible, through the synergy of our creativity, resources, energy and time. 
+
+
+#### Clarify the why
+
+Being effective begins with getting clear about why you want to do something and establishing an approximate idea of what it is you want to achieve. Defining why the organization exists and the objectives it’s trying to achieve helps everyone understand more about what they are working toward and about how they can contribute in a meaningful way. Without this clarity, it’s hard for individuals to contextualize their work in the bigger picture. It’s also harder to qualify and quantify what brings value and in which ways. 
+
+#### Keep your options open
+
+There might be many ways to go about achieving your objectives and sometimes your first choice might fail to meet the need. Keep your options open to avoid getting stuck in a particular trajectory as you learn about ways to improve. Avoid converging too soon and take an iterative approach whenever you can. In complexity, find ways to test any hypotheses quickly, run multiple small experiments if possible, and travel light so that you can pivot fast.
+
+#### Aim for being effective in an efficient way
+
+Effectiveness is about achieving the desired result, while efficiency is about doing things with the least waste of your effort, resources and time. It is entirely possible to do the “wrong” thing very efficiently, so before optimizing for efficiency, ensure the outcome is what you intended. Only then look for worthwhile improvements to produce the same outcome in a more efficient manner. 
+
+#### Consider the bigger picture, monitor, evaluate and learn
+
+Be on the lookout for possible side-effects and unintended consequences before, during and after any interventions you make. Consider direct and indirect costs and negative externalities and be prepared to evolve or change your activities or objectives, based on what you learn.
+
+There are scales of effectiveness (and efficiency) that can only be appreciated if we consider the wider context and consequences of our actions across time. Sometimes our activities might achieve the outcomes we intended in the short term but with unfavorable consequences and hidden costs that only reveal themselves across time.  For example, large scale, industrial agriculture produces huge yields very efficiently but over the long-term  it leads to a critical depletion of topsoil and increasing dependency on fertilizers, insecticides and weedkillers. This can be a case of a short term gain but for long term pain.
+
+In complex environments it is sometimes hard to figure out what effectiveness would actually mean. Consider the perspective of others, even if you are making a decision for yourself.  Make the most of experience and expertise distributed throughout your organization and reach out to people with alternative points of view. Running your ideas past others can help you to avoid consequences that you’d rather avoid, and identify worthwhile ways to improve.
+
+Decide how you will measure effectiveness and if you’re collaborating with others, develop and maintain a shared understanding of what this will mean. Having established a clear “_why_” and defined the outcome you intend to achieve, consider how you will measure results in a way that allows you to see how you’re progressing (and whether anything you are doing is useful at all!)
+
+Effectiveness can sometimes only be determined in retrospect. Pay attention to and reflect on the consequences of your actions,  and then use what you learn to improve your effectiveness next time. 
+
+#### Be mindful of dependencies and constraints
+
+Aim to free everyone up to be able to act as autonomously as possible and do what you need to do to free yourself up as well. Make any necessary dependencies between certain individuals and teams explicit, and get together to co-create and evolve a coherent system to deal with them, so that you can still deliver value fast when dependencies cannot be avoided.
+
+Clarify any constraints in which you need to operate. What are the internal and external expectations, guidelines or rules? How do the implicit or explicit values of your organization and the wider context in which you are operating, enable or limit the decisions and actions you make? How will you operate within any specific boundaries? Who do you need to communicate with if you see an argument for changing something, or for making an exception to a rule?
+
+#### Prioritize and choose wisely
+
+Set priorities and stick to them unless you become aware of a reason to change. Distractions, context switching and a lack of breaks or slack time will inevitably lead to waste. 
+
+As well as getting clear on what you WILL do, be clear on what NOT to do as well and aim to resolve impediments as they arise.
+
+
+
+### The Principle of Consent
+
+_**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve._
+
+Raise, seek out and resolve objections to decisions and actions, so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
+
+Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions and activity through the lens of different people’s perspectives helps to identify reasons why a decision or activity could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
+
+Adopting the principle of consent invites a change of focus in decision making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough or that there are worthwhile ways to improve? 
+
+Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. Instead it’s useful to make decisions that, over time, free people up as much as possible to decide and act to create value by themselves. It does however require adequate _transparency_ and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see _the Principle of Equivalence_).
+
+#### Invite dissent
+
+When dealing with complexity, considering different perspectives, experience and expertise is a simple yet effective way for developing a coherent shared understanding, out of which more effective decisions can be made. 
+
+Developing a culture that welcomes dissenting opinions and where people consider those opinions to discover any value they can bring generates greater engagement, psychological safety and support for decisions.
+
+#### Shift supremacy from people to sound arguments
+
+When comparing the available paradigms for decision making, the essential difference lies in where ultimate authority for making a decision is placed. In autocratic systems supremacy lies with an individual or small group. In a system governed by majority vote, supremacy lies with the majority (or those who can convince the majority of their position). In a system aspiring toward consensus with unanimity, supremacy lies with whoever decides to block a proposal or existing agreement. In all three of these cases, a decision is made regardless of whether the motive of those actors is aligned with the interest of the system or not. 
+
+When a group or organization adopts the principle of consent, supremacy shifts from any specific individual or group, to reasoned arguments that reveal the potential for undesirable consequences that would better be avoided or worthwhile ways to improve. This way, people—regardless of their position, rank, function or role—are unable to block decisions based solely on opinion, personal preference or rank. Consent invites everyone to at least be reasonable, while still leaving space for individuals to express diverse perspectives, opinions and ideas.
+
+#### Distinguish between opinion or preference, and objections
+
+Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible _objections_, but also by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it’s typically a good idea to _test arguments qualify as objections_ and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias. 
+
+Arguments that qualify as objections — at least as far as stakeholders can tell — help a group in directing their effort toward making changes in those areas where it’s necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
+
+Adopting the principle of consent shifts the aim of decision making towards identifying a solution that’s good enough for now, and where there are no obvious worthwhile improvements that would justify spending more time. This approach is far more effective than trying to arrive at consensus with unanimity, where the aim is to accommodate everyone’s personal preference and ideas.
+
+#### Integrate learning from objections
+
+Objections inform people of things that can be improved. _Resolving objections_ typically means evolving (proposed) agreements and changing activity in ways that render that argument void. Sometimes however, there might be a reason why there is more to be gained from leaving things unchanged despite the existence of a valid objection. Ultimately, resolving objections involves weighing up pros and cons of any decision, both in relation to the specific situation a decision is intended to address, but also in the context of the organization as a whole. In complexity there are typically no perfect or entirely correct decisions, only those that (for now at least) appear good enough for now and safe enough to try. Often all that is needed is a good enough next step which allows us to learn empirically and adapt and evolve the decision over time.
+
+This facilitation of natural and incremental learning draws on the diversity of knowledge, experience and expertise distributed throughout an organization. It helps to shift from a paradigm rooted in binary thinking and polarization (either/or) to a continual process of synergy (both/and), which over time fosters stronger relationships between peers as well.
+
+#### The Implicit Contract of Consent
+
+Adopting the principle of consent in a team, or in the organization as a whole, has implications for how people approach decision making, dialogue and activity. Consider making this implicit contract of consent explicit, to support members of the organization to adopt and apply the principle of consent:
+
+1. In the absence of objections to an agreement, I intend to follow through on that agreement to the best of my ability.
+2. As I become aware of them, I will share any possible objections to (proposed) agreements and activity, with those directly responsible for them.
+3. I’ll consider objections to proposals, agreements and activity that I’m responsible for, and will work to resolve the objection if I can.
+4. I’ll actively consider agreements that are due review, to check for any possible objections.
+
+
+
+###  The Principle of Empiricism
+
+_**Test all assumptions you rely on, through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
+
+Test all assumptions you rely on, through experiments and continuous revision, to learn more, make sense of things and navigate complexity as effectively as you can.
+
+Empiricism — the foundation of the scientific method — is an essential principle to embrace if we’re to navigate effectively in a complex world. Not only are the environments in which organizations operate complex but an organization is in itself a complex adaptive system. Knowledge about an organizational system and its interactions is often tentative and highly dependent on context. 
+
+Empiricism can help us to increase certainty and reduce self-delusion, so that we can make the best use of our time. In our attempts to make sense of things and to have a sense of certainty about what is happening, why it’s happening, what should happen next and what’s needed to achieve that, we often draw conclusions without checking if the assumptions they are built on are true and accurate. In complexity, what we perceive as causation can often turn out to be mere correlation or coincidence, and the outcomes of interventions we make will always lead to some consequences we couldn’t predict.
+
+Observing and probing systems, and making use of experimentation to inform an iterative approach to change, supports ongoing learning and helps an organization continuously develop to remain effective and responsive to change.
+
+
+#### Clarify your hypothesis
+
+A hypothesis is a tentative explanation of a relationship between a specific cause and effect that is both testable and falsifiable. It provides a starting point for experiments that prove or disprove that hypothesis. 
+
+In the context of organizations, you might develop hypotheses about how a change to a work process or to the organizational structure would improve effectiveness or reduce cost. Or about how rescheduling a meeting would increase engagement, or making a certain change to a product would attract a new customer segment while keeping existing customers happy, and so on. 
+
+When faced with uncertainty, it helps to make any questions and assumptions you have explicit and describe a clear hypothesis that allows for answering those questions and validating if your assumptions are true. A vague or ambiguous description will make assumptions hard or even impossible to test, and trying to test too many assumptions at once, might set you up on a long path where you learn little of value. Less is often more.
+
+One vital skill to develop when designing experiments is the ability to **distinguish between established knowledge and mere assumptions**. By acknowledging what you don’t know yet and what you assume to be more or less true, you can identify questions and assumptions around which to build a hypothesis.
+
+In complex domains, a hypothesis-driven approach relies on experiments to validate or disprove hypotheses, so that you can find viable ideas or falsify them fast. Making sense of things through experimentation, not only enables you to more effectively achieve what you need or desire but it can also help you to validate assumptions you have about which objectives are worthwhile pursuing to start with.  
+
+
+#### Design good experiments
+
+An experiment is a controlled test designed to prove or disprove a hypothesis. Experiments provide you with validated learning about how to better respond to the challenges and opportunities you face. Outcomes often provide you with the opportunity to refine your hypothesis, or even develop new hypotheses that you can then test with further experiments.
+
+Before you start an experiment, it’s important to fully define and document it. In the context of an organization, a good experiment will consist of a list of things you need to do, and if helpful, how you need to do them, as well as a list of variables you will track before, during and/or after the experiment. 
+
+Define and document specific thresholds for success and failure of the experiment related to your variables and add details about this to your evaluation criteria. In particular, consider what you would accept as evidence that your hypothesis is false. While an experiment is running, avoid making changes to it, and if you do change something, document those changes, otherwise your measurements may become meaningless. It is vital that you **measure before starting the experiment** to ensure that the threshold for success is not already met because you made an error in your experiment’s design.
+
+#### Treat decisions as experiments
+
+In a complex system, it is impossible to predict all of the ways in which that system will react to a particular intervention of change. Because of this you can apply the concept of experimentation to the way you approach decision making as well. It’s valuable to view all significant operational and governance decisions you make as experiments, and to document the intended outcome and evaluation criteria in each case. Make one decision at a time, starting with what appears to be an appropriate or logical starting point and evolve those decisions iteratively, based on what you learn.
+
+
+
+### The Principle of Continuous Improvement
+
+_**Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time._
+
+Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.
+
+Whereas the principles of _Empiricism_ and _Consent_ reveal opportunities for learning, Continuous Improvement relates to what we do with what we learn. Continuous Improvement applies to how we conduct our operations, but also to governance. Everything from the evolution of strategies, policy, processes and guidelines, to the development of products, services, competencies and skills, attitudes and behavior, chosen values and tools, all can be continuously improved. 
+
+#### Take an iterative approach to change
+
+Evolution is often more effective and more sustainable than revolution which is rarely necessary or worthwhile unless you fail to continuously improve a system when it’s needed. Especially in a complex environment, making many changes to a system at the same time can lead to a mess that is difficult to fix. Consequences resulting from larger interventions are often hard to measure effectively, especially in complexity, and the relationship between cause and effect will be difficult, if not impossible to determine and evaluate. 
+
+Instead, consider changing things incrementally whenever you see an opportunity for a small and worthwhile improvement, significantly reducing the need for a large intervention. This will help you to effectively adapt to changing environments, keep your organization and systems fit for purpose, and prevent things from descending into a state that is costly or even impossible to repair.
+
+**Even when a large change is needed, go step by step**, figuring out how things need to be and **adjust what you’re doing based on what you learn**. With small changes, assumptions can be tested quickly and failure is more manageable. When a small experiment fails, you can learn fast and if necessary, use what you learn to develop a better experiment. When a large experiment fails, a lot of time and effort might be spent without learning much at all.
+
+Be aware that if you change several things at the same time, you might not be able to determine which of them lead to the effects you see, so **aim for one or only a few concurrent changes at a time**.
+
+#### Monitor, measure and change things based on what you learn
+
+**Define the _intended outcomes_** you expect a change will lead to and be clear on how you will evaluate whatever occurs. When making changes, be clear about the specifics of what you want to improve. What positive consequences do you want to amplify and what negative consequences do you want to dampen?
+
+**Monitor the consequences of your actions** and reflect on what you learn. Pay attention to what actually happens and whether or not the results of your interventions reflect your assumptions and intentions. This will help you keep track of whether or not your changes led to improvements at all.
+
+Remember that even if things don’t turn out as you expect sometimes, this doesn’t necessarily mean that the results are negative. Sometimes things turn out differently to how we’d assumed or intended. All outcomes help us learn. **Be open to whatever happens**, consider the pros and cons of any unintended consequences that emerge and acknowledge when it would be beneficial to do things differently, or to aim for different results.
+
+### The Principle of Equivalence
+
+_**Involve people in making and evolving decisions that affect them**, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives._
+
+Involve people in making and evolving decisions that affect them, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
+
+Equivalence is important in organizational systems, precisely because people are not equal to one other in a variety of ways and depending on the context. 
+
+Equivalence increases engagement by giving people affected by decisions the opportunity to influence those decisions to some degree. 
+
+By including people in making and evolving a decision that affects them, they gain deeper understanding about the resulting decision, the situation it’s intended to address, and the pros and cons that have been weighed in the process. It also helps to keep systems more open and transparent and reduces the potential for information vital to the decision being overlooked or ignored. Depending on the level of involvement, people might also have the opportunity to shape things according to their preference, and in any case, participation in the decision making leads to a greater sense of ownership over what is decided. 
+
+People are more likely to take responsibility for following through on decisions when they are involved in making them. This is further reinforced when ensuring affected parties have influence in adapting those decisions later, should they discover reasons why a decision is no longer good enough, or if they discover a viable way for improving something.  
+
+Decisions we develop together will always be ‘_our_’ decisions, whereas decisions taken by others, will always be ‘_theirs_’ and will be appreciated and supported more or less by others, depending on their personal preference and point of view.
+
+Some decisions will affect a large group of people, e.g. an entire department, or even the  organization as a whole. Including those affected in the decision making process will yield benefits that reach far beyond the decision in question. People will build connection, trust and a greater sense of community and belonging. For effectively involving a large number of stakeholders in the decision making process you can use a variety of group facilitation techniques and online tools. 
+
+#### Delegate responsibility and power to influence
+
+To become or remain effective, organizations of any size benefit from distributing work, and the power to influence decisions relating to that work, throughout the organization. This helps to eliminate unnecessary dependencies, so that people can create value unimpeded, without getting bottlenecked, waiting on a decision making hierarchy or the input of others who are more distant from the work. 
+
+For matters that concern a large number of people, it makes sense to delegate responsibility for making and evolving agreements to a smaller group that has the necessary experience and expertise, who can then inform and consult with others in the organization during their decision making process. With adequate transparency and some proactivity in informing people affected by decisions of anything that is useful for them to know, possible objections from all stakeholders can still be quickly identified, qualified, and if necessary, resolved. In this way, equivalence enables the delegation of responsibilities to individuals or small groups, while still keeping the whole system open to discover and draw on the collective intelligence of everyone involved.
+
+Periodically rotating who takes a lead in decision making helps build trust, accountability and a more widely shared understanding of the context in which decisions are being made, because a growing number of people will gain experience in that role.
+
+#### Consider who should be involved and how
+
+Everyone throughout an organization is impacted by all decisions to some degree, because each decision will impact the whole in some way. Equivalence in decision making doesn’t mean everyone needs to be involved in every decision all of the time. Nor does it mean that everyone has to have the same amount of influence in every context where they are affected. Equivalence means ensuring that those affected by decisions are at least able to influence those decisions, on the basis of arguments that reveal unintended consequences for the organization that are preferable to avoid, and/or worthwhile ways for how things can be improved. Put another way, the minimum requirement for equivalence to exist is to hear and consider any possible objections raised by people affected by decisions, and work to ensure that those objections are resolved.
+
+The degree of worthwhile involvement is context dependent. At one end of the spectrum, it might be enough that decisions affecting others are made initially by an individual or a smaller group and that these decisions are then tested for any objections with those affected afterwards. On the other end of the spectrum, equivalence could manifest as a fully collaborative process where those affected participate in decision making from end-to-end. A middle road is a participatory approach that keeps people informed about progress and invites specific input at various stages along the way.
+
+Equivalence needs to be balanced with _Effectiveness_, enabled through _Transparency_ and constrained by _Consent_, for it to function at its best. It’s valuable to weigh up the benefits of more or less involvement, versus the cost in terms of resources, energy and time. 
+
+For any decision of significance it’s good to ask yourself who, if anyone, should be involved, and to what degree? Consider those who will be directly or indirectly impacted and those who will have responsibility for acting on what you decide. While not directly related to Equivalence, it might also be prudent to consider those who are not obviously affected by a decision, but who could contribute with their influence, experience and expertise.
+
+#### Make necessary information available
+
+For people to contribute in an effective way, they need access to relevant information relating to the decision in question. It’s helpful to develop a system for visualizing important decisions and broadcasting about them to others. Visibility and the option for open dialogue about what’s going on in the organization helps to build shared understanding, which, in turn, contributes toward more effective decisions being made. 
+
+#### Invest in learning and development
+
+When involving people in decision making, everyone understanding what objections are – and how they are distinct from concerns, opinion or preference – will help people contribute to decisions in more meaningful and effective ways. Put in place ways to gather any possible objections that people raise and develop a system to easily make them available to the people directly responsible for making and evolving those decisions.
+
+In the case where people are responsible for making and evolving agreements together on a regular basis, invest in everyone developing the necessary competence and skills. This includes learning basic communication skills and developing fluency in whichever decision making processes you use. 
+
+#### Invite external influence
+
+Some decision making will be improved through including a range of perspectives and expertise. When looking for people with a worthwhile perspective to bring, consider the wider organization and your external environment too. Who has valuable expertise or experience from elsewhere in the organization and who are your customers, investors and other stakeholders? All of these people are affected in some way by the consequences of decisions you make. As well as being open to consider their suggestions and points of view, there might be times when actively inviting their opinion or involving them in certain decisions you need to make, will inform you of better ways to achieve your goals.
+
+
+
+
+
+
+
+### The Principle of Transparency 
+
+_**Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole._
+
+Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.
+
+Transparency in an organization helps people understand what's going on, what to expect and why things are done the way they are. It reduces uncertainty, supports trust and trustworthiness and fosters accountability. 
+
+Adequate transparency means that people either have direct access to the information they need, or that they at least know where to go or who to ask, to get access to it. Transparency helps everyone understand when they can safely and effectively decide and act for themselves and when they need to involve others to respond to dependencies they share.
+
+Transparency supports us to learn from, and with each other. It helps to reduce the potential of small problems growing into big ones because we are more likely to spot mistakes and negative unintended consequences more promptly. 
+
+Transparency facilitates the ongoing development and maintenance of a coherent and adaptive learning organization. Having access to relevant information helps us to quickly identify important needs and changes and respond fast.
+
+#### Clarify motivation for (more) transparency
+
+Transparency is a means to an end, not an end in itself, so if you’re looking to increase transparency in your organization, take the time to clarify the reasons why. What are the challenges you are trying to solve by introducing more transparency and/or what are the opportunities you wish to pursue?
+
+Introduce more transparency into your organization as a way to support learning and to free people up, not as a way to control them. Use it as a way to improve performance, not leave people feeling unsafe to do anything because they are anxious about being watched. Transparency can enable co-creation and innovation but in a context where failure is treated as negative, rather than an opportunity to learn, it will impede people’s willingness to take risks and experiment.
+
+#### Consider reasons for confidentiality
+
+Be clear about information that is inappropriate to share. While secrecy can be associated with illicit or dubious affairs, there are many legitimate reasons for confidentiality in organizations.  Sometimes secrecy is necessary, for example, protection of people’s personal data and affairs, security of assets or protection of intellectual property that helps an organization achieve its goals.
+
+#### Identify what information is valuable to record and share
+
+Consider carefully what information is worthwhile to record. Valuable information worth recording typically includes:
+
+-   decisions that have been made, along with the information they were based upon, who made them and the reasons why they were made
+-   any information that supports people to make effective decisions, such as details about the context, possibilities explored and any important constraints
+-   information that helps with evaluating progress and outcomes, including evaluation criteria, metrics, descriptions of intended outcomes and details of any hypotheses upon which decisions are being made
+-   information that reduces uncertainty and supports the development of trust, such as finances and future plans
+-   useful insights and learning
+-   meeting minutes
+
+#### Create and maintain a coherent system for recording information
+
+Documenting relevant information in a way that is coherent and accessible is an ongoing task that relies on everyone in the organization playing their part. Developing a system for recording and sharing information and keeping it up to date takes time and effort. Choose tools that make it simple to create, update, and cross-reference records, as well as to search and retrieve information when it’s required. Make clear which information is recorded and updated, by whom and when, and structure records accordingly. Take the time to regularly check through your records, ensure your system remains helpful and keep an archive of historical information for reference.
+
+
+
+### The Principle of Accountability
+
+_**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization._
+
+Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization, so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
+
+Whenever we are part of a system (e.g. an organization, a community, family or state) the consequence of our actions or inaction will impact others in that same system for better or worse. Therefore we carry a certain amount of responsibility for the wellbeing of the system.
+
+In particular, when we choose to become part of an organization, we enter into a transactional relationship with others, where we can expect to receive something in exchange for taking care of one or more specific needs the organization has. 
+
+The promise we make to take responsibility for things that need doing, creates a dependency between us and those who depend on the fulfillment of that promise.
+
+#### Acknowledge shared accountability
+
+The consequences of our action or inaction will affect the organization in some way, so by becoming part of an organization we are taking some responsibility for the wellbeing of the whole. Many responsibilities within an organization are hard to anticipate, are undefined and are undelegated. Therefore when members of an organization recognize that they _share accountability_ for the organization as a whole, they are more inclined to step up and take responsibility for things when needed. Problems and opportunities are more likely to be acknowledged and dealt with and you reduce the risk of developing a culture of looking the other way, or worse, a culture of blame. 
+
+Many responsibilities are typically distributed throughout an organization by way of [delegation](), meaning that people take responsibility for specific work and decision making. Whenever a responsibility is delegated by one party (the <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn>) to another party (the <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee(s)</dfn>), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
+
+While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their [domain](gloassary:domain), regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
+
+When people consider themselves accountable only for those things that impact their immediate sphere of responsibility, many of the things that would require attention but have not been delegated to anyone in particular, or that appear to be someone else’s problem to solve, would get missed.
+
+#### Make the hierarchy of accountability explicit
+
+Most organizations have a hierarchy of delegation and therefore a hierarchy of accountability. This means that accountability for outcomes is distributed throughout the organization, while overall accountability for the integrity of the organization rests with whomever takes legal responsibility for that organization as a whole. In many organizations today, this generally points back up a leadership hierarchy to wherever the buck stops. However, in other contexts, like a community for example, overall accountability lies equally with everyone who is involved.
+
+Whatever your particular organizational context, making the hierarchy of accountability explicit is useful because it reveals the relationship between [delegator] and [delegatee(s)]. 
+
+#### Move from “holding to account” to self-accountability
+
+The principle of accountability applies to everyone. It promotes a shift from being held to account by someone—which often leads to a culture of fear and blame—towards a culture of self-accountability where everyone acknowledges the impact of their actions and inaction on others, and on the system as a whole, and acts accordingly. In your relationships with others, it relates to making and following through on commitments you make, managing expectations, doing what you agree to and answering for when you don’t. 
+
+
+#### Create conditions that enable accountability to thrive
+
+Merely clarifying what people can and cannot do is not enough to encourage a culture where accountability is embraced. In fact, alone, this can have the opposite effect. To increase the level of self-accountability in an organization there are various factors that can help:
+
+-   **Involvement**: the more that people are able to influence decisions that affect them, the greater their sense of ownership will be, and the greater the likelihood that they will share a sense of accountability for the results (see also: _The Principle of Equivalence_)
+-   **Access to information**: when people have the opportunity to find out what is going on in the organization and why certain decisions are made, they can figure out how they can best contribute to the whole and be an active and artful member of the organization (see also: _The Principle of Transparency_)
+-   **Safety to disagree**: when people are free to express their opinions and learn how to listen and disagree in constructive ways, the organization can rely on a broader scope of perspectives, experiences and expertise, and people will feel more psychologically safe and in control. (see also: _The Principle of Consent_)
+
+#### Make implicit responsibilities explicit
+
+When responsibilities are unclear, it can lead to mistaken assumptions about who is responsible for what, double work, people crossing important boundaries, or failing to take action in response to important situations. At the same time, when clarifying responsibilities, it’s important to avoid over-constraining people because doing so limits their ability to make important decisions, innovate and act. This leads to a reduction in their willingness to accept accountability. 
+
+Too much specificity or too much ambiguity around the scope of authority people have to influence can lead to hesitation and waste. And in the worst case it can mean that important things don’t get dealt with at all. 
+
+_Clarifying domains_ provides a way of explicitly delineating areas of responsibilities and defining where the edge to people’s autonomy lies. 
+
+#### Encourage self-accountability
+
+To encourage a culture with a high level of self-accountability, do your part in creating a working environment where people voluntarily take on the following responsibilities:
+
+-   Act within the constraints of any agreements governing domains you are responsible for, including the organization itself, teams you are part of, and roles you keep.
+-   Act in accordance with any explicitly defined organizational values.
+-   Be transparent and proactive in communicating with those you share accountability with, if you realize that what you agreed to is not the best course of action.
+-   Find others who can help you if you discover you’re unable to take care of your responsibilities.
+-   Break agreements when you are certain the benefit to the organization outweighs the cost of waiting to amend that agreement first. And take responsibility for any consequences, including following up as soon as possible with those affected.
+-   Speak up if you disagree with something or think it can be improved in a worthwhile way, by raising possible objections as soon as you become aware of them.
+-   Be proactive in responding to situations that could help or harm the organization, either by dealing with them yourself directly, or by finding the people who can, and letting them know.
+-   Aim to give your best contribution, both through the work you are doing and in how you cooperate or directly collaborate with others.
+-   Take responsibility for your ongoing learning and development, and support others to do the same.
+
 
 
 ## Key Concepts for Making Sense of Organizations
@@ -334,11 +674,15 @@ An agreement can include **delegation of specific responsibilities** to individu
 
 ### Governance and Operations
 
-S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
+When people think about governance they often think of corporate governance, the framework of rules, practices, and processes that are used to direct and manage the company. Traditionally, many of these decisions are seen to be made by managers in a management hierarchy but many others throughout an organization often make or at least contribute to governance decisions as well, regardless whether they are aware of it, or not. Governance happens not only on an organizational level, but within teams and even on an individual level as well.
 
-Greater autonomy of individuals and teams necessitates clear agreements (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they remain fit for purpose.
+Most organizations and teams today benefit from developing capacity for collective sense making and harnessing a diversity of perspectives to effectively make and evolve the decisions necessary to navigate in a complex world.
 
-While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people's behavior and activity, often benefits from a more participatory and deliberate _decision making process_.
+Since there are so many decisions to make for an organization to run effectively, S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
+
+Greater autonomy of individuals and teams necessitates clear <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they become, and remain fit for purpose over time. 
+
+While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people's behavior and activity, often benefits from a more participatory and deliberate _decision making process_. These agreements include but are not limited to matters such as: strategy, priorities, distribution of responsibilities and power to influence, work processes, and many decisions about products and services. 
 
 Such agreements need to be documented, both to remember them and to support effective _review_, and to be communicated to people affected (who are ideally also _involved in the creation and evolution_ of those agreements).
 
@@ -348,20 +692,31 @@ _**Governance** in an organization (or a domain within it) is the process of set
 
 _**Operations** is doing the work and organizing day-to-day activities within the constraints defined through governance._
 
-For each domain in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
+For each <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn> in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
 
-There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a team lead, and sometimes it's a group of people, e.g. in a circle where all circle members share responsibility for governance within the constraints of the domain.
+There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a manager who leads others. Other times a _group of people govern themselves_ and all members and all members share responsibility for governance within the constraints of their domain. 
+ 
+**Governance decisions** set constraints on activity and guide future decisions.They relate to matters like:
 
-**Governance decisions** set constraints on activity and guide future decisions.
+-   Work processes
+-   Policies and procedures about how people work together
+-   Organizational structure:
+    -   Distributing responsibilities and power to influence by designing domains and selecting people to account for them
+    -   Accounting for dependencies between teams
+-   Distribution of resources
+-   Strategy (for the whole organization, for a team, product or role), 
+-   Priorities and objectives
+-   Consequential decisions about products, services, tools, technology, security etc.
 
-This includes:
+Depending on the context, a team might make governance decisions: 
 
--   defining domains
--   delegating influence to people
--   allocating resources and capacity
--   specifying deliverables and prioritizing delivery.
+-   in dedicated _governance meetings_ that are scheduled on a regular basis
+-   on the fly, during the working day
+-   in a one-off meeting to deal with a specific topic
+-   in other types of meetings such as product meetings, _planning meetings_ or _retrospectives_, etc.
 
-Governance decisions can be made at any time and at any place, not just in a specific kind of meeting, although a _regular meeting for making and evolving agreements_ is often a good idea.
+Wherever and whenever you make governance decisions, one thing worth considering is _documenting them somehow_. This way you’ll be able to remember what was agreed, so will others, and you’ll have something to come back to when it’s time to review.
+
 
 #### Related Concepts
 
@@ -436,7 +791,7 @@ _Would it help the organization if we respond to this driver? Or would it lead t
 
 To **discover drivers**, investigate what stimulates tension, and describe what's happening and what's needed. Sometimes an inquiry reveals misconceptions and the tension goes away.
 
-When passing on a driver to another domain, it is often enough to communicate what is happening and why you think it matters (the effect on the organization). Let those responsible think about what's needed.
+When passing on a driver to another domain, it is often enough to communicate what is happening and why you think it matters (the effect on the organization). Let those responsible think about what's needed and what to do about it.
 
 ![Navigate via Tension, Describe Organizational Drivers, Respond To Organizational Drivers](img/process/navigate-describe-respond.png)
 
@@ -822,7 +1177,7 @@ _Identify who has experience or expertise in responding to these needs, so that 
 
 ###### 5. Identify Domains
 
-_Cluster actors and/or needs according to relevance, into coherent **domains** as a starting point to sorting and prioritizing needs. Consider how to optimize end-to-end delivery of value to the various actors that you identified in step 2._
+_Cluster actors and/or needs according to relevance, into coherent **domains** as a starting point for sorting and prioritizing needs. Consider how to optimize end-to-end delivery of value to the various actors that you identified in step 2._
 
 Ways to identify domains:
 
@@ -856,7 +1211,7 @@ _Organize the work that lies ahead in each domain, ensure things are prioritized
 
 -   For each domain, copy the template below to a flip chart
 -   Sort all remaining needs into the two backlogs on the flip chart:
-    -   operations backlog: needs that can be acted
+    -   operations backlog: needs that can be acted on
     -   governance backlog: needs that would benefit from or necessitate a decision
 -   Combine and rephrase cards as necessary, so that description on each card is clear. Consult the author of the card when in doubt.
 -   Prioritize the cards in each board.
@@ -865,7 +1220,7 @@ _Organize the work that lies ahead in each domain, ensure things are prioritized
 -   Pass on cards that appear to be the accountability of another domain to address.
 -   Add cards concerning multiple domains to a dedicated backlog to address later.
 
-_As a facilitator of the driver mapping process, provide a space to collect cards concerning multiple domains so that they can be addressed later. _
+_As a facilitator of the driver mapping process, provide a space to collect cards concerning multiple domains so that they can be addressed later._
 
 Regularly pause to share reports between the various domains. Note: Some domains might dissolve, change or merge with others.
 
@@ -1141,7 +1496,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 
 Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
 
-- make provisions for successfully getting started by defining onboarding procedures
+- make provisions for successfully getting started by defining on-boarding procedures
 - have a probationary period, where all parties can try out the collaboration, and a clear protocol for how each party can terminate the contract during the probationary period
 - define and build into the contract regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
 - include procedures for breach of contract
@@ -1541,6 +1896,10 @@ A simple way for supporting stakeholders in developing shared understanding abou
 -   Key Metrics
 -   Evaluation
 
+On the [S3 Canvas microsite] you can find a variety of templates you can use for (co-)creating and documenting domain descriptions.
+
+(http://s3canvas.sociocracy30.org/s3-delegation-canvas.html)
+
 Consider designing domains with the minimal constraints necessary and always choose constraints that enable people to maximally create value.
 
 The delegatee(s) may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else’s (explicit) domain, or impede other people's contribution to the organization in some other way. 
@@ -1645,9 +2004,10 @@ What are the known or anticipated challenges that the delegatee(s) might face wh
 
 ###### Key Deliverables
 
-What does the team or role provide to respond to it’s primary driver, the key responsibilities and the key challenges faced?
+What does the team or role provide to respond to its primary driver, the key responsibilities and the key challenges faced?
 
 As a delegator, consider carefully to what degree you will leave the design of deliverables to the delegatee(s), who can then define deliverables and add them to the domain description later. Letting the delegatee(s) lead on the design of deliverables often frees them up to deliver value according to their strengths and interest.
+
 Describe each deliverable with a reasonable amount of detail and ensure that deliverables are valuable to the stakeholders that receive them. You can start with a sentence or two about each deliverable but eventually you might need to _describe them in more detail_.
 
  
@@ -1680,7 +2040,7 @@ Describe the delegator's responsibilities in specific and measurable terms, so t
 
 Key <dfn data-info="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">Metrics</dfn> are statistics that serve as critical indicators of progress, project health or performance. They relate to the primary driver (and/or purpose), key responsibilities, challenges, deliverables, and delegator responsibilities defined for this domain. 
 
-Key Metrics are monitored and assessed frequently. They are relevant criteria for evaluating outcomes and success in scheduled reviews (see “Evaluation” below).
+Key Metrics are monitored and assessed frequently. They are relevant criteria for evaluating outcomes and success in scheduled evaluations (see “Monitoring and Evaluation” below).
 
 For each metric, consider the actual numbers that are monitored, as well as the meaning of those numbers in relation to the domain (targets, acceptable range, or tolerance).
 
@@ -1703,7 +2063,7 @@ In the evaluation, ensure you consider the following aspects:
 Define:
 
 -   A schedule or frequency for evaluations. 
--   Other helpful evaluation criteria in addition the key metrics.
+-   Other helpful evaluation criteria in addition to the key metrics.
 -   Any other relevant aspects to consider for the evaluation. 
 -   Who should take part in the evaluation.
 -   A process for evaluation (e.g. _Peer Review_).
@@ -2205,7 +2565,7 @@ Continuously evolve your organization's structure to:
 -   support the continuous <dfn data-info="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</dfn>
 -   enable effective collaboration around dependencies
 -   ensure information is available to those who need it
--   distribute power to influence as required
+-   distribute resources and power to influence as required
 
 The basic building blocks for organizational structure are interdependent, connected domains.
 
@@ -2369,9 +2729,9 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 ### Ten Principles for Evolving Teams and Organizations
 
 
-**Principle 1 – Clarify Purpose:** _Ensure that everyone understands who the organization or team is serving, why and to what end, so that people are able to focus and unite their efforts on achieving that purpose._
+**Principle 1 – Clarify Purpose:** _Ensure that everyone understands who the organization or team is serving, why and to what end, so that everyone is able to focus and unite their efforts on achieving that purpose._
 
-**Principle 2 – Develop Strategy:** _Develop a strategy to guide value creation, so that people share a common direction, and strategy is adapted as necessary to achieve the purpose._
+**Principle 2 – Develop Strategy:** _Develop a strategy to guide value creation, so that everyone shares a common direction, and strategy is adapted as necessary to achieve the purpose._
 
 **Principle 3 – Focus on Value:** _Focus your daily work on value delivery, so that the stuff that needs doing to achieve your purpose is done._
 
@@ -2383,11 +2743,11 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 
 **Principle 7 – Collaborate on Dependencies:** _Co-create and evolve a coherent system to deal with all dependencies, so that you deliver value fast when dependencies cannot be avoided._
 
-**Principle 8 – Invest in Learning:** _Ensure the people grow competence and skill, so that they develop, their contribution remains valuable and the organization can evolve._
+**Principle 8 – Invest in Learning:** _Support everyone in developing their competence and skill, so that their contribution remains valuable and the organization can evolve._
 
-**Principle 9 – Intentionally Develop Culture:** _Collaborate on fostering a cooperative culture where people achieve their fuller potential, so that you build and maintain an engaging and productive work environment._
+**Principle 9 – Intentionally Develop Culture:** _Collaborate on fostering a cooperative culture where everyone can achieve their fuller potential, so that you build and maintain an engaging and productive work environment._
 
-**Principle 10 – Build Shared Mental Models:** _Invest in building shared mental models, so that people can engage in meaningful dialogue about what’s happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._
+**Principle 10 – Build Shared Mental Models:** _Invest in building shared mental models, so that everyone can engage in meaningful dialogue about what’s happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._
 
 
 ### Two Principles for Orientation
@@ -2400,7 +2760,7 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 #### Principle 1 – Clarify Purpose
 
 
-**_Ensure that everyone understands who the organization or team is serving, why and to what end, so that people are able to focus and unite their efforts on achieving that purpose._**
+**_Ensure that everyone understands who the organization or team is serving, why and to what end, so that everyone is able to focus and unite their efforts on achieving that purpose._**
 
 
 Essential Patterns to help you achieve this:
@@ -2411,7 +2771,7 @@ Essential Patterns to help you achieve this:
 #### Principle 2 – Develop Strategy
 
 
-**_Develop a strategy to guide value creation, so that people share a common direction, and strategy is adapted as necessary to achieve the purpose._**
+**_Develop a strategy to guide value creation, so that everyone shares a common direction, and strategy is adapted as necessary to achieve the purpose._**
 
 Essential Patterns to help you achieve this:
 
@@ -2525,7 +2885,7 @@ Essential patterns to help you achieve this:
 #### Principle 8 – Invest in Learning
 
 
-**_Ensure the people grow competence and skill, so that they develop, their contribution remains valuable and the organization can evolve._**
+**_Support everyone in developing their competence and skill, so that their contribution remains valuable and the organization can evolve._**
 
 Essential patterns to help you achieve this:
 
@@ -2539,7 +2899,7 @@ Essential patterns to help you achieve this:
 #### Principle 9 – Intentionally Develop Culture
 
 
-**_Collaborate on fostering a cooperative culture where people achieve their fuller potential, so that you build and maintain an engaging and productive work environment._**
+**_Collaborate on fostering a cooperative culture where everyone can achieve their fuller potential, so that you build and maintain an engaging and productive work environment._**
 
 Essential patterns to help you achieve this:
 
@@ -2554,7 +2914,7 @@ Essential patterns to help you achieve this:
 #### Principle 10 – Build Shared Mental Models
 
 
-**_Invest in building shared mental models, so that people can engage in meaningful dialogue about what’s happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._**
+**_Invest in building shared mental models, so that everyone can engage in meaningful dialogue about what’s happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._**
 
 Essential patterns to help you achieve this:
 
@@ -2581,11 +2941,20 @@ For each principle we included a list of suggestions for things you can try. The
 
 ### Changelog
 
+#### Changes 2021-06-18
+
+-   added a dedicated chapter for each of the Seven Principles
+-   revised the ten principles of the Common Sense Framework
+-   updated section about governance in the introduction
+    -   added more text to explain how governance can be distributed throughout the organization
+    -   more examples for governance decisions   
+-   corrected a few typos
+-   several small revisions
 
 #### Changes 2021-05-15
 
 -   _Navigate via Tension_: added more explanation about passing on drivers to another domain
--   _Clarify and Develop Domains_: more explanation about refining the elements of a domain description, more information about metricx, monitoring and evaluation, added template illustration, 
+-   _Clarify and Develop Domains_: more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
 
 #### Changes 2021-03-15
 
@@ -3271,7 +3640,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Account for (v.):** to take the responsibility for something.
 
 
-**Accountability (principle):** *Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,* so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
+**Accountability (principle):** **Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
 
 
 **Agreement:** An agreed upon guideline, process, protocol or policy designed to guide the flow of value.
@@ -3298,13 +3667,13 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Concern:** An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
 
 
-**Consent (principle):** *Raise, seek out and resolve objections to decisions and actions,* so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
+**Consent (principle):** **Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
 
 
 **Constituent:** A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.
 
 
-**Continuous Improvement (principle):** *Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn,* so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.
+**Continuous Improvement (principle):** **Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.
 
 
 **Coordination:** The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
@@ -3328,13 +3697,13 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Driver:** A person’s or a group's motive for responding to a specific situation.
 
 
-**Effectiveness (principle):** *Devote time only to what brings you closer towards achieving your organization’s overall objectives,* so that you can make the best use of your limited time, energy and resources.
+**Effectiveness (principle):** **Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources.
 
 
-**Empiricism (principle):** *Test all assumptions you rely on, through experiments and continuous revision,* so that you learn fast, make sense of things and navigate complexity as effectively as you can.
+**Empiricism (principle):** **Test all assumptions you rely on, through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can.
 
 
-**Equivalence (principle):** *Involve people in making and evolving decisions that affect them,* so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
+**Equivalence (principle):** **Involve people in making and evolving decisions that affect them**, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
 
 
 **Evolve (v.):** to develop gradually.
@@ -3448,7 +3817,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Timebox:** A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).
 
 
-**Transparency (principle):** *Record all information that is valuable for the organization, and make it accessible to everyone in the organization, unless there is a reason for confidentiality,* so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.
+**Transparency (principle):** **Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.
 
 
 **Value:** The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").

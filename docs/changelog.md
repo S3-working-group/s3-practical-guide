@@ -3,11 +3,20 @@ title: "Changelog"
 ---
 
 
+## Changes 2021-06-18
+
+-   added a dedicated chapter for each of the Seven Principles
+-   revised the ten principles of the Common Sense Framework
+-   updated section about governance in the introduction
+    -   added more text to explain how governance can be distributed throughout the organization
+    -   more examples for governance decisions   
+-   corrected a few typos
+-   several small revisions
 
 ## Changes 2021-05-15
 
 -   [Navigate via Tension](navigate-via-tension.html): added more explanation about passing on drivers to another domain
--   [Clarify and Develop Domains](clarify-and-develop-domains.html): more explanation about refining the elements of a domain description, more information about metricx, monitoring and evaluation, added template illustration, 
+-   [Clarify and Develop Domains](clarify-and-develop-domains.html): more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
 
 ## Changes 2021-03-15
 

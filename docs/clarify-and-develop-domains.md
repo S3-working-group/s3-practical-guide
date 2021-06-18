@@ -25,6 +25,10 @@ A simple way for supporting stakeholders in developing shared understanding abou
 -   Key Metrics
 -   Evaluation
 
+On the [S3 Canvas microsite] you can find a variety of templates you can use for (co-)creating and documenting domain descriptions.
+
+(http://s3canvas.sociocracy30.org/s3-delegation-canvas.html)
+
 Consider designing domains with the minimal constraints necessary and always choose constraints that enable people to maximally create value.
 
 The delegatee(s) may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else’s (explicit) domain, or impede other people's contribution to the organization in some other way. 
@@ -129,9 +133,10 @@ What are the known or anticipated challenges that the delegatee(s) might face wh
 
 ### Key Deliverables
 
-What does the team or role provide to respond to it’s primary driver, the key responsibilities and the key challenges faced?
+What does the team or role provide to respond to its primary driver, the key responsibilities and the key challenges faced?
 
 As a delegator, consider carefully to what degree you will leave the design of deliverables to the delegatee(s), who can then define deliverables and add them to the domain description later. Letting the delegatee(s) lead on the design of deliverables often frees them up to deliver value according to their strengths and interest.
+
 Describe each deliverable with a reasonable amount of detail and ensure that deliverables are valuable to the stakeholders that receive them. You can start with a sentence or two about each deliverable but eventually you might need to [describe them in more detail](describe-deliverables.html).
 
  
@@ -164,7 +169,7 @@ Describe the delegator's responsibilities in specific and measurable terms, so t
 
 Key <dfn data-info="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">Metrics</dfn> are statistics that serve as critical indicators of progress, project health or performance. They relate to the primary driver (and/or purpose), key responsibilities, challenges, deliverables, and delegator responsibilities defined for this domain. 
 
-Key Metrics are monitored and assessed frequently. They are relevant criteria for evaluating outcomes and success in scheduled reviews (see “Evaluation” below).
+Key Metrics are monitored and assessed frequently. They are relevant criteria for evaluating outcomes and success in scheduled evaluations (see “Monitoring and Evaluation” below).
 
 For each metric, consider the actual numbers that are monitored, as well as the meaning of those numbers in relation to the domain (targets, acceptable range, or tolerance).
 
@@ -187,7 +192,7 @@ In the evaluation, ensure you consider the following aspects:
 Define:
 
 -   A schedule or frequency for evaluations. 
--   Other helpful evaluation criteria in addition the key metrics.
+-   Other helpful evaluation criteria in addition to the key metrics.
 -   Any other relevant aspects to consider for the evaluation. 
 -   Who should take part in the evaluation.
 -   A process for evaluation (e.g. [Peer Review](peer-review.html)).
