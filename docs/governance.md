@@ -23,7 +23,7 @@ _**Operations** is doing the work and organizing day-to-day activities within th
 
 For each <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn> in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
 
-There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a manager who leads others. Other times a [group of people govern themselves](circle.html) and all members and all members share responsibility for governance within the constraints of their domain. 
+There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a manager who leads others. Other times a [group of people govern themselves](circle.html) and all members share responsibility for governance within the constraints of their domain. 
  
 **Governance decisions** set constraints on activity and guide future decisions.They relate to matters like:
 

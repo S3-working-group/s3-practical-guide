@@ -5,8 +5,6 @@ title: "The Principle of Consent"
 
 _**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve._
 
-Raise, seek out and resolve objections to decisions and actions, so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
-
 Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions and activity through the lens of different people’s perspectives helps to identify reasons why a decision or activity could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
 
 Adopting the principle of consent invites a change of focus in decision making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough or that there are worthwhile ways to improve? 
@@ -51,7 +49,7 @@ Adopting the principle of consent in a team, or in the organization as a whole, 
 
 
 <div class="bottom-nav">
-<a href="principle-effectiveness.html" title="Back to: The Principle of Effectiveness: ">◀</a> <a href="principles.html" title="Up: The Seven Principles">▲</a> <a href="principle-empiricism.html" title="Read next:  The Principle of Empiricism">▶ Read next:  The Principle of Empiricism</a>
+<a href="principle-effectiveness.html" title="Back to: The Principle of Effectiveness ">◀</a> <a href="principles.html" title="Up: The Seven Principles">▲</a> <a href="principle-empiricism.html" title="Read next:  The Principle of Empiricism">▶ Read next:  The Principle of Empiricism</a>
 </div>
 
 

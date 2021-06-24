@@ -5,8 +5,6 @@ title: "The Principle of Accountability"
 
 _**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization._
 
-Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization, so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
-
 Whenever we are part of a system (e.g. an organization, a community, family or state) the consequence of our actions or inaction will impact others in that same system for better or worse. Therefore we carry a certain amount of responsibility for the wellbeing of the system.
 
 In particular, when we choose to become part of an organization, we enter into a transactional relationship with others, where we can expect to receive something in exchange for taking care of one or more specific needs the organization has. 

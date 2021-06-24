@@ -3,9 +3,7 @@ title: " The Principle of Empiricism"
 ---
 
 
-_**Test all assumptions you rely on, through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
-
-Test all assumptions you rely on, through experiments and continuous revision, to learn more, make sense of things and navigate complexity as effectively as you can.
+_**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
 
 Empiricism — the foundation of the scientific method — is an essential principle to embrace if we’re to navigate effectively in a complex world. Not only are the environments in which organizations operate complex but an organization is in itself a complex adaptive system. Knowledge about an organizational system and its interactions is often tentative and highly dependent on context. 
 

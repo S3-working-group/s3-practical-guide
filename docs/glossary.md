@@ -91,7 +91,7 @@ title: "Glossary"
 
 
 <dt id="entry-empiricism">Empiricism (principle)</dt>
-<dd>**Test all assumptions you rely on, through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can.</dd>
+<dd>**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can.</dd>
 
 
 <dt id="entry-equivalence">Equivalence (principle)</dt>

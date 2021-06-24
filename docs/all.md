@@ -174,40 +174,38 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 ![The Seven Principles](img/framework/s3-principles-plain.png)
 
-**The Principle of Effectiveness:** 
+**_The Principle of Effectiveness_:** 
 
 _**Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources._
 
-**The Principle of Consent:**
+**_The Principle of Consent_:**
 
 _**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve._
 
-**The Principle of Empiricism:** 
+**_The Principle of Empiricism_:** 
 
-_**Test all assumptions you rely on, through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
+_**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
 
-**The Principle of Continuous Improvement:**
+**_The Principle of Continuous Improvement_:**
 
 _**Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time._
 
-**The Principle of Equivalence:**
+**_The Principle of Equivalence_:**
 
 _**Involve people in making and evolving decisions that affect them**, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives._
 
-**The Principle of Transparency:** 
+**_The Principle of Transparency_:**
 
 _**Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole._
 
-**The Principle of Accountability:** 
+**_The Principle of Accountability_:**
 
 _**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization._
 
 
-### The Principle of Effectiveness: 
+### The Principle of Effectiveness 
 
 _**Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources._
-
-Devote time only to what brings you closer toward achieving your organization’s overall objectives, so that you can make the best use of your limited time, energy and resources.
 
 The principle of effectiveness invites us to think consciously about what we do and how we do things. It calls for the intentional consideration of the consequences of our actions, both now and across time, on our organizations but also on the wider environment and the world at large. 
 
@@ -234,7 +232,7 @@ There are scales of effectiveness (and efficiency) that can only be appreciated 
 
 In complex environments it is sometimes hard to figure out what effectiveness would actually mean. Consider the perspective of others, even if you are making a decision for yourself.  Make the most of experience and expertise distributed throughout your organization and reach out to people with alternative points of view. Running your ideas past others can help you to avoid consequences that you’d rather avoid, and identify worthwhile ways to improve.
 
-Decide how you will measure effectiveness and if you’re collaborating with others, develop and maintain a shared understanding of what this will mean. Having established a clear “_why_” and defined the outcome you intend to achieve, consider how you will measure results in a way that allows you to see how you’re progressing (and whether anything you are doing is useful at all!)
+Decide how you will measure effectiveness, and if you’re collaborating with others, develop and maintain a shared understanding of what this will mean. Having established a clear “_why_” and defined the outcome you intend to achieve, consider how you will measure results in a way that allows you to see how you’re progressing (and whether anything you are doing is useful at all!)
 
 Effectiveness can sometimes only be determined in retrospect. Pay attention to and reflect on the consequences of your actions,  and then use what you learn to improve your effectiveness next time. 
 
@@ -255,8 +253,6 @@ As well as getting clear on what you WILL do, be clear on what NOT to do as well
 ### The Principle of Consent
 
 _**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve._
-
-Raise, seek out and resolve objections to decisions and actions, so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
 
 Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions and activity through the lens of different people’s perspectives helps to identify reasons why a decision or activity could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
 
@@ -303,9 +299,7 @@ Adopting the principle of consent in a team, or in the organization as a whole, 
 
 ###  The Principle of Empiricism
 
-_**Test all assumptions you rely on, through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
-
-Test all assumptions you rely on, through experiments and continuous revision, to learn more, make sense of things and navigate complexity as effectively as you can.
+_**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
 
 Empiricism — the foundation of the scientific method — is an essential principle to embrace if we’re to navigate effectively in a complex world. Not only are the environments in which organizations operate complex but an organization is in itself a complex adaptive system. Knowledge about an organizational system and its interactions is often tentative and highly dependent on context. 
 
@@ -345,8 +339,6 @@ In a complex system, it is impossible to predict all of the ways in which that s
 
 _**Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time._
 
-Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.
-
 Whereas the principles of _Empiricism_ and _Consent_ reveal opportunities for learning, Continuous Improvement relates to what we do with what we learn. Continuous Improvement applies to how we conduct our operations, but also to governance. Everything from the evolution of strategies, policy, processes and guidelines, to the development of products, services, competencies and skills, attitudes and behavior, chosen values and tools, all can be continuously improved. 
 
 #### Take an iterative approach to change
@@ -370,8 +362,6 @@ Remember that even if things don’t turn out as you expect sometimes, this does
 ### The Principle of Equivalence
 
 _**Involve people in making and evolving decisions that affect them**, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives._
-
-Involve people in making and evolving decisions that affect them, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
 
 Equivalence is important in organizational systems, precisely because people are not equal to one other in a variety of ways and depending on the context. 
 
@@ -427,8 +417,6 @@ Some decision making will be improved through including a range of perspectives 
 
 _**Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole._
 
-Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.
-
 Transparency in an organization helps people understand what's going on, what to expect and why things are done the way they are. It reduces uncertainty, supports trust and trustworthiness and fosters accountability. 
 
 Adequate transparency means that people either have direct access to the information they need, or that they at least know where to go or who to ask, to get access to it. Transparency helps everyone understand when they can safely and effectively decide and act for themselves and when they need to involve others to respond to dependencies they share.
@@ -467,8 +455,6 @@ Documenting relevant information in a way that is coherent and accessible is an 
 ### The Principle of Accountability
 
 _**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization._
-
-Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization, so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
 
 Whenever we are part of a system (e.g. an organization, a community, family or state) the consequence of our actions or inaction will impact others in that same system for better or worse. Therefore we carry a certain amount of responsibility for the wellbeing of the system.
 
@@ -694,7 +680,7 @@ _**Operations** is doing the work and organizing day-to-day activities within th
 
 For each <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn> in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
 
-There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a manager who leads others. Other times a _group of people govern themselves_ and all members and all members share responsibility for governance within the constraints of their domain. 
+There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a manager who leads others. Other times a _group of people govern themselves_ and all members share responsibility for governance within the constraints of their domain. 
  
 **Governance decisions** set constraints on activity and guide future decisions.They relate to matters like:
 
@@ -3700,7 +3686,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Effectiveness (principle):** **Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources.
 
 
-**Empiricism (principle):** **Test all assumptions you rely on, through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can.
+**Empiricism (principle):** **Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can.
 
 
 **Equivalence (principle):** **Involve people in making and evolving decisions that affect them**, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
