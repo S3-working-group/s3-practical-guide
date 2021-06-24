@@ -2,8 +2,6 @@
 
 _{{glossary:transparency}}_
 
-Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole.
-
 Transparency in an organization helps people understand what's going on, what to expect and why things are done the way they are. It reduces uncertainty, supports trust and trustworthiness and fosters accountability. 
 
 Adequate transparency means that people either have direct access to the information they need, or that they at least know where to go or who to ask, to get access to it. Transparency helps everyone understand when they can safely and effectively decide and act for themselves and when they need to involve others to respond to dependencies they share.

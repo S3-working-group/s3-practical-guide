@@ -2,8 +2,6 @@
 
 _{{glossary:equivalence}}_
 
-Involve people in making and evolving decisions that affect them, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives.
-
 Equivalence is important in organizational systems, precisely because people are not equal to one other in a variety of ways and depending on the context. 
 
 Equivalence increases engagement by giving people affected by decisions the opportunity to influence those decisions to some degree. 

@@ -1,8 +1,6 @@
-# The Principle of Effectiveness: 
+# The Principle of Effectiveness 
 
 _{{glossary:effectiveness}}_
-
-Devote time only to what brings you closer toward achieving your organization’s overall objectives, so that you can make the best use of your limited time, energy and resources.
 
 The principle of effectiveness invites us to think consciously about what we do and how we do things. It calls for the intentional consideration of the consequences of our actions, both now and across time, on our organizations but also on the wider environment and the world at large. 
 
@@ -29,7 +27,7 @@ There are scales of effectiveness (and efficiency) that can only be appreciated 
 
 In complex environments it is sometimes hard to figure out what effectiveness would actually mean. Consider the perspective of others, even if you are making a decision for yourself.  Make the most of experience and expertise distributed throughout your organization and reach out to people with alternative points of view. Running your ideas past others can help you to avoid consequences that you’d rather avoid, and identify worthwhile ways to improve.
 
-Decide how you will measure effectiveness and if you’re collaborating with others, develop and maintain a shared understanding of what this will mean. Having established a clear “_why_” and defined the outcome you intend to achieve, consider how you will measure results in a way that allows you to see how you’re progressing (and whether anything you are doing is useful at all!)
+Decide how you will measure effectiveness, and if you’re collaborating with others, develop and maintain a shared understanding of what this will mean. Having established a clear “_why_” and defined the outcome you intend to achieve, consider how you will measure results in a way that allows you to see how you’re progressing (and whether anything you are doing is useful at all!)
 
 Effectiveness can sometimes only be determined in retrospect. Pay attention to and reflect on the consequences of your actions,  and then use what you learn to improve your effectiveness next time. 
 

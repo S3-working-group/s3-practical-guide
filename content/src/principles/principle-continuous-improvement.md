@@ -2,8 +2,6 @@
 
 _{{glossary:continuous-improvement}}_
 
-Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it, based on what you learn, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time.
-
 Whereas the principles of [Empiricism](section:principle-empiricism) and [Consent](section:principle-consent) reveal opportunities for learning, Continuous Improvement relates to what we do with what we learn. Continuous Improvement applies to how we conduct our operations, but also to governance. Everything from the evolution of strategies, policy, processes and guidelines, to the development of products, services, competencies and skills, attitudes and behavior, chosen values and tools, all can be continuously improved. 
 
 ## Take an iterative approach to change
