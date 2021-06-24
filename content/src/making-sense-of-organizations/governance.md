@@ -20,7 +20,7 @@ Therefore it's valuable to distinguish between two categories of activities in a
 
 For each [domain](glossary:domain) in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
 
-There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a manager who leads others. Other times a [group of people govern themselves](section:circle) and all members and all members share responsibility for governance within the constraints of their domain. 
+There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a manager who leads others. Other times a [group of people govern themselves](section:circle) and all members share responsibility for governance within the constraints of their domain. 
  
 **Governance decisions** set constraints on activity and guide future decisions.They relate to matters like:
 
