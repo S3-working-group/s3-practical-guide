@@ -1,17 +1,19 @@
-# Open Domain
+# Open Team
 
 <summary>
-**Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.**
+**Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.**
 </summary>
 
-The [delegator](glossary:delegator) of the open domain clarifies:
+{{define:open-team}}
 
-- the [primary driver](glossary:primary-driver), key responsibilities and constraints of the open domain
-- who is invited to contribute to the open domain
-- constraints relating to the delegator's participation in the open domain's [governance](glossary:governance)
+The [delegator](glossary:delegator) of the domain creates an invitation that clarifies:
+
+- the [primary driver](glossary:primary-driver), key responsibilities and constraints of the domain
+- who is invited to contribute (the members of the open team)
+- constraints relating to the delegator's participation in the domain's [governance](glossary:governance)
 
 Depending on the constraints set by the delegator, contributors may only [organize and do work](glossary:operations), or take part in governance as well.
 
-A delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making done in an open domain.
+The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making in the open team.
 
-![Open Domain](img/structural-patterns/open-team.png)
+![Open Team](img/structural-patterns/open-team.png)
