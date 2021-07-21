@@ -104,7 +104,7 @@ parts:
             tags: [pattern]
           - id: helping-team
             tags: [pattern]
-          - id: open-domain
+          - id: open-team
             tags: [pattern]
           - id: open-systems
             tags: [pattern]

@@ -141,10 +141,10 @@ terms:
     name: Objective
     definition:
     glossary: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.
-  open-domain:
-    name: Open Domain
-    definition:
-    glossary: A domain that is accounted for by a set of people who are invited to contribute when they can.
+  open-team:
+    name: Open Team
+    definition: An **open team** is a group of people who are invited to contribute to the work and governance done in a domain when they can.
+    glossary: A group of people who are invited to contribute to the work and governance done in a domain when they can.
   operations:
     name: Operations
     definition: "**Operations** is doing the work and organizing day-to-day activities within the constraints defined through governance."

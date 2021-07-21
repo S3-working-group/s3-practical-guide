@@ -1,5 +1,9 @@
 # Changelog
 
+## Changes 2021-07-21
+
+-   renamed _Open Domain_ to [Open Team](section:open-team)
+
 ## Changes 2021-06-18
 
 -   added a dedicated chapter for each of the Seven Principles
@@ -163,7 +167,7 @@
 **Glossary:**
 
 -   **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
+-   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team and open domain
 -   **removed:** peer driver
 
 **Changes to Introduction**
@@ -204,7 +208,7 @@
 -   [Logbook](section:logbook): clarified that there is no difference between logbooks for groups and logbooks for roles
 -   [Navigate via Tension](section:navigate-via-tension): improved description, added a new illustration to clarify the distinction between _Navigate via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
 -   _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
--   [Open Domain](section:open-domain): improved description and updated illustration
+-   [Open Domain](section:open-team): improved description and updated illustration
 -   [Open Systems](section:open-systems): improved description
 -   [Open Space for Change](section:open-space-for-change): renamed from _Open S3 Adoption_, improved description
 -   [Peach Organization](section:peach-organization): clarified relationship between periphery and center
