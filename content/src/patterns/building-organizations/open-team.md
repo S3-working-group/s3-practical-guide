@@ -14,4 +14,4 @@ Depending on the constraints set by the delegator, contributors may only [organi
 
 A delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making done in an open domain.
 
-![Open Domain](img/structural-patterns/open-domain.png)
+![Open Domain](img/structural-patterns/open-team.png)
