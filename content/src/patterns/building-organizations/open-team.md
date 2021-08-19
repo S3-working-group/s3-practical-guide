@@ -8,9 +8,9 @@
 
 The [delegator](glossary:delegator) of the domain creates an invitation that clarifies:
 
-- the [primary driver](glossary:primary-driver), key responsibilities and constraints of the domain
+- the [primary driver](glossary:primary-driver), key responsibilities and constraints of the open team's domain
 - who is invited to contribute (the members of the open team)
-- constraints relating to the delegator's participation in the domain's [governance](glossary:governance)
+- constraints relating to the delegator's participation in the open team's [governance](glossary:governance)
 
 Depending on the constraints set by the delegator, contributors may only [organize and do work](glossary:operations), or take part in governance as well.
 
