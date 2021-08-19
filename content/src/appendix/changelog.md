@@ -1,6 +1,6 @@
 # Changelog
 
-## Changes 2021-07-21
+## Changes 2021-08-15
 
 -   renamed _Open Domain_ to [Open Team](section:open-team)
 
