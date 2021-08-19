@@ -1300,7 +1300,7 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 
 **A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.**
 
-The development plan may be created for a person in a role, or for a team (e.g. a department, _circle_ or _open domain_).
+The development plan may be created for a person in a role, or for a team (e.g. a department, _circle_ or _open team_).
 
 Development may happen in the form of refining the _description of the driver_ and the <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>, making amendments to <dfn data-info="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</dfn>, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
 
@@ -1668,21 +1668,23 @@ Members of the helping team:
 ![Helping Team](img/structural-patterns/helping-team.png)
 
 
-#### Open Domain
+#### Open Team
 
-**Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.**
+**Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.**
 
-The <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn> of the open domain clarifies:
+_An **open team** is a group of people who are invited to contribute to the work and governance done in a domain when they can._
 
-- the <dfn data-info="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</dfn>, key responsibilities and constraints of the open domain
-- who is invited to contribute to the open domain
-- constraints relating to the delegator's participation in the open domain's <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn>
+The <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn> of the domain creates an invitation that clarifies:
+
+- the <dfn data-info="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</dfn>, key responsibilities and constraints of the open team's domain
+- who is invited to contribute (the members of the open team)
+- constraints relating to the delegator's participation in the open team's <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn>
 
 Depending on the constraints set by the delegator, contributors may only <dfn data-info="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">organize and do work</dfn>, or take part in governance as well.
 
-A delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making done in an open domain.
+The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making in the open team.
 
-![Open Domain](img/structural-patterns/open-domain.png)
+![Open Team](img/structural-patterns/open-team.png)
 
 
 #### Open Systems
@@ -2179,7 +2181,7 @@ Typical agenda items include:
 -   new drivers requiring decisions to be made, including:
     -   _forming proposals_
     -   _making agreements_
-    -   _designing domains_ and deciding how to account for them (e.g. new _roles_, _circles_, teams or _open domains_)
+    -   _designing domains_ and deciding how to account for them (e.g. new _roles_, _circles_, teams or _open teams_)
 
 
 
@@ -2927,6 +2929,10 @@ For each principle we included a list of suggestions for things you can try. The
 
 ### Changelog
 
+#### Changes 2021-08-15
+
+-   renamed _Open Domain_ to _Open Team_
+
 #### Changes 2021-06-18
 
 -   added a dedicated chapter for each of the Seven Principles
@@ -3090,7 +3096,7 @@ For each principle we included a list of suggestions for things you can try. The
 **Glossary:**
 
 -   **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
+-   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team and open domain
 -   **removed:** peer driver
 
 **Changes to Introduction**
@@ -3393,14 +3399,14 @@ For each principle we included a list of suggestions for things you can try. The
   <dt><a href="navigate-via-tension.html">Navigate via Tension</a></dt>
   <dd><p>Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.</p></dd>
 
-  <dt><a href="open-domain.html">Open Domain</a></dt>
-  <dd><p>Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.</p></dd>
-
   <dt><a href="open-space-for-change.html">Open Space For Change</a></dt>
   <dd><p>Invite everyone to create and run experiments for evolving the organization.</p></dd>
 
   <dt><a href="open-systems.html">Open Systems</a></dt>
   <dd><p>Intentionally communicate with and learn from others outside of your system.</p></dd>
+
+  <dt><a href="open-team.html">Open Team</a></dt>
+  <dd><p>Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.</p></dd>
 
   <dt><a href="peach-organization.html">Peach Organization</a></dt>
   <dd><p>Deliver value in complex and competitive environments through <em>decentralization</em> (of resources and influence) and <em>direct interaction</em> between those creating value and the customers they serve.</p></dd>
@@ -3728,7 +3734,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Objective:** A (specific) result that a person or team or organization wants to achieve; an aim or a goal.
 
 
-**Open Domain:** A domain that is accounted for by a set of people who are invited to contribute when they can.
+**Open Team:** A group of people who are invited to contribute to the work and governance done in a domain when they can.
 
 
 **Operations:** Doing the work and organizing day-to-day activities within the constraints defined through governance.

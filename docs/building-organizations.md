@@ -26,8 +26,8 @@ title: "Building Organizations"
   <dt><a href="helping-team.html">Helping Team</a></dt>
   <dd><p>Bring together a team of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.</p></dd>
 
-  <dt><a href="open-domain.html">Open Domain</a></dt>
-  <dd><p>Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.</p></dd>
+  <dt><a href="open-team.html">Open Team</a></dt>
+  <dd><p>Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.</p></dd>
 
   <dt><a href="open-systems.html">Open Systems</a></dt>
   <dd><p>Intentionally communicate with and learn from others outside of your system.</p></dd>

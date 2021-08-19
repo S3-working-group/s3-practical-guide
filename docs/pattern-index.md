@@ -149,14 +149,14 @@ title: "Alphabetical List Of All Patterns"
   <dt><a href="navigate-via-tension.html">Navigate via Tension</a></dt>
   <dd><p>Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.</p></dd>
 
-  <dt><a href="open-domain.html">Open Domain</a></dt>
-  <dd><p>Intentionally account for a domain by invitation rather than assignment and request that those invited contribute when they can.</p></dd>
-
   <dt><a href="open-space-for-change.html">Open Space For Change</a></dt>
   <dd><p>Invite everyone to create and run experiments for evolving the organization.</p></dd>
 
   <dt><a href="open-systems.html">Open Systems</a></dt>
   <dd><p>Intentionally communicate with and learn from others outside of your system.</p></dd>
+
+  <dt><a href="open-team.html">Open Team</a></dt>
+  <dd><p>Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.</p></dd>
 
   <dt><a href="peach-organization.html">Peach Organization</a></dt>
   <dd><p>Deliver value in complex and competitive environments through <em>decentralization</em> (of resources and influence) and <em>direct interaction</em> between those creating value and the customers they serve.</p></dd>

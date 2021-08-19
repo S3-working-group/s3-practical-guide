@@ -22,13 +22,13 @@ Members of the helping team:
 
 
 <div class="bottom-nav">
-<a href="representative.html" title="Back to: Representative">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="open-domain.html" title="Read next: Open Domain">▶ Read next: Open Domain</a>
+<a href="representative.html" title="Back to: Representative">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="open-team.html" title="Read next: Open Team">▶ Read next: Open Team</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'open-domain.html';
+    window.location.href = 'open-team.html';
     return false;
 });
 </script>

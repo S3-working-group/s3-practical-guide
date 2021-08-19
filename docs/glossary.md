@@ -146,8 +146,8 @@ title: "Glossary"
 <dd>A (specific) result that a person or team or organization wants to achieve; an aim or a goal.</dd>
 
 
-<dt id="entry-open-domain">Open Domain</dt>
-<dd>A domain that is accounted for by a set of people who are invited to contribute when they can.</dd>
+<dt id="entry-open-team">Open Team</dt>
+<dd>A group of people who are invited to contribute to the work and governance done in a domain when they can.</dd>
 
 
 <dt id="entry-operations">Operations</dt>

@@ -5,7 +5,7 @@ title: "Development Plan"
 
 **A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.**
 
-The development plan may be created for a person in a role, or for a team (e.g. a department, [circle](circle.html) or [open domain](open-domain.html)).
+The development plan may be created for a person in a role, or for a team (e.g. a department, [circle](circle.html) or [open team](open-team.html)).
 
 Development may happen in the form of refining the [description of the driver](describe-organizational-drivers.html) and the <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>, making amendments to <dfn data-info="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</dfn>, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
 
