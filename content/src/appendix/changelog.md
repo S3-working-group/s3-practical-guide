@@ -1,5 +1,9 @@
 # Changelog
 
+## Changes 2021-09-93
+
+-   revised text about [Objections](section:objection) as well as the   definitions of [Objection](glossary:objection) and [Concern](glossary:concern)
+
 ## Changes 2021-08-15
 
 -   renamed _Open Domain_ to [Open Team](section:open-team)

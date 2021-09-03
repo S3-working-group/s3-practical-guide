@@ -44,8 +44,8 @@ terms:
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
   concern:
     name: Concern
-    definition: A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
-    glossary: An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+    definition: A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it. 
+    glossary: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.
   consent:
     name: Consent (principle)
     definition:
@@ -135,8 +135,8 @@ terms:
     glossary: The lack of something wanted or deemed necessary (a requirement).
   objection:
     name: Objection
-    definition: An **objection** is an argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.
-    glossary: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.
+    definition: An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve.
+    glossary: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve.
   objective:
     name: Objective
     definition:

@@ -2,7 +2,7 @@
 
 {{define:objection}}
 
-Objections reveal information about (potential) **unintended consequences**, or about **worthwhile ways to improve**.
+You can think of objections as a simple tool for harvesting distributed intelligence and improving decision making.
 
 Be aware that withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 
@@ -31,10 +31,12 @@ Harness a diversity of perspectives and be open to challenge your own, to discov
 
 ## Concerns
 
-**Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on  assumptions, or a personal preference or opinion.**
+**Not all arguments raised are objections, but they might reveal concerns:.**
 
 {{define:concern}}
 
-In [Consent Decision Making](section:consent-decision-making), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation). Bring up concerns if you think it’s valuable to consider them, and at least record them along with the agreement, and monitor outcomes over time.
+Concerns can still inform people of ways to further evolve agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. Bring up concerns if you think it’s valuable to consider them.
+
+Determining whether an argument is an objection or concern is sometimes dependent on context. 
 
 If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)).
