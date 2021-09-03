@@ -1,7 +1,7 @@
 # Pull-System For Work
 
 <summary>
-**People pull in new work items when they have capacity (instead of having work pushed or assigned to them.**
+**People pull in new work items when they have capacity (instead of having work pushed or assigned to them).**
 </summary>
 
 Prioritize pending work items to ensure that important items are worked on first.
