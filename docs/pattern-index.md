@@ -180,7 +180,7 @@ title: "Alphabetical List Of All Patterns"
   <dd><p>A (facilitated) group process for co-creating a response to a driver.</p></dd>
 
   <dt><a href="pull-system-for-work.html">Pull-System For Work</a></dt>
-  <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them.</p></dd>
+  <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them).</p></dd>
 
   <dt><a href="record-agreements.html">Record Agreements</a></dt>
   <dd><p>Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.</p></dd>

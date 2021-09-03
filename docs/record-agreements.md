@@ -34,7 +34,7 @@ Depending on the scope and significance of the agreement, consider including all
     -   [Intended outcomes](clarify-intended-outcome.html)
     -   [Deliverables](describe-deliverables.html)
     -   Rationale
--   [Evaluation criteria](evaluation-criteria.html) (and potentially <dfn data-info="Concern: An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.">concerns</dfn>)
+-   [Evaluation criteria](evaluation-criteria.html) (and potentially <dfn data-info="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">concerns</dfn>)
 -   Appendix (if helpful)
     -   Background information
     -   Previous versions of the agreements

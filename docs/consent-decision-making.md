@@ -7,7 +7,7 @@ title: "Consent Decision Making"
 
 Proposals become <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> when they are considered _good enough for now and safe enough to try_ until the next review.
 
-Unresolved <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objections</dfn> prevent proposals from becoming agreements.
+Unresolved <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objections</dfn> prevent proposals from becoming agreements.
 
 Withholding objections can harm the objectives of a team or organization.
 

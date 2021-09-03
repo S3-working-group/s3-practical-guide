@@ -15,7 +15,7 @@ title: "Organizing Work"
   <dd><p>Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.</p></dd>
 
   <dt><a href="pull-system-for-work.html">Pull-System For Work</a></dt>
-  <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them.</p></dd>
+  <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them).</p></dd>
 
   <dt><a href="limit-work-in-progress.html">Limit Work in Progress</a></dt>
   <dd><p>Limit the number of work items in any stage of your work process.</p></dd>

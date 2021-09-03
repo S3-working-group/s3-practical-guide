@@ -25,9 +25,7 @@ A simple way for supporting stakeholders in developing shared understanding abou
 -   Key Metrics
 -   Evaluation
 
-On the [S3 Canvas microsite] you can find a variety of templates you can use for (co-)creating and documenting domain descriptions.
-
-(http://s3canvas.sociocracy30.org/s3-delegation-canvas.html)
+On the [S3 Canvas microsite](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) you can find a variety of templates you can use for (co-)creating and documenting domain descriptions.
 
 Consider designing domains with the minimal constraints necessary and always choose constraints that enable people to maximally create value.
 

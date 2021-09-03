@@ -605,9 +605,9 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 ### Objections
 
-_An **objection** is an argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve._
+_An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
 
-Objections reveal information about (potential) **unintended consequences**, or about **worthwhile ways to improve**.
+You can think of objections as a simple tool for harvesting distributed intelligence and improving decision making.
 
 Be aware that withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 
@@ -636,11 +636,13 @@ Harness a diversity of perspectives and be open to challenge your own, to discov
 
 #### Concerns
 
-**Not all arguments raised are objections. Distinguish between objections, which always reveal useful information, and other arguments that are based only on  assumptions, or a personal preference or opinion.**
+**Not all arguments raised are objections, but they might reveal concerns:.**
 
-_A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver._
+_A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
 
-In _Consent Decision Making_, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation). Bring up concerns if you think it’s valuable to consider them, and at least record them along with the agreement, and monitor outcomes over time.
+Concerns can still inform people of ways to further evolve agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. Bring up concerns if you think it’s valuable to consider them.
+
+Determining whether an argument is an objection or concern is sometimes dependent on context. 
 
 If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see _Test Arguments Qualify as Objections_).
 
@@ -866,7 +868,7 @@ Helpful questions for a review include:
 
 Proposals become <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> when they are considered _good enough for now and safe enough to try_ until the next review.
 
-Unresolved <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objections</dfn> prevent proposals from becoming agreements.
+Unresolved <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objections</dfn> prevent proposals from becoming agreements.
 
 Withholding objections can harm the objectives of a team or organization.
 
@@ -913,7 +915,7 @@ Some helpful questions:
 
 **Resolve objections one at a time by using the information they contain to make and evolve amendments.**
 
-Choose an option for resolving an <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objection</dfn> that looks most promising, and if that fails, simply pick another one. Each attempt will help you understand more of the information the objection contains, and bring the group closer to proposing an amendment that resolves the objection.
+Choose an option for resolving an <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</dfn> that looks most promising, and if that fails, simply pick another one. Each attempt will help you understand more of the information the objection contains, and bring the group closer to proposing an amendment that resolves the objection.
 
 Often, asking the person who brings the objection to propose an amendment, is a productive place to start.
 
@@ -1065,7 +1067,7 @@ A prerequisite to the selection process is a _clear description_ of the role's <
     -   proposing a nominee themselves or asking a group member
     -   inviting (some) nominees to agree who should be proposed
     -   inviting group dialogue to help reveal the strongest nominee
-7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objection</dfn>.
+7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</dfn>.
 8. **Address and Resolve Objections,** beginning with any from the proposed nominee. _Objections may be resolved_ in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
 9. **Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
 
@@ -1645,7 +1647,7 @@ Representatives (a.k.a. links):
 -   participate in the **governance decision making** of the team they link with, and can:
     -   raise items for the agenda
     -   participate in forming proposals
-    -   raise <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objections</dfn> to proposals and existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>
+    -   raise <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objections</dfn> to proposals and existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>
 
 
 #### Helping Team
@@ -1834,7 +1836,7 @@ Depending on the scope and significance of the agreement, consider including all
     -   _Intended outcomes_
     -   _Deliverables_
     -   Rationale
--   _Evaluation criteria_ (and potentially <dfn data-info="Concern: An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.">concerns</dfn>)
+-   _Evaluation criteria_ (and potentially <dfn data-info="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">concerns</dfn>)
 -   Appendix (if helpful)
     -   Background information
     -   Previous versions of the agreements
@@ -1884,9 +1886,7 @@ A simple way for supporting stakeholders in developing shared understanding abou
 -   Key Metrics
 -   Evaluation
 
-On the [S3 Canvas microsite] you can find a variety of templates you can use for (co-)creating and documenting domain descriptions.
-
-(http://s3canvas.sociocracy30.org/s3-delegation-canvas.html)
+On the [S3 Canvas microsite](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) you can find a variety of templates you can use for (co-)creating and documenting domain descriptions.
 
 Consider designing domains with the minimal constraints necessary and always choose constraints that enable people to maximally create value.
 
@@ -2471,7 +2471,7 @@ A prioritized <dfn data-info="Backlog: A list of (often prioritized) uncompleted
 
 #### Pull-System For Work
 
-**People pull in new work items when they have capacity (instead of having work pushed or assigned to them.**
+**People pull in new work items when they have capacity (instead of having work pushed or assigned to them).**
 
 Prioritize pending work items to ensure that important items are worked on first.
 
@@ -2929,6 +2929,10 @@ For each principle we included a list of suggestions for things you can try. The
 
 ### Changelog
 
+#### Changes 2021-09-93
+
+-   revised text about _Objections_ as well as the   definitions of <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">Objection</dfn> and <dfn data-info="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">Concern</dfn>
+
 #### Changes 2021-08-15
 
 -   renamed _Open Domain_ to _Open Team_
@@ -3035,7 +3039,7 @@ For each principle we included a list of suggestions for things you can try. The
 
 #### Changes 2019-06-27
 
--   _Objection_: further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objection</dfn> accordingly
+-   _Objection_: further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</dfn> accordingly
 -   replaced "action" with activity in a few places where it made more sense
 -   fixed a few typos
 
@@ -3430,7 +3434,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>A (facilitated) group process for co-creating a response to a driver.</p></dd>
 
   <dt><a href="pull-system-for-work.html">Pull-System For Work</a></dt>
-  <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them.</p></dd>
+  <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them).</p></dd>
 
   <dt><a href="record-agreements.html">Record Agreements</a></dt>
   <dd><p>Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.</p></dd>
@@ -3656,7 +3660,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Complexity:** An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 
 
-**Concern:** An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.
+**Concern:** An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.
 
 
 **Consent (principle):** **Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
@@ -3728,7 +3732,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Need:** The lack of something wanted or deemed necessary (a requirement).
 
 
-**Objection:** An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.
+**Objection:** An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve.
 
 
 **Objective:** A (specific) result that a person or team or organization wants to achieve; an aim or a goal.

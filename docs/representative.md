@@ -12,7 +12,7 @@ Representatives (a.k.a. links):
 -   participate in the **governance decision making** of the team they link with, and can:
     -   raise items for the agenda
     -   participate in forming proposals
-    -   raise <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objections</dfn> to proposals and existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>
+    -   raise <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objections</dfn> to proposals and existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn>
 
 
 <div class="bottom-nav">

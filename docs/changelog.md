@@ -3,6 +3,10 @@ title: "Changelog"
 ---
 
 
+## Changes 2021-09-93
+
+-   revised text about [Objections](objection.html) as well as the   definitions of <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">Objection</dfn> and <dfn data-info="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">Concern</dfn>
+
 ## Changes 2021-08-15
 
 -   renamed _Open Domain_ to [Open Team](open-team.html)
@@ -109,7 +113,7 @@ title: "Changelog"
 
 ## Changes 2019-06-27
 
--   _Objection_: further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objection</dfn> accordingly
+-   _Objection_: further refined definition of objection, and updated the glossary term for <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</dfn> accordingly
 -   replaced "action" with activity in a few places where it made more sense
 -   fixed a few typos
 
