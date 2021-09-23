@@ -60,9 +60,9 @@ Explain the [need](glossary:need) of the organization in relation to this situat
 
 > _"...so we can stay focused on our work"._
 
-Describe the impact of attending to that need:
+Describe the anticipated impact of attending to that need:
 
-- Explain the [intended outcome](glossary:intended-outcome), potential benefits or opportunities.
+- Explain potential benefits, opportunities, or even the [intended outcome](glossary:intended-outcome) of responding to that need.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
 
 ## Review Drivers
