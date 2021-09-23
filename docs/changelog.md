@@ -3,7 +3,13 @@ title: "Changelog"
 ---
 
 
-## Changes 2021-09-93
+## Changes 2021-09-22 
+
+-   fixed a link on the pattern map and added links to the principles
+-   fixed some typos, minor revisions to the text 
+
+
+## Changes 2021-09-03
 
 -   revised text about [Objections](objection.html) as well as the   definitions of <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">Objection</dfn> and <dfn data-info="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">Concern</dfn>
 

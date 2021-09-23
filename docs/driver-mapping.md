@@ -31,7 +31,7 @@ In a small team or circle (max. 6-8 people), when it’s not a priority to distr
 In preparation:
 
 -   Invite people that can make a relevant contribution to this project. Send out the agenda for the workshop ahead of time. 
--   Send out the primary you'll work with, and in case of an existing domain, the domain description for the project/initiative in advance so people can familiarize themselves with it. Aim to resolve any objections before the workshop.
+-   Send out the primary driver you'll work with, and in case of an existing domain, the domain description for the project/initiative in advance so people can familiarize themselves with it. Aim to resolve any objections before the workshop.
 -   Attendees may already prepare by thinking through and recording ideas of actors and relating needs.
 -   Prepare a poster with the domain description to present in the first step. You will also need A5 and rectangular sticky notes, pens and a wide wall to work. 
 

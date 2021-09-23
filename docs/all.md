@@ -464,19 +464,22 @@ The promise we make to take responsibility for things that need doing, creates a
 
 #### Acknowledge shared accountability
 
-The consequences of our action or inaction will affect the organization in some way, so by becoming part of an organization we are taking some responsibility for the wellbeing of the whole. Many responsibilities within an organization are hard to anticipate, are undefined and are undelegated. Therefore when members of an organization recognize that they _share accountability_ for the organization as a whole, they are more inclined to step up and take responsibility for things when needed. Problems and opportunities are more likely to be acknowledged and dealt with and you reduce the risk of developing a culture of looking the other way, or worse, a culture of blame. 
+The consequences of our action or inaction will affect the organization in some way, so by becoming part of an organization we are taking some responsibility for the wellbeing of the whole. Many responsibilities within an organization are hard to anticipate, are undefined and are undelegated. Therefore when members of an organization recognize that they _share accountability_ for the organization as a whole, they are more inclined to step up, bring attention to important issues, and take responsibility for things when needed. Problems and opportunities are more likely to be acknowledged and dealt with and you reduce the risk of developing a culture of looking the other way, or worse, a culture of blame. 
 
-Many responsibilities are typically distributed throughout an organization by way of [delegation](), meaning that people take responsibility for specific work and decision making. Whenever a responsibility is delegated by one party (the <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn>) to another party (the <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee(s)</dfn>), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
+Many responsibilities are typically distributed throughout an organization by way of [delegation](), meaning that people take responsibility for specific work and decision making. Whenever a responsibility is delegated by one party (the <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn>) to another party (the <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</dfn>), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
 
 While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their [domain](gloassary:domain), regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
 
 When people consider themselves accountable only for those things that impact their immediate sphere of responsibility, many of the things that would require attention but have not been delegated to anyone in particular, or that appear to be someone else’s problem to solve, would get missed.
 
+Whenever you see an important issue, make sure it’s taken care of, either by bringing it to the attention of others who will deal with it, or by dealing with it yourself. 
+
+
 #### Make the hierarchy of accountability explicit
 
 Most organizations have a hierarchy of delegation and therefore a hierarchy of accountability. This means that accountability for outcomes is distributed throughout the organization, while overall accountability for the integrity of the organization rests with whomever takes legal responsibility for that organization as a whole. In many organizations today, this generally points back up a leadership hierarchy to wherever the buck stops. However, in other contexts, like a community for example, overall accountability lies equally with everyone who is involved.
 
-Whatever your particular organizational context, making the hierarchy of accountability explicit is useful because it reveals the relationship between [delegator] and [delegatee(s)]. 
+Whatever your particular organizational context, making the hierarchy of accountability explicit is useful because it reveals the relationship between delegator and delegatee(s). 
 
 #### Move from “holding to account” to self-accountability
 
@@ -844,9 +847,9 @@ Explain the <dfn data-info="Need: The lack of something wanted or deemed necessa
 
 > _"...so we can stay focused on our work"._
 
-Describe the impact of attending to that need:
+Describe the anticipated impact of attending to that need:
 
-- Explain the <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn>, potential benefits or opportunities.
+- Explain potential benefits, opportunities, or even the <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn> of responding to that need.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
 
 ##### Review Drivers
@@ -1108,7 +1111,7 @@ In a small team or circle (max. 6-8 people), when it’s not a priority to distr
 In preparation:
 
 -   Invite people that can make a relevant contribution to this project. Send out the agenda for the workshop ahead of time. 
--   Send out the primary you'll work with, and in case of an existing domain, the domain description for the project/initiative in advance so people can familiarize themselves with it. Aim to resolve any objections before the workshop.
+-   Send out the primary driver you'll work with, and in case of an existing domain, the domain description for the project/initiative in advance so people can familiarize themselves with it. Aim to resolve any objections before the workshop.
 -   Attendees may already prepare by thinking through and recording ideas of actors and relating needs.
 -   Prepare a poster with the domain description to present in the first step. You will also need A5 and rectangular sticky notes, pens and a wide wall to work. 
 
@@ -2840,7 +2843,7 @@ Essential patterns to help you achieve this:
 -   _Delegate Influence_ – Delegating work, together with authority to make decisions relating to that work, frees people up to create value and removes unnecessary dependencies. 
 -   _Role_ – Delegating autonomy to an individual to decide and act within clearly defined constraints, frees individuals up to create value, and enables those who delegate to retain as much influence as necessary. 
 -   _Circle_ – Delegating autonomy to a team to organize and govern themselves within clearly defined constraints, frees the team up to create value, and enables those who delegate that authority to retain as much influence as necessary.
--   _Clarify and Develop Strategy_ – When a team or individual in a role develops a strategy for how they will create value, that’s agreed upon by relevant stakeholders, it supports autonomy and builds trust.
+-   _Clarify and Develop Strategy_ – A strategy for creating value, developed by the individual or team and agreed upon by all relevant stakeholders, builds trust and supports autonomy.
 -   _Development Plan_; Collaborating with relevant stakeholders on developing a plan for how to improve, helps a team or individual in a role develop their skill and competence, and builds trust among all concerned.
 -   _Align Flow_ – Moving decision making close to where value is created, while retaining the influence of the relevant stakeholders, supports the flow of value and eliminates unnecessary dependencies and delays.
 
@@ -2906,7 +2909,7 @@ Essential patterns to help you achieve this:
 
 Essential patterns to help you achieve this:
 
--   _Navigate via Tension_ – Everyone in the organization paying attention for situations that might benefit from building or refining a shared mental model,  gets people on the same page so that they can engage in productive dialogue.
+-   _Navigate via Tension_ – Looking out for, and addressing situations that could benefit from building or refining a shared mental model, helps people to get on the same page and supports productive dialogue.
 -   _Clarify and Develop Domains_ – Explicitly clarifying and documenting areas of  responsibility ensures a shared mental model regarding expectations and responsibilities.
 -   _Clarify Intended Outcome_ – By first agreeing on the intended outcome of a proposed activity, project or agreement, people develop shared understanding of where things should be headed and can then engage in productive dialog about how to get there.
 
@@ -2929,7 +2932,13 @@ For each principle we included a list of suggestions for things you can try. The
 
 ### Changelog
 
-#### Changes 2021-09-93
+#### Changes 2021-09-22 
+
+-   fixed a link on the pattern map and added links to the principles
+-   fixed some typos, minor revisions to the text 
+
+
+#### Changes 2021-09-03
 
 -   revised text about _Objections_ as well as the   definitions of <dfn data-info="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">Objection</dfn> and <dfn data-info="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">Concern</dfn>
 

@@ -61,9 +61,9 @@ Explain the <dfn data-info="Need: The lack of something wanted or deemed necessa
 
 > _"...so we can stay focused on our work"._
 
-Describe the impact of attending to that need:
+Describe the anticipated impact of attending to that need:
 
-- Explain the <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn>, potential benefits or opportunities.
+- Explain potential benefits, opportunities, or even the <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn> of responding to that need.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
 
 ## Review Drivers
