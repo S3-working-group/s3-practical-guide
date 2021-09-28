@@ -7,7 +7,7 @@ title: "Limit Work in Progress"
 
 Work in progress includes:
 
--   the number of items in a <dfn data-info="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</dfn>
+-   the number of items in a <a href="#" class="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</a>
 -   concurrent projects or tasks for teams or individuals
 -   products in a portfolio
 

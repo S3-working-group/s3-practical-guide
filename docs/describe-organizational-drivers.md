@@ -5,7 +5,7 @@ title: "Describe Organizational Drivers"
 
 **Describe organizational drivers to understand, communicate and remember them.**
 
-Describing <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</dfn> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
+Describing <a href="#" class="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</a> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
 A simple way to describe a driver is by explaining:
 
@@ -51,9 +51,9 @@ Explain the effect of this situation on the organization:
 
 > _"We need the kitchen in a usable state..."_
 
-Explain the <dfn data-info="Need: The lack of something wanted or deemed necessary (a requirement).">need</dfn> of the organization in relation to this situation:
+Explain the <a href="#" class="tooltip" title="Need: The lack of something wanted or deemed necessary (a requirement).">need</a> of the organization in relation to this situation:
 
-- A **need of an organization** is anything a team (or individual) requires to effectively account for a <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domain</dfn>.
+- A **need of an organization** is anything a team (or individual) requires to effectively account for a <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>.
 - Be specific on whose need it is ("we need", "they need", "I need").
 - If there's disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
 
@@ -63,7 +63,7 @@ Explain the <dfn data-info="Need: The lack of something wanted or deemed necessa
 
 Describe the anticipated impact of attending to that need:
 
-- Explain potential benefits, opportunities, or even the <dfn data-info="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</dfn> of responding to that need.
+- Explain potential benefits, opportunities, or even the <a href="#" class="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of responding to that need.
 - The impact may be obvious or implicit, especially when the effects of the current situation are already described.
 
 ## Review Drivers

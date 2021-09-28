@@ -5,7 +5,7 @@ title: "Double Linking"
 
 **Enable the _two-way_ flow of information and influence between two teams.**
 
-Two interdependent teams each select one of their members to represent their interests in the <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn> decisions of the other team.
+Two interdependent teams each select one of their members to represent their interests in the <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decisions of the other team.
 
 Double linking enables equivalence between two teams and can be used to draw out valuable information in hierarchical structures.
 

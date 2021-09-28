@@ -9,7 +9,7 @@ _An **agreement** is an agreed upon guideline, process, protocol or policy desig
 
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.
 
-Keep records of agreements up to date, e.g. in a <dfn data-info="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</dfn>.
+Keep records of agreements up to date, e.g. in a <a href="#" class="tooltip" title="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</a>.
 
 
 ## What to record?
@@ -34,7 +34,7 @@ Depending on the scope and significance of the agreement, consider including all
     -   [Intended outcomes](clarify-intended-outcome.html)
     -   [Deliverables](describe-deliverables.html)
     -   Rationale
--   [Evaluation criteria](evaluation-criteria.html) (and potentially <dfn data-info="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">concerns</dfn>)
+-   [Evaluation criteria](evaluation-criteria.html) (and potentially <a href="#" class="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">concerns</a>)
 -   Appendix (if helpful)
     -   Background information
     -   Previous versions of the agreements

@@ -7,7 +7,7 @@ title: "Clarify Intended Outcome"
 
 Agree on and record a concise description of the intended outcome.
 
-The intended outcome can be used to define [Evaluation Criteria](evaluation-criteria.html) and <dfn data-info="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">metrics</dfn> for reviewing actual outcome.
+The intended outcome can be used to define [Evaluation Criteria](evaluation-criteria.html) and <a href="#" class="tooltip" title="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">metrics</a> for reviewing actual outcome.
 
 ![Intended Outcome, and Evaluation Criteria](img/templates/outcome-and-criteria.png)
 
