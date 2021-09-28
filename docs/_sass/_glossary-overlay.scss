@@ -1,42 +1,60 @@
 /* Styling dfn tag to highlight the word with the tooltip */
-dfn {
+
+a.tooltip {
   border-bottom: dashed 1px rgba(0,0,0,0.5);
   /*padding: 0 0.4em;*/
   cursor: help;
-  /*font-style: normal;*/
   position: relative;
-  
+  color: $text-color;
 }
-dfn::after {
-  content: attr(data-info);
-  display: inline;
-  position: absolute;
-  top: 22px; left: 0;
-  opacity: 0;
-  width: 300px;
+a:hover.tooltip {
+   text-decoration: none;
+}
+
+.ui-tooltip, .arrow:after {
+  background: rgba(60,60,80,0.9);
+  border: 2px solid #808080;
+  //  border: solid transparent 5px;
+
+}
+.ui-tooltip {
+  padding: 0.5em 0.8em;
+  color: white;
   font-size: 16px;
   font-weight: 300;
   line-height: 1.5em;
-  padding: 0.5em 0.8em;
-  background: rgba(0,0,0,0.5);
-  color: #fff;
-  pointer-events: none; /* This prevents the box from apearing when hovered. */
-  transition: opacity 250ms, top 250ms;
   border-radius: 15px;
+  box-shadow: 0 0 5px #505050;
 }
-dfn::before {
-  content: '';
-  display: block;
+.arrow {
+  width: 70px;
+  height: 16px;
+  overflow: hidden;
   position: absolute;
-  top: 12px; left: 20px;
-  opacity: 0;
-  width: 0; height: 0;
-  border: solid transparent 5px;
-  border-bottom-color: rgba(0,0,0,0.8);
-  transition: opacity 250ms, top 250ms;
+  left: 50%;
+  margin-left: -35px;
+  bottom: -16px;
 }
-dfn:hover {z-index: 2;} /* Keeps the info boxes on top of other elements */
-dfn:hover::after,
-dfn:hover::before {opacity: 1;}
-dfn:hover::after {top: 30px;}
-dfn:hover::before {top: 20px;}
+.arrow.top {
+  top: -16px;
+  bottom: auto;
+}
+.arrow.left {
+  left: 20%;
+}
+.arrow:after {
+  content: "";
+  position: absolute;
+  left: 20px;
+  top: -20px;
+  width: 25px;
+  height: 25px;
+  box-shadow: 6px 5px 9px -9px #505050;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.arrow.top:after {
+  bottom: -20px;
+  top: auto;
+}
