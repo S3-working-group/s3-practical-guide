@@ -9,8 +9,8 @@ Consider making backlogs visible, not only to other members of a team, but also 
 
 Types of backlog include:
 
--   <dfn data-info="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</dfn> backlog
--   <dfn data-info="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</dfn> backlog
+-   <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> backlog
+-   <a href="#" class="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a> backlog
 -   [sprint](planning-and-review-meetings.html) backlog
 -   product backlog
 -   impediments backlog
@@ -22,7 +22,7 @@ Types of backlog include:
 
 Each item on a (prioritized) backlog typically contains:
 
--   a **short description** of a <dfn data-info="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</dfn> or a <dfn data-info="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</dfn>
+-   a **short description** of a <a href="#" class="tooltip" title="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</a> or a <a href="#" class="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</a>
 -   a **unique reference number** (or link) for each work item
 -   (the **order of work items**)
 -   **dependencies** to other work items or projects

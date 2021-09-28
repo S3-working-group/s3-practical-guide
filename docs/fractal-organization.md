@@ -13,9 +13,9 @@ If necessary, the pattern can be repeated to connect multiple fractal organizati
 
 ## Prerequisites
 
-A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <dfn data-info="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</dfn>, or by multiple branches, departments, or projects within a larger organization.
+A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <a href="#" class="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a>, or by multiple branches, departments, or projects within a larger organization.
 
-These <dfn data-info="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</dfn> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <dfn data-info="Domain: A distinct area of influence, activity and decision making within an organization.">domains</dfn> (e.g. accounting, product management, or development).
+These <a href="#" class="tooltip" title="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</a> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> (e.g. accounting, product management, or development).
 
 ## Tiers
 

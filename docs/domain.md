@@ -27,13 +27,13 @@ _Delegation is the grant of authority by one party (the _delegator_) to another 
 
 Responsibility for domains is delegated to groups or individuals, who then act within its defined constraints on their autonomy and influence.
 
-When a domain is delegated to a group of people, they become a <dfn data-info="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</dfn>, when it's delegated to an individual, they become a <dfn data-info="Role Keeper: An individual taking responsibility for a role.">role keeper</dfn>.
+When a domain is delegated to a group of people, they become a <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>, when it's delegated to an individual, they become a <a href="#" class="tooltip" title="Role Keeper: An individual taking responsibility for a role.">role keeper</a>.
 
-The <dfn data-info="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee(s)</dfn> may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else's (explicit) domain, or impede other people's contribution to the organization in some other way. 
+The <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee(s)</a> may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else's (explicit) domain, or impede other people's contribution to the organization in some other way. 
 
 **Note:** _Things that are forbidden include explicit constraints laid out in the domain description, any other agreements the delegatee(s) need to keep, and legal and regulatory requirements._
 
-The <dfn data-info="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</dfn> still retains overall accountability for that domain, allocates **resources** and often defines:
+The <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> still retains overall accountability for that domain, allocates **resources** and often defines:
 
 -   the **organizational need** the domain is designed to respond to
 -   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)

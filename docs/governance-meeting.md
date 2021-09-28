@@ -28,7 +28,7 @@ A typical governance meeting includes:
 Typical agenda items include:
 
 -   any short reports
--   evaluation of existing <dfn data-info="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</dfn> due review
+-   evaluation of existing <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> due review
 -   selecting people to roles
 -   new drivers requiring decisions to be made, including:
     -   [forming proposals](co-create-proposals.html)
