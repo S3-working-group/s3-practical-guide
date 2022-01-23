@@ -28,7 +28,7 @@ parts:
       - governance
   - id: patterns
     parts:
-      - id: co-creation-and-evolution
+      - id: sensemaking-and-decisionmaking
         tags: [group]
         parts:
           - id: respond-to-organizational-drivers
@@ -45,15 +45,30 @@ parts:
             tags: [pattern]
           - id: evaluate-and-evolve-agreements
             tags: [pattern]
-          - id: involve-those-affected
-            tags: [pattern]
           - id: co-create-proposals
             tags: [pattern]
           - id: proposal-forming
             tags: [pattern]
+          - id: reasoned-decision-making
+            tags: [pattern]
           - id: role-selection
             tags: [pattern]
+      - id: evolving-organizations
+        tags: [group]
+        parts:   
+          - id: clarify-and-develop-domains
+            tags: [pattern]
+          - id: delegate-influence
+            tags: [pattern]
+          - id: clarify-and-develop-strategy
+            tags: [pattern]
+          - id: align-flow
+            tags: [pattern]
+          - id: create-a-pull-system-for-organizational-change
+            tags: [pattern]
           - id: driver-mapping
+            tags: [pattern]
+          - id: open-systems
             tags: [pattern]
       - id: peer-development
         tags: [group]
@@ -66,7 +81,7 @@ parts:
             tags: [pattern]
           - id: development-plan
             tags: [pattern]
-      - id: enablers-of-collaboration
+      - id: enablers-of-co-creation
         tags: [group]
         parts:
           - id: artful-participation
@@ -75,13 +90,13 @@ parts:
             tags: [pattern]
           - id: agree-on-values
             tags: [pattern]
-          - id: governance-facilitator
+          - id: involve-those-affected
             tags: [pattern]
           - id: breaking-agreements
             tags: [pattern]
-          - id: contract-for-successful-collaboration
-            tags: [pattern]
           - id: transparent-salary
+            tags: [pattern]
+          - id: contract-for-successful-collaboration
             tags: [pattern]
           - id: support-role
             tags: [pattern]
@@ -90,8 +105,6 @@ parts:
       - id: building-organizations
         tags: [group]
         parts:
-          - id: delegate-influence
-            tags: [pattern]
           - id: circle
             tags: [pattern]
           - id: role
@@ -102,18 +115,14 @@ parts:
             tags: [pattern]
           - id: representative
             tags: [pattern]
-          - id: helping-team
-            tags: [pattern]
           - id: open-team
             tags: [pattern]
-          - id: open-systems
+          - id: helping-team
             tags: [pattern]
       - id: bringing-in-s3
         tags: [group]
         parts:
           - id: adapt-patterns-to-context
-            tags: [pattern]
-          - id: create-a-pull-system-for-organizational-change
             tags: [pattern]
           - id: be-the-change
             tags: [pattern]
@@ -128,10 +137,6 @@ parts:
         parts:
           - id: record-agreements
             tags: [pattern]
-          - id: clarify-and-develop-strategy
-            tags: [pattern]
-          - id: clarify-and-develop-domains
-            tags: [pattern]
           - id: clarify-intended-outcome
             tags: [pattern]
           - id: describe-deliverables
@@ -142,7 +147,7 @@ parts:
             tags: [pattern]
           - id: logbook-keeper
             tags: [pattern]
-      - id: focused-interactions
+      - id: meeting-formats
         tags: [group]
         parts:
           - id: governance-meeting
@@ -170,6 +175,8 @@ parts:
             tags: [pattern]
           - id: meeting-host
             tags: [pattern]
+          - id: governance-facilitator
+            tags: [pattern]
           - id: governance-backlog
             tags: [pattern]
       - id: organizing-work
@@ -186,8 +193,6 @@ parts:
           - id: limit-work-in-progress
             tags: [pattern]
           - id: timebox-activities
-            tags: [pattern]
-          - id: align-flow
             tags: [pattern]
           - id: coordinator
             tags: [pattern]
