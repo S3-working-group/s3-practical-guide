@@ -6,15 +6,16 @@ A **pattern** is a process, practice or guideline that serves as a template for 
 
 Patterns are modular and adaptable, can be used independently, and are mutually reinforcing, complementing one another when used in combination. S3 patterns can be evolved and adapted to address your specific needs.
 
-In this guide, the patterns are grouped by topic into ten categories to help you more easily identify those that are useful to you:
+In this guide, the patterns are grouped by topic into eleven categories to help you more easily identify those that are useful to you:
 
--   Co-Creation And Evolution
+-   Sensemaking and Decisionmaking
+-   Evolving Organizations
 -   Peer Development
--   Enablers Of Collaboration
+-   Enablers Of Co-Creation
 -   Building Organizations
 -   Bringing In S3
 -   Defining Agreements
--   Focused Interactions
+-   Meeting Formats
 -   Meeting Practices
 -   Organizing Work
 -   Organizational Structure
