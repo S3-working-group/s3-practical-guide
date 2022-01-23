@@ -150,9 +150,9 @@ parts:
       - id: meeting-formats
         tags: [group]
         parts:
-          - id: governance-meeting
-            tags: [pattern]
           - id: retrospective
+            tags: [pattern]
+          - id: governance-meeting
             tags: [pattern]
           - id: daily-standup
             tags: [pattern]
@@ -199,9 +199,9 @@ parts:
       - id: organizational-structure
         tags: [group]
         parts:
-          - id: service-circle
-            tags: [pattern]
           - id: delegate-circle
+            tags: [pattern]
+          - id: service-circle
             tags: [pattern]
           - id: peach-organization
             tags: [pattern]
