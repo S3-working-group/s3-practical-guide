@@ -29,16 +29,8 @@ Reasoned Decision Making is reflected in all of the S3 process patterns that sup
 Each of the three processes focuses on the investigation of a different subject: 
 
 -    In _Consent Decision Making_ the subject is a **proposal**.
--    In _Test Argument Qualifies as an Objection_ the subject is an **argument**.
+-    In _Test Argument Qualifies as Objection_ the subject is an **argument**.
 -    In _Resolving Objections_ - the subject is a **proposed amendment**. 
 
-Mapping the steps of RDM to the other S3 decision-making processes
+![Table: Mapping the steps of RDM to the other S3 decision-making processes](img/agreements/reasoned-decision-making-table.png)
 
-| Reasoned Decision Making | Consent Decision Making | Test Argument Qualifies as an Objection | Resolve Objection  |
-| --- | --- | --- | --- | 
-| **Present** | proposal | argument | amendment |
-| **Understand** | Any questions to understand the subject? |||
-| **Check** | Any objections? | Any disagreement? | Any objections? | 
-| **Dispute** | Test Argument Qualifies as an Objection | Investigate disagreements to the argument (using the same process) | Test Argument Qualifies as an Objection | 
-| **Integrate** | Resolve Objection | Amend argument or drop it | Integrate information revealed by objections, to evolve the proposal | 
-| **Celebrate** | You’ve reached agreement | You’ve qualified an argument | You’ve agreed on an amendment. Zoom out to the whole proposal to check for further objections |
