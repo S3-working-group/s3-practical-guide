@@ -38,13 +38,13 @@ This pattern can also be used in any situation where there is a need to choose b
 
 
 <div class="bottom-nav">
-<a href="proposal-forming.html" title="Back to: Proposal Forming">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="driver-mapping.html" title="Read next: Driver Mapping">▶ Read next: Driver Mapping</a>
+<a href="reasoned-decision-making.html" title="Back to: Reasoned Decision Making">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="evolving-organizations.html" title="Read next: Evolving Organizations">▶ Read next: Evolving Organizations</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'driver-mapping.html';
+    window.location.href = 'evolving-organizations.html';
     return false;
 });
 </script>

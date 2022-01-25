@@ -8,9 +8,6 @@ title: "Bringing in S3"
   <dt><a href="adapt-patterns-to-context.html">Adapt Patterns To Context</a></dt>
   <dd><p>Adapt and evolve S3 patterns to suit your specific context.</p></dd>
 
-  <dt><a href="create-a-pull-system-for-organizational-change.html">Create a Pull-System For Organizational Change</a></dt>
-  <dd><p>Create an environment that invites and enables members of the organization to drive change.</p></dd>
-
   <dt><a href="be-the-change.html">Be The Change</a></dt>
   <dd><p>Lead by example.</p></dd>
 
@@ -26,7 +23,7 @@ title: "Bringing in S3"
 
 
 <div class="bottom-nav">
-<a href="open-systems.html" title="Back to: Open Systems">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="adapt-patterns-to-context.html" title="Read next: Adapt Patterns To Context">▶ Read next: Adapt Patterns To Context</a>
+<a href="helping-team.html" title="Back to: Helping Team">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="adapt-patterns-to-context.html" title="Read next: Adapt Patterns To Context">▶ Read next: Adapt Patterns To Context</a>
 </div>
 
 

@@ -12,13 +12,13 @@ Individuals, teams and entire organizations can acknowledge interdependence and 
 
 
 <div class="bottom-nav">
-<a href="open-team.html" title="Back to: Open Team">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="bringing-in-s3.html" title="Read next: Bringing in S3">▶ Read next: Bringing in S3</a>
+<a href="driver-mapping.html" title="Back to: Driver Mapping">◀</a> <a href="evolving-organizations.html" title="Up: Evolving Organizations">▲</a> <a href="peer-development.html" title="Read next: Peer Development">▶ Read next: Peer Development</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'bringing-in-s3.html';
+    window.location.href = 'peer-development.html';
     return false;
 });
 </script>

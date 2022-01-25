@@ -20,7 +20,7 @@ Withholding objections can harm the objectives of a team or organization.
 
 
 <div class="bottom-nav">
-<a href="describe-organizational-drivers.html" title="Back to: Describe Organizational Drivers">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="test-arguments-qualify-as-objections.html" title="Read next: Test Arguments Qualify as Objections">▶ Read next: Test Arguments Qualify as Objections</a>
+<a href="describe-organizational-drivers.html" title="Back to: Describe Organizational Drivers">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="test-arguments-qualify-as-objections.html" title="Read next: Test Arguments Qualify as Objections">▶ Read next: Test Arguments Qualify as Objections</a>
 </div>
 
 

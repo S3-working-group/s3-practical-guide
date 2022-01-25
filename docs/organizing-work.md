@@ -23,9 +23,6 @@ title: "Organizing Work"
   <dt><a href="timebox-activities.html">Timebox Activities</a></dt>
   <dd><p>Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.</p></dd>
 
-  <dt><a href="align-flow.html">Align Flow</a></dt>
-  <dd><p>In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.</p></dd>
-
   <dt><a href="coordinator.html">Coordinator</a></dt>
   <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term.</strong></p></dd>
 </dl>

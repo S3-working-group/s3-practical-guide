@@ -15,13 +15,13 @@ Be accountable:
 
 
 <div class="bottom-nav">
-<a href="governance-facilitator.html" title="Back to: Governance Facilitator">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="contract-for-successful-collaboration.html" title="Read next: Contract For Successful Collaboration">▶ Read next: Contract For Successful Collaboration</a>
+<a href="involve-those-affected.html" title="Back to: Involve Those Affected">◀</a> <a href="enablers-of-co-creation.html" title="Up: Enablers of Co-Creation">▲</a> <a href="transparent-salary.html" title="Read next: Transparent Salary">▶ Read next: Transparent Salary</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'contract-for-successful-collaboration.html';
+    window.location.href = 'transparent-salary.html';
     return false;
 });
 </script>

@@ -25,11 +25,11 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
 
 <dl>
 
-  <dt><a href="service-circle.html">Service Circle</a></dt>
-  <dd><p>Outsource services required by two or more domains.</p></dd>
-
   <dt><a href="delegate-circle.html">Delegate Circle</a></dt>
   <dd><p>Delegate making governance decisions affecting multiple domains to representatives selected by those domains.</p></dd>
+
+  <dt><a href="service-circle.html">Service Circle</a></dt>
+  <dd><p>Outsource services required by two or more domains.</p></dd>
 
   <dt><a href="peach-organization.html">Peach Organization</a></dt>
   <dd><p>Deliver value in complex and competitive environments through <em>decentralization</em> (of resources and influence) and <em>direct interaction</em> between those creating value and the customers they serve.</p></dd>
@@ -46,13 +46,13 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
 
 
 <div class="bottom-nav">
-<a href="coordinator.html" title="Back to: Coordinator">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="service-circle.html" title="Read next: Service Circle">▶ Read next: Service Circle</a>
+<a href="coordinator.html" title="Back to: Coordinator">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="delegate-circle.html" title="Read next: Delegate Circle">▶ Read next: Delegate Circle</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'service-circle.html';
+    window.location.href = 'delegate-circle.html';
     return false;
 });
 </script>

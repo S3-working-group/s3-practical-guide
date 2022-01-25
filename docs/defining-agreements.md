@@ -15,12 +15,6 @@ S3 promotes a hypothesis-driven approach to decision making.
   <dt><a href="record-agreements.html">Record Agreements</a></dt>
   <dd><p>Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.</p></dd>
 
-  <dt><a href="clarify-and-develop-strategy.html">Clarify and Develop Strategy</a></dt>
-  <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
-
-  <dt><a href="clarify-and-develop-domains.html">Clarify and Develop Domains</a></dt>
-  <dd><p>A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.</p></dd>
-
   <dt><a href="clarify-intended-outcome.html">Clarify Intended Outcome</a></dt>
   <dd><p>Be explicit about the expected results of agreements, activities, projects and strategies.</p></dd>
 

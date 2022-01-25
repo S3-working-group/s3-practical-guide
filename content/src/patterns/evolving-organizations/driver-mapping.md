@@ -53,7 +53,7 @@ _Present and consent to the primary driver_
 -   Record any relevant information that comes up.
 
 
-### 2. Who will be impacted? 
+### 2. Who will be impacted?
 
 _Who will be impacted as we respond to the primary driver? Consider who can help / stand in the way / benefit / lose or be harmed._
 
@@ -128,7 +128,7 @@ _Organize the work that lies ahead in each domain, ensure things are prioritized
 -   Archive any “needs” cards that appear superfluous.
 -   Consider the domain and describe and prioritize other needs that may not have been identified.
 -   Pass on cards that appear to be the accountability of another domain to address.
--   Add cards concerning multiple domains to a dedicated backlog to address later.
+-   Put aside cards relating to multiple domains. You can deal with them in Step 8.
 
 _As a facilitator of the driver mapping process, provide a space to collect cards concerning multiple domains so that they can be addressed later._
 

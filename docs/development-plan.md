@@ -15,13 +15,13 @@ A development plan (and any accompanying recommendations for changes to the desc
 
 
 <div class="bottom-nav">
-<a href="peer-review.html" title="Back to: Peer Review">◀</a> <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="enablers-of-collaboration.html" title="Read next: Enablers of Collaboration">▶ Read next: Enablers of Collaboration</a>
+<a href="peer-review.html" title="Back to: Peer Review">◀</a> <a href="peer-development.html" title="Up: Peer Development">▲</a> <a href="enablers-of-co-creation.html" title="Read next: Enablers of Co-Creation">▶ Read next: Enablers of Co-Creation</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'enablers-of-collaboration.html';
+    window.location.href = 'enablers-of-co-creation.html';
     return false;
 });
 </script>

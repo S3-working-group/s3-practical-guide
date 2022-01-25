@@ -19,13 +19,13 @@ Strategies are validated and refined through experimentation and learning.
 
 
 <div class="bottom-nav">
-<a href="record-agreements.html" title="Back to: Record Agreements">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="clarify-and-develop-domains.html" title="Read next: Clarify and Develop Domains">▶ Read next: Clarify and Develop Domains</a>
+<a href="delegate-influence.html" title="Back to: Delegate Influence">◀</a> <a href="evolving-organizations.html" title="Up: Evolving Organizations">▲</a> <a href="align-flow.html" title="Read next: Align Flow">▶ Read next: Align Flow</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'clarify-and-develop-domains.html';
+    window.location.href = 'align-flow.html';
     return false;
 });
 </script>

@@ -182,6 +182,9 @@ title: "Alphabetical List Of All Patterns"
   <dt><a href="pull-system-for-work.html">Pull-System For Work</a></dt>
   <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them).</p></dd>
 
+  <dt><a href="reasoned-decision-making.html">Reasoned Decision Making</a></dt>
+  <dd><p>Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered relevant, valid or empirically true.</p></dd>
+
   <dt><a href="record-agreements.html">Record Agreements</a></dt>
   <dd><p>Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.</p></dd>
 
@@ -189,7 +192,7 @@ title: "Alphabetical List Of All Patterns"
   <dd><p>Select a team member to participate in the governance decision making of another team to enable the flow of information and influence.</p></dd>
 
   <dt><a href="resolve-objections.html">Resolve Objections</a></dt>
-  <dd><p>Resolve objections one at a time by using the information they contain to make and evolve amendments.</p></dd>
+  <dd><p>Resolve objections one at a time by using the information they contain to make and evolve agreements.</p></dd>
 
   <dt><a href="respond-to-organizational-drivers.html">Respond to Organizational Drivers</a></dt>
   <dd><p>Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.</p></dd>

@@ -15,13 +15,13 @@ The logbook keeper is accountable for maintaining a team's <a href="#" class="to
 
 
 <div class="bottom-nav">
-<a href="logbook.html" title="Back to: Logbook">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="focused-interactions.html" title="Read next: Focused Interactions">▶ Read next: Focused Interactions</a>
+<a href="logbook.html" title="Back to: Logbook">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="meeting-formats.html" title="Read next: Meeting Formats">▶ Read next: Meeting Formats</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'focused-interactions.html';
+    window.location.href = 'meeting-formats.html';
     return false;
 });
 </script>

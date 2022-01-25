@@ -211,13 +211,13 @@ Consider also including the following information to the domain description
 
 
 <div class="bottom-nav">
-<a href="clarify-and-develop-strategy.html" title="Back to: Clarify and Develop Strategy">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="clarify-intended-outcome.html" title="Read next: Clarify Intended Outcome">▶ Read next: Clarify Intended Outcome</a>
+<a href="evolving-organizations.html" title="Up: Evolving Organizations">▲</a> <a href="delegate-influence.html" title="Read next: Delegate Influence">▶ Read next: Delegate Influence</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'clarify-intended-outcome.html';
+    window.location.href = 'delegate-influence.html';
     return false;
 });
 </script>

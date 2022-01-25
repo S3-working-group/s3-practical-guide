@@ -3,7 +3,21 @@ title: "Changelog"
 ---
 
 
-## Changes 2021-09-22 
+
+## Changes 2022-01-24
+
+-   added [Reasoned Decision Making](reasoned-decision-making.html)
+-   updated pattern categories:
+    -   new category _Evolving Organizations_
+    -   renamed _Co-Creation and Evolution_ to _Sensemaking and Decisionmaking_
+    -   renamed _Focused Interactions_ to _Meeting Formats_
+    -   renamed _Enablers of Collaboration_ to _Enablers of Co-Creation_
+    -   and moved some patterns around
+-   revised summary of [Resolve Objections](resolve-objections.html)
+-   revised text of [Driver Mapping](driver-mapping.html) (step 7)
+
+
+## Changes 2021-09-22
 
 -   fixed a link on the pattern map and added links to the principles
 -   fixed some typos, minor revisions to the text 
@@ -11,7 +25,7 @@ title: "Changelog"
 
 ## Changes 2021-09-03
 
--   revised text about [Objections](objection.html) as well as the   definitions of <a href="#" class="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">Objection</a> and <a href="#" class="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">Concern</a>
+-   revised text about [Objections](objection.html) as well as the definitions of <a href="#" class="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">Objection</a> and <a href="#" class="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">Concern</a>
 
 ## Changes 2021-08-15
 
@@ -23,7 +37,7 @@ title: "Changelog"
 -   revised the ten principles of the Common Sense Framework
 -   updated section about governance in the introduction
     -   added more text to explain how governance can be distributed throughout the organization
-    -   more examples for governance decisions   
+    -   more examples for governance decisions
 -   corrected a few typos
 -   several small revisions
 
@@ -190,7 +204,7 @@ title: "Changelog"
     -   _The Principle of Empiricism_: removed reference to "falsification"
     -   _The Principle of Consent_ is now explained more clearly as "Raise, seek-out and resolve objections to decisions and actions"
 -   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to "coordination", and clarified the distinction between governance and operations
--   _Drivers and Domains_ -   we clarified how domains can be understood in relation to organizational drivers
+-   _Drivers and Domains_: we clarified how domains can be understood in relation to organizational drivers
 
 **Changes to Patterns:**
 

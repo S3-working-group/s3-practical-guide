@@ -80,7 +80,7 @@ Helpful questions for a review include:
 
 
 <div class="bottom-nav">
-<a href="navigate-via-tension.html" title="Back to: Navigate via Tension">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="consent-decision-making.html" title="Read next: Consent Decision Making">▶ Read next: Consent Decision Making</a>
+<a href="navigate-via-tension.html" title="Back to: Navigate via Tension">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="consent-decision-making.html" title="Read next: Consent Decision Making">▶ Read next: Consent Decision Making</a>
 </div>
 
 

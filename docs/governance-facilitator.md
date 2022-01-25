@@ -26,13 +26,13 @@ As a governance facilitator, consider learning about and using the following pat
 
 
 <div class="bottom-nav">
-<a href="agree-on-values.html" title="Back to: Agree On Values">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="breaking-agreements.html" title="Read next: Breaking Agreements">▶ Read next: Breaking Agreements</a>
+<a href="meeting-host.html" title="Back to: Meeting Host">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="governance-backlog.html" title="Read next: Governance Backlog">▶ Read next: Governance Backlog</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'breaking-agreements.html';
+    window.location.href = 'governance-backlog.html';
     return false;
 });
 </script>

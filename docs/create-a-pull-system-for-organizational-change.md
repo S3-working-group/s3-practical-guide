@@ -14,13 +14,13 @@ Change things when there is value in doing so:
 
 
 <div class="bottom-nav">
-<a href="adapt-patterns-to-context.html" title="Back to: Adapt Patterns To Context">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="be-the-change.html" title="Read next: Be The Change">▶ Read next: Be The Change</a>
+<a href="align-flow.html" title="Back to: Align Flow">◀</a> <a href="evolving-organizations.html" title="Up: Evolving Organizations">▲</a> <a href="driver-mapping.html" title="Read next: Driver Mapping">▶ Read next: Driver Mapping</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'be-the-change.html';
+    window.location.href = 'driver-mapping.html';
     return false;
 });
 </script>

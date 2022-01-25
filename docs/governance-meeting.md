@@ -39,13 +39,13 @@ Typical agenda items include:
 
 
 <div class="bottom-nav">
-<a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="retrospective.html" title="Read next: Retrospective">▶ Read next: Retrospective</a>
+<a href="retrospective.html" title="Back to: Retrospective">◀</a> <a href="meeting-formats.html" title="Up: Meeting Formats">▲</a> <a href="daily-standup.html" title="Read next: Daily Standup">▶ Read next: Daily Standup</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'retrospective.html';
+    window.location.href = 'daily-standup.html';
     return false;
 });
 </script>

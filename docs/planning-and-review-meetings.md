@@ -13,7 +13,7 @@ title: "Planning And Review Meetings"
 
 
 <div class="bottom-nav">
-<a href="daily-standup.html" title="Back to: Daily Standup">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="coordination-meeting.html" title="Read next: Coordination Meeting">▶ Read next: Coordination Meeting</a>
+<a href="daily-standup.html" title="Back to: Daily Standup">◀</a> <a href="meeting-formats.html" title="Up: Meeting Formats">▲</a> <a href="coordination-meeting.html" title="Read next: Coordination Meeting">▶ Read next: Coordination Meeting</a>
 </div>
 
 

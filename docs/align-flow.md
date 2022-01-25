@@ -20,13 +20,13 @@ When decision making is conducted close to where value is created, and the flow 
 
 
 <div class="bottom-nav">
-<a href="timebox-activities.html" title="Back to: Timebox Activities">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="coordinator.html" title="Read next: Coordinator">▶ Read next: Coordinator</a>
+<a href="clarify-and-develop-strategy.html" title="Back to: Clarify and Develop Strategy">◀</a> <a href="evolving-organizations.html" title="Up: Evolving Organizations">▲</a> <a href="create-a-pull-system-for-organizational-change.html" title="Read next: Create a Pull-System For Organizational Change">▶ Read next: Create a Pull-System For Organizational Change</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'coordinator.html';
+    window.location.href = 'create-a-pull-system-for-organizational-change.html';
     return false;
 });
 </script>
