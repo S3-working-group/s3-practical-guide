@@ -25,7 +25,7 @@ _Would it help the organization if we respond to this driver? Or would it lead t
 
 
 <div class="bottom-nav">
-<a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="navigate-via-tension.html" title="Read next: Navigate via Tension">▶ Read next: Navigate via Tension</a>
+<a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="navigate-via-tension.html" title="Read next: Navigate via Tension">▶ Read next: Navigate via Tension</a>
 </div>
 
 

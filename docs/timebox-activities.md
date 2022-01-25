@@ -26,13 +26,13 @@ You could timebox:
 
 
 <div class="bottom-nav">
-<a href="limit-work-in-progress.html" title="Back to: Limit Work in Progress">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="align-flow.html" title="Read next: Align Flow">▶ Read next: Align Flow</a>
+<a href="limit-work-in-progress.html" title="Back to: Limit Work in Progress">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="coordinator.html" title="Read next: Coordinator">▶ Read next: Coordinator</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'align-flow.html';
+    window.location.href = 'coordinator.html';
     return false;
 });
 </script>

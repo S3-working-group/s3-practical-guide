@@ -46,13 +46,13 @@ Follow-up:
 
 
 <div class="bottom-nav">
-<a href="resolve-objections.html" title="Back to: Resolve Objections">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="involve-those-affected.html" title="Read next: Involve Those Affected">▶ Read next: Involve Those Affected</a>
+<a href="resolve-objections.html" title="Back to: Resolve Objections">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="co-create-proposals.html" title="Read next: Co-Create Proposals">▶ Read next: Co-Create Proposals</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'involve-those-affected.html';
+    window.location.href = 'co-create-proposals.html';
     return false;
 });
 </script>

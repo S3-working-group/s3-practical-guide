@@ -23,6 +23,9 @@ title: "Meeting Practices"
   <dt><a href="meeting-host.html">Meeting Host</a></dt>
   <dd><p>Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.</p></dd>
 
+  <dt><a href="governance-facilitator.html">Governance Facilitator</a></dt>
+  <dd><p>Select someone to facilitate governance meetings.</p></dd>
+
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
   <dd><p><em>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</em></p></dd>
 </dl>

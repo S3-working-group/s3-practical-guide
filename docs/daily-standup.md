@@ -16,7 +16,7 @@ title: "Daily Standup"
 
 
 <div class="bottom-nav">
-<a href="retrospective.html" title="Back to: Retrospective">◀</a> <a href="focused-interactions.html" title="Up: Focused Interactions">▲</a> <a href="planning-and-review-meetings.html" title="Read next: Planning And Review Meetings">▶ Read next: Planning And Review Meetings</a>
+<a href="governance-meeting.html" title="Back to: Governance Meeting">◀</a> <a href="meeting-formats.html" title="Up: Meeting Formats">▲</a> <a href="planning-and-review-meetings.html" title="Read next: Planning And Review Meetings">▶ Read next: Planning And Review Meetings</a>
 </div>
 
 

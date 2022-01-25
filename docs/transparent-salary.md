@@ -23,13 +23,13 @@ Decide how to handle remuneration for changing roles and [develop a strategy](cl
 
 
 <div class="bottom-nav">
-<a href="contract-for-successful-collaboration.html" title="Back to: Contract For Successful Collaboration">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="support-role.html" title="Read next: Support Role">▶ Read next: Support Role</a>
+<a href="breaking-agreements.html" title="Back to: Breaking Agreements">◀</a> <a href="enablers-of-co-creation.html" title="Up: Enablers of Co-Creation">▲</a> <a href="contract-for-successful-collaboration.html" title="Read next: Contract For Successful Collaboration">▶ Read next: Contract For Successful Collaboration</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'support-role.html';
+    window.location.href = 'contract-for-successful-collaboration.html';
     return false;
 });
 </script>

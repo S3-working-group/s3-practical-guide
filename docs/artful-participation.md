@@ -43,7 +43,7 @@ Artful participation:
 
 
 <div class="bottom-nav">
-<a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="adopt-the-seven-principles.html" title="Read next: Adopt The Seven Principles">▶ Read next: Adopt The Seven Principles</a>
+<a href="enablers-of-co-creation.html" title="Up: Enablers of Co-Creation">▲</a> <a href="adopt-the-seven-principles.html" title="Read next: Adopt The Seven Principles">▶ Read next: Adopt The Seven Principles</a>
 </div>
 
 

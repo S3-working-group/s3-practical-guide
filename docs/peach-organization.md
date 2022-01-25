@@ -18,7 +18,7 @@ The center provides internal services to support the organization.
 
 
 <div class="bottom-nav">
-<a href="delegate-circle.html" title="Back to: Delegate Circle">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="double-linked-hierarchy.html" title="Read next: Double-Linked Hierarchy">▶ Read next: Double-Linked Hierarchy</a>
+<a href="service-circle.html" title="Back to: Service Circle">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="double-linked-hierarchy.html" title="Read next: Double-Linked Hierarchy">▶ Read next: Double-Linked Hierarchy</a>
 </div>
 
 

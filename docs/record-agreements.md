@@ -44,13 +44,13 @@ Depending on the scope and significance of the agreement, consider including all
 
 
 <div class="bottom-nav">
-<a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="clarify-and-develop-strategy.html" title="Read next: Clarify and Develop Strategy">▶ Read next: Clarify and Develop Strategy</a>
+<a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="clarify-intended-outcome.html" title="Read next: Clarify Intended Outcome">▶ Read next: Clarify Intended Outcome</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'clarify-and-develop-strategy.html';
+    window.location.href = 'clarify-intended-outcome.html';
     return false;
 });
 </script>

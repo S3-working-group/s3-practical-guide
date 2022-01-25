@@ -24,7 +24,7 @@ A circle:
 
 
 <div class="bottom-nav">
-<a href="delegate-influence.html" title="Back to: Delegate Influence">◀</a> <a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="role.html" title="Read next: Role">▶ Read next: Role</a>
+<a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="role.html" title="Read next: Role">▶ Read next: Role</a>
 </div>
 
 

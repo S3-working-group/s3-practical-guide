@@ -20,13 +20,13 @@ Share valuable adaptations with the S3 community.
 
 
 <div class="bottom-nav">
-<a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="create-a-pull-system-for-organizational-change.html" title="Read next: Create a Pull-System For Organizational Change">▶ Read next: Create a Pull-System For Organizational Change</a>
+<a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="be-the-change.html" title="Read next: Be The Change">▶ Read next: Be The Change</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'create-a-pull-system-for-organizational-change.html';
+    window.location.href = 'be-the-change.html';
     return false;
 });
 </script>

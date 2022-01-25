@@ -17,13 +17,13 @@ Decentralize as much as possible, and retain as much influence as necessary.
 
 
 <div class="bottom-nav">
-<a href="building-organizations.html" title="Up: Building Organizations">▲</a> <a href="circle.html" title="Read next: Circle">▶ Read next: Circle</a>
+<a href="clarify-and-develop-domains.html" title="Back to: Clarify and Develop Domains">◀</a> <a href="evolving-organizations.html" title="Up: Evolving Organizations">▲</a> <a href="clarify-and-develop-strategy.html" title="Read next: Clarify and Develop Strategy">▶ Read next: Clarify and Develop Strategy</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'circle.html';
+    window.location.href = 'clarify-and-develop-strategy.html';
     return false;
 });
 </script>

@@ -14,7 +14,7 @@ Any role or team's purpose is to contribute towards the overall purpose of the o
 [Clarifying domains](clarify-and-develop-domains.html) makes the contract between the _delegator_ (who delegate responsibility for a domain) and the _delegatee(s)_ (to whom the domain is delegated) explicit, which enables everyone to learn about what works and what doesn't, and to understand who is responsible for what. A clear domain description with a reasonable amount of detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work.
 
 
-## Regularly evaluate and evolve domains
+## Evaluate and evolve domains regularly
 
 People's understanding of the organization is limited and the environment is always changing. Therefore it is essential that delegator, delegatee(s) and other relevant stakeholders regularly take the time to evaluate and evolve both the design of the domain and how people account for it as their understanding of the domain deepens. 
 

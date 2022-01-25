@@ -54,7 +54,7 @@ _Present and consent to the primary driver_
 -   Record any relevant information that comes up.
 
 
-### 2. Who will be impacted? 
+### 2. Who will be impacted?
 
 _Who will be impacted as we respond to the primary driver? Consider who can help / stand in the way / benefit / lose or be harmed._
 
@@ -129,7 +129,7 @@ _Organize the work that lies ahead in each domain, ensure things are prioritized
 -   Archive any “needs” cards that appear superfluous.
 -   Consider the domain and describe and prioritize other needs that may not have been identified.
 -   Pass on cards that appear to be the accountability of another domain to address.
--   Add cards concerning multiple domains to a dedicated backlog to address later.
+-   Put aside cards relating to multiple domains. You can deal with them in Step 8.
 
 _As a facilitator of the driver mapping process, provide a space to collect cards concerning multiple domains so that they can be addressed later._
 
@@ -161,13 +161,13 @@ _Take a moment to celebrate your achievements in getting your organization or in
 	
 
 <div class="bottom-nav">
-<a href="role-selection.html" title="Back to: Role Selection">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="peer-development.html" title="Read next: Peer Development">▶ Read next: Peer Development</a>
+<a href="create-a-pull-system-for-organizational-change.html" title="Back to: Create a Pull-System For Organizational Change">◀</a> <a href="evolving-organizations.html" title="Up: Evolving Organizations">▲</a> <a href="open-systems.html" title="Read next: Open Systems">▶ Read next: Open Systems</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'peer-development.html';
+    window.location.href = 'open-systems.html';
     return false;
 });
 </script>

@@ -1,5 +1,5 @@
 ---
-title: "Co-Creation and Evolution"
+title: "Sensemaking and Decisionmaking"
 ---
 
 
@@ -21,13 +21,10 @@ title: "Co-Creation and Evolution"
   <dd><p>Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.</p></dd>
 
   <dt><a href="resolve-objections.html">Resolve Objections</a></dt>
-  <dd><p>Resolve objections one at a time by using the information they contain to make and evolve amendments.</p></dd>
+  <dd><p>Resolve objections one at a time by using the information they contain to make and evolve agreements.</p></dd>
 
   <dt><a href="evaluate-and-evolve-agreements.html">Evaluate And Evolve Agreements</a></dt>
   <dd><p>Continuously evolve the body of agreements, and eliminate waste.</p></dd>
-
-  <dt><a href="involve-those-affected.html">Involve Those Affected</a></dt>
-  <dd><p>Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.</p></dd>
 
   <dt><a href="co-create-proposals.html">Co-Create Proposals</a></dt>
   <dd><p>Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.</p></dd>
@@ -35,11 +32,11 @@ title: "Co-Creation and Evolution"
   <dt><a href="proposal-forming.html">Proposal Forming</a></dt>
   <dd><p>A (facilitated) group process for co-creating a response to a driver.</p></dd>
 
+  <dt><a href="reasoned-decision-making.html">Reasoned Decision Making</a></dt>
+  <dd><p>Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered relevant, valid or empirically true.</p></dd>
+
   <dt><a href="role-selection.html">Role Selection</a></dt>
   <dd><p>A group process for selecting a person for a role on the strength of the reason.</p></dd>
-
-  <dt><a href="driver-mapping.html">Driver Mapping</a></dt>
-  <dd><p>A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.</p></dd>
 </dl>
 
 

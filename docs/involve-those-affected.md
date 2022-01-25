@@ -14,13 +14,13 @@ Consider including those affected in reviewing and evolving decisions, too.
 
 
 <div class="bottom-nav">
-<a href="evaluate-and-evolve-agreements.html" title="Back to: Evaluate And Evolve Agreements">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="co-create-proposals.html" title="Read next: Co-Create Proposals">▶ Read next: Co-Create Proposals</a>
+<a href="agree-on-values.html" title="Back to: Agree On Values">◀</a> <a href="enablers-of-co-creation.html" title="Up: Enablers of Co-Creation">▲</a> <a href="breaking-agreements.html" title="Read next: Breaking Agreements">▶ Read next: Breaking Agreements</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'co-create-proposals.html';
+    window.location.href = 'breaking-agreements.html';
     return false;
 });
 </script>

@@ -24,13 +24,13 @@ Chosen values are an agreement that benefits from **regular review**.
 
 
 <div class="bottom-nav">
-<a href="adopt-the-seven-principles.html" title="Back to: Adopt The Seven Principles">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="governance-facilitator.html" title="Read next: Governance Facilitator">▶ Read next: Governance Facilitator</a>
+<a href="adopt-the-seven-principles.html" title="Back to: Adopt The Seven Principles">◀</a> <a href="enablers-of-co-creation.html" title="Up: Enablers of Co-Creation">▲</a> <a href="involve-those-affected.html" title="Read next: Involve Those Affected">▶ Read next: Involve Those Affected</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'governance-facilitator.html';
+    window.location.href = 'involve-those-affected.html';
     return false;
 });
 </script>

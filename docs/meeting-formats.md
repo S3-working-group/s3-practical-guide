@@ -1,15 +1,15 @@
 ---
-title: "Focused Interactions"
+title: "Meeting Formats"
 ---
 
 
 <dl>
 
-  <dt><a href="governance-meeting.html">Governance Meeting</a></dt>
-  <dd><p>Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.</p></dd>
-
   <dt><a href="retrospective.html">Retrospective</a></dt>
   <dd><p>Dedicate time to reflect on past experience, learn, and decide how to improve work process.</p></dd>
+
+  <dt><a href="governance-meeting.html">Governance Meeting</a></dt>
+  <dd><p>Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.</p></dd>
 
   <dt><a href="daily-standup.html">Daily Standup</a></dt>
   <dd><p>Meet daily to organize work, facilitate learning and improve your productivity and effectiveness.</p></dd>
@@ -23,13 +23,13 @@ title: "Focused Interactions"
 
 
 <div class="bottom-nav">
-<a href="logbook-keeper.html" title="Back to: Logbook Keeper">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="governance-meeting.html" title="Read next: Governance Meeting">▶ Read next: Governance Meeting</a>
+<a href="logbook-keeper.html" title="Back to: Logbook Keeper">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="retrospective.html" title="Read next: Retrospective">▶ Read next: Retrospective</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'governance-meeting.html';
+    window.location.href = 'retrospective.html';
     return false;
 });
 </script>
