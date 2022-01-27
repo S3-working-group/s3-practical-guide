@@ -8,7 +8,7 @@ Patterns are modular and adaptable, can be used independently, and are mutually 
 
 In this guide, the patterns are grouped by topic into eleven categories to help you more easily identify those that are useful to you:
 
--   Sensemaking and Decisionmaking
+-   Sense-Making and Decision-Making
 -   Evolving Organizations
 -   Peer Development
 -   Enablers Of Co-Creation

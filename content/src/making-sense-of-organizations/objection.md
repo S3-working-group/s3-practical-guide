@@ -2,7 +2,7 @@
 
 {{define:objection}}
 
-You can think of objections as a simple tool for harvesting distributed intelligence and improving decision making.
+You can think of objections as a simple tool for harvesting distributed intelligence and improving decision-making.
 
 Be aware that withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 

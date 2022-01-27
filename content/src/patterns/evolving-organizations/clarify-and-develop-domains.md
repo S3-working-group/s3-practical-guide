@@ -81,7 +81,7 @@ Besides the summary, more details about the driver may be kept in the [logbook](
 
 ### Key Responsibilities
 
-List all essential work and decision making being delegated, in a way that enables measuring success. 
+List all essential work and decision-making being delegated, in a way that enables measuring success. 
 
 Key responsibilities are those responsibilities that stakeholders consider essential to take care of for the delegatee(s) to successfully account for the domain. 
 

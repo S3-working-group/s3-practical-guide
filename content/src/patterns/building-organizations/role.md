@@ -8,7 +8,7 @@ A role is an area of responsibility (a [domain](glossary:domain)) that is [deleg
 
 The role keeper leads in creating a [strategy](glossary:strategy) for how they will account for their domain. They evolve their strategy in collaboration with the [delegator](glossary:delegator).
 
-A role is a simple way for an organization (or [team](glossary:team)) to delegate recurring tasks or a specific area of work and decision making to one of its members.
+A role is a simple way for an organization (or [team](glossary:team)) to delegate recurring tasks or a specific area of work and decision-making to one of its members.
 
 - people can take responsibility for more than one role
 - instead of formally setting up a new team, it's sometimes simpler to just share one role between several people

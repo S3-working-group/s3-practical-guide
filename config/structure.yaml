@@ -28,7 +28,7 @@ parts:
       - governance
   - id: patterns
     parts:
-      - id: sensemaking-and-decisionmaking
+      - id: sense-making-and-decision-making
         tags: [group]
         parts:
           - id: respond-to-organizational-drivers

@@ -2,13 +2,13 @@
 
 When people think about governance they often think of corporate governance, the framework of rules, practices, and processes that are used to direct and manage the company. Traditionally, many of these decisions are seen to be made by managers in a management hierarchy but many others throughout an organization often make or at least contribute to governance decisions as well, regardless whether they are aware of it, or not. Governance happens not only on an organizational level, but within teams and even on an individual level as well.
 
-Most organizations and teams today benefit from developing capacity for collective sense making and harnessing a diversity of perspectives to effectively make and evolve the decisions necessary to navigate in a complex world.
+Most organizations and teams today benefit from developing capacity for collective sense-making and harnessing a diversity of perspectives to effectively make and evolve the decisions necessary to navigate in a complex world.
 
 Since there are so many decisions to make for an organization to run effectively, S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
 
 Greater autonomy of individuals and teams necessitates clear [agreements](glossary:agreement) (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they become, and remain fit for purpose over time. 
 
-While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people's behavior and activity, often benefits from a more participatory and deliberate [decision making process](section:consent-decision-making). These agreements include but are not limited to matters such as: strategy, priorities, distribution of responsibilities and power to influence, work processes, and many decisions about products and services. 
+While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people's behavior and activity, often benefits from a more participatory and deliberate [decision-making process](section:consent-decision-making). These agreements include but are not limited to matters such as: strategy, priorities, distribution of responsibilities and power to influence, work processes, and many decisions about products and services. 
 
 Such agreements need to be documented, both to remember them and to support effective [review](section:evaluate-and-evolve-agreements), and to be communicated to people affected (who are ideally also [involved in the creation and evolution](section:involve-those-affected) of those agreements).
 

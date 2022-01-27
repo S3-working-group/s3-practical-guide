@@ -7,7 +7,7 @@
 
 Essential patterns to help you achieve this:
 
--   [Clarify and Develop Domains](section:clarify-and-develop-domains) – Clarifying the area of influence, activity and decision making that a team, or person in a role is responsible for, enables them to understand the value they are expected to deliver.
+-   [Clarify and Develop Domains](section:clarify-and-develop-domains) – Clarifying the area of influence, activity and decision-making that a team, or person in a role is responsible for, enables them to understand the value they are expected to deliver.
 -   [Respond to Organizational Drivers](section:respond-to-organizational-drivers) – Understanding what’s necessary to respond to and why, and ensuring those things are taken care of, maximizes potential for creating value.
 -   [Prioritize Backlogs](section:prioritize-backlogs) –  When you prioritize your list of work items by value, it is obvious which ones need to be worked on first. 
 -   [Limit Work In Progress](section:limit-work-in-progress) –  Limiting the number of concurrent work items for people and teams, helps to maintain a steady flow of value and encourages collaboration when work is blocked.

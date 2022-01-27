@@ -15,7 +15,7 @@ As a governance facilitator, consider learning about and using the following pat
 
 -   [Rounds](section:rounds)
 -   [Proposal Forming](section:proposal-forming)
--   [Consent Decision Making](section:consent-decision-making)
+-   [Consent Decision-Making](section:consent-decision-making)
 -   [Role Selection](section:role-selection)
 -   [Evaluate Meetings](section:evaluate-meetings)
 -   [Resolve Objections](section:resolve-objections)

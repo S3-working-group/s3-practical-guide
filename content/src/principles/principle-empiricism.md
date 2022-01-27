@@ -1,4 +1,4 @@
-#  The Principle of Empiricism
+# The Principle of Empiricism
 
 _{{glossary:empiricism}}_
 
@@ -32,5 +32,5 @@ Define and document specific thresholds for success and failure of the experimen
 
 ## Treat decisions as experiments
 
-In a complex system, it is impossible to predict all of the ways in which that system will react to a particular intervention of change. Because of this you can apply the concept of experimentation to the way you approach decision making as well. It’s valuable to view all significant operational and governance decisions you make as experiments, and to document the intended outcome and evaluation criteria in each case. Make one decision at a time, starting with what appears to be an appropriate or logical starting point and evolve those decisions iteratively, based on what you learn.
+In a complex system, it is impossible to predict all of the ways in which that system will react to a particular intervention of change. Because of this you can apply the concept of experimentation to the way you approach decision-making as well. It’s valuable to view all significant operational and governance decisions you make as experiments, and to document the intended outcome and evaluation criteria in each case. Make one decision at a time, starting with what appears to be an appropriate or logical starting point and evolve those decisions iteratively, based on what you learn.
 

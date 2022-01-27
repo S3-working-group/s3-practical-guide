@@ -33,7 +33,7 @@ The [delegatee(s)](glossary:delegatee) may do whatever they think will help them
 The [delegator](glossary:delegator) still retains overall accountability for that domain, allocates **resources** and often defines:
 
 -   the **organizational need** the domain is designed to respond to
--   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
+-   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision-making being delegated)
 -   **constraints to the autonomy and influence** of the delegatee(s), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
 

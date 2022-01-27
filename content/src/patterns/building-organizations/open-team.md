@@ -14,6 +14,6 @@ The [delegator](glossary:delegator) of the domain creates an invitation that cla
 
 Depending on the constraints set by the delegator, contributors may only [organize and do work](glossary:operations), or take part in governance as well.
 
-The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making in the open team.
+The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision-making in the open team.
 
 ![Open Team](img/structural-patterns/open-team.png)

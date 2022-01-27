@@ -3,13 +3,14 @@
 
 ## Changes 2022-01-24
 
--   added [Reasoned Decision Making](section:reasoned-decision-making)
+-   added [Reasoned Decision-Making](section:reasoned-decision-making)
 -   updated pattern categories:
     -   new category _Evolving Organizations_
-    -   renamed _Co-Creation and Evolution_ to _Sensemaking and Decisionmaking_
+    -   renamed _Co-Creation and Evolution_ to _Sense-Making and Decision-Making_
     -   renamed _Focused Interactions_ to _Meeting Formats_
     -   renamed _Enablers of Collaboration_ to _Enablers of Co-Creation_
     -   and moved some patterns around
+-   Aligned spelling of decision-making throughout the guide
 -   revised summary of [Resolve Objections](section:resolve-objections)
 -   revised text of [Driver Mapping](section:driver-mapping) (step 7)
 
@@ -211,7 +212,7 @@
 -   [Agreement](section:record-agreements): improved description, updated template
 -   [Artful Participation](section:artful-participation): improved summary
 -   [Clarify Intended Outcome](section:clarify-intended-outcome) (renamed from _Intended Outcome_): improved description
--   [Consent Decision Making](section:consent-decision-making): improved description, updated illustration
+-   [Consent Decision-Making](section:consent-decision-making): improved description, updated illustration
 -   [Continuous Improvement Of Work Process](section:continuous-improvement-of-work-process): improved description
 -   [Contract For Successful Collaboration](section:contract-for-successful-collaboration): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 -   [Coordination Meeting](section:coordination-meeting): clarified agenda items, updated illustration
