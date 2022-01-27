@@ -16,6 +16,8 @@ Check if there are any disagreements on the relevance, validity or truthfulness 
     -   **Integrate** information revealed in the previous step to improve the subject.
 If there is no disagreement, or after all disputes have been resolved, **celebrate** reaching agreement.
 
+![Reasoned Decision-Making](img/agreements/reasoned-decision-making.png)
+
 How people undergo each of these steps varies and depends a lot on culture, context, preference, the number of people involved, and on whether they are communicating asynchronously or meeting face-to-face. 
 
 ## Mapping Reasoned Decision-Making to other patterns in S3
