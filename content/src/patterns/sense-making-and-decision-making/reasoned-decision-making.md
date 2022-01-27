@@ -10,11 +10,11 @@ The steps of the process:
 
 -   **Present** the subject for investigation (this could be an argument, or a proposal for how to proceed).
 -   **Understand** the subject (e.g. through clarifying questions).
-Check if there are any disagreements on the relevance, validity or truthfulness of the subject (e.g. using hand signs).
--   If there are any disagreements, take one at a time and:
+-   **Check** if there are any disagreements on the relevance, validity or truthfulness of the subject (e.g. using hand signs). If there are any disagreements, take one at a time and:
     -   **Dispute**: check if the argument put forward makes sense (using the same process).
-    -   **Integrate** information revealed in the previous step to improve the subject.
-If there is no disagreement, or after all disputes have been resolved, **celebrate** reaching agreement.
+    -   **Integrate** any information revealed in the previous step to improve the subject.
+    -   then **check** again for disagreement on the improved subject. 
+-   If there is no disagreement, **celebrate** reaching agreement.
 
 ![Reasoned Decision-Making](img/agreements/reasoned-decision-making.png)
 
