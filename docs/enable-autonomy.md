@@ -15,7 +15,7 @@ Essential patterns to help you achieve this:
 -   [Circle](circle.html) – Delegating autonomy to a team to organize and govern themselves within clearly defined constraints, frees the team up to create value, and enables those who delegate that authority to retain as much influence as necessary.
 -   [Clarify and Develop Strategy](clarify-and-develop-strategy.html) – A strategy for creating value, developed by the individual or team and agreed upon by all relevant stakeholders, builds trust and supports autonomy.
 -   [Development Plan](development-plan.html); Collaborating with relevant stakeholders on developing a plan for how to improve, helps a team or individual in a role develop their skill and competence, and builds trust among all concerned.
--   [Align Flow](align-flow.html) – Moving decision making close to where value is created, while retaining the influence of the relevant stakeholders, supports the flow of value and eliminates unnecessary dependencies and delays.
+-   [Align Flow](align-flow.html) – Moving decision-making close to where value is created, while retaining the influence of the relevant stakeholders, supports the flow of value and eliminates unnecessary dependencies and delays.
 
 
 

@@ -3,7 +3,7 @@ title: "Defining Agreements"
 ---
 
 
-S3 promotes a hypothesis-driven approach to decision making.
+S3 promotes a hypothesis-driven approach to decision-making.
 
 ![Any agreement or decision can be viewed as an experiment.](img/evolution/experiments.png)
 

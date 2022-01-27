@@ -79,7 +79,7 @@ title: "Glossary"
 
 
 <dt id="entry-domain">Domain</dt>
-<dd>A distinct area of influence, activity and decision making within an organization.</dd>
+<dd>A distinct area of influence, activity and decision-making within an organization.</dd>
 
 
 <dt id="entry-driver">Driver</dt>
@@ -123,7 +123,7 @@ title: "Glossary"
 
 
 <dt id="entry-key-responsibilities">Key responsibilities</dt>
-<dd>Essential work and decision making required in the context of a domain.</dd>
+<dd>Essential work and decision-making required in the context of a domain.</dd>
 
 
 <dt id="entry-logbook">Logbook</dt>

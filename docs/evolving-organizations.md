@@ -15,7 +15,7 @@ title: "Evolving Organizations"
   <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
 
   <dt><a href="align-flow.html">Align Flow</a></dt>
-  <dd><p>In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.</p></dd>
+  <dd><p>In support of continuous flow of value, move decision-making close to where value is created, and align the flow of information accordingly.</p></dd>
 
   <dt><a href="create-a-pull-system-for-organizational-change.html">Create a Pull-System For Organizational Change</a></dt>
   <dd><p>Create an environment that invites and enables members of the organization to drive change.</p></dd>

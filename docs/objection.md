@@ -5,7 +5,7 @@ title: "Objections"
 
 _An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
 
-You can think of objections as a simple tool for harvesting distributed intelligence and improving decision making.
+You can think of objections as a simple tool for harvesting distributed intelligence and improving decision-making.
 
 Be aware that withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 
@@ -17,7 +17,7 @@ When seeking out potential objections, consider:
 
 - why the <a href="#" class="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> would not be (fully) achieved: **effectiveness**
 - why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
-- the negative consequences something would have elsewhere (in the same <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>, in the wider organization, or beyond): **side-effects**
+- the negative consequences something would have elsewhere (in the same <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>, in the wider organization, or beyond): **side-effects**
 
 The information revealed by objections can be used to improve:
 

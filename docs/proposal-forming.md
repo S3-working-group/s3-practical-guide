@@ -42,7 +42,7 @@ Between two and three tuners is usually appropriate. Check for any objections to
 
 
 <div class="bottom-nav">
-<a href="co-create-proposals.html" title="Back to: Co-Create Proposals">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="reasoned-decision-making.html" title="Read next: Reasoned Decision Making">▶ Read next: Reasoned Decision Making</a>
+<a href="co-create-proposals.html" title="Back to: Co-Create Proposals">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="reasoned-decision-making.html" title="Read next: Reasoned Decision-Making">▶ Read next: Reasoned Decision-Making</a>
 </div>
 
 

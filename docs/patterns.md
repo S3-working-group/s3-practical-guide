@@ -15,7 +15,7 @@ Patterns are modular and adaptable, can be used independently, and are mutually 
 
 In this guide, the patterns are grouped by topic into eleven categories to help you more easily identify those that are useful to you:
 
-- [Sensemaking and Decisionmaking](sensemaking-and-decisionmaking.html)
+- [Sense-Making and Decision-Making](sense-making-and-decision-making.html)
 - [Evolving Organizations](evolving-organizations.html)
 - [Peer Development](peer-development.html)
 - [Enablers of Co-Creation](enablers-of-co-creation.html)
@@ -30,13 +30,13 @@ In this guide, the patterns are grouped by topic into eleven categories to help 
 
 
 <div class="bottom-nav">
-<a href="governance.html" title="Back to: Governance and Operations">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Read next: Sensemaking and Decisionmaking">▶ Read next: Sensemaking and Decisionmaking</a>
+<a href="governance.html" title="Back to: Governance and Operations">◀</a> <a href="sense-making-and-decision-making.html" title="Read next: Sense-Making and Decision-Making">▶ Read next: Sense-Making and Decision-Making</a>
 </div>
 
 
 <script type="text/javascript">
 Mousetrap.bind('g n', function() {
-    window.location.href = 'sensemaking-and-decisionmaking.html';
+    window.location.href = 'sense-making-and-decision-making.html';
     return false;
 });
 </script>

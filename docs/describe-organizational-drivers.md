@@ -53,7 +53,7 @@ Explain the effect of this situation on the organization:
 
 Explain the <a href="#" class="tooltip" title="Need: The lack of something wanted or deemed necessary (a requirement).">need</a> of the organization in relation to this situation:
 
-- A **need of an organization** is anything a team (or individual) requires to effectively account for a <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>.
+- A **need of an organization** is anything a team (or individual) requires to effectively account for a <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
 - Be specific on whose need it is ("we need", "they need", "I need").
 - If there's disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
 
@@ -80,7 +80,7 @@ Helpful questions for a review include:
 
 
 <div class="bottom-nav">
-<a href="navigate-via-tension.html" title="Back to: Navigate via Tension">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="consent-decision-making.html" title="Read next: Consent Decision Making">▶ Read next: Consent Decision Making</a>
+<a href="navigate-via-tension.html" title="Back to: Navigate via Tension">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="consent-decision-making.html" title="Read next: Consent Decision-Making">▶ Read next: Consent Decision-Making</a>
 </div>
 
 

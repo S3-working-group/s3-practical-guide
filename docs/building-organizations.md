@@ -18,7 +18,7 @@ title: "Building Organizations"
   <dd><p>Enable the <em>two-way</em> flow of information and influence between two teams.</p></dd>
 
   <dt><a href="representative.html">Representative</a></dt>
-  <dd><p>Select a team member to participate in the governance decision making of another team to enable the flow of information and influence.</p></dd>
+  <dd><p>Select a team member to participate in the governance decision-making of another team to enable the flow of information and influence.</p></dd>
 
   <dt><a href="open-team.html">Open Team</a></dt>
   <dd><p>Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.</p></dd>

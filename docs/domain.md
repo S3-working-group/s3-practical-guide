@@ -3,7 +3,7 @@ title: "Domains"
 ---
 
 
-_A **domain** is a distinct area of influence, activity and decision making within an organization._
+_A **domain** is a distinct area of influence, activity and decision-making within an organization._
 
 To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 
@@ -36,7 +36,7 @@ The <a href="#" class="tooltip" title="Delegatee: An individual or group accepti
 The <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> still retains overall accountability for that domain, allocates **resources** and often defines:
 
 -   the **organizational need** the domain is designed to respond to
--   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
+-   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision-making being delegated)
 -   **constraints to the autonomy and influence** of the delegatee(s), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
 

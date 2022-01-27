@@ -33,7 +33,7 @@ Some helpful questions:
 
 
 <div class="bottom-nav">
-<a href="consent-decision-making.html" title="Back to: Consent Decision Making">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="resolve-objections.html" title="Read next: Resolve Objections">▶ Read next: Resolve Objections</a>
+<a href="consent-decision-making.html" title="Back to: Consent Decision-Making">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="resolve-objections.html" title="Read next: Resolve Objections">▶ Read next: Resolve Objections</a>
 </div>
 
 

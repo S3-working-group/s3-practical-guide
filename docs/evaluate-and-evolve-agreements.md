@@ -46,7 +46,7 @@ Follow-up:
 
 
 <div class="bottom-nav">
-<a href="resolve-objections.html" title="Back to: Resolve Objections">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="co-create-proposals.html" title="Read next: Co-Create Proposals">▶ Read next: Co-Create Proposals</a>
+<a href="resolve-objections.html" title="Back to: Resolve Objections">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="co-create-proposals.html" title="Read next: Co-Create Proposals">▶ Read next: Co-Create Proposals</a>
 </div>
 
 

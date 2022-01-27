@@ -19,13 +19,13 @@ The response to an organizational driver is typically treated as an experiment t
 
 A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
 
-A simple way to qualify whether or not a driver falls within an organization's <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a> is by checking:
+A simple way to qualify whether or not a driver falls within an organization's <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a> is by checking:
 
 _Would it help the organization if we respond to this driver? Or would it lead to unintended consequences if we don't?_
 
 
 <div class="bottom-nav">
-<a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="navigate-via-tension.html" title="Read next: Navigate via Tension">▶ Read next: Navigate via Tension</a>
+<a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="navigate-via-tension.html" title="Read next: Navigate via Tension">▶ Read next: Navigate via Tension</a>
 </div>
 
 

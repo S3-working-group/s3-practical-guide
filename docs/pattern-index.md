@@ -15,7 +15,7 @@ title: "Alphabetical List Of All Patterns"
   <dd><p>Intentionally evolve the culture in your organization.</p></dd>
 
   <dt><a href="align-flow.html">Align Flow</a></dt>
-  <dd><p>In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.</p></dd>
+  <dd><p>In support of continuous flow of value, move decision-making close to where value is created, and align the flow of information accordingly.</p></dd>
 
   <dt><a href="artful-participation.html">Artful Participation</a></dt>
   <dd><p>Commit to doing your best to act and interact in ways that enable effective collaboration.</p></dd>
@@ -53,8 +53,8 @@ title: "Alphabetical List Of All Patterns"
   <dt><a href="co-create-proposals.html">Co-Create Proposals</a></dt>
   <dd><p>Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.</p></dd>
 
-  <dt><a href="consent-decision-making.html">Consent Decision Making</a></dt>
-  <dd><p>A (facilitated) group process for decision making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.</p></dd>
+  <dt><a href="consent-decision-making.html">Consent Decision-Making</a></dt>
+  <dd><p>A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.</p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Continuous Improvement Of Work Process</a></dt>
   <dd><p>Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.</p></dd>
@@ -182,14 +182,14 @@ title: "Alphabetical List Of All Patterns"
   <dt><a href="pull-system-for-work.html">Pull-System For Work</a></dt>
   <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them).</p></dd>
 
-  <dt><a href="reasoned-decision-making.html">Reasoned Decision Making</a></dt>
+  <dt><a href="reasoned-decision-making.html">Reasoned Decision-Making</a></dt>
   <dd><p>Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered relevant, valid or empirically true.</p></dd>
 
   <dt><a href="record-agreements.html">Record Agreements</a></dt>
   <dd><p>Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.</p></dd>
 
   <dt><a href="representative.html">Representative</a></dt>
-  <dd><p>Select a team member to participate in the governance decision making of another team to enable the flow of information and influence.</p></dd>
+  <dd><p>Select a team member to participate in the governance decision-making of another team to enable the flow of information and influence.</p></dd>
 
   <dt><a href="resolve-objections.html">Resolve Objections</a></dt>
   <dd><p>Resolve objections one at a time by using the information they contain to make and evolve agreements.</p></dd>

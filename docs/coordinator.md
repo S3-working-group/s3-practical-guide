@@ -7,7 +7,7 @@ A person fulfilling the role of a coordinator is accountable for **coordinating 
 
 The coordinator may be selected by the team itself, or by the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
 
-Several coordinators may collaborate to synchronize work across multiple <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a>.
+Several coordinators may collaborate to synchronize work across multiple <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a>.
 
 Instead of selecting a coordinator, a team may choose to self-organize.
 

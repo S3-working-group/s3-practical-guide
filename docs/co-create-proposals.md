@@ -22,7 +22,7 @@ Besides in a face-to-face workshop, you can adapt this process for online meetin
 
 
 <div class="bottom-nav">
-<a href="evaluate-and-evolve-agreements.html" title="Back to: Evaluate And Evolve Agreements">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="proposal-forming.html" title="Read next: Proposal Forming">▶ Read next: Proposal Forming</a>
+<a href="evaluate-and-evolve-agreements.html" title="Back to: Evaluate And Evolve Agreements">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="proposal-forming.html" title="Read next: Proposal Forming">▶ Read next: Proposal Forming</a>
 </div>
 
 

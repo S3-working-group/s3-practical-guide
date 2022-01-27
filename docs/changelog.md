@@ -4,15 +4,16 @@ title: "Changelog"
 
 
 
-## Changes 2022-01-24
+## Changes 2022-01-27
 
--   added [Reasoned Decision Making](reasoned-decision-making.html)
+-   added [Reasoned Decision-Making](reasoned-decision-making.html)
 -   updated pattern categories:
     -   new category _Evolving Organizations_
-    -   renamed _Co-Creation and Evolution_ to _Sensemaking and Decisionmaking_
+    -   renamed _Co-Creation and Evolution_ to _Sense-Making and Decision-Making_
     -   renamed _Focused Interactions_ to _Meeting Formats_
     -   renamed _Enablers of Collaboration_ to _Enablers of Co-Creation_
     -   and moved some patterns around
+-   Aligned spelling of decision-making throughout the guide
 -   revised summary of [Resolve Objections](resolve-objections.html)
 -   revised text of [Driver Mapping](driver-mapping.html) (step 7)
 
@@ -214,7 +215,7 @@ title: "Changelog"
 -   [Agreement](record-agreements.html): improved description, updated template
 -   [Artful Participation](artful-participation.html): improved summary
 -   [Clarify Intended Outcome](clarify-intended-outcome.html) (renamed from _Intended Outcome_): improved description
--   [Consent Decision Making](consent-decision-making.html): improved description, updated illustration
+-   [Consent Decision-Making](consent-decision-making.html): improved description, updated illustration
 -   [Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html): improved description
 -   [Contract For Successful Collaboration](contract-for-successful-collaboration.html): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 -   [Coordination Meeting](coordination-meeting.html): clarified agenda items, updated illustration

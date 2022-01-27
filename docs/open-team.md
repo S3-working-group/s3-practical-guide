@@ -15,7 +15,7 @@ The <a href="#" class="tooltip" title="Delegator: An individual or group delegat
 
 Depending on the constraints set by the delegator, contributors may only <a href="#" class="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">organize and do work</a>, or take part in governance as well.
 
-The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making in the open team.
+The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision-making in the open team.
 
 ![Open Team](img/structural-patterns/open-team.png)
 

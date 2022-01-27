@@ -14,7 +14,7 @@ Common platforms for logbooks are Wikis (e.g. [DokuWiki](https://www.dokuwiki.or
 Content relating to the whole organization:
 
 -   <a href="#" class="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</a>, <a href="#" class="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a> and organizational <a href="#" class="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a>
--   organizational structure (<a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> and the connections between them)
+-   organizational structure (<a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> and the connections between them)
 -   <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
 
 Content relating to a specific team or <a href="#" class="tooltip" title="Role: A domain that is delegated to an individual, who then becomes the role keeper.">role</a>:

@@ -7,7 +7,7 @@ Secure S3 principles and patterns in your bylaws as needed to protect **legal in
 
 Consider:
    
--   consent and equivalence in decision making
+-   consent and equivalence in decision-making
 -   selection process for leadership roles
 -   organizational structure, <a href="#" class="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a> and <a href="#" class="tooltip" title="Principle: A basic idea or rule that guides behavior, or explains or controls how something happens or works.">principles</a>
 -   influence of owners or shareholders

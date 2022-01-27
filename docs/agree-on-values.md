@@ -15,7 +15,7 @@ Values offer guidance to determine appropriate action, even in the absence of ex
 Collectively adopting a set of values supports the effectiveness of an organization:
 
 -   reduces potential for **misunderstanding**
--   helps to **align** decision making and action
+-   helps to **align** decision-making and action
 -   **attracts new members, partners and customers** who are aligned with the organization
 
 Chosen values are an agreement that benefits from **regular review**.

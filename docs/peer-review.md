@@ -13,7 +13,7 @@ Ensure you invite people with complementary perspectives to contribute to the re
 
 For both appreciations and improvement suggestions, ensure you consider the following aspects:
 
--   The **value** the delegatee brought to the organization by accounting for the <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>.
+-   The **value** the delegatee brought to the organization by accounting for the <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
 -   The role keeper’s or team’s **work processes**, and their **collaboration** with the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> and with other relevant stakeholders, and – in the case of a team - with each other.
 -   How well the **delegator** takes care of their responsibilities.
 -   The **design of the domain** itself (and potentially the design of other related domains).

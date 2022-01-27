@@ -1,9 +1,9 @@
 ---
-title: "Consent Decision Making"
+title: "Consent Decision-Making"
 ---
 
 
-**A (facilitated) group process for decision making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
+**A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
 
 Proposals become <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered _good enough for now and safe enough to try_ until the next review.
 
@@ -16,11 +16,11 @@ Withholding objections can harm the objectives of a team or organization.
 1.   In the absence of objections to an agreement, I intend to follow through on the agreement to the best of my ability.
 2.   I agree to share objections as I become aware of them.
 
-![Consent Decision Making](img/agreements/consent-decision-making.png)
+![Consent Decision-Making](img/agreements/consent-decision-making.png)
 
 
 <div class="bottom-nav">
-<a href="describe-organizational-drivers.html" title="Back to: Describe Organizational Drivers">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="test-arguments-qualify-as-objections.html" title="Read next: Test Arguments Qualify as Objections">▶ Read next: Test Arguments Qualify as Objections</a>
+<a href="describe-organizational-drivers.html" title="Back to: Describe Organizational Drivers">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="test-arguments-qualify-as-objections.html" title="Read next: Test Arguments Qualify as Objections">▶ Read next: Test Arguments Qualify as Objections</a>
 </div>
 
 

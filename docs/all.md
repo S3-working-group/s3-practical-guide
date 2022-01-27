@@ -39,7 +39,7 @@ Patterns are modular and adaptable, can be used independently, and are mutually 
 
 In this guide, the patterns are grouped by topic into eleven categories to help you more easily identify those that are useful to you:
 
--   Sensemaking and Decisionmaking
+-   Sense-Making and Decision-Making
 -   Evolving Organizations
 -   Peer Development
 -   Enablers Of Co-Creation
@@ -257,7 +257,7 @@ _**Raise, seek out and resolve objections to decisions and actions,** so that yo
 
 Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions and activity through the lens of different people’s perspectives helps to identify reasons why a decision or activity could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
 
-Adopting the principle of consent invites a change of focus in decision making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough or that there are worthwhile ways to improve? 
+Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough or that there are worthwhile ways to improve? 
 
 Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. Instead it’s useful to make decisions that, over time, free people up as much as possible to decide and act to create value by themselves. It does however require adequate _transparency_ and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see _the Principle of Equivalence_).
 
@@ -269,7 +269,7 @@ Developing a culture that welcomes dissenting opinions and where people consider
 
 #### Shift supremacy from people to sound arguments
 
-When comparing the available paradigms for decision making, the essential difference lies in where ultimate authority for making a decision is placed. In autocratic systems supremacy lies with an individual or small group. In a system governed by majority vote, supremacy lies with the majority (or those who can convince the majority of their position). In a system aspiring toward consensus with unanimity, supremacy lies with whoever decides to block a proposal or existing agreement. In all three of these cases, a decision is made regardless of whether the motive of those actors is aligned with the interest of the system or not. 
+When comparing the available paradigms for decision-making, the essential difference lies in where ultimate authority for making a decision is placed. In autocratic systems supremacy lies with an individual or small group. In a system governed by majority vote, supremacy lies with the majority (or those who can convince the majority of their position). In a system aspiring toward consensus with unanimity, supremacy lies with whoever decides to block a proposal or existing agreement. In all three of these cases, a decision is made regardless of whether the motive of those actors is aligned with the interest of the system or not. 
 
 When a group or organization adopts the principle of consent, supremacy shifts from any specific individual or group, to reasoned arguments that reveal the potential for undesirable consequences that would better be avoided or worthwhile ways to improve. This way, people—regardless of their position, rank, function or role—are unable to block decisions based solely on opinion, personal preference or rank. Consent invites everyone to at least be reasonable, while still leaving space for individuals to express diverse perspectives, opinions and ideas.
 
@@ -279,7 +279,7 @@ Consent draws on the intelligence distributed throughout an organization, not on
 
 Arguments that qualify as objections — at least as far as stakeholders can tell — help a group in directing their effort toward making changes in those areas where it’s necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
 
-Adopting the principle of consent shifts the aim of decision making towards identifying a solution that’s good enough for now, and where there are no obvious worthwhile improvements that would justify spending more time. This approach is far more effective than trying to arrive at consensus with unanimity, where the aim is to accommodate everyone’s personal preference and ideas.
+Adopting the principle of consent shifts the aim of decision-making towards identifying a solution that’s good enough for now, and where there are no obvious worthwhile improvements that would justify spending more time. This approach is far more effective than trying to arrive at consensus with unanimity, where the aim is to accommodate everyone’s personal preference and ideas.
 
 #### Integrate learning from objections
 
@@ -289,7 +289,7 @@ This facilitation of natural and incremental learning draws on the diversity of 
 
 #### The Implicit Contract of Consent
 
-Adopting the principle of consent in a team, or in the organization as a whole, has implications for how people approach decision making, dialogue and activity. Consider making this implicit contract of consent explicit, to support members of the organization to adopt and apply the principle of consent:
+Adopting the principle of consent in a team, or in the organization as a whole, has implications for how people approach decision-making, dialogue and activity. Consider making this implicit contract of consent explicit, to support members of the organization to adopt and apply the principle of consent:
 
 1. In the absence of objections to an agreement, I intend to follow through on that agreement to the best of my ability.
 2. As I become aware of them, I will share any possible objections to (proposed) agreements and activity, with those directly responsible for them.
@@ -298,7 +298,7 @@ Adopting the principle of consent in a team, or in the organization as a whole, 
 
 
 
-###  The Principle of Empiricism
+### The Principle of Empiricism
 
 _**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
 
@@ -332,7 +332,7 @@ Define and document specific thresholds for success and failure of the experimen
 
 #### Treat decisions as experiments
 
-In a complex system, it is impossible to predict all of the ways in which that system will react to a particular intervention of change. Because of this you can apply the concept of experimentation to the way you approach decision making as well. It’s valuable to view all significant operational and governance decisions you make as experiments, and to document the intended outcome and evaluation criteria in each case. Make one decision at a time, starting with what appears to be an appropriate or logical starting point and evolve those decisions iteratively, based on what you learn.
+In a complex system, it is impossible to predict all of the ways in which that system will react to a particular intervention of change. Because of this you can apply the concept of experimentation to the way you approach decision-making as well. It’s valuable to view all significant operational and governance decisions you make as experiments, and to document the intended outcome and evaluation criteria in each case. Make one decision at a time, starting with what appears to be an appropriate or logical starting point and evolve those decisions iteratively, based on what you learn.
 
 
 
@@ -368,27 +368,27 @@ Equivalence is important in organizational systems, precisely because people are
 
 Equivalence increases engagement by giving people affected by decisions the opportunity to influence those decisions to some degree. 
 
-By including people in making and evolving a decision that affects them, they gain deeper understanding about the resulting decision, the situation it’s intended to address, and the pros and cons that have been weighed in the process. It also helps to keep systems more open and transparent and reduces the potential for information vital to the decision being overlooked or ignored. Depending on the level of involvement, people might also have the opportunity to shape things according to their preference, and in any case, participation in the decision making leads to a greater sense of ownership over what is decided. 
+By including people in making and evolving a decision that affects them, they gain deeper understanding about the resulting decision, the situation it’s intended to address, and the pros and cons that have been weighed in the process. It also helps to keep systems more open and transparent and reduces the potential for information vital to the decision being overlooked or ignored. Depending on the level of involvement, people might also have the opportunity to shape things according to their preference, and in any case, participation in the decision-making leads to a greater sense of ownership over what is decided. 
 
 People are more likely to take responsibility for following through on decisions when they are involved in making them. This is further reinforced when ensuring affected parties have influence in adapting those decisions later, should they discover reasons why a decision is no longer good enough, or if they discover a viable way for improving something.  
 
 Decisions we develop together will always be ‘_our_’ decisions, whereas decisions taken by others, will always be ‘_theirs_’ and will be appreciated and supported more or less by others, depending on their personal preference and point of view.
 
-Some decisions will affect a large group of people, e.g. an entire department, or even the  organization as a whole. Including those affected in the decision making process will yield benefits that reach far beyond the decision in question. People will build connection, trust and a greater sense of community and belonging. For effectively involving a large number of stakeholders in the decision making process you can use a variety of group facilitation techniques and online tools. 
+Some decisions will affect a large group of people, e.g. an entire department, or even the  organization as a whole. Including those affected in the decision-making process will yield benefits that reach far beyond the decision in question. People will build connection, trust and a greater sense of community and belonging. For effectively involving a large number of stakeholders in the decision-making process you can use a variety of group facilitation techniques and online tools. 
 
 #### Delegate responsibility and power to influence
 
-To become or remain effective, organizations of any size benefit from distributing work, and the power to influence decisions relating to that work, throughout the organization. This helps to eliminate unnecessary dependencies, so that people can create value unimpeded, without getting bottlenecked, waiting on a decision making hierarchy or the input of others who are more distant from the work. 
+To become or remain effective, organizations of any size benefit from distributing work, and the power to influence decisions relating to that work, throughout the organization. This helps to eliminate unnecessary dependencies, so that people can create value unimpeded, without getting bottlenecked, waiting on a decision-making hierarchy or the input of others who are more distant from the work. 
 
-For matters that concern a large number of people, it makes sense to delegate responsibility for making and evolving agreements to a smaller group that has the necessary experience and expertise, who can then inform and consult with others in the organization during their decision making process. With adequate transparency and some proactivity in informing people affected by decisions of anything that is useful for them to know, possible objections from all stakeholders can still be quickly identified, qualified, and if necessary, resolved. In this way, equivalence enables the delegation of responsibilities to individuals or small groups, while still keeping the whole system open to discover and draw on the collective intelligence of everyone involved.
+For matters that concern a large number of people, it makes sense to delegate responsibility for making and evolving agreements to a smaller group that has the necessary experience and expertise, who can then inform and consult with others in the organization during their decision-making process. With adequate transparency and some proactivity in informing people affected by decisions of anything that is useful for them to know, possible objections from all stakeholders can still be quickly identified, qualified, and if necessary, resolved. In this way, equivalence enables the delegation of responsibilities to individuals or small groups, while still keeping the whole system open to discover and draw on the collective intelligence of everyone involved.
 
-Periodically rotating who takes a lead in decision making helps build trust, accountability and a more widely shared understanding of the context in which decisions are being made, because a growing number of people will gain experience in that role.
+Periodically rotating who takes a lead in decision-making helps build trust, accountability and a more widely shared understanding of the context in which decisions are being made, because a growing number of people will gain experience in that role.
 
 #### Consider who should be involved and how
 
-Everyone throughout an organization is impacted by all decisions to some degree, because each decision will impact the whole in some way. Equivalence in decision making doesn’t mean everyone needs to be involved in every decision all of the time. Nor does it mean that everyone has to have the same amount of influence in every context where they are affected. Equivalence means ensuring that those affected by decisions are at least able to influence those decisions, on the basis of arguments that reveal unintended consequences for the organization that are preferable to avoid, and/or worthwhile ways for how things can be improved. Put another way, the minimum requirement for equivalence to exist is to hear and consider any possible objections raised by people affected by decisions, and work to ensure that those objections are resolved.
+Everyone throughout an organization is impacted by all decisions to some degree, because each decision will impact the whole in some way. Equivalence in decision-making doesn’t mean everyone needs to be involved in every decision all of the time. Nor does it mean that everyone has to have the same amount of influence in every context where they are affected. Equivalence means ensuring that those affected by decisions are at least able to influence those decisions, on the basis of arguments that reveal unintended consequences for the organization that are preferable to avoid, and/or worthwhile ways for how things can be improved. Put another way, the minimum requirement for equivalence to exist is to hear and consider any possible objections raised by people affected by decisions, and work to ensure that those objections are resolved.
 
-The degree of worthwhile involvement is context dependent. At one end of the spectrum, it might be enough that decisions affecting others are made initially by an individual or a smaller group and that these decisions are then tested for any objections with those affected afterwards. On the other end of the spectrum, equivalence could manifest as a fully collaborative process where those affected participate in decision making from end-to-end. A middle road is a participatory approach that keeps people informed about progress and invites specific input at various stages along the way.
+The degree of worthwhile involvement is context dependent. At one end of the spectrum, it might be enough that decisions affecting others are made initially by an individual or a smaller group and that these decisions are then tested for any objections with those affected afterwards. On the other end of the spectrum, equivalence could manifest as a fully collaborative process where those affected participate in decision-making from end-to-end. A middle road is a participatory approach that keeps people informed about progress and invites specific input at various stages along the way.
 
 Equivalence needs to be balanced with _Effectiveness_, enabled through _Transparency_ and constrained by _Consent_, for it to function at its best. It’s valuable to weigh up the benefits of more or less involvement, versus the cost in terms of resources, energy and time. 
 
@@ -400,13 +400,13 @@ For people to contribute in an effective way, they need access to relevant infor
 
 #### Invest in learning and development
 
-When involving people in decision making, everyone understanding what objections are – and how they are distinct from concerns, opinion or preference – will help people contribute to decisions in more meaningful and effective ways. Put in place ways to gather any possible objections that people raise and develop a system to easily make them available to the people directly responsible for making and evolving those decisions.
+When involving people in decision-making, everyone understanding what objections are – and how they are distinct from concerns, opinion or preference – will help people contribute to decisions in more meaningful and effective ways. Put in place ways to gather any possible objections that people raise and develop a system to easily make them available to the people directly responsible for making and evolving those decisions.
 
-In the case where people are responsible for making and evolving agreements together on a regular basis, invest in everyone developing the necessary competence and skills. This includes learning basic communication skills and developing fluency in whichever decision making processes you use. 
+In the case where people are responsible for making and evolving agreements together on a regular basis, invest in everyone developing the necessary competence and skills. This includes learning basic communication skills and developing fluency in whichever decision-making processes you use. 
 
 #### Invite external influence
 
-Some decision making will be improved through including a range of perspectives and expertise. When looking for people with a worthwhile perspective to bring, consider the wider organization and your external environment too. Who has valuable expertise or experience from elsewhere in the organization and who are your customers, investors and other stakeholders? All of these people are affected in some way by the consequences of decisions you make. As well as being open to consider their suggestions and points of view, there might be times when actively inviting their opinion or involving them in certain decisions you need to make, will inform you of better ways to achieve your goals.
+Some decision-making will be improved through including a range of perspectives and expertise. When looking for people with a worthwhile perspective to bring, consider the wider organization and your external environment too. Who has valuable expertise or experience from elsewhere in the organization and who are your customers, investors and other stakeholders? All of these people are affected in some way by the consequences of decisions you make. As well as being open to consider their suggestions and points of view, there might be times when actively inviting their opinion or involving them in certain decisions you need to make, will inform you of better ways to achieve your goals.
 
 
 
@@ -467,7 +467,7 @@ The promise we make to take responsibility for things that need doing, creates a
 
 The consequences of our action or inaction will affect the organization in some way, so by becoming part of an organization we are taking some responsibility for the wellbeing of the whole. Many responsibilities within an organization are hard to anticipate, are undefined and are undelegated. Therefore when members of an organization recognize that they _share accountability_ for the organization as a whole, they are more inclined to step up, bring attention to important issues, and take responsibility for things when needed. Problems and opportunities are more likely to be acknowledged and dealt with and you reduce the risk of developing a culture of looking the other way, or worse, a culture of blame. 
 
-Many responsibilities are typically distributed throughout an organization by way of _delegation_, meaning that people take responsibility for specific work and decision making. Whenever a responsibility is delegated by one party (the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>) to another party (the <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a>), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
+Many responsibilities are typically distributed throughout an organization by way of _delegation_, meaning that people take responsibility for specific work and decision-making. Whenever a responsibility is delegated by one party (the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>) to another party (the <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a>), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
 
 While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their [domain](gloassary:domain), regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
 
@@ -560,7 +560,7 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 
 ### Domains
 
-_A **domain** is a distinct area of influence, activity and decision making within an organization._
+_A **domain** is a distinct area of influence, activity and decision-making within an organization._
 
 To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 
@@ -593,7 +593,7 @@ The <a href="#" class="tooltip" title="Delegatee: An individual or group accepti
 The <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> still retains overall accountability for that domain, allocates **resources** and often defines:
 
 -   the **organizational need** the domain is designed to respond to
--   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision making being delegated)
+-   **key responsibilities** (key deliverables, any critical risks to manage, other essential work and decision-making being delegated)
 -   **constraints to the autonomy and influence** of the delegatee(s), usually related to the organization itself (dependencies, involvement of the delegator, reporting etc.)
 
 
@@ -611,7 +611,7 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 _An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
 
-You can think of objections as a simple tool for harvesting distributed intelligence and improving decision making.
+You can think of objections as a simple tool for harvesting distributed intelligence and improving decision-making.
 
 Be aware that withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 
@@ -623,7 +623,7 @@ When seeking out potential objections, consider:
 
 - why the <a href="#" class="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> would not be (fully) achieved: **effectiveness**
 - why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
-- the negative consequences something would have elsewhere (in the same <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>, in the wider organization, or beyond): **side-effects**
+- the negative consequences something would have elsewhere (in the same <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>, in the wider organization, or beyond): **side-effects**
 
 The information revealed by objections can be used to improve:
 
@@ -668,13 +668,13 @@ An agreement can include **delegation of specific responsibilities** to individu
 
 When people think about governance they often think of corporate governance, the framework of rules, practices, and processes that are used to direct and manage the company. Traditionally, many of these decisions are seen to be made by managers in a management hierarchy but many others throughout an organization often make or at least contribute to governance decisions as well, regardless whether they are aware of it, or not. Governance happens not only on an organizational level, but within teams and even on an individual level as well.
 
-Most organizations and teams today benefit from developing capacity for collective sense making and harnessing a diversity of perspectives to effectively make and evolve the decisions necessary to navigate in a complex world.
+Most organizations and teams today benefit from developing capacity for collective sense-making and harnessing a diversity of perspectives to effectively make and evolve the decisions necessary to navigate in a complex world.
 
 Since there are so many decisions to make for an organization to run effectively, S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
 
 Greater autonomy of individuals and teams necessitates clear <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they become, and remain fit for purpose over time. 
 
-While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people's behavior and activity, often benefits from a more participatory and deliberate _decision making process_. These agreements include but are not limited to matters such as: strategy, priorities, distribution of responsibilities and power to influence, work processes, and many decisions about products and services. 
+While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people's behavior and activity, often benefits from a more participatory and deliberate _decision-making process_. These agreements include but are not limited to matters such as: strategy, priorities, distribution of responsibilities and power to influence, work processes, and many decisions about products and services. 
 
 Such agreements need to be documented, both to remember them and to support effective _review_, and to be communicated to people affected (who are ideally also _involved in the creation and evolution_ of those agreements).
 
@@ -684,7 +684,7 @@ _**Governance** in an organization (or a domain within it) is the process of set
 
 _**Operations** is doing the work and organizing day-to-day activities within the constraints defined through governance._
 
-For each <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a> in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
+For each <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a> in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
 
 There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a manager who leads others. Other times a _group of people govern themselves_ and all members share responsibility for governance within the constraints of their domain. 
  
@@ -732,7 +732,7 @@ Patterns are modular and adaptable, can be used independently, and are mutually 
 
 In this guide, the patterns are grouped by topic into eleven categories to help you more easily identify those that are useful to you:
 
-- [Sensemaking and Decisionmaking](sensemaking-and-decisionmaking.html)
+- [Sense-Making and Decision-Making](sense-making-and-decision-making.html)
 - [Evolving Organizations](evolving-organizations.html)
 - [Peer Development](peer-development.html)
 - [Enablers of Co-Creation](enablers-of-co-creation.html)
@@ -746,7 +746,7 @@ In this guide, the patterns are grouped by topic into eleven categories to help 
 
 
 
-### Sensemaking and Decisionmaking
+### Sense-Making and Decision-Making
 
 
 
@@ -769,7 +769,7 @@ The response to an organizational driver is typically treated as an experiment t
 
 A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.
 
-A simple way to qualify whether or not a driver falls within an organization's <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a> is by checking:
+A simple way to qualify whether or not a driver falls within an organization's <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a> is by checking:
 
 _Would it help the organization if we respond to this driver? Or would it lead to unintended consequences if we don't?_
 
@@ -841,7 +841,7 @@ Explain the effect of this situation on the organization:
 
 Explain the <a href="#" class="tooltip" title="Need: The lack of something wanted or deemed necessary (a requirement).">need</a> of the organization in relation to this situation:
 
-- A **need of an organization** is anything a team (or individual) requires to effectively account for a <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>.
+- A **need of an organization** is anything a team (or individual) requires to effectively account for a <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
 - Be specific on whose need it is ("we need", "they need", "I need").
 - If there's disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
 
@@ -867,9 +867,9 @@ Helpful questions for a review include:
 
 
 
-#### Consent Decision Making
+#### Consent Decision-Making
 
-**A (facilitated) group process for decision making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
+**A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
 
 Proposals become <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered _good enough for now and safe enough to try_ until the next review.
 
@@ -882,7 +882,7 @@ Withholding objections can harm the objectives of a team or organization.
 1.   In the absence of objections to an agreement, I intend to follow through on the agreement to the best of my ability.
 2.   I agree to share objections as I become aware of them.
 
-![Consent Decision Making](img/agreements/consent-decision-making.png)
+![Consent Decision-Making](img/agreements/consent-decision-making.png)
 
 
 #### Test Arguments Qualify as Objections
@@ -1035,35 +1035,37 @@ Between two and three tuners is usually appropriate. Check for any objections to
 ![Proposal forming process](img/agreements/proposal-forming.png)
 
 
-#### Reasoned Decision Making
+#### Reasoned Decision-Making
 
 **Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered relevant, valid or empirically true.**
 
-There are many paths people can follow to arrive at a decision with others (majority, consensus, authoritative, etc), but for any approach that uses reason as a basis for that agreement, they typically follow a similar pattern of _Reasoned Decision Making_. 
+There are many paths people can follow to arrive at a decision with others (majority, consensus, authoritative, etc), but for any approach that uses reason as a basis for that agreement, they typically follow a similar pattern of _Reasoned Decision-Making_. 
 
 The steps of the process:
 
 -   **Present** the subject for investigation (this could be an argument, or a proposal for how to proceed).
 -   **Understand** the subject (e.g. through clarifying questions).
-Check if there are any disagreements on the relevance, validity or truthfulness of the subject (e.g. using hand signs).
--   If there are any disagreements, take one at a time and:
+-   **Check** if there are any disagreements on the relevance, validity or truthfulness of the subject (e.g. using hand signs). If there are any disagreements, take one at a time and:
     -   **Dispute**: check if the argument put forward makes sense (using the same process).
-    -   **Integrate** information revealed in the previous step to improve the subject.
-If there is no disagreement, or after all disputes have been resolved, **celebrate** reaching agreement.
+    -   **Integrate** any information revealed in the previous step to improve the subject.
+    -   then **check** again for disagreement on the improved subject. 
+-   If there is no disagreement, **celebrate** reaching agreement.
+
+![Reasoned Decision-Making](img/agreements/reasoned-decision-making.png)
 
 How people undergo each of these steps varies and depends a lot on culture, context, preference, the number of people involved, and on whether they are communicating asynchronously or meeting face-to-face. 
 
-##### Mapping Reasoned Decision Making to other patterns in S3
+##### Mapping Reasoned Decision-Making to other patterns in S3
 
-Reasoned Decision Making is reflected in all of the S3 process patterns that support groups to reach agreement. Understanding this meta-pattern helps people to more effectively apply them:
+Reasoned Decision-Making is reflected in all of the S3 process patterns that support groups to reach agreement. Understanding this meta-pattern helps people to more effectively apply them:
 
--   _Consent Decision Making_, for testing if a proposal or existing agreement is good enough and safe enough. And, within this, two nested patterns:
+-   _Consent Decision-Making_, for testing if a proposal or existing agreement is good enough and safe enough. And, within this, two nested patterns:
 -   _Test Arguments Qualify as Objections_, for testing if arguments qualify as objections and only acting on those that do.
 -   _Resolve Objections_, for using the information revealed by objections to make and evolve agreements. 
 
 Each of the three processes focuses on the investigation of a different subject: 
 
--    In _Consent Decision Making_ the subject is a **proposal**.
+-    In _Consent Decision-Making_ the subject is a **proposal**.
 -    In _Test Argument Qualifies as Objection_ the subject is an **argument**.
 -    In _Resolving Objections_ - the subject is a **proposed amendment**. 
 
@@ -1081,7 +1083,7 @@ Instead of simply assigning people for _roles_, or making a choice based only on
 - increase ownership over the decision
 - ensure support for the role keeper by those affected.
 
-A prerequisite to the selection process is a _clear description_ of the role's <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>.
+A prerequisite to the selection process is a _clear description_ of the role's <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
 
 ##### Role Selection - Steps
 
@@ -1115,7 +1117,7 @@ This pattern can also be used in any situation where there is a need to choose b
 
 **A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.**
 
-To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> - distinct areas of responsibility and autonomy. 
+To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> - distinct areas of responsibility and autonomy. 
 
 Any role or team’s purpose is to contribute towards the overall purpose of the organization by taking care of a specific organizational need. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work suffers because of missed dependencies, double work, or work not done at all.
 
@@ -1192,7 +1194,7 @@ Besides the summary, more details about the driver may be kept in the _logbook_.
 
 ###### Key Responsibilities
 
-List all essential work and decision making being delegated, in a way that enables measuring success. 
+List all essential work and decision-making being delegated, in a way that enables measuring success. 
 
 Key responsibilities are those responsibilities that stakeholders consider essential to take care of for the delegatee(s) to successfully account for the domain. 
 
@@ -1326,7 +1328,7 @@ Consider also including the following information to the domain description
 
 A <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> can support <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatees</a> to deliver value by:
 
--   Clearly defining <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> of autonomy and responsibility
+-   Clearly defining <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> of autonomy and responsibility
 -   Ensuring there are opportunities for learning and development
 -   Providing support if required
 
@@ -1343,7 +1345,7 @@ It is usually more effective if a team or role keeper lead in developing their o
 
 A strategy often includes a description of the <a href="#" class="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of implementing that strategy.
 
-As the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> shares accountability for <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> they delegate, it's valuable they review a <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee's</a> strategy, to check for potential impediments and suggest ways it could be improved.
+As the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> shares accountability for <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> they delegate, it's valuable they review a <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee's</a> strategy, to check for potential impediments and suggest ways it could be improved.
 
 A strategy is a shared agreement between delegator(s) and delegatee(s) that is regularly reviewed and updated as necessary (*pivot or persevere*)
 
@@ -1354,7 +1356,7 @@ Strategies are validated and refined through experimentation and learning.
 
 #### Align Flow
 
-**In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.**
+**In support of continuous flow of value, move decision-making close to where value is created, and align the flow of information accordingly.**
 
 **Flow of value:** Deliverables traveling through an organization towards customers or other stakeholders.
 
@@ -1365,7 +1367,7 @@ Achieve and maintain alignment of flow through the continuous evolution of an or
 -   make available any helpful information
 -   aim for shorter feedback loops to amplify learning.
 
-When decision making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is reduced.
+When decision-making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is reduced.
 
 ![Aligning the flow of information to support the flow of value](img/workflow-and-value/align-flow.png)
 
@@ -1545,10 +1547,10 @@ _Take a moment to celebrate your achievements in getting your organization or in
 
 **Intentionally communicate with and learn from others outside of your system.**
 
-Individuals, teams and entire organizations can acknowledge interdependence and intentionally invite people from outside their system to bring in **knowledge, experience and influence** to assist with decision making and support collective learning.
+Individuals, teams and entire organizations can acknowledge interdependence and intentionally invite people from outside their system to bring in **knowledge, experience and influence** to assist with decision-making and support collective learning.
 
 -   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
--   **Representatives of affected parties** can inform and influence decision making in ways that benefit overall objectives (see _Involve Those Affected _)
+-   **Representatives of affected parties** can inform and influence decision-making in ways that benefit overall objectives (see _Involve Those Affected _)
 
 
 ### Peer Development
@@ -1600,7 +1602,7 @@ Ensure you invite people with complementary perspectives to contribute to the re
 
 For both appreciations and improvement suggestions, ensure you consider the following aspects:
 
--   The **value** the delegatee brought to the organization by accounting for the <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>.
+-   The **value** the delegatee brought to the organization by accounting for the <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
 -   The role keeper’s or team’s **work processes**, and their **collaboration** with the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> and with other relevant stakeholders, and – in the case of a team - with each other.
 -   How well the **delegator** takes care of their responsibilities.
 -   The **design of the domain** itself (and potentially the design of other related domains).
@@ -1618,7 +1620,7 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 
 The development plan may be created for a person in a role, or for a team (e.g. a department, _circle_ or _open team_).
 
-Development may happen in the form of refining the _description of the driver_ and the <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>, making amendments to <a href="#" class="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
+Development may happen in the form of refining the _description of the driver_ and the <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>, making amendments to <a href="#" class="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
 
 A development plan (and any accompanying recommendations for changes to the descriptions of the domain and the <a href="#" class="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a>) requires consent from both the <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a> and the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
 
@@ -1698,7 +1700,7 @@ Values offer guidance to determine appropriate action, even in the absence of ex
 Collectively adopting a set of values supports the effectiveness of an organization:
 
 -   reduces potential for **misunderstanding**
--   helps to **align** decision making and action
+-   helps to **align** decision-making and action
 -   **attracts new members, partners and customers** who are aligned with the organization
 
 Chosen values are an agreement that benefits from **regular review**.
@@ -1794,7 +1796,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 
 ##### When Co-Creating a Contract:
 
-- ensure all parties have a delegation that includes representation for all affected <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> (e.g. not only sales, but also development / production / support, etc)
+- ensure all parties have a delegation that includes representation for all affected <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> (e.g. not only sales, but also development / production / support, etc)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
 - state the reasons for the proposed collaboration, and transparent about expectations and needs of all parties
 - disclose all relevant information (if necessary under an NDA)
@@ -1846,7 +1848,7 @@ Secure S3 principles and patterns in your bylaws as needed to protect **legal in
 
 Consider:
    
--   consent and equivalence in decision making
+-   consent and equivalence in decision-making
 -   selection process for leadership roles
 -   organizational structure, <a href="#" class="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a> and <a href="#" class="tooltip" title="Principle: A basic idea or rule that guides behavior, or explains or controls how something happens or works.">principles</a>
 -   influence of owners or shareholders
@@ -1870,7 +1872,7 @@ A circle:
 -   is responsible for its own development and its body of <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
 
 -   **semi-autonomous:**
-    -   A circle's members act within the constraints of their <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>.
+    -   A circle's members act within the constraints of their <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
     -   Each circle can create <a href="#" class="tooltip" title="Value: The importance, worth or usefulness of something in relation to a driver. Also &quot;a principle of some significance that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">value</a> autonomously.
 -   **self-governing:**
     -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
@@ -1885,11 +1887,11 @@ A circle:
 
 **Delegate responsibility for a domain to individuals.**
 
-A role is an area of responsibility (a <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>) that is <a href="#" class="tooltip" title="Delegation: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.">delegated</a> to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
+A role is an area of responsibility (a <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>) that is <a href="#" class="tooltip" title="Delegation: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.">delegated</a> to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
 The role keeper leads in creating a <a href="#" class="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a> for how they will account for their domain. They evolve their strategy in collaboration with the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
 
-A role is a simple way for an organization (or <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>) to delegate recurring tasks or a specific area of work and decision making to one of its members.
+A role is a simple way for an organization (or <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>) to delegate recurring tasks or a specific area of work and decision-making to one of its members.
 
 - people can take responsibility for more than one role
 - instead of formally setting up a new team, it's sometimes simpler to just share one role between several people
@@ -1925,13 +1927,13 @@ Double linking enables equivalence between two teams and can be used to draw out
 
 #### Representative
 
-**Select a team member to participate in the governance decision making of another team to enable the flow of information and influence.**
+**Select a team member to participate in the governance decision-making of another team to enable the flow of information and influence.**
 
 Representatives (a.k.a. links):
 
 -   stand for the interests of one <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> in another team
 -   are selected for a limited term
--   participate in the **governance decision making** of the team they link with, and can:
+-   participate in the **governance decision-making** of the team they link with, and can:
     -   raise items for the agenda
     -   participate in forming proposals
     -   raise <a href="#" class="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objections</a> to proposals and existing <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
@@ -1951,7 +1953,7 @@ The <a href="#" class="tooltip" title="Delegator: An individual or group delegat
 
 Depending on the constraints set by the delegator, contributors may only <a href="#" class="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">organize and do work</a>, or take part in governance as well.
 
-The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision making in the open team.
+The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision-making in the open team.
 
 ![Open Team](img/structural-patterns/open-team.png)
 
@@ -1965,13 +1967,13 @@ A helping team:
 -   is a way for a <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> to expand their capacity
 -   may be self-organizing, or guided by a _coordinator_ chosen by the delegator
 -   is governed by the delegator
--   benefits from a clearly defined <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>
+-   benefits from a clearly defined <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>
 
 Members of the helping team:
 
 -   can object to the delegator's decisions that affect them
 -   can add items to the delegator's <a href="#" class="tooltip" title="Governance Backlog: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.">governance backlog</a>
--   may be invited to select a _representative_ to participate in the governance decision making of the delegator
+-   may be invited to select a _representative_ to participate in the governance decision-making of the delegator
 
 ![Helping Team](img/structural-patterns/helping-team.png)
 
@@ -2058,7 +2060,7 @@ Establishing a process for the ongoing elimination of waste enables natural evol
 
 ### Defining Agreements
 
-S3 promotes a hypothesis-driven approach to decision making.
+S3 promotes a hypothesis-driven approach to decision-making.
 
 ![Any agreement or decision can be viewed as an experiment.](img/evolution/experiments.png)
 
@@ -2159,7 +2161,7 @@ Common platforms for logbooks are Wikis (e.g. [DokuWiki](https://www.dokuwiki.or
 Content relating to the whole organization:
 
 -   <a href="#" class="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</a>, <a href="#" class="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a> and organizational <a href="#" class="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a>
--   organizational structure (<a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> and the connections between them)
+-   organizational structure (<a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> and the connections between them)
 -   <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
 
 Content relating to a specific team or <a href="#" class="tooltip" title="Role: A domain that is delegated to an individual, who then becomes the role keeper.">role</a>:
@@ -2176,7 +2178,7 @@ Content relating to a specific team or <a href="#" class="tooltip" title="Role: 
 
 The logbook keeper is accountable for maintaining a team's <a href="#" class="tooltip" title="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</a> by:
 
--   recording details of <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a> descriptions, _selections_, evaluation dates, minutes of meetings etc.
+-   recording details of <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a> descriptions, _selections_, evaluation dates, minutes of meetings etc.
 -   organizing relevant information and improving the system when valuable
 -   keeping records up to date
 -   ensuring accessibility to everyone in the team (and in the wider organization as agreed)
@@ -2441,7 +2443,7 @@ As a governance facilitator, consider learning about and using the following pat
 
 -   _Rounds_
 -   _Proposal Forming_
--   _Consent Decision Making_
+-   _Consent Decision-Making_
 -   _Role Selection_
 -   _Evaluate Meetings_
 -   _Resolve Objections_
@@ -2585,13 +2587,13 @@ A person fulfilling the role of a coordinator is accountable for **coordinating 
 
 The coordinator may be selected by the team itself, or by the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
 
-Several coordinators may collaborate to synchronize work across multiple <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a>.
+Several coordinators may collaborate to synchronize work across multiple <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a>.
 
 Instead of selecting a coordinator, a team may choose to self-organize.
 
 ### Organizational Structure
 
-Organizational structure is the actual arrangement of <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
+Organizational structure is the actual arrangement of <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
 
 Continuously evolve your organization's structure to:
 
@@ -2622,9 +2624,9 @@ To make <a href="#" class="tooltip" title="Governance: The process of setting ob
 
 ![Delegate Circle](img/structural-patterns/delegate-circle.png)
 
-Governance decisions made in a delegate circle are acted upon in the various <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> it serves.
+Governance decisions made in a delegate circle are acted upon in the various <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> it serves.
 
-Delegate circles provide a way of steering organizations in alignment with the <a href="#" class="tooltip" title="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</a>, and bring a diversity of perspectives to governance decision making.
+Delegate circles provide a way of steering organizations in alignment with the <a href="#" class="tooltip" title="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</a>, and bring a diversity of perspectives to governance decision-making.
 
 A delegate circle may bring in other people (e.g. external experts) to help with specific decisions, or even as a member of the circle.
 
@@ -2633,7 +2635,7 @@ A delegate circle may bring in other people (e.g. external experts) to help with
 
 **Outsource services required by two or more domains.**
 
-A service circle can be populated by members of the <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> it serves, and/or by other people too.
+A service circle can be populated by members of the <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> it serves, and/or by other people too.
 
 ![Service Circle](img/structural-patterns/service-circle.png)
 
@@ -2649,7 +2651,7 @@ Teams in the periphery:
 
 The center provides internal services to support the organization.
 
-<a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">Domains</a> are linked as required to flow information and influence, and to support collaboration around dependencies.
+<a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">Domains</a> are linked as required to flow information and influence, and to support collaboration around dependencies.
 
 ![Peach Organization](img/structural-patterns/peach-organization.png)
 
@@ -2658,8 +2660,8 @@ The center provides internal services to support the organization.
 
 **Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.**
 
-1. Shift governance decision making from individuals to teams by forming <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">self-governing</a> <a href="#" class="tooltip" title="Circle: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.">circles</a> on all levels of your organization.
-2. Each circle's members select one of their group to represent their interests and participate in the <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decision making of the next higher circle, and vice versa.
+1. Shift governance decision-making from individuals to teams by forming <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">self-governing</a> <a href="#" class="tooltip" title="Circle: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.">circles</a> on all levels of your organization.
+2. Each circle's members select one of their group to represent their interests and participate in the <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decision-making of the next higher circle, and vice versa.
 
 A double-linked hierarchy:
 
@@ -2697,7 +2699,7 @@ If necessary, the pattern can be repeated to connect multiple fractal organizati
 
 A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <a href="#" class="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a>, or by multiple branches, departments, or projects within a larger organization.
 
-These <a href="#" class="tooltip" title="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</a> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> (e.g. accounting, product management, or development).
+These <a href="#" class="tooltip" title="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</a> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> (e.g. accounting, product management, or development).
 
 ##### Tiers
 
@@ -2808,7 +2810,7 @@ Essential Patterns to help you achieve this:
 
 Essential Patterns to help you achieve this:
 
--   _Clarify and Develop Domains_ – A clearly defined area of influence, activity and decision making is a prerequisite for defining an effective strategy for an organization, a team or role.
+-   _Clarify and Develop Domains_ – A clearly defined area of influence, activity and decision-making is a prerequisite for defining an effective strategy for an organization, a team or role.
 -   _Clarify Intended Outcome_ - Defining the intended outcome of a strategy is an essential component for monitoring and evaluating its effectiveness, and adapting things when necessary.
 -   _Describe Organizational Drivers_ – Understanding the motive for acting in response to a specific situation is an essential component for designing an effective strategy for responding to it 
 -   _Clarify and Develop Strategy_ – Stakeholders collaborating on creating and evolving strategy for an organization, team or role, helps to support creation of relevant and effective strategy
@@ -2829,7 +2831,7 @@ Essential Patterns to help you achieve this:
 
 Essential patterns to help you achieve this:
 
--   _Clarify and Develop Domains_ – Clarifying the area of influence, activity and decision making that a team, or person in a role is responsible for, enables them to understand the value they are expected to deliver.
+-   _Clarify and Develop Domains_ – Clarifying the area of influence, activity and decision-making that a team, or person in a role is responsible for, enables them to understand the value they are expected to deliver.
 -   _Respond to Organizational Drivers_ – Understanding what’s necessary to respond to and why, and ensuring those things are taken care of, maximizes potential for creating value.
 -   _Prioritize Backlogs_ –  When you prioritize your list of work items by value, it is obvious which ones need to be worked on first. 
 -   _Limit Work In Progress_ –  Limiting the number of concurrent work items for people and teams, helps to maintain a steady flow of value and encourages collaboration when work is blocked.
@@ -2861,7 +2863,7 @@ Essential patterns to help you achieve this:
 -   _Describe Organizational Drivers_ – Building a shared mental model of the situation you want to address, is essential for successfully designing, running and later on, evaluating experiments. 
 -   _Clarify Intended Outcome_ – A clear description of the intended outcome of an experiment is essential for understanding whether or not an experiment produced the intended result.
 -   _Evaluation Criteria_ – Defining clear criteria for determining success before the start of an experiment, helps to reveal flaws in its design and supports effective evaluation of outcomes. 
--   _Consent Decision Making_ – An effective group process for viewing a proposition from a diversity of perspectives and testing whether or not an experiment is good enough and safe enough to run.
+-   _Consent Decision-Making_ – An effective group process for viewing a proposition from a diversity of perspectives and testing whether or not an experiment is good enough and safe enough to run.
 -   _Evaluate and Evolve Agreements_ – An experiment needs to be regularly reviewed to determine what outcomes it achieves, and as a consequence, potentially adapted or even stopped.
 -   _Limit Work in Progress_ – Limit the number of concurrent experiments  to avoid overwhelm and maintain a steady flow of value. 
 -   _Create A Pull-System for Organizational Change_ – Inviting and enabling people to run experiments when they discover organizational needs allows for effective and decentralized adaption of the organization. 
@@ -2887,7 +2889,7 @@ Essential patterns to help you achieve this:
 -   _Circle_ – Delegating autonomy to a team to organize and govern themselves within clearly defined constraints, frees the team up to create value, and enables those who delegate that authority to retain as much influence as necessary.
 -   _Clarify and Develop Strategy_ – A strategy for creating value, developed by the individual or team and agreed upon by all relevant stakeholders, builds trust and supports autonomy.
 -   _Development Plan_; Collaborating with relevant stakeholders on developing a plan for how to improve, helps a team or individual in a role develop their skill and competence, and builds trust among all concerned.
--   _Align Flow_ – Moving decision making close to where value is created, while retaining the influence of the relevant stakeholders, supports the flow of value and eliminates unnecessary dependencies and delays.
+-   _Align Flow_ – Moving decision-making close to where value is created, while retaining the influence of the relevant stakeholders, supports the flow of value and eliminates unnecessary dependencies and delays.
 
 
 
@@ -2902,10 +2904,10 @@ Essential patterns to help you achieve this:
 -   _Clarify and Develop Domains_ – When people understand their own areas of responsibility, and those of others too, they also understand where collaboration on dependencies will be necessary.
 -   _Visualize Work_ – Visualizing work items and the dependencies between them, makes it easier to manage dependencies in cooperation with the relevant stakeholders. 
 -   _Respond to Organizational Drivers_ Understanding why a dependency exists in the first place, and ensuring it is taken care of, is essential for collaborating on managing or resolving dependencies. 
--   _Involve Those Affected_ – To address dependencies in an effective way, it often helps to gather the perspectives of all (relevant) stakeholders and involve them in the decision making process.
--   _Linking_ – Dependencies between two teams can often be addressed effectively by sending a _Representative_ to the decision making of the other team, to ensure all relevant perspectives are considered and ownership of decisions is shared.
+-   _Involve Those Affected_ – To address dependencies in an effective way, it often helps to gather the perspectives of all (relevant) stakeholders and involve them in the decision-making process.
+-   _Linking_ – Dependencies between two teams can often be addressed effectively by sending a _Representative_ to the decision-making of the other team, to ensure all relevant perspectives are considered and ownership of decisions is shared.
 -   _Delegate Circle_ – Delegating the power to make and evolve agreements for how to deal with specific dependencies between teams, to a circle of representatives, brings together relevant perspectives and generates ownership among stakeholders. 
--   _Align Flow_ – Moving decision making close to where value is created, brings together the people necessary for making decisions in response to specific dependencies and eliminates unnecessary decision making bottlenecks.
+-   _Align Flow_ – Moving decision-making close to where value is created, brings together the people necessary for making decisions in response to specific dependencies and eliminates unnecessary decision-making bottlenecks.
 -   _Create a Pull-System for Organizational Change_ – Inviting and enabling people to make changes to organizational structure, when doing so provides an effective way for dealing with dependencies they share responsibility for, facilitates the ongoing evolution of a coherent and effective organization.
 
 
@@ -2975,15 +2977,16 @@ For each principle we included a list of suggestions for things you can try. The
 ### Changelog
 
 
-#### Changes 2022-01-24
+#### Changes 2022-01-27
 
--   added _Reasoned Decision Making_
+-   added _Reasoned Decision-Making_
 -   updated pattern categories:
     -   new category _Evolving Organizations_
-    -   renamed _Co-Creation and Evolution_ to _Sensemaking and Decisionmaking_
+    -   renamed _Co-Creation and Evolution_ to _Sense-Making and Decision-Making_
     -   renamed _Focused Interactions_ to _Meeting Formats_
     -   renamed _Enablers of Collaboration_ to _Enablers of Co-Creation_
     -   and moved some patterns around
+-   Aligned spelling of decision-making throughout the guide
 -   revised summary of _Resolve Objections_
 -   revised text of _Driver Mapping_ (step 7)
 
@@ -3185,7 +3188,7 @@ For each principle we included a list of suggestions for things you can try. The
 -   _Agreement_: improved description, updated template
 -   _Artful Participation_: improved summary
 -   _Clarify Intended Outcome_ (renamed from _Intended Outcome_): improved description
--   _Consent Decision Making_: improved description, updated illustration
+-   _Consent Decision-Making_: improved description, updated illustration
 -   _Continuous Improvement Of Work Process_: improved description
 -   _Contract For Successful Collaboration_: renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 -   _Coordination Meeting_: clarified agenda items, updated illustration
@@ -3334,7 +3337,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>Intentionally evolve the culture in your organization.</p></dd>
 
   <dt><a href="align-flow.html">Align Flow</a></dt>
-  <dd><p>In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.</p></dd>
+  <dd><p>In support of continuous flow of value, move decision-making close to where value is created, and align the flow of information accordingly.</p></dd>
 
   <dt><a href="artful-participation.html">Artful Participation</a></dt>
   <dd><p>Commit to doing your best to act and interact in ways that enable effective collaboration.</p></dd>
@@ -3372,8 +3375,8 @@ For each principle we included a list of suggestions for things you can try. The
   <dt><a href="co-create-proposals.html">Co-Create Proposals</a></dt>
   <dd><p>Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.</p></dd>
 
-  <dt><a href="consent-decision-making.html">Consent Decision Making</a></dt>
-  <dd><p>A (facilitated) group process for decision making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.</p></dd>
+  <dt><a href="consent-decision-making.html">Consent Decision-Making</a></dt>
+  <dd><p>A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.</p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Continuous Improvement Of Work Process</a></dt>
   <dd><p>Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.</p></dd>
@@ -3501,14 +3504,14 @@ For each principle we included a list of suggestions for things you can try. The
   <dt><a href="pull-system-for-work.html">Pull-System For Work</a></dt>
   <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them).</p></dd>
 
-  <dt><a href="reasoned-decision-making.html">Reasoned Decision Making</a></dt>
+  <dt><a href="reasoned-decision-making.html">Reasoned Decision-Making</a></dt>
   <dd><p>Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered relevant, valid or empirically true.</p></dd>
 
   <dt><a href="record-agreements.html">Record Agreements</a></dt>
   <dd><p>Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.</p></dd>
 
   <dt><a href="representative.html">Representative</a></dt>
-  <dd><p>Select a team member to participate in the governance decision making of another team to enable the flow of information and influence.</p></dd>
+  <dd><p>Select a team member to participate in the governance decision-making of another team to enable the flow of information and influence.</p></dd>
 
   <dt><a href="resolve-objections.html">Resolve Objections</a></dt>
   <dd><p>Resolve objections one at a time by using the information they contain to make and evolve agreements.</p></dd>
@@ -3755,7 +3758,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Deliverable:** A product, service, component or material provided in response to an organizational driver.
 
 
-**Domain:** A distinct area of influence, activity and decision making within an organization.
+**Domain:** A distinct area of influence, activity and decision-making within an organization.
 
 
 **Driver:** A person’s or a group's motive for responding to a specific situation.
@@ -3788,7 +3791,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Intended Outcome:** The expected result of an agreement, action, project or strategy.
 
 
-**Key responsibilities:** Essential work and decision making required in the context of a domain.
+**Key responsibilities:** Essential work and decision-making required in the context of a domain.
 
 
 **Logbook:** A (digital) system to store all information relevant for running an organization.

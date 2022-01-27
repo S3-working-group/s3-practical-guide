@@ -5,11 +5,11 @@ title: "Role"
 
 **Delegate responsibility for a domain to individuals.**
 
-A role is an area of responsibility (a <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>) that is <a href="#" class="tooltip" title="Delegation: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.">delegated</a> to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
+A role is an area of responsibility (a <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>) that is <a href="#" class="tooltip" title="Delegation: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.">delegated</a> to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
 The role keeper leads in creating a <a href="#" class="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a> for how they will account for their domain. They evolve their strategy in collaboration with the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
 
-A role is a simple way for an organization (or <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>) to delegate recurring tasks or a specific area of work and decision making to one of its members.
+A role is a simple way for an organization (or <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>) to delegate recurring tasks or a specific area of work and decision-making to one of its members.
 
 - people can take responsibility for more than one role
 - instead of formally setting up a new team, it's sometimes simpler to just share one role between several people

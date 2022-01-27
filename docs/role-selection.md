@@ -11,7 +11,7 @@ Instead of simply assigning people for [roles](role.html), or making a choice ba
 - increase ownership over the decision
 - ensure support for the role keeper by those affected.
 
-A prerequisite to the selection process is a [clear description](clarify-and-develop-domains.html) of the role's <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domain</a>.
+A prerequisite to the selection process is a [clear description](clarify-and-develop-domains.html) of the role's <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
 
 ## Role Selection - Steps
 
@@ -38,7 +38,7 @@ This pattern can also be used in any situation where there is a need to choose b
 
 
 <div class="bottom-nav">
-<a href="reasoned-decision-making.html" title="Back to: Reasoned Decision Making">◀</a> <a href="sensemaking-and-decisionmaking.html" title="Up: Sensemaking and Decisionmaking">▲</a> <a href="evolving-organizations.html" title="Read next: Evolving Organizations">▶ Read next: Evolving Organizations</a>
+<a href="reasoned-decision-making.html" title="Back to: Reasoned Decision-Making">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="evolving-organizations.html" title="Read next: Evolving Organizations">▶ Read next: Evolving Organizations</a>
 </div>
 
 

@@ -3,7 +3,7 @@ title: "Organizational Structure"
 ---
 
 
-Organizational structure is the actual arrangement of <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision making within an organization.">domains</a> and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
+Organizational structure is the actual arrangement of <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
 
 Continuously evolve your organization's structure to:
 

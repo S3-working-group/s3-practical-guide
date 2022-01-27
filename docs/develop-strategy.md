@@ -8,7 +8,7 @@ title: "Principle 2 – Develop Strategy"
 
 Essential Patterns to help you achieve this:
 
--   [Clarify and Develop Domains](clarify-and-develop-domains.html) – A clearly defined area of influence, activity and decision making is a prerequisite for defining an effective strategy for an organization, a team or role.
+-   [Clarify and Develop Domains](clarify-and-develop-domains.html) – A clearly defined area of influence, activity and decision-making is a prerequisite for defining an effective strategy for an organization, a team or role.
 -   [Clarify Intended Outcome](clarify-intended-outcome.html) - Defining the intended outcome of a strategy is an essential component for monitoring and evaluating its effectiveness, and adapting things when necessary.
 -   [Describe Organizational Drivers](describe-organizational-drivers.html) – Understanding the motive for acting in response to a specific situation is an essential component for designing an effective strategy for responding to it 
 -   [Clarify and Develop Strategy](clarify-and-develop-strategy.html) – Stakeholders collaborating on creating and evolving strategy for an organization, team or role, helps to support creation of relevant and effective strategy

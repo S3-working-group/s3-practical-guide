@@ -26,7 +26,7 @@ Be aware that if you change several things at the same time, you might not be ab
 Remember that even if things don’t turn out as you expect sometimes, this doesn’t necessarily mean that the results are negative. Sometimes things turn out differently to how we’d assumed or intended. All outcomes help us learn. **Be open to whatever happens**, consider the pros and cons of any unintended consequences that emerge and acknowledge when it would be beneficial to do things differently, or to aim for different results.
 
 <div class="bottom-nav">
-<a href="principle-empiricism.html" title="Back to:  The Principle of Empiricism">◀</a> <a href="principles.html" title="Up: The Seven Principles">▲</a> <a href="principle-equivalence.html" title="Read next: The Principle of Equivalence">▶ Read next: The Principle of Equivalence</a>
+<a href="principle-empiricism.html" title="Back to: The Principle of Empiricism">◀</a> <a href="principles.html" title="Up: The Seven Principles">▲</a> <a href="principle-equivalence.html" title="Read next: The Principle of Equivalence">▶ Read next: The Principle of Equivalence</a>
 </div>
 
 
