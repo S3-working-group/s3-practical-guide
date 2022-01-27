@@ -1,7 +1,7 @@
 # Changelog
 
 
-## Changes 2022-01-24
+## Changes 2022-01-27
 
 -   added [Reasoned Decision-Making](section:reasoned-decision-making)
 -   updated pattern categories:
