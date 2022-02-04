@@ -64,7 +64,6 @@ Clarifying questions sometimes reveal helpful ways to change the proposal text t
 
 **Note:** If the group is experienced with using Consent Decision-Making, you might well make improvements to the proposal at this stage. However, if you're less familiar, beware, you are very likely to slip into another session of tuning the proposal, this time with everybody being involved. You run the risk of wasting time attempting to reach consensus, instead of proceeding with the process and evolving the proposal based on objections (in step 7).
 
-
 **Tips for the Facilitator:** 
 
 -   Use a round and invite the tuners (or whoever created the proposal) to answer one question at a time.
