@@ -8,7 +8,7 @@
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the [principle of consent](section:principle-consent), you are agreeing to intentionally seek out [objections](section:objection).
 
-{definition:objection}
+{define:objection}
 
 Proposals become [agreements](glossary:agreement) when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
 
@@ -16,7 +16,7 @@ Withholding objections can harm the ability of individuals, teams or the whole o
 
 Not all arguments raised are objections, but they might reveal [concerns](section:objection):
 
-{definition:concern}
+{define:concern}
 
 
 ## Step 1: Consent to the Driver
@@ -121,8 +121,8 @@ This step is simply about identifying who has possible objections or concerns. A
 
 In case the distinction between objections and concerns is still unclear for some people, remind them:
 
--   {definition:objection}
--   {definition:concern}
+-   {define:objection}
+-   {define:concern}
 -   Proposals become agreements when they are considered good enough for now and safe enough to try until the next review.
 
 **Tips for everyone:**
