@@ -37,5 +37,6 @@ Artful participation:
 -   What would artful participation mean in relation to:
     -   my daily activities?
     -   collaboration and interaction with others?
-    -   the organization? ...our customers or clients?
+    -   the organization? 
+    -   our customers or clients?
     -   the wider environment?

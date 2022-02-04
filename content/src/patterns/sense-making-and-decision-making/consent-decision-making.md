@@ -8,7 +8,7 @@
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the [principle of consent](section:principle-consent), you are agreeing to intentionally seek out [objections](section:objection).
 
-{define:objection}
+{{define:objection}}
 
 Proposals become [agreements](glossary:agreement) when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
 
@@ -16,7 +16,7 @@ Withholding objections can harm the ability of individuals, teams or the whole o
 
 Not all arguments raised are objections, but they might reveal [concerns](section:objection):
 
-{define:concern}
+{{define:concern}}
 
 
 ## Step 1: Consent to the Driver
@@ -31,8 +31,8 @@ As a general recommendation, aim to complete this step with meeting attendees as
 
 In case of objections that indicate: 
 
--   **The driver is not described clearly enough :** take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer making the decision until the driver is clear.
--   **The driver is not relevant for this meeting / group :** pass it on to the appropriate person or team, or discard it.
+-   **The driver is not described clearly enough:** take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer making the decision until the driver is clear.
+-   **The driver is not relevant for this meeting / group:** pass it on to the appropriate person or team, or discard it.
 
 
 ## Step 2: Present the Proposal
@@ -43,7 +43,7 @@ _Share the proposal with everyone._
 
 The author(s) of the proposal (tuners), present it to the group, including details about who is responsible for what, a suggested review date or frequency, and any identified evaluation criteria. 
 
-**Preparation :** Where possible, send out the proposal in advance of the meeting, so that people can familiarize themselves with the content, ask any clarifying questions, or even share improvement suggestions, prior to the meeting. This saves taking up precious face-to-face meeting time for things that can be done outside of the meeting.
+**Preparation:** Where possible, send out the proposal in advance of the meeting, so that people can familiarize themselves with the content, ask any clarifying questions, or even share improvement suggestions, prior to the meeting. This saves taking up precious face-to-face meeting time for things that can be done outside of the meeting.
 
 Proposals are typically created by an individual or a group beforehand but are sometimes suggested "on the fly". 
 
@@ -121,8 +121,8 @@ This step is simply about identifying who has possible objections or concerns. A
 
 In case the distinction between objections and concerns is still unclear for some people, remind them:
 
--   {define:objection}
--   {define:concern}
+-   {{define:objection}}
+-   {{define:concern}}
 -   Proposals become agreements when they are considered good enough for now and safe enough to try until the next review.
 
 **Tips for everyone:**
