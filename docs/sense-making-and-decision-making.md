@@ -33,7 +33,7 @@ title: "Sense-Making and Decision-Making"
   <dd><p>A (facilitated) group process for co-creating a response to a driver.</p></dd>
 
   <dt><a href="reasoned-decision-making.html">Reasoned Decision-Making</a></dt>
-  <dd><p>Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered relevant, valid or empirically true.</p></dd>
+  <dd><p>Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered viable, relevant, valid or empirically true.</p></dd>
 
   <dt><a href="role-selection.html">Role Selection</a></dt>
   <dd><p>A group process for selecting a person for a role on the strength of the reason.</p></dd>

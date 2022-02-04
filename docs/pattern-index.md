@@ -183,7 +183,7 @@ title: "Alphabetical List Of All Patterns"
   <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them).</p></dd>
 
   <dt><a href="reasoned-decision-making.html">Reasoned Decision-Making</a></dt>
-  <dd><p>Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered relevant, valid or empirically true.</p></dd>
+  <dd><p>Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered viable, relevant, valid or empirically true.</p></dd>
 
   <dt><a href="record-agreements.html">Record Agreements</a></dt>
   <dd><p>Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.</p></dd>
