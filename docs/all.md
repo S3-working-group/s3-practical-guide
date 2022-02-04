@@ -797,10 +797,10 @@ Describing <a href="#" class="tooltip" title="Organizational Driver: A driver is
 
 A simple way to describe a driver is by explaining:
 
--   **What's happening...:**
+-   **What's happening …:**
     -   the **current situation**
     -   the **effect** of this situation on the organization
--   ...and **what's needed:**
+-   … and **what's needed:**
     -   the **need** of the organization in relation to this situation
     -   the **impact** of attending to that need
 
@@ -818,7 +818,7 @@ Besides the summary, more details about the driver may be kept in the logbook.
 
 ##### 1. Current Situation
 
-> _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes..."_
+> _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes …"_
 
 Describe the current situation:
 
@@ -827,7 +827,7 @@ Describe the current situation:
 
 ##### 2. Effect
 
-> _"...it's not possible to quickly grab a coffee and get right back to work."_
+> _"… it's not possible to quickly grab a coffee and get right back to work."_
 
 Explain the effect of this situation on the organization:
 
@@ -837,7 +837,7 @@ Explain the effect of this situation on the organization:
 
 ##### 3. Need
 
-> _"We need the kitchen in a usable state..."_
+> _"We need the kitchen in a usable state …"_
 
 Explain the <a href="#" class="tooltip" title="Need: The lack of something wanted or deemed necessary (a requirement).">need</a> of the organization in relation to this situation:
 
@@ -847,7 +847,7 @@ Explain the <a href="#" class="tooltip" title="Need: The lack of something wante
 
 ##### 4. Impact
 
-> _"...so we can stay focused on our work"._
+> _"… so we can stay focused on our work"._
 
 Describe the anticipated impact of attending to that need:
 
@@ -875,7 +875,7 @@ Helpful questions for a review include:
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the _principle of consent_, you are agreeing to intentionally seek out _objections_.
 
-{definition:objection}
+_An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
 
 Proposals become <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
 
@@ -883,7 +883,7 @@ Withholding objections can harm the ability of individuals, teams or the whole o
 
 Not all arguments raised are objections, but they might reveal _concerns_:
 
-{definition:concern}
+_A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
 
 
 ##### Step 1: Consent to the Driver
@@ -898,8 +898,8 @@ As a general recommendation, aim to complete this step with meeting attendees as
 
 In case of objections that indicate: 
 
--   **The driver is not described clearly enough :** take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer making the decision until the driver is clear.
--   **The driver is not relevant for this meeting / group :** pass it on to the appropriate person or team, or discard it.
+-   **The driver is not described clearly enough:** take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer making the decision until the driver is clear.
+-   **The driver is not relevant for this meeting / group:** pass it on to the appropriate person or team, or discard it.
 
 
 ##### Step 2: Present the Proposal
@@ -910,7 +910,7 @@ _Share the proposal with everyone._
 
 The author(s) of the proposal (tuners), present it to the group, including details about who is responsible for what, a suggested review date or frequency, and any identified evaluation criteria. 
 
-**Preparation :** Where possible, send out the proposal in advance of the meeting, so that people can familiarize themselves with the content, ask any clarifying questions, or even share improvement suggestions, prior to the meeting. This saves taking up precious face-to-face meeting time for things that can be done outside of the meeting.
+**Preparation:** Where possible, send out the proposal in advance of the meeting, so that people can familiarize themselves with the content, ask any clarifying questions, or even share improvement suggestions, prior to the meeting. This saves taking up precious face-to-face meeting time for things that can be done outside of the meeting.
 
 Proposals are typically created by an individual or a group beforehand but are sometimes suggested "on the fly". 
 
@@ -925,12 +925,11 @@ _Make sure everyone understands the proposal._
 
 **Facilitator asks:** _Are there any questions to understand this proposal as it's written here?_ 
 
-This is _not_ a moment to get into dialogue about _why_ a proposal has been put together in a certain way, but simply to check that everyone understands _what_ is being proposed. Avoid "_why_" questions and focus instead on "_what do you mean by.._" questions. 
+This is _not_ a moment to get into dialogue about _why_ a proposal has been put together in a certain way, but simply to check that everyone understands _what_ is being proposed. Avoid "_why_" questions and focus instead on "_what do you mean by …_" questions. 
 
 Clarifying questions sometimes reveal helpful ways to change the proposal text to make it more clear. You can use this time to make edits to the proposal, if it supports people's understanding, but be wary of changing what is actually being proposed at this stage.
 
 **Note:** If the group is experienced with using Consent Decision-Making, you might well make improvements to the proposal at this stage. However, if you're less familiar, beware, you are very likely to slip into another session of tuning the proposal, this time with everybody being involved. You run the risk of wasting time attempting to reach consensus, instead of proceeding with the process and evolving the proposal based on objections (in step 7).
-
 
 **Tips for the Facilitator:** 
 
@@ -941,7 +940,7 @@ Clarifying questions sometimes reveal helpful ways to change the proposal text t
 
 -   Say "_pass_" if you don't have a question or you're unclear at this point what your question is.
 -   Keep your questions and answers brief and to the point. 
--   Avoid preamble and stick to the point, e.g.: "_Well, one thing that is not so clear to me, or at least, that I want to make sure I understand correctly is…_" or "_I'm not sure how to phrase this, but let me try_", etc.
+-   Avoid preamble and stick to the point, e.g.: "_Well, one thing that is not so clear to me, or at least, that I want to make sure I understand correctly is …_" or "_I'm not sure how to phrase this, but let me try_", etc.
 
 
 ##### 4. Brief Response
@@ -989,8 +988,8 @@ This step is simply about identifying who has possible objections or concerns. A
 
 In case the distinction between objections and concerns is still unclear for some people, remind them:
 
--   {definition:objection}
--   {definition:concern}
+-   _An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
+-   _A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
 -   Proposals become agreements when they are considered good enough for now and safe enough to try until the next review.
 
 **Tips for everyone:**
@@ -1553,8 +1552,8 @@ Change things when there is value in doing so:
 
 -   Bring in patterns that help to solve current and important problems.
 -   Don't break what's already working!
--   Meet everyone where they are…
--   …and let them choose their own pace.
+-   Meet everyone where they are …
+-   … and let them choose their own pace.
 
 
 #### Driver Mapping
@@ -1705,10 +1704,10 @@ _Create structure to manage dependencies and deal with matters that extend beyon
 
 _Take a moment to check if anything’s missing._ 
 
-What else do we need to consider…
+What else do we need to consider …
 
--   …to run safely?
--   …to address the primary driver? 
+-   … to run safely?
+-   … to address the primary driver? 
 
 
 ###### 10. Celebrate!
@@ -1735,7 +1734,7 @@ Individuals, teams and entire organizations can acknowledge interdependence and 
 
 **A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.**
 
-Ask someone, "_would you be willing to help me with ..._?" The person asked accepts or declines with a simple "_yes_" or "_no_".
+Ask someone, "_would you be willing to help me with …_?" The person asked accepts or declines with a simple "_yes_" or "_no_".
 
 -   if the request is declined, the person asking accepts the answer without negotiation or inquiry
 -   if the request is unclear, inquire for more information
@@ -1842,7 +1841,8 @@ Artful participation:
 -   What would artful participation mean in relation to:
     -   my daily activities?
     -   collaboration and interaction with others?
-    -   the organization? ...our customers or clients?
+    -   the organization? 
+    -   our customers or clients?
     -   the wider environment?
 
 
@@ -2224,7 +2224,7 @@ Include the people involved and affected in regular evaluation of outcomes.
 
 _**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
 
-Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
+Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models etc.)
 
 Establishing a process for the ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness and adaptation to changing context.
 
@@ -2574,9 +2574,9 @@ Ask everyone in a _round_ to reflect on any or all of the following topics in a 
 -   effectiveness and format
 -   facilitation and participation
 -   emotional tone
--   appreciations and achievements (I liked...)
--   growing edges and improvement suggestions (I wish...)
--   wild ideas and radical suggestions (What if...)
+-   appreciations and achievements (I liked …)
+-   growing edges and improvement suggestions (I wish …)
+-   wild ideas and radical suggestions (What if …)
 
 
 #### Meeting Host

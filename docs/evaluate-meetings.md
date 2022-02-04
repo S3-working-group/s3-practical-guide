@@ -24,9 +24,9 @@ Ask everyone in a [round](rounds.html) to reflect on any or all of the following
 -   effectiveness and format
 -   facilitation and participation
 -   emotional tone
--   appreciations and achievements (I liked...)
--   growing edges and improvement suggestions (I wish...)
--   wild ideas and radical suggestions (What if...)
+-   appreciations and achievements (I liked …)
+-   growing edges and improvement suggestions (I wish …)
+-   wild ideas and radical suggestions (What if …)
 
 
 <div class="bottom-nav">

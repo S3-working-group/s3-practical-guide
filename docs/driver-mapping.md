@@ -149,10 +149,10 @@ _Create structure to manage dependencies and deal with matters that extend beyon
 
 _Take a moment to check if anything’s missing._ 
 
-What else do we need to consider…
+What else do we need to consider …
 
--   …to run safely?
--   …to address the primary driver? 
+-   … to run safely?
+-   … to address the primary driver? 
 
 
 ### 10. Celebrate!

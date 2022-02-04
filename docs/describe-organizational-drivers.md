@@ -9,10 +9,10 @@ Describing <a href="#" class="tooltip" title="Organizational Driver: A driver is
 
 A simple way to describe a driver is by explaining:
 
--   **What's happening...:**
+-   **What's happening …:**
     -   the **current situation**
     -   the **effect** of this situation on the organization
--   ...and **what's needed:**
+-   … and **what's needed:**
     -   the **need** of the organization in relation to this situation
     -   the **impact** of attending to that need
 
@@ -30,7 +30,7 @@ Besides the summary, more details about the driver may be kept in the logbook.
 
 ## 1. Current Situation
 
-> _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes..."_
+> _"The kitchen is in disorder: there are no clean cups, the sink is full of dishes …"_
 
 Describe the current situation:
 
@@ -39,7 +39,7 @@ Describe the current situation:
 
 ## 2. Effect
 
-> _"...it's not possible to quickly grab a coffee and get right back to work."_
+> _"… it's not possible to quickly grab a coffee and get right back to work."_
 
 Explain the effect of this situation on the organization:
 
@@ -49,7 +49,7 @@ Explain the effect of this situation on the organization:
 
 ## 3. Need
 
-> _"We need the kitchen in a usable state..."_
+> _"We need the kitchen in a usable state …"_
 
 Explain the <a href="#" class="tooltip" title="Need: The lack of something wanted or deemed necessary (a requirement).">need</a> of the organization in relation to this situation:
 
@@ -59,7 +59,7 @@ Explain the <a href="#" class="tooltip" title="Need: The lack of something wante
 
 ## 4. Impact
 
-> _"...so we can stay focused on our work"._
+> _"… so we can stay focused on our work"._
 
 Describe the anticipated impact of attending to that need:
 

@@ -16,7 +16,7 @@ title: "Continuous Improvement Of Work Process"
 
 _**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
 
-Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models...)
+Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models etc.)
 
 Establishing a process for the ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness and adaptation to changing context.
 

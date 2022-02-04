@@ -9,7 +9,7 @@ title: "Consent Decision-Making"
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the [principle of consent](principle-consent.html), you are agreeing to intentionally seek out [objections](objection.html).
 
-{definition:objection}
+_An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
 
 Proposals become <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
 
@@ -17,7 +17,7 @@ Withholding objections can harm the ability of individuals, teams or the whole o
 
 Not all arguments raised are objections, but they might reveal [concerns](objection.html):
 
-{definition:concern}
+_A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
 
 
 ## Step 1: Consent to the Driver
@@ -32,8 +32,8 @@ As a general recommendation, aim to complete this step with meeting attendees as
 
 In case of objections that indicate: 
 
--   **The driver is not described clearly enough :** take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer making the decision until the driver is clear.
--   **The driver is not relevant for this meeting / group :** pass it on to the appropriate person or team, or discard it.
+-   **The driver is not described clearly enough:** take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer making the decision until the driver is clear.
+-   **The driver is not relevant for this meeting / group:** pass it on to the appropriate person or team, or discard it.
 
 
 ## Step 2: Present the Proposal
@@ -44,7 +44,7 @@ _Share the proposal with everyone._
 
 The author(s) of the proposal (tuners), present it to the group, including details about who is responsible for what, a suggested review date or frequency, and any identified evaluation criteria. 
 
-**Preparation :** Where possible, send out the proposal in advance of the meeting, so that people can familiarize themselves with the content, ask any clarifying questions, or even share improvement suggestions, prior to the meeting. This saves taking up precious face-to-face meeting time for things that can be done outside of the meeting.
+**Preparation:** Where possible, send out the proposal in advance of the meeting, so that people can familiarize themselves with the content, ask any clarifying questions, or even share improvement suggestions, prior to the meeting. This saves taking up precious face-to-face meeting time for things that can be done outside of the meeting.
 
 Proposals are typically created by an individual or a group beforehand but are sometimes suggested "on the fly". 
 
@@ -59,12 +59,11 @@ _Make sure everyone understands the proposal._
 
 **Facilitator asks:** _Are there any questions to understand this proposal as it's written here?_ 
 
-This is _not_ a moment to get into dialogue about _why_ a proposal has been put together in a certain way, but simply to check that everyone understands _what_ is being proposed. Avoid "_why_" questions and focus instead on "_what do you mean by.._" questions. 
+This is _not_ a moment to get into dialogue about _why_ a proposal has been put together in a certain way, but simply to check that everyone understands _what_ is being proposed. Avoid "_why_" questions and focus instead on "_what do you mean by …_" questions. 
 
 Clarifying questions sometimes reveal helpful ways to change the proposal text to make it more clear. You can use this time to make edits to the proposal, if it supports people's understanding, but be wary of changing what is actually being proposed at this stage.
 
 **Note:** If the group is experienced with using Consent Decision-Making, you might well make improvements to the proposal at this stage. However, if you're less familiar, beware, you are very likely to slip into another session of tuning the proposal, this time with everybody being involved. You run the risk of wasting time attempting to reach consensus, instead of proceeding with the process and evolving the proposal based on objections (in step 7).
-
 
 **Tips for the Facilitator:** 
 
@@ -75,7 +74,7 @@ Clarifying questions sometimes reveal helpful ways to change the proposal text t
 
 -   Say "_pass_" if you don't have a question or you're unclear at this point what your question is.
 -   Keep your questions and answers brief and to the point. 
--   Avoid preamble and stick to the point, e.g.: "_Well, one thing that is not so clear to me, or at least, that I want to make sure I understand correctly is…_" or "_I'm not sure how to phrase this, but let me try_", etc.
+-   Avoid preamble and stick to the point, e.g.: "_Well, one thing that is not so clear to me, or at least, that I want to make sure I understand correctly is …_" or "_I'm not sure how to phrase this, but let me try_", etc.
 
 
 ## 4. Brief Response
@@ -123,8 +122,8 @@ This step is simply about identifying who has possible objections or concerns. A
 
 In case the distinction between objections and concerns is still unclear for some people, remind them:
 
--   {definition:objection}
--   {definition:concern}
+-   _An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
+-   _A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
 -   Proposals become agreements when they are considered good enough for now and safe enough to try until the next review.
 
 **Tips for everyone:**
