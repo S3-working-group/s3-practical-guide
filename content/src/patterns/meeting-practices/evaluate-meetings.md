@@ -23,6 +23,6 @@ Ask everyone in a [round](section:rounds) to reflect on any or all of the follow
 -   effectiveness and format
 -   facilitation and participation
 -   emotional tone
--   appreciations and achievements (I liked...)
--   growing edges and improvement suggestions (I wish...)
--   wild ideas and radical suggestions (What if...)
+-   appreciations and achievements (I liked …)
+-   growing edges and improvement suggestions (I wish …)
+-   wild ideas and radical suggestions (What if …)

@@ -58,7 +58,7 @@ _Make sure everyone understands the proposal._
 
 **Facilitator asks:** _Are there any questions to understand this proposal as it's written here?_ 
 
-This is _not_ a moment to get into dialogue about _why_ a proposal has been put together in a certain way, but simply to check that everyone understands _what_ is being proposed. Avoid "_why_" questions and focus instead on "_what do you mean by.._" questions. 
+This is _not_ a moment to get into dialogue about _why_ a proposal has been put together in a certain way, but simply to check that everyone understands _what_ is being proposed. Avoid "_why_" questions and focus instead on "_what do you mean by …_" questions. 
 
 Clarifying questions sometimes reveal helpful ways to change the proposal text to make it more clear. You can use this time to make edits to the proposal, if it supports people's understanding, but be wary of changing what is actually being proposed at this stage.
 
@@ -73,7 +73,7 @@ Clarifying questions sometimes reveal helpful ways to change the proposal text t
 
 -   Say "_pass_" if you don't have a question or you're unclear at this point what your question is.
 -   Keep your questions and answers brief and to the point. 
--   Avoid preamble and stick to the point, e.g.: "_Well, one thing that is not so clear to me, or at least, that I want to make sure I understand correctly is…_" or "_I'm not sure how to phrase this, but let me try_", etc.
+-   Avoid preamble and stick to the point, e.g.: "_Well, one thing that is not so clear to me, or at least, that I want to make sure I understand correctly is …_" or "_I'm not sure how to phrase this, but let me try_", etc.
 
 
 ## 4. Brief Response
