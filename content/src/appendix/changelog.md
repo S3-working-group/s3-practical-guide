@@ -1,6 +1,13 @@
 # Changelog
 
 
+## Changes 2022-02-04
+
+-   added detailed description of the [Consent Decision-Making](section:consent-decision-making) process
+-   revised text of [Reasoned Decision-Making](section:reasoned-decision-making)
+-   updated 20 illustration to align with style of new illustration for Consent Decision-Making 
+
+
 ## Changes 2022-01-27
 
 -   added [Reasoned Decision-Making](section:reasoned-decision-making)
