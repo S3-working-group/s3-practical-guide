@@ -3749,7 +3749,7 @@ Various other formats and languages of the practical guide can be found at <http
 ### License
 
 
-"A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**.
+"_A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0_" by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**.
 
 Basically this license grants you:
 
