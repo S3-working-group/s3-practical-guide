@@ -53,10 +53,7 @@ ebook:
 	cd $(TMP); multimarkdown --to=latex --output=ebook-compiled.tex ebook-compiled.md
 	cd $(TMP); latexmk -pdf -xelatex -silent ebook.tex 
 
-	# merge with cover
-	cd $(TMP); gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf ../templates/ebook-cover.pdf ebook.pdf
-
-	cd $(TMP); mv merged.pdf ../$(TARGETFILE).pdf
+	cd $(TMP); mv ebook.pdf ../$(TARGETFILE).pdf
 	
 	# clean up
 	cd $(TMP); latexmk -C
@@ -85,6 +82,7 @@ ifneq ("$(wildcard $(TMP)/img)","")
 endif
 	cp -r img $(TMP)/img
 	cp templates/covers/* $(TMP)/img
+	cp templates/ebook-cover.pdf $(TMP)
 
 	# clean up and copy images do to docs folder
 ifneq ("$(wildcard docs/img)","")

@@ -2,7 +2,13 @@ Inbox:
 
 - fix source of pattern map (outdated link to enablers of co-creation) and merge updated templates (also in docs/includes) to language versions
 
-
+ebook:
+	- ToC doesn't build correctly in PDF: @done
+		ToC has Intro / Patterns / Appendix (tree is complete, but all links in there are not working), after that "What is S3", Principles, Concepts, Patters, CsF, Appendix, and all are working fine. 
+		Last good version was S3-practical-guide-2020-04-29 😭, the problem is the way ghostscript "merges" the pdf with the cover page, because the entire pdf is recreated in the process (that also explains why it took so long), resulting in loss of quality in illustrations and broken ToC. I need to set up the title page with a full page image 
+	- Warning: Class scrreprt Warning: Usage of package `fancyhdr' together with a KOMA-Script class is not recommended. I'd suggest to use package `scrlayer' or `scrlayer-scrpage'
+	- Package inputenc Warning: inputenc package ignored with utf8 based engines.
+	
 Link between language versions:
 	Images are broken in epub:
 		fix config.ebook.tex and makefile
@@ -11,7 +17,7 @@ Link between language versions:
 		- fix French epub build
 		- fix German epub build
 Indexes, Tags, Dynamic Pattern Map:
-
+		
 		Dynamic Pattern map:
 			- render a clickable pattern map that contains summaries on mouserover
 			- add a filter (like on omnijs page) to search and filter for panels
