@@ -7,17 +7,16 @@ ebook:
 		ToC has Intro / Patterns / Appendix (tree is complete, but all links in there are not working), after that "What is S3", Principles, Concepts, Patters, CsF, Appendix, and all are working fine. 
 		Last good version was S3-practical-guide-2020-04-29 😭, the problem is the way ghostscript "merges" the pdf with the cover page, because the entire pdf is recreated in the process (that also explains why it took so long), resulting in loss of quality in illustrations and broken ToC. I need to set up the title page with a full page image 
 	- Warning: Class scrreprt Warning: Usage of package `fancyhdr' together with a KOMA-Script class is not recommended. I'd suggest to use package `scrlayer' or `scrlayer-scrpage'
-	- Package inputenc Warning: inputenc package ignored with utf8 based engines.
+	- Package inputenc Warning: inputenc package ignored with utf8 based engines. @done
 	
 Link between language versions:
 	Images are broken in epub:
 		fix config.ebook.tex and makefile
-		- fix English epub build
+		- fix English epub build @done
 		- fix Dutch epub build
 		- fix French epub build
 		- fix German epub build
 Indexes, Tags, Dynamic Pattern Map:
-		
 		Dynamic Pattern map:
 			- render a clickable pattern map that contains summaries on mouserover
 			- add a filter (like on omnijs page) to search and filter for panels
@@ -66,15 +65,12 @@ Supporter Edition and New Introduction:
 		- add description to metadata
 		- update formatting (font / paragraph style / headlines styles)
 	PDF Ebook:
-		- add subtitle to title page
-		- make sure figure numbering is continuous
-		- flow text ragged left?
-		- style figure captions a little smaller (and in italics?)
+		- add subtitle to title page @done
+		- make sure figure numbering is continuous @done
+		- flow text ragged left? @done
+		- style figure captions a little smaller (and in italics)
 		- add title page to PDF @done
-		- add title image to latex build @later
-			https://tex.stackexchange.com/questions/136900/insert-a-full-page-image
-			https://tex.stackexchange.com/questions/46280/how-to-create-a-background-image-on-title-page-with-latex
-			https://www.bhalash.com/archives/13544791365
+		- add title image to latex build @later @done
 
 
 
