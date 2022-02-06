@@ -148,7 +148,7 @@ Check that the argument reveals how leaving the proposal unchanged:
 -   could lead to consequences you want to avoid and it's a risk you don't want to take, 
 -   or informs you of a worthwhile way to improve how to go about achieving your objectives. 
 
-See pattern [Test Arguments Qualify as Objections](test-arguments-qualify-as-objection.html) for more details.
+See pattern [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html) for more details.
 
 **If the argument doesn't qualify as an objection, go back to step 5 (Check for Possible Objections), otherwise continue to the next step.** 
 

@@ -469,7 +469,7 @@ The consequences of our action or inaction will affect the organization in some 
 
 Many responsibilities are typically distributed throughout an organization by way of _delegation_, meaning that people take responsibility for specific work and decision-making. Whenever a responsibility is delegated by one party (the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>) to another party (the <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a>), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
 
-While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their [domain](gloassary:domain), regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
+While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>, regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
 
 When people consider themselves accountable only for those things that impact their immediate sphere of responsibility, many of the things that would require attention but have not been delegated to anyone in particular, or that appear to be someone else’s problem to solve, would get missed.
 
@@ -2689,7 +2689,7 @@ A prioritized <a href="#" class="tooltip" title="Backlog: A list of (often prior
 -   valuable for <a href="#" class="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</a> and pull-systems
 -   system must be accessible to everyone affected
 -   **analog:** post-its on a wall, or index cards, magnets and white board
--   **digital:** [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
+-   **digital:** [Trello](https://trello.com/), [Kanbanize](https://kanbanize.com/), [Leankit](https://leankit.com/), [Miro](https://miro.com), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
 ![Visualization of a simple work process](img/workflow-and-value/simple-process.png)
 

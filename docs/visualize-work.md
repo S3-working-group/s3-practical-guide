@@ -8,7 +8,7 @@ title: "Visualize Work"
 -   valuable for <a href="#" class="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</a> and pull-systems
 -   system must be accessible to everyone affected
 -   **analog:** post-its on a wall, or index cards, magnets and white board
--   **digital:** [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
+-   **digital:** [Trello](https://trello.com/), [Kanbanize](https://kanbanize.com/), [Leankit](https://leankit.com/), [Miro](https://miro.com), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
 ![Visualization of a simple work process](img/workflow-and-value/simple-process.png)
 

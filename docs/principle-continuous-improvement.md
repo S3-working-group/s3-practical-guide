@@ -19,7 +19,7 @@ Be aware that if you change several things at the same time, you might not be ab
 
 ## Monitor, measure and change things based on what you learn
 
-**Define the [intended outcomes](intended-outcome.html)** you expect a change will lead to and be clear on how you will evaluate whatever occurs. When making changes, be clear about the specifics of what you want to improve. What positive consequences do you want to amplify and what negative consequences do you want to dampen?
+**Define the [intended outcomes](clarify-intended-outcome.html)** you expect a change will lead to and be clear on how you will evaluate whatever occurs. When making changes, be clear about the specifics of what you want to improve. What positive consequences do you want to amplify and what negative consequences do you want to dampen?
 
 **Monitor the consequences of your actions** and reflect on what you learn. Pay attention to what actually happens and whether or not the results of your interventions reflect your assumptions and intentions. This will help you keep track of whether or not your changes led to improvements at all.
 
