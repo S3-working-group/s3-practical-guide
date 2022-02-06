@@ -7,7 +7,7 @@
 -   valuable for [self-organization](glossary:self-organization) and pull-systems
 -   system must be accessible to everyone affected
 -   **analog:** post-its on a wall, or index cards, magnets and white board
--   **digital:** [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
+-   **digital:** [Trello](https://trello.com/), [Kanbanize](https://kanbanize.com/), [Leankit](https://leankit.com/), [Miro](https://miro.com), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
 ![Visualization of a simple work process](img/workflow-and-value/simple-process.png)
 

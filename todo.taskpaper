@@ -20,6 +20,7 @@ Indexes, Tags, Dynamic Pattern Map:
 		Dynamic Pattern map:
 			- render a clickable pattern map that contains summaries on mouserover
 			- add a filter (like on omnijs page) to search and filter for panels
+				see https://github.com/bboc/omni-plugins/blob/master/index.html
 				- what happens to pattern groups, do they just disappear when the first letter is typed??
 		Index with pattern and glossary:
 			- create a new index file that contains both

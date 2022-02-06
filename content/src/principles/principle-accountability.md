@@ -14,7 +14,7 @@ The consequences of our action or inaction will affect the organization in some 
 
 Many responsibilities are typically distributed throughout an organization by way of [delegation](section:domain), meaning that people take responsibility for specific work and decision-making. Whenever a responsibility is delegated by one party (the [delegator](glossary:delegator)) to another party (the [delegatee](glossary:delegatee)), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
 
-While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their [domain](gloassary:domain), regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
+While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their [domain](glossary:domain), regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
 
 When people consider themselves accountable only for those things that impact their immediate sphere of responsibility, many of the things that would require attention but have not been delegated to anyone in particular, or that appear to be someone else’s problem to solve, would get missed.
 
