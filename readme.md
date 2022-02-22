@@ -75,7 +75,7 @@ The config file can be checked using
  These commands assume [crowdin credentials](https://support.crowdin.com/configuration-file/#cli-2) in `~/crowdin-s3-patterns.yaml`
 
 
-## License 
+## License
 
 [![](http://creativecommons.org/images/deed/seal.png)](http://creativecommons.org/freeworks)
 
