@@ -111,7 +111,7 @@ _People indicate if they have possible objections or concerns._
 
 This step is simply about identifying who has possible objections or concerns. Arguments are heard in the next step.
 
-**If you came here from step 8 (Resolve One Objection)**, check for further possible objections to the **amended** proposal.
+**If you came here from step 7 (Resolve One Objection)**, check for further possible objections to the **amended** proposal.
 
 **The facilitator asks:** _Are there any objections or concerns to this proposal?_ 
 
