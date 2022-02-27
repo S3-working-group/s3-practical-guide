@@ -1,55 +1,62 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
+$base-font-size:   14px;
 
-
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+//maximum with of the content box
+$content-max-width: 800px;
 
 $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
+// links and such
 $brand-color:      #2a7ae2;
+// created from brand color via this nifty tool: https://codepen.io/sosuke/pen/Pjoqqp
+// if any icon is not black, prepend to the filter: brightness(0) saturate(100%)
+$brand-color-svg:  invert(41%) sepia(34%) saturate(2020%) hue-rotate(186deg) brightness(93%) contrast(94%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-// Width of the content area
-$content-width:    768px;
+$headline-color:   $grey-color-dark;
 
-$on-palm:          600px;
-$on-laptop:        768px;
-
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "homepage",
-        "glossary-overlay",
-        "syntax-highlighting",
-        "sm-mint",
-        "menu-placement"
+    "bootstrap-4.5.3/bootstrap",
+    // --- everything that affects the entire page:
+    "base",
+    // --- layout and behavior of the page:
+    "layout",
+    // --- typography and coloring of header and footer
+    "design",
+    // --- typograhpy etc. for the content area
+    "content",
+    // --- smartmenus theme and placement
+    "sm-mint",
+    "menu-placement",
+    // --- special styles for the homepage
+    "homepage",
+    // --- syntax highlightling:
+    "syntax-highlighting",
+    // --- zoomify
+    "zoomify"
 ;
+
+// Responsive containers: 100% wide until specified breakpoint is reached, after that max-width:
+// .container-sm / .container-md / .container-lg / .container-xl
+// Responsive breakpoints:
+// xs <576px / sm ≥576px / md ≥768px / lg ≥992px / xl ≥1200px
+// Small devices (landscape phones, 576px and up):
+// @include media-breakpoint-up(sm) { }
+// Small devices (landscape phones, less than 768px):
+// @include media-breakpoint-down(sm) { }
+// Small devices (landscape phones, 576px and up):
+// @include media-breakpoint-only(sm) { }
+// Apply styles starting from medium devices and up to extra large devices:
+// @include media-breakpoint-between(md, xl) { }

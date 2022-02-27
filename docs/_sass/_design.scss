@@ -1,0 +1,56 @@
+// ----------------------------------------------------------
+// typography and coloring of header and footer
+// ----------------------------------------------------------
+
+.icon {
+    &:hover {
+        filter: $brand-color-svg;
+    }
+}
+
+//
+// Site header
+// --------------------------------------------------------------------------/**
+.site-header {
+    a.site-title {
+        font-size: 26px;
+        font-weight: 300;
+        letter-spacing: -1px;
+
+        @include media-breakpoint-down(sm) {
+            font-size: 20px;
+        }
+
+        &,
+        &:visited {
+            color: $headline-color;
+        }
+    }
+}
+
+//
+// Footer
+// --------------------------------------------------------------------------
+.site-footer {
+    border-top: 2px solid $grey-color-light;
+
+    font-size: $small-font-size;
+    color: $grey-color;
+    a {
+        color: lighten($brand-color, 10%);
+        &:visited {
+            color: lighten($brand-color, 10%);
+        }
+
+        &:hover {
+            color: $brand-color;
+            text-decoration: underline;
+        }        
+    }
+
+    .contact-list,
+    .social-media-list {
+        list-style: none;
+        padding-left: 0;
+    }
+}

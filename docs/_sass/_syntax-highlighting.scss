@@ -1,9 +1,10 @@
-/**
- * Syntax highlighting styles
- */
+// ----------------------------------------------------------
+// CSS for Syntax highlighting styles
+// ----------------------------------------------------------
+
 .highlight {
     background: #fff;
-    @extend %vertical-rhythm;
+
 
     .highlighter-rouge & {
       background: #eef;

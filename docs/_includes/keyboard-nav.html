@@ -4,29 +4,53 @@
     window.location.href = 'map.html';
     return false;
   });
-  <!-- Go (Pattern) Index -->
+  <!-- Go: (Pattern) Index -->
   Mousetrap.bind('g i', function() {
     window.location.href = 'pattern-index.html';
     return false;
   });
-  <!-- Go Changelog -->
+  <!-- Go: Changelog -->
   Mousetrap.bind('g c', function() {
     window.location.href = 'changelog.html';
     return false;
   });
-  <!-- Go Glossary -->
+  <!-- Go: Glossary -->
   Mousetrap.bind('g g', function() {
     window.location.href = 'glossary.html';
     return false;
   });
-  <!-- Go Home -->
+  <!-- Go: Home -->
   Mousetrap.bind('g h', function() {
     window.location.href = 'index.html';
     return false;
   });
-  <!-- Go Single Page Version -->
+  <!-- Go: Single Page Version -->
   Mousetrap.bind('g s', function() {
     window.location.href = 'all.html';
     return false;
   });
+
+  <!-- Go: Next Page
+  if (typeof next_page_url !== 'undefined') {
+    Mousetrap.bind('g n', function() {
+      window.location.href = next_page_url;
+      return false;
+    });
+    Mousetrap.bind('right', function() {
+      window.location.href = next_page_url;
+      return false;
+    });
+  }
+  <!-- Go: Previous Page
+  if (typeof prev_page_url !== 'undefined') {
+
+    Mousetrap.bind('g p', function() {
+      window.location.href = prev_page_url;
+      return false;
+    });
+    Mousetrap.bind('left', function() {
+      window.location.href = prev_page_url;
+      return false;
+    });
+  }
 </script>

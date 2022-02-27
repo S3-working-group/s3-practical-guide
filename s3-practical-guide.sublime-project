@@ -15,7 +15,16 @@
 				"s3-practical-guide/_attic",
 				"s3-practical-guide/tmp"
 			],
-			"path": "."
+			"path": ".",
 		}
-	]
+	],
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
 }

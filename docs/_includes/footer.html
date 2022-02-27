@@ -1,28 +1,28 @@
-<footer class="site-footer">
-  <p>This work by Bernhard Bockelbrink, James Priest and Liliana David is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-  <p>Read this page in <a href="https://patterns.sociocracy30.org{{page.url}}">English</a> | <a href="https://patterns-de.sociocracy30.org{{page.url}}">German</a> | <a href="https://patterns-fr.sociocracy30.org{{page.url}}">French</a> | <a href="https://patterns-nl.sociocracy30.org{{page.url}}">Dutch</a> | <a href="https://patterns-he.sociocracy30.org{{page.url}}">Hebrew</a> 
-  </p>
-
-  <div class="footer-col-wrapper">
-    <div class="footer-col footer-col-1">
-      <p><a href="https://sociocracy30.org/contact/">Contact Us</a> | <a href="disclaimer.html">Disclaimer</a> | <a href="acknowledgments.html">Acknowledgments</a></p>
-      <p>v2022-02-04</p>
-    </div>
-    <div class="footer-col footer-col-2">
-      <ul class="social-media-list">
-        <li><a href="https://sociocracy30.org">Sociocracy 3.0 site</a></li>
-        {% if site.twitter_username %}
-        <li>
-          {% include icon-twitter.html username=site.twitter_username %}
-        </li>
-        {% endif %}
-        {% if site.github_username %}
-        <li>
-          {% include icon-github.html username=site.github_username %}
-        </li>
-        {% endif %}
-        <li><a href="https://github.com/S3-working-group/s3-practical-guide">Fork on GitHub</a></li>
-      </ul>
-    </div>
+<div class="row">
+  <div class="col footer-top">
+    <p>This work by Bernhard Bockelbrink, James Priest and Liliana David is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+    <p>Read this page in <a href="https://patterns.sociocracy30.org{{page.url}}">English</a> | <a href="https://patterns-de.sociocracy30.org{{page.url}}">German</a> | <a href="https://patterns-fr.sociocracy30.org{{page.url}}">French</a> | <a href="https://patterns-nl.sociocracy30.org{{page.url}}">Dutch</a> | <a href="https://patterns-he.sociocracy30.org{{page.url}}">Hebrew</a></p>
   </div>
-</footer>
+</div>
+<div class="row">
+  <div class="col-sm-8">
+    <p><a href="https://sociocracy30.org/contact/">Contact Us</a> | <a href="disclaimer.html">Disclaimer</a> | <a href="acknowledgments.html">Acknowledgments</a></p>
+    <p class="hp-version">v2022-02-04</p>
+  </div>
+  <div class="footer-col-bottom-right col-sm-4">
+    <ul class="social-media-list">
+      <li><a href="https://sociocracy30.org">Sociocracy 3.0 site</a></li>
+      {% if site.twitter_username %}
+      <li>
+        {% include icon-twitter.html username=site.twitter_username %}
+      </li>
+      {% endif %}
+      {% if site.github_username %}
+      <li>
+        {% include icon-github.html username=site.github_username %}
+      </li>
+      {% endif %}
+      <li><a href="https://github.com/S3-working-group/s3-practical-guide">Fork on GitHub</a></li>
+    </ul>
+  </div>
+</div>

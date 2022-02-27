@@ -1,50 +1,41 @@
-/** 
-* special styles for the homepage
-**/
+// ----------------------------------------------------------
+// special styles for the homepage
+// ----------------------------------------------------------
 
 $hp-box-green-color-main:  #45996d !default;
 $hp-box-blue-color-main:  #7f98e5 !default;
 $hp-box-purple-color-main:  #a073bf !default;
 $hp-box-grey-color-main:  #6c797f !default;
 
-.hp-version {
-  text-align: right;
-  font-size: $small-font-size;
-  color: $grey-color;      
-}
+article.homepage {
 
-.homepage-box {
-  /* border: 2px solid; */
-  border-radius: 15px;
-  -moz-border-radius: 15px;
-  margin-bottom: $spacing-unit;
-  padding: $spacing-unit / 2;
-}
+  .card { 
+    margin-bottom: $spacing-unit/2;
+  }
+  .hp-version {
+    text-align: right;
+    color: $grey-color;      
+  }
 
-.homepage-box h2 {
-  font-size: $base-font-size * 1.25;
-  font-style: italic;
-}
+  .hp-box-green {
+    background: rgba($hp-box-green-color-main, 0.1);
+    border-color: rgba($hp-box-green-color-main, 0.2);
+    color: darken( $hp-box-green-color-main, 15%);
+  }
+  .hp-box-blue {
+    background: rgba($hp-box-blue-color-main, 0.1);
+    border-color: rgba($hp-box-blue-color-main, 0.2);
+    color: darken( $hp-box-blue-color-main, 15%);
+  }
+  .hp-box-purple {
+    background: rgba($hp-box-purple-color-main, 0.1);
+    border-color: rgba($hp-box-purple-color-main, 0.2);
+    color: darken( $hp-box-purple-color-main, 15%);
+  }
+  .hp-box-grey {
+    background: rgba($hp-box-grey-color-main, 0.1);
+    border-color: rgba($hp-box-grey-color-main, 0.2);
+    color: darken( $hp-box-grey-color-main, 15%);
+  }
 
-.hp-box-green {
-  background: rgba($hp-box-green-color-main, 0.1);
-  border-color: rgba($hp-box-green-color-main, 0.2);
-  color: darken( $hp-box-green-color-main, 15%);
 }
-.hp-box-blue {
-  background: rgba($hp-box-blue-color-main, 0.1);
-  border-color: rgba($hp-box-blue-color-main, 0.2);
-  color: darken( $hp-box-blue-color-main, 15%);
-}
-.hp-box-purple {
-  background: rgba($hp-box-purple-color-main, 0.1);
-  border-color: rgba($hp-box-purple-color-main, 0.2);
-  color: darken( $hp-box-purple-color-main, 15%);
-}
-.hp-box-grey {
-  background: rgba($hp-box-grey-color-main, 0.1);
-  border-color: rgba($hp-box-grey-color-main, 0.2);
-  color: darken( $hp-box-grey-color-main, 15%);
-}
-
-

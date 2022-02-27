@@ -1,6 +1,5 @@
 // placement of smartmenu
-
-@media (min-width: 768px) {
+@include media-breakpoint-up(md) {
   #main-menu {
     float: left;
     width: 12em;
@@ -77,7 +76,7 @@
 #main-menu-state:checked ~ #main-menu {
   display: block;
 }
-@media (min-width: 768px) {
+@include media-breakpoint-up(md) {
   /* hide the button in desktop view */
   .main-menu-btn {
     position: absolute;
