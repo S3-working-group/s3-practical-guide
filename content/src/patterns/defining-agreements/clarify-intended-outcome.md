@@ -1,7 +1,7 @@
 # Clarify Intended Outcome
 
 <summary>
-**Be explicit about the expected results of agreements, activities, projects and strategies.**
+Be explicit about the expected results of agreements, activities, projects and strategies.
 </summary>
 
 Agree on and record a concise description of the intended outcome.

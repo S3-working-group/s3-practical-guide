@@ -1,7 +1,7 @@
 # Timebox Activities
 
 <summary>
-**Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.**
+Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.
 </summary>
 
 {{define:timebox}}

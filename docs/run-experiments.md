@@ -1,5 +1,9 @@
 ---
 title: "Principle 5 – Run Experiments"
+next_page_title: "Two Principles for Structure"
+next_page_url: "structure.html"
+prev_page_title: "Principle 4 – Sense & Respond"
+prev_page_url: "sense-respond.html"
 ---
 
 
@@ -15,17 +19,3 @@ Essential patterns to help you achieve this:
 -   [Evaluate and Evolve Agreements](evaluate-and-evolve-agreements.html) – An experiment needs to be regularly reviewed to determine what outcomes it achieves, and as a consequence, potentially adapted or even stopped.
 -   [Limit Work in Progress](limit-work-in-progress.html) – Limit the number of concurrent experiments  to avoid overwhelm and maintain a steady flow of value. 
 -   [Create A Pull-System for Organizational Change](create-a-pull-system-for-organizational-change.html) – Inviting and enabling people to run experiments when they discover organizational needs allows for effective and decentralized adaption of the organization. 
-
-
-<div class="bottom-nav">
-<a href="sense-respond.html" title="Back to: Principle 4 – Sense &amp; Respond">◀</a> <a href="navigation.html" title="Up: Three Principles for Navigation">▲</a> <a href="structure.html" title="Read next: Two Principles for Structure">▶ Read next: Two Principles for Structure</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'structure.html';
-    return false;
-});
-</script>
-

@@ -1,10 +1,14 @@
 ---
 title: "Test Arguments Qualify as Objections"
+next_page_title: "Resolve Objections"
+next_page_url: "resolve-objections.html"
+prev_page_title: "Consent Decision-Making"
+prev_page_url: "consent-decision-making.html"
 ---
 
 
-**Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.**
-
+<div class="card summary"><div class="card-body">Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.
+</div></div>
 When someone raises an argument for changing something, check that the argument reveals how leaving things unchanged will – or could — lead to consequences you want to avoid, or that it informs you of a worthwhile way to improve how to go about achieving your objectives.
 
 Explore and refine each argument as necessary to identify any misconceptions or misunderstanding, and to eliminate aspects of the argument that are based merely on assumptions, or a personal preference or opinion. If you establish that what remains of the argument qualifies as an objection, then go on to [resolve the objection](resolve-objections.html).
@@ -30,17 +34,3 @@ Some helpful questions:
 
 
 ![A process for testing if an argument qualifies as an objection](img/agreements/qualify-objection-process.png)
-
-
-<div class="bottom-nav">
-<a href="consent-decision-making.html" title="Back to: Consent Decision-Making">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="resolve-objections.html" title="Read next: Resolve Objections">▶ Read next: Resolve Objections</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'resolve-objections.html';
-    return false;
-});
-</script>
-

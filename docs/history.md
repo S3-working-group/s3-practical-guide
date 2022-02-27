@@ -1,5 +1,9 @@
 ---
 title: "Influences and History of Sociocracy 3.0"
+next_page_title: "Why \"3.0\"?"
+next_page_url: "why-30.html"
+prev_page_title: "What's in this guide?"
+prev_page_url: "contents.html"
 ---
 
 
@@ -28,18 +32,4 @@ In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a b
 
 As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the S3 and its various applications.
 
-
-
-
-<div class="bottom-nav">
-<a href="contents.html" title="Back to: What&#x27;s in this guide?">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="why-30.html" title="Read next: Why &quot;3.0&quot;?">▶ Read next: Why &quot;3.0&quot;?</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'why-30.html';
-    return false;
-});
-</script>
 

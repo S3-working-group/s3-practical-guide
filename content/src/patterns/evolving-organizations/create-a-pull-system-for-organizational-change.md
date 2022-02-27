@@ -1,7 +1,7 @@
 # Create a Pull-System For Organizational Change
 
 <summary>
-**Create an environment that invites and enables members of the organization to drive change.**
+Create an environment that invites and enables members of the organization to drive change.
 </summary>
 
 Change things when there is value in doing so:

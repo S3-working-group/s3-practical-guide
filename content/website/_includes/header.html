@@ -1,28 +1,10 @@
-<header class="site-header header-wrapper">
-  <div class="header-col header-title"><a class="site-title" href="\{\{ site.baseurl \}\}/">\{\{ site.title \}\}</a></div>
-  <div class="header-col header-icons"><a href="pattern-index.html" ><img src="img/a-z.png" title="An alphabetical index of all patterns." alt="pattern index" /></a>&nbsp;<a href="map.html" ><img src="img/map.png" alt="pattern map" title="Use the pattern map to jump to another pattern." /></a>&nbsp;<span id="annotate-span"><a href="" id="annotate-link"><img src="img/feedback.png" title="Annotate this page with hypothes.is. Click here, wait for the page to reload, then you can highlight text and add public comments. You will need to set up a free account at hypothes.is." alt="annotate page" /></a></span></div>
-</header>
-<nav id="main-nav">
-  <!-- Mobile menu toggle button (hamburger/x icon) -->
-  <input id="main-menu-state" type="checkbox" />
-  <label class="main-menu-btn" for="main-menu-state">
-    <span class="main-menu-btn-icon"></span> Toggle main menu visibility
-  </label>
-  <!-- the actual menu -->
-  <ul id="main-menu" class="sm sm-mint sm-vertical">
-    <li><a href="index.html">Home</a></li>
-    {{html-menu}}
-    <li><a href="#">Quick Links</a>
-      <ul class="mega-menu">
-        <li><a href="index.html">How to Use This Website</a></li>
-        <li><a href="glossary.html">Glossary</a></li>
-        <li><a href="changelog.html">Changelog</a></li>
-        <li><a href="pattern-index.html" title="An alphabetical index of all patterns."><img src="img/a-z.png" alt="pattern-index" />&nbsp;Pattern Index</a></li>
-        <li><a href="map.html" title="Use the pattern map to jump to another pattern."><img src="img/map.png" alt="pattern map" />&nbsp;Pattern Map</a></li>
-        <li><span id="annotate-span"><a href="" id="annotate-link" title="Annotate this page with hypothes.is. Click here, wait for the page to reload, then you can highlight text and add public comments. You will need to set up a free account at hypothes.is."><img src="img/feedback.png" alt="annotate page" />&nbsp;Annotate Page</a></span></li>
-        <li><a href="https://sociocracy30.org/resources/#se-practical-guide">Downloads</a></li>
-        <li><a href="https://sociocracy30.org">Sociocracy 3.0 site</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
+<div class="row">
+  <div class="header-title col-10">
+    <a class="site-title" href="\{\{ relative_url \}\}/">\{\{ site.title \}\}</a>
+  </div>
+  <div class="header-icons col-2">
+    <a href="\{\{'pattern-index.html' | relative_url \}\}" ><img src="\{\{ '/icons/list-ul.svg' | relative_url \}\}" class="icon" title="An alphabetical index of all patterns." alt="pattern index" /></a>
+    <a href="\{\{'map.html' | relative_url \}\}" ><img src="\{\{'/icons/map.svg' | relative_url \}\}" class="icon" alt="pattern map" title="Use the pattern map to jump to another pattern." /></a>
+    <span id="annotate-span"><a href="" id="annotate-link"><img src="\{\{ '/icons/comments-alt.svg' | relative_url \}\}" class="icon" title="Annotate this page with hypothes.is. Click here, wait for the page to reload, then you can highlight text and add public comments. You will need to set up a free account at hypothes.is." alt="annotate page" /></a></span>
+  </div>
+</div>

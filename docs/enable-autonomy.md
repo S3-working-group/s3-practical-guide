@@ -1,5 +1,9 @@
 ---
 title: "Principle 6 – Enable Autonomy"
+next_page_title: "Principle 7 – Collaborate on Dependencies"
+next_page_url: "collaborate-on-dependencies.html"
+prev_page_title: "Two Principles for Structure"
+prev_page_url: "structure.html"
 ---
 
 
@@ -16,18 +20,4 @@ Essential patterns to help you achieve this:
 -   [Clarify and Develop Strategy](clarify-and-develop-strategy.html) – A strategy for creating value, developed by the individual or team and agreed upon by all relevant stakeholders, builds trust and supports autonomy.
 -   [Development Plan](development-plan.html); Collaborating with relevant stakeholders on developing a plan for how to improve, helps a team or individual in a role develop their skill and competence, and builds trust among all concerned.
 -   [Align Flow](align-flow.html) – Moving decision-making close to where value is created, while retaining the influence of the relevant stakeholders, supports the flow of value and eliminates unnecessary dependencies and delays.
-
-
-
-<div class="bottom-nav">
-<a href="structure.html" title="Up: Two Principles for Structure">▲</a> <a href="collaborate-on-dependencies.html" title="Read next: Principle 7 – Collaborate on Dependencies">▶ Read next: Principle 7 – Collaborate on Dependencies</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'collaborate-on-dependencies.html';
-    return false;
-});
-</script>
 

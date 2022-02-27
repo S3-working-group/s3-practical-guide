@@ -1,7 +1,7 @@
 # Clarify and Develop Domains
 
 <summary>
-**A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.**
+A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.
 </summary>
 
 To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining [domains](glossary:domain) - distinct areas of responsibility and autonomy. 

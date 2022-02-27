@@ -1,7 +1,7 @@
 # Respond to Organizational Drivers
 
 <summary>
-**Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.**
+Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.
 </summary>
 
 Responses to [organizational drivers](glossary:organizational-driver) include:

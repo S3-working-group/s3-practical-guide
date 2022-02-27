@@ -1,10 +1,14 @@
 ---
 title: "Fractal Organization"
+next_page_title: "A Common Sense Framework for Organizations and Teams"
+next_page_url: "csf.html"
+prev_page_title: "Service Organization"
+prev_page_url: "service-organization.html"
 ---
 
 
-**Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).**
-
+<div class="card summary"><div class="card-body">Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).
+</div></div>
 Creating a fractal organization can enable a large network to rapidly respond to changing contexts.
 
 If necessary, the pattern can be repeated to connect multiple fractal organizations into one.
@@ -13,9 +17,9 @@ If necessary, the pattern can be repeated to connect multiple fractal organizati
 
 ## Prerequisites
 
-A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <a href="#" class="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a>, or by multiple branches, departments, or projects within a larger organization.
+A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a>, or by multiple branches, departments, or projects within a larger organization.
 
-These <a href="#" class="tooltip" title="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</a> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> (e.g. accounting, product management, or development).
+These <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</a> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> (e.g. accounting, product management, or development).
 
 ## Tiers
 
@@ -41,17 +45,3 @@ The second and third tier:
 
 - can test decisions simultaneously across multiple instances of a function-specific domain, providing extensive feedback and rapid learning
 - organize, align and steer the whole system while preserving autonomy and agency of the individual constituents
-
-
-<div class="bottom-nav">
-<a href="service-organization.html" title="Back to: Service Organization">◀</a> <a href="organizational-structure.html" title="Up: Organizational Structure">▲</a> <a href="csf.html" title="Read next: A Common Sense Framework for Organizations and Teams">▶ Read next: A Common Sense Framework for Organizations and Teams</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'csf.html';
-    return false;
-});
-</script>
-

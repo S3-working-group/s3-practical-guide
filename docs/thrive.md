@@ -1,5 +1,9 @@
 ---
 title: "An Organization Where BOTH the People and the Organization can Thrive"
+next_page_title: "Ten Principles for Evolving Teams and Organizations"
+next_page_url: "ten-principles.html"
+prev_page_title: "A Common Sense Framework for Organizations and Teams"
+prev_page_url: "csf.html"
 ---
 
 
@@ -19,17 +23,3 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 -   **adaptive** – people are able to effectively identify and respond to organizational needs and changing contexts (both short term and long-term).
 -   **resilient** – the organization and its members are able to withstand adversity and uncertainty, if needed.
 -   **reciprocal** – the organization and its members share a relationship of mutual reciprocity where the organization is committed to the development, wellbeing and success of its members, and vice versa.
-
-
-<div class="bottom-nav">
-<a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="ten-principles.html" title="Read next: Ten Principles for Evolving Teams and Organizations">▶ Read next: Ten Principles for Evolving Teams and Organizations</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'ten-principles.html';
-    return false;
-});
-</script>
-

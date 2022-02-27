@@ -1,5 +1,9 @@
 ---
 title: "Alphabetical List Of All Patterns"
+next_page_title: "Links"
+next_page_url: "links.html"
+prev_page_title: "Changelog"
+prev_page_url: "changelog.html"
 ---
 
 
@@ -33,7 +37,7 @@ title: "Alphabetical List Of All Patterns"
   <dd><p>Break agreements when you are certain the benefit for the organization outweighs the cost of waiting to amend that agreement first, and take responsibility for any consequences.</p></dd>
 
   <dt><a href="bylaws.html">Bylaws</a></dt>
-  <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and <strong>organizational culture</strong></p></dd>
+  <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and **organizational culture</p></dd>
 
   <dt><a href="check-in.html">Check In</a></dt>
   <dd><p>Help people to become aware of themselves and others, and to focus, be present and engage.</p></dd>
@@ -66,7 +70,7 @@ title: "Alphabetical List Of All Patterns"
   <dd><p>Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.</p></dd>
 
   <dt><a href="coordinator.html">Coordinator</a></dt>
-  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term.</strong></p></dd>
+  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is **selected for a limited term.</p></dd>
 
   <dt><a href="create-a-pull-system-for-organizational-change.html">Create a Pull-System For Organizational Change</a></dt>
   <dd><p>Create an environment that invites and enables members of the organization to drive change.</p></dd>
@@ -230,17 +234,3 @@ title: "Alphabetical List Of All Patterns"
   <dt><a href="visualize-work.html">Visualize Work</a></dt>
   <dd><p>Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.</p></dd>
 </dl>
-
-
-<div class="bottom-nav">
-<a href="changelog.html" title="Back to: Changelog">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="links.html" title="Read next: Links">▶ Read next: Links</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'links.html';
-    return false;
-});
-</script>
-

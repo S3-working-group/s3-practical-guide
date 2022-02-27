@@ -1,5 +1,9 @@
 ---
 title: "A Common Sense Framework for Organizations and Teams"
+next_page_title: "An Organization Where BOTH the People and the Organization can Thrive"
+next_page_url: "thrive.html"
+prev_page_title: "Fractal Organization"
+prev_page_url: "fractal-organization.html"
 ---
 
 
@@ -13,17 +17,3 @@ We have distilled the essence of this _common sense_ into a concise  framework f
 We mapped the 10 principles that comprise the framework to the patterns in S3, so that you can use the CSF as a guide for identifying those patterns that help address your specific needs.
 
 The CSF can be applied in the context of developing individual teams and the organization as a whole. 
-
-
-<div class="bottom-nav">
-<a href="fractal-organization.html" title="Back to: Fractal Organization">◀</a> <a href="thrive.html" title="Read next: An Organization Where BOTH the People and the Organization can Thrive">▶ Read next: An Organization Where BOTH the People and the Organization can Thrive</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'thrive.html';
-    return false;
-});
-</script>
-

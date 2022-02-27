@@ -1,13 +1,17 @@
 ---
 title: "Prepare For Meetings"
+next_page_title: "Check In"
+next_page_url: "check-in.html"
+prev_page_title: "Facilitate Meetings"
+prev_page_url: "facilitate-meetings.html"
 ---
 
 
-**Prepare in advance to make meetings more effective.**
-
+<div class="card summary"><div class="card-body">Prepare in advance to make meetings more effective.
+</div></div>
 Some considerations for successfully preparing a meeting:
 
-- clarify and communicate the <a href="#" class="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a> for, and <a href="#" class="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of the meeting
+- clarify and communicate the <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a> for, and <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of the meeting
 - decide who to invite
 - create an agenda
 - schedule the meeting enough in advance, so people have time to prepare
@@ -38,17 +42,3 @@ For each agenda item agree on:
 - review the agenda and consider how you can contribute to each item
 - bring up objections to an agenda, and if possible resolve them before the meeting
 - review improvement suggestions from the last meeting's evaluation and consider how **you** might act on them
-
-
-<div class="bottom-nav">
-<a href="facilitate-meetings.html" title="Back to: Facilitate Meetings">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="check-in.html" title="Read next: Check In">▶ Read next: Check In</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'check-in.html';
-    return false;
-});
-</script>
-

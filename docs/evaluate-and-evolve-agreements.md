@@ -1,16 +1,20 @@
 ---
 title: "Evaluate And Evolve Agreements"
+next_page_title: "Co-Create Proposals"
+next_page_url: "co-create-proposals.html"
+prev_page_title: "Resolve Objections"
+prev_page_url: "resolve-objections.html"
 ---
 
 
-**Continuously evolve the body of agreements, and eliminate waste.**
-
+<div class="card summary"><div class="card-body">Continuously evolve the body of agreements, and eliminate waste.
+</div></div>
 Regular review of agreements is an essential practice for a learning organization:
 
 -   adapt agreements to suit changing context
 -   integrate learning to make them more effective
 
-Ensure all <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> have an appropriate review date.
+Ensure all <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> have an appropriate review date.
 
 Evaluating agreements can be as simple as checking that an agreement is still relevant, and there is no objection to keeping it as it is.
 
@@ -43,17 +47,3 @@ Follow-up:
 -   Agree on the next review date.
 -   Document decisions and tasks, and share with relevant people.
 -   Consider effects on any related agreements.
-
-
-<div class="bottom-nav">
-<a href="resolve-objections.html" title="Back to: Resolve Objections">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="co-create-proposals.html" title="Read next: Co-Create Proposals">▶ Read next: Co-Create Proposals</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'co-create-proposals.html';
-    return false;
-});
-</script>
-

@@ -1,7 +1,7 @@
 # Delegate Influence
 
 <summary>
-**Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.**
+Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.
 </summary>
 
 A [delegator](glossary:delegator) can support [delegatees](glossary:delegatee) to deliver value by:

@@ -1,7 +1,7 @@
 # Governance Facilitator
 
 <summary>
-**Select someone to facilitate governance meetings.**
+Select someone to facilitate governance meetings.
 </summary>
 
 A [governance](glossary:governance) facilitator:

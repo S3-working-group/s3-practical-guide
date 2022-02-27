@@ -1,5 +1,9 @@
 ---
 title: "Principle 8 – Invest in Learning"
+next_page_title: "Principle 9 – Intentionally Develop Culture"
+next_page_url: "develop-culture.html"
+prev_page_title: "Three Principles for Transformation"
+prev_page_url: "transformation.html"
 ---
 
 
@@ -13,17 +17,3 @@ Essential patterns to help you achieve this:
 -   [Peer Review](peer-review.html) –  A team or person in a role regularly inviting relevant stakeholders for a review of their effectiveness, supports identifying their strengths, growing edges and ways they can improve their contribution in future. 
 -   [Development Plan](development-plan.html) –  Collaborating with relevant stakeholders on a plan for how to develop necessary skills and competence, is an effective way of focusing the learning efforts of a person in a role, or for a team.
 -   [Peer Feedback](peer-feedback.html) –  Inviting feedback from peers, supports people in understanding their strengths and growing edges, so that they can invest in learning where helpful.
-
-
-<div class="bottom-nav">
-<a href="transformation.html" title="Up: Three Principles for Transformation">▲</a> <a href="develop-culture.html" title="Read next: Principle 9 – Intentionally Develop Culture">▶ Read next: Principle 9 – Intentionally Develop Culture</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'develop-culture.html';
-    return false;
-});
-</script>
-

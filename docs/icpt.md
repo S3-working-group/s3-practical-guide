@@ -1,5 +1,9 @@
 ---
 title: "The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)"
+next_page_title: "Acknowledgments"
+next_page_url: "acknowledgments.html"
+prev_page_title: "Disclaimer"
+prev_page_url: "disclaimer.html"
 ---
 
 
@@ -44,17 +48,3 @@ I dedicate some time to actively support others from the S3 community to learn a
 I will make any S3 resources I adapt or create available under a Creative Commons Attribution-ShareAlike license.
 
 I will discuss possible objections relating to S3 patterns in my intervision group, and pass to S3 developers if I believe they qualify.
-
-
-<div class="bottom-nav">
-<a href="disclaimer.html" title="Back to: Disclaimer">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="acknowledgments.html" title="Read next: Acknowledgments">▶ Read next: Acknowledgments</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'acknowledgments.html';
-    return false;
-});
-</script>
-

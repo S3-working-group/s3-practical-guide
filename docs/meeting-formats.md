@@ -1,5 +1,9 @@
 ---
 title: "Meeting Formats"
+next_page_title: "Retrospective"
+next_page_url: "retrospective.html"
+prev_page_title: "Logbook Keeper"
+prev_page_url: "logbook-keeper.html"
 ---
 
 
@@ -20,17 +24,3 @@ title: "Meeting Formats"
   <dt><a href="coordination-meeting.html">Coordination Meeting</a></dt>
   <dd><p>Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.</p></dd>
 </dl>
-
-
-<div class="bottom-nav">
-<a href="logbook-keeper.html" title="Back to: Logbook Keeper">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="retrospective.html" title="Read next: Retrospective">▶ Read next: Retrospective</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'retrospective.html';
-    return false;
-});
-</script>
-

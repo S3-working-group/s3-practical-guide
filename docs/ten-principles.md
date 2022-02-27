@@ -1,5 +1,9 @@
 ---
 title: "Ten Principles for Evolving Teams and Organizations"
+next_page_title: "Two Principles for Orientation"
+next_page_url: "orientation.html"
+prev_page_title: "An Organization Where BOTH the People and the Organization can Thrive"
+prev_page_url: "thrive.html"
 ---
 
 
@@ -23,17 +27,3 @@ title: "Ten Principles for Evolving Teams and Organizations"
 **Principle 9 – Intentionally Develop Culture:** _Collaborate on fostering a cooperative culture where everyone can achieve their fuller potential, so that you build and maintain an engaging and productive work environment._
 
 **Principle 10 – Build Shared Mental Models:** _Invest in building shared mental models, so that everyone can engage in meaningful dialogue about what’s happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._
-
-
-<div class="bottom-nav">
-<a href="thrive.html" title="Back to: An Organization Where BOTH the People and the Organization can Thrive">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="orientation.html" title="Read next: Two Principles for Orientation">▶ Read next: Two Principles for Orientation</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'orientation.html';
-    return false;
-});
-</script>
-

@@ -1,7 +1,7 @@
 # Evaluation Criteria
 
 <summary>
-**Develop well-defined evaluation criteria to determine if acting on an agreement had the desired effect.**
+Develop well-defined evaluation criteria to determine if acting on an agreement had the desired effect.
 </summary>
 
 -   go for **simple and unambiguous** criteria and document them (to avoid discussion or unnecessary dialogue when reviewing your [agreements](glossary:agreement))

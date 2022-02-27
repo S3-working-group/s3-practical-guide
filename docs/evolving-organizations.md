@@ -1,5 +1,9 @@
 ---
 title: "Evolving Organizations"
+next_page_title: "Clarify and Develop Domains"
+next_page_url: "clarify-and-develop-domains.html"
+prev_page_title: "Role Selection"
+prev_page_url: "role-selection.html"
 ---
 
 
@@ -26,16 +30,3 @@ title: "Evolving Organizations"
   <dt><a href="open-systems.html">Open Systems</a></dt>
   <dd><p>Intentionally communicate with and learn from others outside of your system.</p></dd>
 </dl>
-
-<div class="bottom-nav">
-<a href="role-selection.html" title="Back to: Role Selection">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="clarify-and-develop-domains.html" title="Read next: Clarify and Develop Domains">▶ Read next: Clarify and Develop Domains</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'clarify-and-develop-domains.html';
-    return false;
-});
-</script>
-

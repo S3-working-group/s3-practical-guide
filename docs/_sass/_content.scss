@@ -1,0 +1,177 @@
+// ----------------------------------------------------------
+// styling the content of the page
+// ----------------------------------------------------------
+
+/* 
+    div.content-container
+    -- jekyll:
+        article.post
+            header.post-header
+                h1.post-title 
+          
+            div.post-content
+                the actual content
+                div.bottom-nav
+*/
+
+
+article.post {
+
+}
+
+// ==========================================================================
+// headline for the content (inserted by jekyll) 
+// ==========================================================================
+
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+
+    @include media-breakpoint-up(md) {
+    }
+}
+
+// ==========================================================================
+// all definitions in here only apply to the actual content of the page
+// ==========================================================================
+
+.post-content {
+
+    .summary {
+        margin-bottom: $spacing-unit / 2;
+        font-style: italic;
+    }
+
+    // images
+    // --------------------------------------------------------------------------
+    img.icon {
+        height: 22px;
+    }
+    img {
+        width: 80%;
+
+        @include media-breakpoint-up(md) {
+            //max-width: 60%;
+        }
+    }
+
+    figure > img {
+        display: block;
+    }
+
+    figcaption {
+        font-size: $small-font-size;
+        font-style: italic;
+        text-align:center;
+    }
+
+
+    // Lists
+    // --------------------------------------------------------------------------
+
+    .task-list-item {
+        list-style: none;
+    }
+    .task-list-item-checkbox {
+        margin-right: 8px;
+    }
+
+    // Links
+    // --------------------------------------------------------------------------
+    a {
+        color: $brand-color;
+        text-decoration: none;
+
+        &:visited {
+            color: darken($brand-color, 15%);
+        }
+
+        &:hover {
+            color: $text-color;
+            text-decoration: underline;
+        }
+    }
+
+    //
+    // Glossary Link and Tooltip
+    // --------------------------------------------------------------------------
+    a.glossary-tooltip {
+        border-bottom: dashed 1px rgba(0,0,0,0.5);
+        /*padding: 0 0.4em;*/
+        cursor: help;
+        /*font-style: normal;*/
+        position: relative;
+        &:hover {
+            color: $text-color;
+            text-decoration: none;
+        }
+
+    }
+
+    .tooltip  {
+      .tooltip-inner {
+        background-color: rgba(0,0,0,0.5);
+        font-weight: 300;
+        line-height: 1.5em;
+        color: #fff;
+        padding: 0.5em 0.8em;
+      }
+
+      .arrow { }
+    }
+
+    //
+    // Definition Lists and Glossary page definition lists
+    // --------------------------------------------------------------------------
+    dt {
+        font-weight: 700;
+    }
+    dd {
+        padding-left: $spacing-unit / 2;
+        padding-bottom: $spacing-unit / 2;
+    }
+    // special styles for glossary page
+    dl.glossary {
+        dt {}
+        dd {}
+    }
+    //
+    // Blockquotes
+    // --------------------------------------------------------------------------
+    blockquote {
+        color: $grey-color;
+        border-left: 4px solid $grey-color-light;
+        padding-left: $spacing-unit / 2;
+        font-style: italic;
+
+        > :last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    // Code formatting
+    // --------------------------------------------------------------------------
+    pre,
+    code {
+        border: 1px solid $grey-color-light;
+        border-radius: 3px;
+        background-color: #eef;
+    }
+
+    code {
+        padding: 1px 5px;
+    }
+
+    pre {
+        padding: 8px 12px;
+        overflow-x: auto;
+
+        > code {
+            border: 0;
+            padding-right: 0;
+            padding-left: 0;
+        }
+    }
+}

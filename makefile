@@ -18,6 +18,17 @@ site:
 	mdbuild all-in-one-jekyll-page $(PROJECT) -vv
 	cd docs;jekyll build
 
+rebuild-site:
+	mdbuild jekyll $(PROJECT) -vv
+	mdbuild all-in-one-jekyll-page $(PROJECT) -vv
+
+serve-site:
+	open http://127.0.0.1:4000/
+	# serve jekyll site
+	cd docs;jekyll serve
+	# release the port if something went wrong:
+	# ps aux |grep jekyll |awk '{print $2}' | xargs kill -9
+
 debug:
 	# build with debug output (for quickly testing changes to structure.yaml or project.yaml)
 	mdbuild all-in-one-jekyll-page $(PROJECT) -vvvv

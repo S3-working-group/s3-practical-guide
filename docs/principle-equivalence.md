@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Equivalence"
+next_page_title: "The Principle of Transparency "
+next_page_url: "principle-transparency.html"
+prev_page_title: "The Principle of Continuous Improvement"
+prev_page_url: "principle-continuous-improvement.html"
 ---
 
 
@@ -52,18 +56,4 @@ Some decision-making will be improved through including a range of perspectives 
 
 
 
-
-
-
-<div class="bottom-nav">
-<a href="principle-continuous-improvement.html" title="Back to: The Principle of Continuous Improvement">◀</a> <a href="principles.html" title="Up: The Seven Principles">▲</a> <a href="principle-transparency.html" title="Read next: The Principle of Transparency ">▶ Read next: The Principle of Transparency </a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'principle-transparency.html';
-    return false;
-});
-</script>
 

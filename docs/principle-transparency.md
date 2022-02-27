@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Transparency "
+next_page_title: "The Principle of Accountability"
+next_page_url: "principle-accountability.html"
+prev_page_title: "The Principle of Equivalence"
+prev_page_url: "principle-equivalence.html"
 ---
 
 
@@ -37,18 +41,4 @@ Consider carefully what information is worthwhile to record. Valuable informatio
 ## Create and maintain a coherent system for recording information
 
 Documenting relevant information in a way that is coherent and accessible is an ongoing task that relies on everyone in the organization playing their part. Developing a system for recording and sharing information and keeping it up to date takes time and effort. Choose tools that make it simple to create, update, and cross-reference records, as well as to search and retrieve information when it’s required. Make clear which information is recorded and updated, by whom and when, and structure records accordingly. Take the time to regularly check through your records, ensure your system remains helpful and keep an archive of historical information for reference.
-
-
-
-<div class="bottom-nav">
-<a href="principle-equivalence.html" title="Back to: The Principle of Equivalence">◀</a> <a href="principles.html" title="Up: The Seven Principles">▲</a> <a href="principle-accountability.html" title="Read next: The Principle of Accountability">▶ Read next: The Principle of Accountability</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'principle-accountability.html';
-    return false;
-});
-</script>
 

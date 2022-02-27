@@ -1,13 +1,17 @@
 ---
 title: "Organizational Structure"
+next_page_title: "Delegate Circle"
+next_page_url: "delegate-circle.html"
+prev_page_title: "Coordinator"
+prev_page_url: "coordinator.html"
 ---
 
 
-Organizational structure is the actual arrangement of <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
+Organizational structure is the actual arrangement of <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
 
 Continuously evolve your organization's structure to:
 
--   support the continuous <a href="#" class="tooltip" title="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</a>
+-   support the continuous <a href="glossary.html#entry-flow-of-value" class="glossary-tooltip" data-toggle="tooltip" title="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</a>
 -   enable effective collaboration around dependencies
 -   ensure information is available to those who need it
 -   distribute resources and power to influence as required
@@ -19,7 +23,7 @@ Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex ad
 Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
 
 -   S3's structural patterns apply to different layers of abstraction
--   different structural patterns serve different <a href="#" class="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">drivers</a>
+-   different structural patterns serve different <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">drivers</a>
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
 
@@ -43,17 +47,3 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
   <dt><a href="fractal-organization.html">Fractal Organization</a></dt>
   <dd><p>Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).</p></dd>
 </dl>
-
-
-<div class="bottom-nav">
-<a href="coordinator.html" title="Back to: Coordinator">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="delegate-circle.html" title="Read next: Delegate Circle">▶ Read next: Delegate Circle</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'delegate-circle.html';
-    return false;
-});
-</script>
-

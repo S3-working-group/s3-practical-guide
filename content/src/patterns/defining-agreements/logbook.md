@@ -1,7 +1,7 @@
 # Logbook
 
 <summary>
-**Maintain a coherent and accessible system that stores all information required for collaboration.**
+Maintain a coherent and accessible system that stores all information required for collaboration.
 </summary>
 
 A logbook is a (digital) system to store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, and information is kept confidential only when there is good reason to do so.

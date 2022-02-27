@@ -1,26 +1,16 @@
 ---
 title: "Planning And Review Meetings"
+next_page_title: "Coordination Meeting"
+next_page_url: "coordination-meeting.html"
+prev_page_title: "Daily Standup"
+prev_page_url: "daily-standup.html"
 ---
 
 
-**People meet at regular intervals (1-4 weeks) in timeboxed meetings to plan and review work.**
-
+<div class="card summary"><div class="card-body">People meet at regular intervals (1-4 weeks) in timeboxed meetings to plan and review work.
+</div></div>
 **Planning meeting:** select and estimate work items for the next iteration.
 
 **Review meeting:** review completed work items and decide on re-work and changes for the next iteration.
 
 ![Planning and review meetings](img/meetings/planning-review.png)
-
-
-<div class="bottom-nav">
-<a href="daily-standup.html" title="Back to: Daily Standup">◀</a> <a href="meeting-formats.html" title="Up: Meeting Formats">▲</a> <a href="coordination-meeting.html" title="Read next: Coordination Meeting">▶ Read next: Coordination Meeting</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'coordination-meeting.html';
-    return false;
-});
-</script>
-

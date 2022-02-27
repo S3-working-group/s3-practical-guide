@@ -1,5 +1,9 @@
 ---
 title: "Drivers"
+next_page_title: "Domains"
+next_page_url: "domain.html"
+prev_page_title: "Key Concepts for Making Sense of Organizations"
+prev_page_url: "making-sense-of-organizations.html"
 ---
 
 
@@ -21,17 +25,3 @@ By adopting the concept of value and waste, many practices and ideas from **lean
 -   value stream mapping
 -   various strategies for eliminating waste
 -   the Kanban Method
-
-
-<div class="bottom-nav">
-<a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="domain.html" title="Read next: Domains">▶ Read next: Domains</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'domain.html';
-    return false;
-});
-</script>
-

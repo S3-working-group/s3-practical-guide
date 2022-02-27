@@ -1,5 +1,9 @@
 ---
 title: "Principle 2 – Develop Strategy"
+next_page_title: "Three Principles for Navigation"
+next_page_url: "navigation.html"
+prev_page_title: "Principle 1 – Clarify Purpose"
+prev_page_url: "clarify-purpose.html"
 ---
 
 
@@ -14,17 +18,3 @@ Essential Patterns to help you achieve this:
 -   [Clarify and Develop Strategy](clarify-and-develop-strategy.html) – Stakeholders collaborating on creating and evolving strategy for an organization, team or role, helps to support creation of relevant and effective strategy
 -   [Evaluate And Evolve Agreements](evaluate-and-evolve-agreements.html) – Reviewing strategy and evolving it as necessary over time ensures it remains helpful and relevant to the organization, team or role.
 -   [Evaluation Criteria](evaluation-criteria.html) – Defining criteria for success or failure is necessary for figuring out whether or not the strategy is effective.
-
-
-<div class="bottom-nav">
-<a href="clarify-purpose.html" title="Back to: Principle 1 – Clarify Purpose">◀</a> <a href="orientation.html" title="Up: Two Principles for Orientation">▲</a> <a href="navigation.html" title="Read next: Three Principles for Navigation">▶ Read next: Three Principles for Navigation</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'navigation.html';
-    return false;
-});
-</script>
-

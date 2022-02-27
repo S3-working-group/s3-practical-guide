@@ -1,5 +1,7 @@
 ---
 title: "Glossary"
+prev_page_title: "Authors"
+prev_page_url: "authors.html"
 ---
 
 
@@ -267,8 +269,3 @@ title: "Glossary"
 
 
 
-
-
-<div class="bottom-nav">
-<a href="authors.html" title="Back to: Authors">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a>
-</div>

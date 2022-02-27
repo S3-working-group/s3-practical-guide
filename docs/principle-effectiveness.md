@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Effectiveness "
+next_page_title: "The Principle of Consent"
+next_page_url: "principle-consent.html"
+prev_page_title: "The Seven Principles"
+prev_page_url: "principles.html"
 ---
 
 
@@ -45,18 +49,4 @@ Clarify any constraints in which you need to operate. What are the internal and 
 Set priorities and stick to them unless you become aware of a reason to change. Distractions, context switching and a lack of breaks or slack time will inevitably lead to waste. 
 
 As well as getting clear on what you WILL do, be clear on what NOT to do as well and aim to resolve impediments as they arise.
-
-
-
-<div class="bottom-nav">
-<a href="principles.html" title="Up: The Seven Principles">▲</a> <a href="principle-consent.html" title="Read next: The Principle of Consent">▶ Read next: The Principle of Consent</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'principle-consent.html';
-    return false;
-});
-</script>
 

@@ -2,19 +2,25 @@
 <html lang="${html_language}" dir="${html_dir}">
   <head>
 
-    <script src="js/jquery-3.5.1.min.js"></script>
-    <script src="js/imageMapResizer.min.js"></script>
-      <script type="text/javascript">
-        $(document).ready(function() {
-          $('map').imageMapResize();
-        });
-    </script>
+    <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
+
     <style>
     img {
       width: 100%;
     }</style>
   </head>
   <body>
+    <div class="content-container-plain">
     {{ content }}
+    </div>
+    
+    <script type="text/javascript" src="{{ '/js/bootstrap-4.5.3.min.js' | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ '/js/jquery-3.5.1.min.js' | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ '/js/imageMapResizer.min.js' | prepend: site.baseurl }}"></script>
+      <script type="text/javascript">
+        $(document).ready(function() {
+          $('map').imageMapResize();
+        });
+    </script>
   </body>
 </html>

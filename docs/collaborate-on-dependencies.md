@@ -1,5 +1,9 @@
 ---
 title: "Principle 7 – Collaborate on Dependencies"
+next_page_title: "Three Principles for Transformation"
+next_page_url: "transformation.html"
+prev_page_title: "Principle 6 – Enable Autonomy"
+prev_page_url: "enable-autonomy.html"
 ---
 
 
@@ -17,17 +21,3 @@ Essential patterns to help you achieve this:
 -   [Delegate Circle](delegate-circle.html) – Delegating the power to make and evolve agreements for how to deal with specific dependencies between teams, to a circle of representatives, brings together relevant perspectives and generates ownership among stakeholders. 
 -   [Align Flow](align-flow.html) – Moving decision-making close to where value is created, brings together the people necessary for making decisions in response to specific dependencies and eliminates unnecessary decision-making bottlenecks.
 -   [Create a Pull-System for Organizational Change](create-a-pull-system-for-organizational-change.html) – Inviting and enabling people to make changes to organizational structure, when doing so provides an effective way for dealing with dependencies they share responsibility for, facilitates the ongoing evolution of a coherent and effective organization.
-
-
-<div class="bottom-nav">
-<a href="enable-autonomy.html" title="Back to: Principle 6 – Enable Autonomy">◀</a> <a href="structure.html" title="Up: Two Principles for Structure">▲</a> <a href="transformation.html" title="Read next: Three Principles for Transformation">▶ Read next: Three Principles for Transformation</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'transformation.html';
-    return false;
-});
-</script>
-

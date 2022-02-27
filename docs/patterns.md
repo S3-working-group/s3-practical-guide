@@ -1,5 +1,9 @@
 ---
 title: "The Patterns"
+next_page_title: "Sense-Making and Decision-Making"
+next_page_url: "sense-making-and-decision-making.html"
+prev_page_title: "Governance and Operations"
+prev_page_url: "governance.html"
 ---
 
 
@@ -26,18 +30,4 @@ In this guide, the patterns are grouped by topic into eleven categories to help 
 - [Meeting Practices](meeting-practices.html)
 - [Organizing Work](organizing-work.html)
 - [Organizational Structure](organizational-structure.html)
-
-
-
-<div class="bottom-nav">
-<a href="governance.html" title="Back to: Governance and Operations">◀</a> <a href="sense-making-and-decision-making.html" title="Read next: Sense-Making and Decision-Making">▶ Read next: Sense-Making and Decision-Making</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'sense-making-and-decision-making.html';
-    return false;
-});
-</script>
 

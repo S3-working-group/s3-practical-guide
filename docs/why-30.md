@@ -1,5 +1,9 @@
 ---
 title: "Why \"3.0\"?"
+next_page_title: "The Seven Principles"
+next_page_url: "principles.html"
+prev_page_title: "Influences and History of Sociocracy 3.0"
+prev_page_url: "history.html"
 ---
 
 
@@ -60,17 +64,3 @@ The *Sociocratic Circle Organization Method* is an "empty" method when it comes 
 
 The organizational structure according to the *Sociocratic Circle Organization Method* is modeled on a hierarchy of domains. We see an increasing emergence of collaborative multi-stakeholder environments and the need for a wider variety of patterns for organizational structure.
 Evolution of organizational structure happens naturally when the flow of information and influence in an organization is incrementally aligned to the flow of value. *Sociocracy 3.0* provides a variety of structural patterns that can be combined to evolve structure as required and in a flexible way.
-
-
-<div class="bottom-nav">
-<a href="history.html" title="Back to: Influences and History of Sociocracy 3.0">◀</a> <a href="what-is-s3.html" title="Up: What is Sociocracy 3.0?">▲</a> <a href="principles.html" title="Read next: The Seven Principles">▶ Read next: The Seven Principles</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'principles.html';
-    return false;
-});
-</script>
-

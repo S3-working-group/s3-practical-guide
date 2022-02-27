@@ -1,0 +1,32 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="{{ site.keywords }}">
+  <meta name="author" content="{{ site.author }}">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+
+  <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/menu/sm-core-css-1.1.1.css' | relative_url }}">
+ 
+  {% if page.prev_page_url %}<link rel="prev" href="{{ page.prev_page_url | relative_url }}">{% endif %}
+  {% if page.prev_next_url %}<link rel="next" href="{{ page.prev_next_url | relative_url }}">{% endif %}
+ 
+  <script type="text/javascript">
+  {% if page.prev_page_url %}
+  var prev_page_url = "{{ page.prev_page_url | relative_url }}";
+  var prev_page_title = {{ page.prev_page_title | jsonify }};
+  {% endif %}
+  {% if page.next_page_url %}
+  var next_page_url = "{{ page.next_page_url | relative_url }}";
+  var next_page_title = {{ page.next_page_title | jsonify }};
+  {% else %}
+  var next_page_url = "{{ "/what-is-s3.html" | relative_url }}";
+  var next_page_title = "What is S3?";
+  {% endif %} 
+  </script>
+</head>

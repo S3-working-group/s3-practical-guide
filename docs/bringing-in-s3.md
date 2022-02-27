@@ -1,5 +1,9 @@
 ---
 title: "Bringing in S3"
+next_page_title: "Adapt Patterns To Context"
+next_page_url: "adapt-patterns-to-context.html"
+prev_page_title: "Helping Team"
+prev_page_url: "helping-team.html"
 ---
 
 
@@ -20,17 +24,3 @@ title: "Bringing in S3"
   <dt><a href="continuous-improvement-of-work-process.html">Continuous Improvement Of Work Process</a></dt>
   <dd><p>Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.</p></dd>
 </dl>
-
-
-<div class="bottom-nav">
-<a href="helping-team.html" title="Back to: Helping Team">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="adapt-patterns-to-context.html" title="Read next: Adapt Patterns To Context">▶ Read next: Adapt Patterns To Context</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'adapt-patterns-to-context.html';
-    return false;
-});
-</script>
-

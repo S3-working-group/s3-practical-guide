@@ -1,5 +1,9 @@
 ---
 title: "License"
+next_page_title: "Disclaimer"
+next_page_url: "disclaimer.html"
+prev_page_title: "Links"
+prev_page_url: "links.html"
 ---
 
 
@@ -27,18 +31,4 @@ If you create a derivative work, you must give appropriate credit, and indicate 
 > This work, "[name of your work]", is a derivative of "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by James Priest, Bernhard Bockelbrink and Liliana David used under CC BY SA. "[name of your work]" is licensed under CC BY SA by [your name].
 
 You can find out more about attribution on the [Creative Commons page about best practices for attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
-
-
-
-<div class="bottom-nav">
-<a href="links.html" title="Back to: Links">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="disclaimer.html" title="Read next: Disclaimer">▶ Read next: Disclaimer</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'disclaimer.html';
-    return false;
-});
-</script>
 

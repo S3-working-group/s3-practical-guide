@@ -1,10 +1,14 @@
 ---
 title: "Meeting Host"
+next_page_title: "Governance Facilitator"
+next_page_url: "governance-facilitator.html"
+prev_page_title: "Evaluate Meetings"
+prev_page_url: "evaluate-meetings.html"
 ---
 
 
-**Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
-
+<div class="card summary"><div class="card-body">Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.
+</div></div>
 A person may take on the role of meeting host for a specific event or for several events over a period of time.
 
 ## Responsibilities Of A Meeting Host
@@ -22,16 +26,3 @@ Preparation:
 **After the meeting:** clean up location, return keys, tie up all the loose ends, and ensure minutes are distributed.
 
 **See also:** [Facilitate Meetings](facilitate-meetings.html), [Prepare For Meetings](prepare-for-meetings.html)
-
-<div class="bottom-nav">
-<a href="evaluate-meetings.html" title="Back to: Evaluate Meetings">◀</a> <a href="meeting-practices.html" title="Up: Meeting Practices">▲</a> <a href="governance-facilitator.html" title="Read next: Governance Facilitator">▶ Read next: Governance Facilitator</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'governance-facilitator.html';
-    return false;
-});
-</script>
-

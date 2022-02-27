@@ -1,5 +1,9 @@
 ---
 title: "Organizing Work"
+next_page_title: "Backlog"
+next_page_url: "backlog.html"
+prev_page_title: "Governance Backlog"
+prev_page_url: "governance-backlog.html"
 ---
 
 
@@ -24,18 +28,5 @@ title: "Organizing Work"
   <dd><p>Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.</p></dd>
 
   <dt><a href="coordinator.html">Coordinator</a></dt>
-  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term.</strong></p></dd>
+  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is **selected for a limited term.</p></dd>
 </dl>
-
-<div class="bottom-nav">
-<a href="governance-backlog.html" title="Back to: Governance Backlog">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="backlog.html" title="Read next: Backlog">▶ Read next: Backlog</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'backlog.html';
-    return false;
-});
-</script>
-

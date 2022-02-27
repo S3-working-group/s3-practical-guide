@@ -1,10 +1,14 @@
 ---
 title: "Proposal Forming"
+next_page_title: "Reasoned Decision-Making"
+next_page_url: "reasoned-decision-making.html"
+prev_page_title: "Co-Create Proposals"
+prev_page_url: "co-create-proposals.html"
 ---
 
 
-**A (facilitated) group process for co-creating a response to a driver.**
-
+<div class="card summary"><div class="card-body">A (facilitated) group process for co-creating a response to a driver.
+</div></div>
 -   draws on the collective intelligence and diversity of perspective within a group
 -   involves people in co-creating agreements
 -   fosters accountability and sense of ownership
@@ -13,7 +17,7 @@ _Proposal Forming_ may also be used by an individual.
 
 ## Proposal Forming Steps
 
-**Consent to driver:** Briefly present the <a href="#" class="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</a>. _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_
+**Consent to driver:** Briefly present the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</a>. _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_
 
 **Deepen shared understanding of driver:** invite essential questions to understand the driver in more detail.
 
@@ -39,17 +43,3 @@ Consider:
 Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s).
 
 ![Proposal forming process](img/agreements/proposal-forming.png)
-
-
-<div class="bottom-nav">
-<a href="co-create-proposals.html" title="Back to: Co-Create Proposals">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="reasoned-decision-making.html" title="Read next: Reasoned Decision-Making">▶ Read next: Reasoned Decision-Making</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'reasoned-decision-making.html';
-    return false;
-});
-</script>
-

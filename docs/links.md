@@ -1,5 +1,9 @@
 ---
 title: "Links"
+next_page_title: "License"
+next_page_url: "license.html"
+prev_page_title: "Alphabetical List Of All Patterns"
+prev_page_url: "pattern-index.html"
 ---
 
 
@@ -12,16 +16,3 @@ Various other formats and languages of the practical guide can be found at <http
 **Main S3 website:** <http://sociocracy30.org>
 
 **Follow us on twitter:** _@sociocracy30_
-
-<div class="bottom-nav">
-<a href="pattern-index.html" title="Back to: Alphabetical List Of All Patterns">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="license.html" title="Read next: License">▶ Read next: License</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'license.html';
-    return false;
-});
-</script>
-
