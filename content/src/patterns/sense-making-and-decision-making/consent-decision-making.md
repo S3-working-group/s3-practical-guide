@@ -27,7 +27,7 @@ _Make sure the [driver](glossary:driver) is summarized clearly enough and is rel
 
 **Note:** If you have already consented to the driver at an earlier stage in the process, there is no need to repeat this step here. However, in a case where someone is presenting a proposal to a group of stakeholders who were not involved in creating it, or if there are people who are only now joining the decision-making process, check everyone understands the driver for the proposal, and make sure that it's described clearly enough and it's relevant for those present to respond to, before considering the proposal itself.
 
-As a general recommendation, aim to complete this step with meeting attendees asynchronously, (prior to the meeting)[section:prepare-for-meetings]. This will give you the opportunity to make any refinements in advance and save wasting precious meeting time.
+As a general recommendation, aim to complete this step with meeting attendees asynchronously, [prior to the meeting](section:prepare-for-meetings). This will give you the opportunity to make any refinements in advance and save wasting precious meeting time.
 
 In case of objections that indicate: 
 
