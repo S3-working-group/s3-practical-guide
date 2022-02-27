@@ -1,28 +1,18 @@
 ---
 title: "Logbook Keeper"
+next_page_title: "Meeting Formats"
+next_page_url: "meeting-formats.html"
+prev_page_title: "Logbook"
+prev_page_url: "logbook.html"
 ---
 
 
-**Select a member of your team to be specifically accountable for keeping up to date records of all information the team requires.**
+<div class="card summary"><div class="card-body">Select a member of your team to be specifically accountable for keeping up to date records of all information the team requires.
+</div></div>
+The logbook keeper is accountable for maintaining a team's <a href="glossary.html#entry-logbook" class="glossary-tooltip" data-toggle="tooltip" title="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</a> by:
 
-The logbook keeper is accountable for maintaining a team's <a href="#" class="tooltip" title="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</a> by:
-
--   recording details of <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a> descriptions, [selections](role-selection.html), evaluation dates, minutes of meetings etc.
+-   recording details of <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a> descriptions, [selections](role-selection.html), evaluation dates, minutes of meetings etc.
 -   organizing relevant information and improving the system when valuable
 -   keeping records up to date
 -   ensuring accessibility to everyone in the team (and in the wider organization as agreed)
 -   attending to all technical aspects of logbook keeping
-
-
-<div class="bottom-nav">
-<a href="logbook.html" title="Back to: Logbook">◀</a> <a href="defining-agreements.html" title="Up: Defining Agreements">▲</a> <a href="meeting-formats.html" title="Read next: Meeting Formats">▶ Read next: Meeting Formats</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'meeting-formats.html';
-    return false;
-});
-</script>
-

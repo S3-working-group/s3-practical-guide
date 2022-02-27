@@ -1,5 +1,9 @@
 ---
 title: "Authors"
+next_page_title: "Glossary"
+next_page_url: "glossary.html"
+prev_page_title: "Acknowledgments"
+prev_page_url: "acknowledgments.html"
 ---
 
 
@@ -39,18 +43,4 @@ On top of that, we make all the content of this website and all the materials on
 We share new documentation we create, describing and explaining about S3 patterns and how they can be applied, in the Practical Guide and on the Sociocracy 3.0 website, when those documents are in a state of readiness that we are happy with. 
 
 To find out how you can contribute to the development of S3, go to <https://sociocracy30.org/contribute/>
-
-
-
-<div class="bottom-nav">
-<a href="acknowledgments.html" title="Back to: Acknowledgments">◀</a> <a href="appendix.html" title="Up: Appendix">▲</a> <a href="glossary.html" title="Read next: Glossary">▶ Read next: Glossary</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'glossary.html';
-    return false;
-});
-</script>
 

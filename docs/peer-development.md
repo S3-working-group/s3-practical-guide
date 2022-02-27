@@ -1,5 +1,9 @@
 ---
 title: "Peer Development"
+next_page_title: "Ask For Help"
+next_page_url: "ask-for-help.html"
+prev_page_title: "Open Systems"
+prev_page_url: "open-systems.html"
 ---
 
 
@@ -17,17 +21,3 @@ title: "Peer Development"
   <dt><a href="development-plan.html">Development Plan</a></dt>
   <dd><p>A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.</p></dd>
 </dl>
-
-
-<div class="bottom-nav">
-<a href="open-systems.html" title="Back to: Open Systems">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="ask-for-help.html" title="Read next: Ask For Help">▶ Read next: Ask For Help</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'ask-for-help.html';
-    return false;
-});
-</script>
-

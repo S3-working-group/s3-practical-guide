@@ -1,5 +1,9 @@
 ---
 title: "Principle 10 – Build Shared Mental Models"
+next_page_title: "Where to Start?"
+next_page_url: "where-to-start.html"
+prev_page_title: "Principle 9 – Intentionally Develop Culture"
+prev_page_url: "develop-culture.html"
 ---
 
 
@@ -11,17 +15,3 @@ Essential patterns to help you achieve this:
 -   [Navigate via Tension](navigate-via-tension.html) – Looking out for, and addressing situations that could benefit from building or refining a shared mental model, helps people to get on the same page and supports productive dialogue.
 -   [Clarify and Develop Domains](clarify-and-develop-domains.html) – Explicitly clarifying and documenting areas of  responsibility ensures a shared mental model regarding expectations and responsibilities.
 -   [Clarify Intended Outcome](clarify-intended-outcome.html) – By first agreeing on the intended outcome of a proposed activity, project or agreement, people develop shared understanding of where things should be headed and can then engage in productive dialog about how to get there.
-
-
-<div class="bottom-nav">
-<a href="develop-culture.html" title="Back to: Principle 9 – Intentionally Develop Culture">◀</a> <a href="transformation.html" title="Up: Three Principles for Transformation">▲</a> <a href="where-to-start.html" title="Read next: Where to Start?">▶ Read next: Where to Start?</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'where-to-start.html';
-    return false;
-});
-</script>
-

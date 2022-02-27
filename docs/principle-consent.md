@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Consent"
+next_page_title: "The Principle of Empiricism"
+next_page_url: "principle-empiricism.html"
+prev_page_title: "The Principle of Effectiveness "
+prev_page_url: "principle-effectiveness.html"
 ---
 
 
@@ -45,18 +49,4 @@ Adopting the principle of consent in a team, or in the organization as a whole, 
 2. As I become aware of them, I will share any possible objections to (proposed) agreements and activity, with those directly responsible for them.
 3. I’ll consider objections to proposals, agreements and activity that I’m responsible for, and will work to resolve the objection if I can.
 4. I’ll actively consider agreements that are due review, to check for any possible objections.
-
-
-
-<div class="bottom-nav">
-<a href="principle-effectiveness.html" title="Back to: The Principle of Effectiveness ">◀</a> <a href="principles.html" title="Up: The Seven Principles">▲</a> <a href="principle-empiricism.html" title="Read next: The Principle of Empiricism">▶ Read next: The Principle of Empiricism</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'principle-empiricism.html';
-    return false;
-});
-</script>
 

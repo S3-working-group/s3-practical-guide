@@ -1,22 +1,12 @@
 ---
 title: "Two Principles for Orientation"
+next_page_title: "Principle 1 – Clarify Purpose"
+next_page_url: "clarify-purpose.html"
+prev_page_title: "Ten Principles for Evolving Teams and Organizations"
+prev_page_url: "ten-principles.html"
 ---
 
 
 
 ![Two Principles for Orientation: Clarify Purpose – Develop Strategy](img/csf/csf-light-orientation.png)
-
-
-
-<div class="bottom-nav">
-<a href="ten-principles.html" title="Back to: Ten Principles for Evolving Teams and Organizations">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="clarify-purpose.html" title="Read next: Principle 1 – Clarify Purpose">▶ Read next: Principle 1 – Clarify Purpose</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'clarify-purpose.html';
-    return false;
-});
-</script>
 

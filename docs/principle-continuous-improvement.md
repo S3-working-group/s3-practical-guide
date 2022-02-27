@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Continuous Improvement"
+next_page_title: "The Principle of Equivalence"
+next_page_url: "principle-equivalence.html"
+prev_page_title: "The Principle of Empiricism"
+prev_page_url: "principle-empiricism.html"
 ---
 
 
@@ -24,16 +28,3 @@ Be aware that if you change several things at the same time, you might not be ab
 **Monitor the consequences of your actions** and reflect on what you learn. Pay attention to what actually happens and whether or not the results of your interventions reflect your assumptions and intentions. This will help you keep track of whether or not your changes led to improvements at all.
 
 Remember that even if things don’t turn out as you expect sometimes, this doesn’t necessarily mean that the results are negative. Sometimes things turn out differently to how we’d assumed or intended. All outcomes help us learn. **Be open to whatever happens**, consider the pros and cons of any unintended consequences that emerge and acknowledge when it would be beneficial to do things differently, or to aim for different results.
-
-<div class="bottom-nav">
-<a href="principle-empiricism.html" title="Back to: The Principle of Empiricism">◀</a> <a href="principles.html" title="Up: The Seven Principles">▲</a> <a href="principle-equivalence.html" title="Read next: The Principle of Equivalence">▶ Read next: The Principle of Equivalence</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'principle-equivalence.html';
-    return false;
-});
-</script>
-

@@ -1,9 +1,11 @@
 ---
 title: "What is Sociocracy 3.0?"
+next_page_title: "How does Sociocracy 3.0 help?"
+next_page_url: "how-does-s3-help.html"
 ---
 
 
-Sociocracy 3.0 — a.k.a. "S3" — is <a href="#" class="tooltip" title="Social Technology: Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.">social technology</a> for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
+Sociocracy 3.0 — a.k.a. "S3" — is <a href="glossary.html#entry-social-technology" class="glossary-tooltip" data-toggle="tooltip" title="Social Technology: Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.">social technology</a> for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
 
 Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
@@ -17,17 +19,3 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
 **Regardless of your position in the organization**, you'll find many proven ideas that are relevant and helpful for you.
 
 **Sociocracy 3.0 is free**, and licensed under a Creative Commons Free Culture License.
-
-
-<div class="bottom-nav">
-<a href="how-does-s3-help.html" title="Read next: How does Sociocracy 3.0 help?">▶ Read next: How does Sociocracy 3.0 help?</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'how-does-s3-help.html';
-    return false;
-});
-</script>
-

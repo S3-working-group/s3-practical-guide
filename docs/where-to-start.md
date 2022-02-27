@@ -1,5 +1,9 @@
 ---
 title: "Where to Start?"
+next_page_title: "Appendix"
+next_page_url: "appendix.html"
+prev_page_title: "Principle 10 – Build Shared Mental Models"
+prev_page_url: "shared-mental-models.html"
 ---
 
 
@@ -10,17 +14,3 @@ Each principle supports a specific outcome. To determine where to start in your 
 In the illustration below you can see that some of the principles are more closely related than others, which might further inform you of where to start.
 
 For each principle we included a list of suggestions for things you can try. These suggestions are taken from the [menu of patterns contained in Sociocracy 3.0](http://patterns.sociocracy30.org). For now we only added the most essential patterns that support each principle, in future versions of this framework we will include even more patterns. 
-
-
-<div class="bottom-nav">
-<a href="shared-mental-models.html" title="Back to: Principle 10 – Build Shared Mental Models">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="appendix.html" title="Read next: Appendix">▶ Read next: Appendix</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'appendix.html';
-    return false;
-});
-</script>
-

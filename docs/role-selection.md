@@ -1,17 +1,21 @@
 ---
 title: "Role Selection"
+next_page_title: "Evolving Organizations"
+next_page_url: "evolving-organizations.html"
+prev_page_title: "Reasoned Decision-Making"
+prev_page_url: "reasoned-decision-making.html"
 ---
 
 
-**A group process for selecting a person for a role on the strength of the reason.**
-
+<div class="card summary"><div class="card-body">A group process for selecting a person for a role on the strength of the reason.
+</div></div>
 Instead of simply assigning people for [roles](role.html), or making a choice based only on majority, use the role selection process to:
 
 - tap collective intelligence by hearing and deliberating on reasons for nominations
 - increase ownership over the decision
 - ensure support for the role keeper by those affected.
 
-A prerequisite to the selection process is a [clear description](clarify-and-develop-domains.html) of the role's <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
+A prerequisite to the selection process is a [clear description](clarify-and-develop-domains.html) of the role's <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
 
 ## Role Selection - Steps
 
@@ -26,7 +30,7 @@ A prerequisite to the selection process is a [clear description](clarify-and-dev
     -   proposing a nominee themselves or asking a group member
     -   inviting (some) nominees to agree who should be proposed
     -   inviting group dialogue to help reveal the strongest nominee
-7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <a href="#" class="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a>.
+7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a>.
 8. **Address and Resolve Objections,** beginning with any from the proposed nominee. [Objections may be resolved](resolve-objections.html) in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
 9. **Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
 
@@ -35,17 +39,3 @@ To avoid influencing others, abstain from expressing personal interest or opinio
 Sometimes a role selection reveals a lack of capacity, relevant experience, qualities or skill. A group will then need to consider outside candidates, reconsider priorities or find an alternative way to account for the domain.
 
 This pattern can also be used in any situation where there is a need to choose between a variety of options.
-
-
-<div class="bottom-nav">
-<a href="reasoned-decision-making.html" title="Back to: Reasoned Decision-Making">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="evolving-organizations.html" title="Read next: Evolving Organizations">▶ Read next: Evolving Organizations</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'evolving-organizations.html';
-    return false;
-});
-</script>
-

@@ -1,17 +1,21 @@
 ---
 title: "Consent Decision-Making"
+next_page_title: "Test Arguments Qualify as Objections"
+next_page_url: "test-arguments-qualify-as-objections.html"
+prev_page_title: "Describe Organizational Drivers"
+prev_page_url: "describe-organizational-drivers.html"
 ---
 
 
-**A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
-
+<div class="card summary"><div class="card-body">A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.
+</div></div>
 ![Consent Decision-Making](img/agreements/consent-decision-making.png)
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the [principle of consent](principle-consent.html), you are agreeing to intentionally seek out [objections](objection.html).
 
 _An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
 
-Proposals become <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
+Proposals become <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
 
 Withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 
@@ -22,13 +26,13 @@ _A **concern** is an assumption that cannot (for now at least) be backed up by r
 
 ## Step 1: Consent to the Driver
 
-_Make sure the <a href="#" class="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a> is summarized clearly enough and is relevant for the group to respond to._
+_Make sure the <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a> is summarized clearly enough and is relevant for the group to respond to._
 
 **Facilitator asks:** _Are there any objections to this driver being described clearly enough and relevant for us to respond to?_
 
 **Note:** If you have already consented to the driver at an earlier stage in the process, there is no need to repeat this step here. However, in a case where someone is presenting a proposal to a group of stakeholders who were not involved in creating it, or if there are people who are only now joining the decision-making process, check everyone understands the driver for the proposal, and make sure that it's described clearly enough and it's relevant for those present to respond to, before considering the proposal itself.
 
-As a general recommendation, aim to complete this step with meeting attendees asynchronously, (prior to the meeting)[section:prepare-for-meetings]. This will give you the opportunity to make any refinements in advance and save wasting precious meeting time.
+As a general recommendation, aim to complete this step with meeting attendees asynchronously, [prior to the meeting](prepare-for-meetings.html). This will give you the opportunity to make any refinements in advance and save wasting precious meeting time.
 
 In case of objections that indicate: 
 
@@ -112,7 +116,7 @@ _People indicate if they have possible objections or concerns._
 
 This step is simply about identifying who has possible objections or concerns. Arguments are heard in the next step.
 
-**If you came here from step 8 (Resolve One Objection)**, check for further possible objections to the **amended** proposal.
+**If you came here from step 7 (Resolve One Objection)**, check for further possible objections to the **amended** proposal.
 
 **The facilitator asks:** _Are there any objections or concerns to this proposal?_ 
 
@@ -181,17 +185,3 @@ Sometimes, what someone thought was a concern, turns out to be an objection. In 
 If you are new to using Consent Decision-Making, we recommend you strictly follow the process until you become familiar with it and thoroughly understand all of the steps. Once you get more experience, you might hop¹ around between steps, but doing this in the beginning can lead to confusion, and even, chaos.
 
 ¹For example, if there is a general expression of concern voiced during the Brief Response round, the facilitator (or another member of the group) might suggest evolving the proposal on the spot, to include points that people inferred. In this case, always check if there is any objection to doing so, first.
-
-
-<div class="bottom-nav">
-<a href="describe-organizational-drivers.html" title="Back to: Describe Organizational Drivers">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="test-arguments-qualify-as-objections.html" title="Read next: Test Arguments Qualify as Objections">▶ Read next: Test Arguments Qualify as Objections</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'test-arguments-qualify-as-objections.html';
-    return false;
-});
-</script>
-

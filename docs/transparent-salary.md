@@ -1,10 +1,14 @@
 ---
 title: "Transparent Salary"
+next_page_title: "Contract For Successful Collaboration"
+next_page_url: "contract-for-successful-collaboration.html"
+prev_page_title: "Breaking Agreements"
+prev_page_url: "breaking-agreements.html"
 ---
 
 
-**Create a fair salary formula and make it transparent.**
-
+<div class="card summary"><div class="card-body">Create a fair salary formula and make it transparent.
+</div></div>
 Transparent salary (also referred to as "open salary") is the practice of determining each employee's compensation according to a set of rules — the _salary formula_ — instead of making compensation subject to individual negotiation between employer and employee. The salary formula — and often individual compensation as well — is transparent to all members of an organization, and sometimes to the public.
 
 A transparent salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
@@ -20,17 +24,3 @@ When deciding (or agreeing) on a salary formula for an organization or departmen
 Decide how to handle remuneration for changing roles and [develop a strategy](clarify-and-develop-strategy.html) for how to transition towards new contracts and compensation agreements.
 
 ![Two ways of opening salaries](img/process/opening-salaries.png)
-
-
-<div class="bottom-nav">
-<a href="breaking-agreements.html" title="Back to: Breaking Agreements">◀</a> <a href="enablers-of-co-creation.html" title="Up: Enablers of Co-Creation">▲</a> <a href="contract-for-successful-collaboration.html" title="Read next: Contract For Successful Collaboration">▶ Read next: Contract For Successful Collaboration</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'contract-for-successful-collaboration.html';
-    return false;
-});
-</script>
-

@@ -1,28 +1,18 @@
 ---
 title: "Bylaws"
+next_page_title: "Building Organizations"
+next_page_url: "building-organizations.html"
+prev_page_title: "Support Role"
+prev_page_url: "support-role.html"
 ---
 
 
-Secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture**
-
+<div class="card summary"><div class="card-body">Secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture
+</div></div>
 Consider:
    
 -   consent and equivalence in decision-making
 -   selection process for leadership roles
--   organizational structure, <a href="#" class="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a> and <a href="#" class="tooltip" title="Principle: A basic idea or rule that guides behavior, or explains or controls how something happens or works.">principles</a>
+-   organizational structure, <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a> and <a href="glossary.html#entry-principle" class="glossary-tooltip" data-toggle="tooltip" title="Principle: A basic idea or rule that guides behavior, or explains or controls how something happens or works.">principles</a>
 -   influence of owners or shareholders
 -   sharing gains and costs
-
-
-<div class="bottom-nav">
-<a href="support-role.html" title="Back to: Support Role">◀</a> <a href="enablers-of-co-creation.html" title="Up: Enablers of Co-Creation">▲</a> <a href="building-organizations.html" title="Read next: Building Organizations">▶ Read next: Building Organizations</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'building-organizations.html';
-    return false;
-});
-</script>
-

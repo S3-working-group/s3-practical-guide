@@ -1,5 +1,9 @@
 ---
 title: "Defining Agreements"
+next_page_title: "Record Agreements"
+next_page_url: "record-agreements.html"
+prev_page_title: "Continuous Improvement Of Work Process"
+prev_page_url: "continuous-improvement-of-work-process.html"
 ---
 
 
@@ -30,17 +34,3 @@ S3 promotes a hypothesis-driven approach to decision-making.
   <dt><a href="logbook-keeper.html">Logbook Keeper</a></dt>
   <dd><p>Select a member of your team to be specifically accountable for keeping up to date records of all information the team requires.</p></dd>
 </dl>
-
-
-<div class="bottom-nav">
-<a href="continuous-improvement-of-work-process.html" title="Back to: Continuous Improvement Of Work Process">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="record-agreements.html" title="Read next: Record Agreements">▶ Read next: Record Agreements</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'record-agreements.html';
-    return false;
-});
-</script>
-

@@ -1,5 +1,9 @@
 ---
 title: "Sense-Making and Decision-Making"
+next_page_title: "Respond to Organizational Drivers"
+next_page_url: "respond-to-organizational-drivers.html"
+prev_page_title: "The Patterns"
+prev_page_url: "patterns.html"
 ---
 
 
@@ -38,17 +42,3 @@ title: "Sense-Making and Decision-Making"
   <dt><a href="role-selection.html">Role Selection</a></dt>
   <dd><p>A group process for selecting a person for a role on the strength of the reason.</p></dd>
 </dl>
-
-
-<div class="bottom-nav">
-<a href="patterns.html" title="Up: The Patterns">▲</a> <a href="respond-to-organizational-drivers.html" title="Read next: Respond to Organizational Drivers">▶ Read next: Respond to Organizational Drivers</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'respond-to-organizational-drivers.html';
-    return false;
-});
-</script>
-

@@ -1,10 +1,14 @@
 ---
 title: "Governance Meeting"
+next_page_title: "Daily Standup"
+next_page_url: "daily-standup.html"
+prev_page_title: "Retrospective"
+prev_page_url: "retrospective.html"
 ---
 
 
-**Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.**
-
+<div class="card summary"><div class="card-body">Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.
+</div></div>
 A governance meeting is usually:
 
 -   facilitated
@@ -28,25 +32,11 @@ A typical governance meeting includes:
 Typical agenda items include:
 
 -   any short reports
--   evaluation of existing <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> due review
+-   evaluation of existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> due review
 -   selecting people to roles
 -   new drivers requiring decisions to be made, including:
     -   [forming proposals](co-create-proposals.html)
     -   [making agreements](consent-decision-making.html)
     -   [designing domains](clarify-and-develop-domains.html) and deciding how to account for them (e.g. new [roles](role.html), [circles](circle.html), teams or [open teams](open-team.html))
 
-
-
-
-<div class="bottom-nav">
-<a href="retrospective.html" title="Back to: Retrospective">◀</a> <a href="meeting-formats.html" title="Up: Meeting Formats">▲</a> <a href="daily-standup.html" title="Read next: Daily Standup">▶ Read next: Daily Standup</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'daily-standup.html';
-    return false;
-});
-</script>
 

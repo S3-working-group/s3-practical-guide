@@ -1,5 +1,9 @@
 ---
 title: "Building Organizations"
+next_page_title: "Circle"
+next_page_url: "circle.html"
+prev_page_title: "Bylaws"
+prev_page_url: "bylaws.html"
 ---
 
 
@@ -26,18 +30,4 @@ title: "Building Organizations"
   <dt><a href="helping-team.html">Helping Team</a></dt>
   <dd><p>Bring together a team of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.</p></dd>
 </dl>
-
-
-
-<div class="bottom-nav">
-<a href="bylaws.html" title="Back to: Bylaws">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="circle.html" title="Read next: Circle">▶ Read next: Circle</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'circle.html';
-    return false;
-});
-</script>
 

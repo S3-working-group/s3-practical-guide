@@ -1,10 +1,14 @@
 ---
 title: "Reasoned Decision-Making"
+next_page_title: "Role Selection"
+next_page_url: "role-selection.html"
+prev_page_title: "Proposal Forming"
+prev_page_url: "proposal-forming.html"
 ---
 
 
-**Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered viable, relevant, valid or empirically true.**
-
+<div class="card summary"><div class="card-body">Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered viable, relevant, valid or empirically true.
+</div></div>
 There are many paths people can follow to arrive at a decision with others (majority, consensus, authoritative, etc), but for any approach that uses reason as a basis for that agreement, they typically follow a similar pattern of _Reasoned Decision-Making_.
 
 Reasoned Decision-Making lays out the process that groups take when applying reason to check whether a proposal, existing agreement or amendment is good enough, or if a particular argument is relevant, valid or empirically true.
@@ -44,18 +48,4 @@ Each of the three processes focuses on the investigation of a different subject:
 -    In _Resolving Objections_ - the subject is a **proposed amendment**. 
 
 ![Table: Mapping the steps of RDM to the other S3 decision-making processes](img/agreements/reasoned-decision-making-table.png)
-
-
-
-<div class="bottom-nav">
-<a href="proposal-forming.html" title="Back to: Proposal Forming">◀</a> <a href="sense-making-and-decision-making.html" title="Up: Sense-Making and Decision-Making">▲</a> <a href="role-selection.html" title="Read next: Role Selection">▶ Read next: Role Selection</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'role-selection.html';
-    return false;
-});
-</script>
 

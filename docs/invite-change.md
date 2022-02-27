@@ -1,10 +1,14 @@
 ---
 title: "Invite Change"
+next_page_title: "Open Space For Change"
+next_page_url: "open-space-for-change.html"
+prev_page_title: "Be The Change"
+prev_page_url: "be-the-change.html"
 ---
 
 
-**Clarify the reason for change and invite people to participate.**
-
+<div class="card summary"><div class="card-body">Clarify the reason for change and invite people to participate.
+</div></div>
 Inviting rather than imposing change helps reduce resistance and enables people to choose for themselves.
 
 When making the invitation:
@@ -15,17 +19,3 @@ When making the invitation:
 -   acknowledge any skepticism and doubts
 
 Include the people involved and affected in regular evaluation of outcomes.
-
-
-<div class="bottom-nav">
-<a href="be-the-change.html" title="Back to: Be The Change">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="open-space-for-change.html" title="Read next: Open Space For Change">▶ Read next: Open Space For Change</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'open-space-for-change.html';
-    return false;
-});
-</script>
-

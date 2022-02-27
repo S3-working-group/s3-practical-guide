@@ -1,10 +1,14 @@
 ---
 title: "Contract For Successful Collaboration"
+next_page_title: "Support Role"
+next_page_url: "support-role.html"
+prev_page_title: "Transparent Salary"
+prev_page_url: "transparent-salary.html"
 ---
 
 
-**Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.**
-
+<div class="card summary"><div class="card-body">Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.
+</div></div>
 A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies.
 
 Developing shared understanding about needs and expectations is essential for successful collaboration.
@@ -43,7 +47,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 
 ## When Co-Creating a Contract:
 
-- ensure all parties have a delegation that includes representation for all affected <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> (e.g. not only sales, but also development / production / support, etc)
+- ensure all parties have a delegation that includes representation for all affected <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> (e.g. not only sales, but also development / production / support, etc)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
 - state the reasons for the proposed collaboration, and transparent about expectations and needs of all parties
 - disclose all relevant information (if necessary under an NDA)
@@ -72,18 +76,4 @@ Every contract influences the culture of the collaboration it governs, even when
 - build contracts that enable and encourage accountability
 
 If you find that standard contracts in your industry are misaligned with the culture you want to create, build your own repository of templates for contracts and clauses and consider sharing it with others, so that you can leverage past experience when creating new contracts.
-
-
-
-<div class="bottom-nav">
-<a href="transparent-salary.html" title="Back to: Transparent Salary">◀</a> <a href="enablers-of-co-creation.html" title="Up: Enablers of Co-Creation">▲</a> <a href="support-role.html" title="Read next: Support Role">▶ Read next: Support Role</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'support-role.html';
-    return false;
-});
-</script>
 

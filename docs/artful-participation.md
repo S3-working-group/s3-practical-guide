@@ -1,13 +1,17 @@
 ---
 title: "Artful Participation"
+next_page_title: "Adopt The Seven Principles"
+next_page_url: "adopt-the-seven-principles.html"
+prev_page_title: "Enablers of Co-Creation"
+prev_page_url: "enablers-of-co-creation.html"
 ---
 
 
-**Commit to doing your best to act and interact in ways that enable effective collaboration.**
-
+<div class="card summary"><div class="card-body">Commit to doing your best to act and interact in ways that enable effective collaboration.
+</div></div>
 _"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_
 
-Participating artfully may include interrupting, objecting or breaking  <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>.
+Participating artfully may include interrupting, objecting or breaking  <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>.
 
 _Artful Participation_ is an **individual commitment** to:
 
@@ -41,17 +45,3 @@ Artful participation:
     -   the organization? 
     -   our customers or clients?
     -   the wider environment?
-
-
-<div class="bottom-nav">
-<a href="enablers-of-co-creation.html" title="Up: Enablers of Co-Creation">▲</a> <a href="adopt-the-seven-principles.html" title="Read next: Adopt The Seven Principles">▶ Read next: Adopt The Seven Principles</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'adopt-the-seven-principles.html';
-    return false;
-});
-</script>
-

@@ -1,10 +1,14 @@
 ---
 title: "Driver Mapping"
+next_page_title: "Open Systems"
+next_page_url: "open-systems.html"
+prev_page_title: "Create a Pull-System For Organizational Change"
+prev_page_url: "create-a-pull-system-for-organizational-change.html"
 ---
 
 
-**A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.**
-
+<div class="card summary"><div class="card-body">A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.
+</div></div>
 During the workshop stakeholders take full ownership of the process from start to finish, as they progress quickly from concept to fully functioning collaboration.
 
 Identify relevant stakeholders, map out related requirements and use them to identify work items and decisions that need to be made, distribute work and define an initial structure for collaboration.
@@ -159,16 +163,3 @@ What else do we need to consider …
 
 _Take a moment to celebrate your achievements in getting your organization or initiative started!_
 	
-
-<div class="bottom-nav">
-<a href="create-a-pull-system-for-organizational-change.html" title="Back to: Create a Pull-System For Organizational Change">◀</a> <a href="evolving-organizations.html" title="Up: Evolving Organizations">▲</a> <a href="open-systems.html" title="Read next: Open Systems">▶ Read next: Open Systems</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'open-systems.html';
-    return false;
-});
-</script>
-

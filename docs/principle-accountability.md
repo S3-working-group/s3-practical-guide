@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Accountability"
+next_page_title: "Key Concepts for Making Sense of Organizations"
+next_page_url: "making-sense-of-organizations.html"
+prev_page_title: "The Principle of Transparency "
+prev_page_url: "principle-transparency.html"
 ---
 
 
@@ -15,9 +19,9 @@ The promise we make to take responsibility for things that need doing, creates a
 
 The consequences of our action or inaction will affect the organization in some way, so by becoming part of an organization we are taking some responsibility for the wellbeing of the whole. Many responsibilities within an organization are hard to anticipate, are undefined and are undelegated. Therefore when members of an organization recognize that they _share accountability_ for the organization as a whole, they are more inclined to step up, bring attention to important issues, and take responsibility for things when needed. Problems and opportunities are more likely to be acknowledged and dealt with and you reduce the risk of developing a culture of looking the other way, or worse, a culture of blame. 
 
-Many responsibilities are typically distributed throughout an organization by way of [delegation](domain.html), meaning that people take responsibility for specific work and decision-making. Whenever a responsibility is delegated by one party (the <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>) to another party (the <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a>), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
+Many responsibilities are typically distributed throughout an organization by way of [delegation](domain.html), meaning that people take responsibility for specific work and decision-making. Whenever a responsibility is delegated by one party (the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>) to another party (the <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a>), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
 
-While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>, regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
+While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>, regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
 
 When people consider themselves accountable only for those things that impact their immediate sphere of responsibility, many of the things that would require attention but have not been delegated to anyone in particular, or that appear to be someone else’s problem to solve, would get missed.
 
@@ -64,18 +68,4 @@ To encourage a culture with a high level of self-accountability, do your part in
 -   Be proactive in responding to situations that could help or harm the organization, either by dealing with them yourself directly, or by finding the people who can, and letting them know.
 -   Aim to give your best contribution, both through the work you are doing and in how you cooperate or directly collaborate with others.
 -   Take responsibility for your ongoing learning and development, and support others to do the same.
-
-
-
-<div class="bottom-nav">
-<a href="principle-transparency.html" title="Back to: The Principle of Transparency ">◀</a> <a href="principles.html" title="Up: The Seven Principles">▲</a> <a href="making-sense-of-organizations.html" title="Read next: Key Concepts for Making Sense of Organizations">▶ Read next: Key Concepts for Making Sense of Organizations</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'making-sense-of-organizations.html';
-    return false;
-});
-</script>
 

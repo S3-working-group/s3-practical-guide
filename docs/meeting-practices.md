@@ -1,5 +1,9 @@
 ---
 title: "Meeting Practices"
+next_page_title: "Rounds"
+next_page_url: "rounds.html"
+prev_page_title: "Coordination Meeting"
+prev_page_url: "coordination-meeting.html"
 ---
 
 
@@ -29,17 +33,3 @@ title: "Meeting Practices"
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
   <dd><p><em>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</em></p></dd>
 </dl>
-
-
-<div class="bottom-nav">
-<a href="coordination-meeting.html" title="Back to: Coordination Meeting">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="rounds.html" title="Read next: Rounds">▶ Read next: Rounds</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'rounds.html';
-    return false;
-});
-</script>
-

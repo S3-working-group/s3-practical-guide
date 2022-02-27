@@ -1,10 +1,14 @@
 ---
 title: "Timebox Activities"
+next_page_title: "Coordinator"
+next_page_url: "coordinator.html"
+prev_page_title: "Limit Work in Progress"
+prev_page_url: "limit-work-in-progress.html"
 ---
 
 
-**Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.**
-
+<div class="card summary"><div class="card-body">Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.
+</div></div>
 _A **timebox** is a fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox)._
 
 - to get value out of the timebox, be clear what you want to achieve
@@ -23,17 +27,3 @@ You could timebox:
 - checking emails
 - breaks
 - a longer stretch of work (a sprint)
-
-
-<div class="bottom-nav">
-<a href="limit-work-in-progress.html" title="Back to: Limit Work in Progress">◀</a> <a href="organizing-work.html" title="Up: Organizing Work">▲</a> <a href="coordinator.html" title="Read next: Coordinator">▶ Read next: Coordinator</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'coordinator.html';
-    return false;
-});
-</script>
-

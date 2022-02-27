@@ -1,5 +1,9 @@
 ---
 title: "The Seven Principles"
+next_page_title: "The Principle of Effectiveness "
+next_page_url: "principle-effectiveness.html"
+prev_page_title: "Why \"3.0\"?"
+prev_page_url: "why-30.html"
 ---
 
 
@@ -36,17 +40,3 @@ _**Record all information that is valuable for the organization and make it acce
 **[The Principle of Accountability](principle-accountability.html):**
 
 _**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization._
-
-
-<div class="bottom-nav">
-<a href="why-30.html" title="Back to: Why &quot;3.0&quot;?">◀</a> <a href="principle-effectiveness.html" title="Read next: The Principle of Effectiveness ">▶ Read next: The Principle of Effectiveness </a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'principle-effectiveness.html';
-    return false;
-});
-</script>
-

@@ -1,5 +1,9 @@
 ---
 title: "Enablers of Co-Creation"
+next_page_title: "Artful Participation"
+next_page_url: "artful-participation.html"
+prev_page_title: "Development Plan"
+prev_page_url: "development-plan.html"
 ---
 
 
@@ -30,19 +34,5 @@ title: "Enablers of Co-Creation"
   <dd><p>Apply the role pattern to external contractors.</p></dd>
 
   <dt><a href="bylaws.html">Bylaws</a></dt>
-  <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and <strong>organizational culture</strong></p></dd>
+  <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and **organizational culture</p></dd>
 </dl>
-
-
-<div class="bottom-nav">
-<a href="development-plan.html" title="Back to: Development Plan">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="artful-participation.html" title="Read next: Artful Participation">▶ Read next: Artful Participation</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'artful-participation.html';
-    return false;
-});
-</script>
-

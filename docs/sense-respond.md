@@ -1,5 +1,9 @@
 ---
 title: "Principle 4 – Sense & Respond"
+next_page_title: "Principle 5 – Run Experiments"
+next_page_url: "run-experiments.html"
+prev_page_title: "Principle 3 – Focus on Value"
+prev_page_url: "focus-on-value.html"
 ---
 
 
@@ -13,17 +17,3 @@ Essential patterns to help you achieve this:
 -   [Governance Backlog](governance-backlog.html) – Keeping a prioritized list of all impediments and opportunities that require a governance decision to be made, keeps outstanding issues visible and clarifies what is most important to respond to first.
 -   [Navigate via Tension](navigate-via-tension.html) – When everyone in the organization pays attention for situations that appear different to what is expected or desired, and brings that information to the attention of those responsible, you maximize the organization’s potential for identifying impediments and opportunities.
 -   [Respond to Organizational Driver](respond-to-organizational-drivers.html) – Responding only to challenges and opportunities that are valuable for the organization,  maximizes return on investment of  limited time, energy and resources.
-
-
-<div class="bottom-nav">
-<a href="focus-on-value.html" title="Back to: Principle 3 – Focus on Value">◀</a> <a href="navigation.html" title="Up: Three Principles for Navigation">▲</a> <a href="run-experiments.html" title="Read next: Principle 5 – Run Experiments">▶ Read next: Principle 5 – Run Experiments</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'run-experiments.html';
-    return false;
-});
-</script>
-

@@ -1,5 +1,9 @@
 ---
 title: "Objections"
+next_page_title: "Agreements"
+next_page_url: "agreement.html"
+prev_page_title: "Domains"
+prev_page_url: "domain.html"
 ---
 
 
@@ -9,15 +13,15 @@ You can think of objections as a simple tool for harvesting distributed intellig
 
 Be aware that withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 
-It’s the responsibility of each individual in an organization to raise potential objections to proposals, decisions, existing <a href="#" class="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or activities.
+It’s the responsibility of each individual in an organization to raise potential objections to proposals, decisions, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or activities.
 
 Those accountable for an activity or (proposed) agreement in question, are responsible for *considering arguments and addressing objections* that are raised, when doing so will help to meet the organization’s objectives.
 
 When seeking out potential objections, consider:
 
-- why the <a href="#" class="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> would not be (fully) achieved: **effectiveness**
+- why the <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> would not be (fully) achieved: **effectiveness**
 - why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
-- the negative consequences something would have elsewhere (in the same <a href="#" class="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>, in the wider organization, or beyond): **side-effects**
+- the negative consequences something would have elsewhere (in the same <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>, in the wider organization, or beyond): **side-effects**
 
 The information revealed by objections can be used to improve:
 
@@ -43,17 +47,3 @@ Concerns can still inform people of ways to further evolve agreements, including
 Determining whether an argument is an objection or concern is sometimes dependent on context. 
 
 If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)).
-
-
-<div class="bottom-nav">
-<a href="domain.html" title="Back to: Domains">◀</a> <a href="making-sense-of-organizations.html" title="Up: Key Concepts for Making Sense of Organizations">▲</a> <a href="agreement.html" title="Read next: Agreements">▶ Read next: Agreements</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'agreement.html';
-    return false;
-});
-</script>
-
