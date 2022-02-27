@@ -1,7 +1,7 @@
 # Resolve Objections
 
 <summary>
-**Resolve objections one at a time by using the information they contain to make and evolve agreements.**
+Resolve objections one at a time by using the information they contain to make and evolve agreements.
 </summary>
 
 Choose an option for resolving an [objection](glossary:objection) that looks most promising, and if that fails, simply pick another one. Each attempt will help you understand more of the information the objection contains, and bring the group closer to proposing an amendment that resolves the objection.

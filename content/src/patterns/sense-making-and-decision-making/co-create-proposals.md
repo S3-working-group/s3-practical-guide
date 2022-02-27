@@ -1,7 +1,7 @@
 # Co-Create Proposals
 
 <summary>
-**Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.**
+Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.
 </summary>
 
 There are many ways to co-create proposals. They typically follow a similar pattern:

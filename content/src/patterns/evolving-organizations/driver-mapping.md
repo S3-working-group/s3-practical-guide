@@ -1,7 +1,7 @@
 # Driver Mapping
 
 <summary>
-**A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.**
+A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.
 </summary>
 
 During the workshop stakeholders take full ownership of the process from start to finish, as they progress quickly from concept to fully functioning collaboration.

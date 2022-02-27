@@ -1,7 +1,7 @@
 # Double-Linked Hierarchy
 
 <summary>
-**Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.**
+Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.
 </summary>
 
 1. Shift governance decision-making from individuals to teams by forming [self-governing](glossary:governance) [circles](glossary:circle) on all levels of your organization.

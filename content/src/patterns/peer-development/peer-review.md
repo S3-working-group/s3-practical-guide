@@ -1,7 +1,7 @@
 # Peer Review
 
 <summary>
-**Support each other to learn and grow in the roles and teams you serve in.**
+Support each other to learn and grow in the roles and teams you serve in.
 </summary>
 
 The role keeper — or team — leads the peer review by setting up the process, and by speaking first in each step.

@@ -1,7 +1,7 @@
 # Coordination Meeting
 
 <summary>
-**Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.**
+Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.
 </summary>
 
 -   facilitate the meeting ([timebox](glossary:timebox) dialogue and use rounds where valuable)

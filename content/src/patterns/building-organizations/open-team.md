@@ -1,7 +1,7 @@
 # Open Team
 
 <summary>
-**Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.**
+Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.
 </summary>
 
 {{define:open-team}}

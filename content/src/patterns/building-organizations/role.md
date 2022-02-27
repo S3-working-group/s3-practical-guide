@@ -1,7 +1,7 @@
 # Role
 
 <summary>
-**Delegate responsibility for a domain to individuals.**
+Delegate responsibility for a domain to individuals.
 </summary>
 
 A role is an area of responsibility (a [domain](glossary:domain)) that is [delegated](glossary:delegation) to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.

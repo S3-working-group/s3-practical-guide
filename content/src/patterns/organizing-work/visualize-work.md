@@ -1,7 +1,7 @@
 # Visualize Work
 
 <summary>
-**Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.**
+Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.
 </summary>
 
 -   valuable for [self-organization](glossary:self-organization) and pull-systems

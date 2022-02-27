@@ -1,7 +1,7 @@
 # Rounds
 
 <summary>
-**In a group meeting, go around the circle giving everyone the chance to speak in turn.**
+In a group meeting, go around the circle giving everyone the chance to speak in turn.
 </summary>
 
 Rounds are a group facilitation technique to maintain equivalence and support effective dialogue.

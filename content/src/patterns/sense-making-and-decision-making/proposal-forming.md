@@ -1,7 +1,7 @@
 # Proposal Forming
 
 <summary>
-**A (facilitated) group process for co-creating a response to a driver.**
+A (facilitated) group process for co-creating a response to a driver.
 </summary>
 
 -   draws on the collective intelligence and diversity of perspective within a group

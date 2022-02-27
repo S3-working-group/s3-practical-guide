@@ -1,7 +1,7 @@
 # Development Plan
 
 <summary>
-**A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.**
+A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.
 </summary>
 
 The development plan may be created for a person in a role, or for a team (e.g. a department, [circle](section:circle) or [open team](section:open-team)).

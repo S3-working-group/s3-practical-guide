@@ -1,7 +1,7 @@
 # Describe Deliverables
 
 <summary>
-**Clearly describe any deliverables related to an agreement to support shared understanding of expectations.**
+Clearly describe any deliverables related to an agreement to support shared understanding of expectations.
 </summary>
 
 {{define:deliverable}}

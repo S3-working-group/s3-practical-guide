@@ -1,7 +1,7 @@
 # Artful Participation
 
 <summary>
-**Commit to doing your best to act and interact in ways that enable effective collaboration.**
+Commit to doing your best to act and interact in ways that enable effective collaboration.
 </summary>
 
 _"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_

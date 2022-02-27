@@ -1,7 +1,7 @@
 # Service Organization
 
 <summary>
-**Multi-stakeholder collaboration and alignment towards a shared driver (or objective).**
+Multi-stakeholder collaboration and alignment towards a shared driver (or objective).
 </summary>
 
 -   improves potential for equivalence between various entities

@@ -1,7 +1,7 @@
 # Consent Decision-Making
 
 <summary>
-**A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.**
+A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.
 </summary>
 
 ![Consent Decision-Making](img/agreements/consent-decision-making.png)

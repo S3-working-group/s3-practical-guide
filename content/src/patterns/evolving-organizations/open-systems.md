@@ -1,7 +1,7 @@
 # Open Systems
 
 <summary>
-**Intentionally communicate with and learn from others outside of your system.**
+Intentionally communicate with and learn from others outside of your system.
 </summary>
 
 Individuals, teams and entire organizations can acknowledge interdependence and intentionally invite people from outside their system to bring in **knowledge, experience and influence** to assist with decision-making and support collective learning.

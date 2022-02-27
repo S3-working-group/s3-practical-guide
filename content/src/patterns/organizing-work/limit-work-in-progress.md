@@ -1,7 +1,7 @@
 # Limit Work in Progress
 
 <summary>
-**Limit the number of work items in any stage of your work process.**
+Limit the number of work items in any stage of your work process.
 </summary>
 
 Work in progress includes:

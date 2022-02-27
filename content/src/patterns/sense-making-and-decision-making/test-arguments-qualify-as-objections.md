@@ -1,7 +1,7 @@
 # Test Arguments Qualify as Objections
 
 <summary>
-**Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.**
+Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.
 </summary>
 
 When someone raises an argument for changing something, check that the argument reveals how leaving things unchanged will – or could — lead to consequences you want to avoid, or that it informs you of a worthwhile way to improve how to go about achieving your objectives.
