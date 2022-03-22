@@ -12,7 +12,7 @@ prev_page_url: "contract-for-successful-collaboration.html"
 -   clarify and describe the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</a> for the [role](role.html)
 -   create a [domain description](clarify-and-develop-domains.html)
 -   if valuable, implement a selection process
--   limit the term of the contract
+-   consider limiting the term of the contract, after which point it can be reviewed and renewed if necessary
 -   build in regular [peer reviews](peer-review.html)
 
 External contractors consent to take on their role.

@@ -10,7 +10,7 @@ prev_page_url: "role-selection.html"
 <dl>
 
   <dt><a href="clarify-and-develop-domains.html">Clarify and Develop Domains</a></dt>
-  <dd><p>A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.</p></dd>
+  <dd><p>Explicitly clarify, and then regularly evaluate and develop a domain's design based on learning, to enable those with responsibility for the domain to account for it as effectively as possible.</p></dd>
 
   <dt><a href="delegate-influence.html">Delegate Influence</a></dt>
   <dd><p>Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.</p></dd>

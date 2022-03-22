@@ -507,7 +507,7 @@ _Clarifying domains_ provides a way of explicitly delineating areas of responsib
 
 To encourage a culture with a high level of self-accountability, do your part in creating a working environment where people voluntarily take on the following responsibilities:
 
--   Act within the constraints of any agreements governing domains you are responsible for, including the organization itself, teams you are part of, and roles you keep.
+-   Act within the constraints of any agreements governing domains you are responsible for, that includes agreements related to the organization itself, to the teams you are part of, and to the roles you keep.
 -   Act in accordance with any explicitly defined organizational values.
 -   Be transparent and proactive in communicating with those you share accountability with, if you realize that what you agreed to is not the best course of action.
 -   Find others who can help you if you discover you’re unable to take care of your responsibilities.
@@ -943,7 +943,7 @@ Clarifying questions sometimes reveal helpful ways to change the proposal text t
 -   Avoid preamble and stick to the point, e.g.: "_Well, one thing that is not so clear to me, or at least, that I want to make sure I understand correctly is …_" or "_I'm not sure how to phrase this, but let me try_", etc.
 
 
-##### 4. Brief Response
+##### Step 4: Brief Response
 
 _Get a sense of how this proposal lands with everyone._
 
@@ -972,9 +972,9 @@ Examples:
 -   It's valuable to hear something from everyone in this round, so avoid passing. If you're lost for words, you can still say something like "_I need some more time to think about it_" or "_I'm unsure at this point where I stand_"
 
 
-##### 5. Check for Possible Objections
+##### Step 5: Check for Possible Objections
 
-_People indicate if they have possible objections or concerns._ 
+_People consider the proposal and then indicate if they have possible objections or concerns._ 
 
 This step is simply about identifying who has possible objections or concerns. Arguments are heard in the next step.
 
@@ -1287,9 +1287,11 @@ This pattern can also be used in any situation where there is a need to choose b
 
 #### Clarify and Develop Domains
 
-<div class="card summary"><div class="card-body">A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.
+<div class="card summary"><div class="card-body">Explicitly clarify, and then regularly evaluate and develop a domain's design based on learning, to enable those with responsibility for the domain to account for it as effectively as possible.
 </div></div>
-To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> - distinct areas of responsibility and autonomy. 
+A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.
+
+To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> - distinct areas of responsibility and autonomy. 
 
 Any role or team’s purpose is to contribute towards the overall purpose of the organization by taking care of a specific organizational need. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work suffers because of missed dependencies, double work, or work not done at all.
 
@@ -1553,7 +1555,7 @@ Change things when there is value in doing so:
 -   Bring in patterns that help to solve current and important problems.
 -   Don't break what's already working!
 -   Meet everyone where they are …
--   … and let them choose their own pace.
+-   … and support everyone to make necessary changes at a manageable pace.
 
 
 #### Driver Mapping
@@ -1965,7 +1967,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 - the contract should include all expectations of the parties involved, each explained with adequate detail
 - use clear and simple language that all parties can understand, and be unambiguous about legal consequences
 - if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
-- consult a lawyer who supports the culture you aspire to and is competent in the field if business you are negotiating
+- consult a lawyer who supports the culture you aspire to and is competent in the field of business you are negotiating
 
 ##### When Co-Creating a Contract:
 
@@ -2008,7 +2010,7 @@ If you find that standard contracts in your industry are misaligned with the cul
 -   clarify and describe the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</a> for the _role_
 -   create a _domain description_
 -   if valuable, implement a selection process
--   limit the term of the contract
+-   consider limiting the term of the contract, after which point it can be reviewed and renewed if necessary
 -   build in regular _peer reviews_
 
 External contractors consent to take on their role.
@@ -3547,7 +3549,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>Be explicit about the expected results of agreements, activities, projects and strategies.</p></dd>
 
   <dt><a href="clarify-and-develop-domains.html">Clarify and Develop Domains</a></dt>
-  <dd><p>A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.</p></dd>
+  <dd><p>Explicitly clarify, and then regularly evaluate and develop a domain's design based on learning, to enable those with responsibility for the domain to account for it as effectively as possible.</p></dd>
 
   <dt><a href="clarify-and-develop-strategy.html">Clarify and Develop Strategy</a></dt>
   <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>

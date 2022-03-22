@@ -43,7 +43,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 - the contract should include all expectations of the parties involved, each explained with adequate detail
 - use clear and simple language that all parties can understand, and be unambiguous about legal consequences
 - if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
-- consult a lawyer who supports the culture you aspire to and is competent in the field if business you are negotiating
+- consult a lawyer who supports the culture you aspire to and is competent in the field of business you are negotiating
 
 ## When Co-Creating a Contract:
 
