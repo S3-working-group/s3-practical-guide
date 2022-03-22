@@ -52,7 +52,7 @@ Too much specificity or too much ambiguity around the scope of authority people 
 
 To encourage a culture with a high level of self-accountability, do your part in creating a working environment where people voluntarily take on the following responsibilities:
 
--   Act within the constraints of any agreements governing domains you are responsible for, including the organization itself, teams you are part of, and roles you keep.
+-   Act within the constraints of any agreements governing domains you are responsible for, that includes agreements related to the organization itself, to the teams you are part of, and to the roles you keep.
 -   Act in accordance with any explicitly defined organizational values.
 -   Be transparent and proactive in communicating with those you share accountability with, if you realize that what you agreed to is not the best course of action.
 -   Find others who can help you if you discover you’re unable to take care of your responsibilities.
