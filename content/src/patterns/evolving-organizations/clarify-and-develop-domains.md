@@ -1,10 +1,12 @@
 # Clarify and Develop Domains
 
 <summary>
-A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.
+Explicitly clarify, and then regularly evaluate and develop a domain's design based on learning, to enable those with responsibility for the domain to account for it as effectively as possible.
 </summary>
 
-To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining [domains](glossary:domain) - distinct areas of responsibility and autonomy. 
+A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.
+
+To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly designing [domains](glossary:domain) - distinct areas of responsibility and autonomy. 
 
 Any role or team’s purpose is to contribute towards the overall purpose of the organization by taking care of a specific organizational need. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work suffers because of missed dependencies, double work, or work not done at all.
 
