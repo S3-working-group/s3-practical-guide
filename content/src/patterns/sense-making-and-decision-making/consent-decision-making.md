@@ -76,7 +76,7 @@ Clarifying questions sometimes reveal helpful ways to change the proposal text t
 -   Avoid preamble and stick to the point, e.g.: "_Well, one thing that is not so clear to me, or at least, that I want to make sure I understand correctly is …_" or "_I'm not sure how to phrase this, but let me try_", etc.
 
 
-## 4. Brief Response
+## Step 4: Brief Response
 
 _Get a sense of how this proposal lands with everyone._
 
@@ -105,9 +105,9 @@ Examples:
 -   It's valuable to hear something from everyone in this round, so avoid passing. If you're lost for words, you can still say something like "_I need some more time to think about it_" or "_I'm unsure at this point where I stand_"
 
 
-## 5. Check for Possible Objections
+## Step 5: Check for Possible Objections
 
-_People indicate if they have possible objections or concerns._ 
+_People consider the proposal and then indicate if they have possible objections or concerns._ 
 
 This step is simply about identifying who has possible objections or concerns. Arguments are heard in the next step.
 
