@@ -2,7 +2,7 @@
 
 <only presets="jekyll">
 <div class="homepage-box hp-box-green">
-<p><strong>Note:</strong> If you are looking for a specific pattern, use the <a href="pattern-index.html" ><img src="img/a-z.png"/>&nbsp;Pattern Index</a> or the <a href="map.html" ><img src="img/map.png"/>&nbsp;Pattern Map</a>, which are available at the top of each page, and in the "Quick Links" menu.</p>
+<p><strong>Note:</strong> If you are looking for a specific pattern, use the <a href="pattern-index.html" ><img src="/icons/list-ul.svg" class="icon" alt="pattern index"/>&nbsp;Pattern Index</a> or the <a href="map.html" ><img src="/icons/map.svg" class="icon" alt="pattern map" />&nbsp;Pattern Map</a>, which are available at the top of each page, and in the "Quick Links" menu.</p>
 </div>
 </only>
 
