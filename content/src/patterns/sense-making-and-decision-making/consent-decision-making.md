@@ -113,7 +113,7 @@ This step is simply about identifying who has possible objections or concerns. A
 
 **If you came here from step 7 (Resolve One Objection)**, check for further possible objections to the **amended** proposal.
 
-**The facilitator asks:** _Are there any objections or concerns to this proposal?_ 
+**The facilitator asks:** _Are there any possible objections, or concerns to this proposal?_ 
 
 **Remember:** concerns don't stop proposals becoming agreements, only qualified objections do. Concerns are heard in Step 9, after celebrating reaching an agreement! 
 
@@ -130,7 +130,7 @@ In case the distinction between objections and concerns is still unclear for som
 -   Many groups **use hand signs** as a way to indicate quickly and clearly if anyone has any possible objections or concerns. If you are new to the process and concerned that you may be influenced by each other, wait until everyone is ready and then show hands simultaneously.
 -   **If you are in doubt** between a possible objection or a concern, share it as a possible objection so that you can check with others to test if it qualifies.
 
-**If there are no objections, you have reached agreement, move on to step 8 (Celebrate)!**
+**If no one indicates having any possible objections, you have reached agreement, move on to step 8 (Celebrate)!**
 
 
 ## Step 6: Test One Argument Qualifies as Objection
