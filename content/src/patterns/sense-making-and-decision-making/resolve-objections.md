@@ -37,7 +37,7 @@ If there are no possible objections, proceed to step 6 (Celebrate), otherwise ta
 
 **Step 6:** Celebrate! You’ve agreed on an amendment that resolves the objection! 
 
-![Process for resolving an objection](img/agreements/resolve-objection.png)
+![Process for resolving an objection](img/agreements/resolve-objections.png)
 
 Below you’ll find more guidance on how to go through each step. This process can be repeated until all objections have been resolved. As with all patterns in S3, your approach to resolving objections can be adjusted to suit your context. 
 
@@ -100,7 +100,7 @@ Come up with an amendment to the current amendment suggestion! Be aware that a p
 
 As you can see, the Resolve Objections pattern can be used recursively. Below you will find an illustration that shows how this works.
 
-![Recursive application of the Resolve Objection pattern](img/agreements/resolve-one-objection-recursive.png)
+![Recursive application of the Resolve Objection pattern](img/agreements/resolve-objections-process.png)
 
 
 ## Step 6: Celebrate!
