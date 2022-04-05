@@ -1,6 +1,11 @@
 # Changelog
 
 
+## Changes 2022-04-05
+
+-   added detailed description and new illustrations to [Resolve Objections](section:resolve-objections)   
+
+
 ## Changes 2022-02-04
 
 -   added detailed description of the [Consent Decision-Making](section:consent-decision-making) process
