@@ -9,6 +9,7 @@ prev_page_url: "governance-meeting.html"
 
 <div class="card summary"><div class="card-body">Meet daily to organize work, facilitate learning and improve your productivity and effectiveness.
 </div></div>
+
 -   <a href="glossary.html#entry-timebox" class="glossary-tooltip" data-toggle="tooltip" title="Timebox: A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).">timeboxed</a> (usually 15 minutes)
 -   held daily at the same time
 -   the team gathers around a visible project management board/tool to:

@@ -9,6 +9,7 @@ prev_page_url: "organizing-work.html"
 
 <div class="card summary"><div class="card-body">_A **backlog** (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed._
 </div></div>
+
 Consider making backlogs visible, not only to other members of a team, but also to the wider organization.
 
 Types of backlog include:

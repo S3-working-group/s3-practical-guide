@@ -9,6 +9,7 @@ prev_page_url: "bringing-in-s3.html"
 
 <div class="card summary"><div class="card-body">Adapt and evolve S3 patterns to suit your specific context.
 </div></div>
+
 Ensure that everyone affected:
 
 -   understands why changing the pattern is necessary (or helpful)

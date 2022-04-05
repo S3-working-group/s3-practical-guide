@@ -9,6 +9,7 @@ prev_page_url: "evaluate-and-evolve-agreements.html"
 
 <div class="card summary"><div class="card-body">Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.
 </div></div>
+
 There are many ways to co-create proposals. They typically follow a similar pattern:
 
 1. Agree on the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</a> (or problem / opportunity / need)

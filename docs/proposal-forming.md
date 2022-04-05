@@ -9,6 +9,7 @@ prev_page_url: "co-create-proposals.html"
 
 <div class="card summary"><div class="card-body">A (facilitated) group process for co-creating a response to a driver.
 </div></div>
+
 -   draws on the collective intelligence and diversity of perspective within a group
 -   involves people in co-creating agreements
 -   fosters accountability and sense of ownership

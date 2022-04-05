@@ -9,6 +9,7 @@ prev_page_url: "meeting-practices.html"
 
 <div class="card summary"><div class="card-body">In a group meeting, go around the circle giving everyone the chance to speak in turn.
 </div></div>
+
 Rounds are a group facilitation technique to maintain equivalence and support effective dialogue.
 
 Be clear on the purpose and intended outcome of each round.

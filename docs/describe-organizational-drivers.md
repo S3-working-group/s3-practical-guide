@@ -9,6 +9,7 @@ prev_page_url: "navigate-via-tension.html"
 
 <div class="card summary"><div class="card-body">Describe organizational drivers to understand, communicate and remember them.
 </div></div>
+
 Describing <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</a> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
 A simple way to describe a driver is by explaining:

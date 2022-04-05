@@ -8,6 +8,11 @@ prev_page_url: "appendix.html"
 
 
 
+## Changes 2022-04-05
+
+-   added detailed description and new illustrations to [Resolve Objections](resolve-objections.html)   
+
+
 ## Changes 2022-02-04
 
 -   added detailed description of the [Consent Decision-Making](consent-decision-making.html) process

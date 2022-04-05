@@ -9,6 +9,7 @@ prev_page_url: "service-organization.html"
 
 <div class="card summary"><div class="card-body">Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).
 </div></div>
+
 Creating a fractal organization can enable a large network to rapidly respond to changing contexts.
 
 If necessary, the pattern can be repeated to connect multiple fractal organizations into one.

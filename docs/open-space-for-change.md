@@ -9,6 +9,7 @@ prev_page_url: "invite-change.html"
 
 <div class="card summary"><div class="card-body">Invite everyone to create and run experiments for evolving the organization.
 </div></div>
+
 -   clarify the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</a> for change
 -   schedule regular open space events:
     -   invite all members to create and run experiments

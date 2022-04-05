@@ -9,6 +9,7 @@ prev_page_url: "sense-making-and-decision-making.html"
 
 <div class="card summary"><div class="card-body">Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.
 </div></div>
+
 Responses to <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">organizational drivers</a> include:
 
 - direct action (<a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a>)

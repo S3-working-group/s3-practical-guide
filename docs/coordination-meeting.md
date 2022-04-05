@@ -9,6 +9,7 @@ prev_page_url: "planning-and-review-meetings.html"
 
 <div class="card summary"><div class="card-body">Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.
 </div></div>
+
 -   facilitate the meeting (<a href="glossary.html#entry-timebox" class="glossary-tooltip" data-toggle="tooltip" title="Timebox: A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).">timebox</a> dialogue and use rounds where valuable)
 -   when useful, compile an agenda before the meeting and share it with attendees in advance
     -   include details of any prerequisites that can help attendees to prepare

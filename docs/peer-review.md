@@ -9,6 +9,7 @@ prev_page_url: "peer-feedback.html"
 
 <div class="card summary"><div class="card-body">Support each other to learn and grow in the roles and teams you serve in.
 </div></div>
+
 The role keeper — or team — leads the peer review by setting up the process, and by speaking first in each step.
 
 ![Peer review process](img/process/peer-review.png)

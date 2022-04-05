@@ -9,6 +9,7 @@ prev_page_url: "be-the-change.html"
 
 <div class="card summary"><div class="card-body">Clarify the reason for change and invite people to participate.
 </div></div>
+
 Inviting rather than imposing change helps reduce resistance and enables people to choose for themselves.
 
 When making the invitation:

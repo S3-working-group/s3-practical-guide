@@ -9,6 +9,7 @@ prev_page_url: "reasoned-decision-making.html"
 
 <div class="card summary"><div class="card-body">A group process for selecting a person for a role on the strength of the reason.
 </div></div>
+
 Instead of simply assigning people for [roles](role.html), or making a choice based only on majority, use the role selection process to:
 
 - tap collective intelligence by hearing and deliberating on reasons for nominations

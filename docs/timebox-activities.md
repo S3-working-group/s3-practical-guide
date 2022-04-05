@@ -9,6 +9,7 @@ prev_page_url: "limit-work-in-progress.html"
 
 <div class="card summary"><div class="card-body">Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.
 </div></div>
+
 _A **timebox** is a fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox)._
 
 - to get value out of the timebox, be clear what you want to achieve

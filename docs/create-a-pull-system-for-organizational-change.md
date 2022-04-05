@@ -9,6 +9,7 @@ prev_page_url: "align-flow.html"
 
 <div class="card summary"><div class="card-body">Create an environment that invites and enables members of the organization to drive change.
 </div></div>
+
 Change things when there is value in doing so:
 
 -   Bring in patterns that help to solve current and important problems.

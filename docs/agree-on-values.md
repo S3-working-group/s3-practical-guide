@@ -9,6 +9,7 @@ prev_page_url: "adopt-the-seven-principles.html"
 
 <div class="card summary"><div class="card-body">Intentionally evolve the culture in your organization.
 </div></div>
+
 _**Values** are valued principles that guide behavior. Values define scope for action and ethical constraints._
 
 -   each member brings their own values to an organization based on personal experiences and beliefs

@@ -9,6 +9,7 @@ prev_page_url: "consent-decision-making.html"
 
 <div class="card summary"><div class="card-body">Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.
 </div></div>
+
 When someone raises an argument for changing something, check that the argument reveals how leaving things unchanged will – or could — lead to consequences you want to avoid, or that it informs you of a worthwhile way to improve how to go about achieving your objectives.
 
 Explore and refine each argument as necessary to identify any misconceptions or misunderstanding, and to eliminate aspects of the argument that are based merely on assumptions, or a personal preference or opinion. If you establish that what remains of the argument qualifies as an objection, then go on to [resolve the objection](resolve-objections.html).

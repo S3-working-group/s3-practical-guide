@@ -9,6 +9,7 @@ prev_page_url: "facilitate-meetings.html"
 
 <div class="card summary"><div class="card-body">Prepare in advance to make meetings more effective.
 </div></div>
+
 Some considerations for successfully preparing a meeting:
 
 - clarify and communicate the <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a> for, and <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of the meeting

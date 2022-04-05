@@ -9,6 +9,7 @@ prev_page_url: "evaluate-meetings.html"
 
 <div class="card summary"><div class="card-body">Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.
 </div></div>
+
 A person may take on the role of meeting host for a specific event or for several events over a period of time.
 
 ## Responsibilities Of A Meeting Host

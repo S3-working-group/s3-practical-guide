@@ -9,6 +9,7 @@ prev_page_url: "governance-facilitator.html"
 
 <div class="card summary"><div class="card-body">_A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention._
 </div></div>
+
 A governance backlog contains:
 
 -   matters requiring a decision

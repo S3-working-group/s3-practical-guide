@@ -9,6 +9,7 @@ prev_page_url: "check-in.html"
 
 <div class="card summary"><div class="card-body">Take time for learning at the end of each meeting or workshop.
 </div></div>
+
 Reflect on interactions, celebrate successes and share suggestions for improvement before closing the meeting.
 
 -   reserve 5 minutes for 1 hour, and 15 minutes for a full-day workshop

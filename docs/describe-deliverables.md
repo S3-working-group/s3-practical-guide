@@ -9,6 +9,7 @@ prev_page_url: "clarify-intended-outcome.html"
 
 <div class="card summary"><div class="card-body">Clearly describe any deliverables related to an agreement to support shared understanding of expectations.
 </div></div>
+
 _A **deliverable** is a product, service, component or material provided in response to an organizational driver._
 
 When describing deliverables:

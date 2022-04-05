@@ -755,6 +755,7 @@ In this guide, the patterns are grouped by topic into eleven categories to help 
 
 <div class="card summary"><div class="card-body">Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.
 </div></div>
+
 Responses to <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">organizational drivers</a> include:
 
 - direct action (<a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a>)
@@ -778,6 +779,7 @@ _Would it help the organization if we respond to this driver? Or would it lead t
 
 <div class="card summary"><div class="card-body">Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.
 </div></div>
+
 **Challenges and opportunities** for an organization are revealed by people bringing awareness to the reasons why they experience tension.
 
 **Note:** In this context, a _tension_ is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences).
@@ -793,6 +795,7 @@ When passing on a driver to another domain, it is often enough to communicate wh
 
 <div class="card summary"><div class="card-body">Describe organizational drivers to understand, communicate and remember them.
 </div></div>
+
 Describing <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</a> may be done by a group or by an individual. Depending on their perspective, they may decide to explain a driver as a **problem** to solve or an **opportunity** to leverage.
 
 A simple way to describe a driver is by explaining:
@@ -871,6 +874,7 @@ Helpful questions for a review include:
 
 <div class="card summary"><div class="card-body">A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.
 </div></div>
+
 ![Consent Decision-Making](img/agreements/consent-decision-making.png)
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the _principle of consent_, you are agreeing to intentionally seek out _objections_.
@@ -980,7 +984,7 @@ This step is simply about identifying who has possible objections or concerns. A
 
 **If you came here from step 7 (Resolve One Objection)**, check for further possible objections to the **amended** proposal.
 
-**The facilitator asks:** _Are there any objections or concerns to this proposal?_ 
+**The facilitator asks:** _Are there any possible objections, or concerns to this proposal?_ 
 
 **Remember:** concerns don't stop proposals becoming agreements, only qualified objections do. Concerns are heard in Step 9, after celebrating reaching an agreement! 
 
@@ -997,7 +1001,7 @@ In case the distinction between objections and concerns is still unclear for som
 -   Many groups **use hand signs** as a way to indicate quickly and clearly if anyone has any possible objections or concerns. If you are new to the process and concerned that you may be influenced by each other, wait until everyone is ready and then show hands simultaneously.
 -   **If you are in doubt** between a possible objection or a concern, share it as a possible objection so that you can check with others to test if it qualifies.
 
-**If there are no objections, you have reached agreement, move on to step 8 (Celebrate)!**
+**If no one indicates having any possible objections, you have reached agreement, move on to step 8 (Celebrate)!**
 
 
 ##### Step 6: Test One Argument Qualifies as Objection
@@ -1053,6 +1057,7 @@ If you are new to using Consent Decision-Making, we recommend you strictly follo
 
 <div class="card summary"><div class="card-body">Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.
 </div></div>
+
 When someone raises an argument for changing something, check that the argument reveals how leaving things unchanged will – or could — lead to consequences you want to avoid, or that it informs you of a worthwhile way to improve how to go about achieving your objectives.
 
 Explore and refine each argument as necessary to identify any misconceptions or misunderstanding, and to eliminate aspects of the argument that are based merely on assumptions, or a personal preference or opinion. If you establish that what remains of the argument qualifies as an objection, then go on to _resolve the objection_.
@@ -1082,23 +1087,119 @@ Some helpful questions:
 
 #### Resolve Objections
 
-<div class="card summary"><div class="card-body">Resolve objections one at a time by using the information they contain to make and evolve agreements.
+<div class="card summary"><div class="card-body">Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state. 
 </div></div>
-Choose an option for resolving an <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a> that looks most promising, and if that fails, simply pick another one. Each attempt will help you understand more of the information the objection contains, and bring the group closer to proposing an amendment that resolves the objection.
 
-Often, asking the person who brings the objection to propose an amendment, is a productive place to start.
+Typically it’s most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
 
-Typically it's most effective to **take one objection at a time**, resolve all objections to a proposed amendment, and then continue with the next main objection.
+A proposal becomes an agreement when all objections have been resolved.
 
-![Some options for resolving objections](img/agreements/resolve-objections.png)
+Objections are resolved by amending the proposal. **Amendments** can include: 
 
-![A process for resolving objections](img/agreements/resolve-objections-process.png)
+- adding, removing and/or changing something in the proposal.
+- deferring resolution of a particular objection until later. (Remember to clarify who will take responsibility for this, by when and what will happen after that).
+- an alternative proposal, or an agreement to (co-)create a new proposal in future (if it’s considered more effective than continuing to work on developing the existing proposal).
+- delegating the task to review, research, and/or propose an amendment for one, or even several related objections, to an individual or group.
+- leaving the main proposal unchanged and monitoring the outcome because the effort, or cost of changing things to resolve the objection, outweighs the anticipated benefits or gain.
+- asking a delegator for feedback or input (e.g. when agreeing on a strategy for a subdomain).
+- take some more time for reflection and then come back to the objection again later.
+- etc.
+
+There’s always an iterative next step of some kind that you can take! Even if a proposal doesn’t fully address the <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a>, reaching agreement about **one or more iterative next steps** is often good enough. It’s also helpful sometimes to break things down into small steps, especially when you’re dealing with complex or complicated situations. 
+
+Objections can be resolved by following the process outlined in _Reasoned Decision-Making_:
+
+**Step 1:** Come up with a proposal for an amendment
+
+**Step 2:** Understand the proposed amendment 
+
+**Step 3:** Check if there are any possible objections to the proposed amendment , e.g. by using hand signs. The possible objections themselves are presented in Step 4. 
+
+If there are no possible objections, proceed to step 6 (Celebrate), otherwise take one possible objection at a time, and:
+
+**Step 4:** Hear the reasoning for the possible objection and _determine if the argument put forward has any validity_.
+
+**Step 5:** Integrate any information revealed in the previous step to improve the proposed amendment, then go back to step 3.
+
+**Step 6:** Celebrate! You’ve agreed on an amendment that resolves the objection! 
+
+![Process for resolving an objection](img/agreements/resolve-objections.png)
+
+Below you’ll find more guidance on how to go through each step. This process can be repeated until all objections have been resolved. As with all patterns in S3, your approach to resolving objections can be adjusted to suit your context. 
+
+
+##### Step 1: Come up with proposal for an amendment
+
+*Come up with a suggestion for how to amend the proposal to resolve the objection based on information the objection reveals.* 
+
+There are many ways to come up with an amendment. Below are some typical options you can use. We recommend you use them in the order they are presented: if the first option does not work, go to the next one, and so on. Once you get more familiar with the process you’ll be able to discern in the moment which option is more suitable. 
+
+1. Ask the person raising the objection: "*Do you have a suggestion for how to amend this proposal to resolve this objection?*"
+2. Ask the group “*Does anyone have a suggestion for how to amend this proposal to resolve this objection?*” and choose one person to present their suggestion.
+3. In case it’s difficult to immediately come up with an amendment, invite a timeboxed dialogue to share ideas, with the purpose of coming up with an amendment from there.
+
+As with any proposal, an amendment suggestion gives you a starting point that can then be refined through inviting and resolving objections. (see Step 4:Test One Argument Qualifies as Objection)
+
+It’s often helpful to repeat or summarise the amendment and write it down for everyone to see. 
+
+
+##### Step 2: Understand amendment
+
+*Ensure everyone understands the amendment being proposed.*
+
+**Facilitator asks:** *Any questions to understand the proposed amendment?*
+
+Tips for everyone:
+
+- Keep your questions and answers brief and to the point. 
+- Avoid getting into discussions or expressing opinions about the validity of the amendment at this stage. The point of this step is simply to ensure the suggested amendment is clear. 
+- Add relevant clarifications to the written amendment.
+
+
+##### Step 3: Check for Possible Objections
+
+*People consider the proposed amendment and then indicate if they have possible objections or concerns.*
+
+This step is simply about identifying who has possible objections or concerns. Arguments are heard in the next step.
+
+**Facilitator asks:** *Are there any possible objections, or concerns to this amendment?* (note that the subject here is the amendment, not the whole proposal!)
+
+Many groups use hand signs as a way to indicate quickly and clearly if anyone has any possible objections. 
+
+- In case there are possible objections to the suggested amendment, go on to the next step, Test One Argument Qualifies as Objection(link). 
+- If no one indicates having any possible objections, go to **Step 6: Celebrate**, because you’ve agreed on the amendment.
+
+
+##### Step 4: Test One Argument Qualifies as Objection
+
+Please refer to _Test Arguments Qualify as Objections_
+
+- If the argument qualifies, continue to **Step 5** (Resolve one Objection)
+- If the argument doesn’t qualify, go back to **Step 3** to check if there are any further possible objections to the proposed amendment. 
+
+
+##### Step 5: Resolve one Objection
+
+*Repeat the process: use the Resolve Objection pattern to resolve one objection to the amendment.* 
+
+Come up with an amendment to the current amendment suggestion! Be aware that a proposed amendment might include the suggestion to entirely replace the current amendment with a different one instead.
+
+As you can see, the Resolve Objections pattern can be used recursively. Below you will find an illustration that shows how this works.
+
+![Recursive application of the Resolve Objection pattern](img/agreements/resolve-objections-process.png)
+
+
+##### Step 6: Celebrate!
+
+You’ve agreed on an amendment that resolves the objection!
+Before moving on, remember to update your original proposal to integrate the amendment you’ve agreed on.
 
 
 #### Evaluate And Evolve Agreements
 
 <div class="card summary"><div class="card-body">Continuously evolve the body of agreements, and eliminate waste.
 </div></div>
+
 Regular review of agreements is an essential practice for a learning organization:
 
 -   adapt agreements to suit changing context
@@ -1143,6 +1244,7 @@ Follow-up:
 
 <div class="card summary"><div class="card-body">Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.
 </div></div>
+
 There are many ways to co-create proposals. They typically follow a similar pattern:
 
 1. Agree on the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</a> (or problem / opportunity / need)
@@ -1163,6 +1265,7 @@ Besides in a face-to-face workshop, you can adapt this process for online meetin
 
 <div class="card summary"><div class="card-body">A (facilitated) group process for co-creating a response to a driver.
 </div></div>
+
 -   draws on the collective intelligence and diversity of perspective within a group
 -   involves people in co-creating agreements
 -   fosters accountability and sense of ownership
@@ -1203,6 +1306,7 @@ Between two and three tuners is usually appropriate. Check for any objections to
 
 <div class="card summary"><div class="card-body">Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered viable, relevant, valid or empirically true.
 </div></div>
+
 There are many paths people can follow to arrive at a decision with others (majority, consensus, authoritative, etc), but for any approach that uses reason as a basis for that agreement, they typically follow a similar pattern of _Reasoned Decision-Making_.
 
 Reasoned Decision-Making lays out the process that groups take when applying reason to check whether a proposal, existing agreement or amendment is good enough, or if a particular argument is relevant, valid or empirically true.
@@ -1249,6 +1353,7 @@ Each of the three processes focuses on the investigation of a different subject:
 
 <div class="card summary"><div class="card-body">A group process for selecting a person for a role on the strength of the reason.
 </div></div>
+
 Instead of simply assigning people for _roles_, or making a choice based only on majority, use the role selection process to:
 
 - tap collective intelligence by hearing and deliberating on reasons for nominations
@@ -1289,6 +1394,7 @@ This pattern can also be used in any situation where there is a need to choose b
 
 <div class="card summary"><div class="card-body">Explicitly clarify, and then regularly evaluate and develop a domain's design based on learning, to enable those with responsibility for the domain to account for it as effectively as possible.
 </div></div>
+
 A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.
 
 To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> - distinct areas of responsibility and autonomy. 
@@ -1500,6 +1606,7 @@ Consider also including the following information to the domain description
 
 <div class="card summary"><div class="card-body">Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.
 </div></div>
+
 A <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> can support <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatees</a> to deliver value by:
 
 -   Clearly defining <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> of autonomy and responsibility
@@ -1515,6 +1622,7 @@ Decentralize as much as possible, and retain as much influence as necessary.
 
 <div class="card summary"><div class="card-body">_A **strategy** is a high level approach for how people will create value to successfully account for a domain._
 </div></div>
+
 It is usually more effective if a team or role keeper lead in developing their own strategy.
 
 A strategy often includes a description of the <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of implementing that strategy.
@@ -1532,6 +1640,7 @@ Strategies are validated and refined through experimentation and learning.
 
 <div class="card summary"><div class="card-body">In support of continuous flow of value, move decision-making close to where value is created, and align the flow of information accordingly.
 </div></div>
+
 **Flow of value:** Deliverables traveling through an organization towards customers or other stakeholders.
 
 Achieve and maintain alignment of flow through the continuous evolution of an organization's body of <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>:
@@ -1550,6 +1659,7 @@ When decision-making is conducted close to where value is created, and the flow 
 
 <div class="card summary"><div class="card-body">Create an environment that invites and enables members of the organization to drive change.
 </div></div>
+
 Change things when there is value in doing so:
 
 -   Bring in patterns that help to solve current and important problems.
@@ -1562,6 +1672,7 @@ Change things when there is value in doing so:
 
 <div class="card summary"><div class="card-body">A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.
 </div></div>
+
 During the workshop stakeholders take full ownership of the process from start to finish, as they progress quickly from concept to fully functioning collaboration.
 
 Identify relevant stakeholders, map out related requirements and use them to identify work items and decisions that need to be made, distribute work and define an initial structure for collaboration.
@@ -1721,6 +1832,7 @@ _Take a moment to celebrate your achievements in getting your organization or in
 
 <div class="card summary"><div class="card-body">Intentionally communicate with and learn from others outside of your system.
 </div></div>
+
 Individuals, teams and entire organizations can acknowledge interdependence and intentionally invite people from outside their system to bring in **knowledge, experience and influence** to assist with decision-making and support collective learning.
 
 -   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
@@ -1736,6 +1848,7 @@ Individuals, teams and entire organizations can acknowledge interdependence and 
 
 <div class="card summary"><div class="card-body">A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.
 </div></div>
+
 Ask someone, "_would you be willing to help me with …_?" The person asked accepts or declines with a simple "_yes_" or "_no_".
 
 -   if the request is declined, the person asking accepts the answer without negotiation or inquiry
@@ -1747,6 +1860,7 @@ Ask someone, "_would you be willing to help me with …_?" The person asked acce
 
 <div class="card summary"><div class="card-body">Invite any member of your organization to give you some constructive feedback on your performance in a role or in a team, about your general participation and contribution, or about any other area you wish to develop.
 </div></div>
+
 Before the invitation, consider who might be able and willing to provide the feedback you seek, and decide on an appropriate duration – 15 or 30 minutes is usually enough.
 
 Schedule the session in advance, so that your peer can prepare for your meeting, and schedule some time for yourself after the session to decide how you will act on the feedback you received.
@@ -1768,6 +1882,7 @@ After the session, review your notes and decide for yourself what you will do wi
 
 <div class="card summary"><div class="card-body">Support each other to learn and grow in the roles and teams you serve in.
 </div></div>
+
 The role keeper — or team — leads the peer review by setting up the process, and by speaking first in each step.
 
 ![Peer review process](img/process/peer-review.png)
@@ -1792,6 +1907,7 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 
 <div class="card summary"><div class="card-body">A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.
 </div></div>
+
 The development plan may be created for a person in a role, or for a team (e.g. a department, _circle_ or _open team_).
 
 Development may happen in the form of refining the _description of the driver_ and the <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>, making amendments to <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
@@ -1810,6 +1926,7 @@ A development plan (and any accompanying recommendations for changes to the desc
 
 <div class="card summary"><div class="card-body">Commit to doing your best to act and interact in ways that enable effective collaboration.
 </div></div>
+
 _"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_
 
 Participating artfully may include interrupting, objecting or breaking  <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>.
@@ -1852,6 +1969,7 @@ Artful participation:
 
 <div class="card summary"><div class="card-body">Align collaboration with the Seven Principles.
 </div></div>
+
 Adopting the Seven Principles reduces the number of explicit agreements required, and guides adaptation of S3 patterns to suit the organization's context.
 
 An organization's values need to embrace the Seven Principles.
@@ -1865,6 +1983,7 @@ An organization's values need to embrace the Seven Principles.
 
 <div class="card summary"><div class="card-body">Intentionally evolve the culture in your organization.
 </div></div>
+
 _**Values** are valued principles that guide behavior. Values define scope for action and ethical constraints._
 
 -   each member brings their own values to an organization based on personal experiences and beliefs
@@ -1887,6 +2006,7 @@ Chosen values are an agreement that benefits from **regular review**.
 
 <div class="card summary"><div class="card-body">Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.
 </div></div>
+
 For larger groups:
 
 -   facilitate a process in several stages and create smaller groups who select delegates
@@ -1899,6 +2019,7 @@ Consider including those affected in reviewing and evolving decisions, too.
 
 <div class="card summary"><div class="card-body">Break agreements when you are certain the benefit for the organization outweighs the cost of waiting to amend that agreement first, and take responsibility for any consequences.
 </div></div>
+
 Breaking <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> is sometimes **necessary** but may come at a **cost** to the community.
 
 Be accountable:
@@ -1912,6 +2033,7 @@ Be accountable:
 
 <div class="card summary"><div class="card-body">Create a fair salary formula and make it transparent.
 </div></div>
+
 Transparent salary (also referred to as "open salary") is the practice of determining each employee's compensation according to a set of rules — the _salary formula_ — instead of making compensation subject to individual negotiation between employer and employee. The salary formula — and often individual compensation as well — is transparent to all members of an organization, and sometimes to the public.
 
 A transparent salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
@@ -1933,6 +2055,7 @@ Decide how to handle remuneration for changing roles and _develop a strategy_ fo
 
 <div class="card summary"><div class="card-body">Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.
 </div></div>
+
 A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies.
 
 Developing shared understanding about needs and expectations is essential for successful collaboration.
@@ -2007,6 +2130,7 @@ If you find that standard contracts in your industry are misaligned with the cul
 
 <div class="card summary"><div class="card-body">Apply the role pattern to external contractors.
 </div></div>
+
 -   clarify and describe the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</a> for the _role_
 -   create a _domain description_
 -   if valuable, implement a selection process
@@ -2021,6 +2145,7 @@ External contractors consent to take on their role.
 
 <div class="card summary"><div class="card-body">Secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture
 </div></div>
+
 Consider:
    
 -   consent and equivalence in decision-making
@@ -2040,6 +2165,7 @@ Consider:
 
 <div class="card summary"><div class="card-body">_A **circle** is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain._
 </div></div>
+
 A circle:
 
 -   may be permanent or temporary
@@ -2062,6 +2188,7 @@ A circle:
 
 <div class="card summary"><div class="card-body">Delegate responsibility for a domain to individuals.
 </div></div>
+
 A role is an area of responsibility (a <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>) that is <a href="glossary.html#entry-delegation" class="glossary-tooltip" data-toggle="tooltip" title="Delegation: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.">delegated</a> to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
 The role keeper leads in creating a <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a> for how they will account for their domain. They evolve their strategy in collaboration with the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
@@ -2084,6 +2211,7 @@ A role keeper may maintain a governance <a href="glossary.html#entry-backlog" cl
 
 <div class="card summary"><div class="card-body">Enable the flow of information and influence between two teams.
 </div></div>
+
 A team selects one of its members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decisions of another team.
 
 ![One circle linked to another circle](img/structural-patterns/link.png)
@@ -2093,6 +2221,7 @@ A team selects one of its members to represent their interests in the <a href="g
 
 <div class="card summary"><div class="card-body">Enable the _two-way_ flow of information and influence between two teams.
 </div></div>
+
 Two interdependent teams each select one of their members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decisions of the other team.
 
 Double linking enables equivalence between two teams and can be used to draw out valuable information in hierarchical structures.
@@ -2104,6 +2233,7 @@ Double linking enables equivalence between two teams and can be used to draw out
 
 <div class="card summary"><div class="card-body">Select a team member to participate in the governance decision-making of another team to enable the flow of information and influence.
 </div></div>
+
 Representatives (a.k.a. links):
 
 -   stand for the interests of one <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> in another team
@@ -2118,6 +2248,7 @@ Representatives (a.k.a. links):
 
 <div class="card summary"><div class="card-body">Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.
 </div></div>
+
 _An **open team** is a group of people who are invited to contribute to the work and governance done in a domain when they can._
 
 The <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> of the domain creates an invitation that clarifies:
@@ -2137,6 +2268,7 @@ The delegator is accountable for conducting regular reviews to support effective
 
 <div class="card summary"><div class="card-body">Bring together a team of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.
 </div></div>
+
 A helping team:
 
 -   is a way for a <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> to expand their capacity
@@ -2162,6 +2294,7 @@ Members of the helping team:
 
 <div class="card summary"><div class="card-body">Adapt and evolve S3 patterns to suit your specific context.
 </div></div>
+
 Ensure that everyone affected:
 
 -   understands why changing the pattern is necessary (or helpful)
@@ -2180,6 +2313,7 @@ Share valuable adaptations with the S3 community.
 
 <div class="card summary"><div class="card-body">Lead by example.
 </div></div>
+
 Behave and act in the ways you would like others to behave and act.
 
 
@@ -2187,6 +2321,7 @@ Behave and act in the ways you would like others to behave and act.
 
 <div class="card summary"><div class="card-body">Clarify the reason for change and invite people to participate.
 </div></div>
+
 Inviting rather than imposing change helps reduce resistance and enables people to choose for themselves.
 
 When making the invitation:
@@ -2203,6 +2338,7 @@ Include the people involved and affected in regular evaluation of outcomes.
 
 <div class="card summary"><div class="card-body">Invite everyone to create and run experiments for evolving the organization.
 </div></div>
+
 -   clarify the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">driver</a> for change
 -   schedule regular open space events:
     -   invite all members to create and run experiments
@@ -2215,6 +2351,7 @@ Include the people involved and affected in regular evaluation of outcomes.
 
 <div class="card summary"><div class="card-body">Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.
 </div></div>
+
 -   introduce the principle of consent and _Navigate via Tension_ to evolve work process in a team
 -   consider selecting a facilitator to guide group processes, and choosing values to guide behavior
 -   initiate a process of continuous improvement, e.g. through Kanban or regular _retrospectives_
@@ -2249,6 +2386,7 @@ S3 promotes a hypothesis-driven approach to decision-making.
 
 <div class="card summary"><div class="card-body">Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.
 </div></div>
+
 _An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
 
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.
@@ -2291,6 +2429,7 @@ Depending on the scope and significance of the agreement, consider including all
 
 <div class="card summary"><div class="card-body">Be explicit about the expected results of agreements, activities, projects and strategies.
 </div></div>
+
 Agree on and record a concise description of the intended outcome.
 
 The intended outcome can be used to define _Evaluation Criteria_ and <a href="glossary.html#entry-metric" class="glossary-tooltip" data-toggle="tooltip" title="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">metrics</a> for reviewing actual outcome.
@@ -2302,6 +2441,7 @@ The intended outcome can be used to define _Evaluation Criteria_ and <a href="gl
 
 <div class="card summary"><div class="card-body">Clearly describe any deliverables related to an agreement to support shared understanding of expectations.
 </div></div>
+
 _A **deliverable** is a product, service, component or material provided in response to an organizational driver._
 
 When describing deliverables:
@@ -2317,6 +2457,7 @@ Explicitly describing deliverables can be useful for improving communication and
 
 <div class="card summary"><div class="card-body">Develop well-defined evaluation criteria to determine if acting on an agreement had the desired effect.
 </div></div>
+
 -   go for **simple and unambiguous** criteria and document them (to avoid discussion or unnecessary dialogue when reviewing your <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>)
 -   define **actionable <a href="glossary.html#entry-metric" class="glossary-tooltip" data-toggle="tooltip" title="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">metrics</a>** to continuously track effects and spot deviations from <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a>
 -   consider adding criteria which make it explicit when the outcome of an agreement would be considered **unsuccessful**
@@ -2327,6 +2468,7 @@ Explicitly describing deliverables can be useful for improving communication and
 
 <div class="card summary"><div class="card-body">Maintain a coherent and accessible system that stores all information required for collaboration.
 </div></div>
+
 A logbook is a (digital) system to store all information relevant for running an organization and its teams. The logbook is accessible to all members of an organization, and information is kept confidential only when there is good reason to do so.
 
 Common platforms for logbooks are Wikis (e.g. [DokuWiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (e.g. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) or even [Trello](https://trello.com/).
@@ -2351,6 +2493,7 @@ Content relating to a specific team or <a href="glossary.html#entry-role" class=
 
 <div class="card summary"><div class="card-body">Select a member of your team to be specifically accountable for keeping up to date records of all information the team requires.
 </div></div>
+
 The logbook keeper is accountable for maintaining a team's <a href="glossary.html#entry-logbook" class="glossary-tooltip" data-toggle="tooltip" title="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</a> by:
 
 -   recording details of <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a> descriptions, _selections_, evaluation dates, minutes of meetings etc.
@@ -2369,6 +2512,7 @@ The logbook keeper is accountable for maintaining a team's <a href="glossary.htm
 
 <div class="card summary"><div class="card-body">Dedicate time to reflect on past experience, learn, and decide how to improve work process.
 </div></div>
+
 -   output: changes to work process, new tasks, on-the-fly <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivers</a> requiring an agreement
 -   facilitated meeting (~1hr)
 -   regular intervals (1-4 weeks)
@@ -2391,6 +2535,7 @@ Many different activities for each phase can be found at [plans-for-retrospectiv
 
 <div class="card summary"><div class="card-body">Teams meet at regular intervals to decide what to do to achieve objectives, and to set constraints on how and when things will be done.
 </div></div>
+
 A governance meeting is usually:
 
 -   facilitated
@@ -2428,6 +2573,7 @@ Typical agenda items include:
 
 <div class="card summary"><div class="card-body">Meet daily to organize work, facilitate learning and improve your productivity and effectiveness.
 </div></div>
+
 -   <a href="glossary.html#entry-timebox" class="glossary-tooltip" data-toggle="tooltip" title="Timebox: A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).">timeboxed</a> (usually 15 minutes)
 -   held daily at the same time
 -   the team gathers around a visible project management board/tool to:
@@ -2442,6 +2588,7 @@ Typical agenda items include:
 
 <div class="card summary"><div class="card-body">People meet at regular intervals (1-4 weeks) in timeboxed meetings to plan and review work.
 </div></div>
+
 **Planning meeting:** select and estimate work items for the next iteration.
 
 **Review meeting:** review completed work items and decide on re-work and changes for the next iteration.
@@ -2453,6 +2600,7 @@ Typical agenda items include:
 
 <div class="card summary"><div class="card-body">Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.
 </div></div>
+
 -   facilitate the meeting (<a href="glossary.html#entry-timebox" class="glossary-tooltip" data-toggle="tooltip" title="Timebox: A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).">timebox</a> dialogue and use rounds where valuable)
 -   when useful, compile an agenda before the meeting and share it with attendees in advance
     -   include details of any prerequisites that can help attendees to prepare
@@ -2476,6 +2624,7 @@ Agenda items:
 
 <div class="card summary"><div class="card-body">In a group meeting, go around the circle giving everyone the chance to speak in turn.
 </div></div>
+
 Rounds are a group facilitation technique to maintain equivalence and support effective dialogue.
 
 Be clear on the purpose and intended outcome of each round.
@@ -2489,6 +2638,7 @@ Sit in a circle, begin each round with a different person, and change direction 
 
 <div class="card summary"><div class="card-body">Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track and draw out the participant's creativity and wisdom.
 </div></div>
+
 Before each meeting, prepare an agenda of topics, and select a facilitator to:
 
 -   hold the space, keep the time and navigate the agenda during the meeting
@@ -2504,6 +2654,7 @@ Consider selecting a facilitator for a specific term. Even an inexperienced faci
 
 <div class="card summary"><div class="card-body">Prepare in advance to make meetings more effective.
 </div></div>
+
 Some considerations for successfully preparing a meeting:
 
 - clarify and communicate the <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a> for, and <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of the meeting
@@ -2543,6 +2694,7 @@ For each agenda item agree on:
 
 <div class="card summary"><div class="card-body">Help people to become aware of themselves and others, and to focus, be present and engage.
 </div></div>
+
 To check in, briefly disclose something about what's up for you and how you are, revealing thoughts, feelings, distractions or needs.
 
 Checking in may take the form of an opening or closing round in a group meeting, or just a brief exchange in a 1:1 meeting.
@@ -2557,6 +2709,7 @@ When checking in, in a new setting, people can also say their name and where the
 
 <div class="card summary"><div class="card-body">Take time for learning at the end of each meeting or workshop.
 </div></div>
+
 Reflect on interactions, celebrate successes and share suggestions for improvement before closing the meeting.
 
 -   reserve 5 minutes for 1 hour, and 15 minutes for a full-day workshop
@@ -2585,6 +2738,7 @@ Ask everyone in a _round_ to reflect on any or all of the following topics in a 
 
 <div class="card summary"><div class="card-body">Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.
 </div></div>
+
 A person may take on the role of meeting host for a specific event or for several events over a period of time.
 
 ##### Responsibilities Of A Meeting Host
@@ -2607,6 +2761,7 @@ Preparation:
 
 <div class="card summary"><div class="card-body">Select someone to facilitate governance meetings.
 </div></div>
+
 A <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> facilitator:
 
 -   ensures _governance meetings_ stay on track and are evaluated
@@ -2631,6 +2786,7 @@ As a governance facilitator, consider learning about and using the following pat
 
 <div class="card summary"><div class="card-body">_A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention._
 </div></div>
+
 A governance backlog contains:
 
 -   matters requiring a decision
@@ -2649,6 +2805,7 @@ A governance backlog contains:
 
 <div class="card summary"><div class="card-body">_A **backlog** (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed._
 </div></div>
+
 Consider making backlogs visible, not only to other members of a team, but also to the wider organization.
 
 Types of backlog include:
@@ -2680,6 +2837,7 @@ Each item on a (prioritized) backlog typically contains:
 
 <div class="card summary"><div class="card-body">Order all uncompleted work items with the most important items first, then pull work items from the top whenever there is new capacity.
 </div></div>
+
 No two items can be of equal importance, meaning it is necessary to agree on priorities and make tough choices.
 
 A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</a> helps to **maintain focus** on the most important items.
@@ -2688,6 +2846,7 @@ A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" dat
 
 <div class="card summary"><div class="card-body">Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.
 </div></div>
+
 -   valuable for <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</a> and pull-systems
 -   system must be accessible to everyone affected
 -   **analog:** post-its on a wall, or index cards, magnets and white board
@@ -2713,6 +2872,7 @@ A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" dat
 
 <div class="card summary"><div class="card-body">People pull in new work items when they have capacity (instead of having work pushed or assigned to them).
 </div></div>
+
 Prioritize pending work items to ensure that important items are worked on first.
 
 Pulling in work prevents overloading the system, especially when _work in progress (WIP) per person or team is limited_.
@@ -2722,6 +2882,7 @@ Pulling in work prevents overloading the system, especially when _work in progre
 
 <div class="card summary"><div class="card-body">Limit the number of work items in any stage of your work process.
 </div></div>
+
 Work in progress includes:
 
 -   the number of items in a <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</a>
@@ -2736,6 +2897,7 @@ When an action would exceed an agreed upon limit of work items in progress, this
 
 <div class="card summary"><div class="card-body">Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.
 </div></div>
+
 _A **timebox** is a fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox)._
 
 - to get value out of the timebox, be clear what you want to achieve
@@ -2760,6 +2922,7 @@ You could timebox:
 
 <div class="card summary"><div class="card-body">A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.
 </div></div>
+
 The coordinator may be selected by the team itself, or by the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
 
 Several coordinators may collaborate to synchronize work across multiple <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a>.
@@ -2795,6 +2958,7 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
 
 <div class="card summary"><div class="card-body">Delegate making governance decisions affecting multiple domains to representatives selected by those domains.
 </div></div>
+
 To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decisions on their behalf, stakeholders send _representatives_ to form a delegate circle.
 
 ![Delegate Circle](img/structural-patterns/delegate-circle.png)
@@ -2810,6 +2974,7 @@ A delegate circle may bring in other people (e.g. external experts) to help with
 
 <div class="card summary"><div class="card-body">Outsource services required by two or more domains.
 </div></div>
+
 A service circle can be populated by members of the <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> it serves, and/or by other people too.
 
 ![Service Circle](img/structural-patterns/service-circle.png)
@@ -2819,6 +2984,7 @@ A service circle can be populated by members of the <a href="glossary.html#entry
 
 <div class="card summary"><div class="card-body">Deliver value in complex and competitive environments through _decentralization_ (of resources and influence) and _direct interaction_ between those creating value and the customers they serve.
 </div></div>
+
 Teams in the periphery:
 
 -   deliver value in direct exchange with the outside world (customers, partners, communities, municipalities etc.)
@@ -2835,6 +3001,7 @@ The center provides internal services to support the organization.
 
 <div class="card summary"><div class="card-body">Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.
 </div></div>
+
 1. Shift governance decision-making from individuals to teams by forming <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">self-governing</a> <a href="glossary.html#entry-circle" class="glossary-tooltip" data-toggle="tooltip" title="Circle: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.">circles</a> on all levels of your organization.
 2. Each circle's members select one of their group to represent their interests and participate in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decision-making of the next higher circle, and vice versa.
 
@@ -2851,6 +3018,7 @@ A double-linked hierarchy:
 
 <div class="card summary"><div class="card-body">Multi-stakeholder collaboration and alignment towards a shared driver (or objective).
 </div></div>
+
 -   improves potential for equivalence between various entities
 -   increases cross-departmental/organizational alignment
 -   supports multi-agency collaboration between departments or organizations with different primary motives, or that are in conflict
@@ -2864,6 +3032,7 @@ A double-linked hierarchy:
 
 <div class="card summary"><div class="card-body">Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).
 </div></div>
+
 Creating a fractal organization can enable a large network to rapidly respond to changing contexts.
 
 If necessary, the pattern can be repeated to connect multiple fractal organizations into one.
@@ -3150,6 +3319,11 @@ For each principle we included a list of suggestions for things you can try. The
 
 
 ### Changelog
+
+
+#### Changes 2022-04-05
+
+-   added detailed description and new illustrations to _Resolve Objections_   
 
 
 #### Changes 2022-02-04
@@ -3696,7 +3870,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>Select a team member to participate in the governance decision-making of another team to enable the flow of information and influence.</p></dd>
 
   <dt><a href="resolve-objections.html">Resolve Objections</a></dt>
-  <dd><p>Resolve objections one at a time by using the information they contain to make and evolve agreements.</p></dd>
+  <dd><p>Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state.</p></dd>
 
   <dt><a href="respond-to-organizational-drivers.html">Respond to Organizational Drivers</a></dt>
   <dd><p>Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.</p></dd>

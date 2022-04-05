@@ -9,6 +9,7 @@ prev_page_url: "organizational-structure.html"
 
 <div class="card summary"><div class="card-body">Delegate making governance decisions affecting multiple domains to representatives selected by those domains.
 </div></div>
+
 To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decisions on their behalf, stakeholders send [representatives](representative.html) to form a delegate circle.
 
 ![Delegate Circle](img/structural-patterns/delegate-circle.png)

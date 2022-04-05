@@ -9,6 +9,7 @@ prev_page_url: "double-linked-hierarchy.html"
 
 <div class="card summary"><div class="card-body">Multi-stakeholder collaboration and alignment towards a shared driver (or objective).
 </div></div>
+
 -   improves potential for equivalence between various entities
 -   increases cross-departmental/organizational alignment
 -   supports multi-agency collaboration between departments or organizations with different primary motives, or that are in conflict

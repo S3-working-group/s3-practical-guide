@@ -9,6 +9,7 @@ prev_page_url: "meeting-host.html"
 
 <div class="card summary"><div class="card-body">Select someone to facilitate governance meetings.
 </div></div>
+
 A <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> facilitator:
 
 -   ensures [governance meetings](governance-meeting.html) stay on track and are evaluated

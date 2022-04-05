@@ -9,6 +9,7 @@ prev_page_url: "open-team.html"
 
 <div class="card summary"><div class="card-body">Bring together a team of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.
 </div></div>
+
 A helping team:
 
 -   is a way for a <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> to expand their capacity

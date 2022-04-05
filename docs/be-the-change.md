@@ -9,4 +9,5 @@ prev_page_url: "adapt-patterns-to-context.html"
 
 <div class="card summary"><div class="card-body">Lead by example.
 </div></div>
+
 Behave and act in the ways you would like others to behave and act.

@@ -9,6 +9,7 @@ prev_page_url: "open-space-for-change.html"
 
 <div class="card summary"><div class="card-body">Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.
 </div></div>
+
 -   introduce the principle of consent and [Navigate via Tension](navigate-via-tension.html) to evolve work process in a team
 -   consider selecting a facilitator to guide group processes, and choosing values to guide behavior
 -   initiate a process of continuous improvement, e.g. through Kanban or regular [retrospectives](retrospective.html)

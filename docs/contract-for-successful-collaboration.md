@@ -9,6 +9,7 @@ prev_page_url: "transparent-salary.html"
 
 <div class="card summary"><div class="card-body">Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.
 </div></div>
+
 A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies.
 
 Developing shared understanding about needs and expectations is essential for successful collaboration.

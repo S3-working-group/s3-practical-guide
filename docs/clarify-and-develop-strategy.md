@@ -9,6 +9,7 @@ prev_page_url: "delegate-influence.html"
 
 <div class="card summary"><div class="card-body">_A **strategy** is a high level approach for how people will create value to successfully account for a domain._
 </div></div>
+
 It is usually more effective if a team or role keeper lead in developing their own strategy.
 
 A strategy often includes a description of the <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of implementing that strategy.

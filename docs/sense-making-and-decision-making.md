@@ -25,7 +25,7 @@ prev_page_url: "patterns.html"
   <dd><p>Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.</p></dd>
 
   <dt><a href="resolve-objections.html">Resolve Objections</a></dt>
-  <dd><p>Resolve objections one at a time by using the information they contain to make and evolve agreements.</p></dd>
+  <dd><p>Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state.</p></dd>
 
   <dt><a href="evaluate-and-evolve-agreements.html">Evaluate And Evolve Agreements</a></dt>
   <dd><p>Continuously evolve the body of agreements, and eliminate waste.</p></dd>

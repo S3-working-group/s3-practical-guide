@@ -9,6 +9,7 @@ prev_page_url: "pull-system-for-work.html"
 
 <div class="card summary"><div class="card-body">Limit the number of work items in any stage of your work process.
 </div></div>
+
 Work in progress includes:
 
 -   the number of items in a <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</a>

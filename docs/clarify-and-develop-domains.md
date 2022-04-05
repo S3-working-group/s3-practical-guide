@@ -9,6 +9,7 @@ prev_page_url: "evolving-organizations.html"
 
 <div class="card summary"><div class="card-body">Explicitly clarify, and then regularly evaluate and develop a domain's design based on learning, to enable those with responsibility for the domain to account for it as effectively as possible.
 </div></div>
+
 A clear understanding of people’s area of responsibility and autonomy enables greater efficiency, effective collaboration, and agility throughout an organization.
 
 To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> - distinct areas of responsibility and autonomy. 

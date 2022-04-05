@@ -9,6 +9,7 @@ prev_page_url: "double-linking.html"
 
 <div class="card summary"><div class="card-body">Select a team member to participate in the governance decision-making of another team to enable the flow of information and influence.
 </div></div>
+
 Representatives (a.k.a. links):
 
 -   stand for the interests of one <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> in another team

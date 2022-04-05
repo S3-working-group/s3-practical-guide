@@ -9,6 +9,7 @@ prev_page_url: "prioritize-backlogs.html"
 
 <div class="card summary"><div class="card-body">Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.
 </div></div>
+
 -   valuable for <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</a> and pull-systems
 -   system must be accessible to everyone affected
 -   **analog:** post-its on a wall, or index cards, magnets and white board

@@ -9,6 +9,7 @@ prev_page_url: "enablers-of-co-creation.html"
 
 <div class="card summary"><div class="card-body">Commit to doing your best to act and interact in ways that enable effective collaboration.
 </div></div>
+
 _"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_
 
 Participating artfully may include interrupting, objecting or breaking  <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>.

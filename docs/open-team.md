@@ -9,6 +9,7 @@ prev_page_url: "representative.html"
 
 <div class="card summary"><div class="card-body">Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.
 </div></div>
+
 _An **open team** is a group of people who are invited to contribute to the work and governance done in a domain when they can._
 
 The <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> of the domain creates an invitation that clarifies:

@@ -9,6 +9,7 @@ prev_page_url: "prepare-for-meetings.html"
 
 <div class="card summary"><div class="card-body">Help people to become aware of themselves and others, and to focus, be present and engage.
 </div></div>
+
 To check in, briefly disclose something about what's up for you and how you are, revealing thoughts, feelings, distractions or needs.
 
 Checking in may take the form of an opening or closing round in a group meeting, or just a brief exchange in a 1:1 meeting.

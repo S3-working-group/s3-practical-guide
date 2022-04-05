@@ -196,7 +196,7 @@ prev_page_url: "changelog.html"
   <dd><p>Select a team member to participate in the governance decision-making of another team to enable the flow of information and influence.</p></dd>
 
   <dt><a href="resolve-objections.html">Resolve Objections</a></dt>
-  <dd><p>Resolve objections one at a time by using the information they contain to make and evolve agreements.</p></dd>
+  <dd><p>Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state.</p></dd>
 
   <dt><a href="respond-to-organizational-drivers.html">Respond to Organizational Drivers</a></dt>
   <dd><p>Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.</p></dd>

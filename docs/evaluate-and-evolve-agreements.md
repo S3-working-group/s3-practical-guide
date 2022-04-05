@@ -9,6 +9,7 @@ prev_page_url: "resolve-objections.html"
 
 <div class="card summary"><div class="card-body">Continuously evolve the body of agreements, and eliminate waste.
 </div></div>
+
 Regular review of agreements is an essential practice for a learning organization:
 
 -   adapt agreements to suit changing context

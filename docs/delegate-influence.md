@@ -9,6 +9,7 @@ prev_page_url: "clarify-and-develop-domains.html"
 
 <div class="card summary"><div class="card-body">Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.
 </div></div>
+
 A <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> can support <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatees</a> to deliver value by:
 
 -   Clearly defining <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> of autonomy and responsibility

@@ -9,6 +9,7 @@ prev_page_url: "service-circle.html"
 
 <div class="card summary"><div class="card-body">Deliver value in complex and competitive environments through _decentralization_ (of resources and influence) and _direct interaction_ between those creating value and the customers they serve.
 </div></div>
+
 Teams in the periphery:
 
 -   deliver value in direct exchange with the outside world (customers, partners, communities, municipalities etc.)
