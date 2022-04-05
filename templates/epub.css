@@ -64,6 +64,17 @@ figcaption {
   text-align:center;
 }
 
+p.summary {
+
+  font-weight: 600;
+  text-align: left;
+  padding: 1em;
+  margin-top: 2em;
+  margin-bottom: 1.2em;
+  border:  1px solid darkgray;
+
+}
+
 /* ---- SET PAGE BREAKS ---- */
 
 h1, h2, h3, h4, h5, h6 {
