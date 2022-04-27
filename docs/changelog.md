@@ -8,6 +8,11 @@ prev_page_url: "appendix.html"
 
 
 
+## Changes 2022-04-26
+
+-   added detailed description and new illustrations to [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)   
+
+
 ## Changes 2022-04-05
 
 -   added detailed description and new illustrations to [Resolve Objections](resolve-objections.html)   
