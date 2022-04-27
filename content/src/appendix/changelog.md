@@ -1,6 +1,11 @@
 # Changelog
 
 
+## Changes 2022-04-26
+
+-   added detailed description and new illustrations to [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)   
+
+
 ## Changes 2022-04-05
 
 -   added detailed description and new illustrations to [Resolve Objections](section:resolve-objections)   
