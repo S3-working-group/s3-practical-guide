@@ -13,11 +13,11 @@ I hope you like it. Please feel free to make changes to the Figma file. Contribu
 
 ## Design
 
-![home page](redesign%5CS3-map-redesign-concept1.png)
+![home page](S3-map-redesign-concept1.png)
 
 ## Wireframe
-|||
+|page|screenshot|
 |--|--|
-|home|![home page](redesign%5Chome.png) ![list button pressed](redesign%5Chome-button-tapped.png)|
-|menu|![menu page](redesign%5Cmenu.png)|
-|search|![search button pressed](redesign%5Chome-search-pressed.png)|
+|home|![home page](home.png) ![list button pressed](home-button-tapped.png)|
+|menu|![menu page](menu.png)|
+|search|![search button pressed](home-search-pressed.png)|
