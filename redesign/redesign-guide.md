@@ -2,8 +2,8 @@
 
 Thank you to the amazing team of people who made Sociocracy what it is today! My work would not be possible without your dedication and sacrifice. 
 
-The map is in need of a major redesign.
-My goal with this was to:
+I believe that the map could be improved.
+My goals were:
 
  - make a mobile device friendly UI/UX
  - make it accessible for people with disabilities
