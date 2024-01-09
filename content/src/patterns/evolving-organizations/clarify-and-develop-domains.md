@@ -22,7 +22,6 @@ A clear domain description with adequate detail is a necessary prerequisite for 
 A simple way for supporting stakeholders in developing shared understanding about the various aspects of a domain is by creating a domain description that contains information about:
 
 
-
 -    **Purpose**:  _What is the specific purpose the team (or role keeper) is responsible for fulfilling within the organization_?
 -    **Key Responsibilities:** _What is the essential work and decision-making being delegated to the team (or role keeper)?_
 -    **Customers and Deliverables**: _Whom does this team (or role keeper) deliver value to and what specifically do they provide?_
@@ -113,7 +112,7 @@ You can describe the primary driver using the pattern [Describe Organizational D
 -   **Primary Driver**: Describe the _current situation_, its _(anticipated or current) effect_, and if it’s not already obvious, the  _relevance_ of this effect for the organization (to clarify why it’s worthwhile or necessary to respond to the situation).
 -   **Requirement**: Describe what is _required_ to respond to this situation**,** and what is the _anticipated impact_ of fulfilling the requirement? Include an explanation of how achieving this impact is _relevant_ for responding appropriately to the primary driver, if it’s not already implied.
 
-**Recommended format:** _Primary Driver_: _[current situation], [(anticipated) effect]_, if useful, also describe _[relevance]_. _Main Requirement: [requirement]_and _[anticipated impact]_.
+**Recommended format:** Primary Driver: _[current situation]_ and _[(anticipated) effect]_, if useful, also describe _[relevance]_. Main Requirement: _[requirement]_ and _[anticipated impact]_.
 
 
 **Examples:**
@@ -148,7 +147,7 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
 
 **List**all _essential responsibilities_ that are being delegated by clarifying the **requirement** in each case, and the **anticipated impact** that responding to each requirement will bring.
 
-**Recommended format:** _[requirement]_ and _[anticipated impact]_. If useful, describe the _Driver_ as well: _[current situation], [(anticipated) effect],_ and _[relevance]_.
+**Recommended format:** _[requirement]_ and _[anticipated impact]_. If useful, describe the Driver as well: _[current situation]_, _[(anticipated) effect]_, and _[relevance]_.
 
 
 **Examples:**
@@ -201,7 +200,7 @@ The purpose of work done by the delegatees is to provide value to their **custom
 
 **List** the **direct recipients** of the value delivered by the team (or role keeper). In each case, describe the **deliverables** they receive with enough detail to clearly communicate what is being provided, and clarify the requirement that each deliverable is intended to fulfill.
 
-**Recommended format:** _Customer_ and _Deliverable(s)_. And, unless it’s already clear, information about the Requirement: _[requirement]_ and _[anticipated impact]_.
+**Recommended format:** Customer and Deliverable(s). And, unless it’s already clear, information about the Requirement: _[requirement]_ and _[anticipated impact]_.
 
 **Examples:**
 
@@ -241,7 +240,7 @@ Dependencies refer to who and what the delegatees rely on, besides themselves an
 
 **Describe** those **deliverables** that are essential to the work of the delegatees. Explicitly name **who provides them** in each case (either from within the organization or from the outside world), and clarify the requirement that each deliverable is intended to fulfill.
 
-**Recommended format:** _Provider_ and _Deliverable(s)_. And, unless it’s already clear, add information about the Requirement: _[requirement]_ and _[anticipated impact]_.
+**Recommended format:** Provider and Deliverable(s). And, unless it’s already clear, add information about the Requirement: _[requirement]_ and _[anticipated impact]_.
 
 **Examples**: 
 
@@ -267,11 +266,11 @@ Dependencies refer to who and what the delegatees rely on, besides themselves an
 
     **Provider**: IT department
     
-    **Deliverable**_: IT support for making certain online learning tools available _[requirement]_ that ensure seamless integration and functionality of online learning platforms, _[anticipated impact]_ to facilitate effective digital learning experiences, thereby improving the skills and competencies of employees across the organization.
+    **Deliverable:** IT support for making certain online learning tools available _[requirement]_ that ensure seamless integration and functionality of online learning platforms, _[anticipated impact]_ to facilitate effective digital learning experiences, thereby improving the skills and competencies of employees across the organization.
 
 5. For a research and development team:
     
-    **Provider**:** local university laboratory
+    **Provider**: local university laboratory
     **Deliverable:** testing facility with advanced testing and research facilities, _[requirement]_ to enable thorough experimentation and innovation, crucial for _[anticipated impact]_ developing cutting-edge products and technologies in line with industry standards and market expectations.
 
 **Tips:**
@@ -285,13 +284,11 @@ Dependencies refer to who and what the delegatees rely on, besides themselves an
 
 ### External Constraints
 
-_What are important external constraints to the delegatees’ autonomy and influence? _
+_What are important external constraints to the delegatees’ autonomy and influence?_
 
-External constraints are anything_ that_ limits the delegatees’ freedom to decide and act. They may refer to customer requirements, the outside world, other essential stakeholders in the organization, overarching responsibilities the delegatees may have, or to the preference of the delegator. 
+External constraints are anything that limits the delegatees’ freedom to decide and act. They may refer to customer requirements, the outside world, other essential stakeholders in the organization, overarching responsibilities the delegatees may have, or to the preference of the delegator. 
 
-Some constraints only affect a single domain, others — referred to as **_standard constraints _**— affect several domains (e.g. an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, organization-wide rules, etc). 
-
-**Glossary Entry: Standard Constraints: _constraints that affect several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, business model(s), organization-wide rules, etc)._**
+Some constraints only affect a single domain, others — referred to as **standard constraints** ——affect several domains (e.g. an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, organization-wide rules, etc). 
 
 Some external constraints are fixed while others may be negotiable with stakeholders. They can include:
 
@@ -306,29 +303,20 @@ Some external constraints are fixed while others may be negotiable with stakehol
 
 **Describe** important constraints to the delegatees’ autonomy and influence and if necessary, offer some context to clarify why each constraint exists.
 
-**Recommended format: _Constraint_:_ [requirement]_** and _[anticipated impact]_. If useful, describe the _Driver_ to add context: _[current situation]_
+**Recommended format:** Constraint: _[requirement]_ and _[anticipated impact]_. If useful, describe the Driver to add context: _[current situation]_
+
 
 **Examples:**
 
-
-
-1. **Constraint**: _[requirement] _Ensure that we have clearance from the provider for training external consultants**_ [anticipated impact] _**so that we get the reduced rate for training. \
-**Driver:_ [current situation]_** We have an agreement with the external services provider that external consultants only receive 50% of their hourly fee for attending training provided by our company.
-2. **Constraint: _[requirement] _**Prioritize work on projects with deadlines over time spent on training and development _[anticipated impact]_ so that we can keep to delivery dates agreed upon with customers.  \
-(Driver is obvious in this case)
-3. **Constraint: _[requirement]_ **Monthly expenditure over $15k needs to be approved with the PM_ [anticipated impact]_ to ensure total expenditure for the project remains within the overall budget. \
-(Driver is obvious in this case)
-4. **Constraint: _[requirement] _**Consult with the Architecture Circle on decisions related to software architecture, _[anticipated impact]_ to ensure architectural coherence throughout all software products. \
-(Driver is obvious in this case)
-5. **Constraint: _[requirement]_ **schedule all hands meetings between 15:00 - 18:00 CEST, _[anticipated impact]_ so that team members from the various time-zones can work during typical working hours. \
-(Context is obvious in this case)
-6. **Constraint_: [requirement] _**For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, _[anticipated impact] _so that they can bring in their project management experience**.** \
-**Driver: _[current situation] _**the team does not currently feel confident managing large projects, alone.
-7. **Constraint**: _[requirement]_ Deliver the finished product to the integration team by 01 Feb _[anticipated impact]_ so that they have time to complete integration before then non-negotiable project deadline on 10 March.  \
-(Driver is obvious in this case)
+1. **Constraint**: _[requirement]_ Ensure that we have clearance from the provider for training external consultants, _[anticipated impact]_ so that we get the reduced rate for training. **Driver:** _[current situation]_ We have an agreement with the external services provider that external consultants only receive 50% of their hourly fee for attending training provided by our company.
+2. **Constraint:** _[requirement]_ Prioritize work on projects with deadlines over time spent on training and development _[anticipated impact]_ so that we can keep to delivery dates agreed upon with customers. (Driver is obvious in this case)
+3. **Constraint:** _[requirement]_ Monthly expenditure over $15k needs to be approved with the PM _[anticipated impact]_ to ensure total expenditure for the project remains within the overall budget. (Driver is obvious in this case)
+4. **Constraint:** _[requirement] _Consult with the Architecture Circle on decisions related to software architecture, _[anticipated impact]_ to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
+5. **Constraint:** _[requirement]_ Schedule all hands meetings between 15:00 - 18:00 CEST, _[anticipated impact]_ so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
+6. **Constraint**: _[requirement]_ For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, _[anticipated impact] _so that they can bring in their project management experience. **Driver:** _[current situation]_ the team does not currently feel confident managing large projects, alone.
+7. **Constraint**: _[requirement]_ Deliver the finished product to the integration team by 01 Feb _[anticipated impact]_ so that they have time to complete integration before then non-negotiable project deadline on 10 March. (Driver is obvious in this case)
 
 **Tips:**
-
 
 
 -    For each constraint, clarify what is required and what the anticipated impact of fulfilling the requirement is expected to be. Add further information to clarify the context where useful.
@@ -340,38 +328,32 @@ Some external constraints are fixed while others may be negotiable with stakehol
 
 ### Key Challenges
 
-_What are the most important known (or anticipated) challenges the delegatees might face? _
+_What are the most important known (or anticipated) challenges the delegatees might face?_
 
 Key challenges relate to situations that might significantly impede the delegatees’ ability to successfully account for the domain and where what’s required to deal with those situations is variable or not obvious. Explicitly describing key challenges enables delegatees to monitor and decide how to prepare for and respond to them, should they occur. 
 
 Key challenges include:
-
-
 
 -    risks and vulnerabilities
 -    variables (e.g. weather)
 -    uncertainty and complexity
 -    lack of skills or resources
 
-**Describe** the _Driver:_ the situation that is (or might be) challenging and the (anticipated) effect this would have on the organization. Include information about  how this might impede the ability of the delegatees to successfully account for this domain.
+**Describe** the _Driver_, the situation that is (or might be) challenging and the (anticipated) effect this would have on the organization. Include information about  how this might impede the ability of the delegatees to successfully account for this domain.
 
-**Recommended format:** _Driver:_ _[current situation] _and_ [(anticipated) effect]_
+**Recommended format:** Driver: _[current situation]_ and _[(anticipated) effect]_
 
 **Examples:**
 
-
-
-1. _[current situation] _Changing legal requirements that need to be included in our software are often only announced a few weeks before taking effect_ [anticipated effect] _which can make it difficult to respond to the changes in time.
+1. _[current situation] _Changing legal requirements that need to be included in our software are often only announced a few weeks before taking effect _[anticipated effect]_ which can make it difficult to respond to the changes in time.
 2. _[current situation] _Due to differing priorities, partners are sometimes unavailable when we need their services, _[effect]_ making it difficult to meet project deadlines.
 3. _[current situation]_ Our codebase is old, incoherent and poorly maintained, and we lack the funds to clean up the code. _[effect]_ Therefore it’s hard to estimate how long adding a new feature will take, and changes can lead to bugs and security issues.
 4. _[current situation]_ Customer purchases are highly weather dependent _[effect]_ which makes it difficult to optimize perishable stock and staffing. 
 5. _[current situation] _We’re threatened by an economic crisis, _[anticipated effect] _which could significantly impact our ability to meet our sales target. 
 6. _[current situation] _Some team members have their main responsibilities in other domains _[anticipated effect] _which can sometimes make it difficult for them to free up enough time for work in this domain 
-7. _[current situation]_ Due to cultural differences, there is a diversity of norms and expectations across the different teams_ [effect]_ which has in the past led to miscommunication, conflict and ineffectiveness.
+7. _[current situation]_ Due to cultural differences, there is a diversity of norms and expectations across the different teams _[effect]_ which has in the past led to miscommunication, conflict and ineffectiveness.
 
-**Tips: **
-
-
+**Tips:**
 
 -    There are always some challenges that you need to address. Try to list at least three!
 -    Keep your descriptions objective.
@@ -382,7 +364,7 @@ Key challenges include:
 
 ### Key Resources
 
-_What essential resources can the team (or role keeper) make use of? _
+_What essential resources can the team (or role keeper) make use of?_
 
 Key resources are those resources provided by the organization to delegatees that are essential for them to use to be able to fulfill the requirements of the domain effectively. 
 
@@ -403,8 +385,6 @@ Key resources can include:
 
 **Examples:**
 
-
-
 1. Time allocation for delegatee: 32 hrs per week
 2. Budget for hardware, software licenses and external engineering service providers is provided on request
 3. Budget for yearly training: 2000€ / person. Extension possible on request.
@@ -417,8 +397,7 @@ Key resources can include:
 10. By-weekly mentoring session with external marketing expert
 11. Account with stationary provider
 
-**Tips: **
-
+**Tips:**
 
 
 -    Only describe resources that are specifically allocated for use in this domain. For example, if everyone in the organization is provided with a computer, it’s unnecessary to list it here. However, if delegatees are provided with a laptop while everyone else gets a desktop computer, include the laptops in the list.
@@ -433,30 +412,28 @@ When delegating responsibility for a domain to others, the delegator retains ove
 
 **List** any existing responsibilities related to this domain that the delegator had prior to delegation that they will keep, as well as information about new responsibilities that they take on to support the delegatees.
 
-**Recommended Format:_ Requirement: [requirement] _**and_ [anticipated impact]._ If useful, describe the _Driver _as well: _[current situation], [(anticipated) effect], _and_ [relevance]._
+**Recommended Format:** Requirement: _[requirement]_ and _[anticipated impact]_. If useful, describe the Driver as well: _[current situation]_, _[(anticipated) effect]_, and _[relevance]_.
 
-**Examples: **
+**Examples:**
 
 
-
-1. **Requirement:_ [requirement]_ **Provide training for new team members when necessary, _[anticipated impact]_ to ensure that they are familiar with the processes & tools the team works with.
+1. **Requirement:** _[requirement]_ Provide training for new team members when necessary, _[anticipated impact]_ to ensure that they are familiar with the processes & tools the team works with.
 
     **Driver:** _[current situation]_ The organization regularly integrates new members into existing teams, [effect] and lack of proper training can lead to inefficiencies and errors, [relevance] and an overall decrease in team productivity and quality of work.
 
-2. **Requirement:_ [requirement]_ **Ensure that questions delegatees have throughout the project are answered within 24 hours** _[anticipated impact]_ **to avoid bottlenecks while waiting for a reply.
-3. **Requirement:_ [requirement]_ **Inform delegatees of any relevant news or changes and work with them to update the domain’s design when necessary or helpful.
-4. **Requirement:_ [requirement]_ **Participate in scheduled Peer Review sessions with delegatees, {_anticipated impact]_ to support them with ongoing development and maintaining high standards.
-5. **Requirement:_ [requirement]_ **In case of API changes, prioritize process software development resources to do required modifications, _[anticipated impact]_ to allow automation interfaces to adapt swiftly to changing requirements.
+2. **Requirement:** _[requirement]_ Ensure that questions delegatees have throughout the project are answered within 24 hours _[anticipated impact]_ to avoid bottlenecks while waiting for a reply.
+3. **Requirement:** _[requirement]_ Inform delegatees of any relevant news or changes and work with them to update the domain’s design when necessary or helpful.
+4. **Requirement:** _[requirement]_ Participate in scheduled Peer Review sessions with delegatees, _[anticipated impact]_ to support them with ongoing development and maintaining high standards.
+5. **Requirement:** _[requirement]_ In case of API changes, prioritize process software development resources to do required modifications, _[anticipated impact]_ to allow automation interfaces to adapt swiftly to changing requirements.
 
     **Driver:** _[current situation]_ The technological landscape is rapidly evolving, _[effect]_ and failure to promptly adapt to changes like API updates can lead to system incompatibilities or downtimes.
 
-6. **Requirement:_ [requirement]_ **Proactively advocate for the work of delegatees with C-level and address concerns that they have_ [anticipated impact]_ to build credibility and support early on in the project.
+6. **Requirement:** _[requirement]_ Proactively advocate for the work of delegatees with C-level and address concerns that they have _[anticipated impact]_ to build credibility and support early on in the project.
 
     **Driver:** _[current situation]_ Delegatees often face challenges in having their perspectives and needs understood and prioritized by top-level management, _[effect]_ which can result in misalignment of goals and lack of support for critical projects.
 
 
 **Tips:**
-
 
 -    Describe all responsibilities that the delegator keeps or takes on to support delegatees to successfully account for this domain. This includes responsibilities that may only require a small effort but that make the team's or role keeper's lives easier.
 -    When identifying delegator responsibilities, consider any opportunities for learning, development and support that are helpful for the delegatees.
@@ -477,8 +454,6 @@ For selecting suitable delegatees, and for identifying important areas for train
 
 **Examples:**
 
-
-
 1. Experience in coaching, mentoring and training with individuals and groups around the topics of collaboration, team and or organizational development.
 2. General group facilitation skills
 3. Ability to diagnose and resolve technical issues quickly
@@ -493,8 +468,6 @@ For selecting suitable delegatees, and for identifying important areas for train
 
 **Tips:**
 
-
-
 -    Consider the Primary Driver, Key Responsibilities, Key Deliverables and Key Challenges, and what you already know is useful or necessary to deal with these things effectively.
 -    It’s not always possible or worthwhile to find people with all of the necessary experience and expertise. When this is the case, ensure delegatees have opportunities to develop those competencies and skills or consider external providers and list them as dependencies instead.
 -    Include level of expertise or amount of experience if helpful.
@@ -508,7 +481,7 @@ Key [Metrics](glossary:metric) are statistics that help delegatees monitor the e
 
 **Define** simple and specific metrics that enable you to monitor progress and effectiveness, as well as to spot potential issues or opportunities as they arise. Specify when or how frequently key metrics will be checked, and by whom, and clarify the purpose that meeting this metric should help to fulfill (describe at least the requirement, and if helpful, the driver, too).
 
-**Recommended format:** _Title, Description, Rate, Responsibilities, Threshold_, and_ _Purpose_: (include information about the _Driver: [current situation]_ and [(anticipated) effect]_. And, _Requirement: [requirement]_ and _[anticipated impact]_ as necessary)
+**Recommended format:** Title, Description, Rate, Responsibilities, Threshold, and Purpose (include information about the Driver  (_[current situation]_ and _[(anticipated) effect]_). And, Requirement (_[requirement]_ and _[anticipated impact]_) as necessary.
 
 **Examples:**
 
@@ -523,9 +496,9 @@ Key [Metrics](glossary:metric) are statistics that help delegatees monitor the e
     -   **Rate: **monthly
     -   **Responsibilities**: monitored by HR team
     -   **Threshold**: if the rate for a recruiter is less than the average company retention rate, decide what to do about it in the next Planning Meeting 
-    -   **Purpose**: _[current situation]_ Onboarding new people carries a high cost _[anticipated effect]_ and a misplaced candidate results in wasted time, effort and resources, and the fact that the vacancy will need to be filled again._ [requirement] _Identify which recruiters provide candidates with the highest retention rate,_ [anticipated impact]_ to minimize the risk of new employees leaving.
+    -   **Purpose**: _[current situation]_ Onboarding new people carries a high cost _[anticipated effect]_ and a misplaced candidate results in wasted time, effort and resources, and the fact that the vacancy will need to be filled again. _[requirement]_ Identify which recruiters provide candidates with the highest retention rate, _[anticipated impact]_ to minimize the risk of new employees leaving.
 3. **Disruptions - Rate**
-    -   **Description**: Number of process disruptions because of problems attributed to control hardware/software (data source is the productive process execution system)** **
+    -   **Description**: Number of process disruptions because of problems attributed to control hardware/software (data source is the productive process execution system)
     -   **Rate**: weekly 
     -   **Responsibilities**: Product Owner provides the metric, team monitors the metric 
     -   **Threshold**: an average of less than 1 per month over the last 12 months
@@ -548,14 +521,14 @@ _When and how will you evaluate the effectiveness of the domain’s design and t
 
 Regularly evaluate the outcomes resulting from activity in this domain, as well as the domain’s design, and use what you learn to improve the creation and delivery of value. 
 
-**Describe** a _schedule_ (or frequency) for evaluating the success of the team (or role keeper) in fulfilling the domain’s purpose. Include information about the _activity_ to be used (procedure, process, etc), and _who should participate_ in which parts of the evaluation. Include any_ evaluation criteria_ in addition to the_ key metrics_, as well as _any other relevant aspects_ to keep in mind for the evaluation.
+**Describe** a _schedule_ (or frequency) for evaluating the success of the team (or role keeper) in fulfilling the domain’s purpose. Include information about the _activity_ to be used (procedure, process, etc), and _who should participate_ in which parts of the evaluation. Include any _evaluation criteria_ in addition to the _key metrics_, as well as _any other relevant aspects_ to keep in mind for the evaluation.
 
 Consider using the following processes for evaluation: 
 
--    [Peer Review](section:peer-review] (led by the delegatee(s), with input from the delegator and selected representatives from customers and dependencies)
+-    [Peer Review](section:peer-review) (led by the delegatee(s), with input from the delegator and selected representatives from customers and dependencies)
 -    [Retrospective](section:retrospective)
 
-**Recommended format**: _Frequency_, _Activity, Duration_ and _Participants_
+**Recommended format**: Frequency, Activity, Duration and Participants
 
 **Example (for a team):**
 
@@ -565,7 +538,7 @@ Consider using the following processes for evaluation:
 -    **Monthly retrospective**
     -   Up to 2 hours
     -   Participants: team members, delegator, team coach (as facilitator)
--    **Quarterly <span style="text-decoration:underline;">Peer Review</span>** for delegatees to identify opportunities to improve strategy, domain design, learning requirements and efficacy of approach.
+-    **Quarterly [Peer Review](section:peer-review])** for delegatees to identify opportunities to improve strategy, domain design, learning requirements and efficacy of approach.
     -   Up to 2 hours
     -   Participants: delegator, team members, team coach, facilitator and selected representatives from customers and dependencies
 -    **Quarterly**: **Review strategy** (following the Peer Review)
@@ -600,7 +573,7 @@ Consider including the following information to the domain description:
 When designing a process for evaluation, ensure you consider the following aspects:
 
 
--    The **effectiveness** of the work of delegatees in** fulfilling the purpose** of the domain
+-    The **effectiveness** of the work of delegatees in **fulfilling the purpose** of the domain
 -    The **value** the delegatees brought to the organization by accounting for the domain.
 -    The team’s or role keeper’s **work processes**, and their collaboration with each other, with the delegator, and with the rest of the organization.
 -    The **design of the domain** itself (and potentially the design of other related domains). E.g.: 
