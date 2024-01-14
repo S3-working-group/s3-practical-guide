@@ -110,7 +110,7 @@ You can describe the primary driver using the pattern [Describe Organizational D
 **Describe:**
 
 -   **Primary Driver**: Describe the _current situation_, its _(anticipated or current) effect_, and if it’s not already obvious, the  _relevance_ of this effect for the organization (to clarify why it’s worthwhile or necessary to respond to the situation).
--   **Requirement**: Describe what is _required_ to respond to this situation**,** and what is the _anticipated impact_ of fulfilling the requirement? Include an explanation of how achieving this impact is _relevant_ for responding appropriately to the primary driver, if it’s not already implied.
+-   **Main Requirement**: Describe what is _required_ to respond to this situation**,** as well as what is the _anticipated impact_ of fulfilling the requirement?
 
 **Recommended format:** Primary Driver: _[current situation]_ and _[(anticipated) effect]_, if useful, also describe _[relevance]_. Main Requirement: _[requirement]_ and _[anticipated impact]_.
 
@@ -192,13 +192,13 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
 
 ### Customers and Deliverables
 
-_Whom does this team (or role keeper) deliver value to and what specifically do they provide?_
+_Whom does this team (or role keeper) deliver value to, what specifically do they provide and why?_
 
 The purpose of work done by the delegatees is to provide value to their **customers**. Customers can include those who are paying money for the deliverables provided, or others from inside of the organization who are dependent on these deliverables to do their work. 
 
 **Deliverables** are the _products, services, components and materials_ that delegatees deliver to fulfill their customers’ requirements.
 
-**List** the **direct recipients** of the value delivered by the team (or role keeper). In each case, describe the **deliverables** they receive with enough detail to clearly communicate what is being provided, and clarify the requirement that each deliverable is intended to fulfill.
+**List** the **direct recipients** of the value delivered by the team (or role keeper). In each case, describe the **deliverables** they receive with enough detail to clearly communicate what is being provided, and clarify the **requirement** that each deliverable is intended to fulfill.
 
 **Recommended format:** Customer and Deliverable(s). And, unless it’s already clear, information about the Requirement: _[requirement]_ and _[anticipated impact]_.
 
