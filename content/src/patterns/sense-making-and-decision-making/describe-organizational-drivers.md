@@ -20,8 +20,7 @@ Both individuals and groups can describe organizational drivers. A summary can b
 
 ## How to describe organizational drivers
 
-A simple way to describe an organizational driver is by explaining:  
-
+A simple way to describe an organizational driver is by explaining:
 
 
 * the **current situation** that is being observed, 
@@ -40,7 +39,7 @@ In most cases, drivers can be framed as either a problem to be solved, or an opp
 
 Here is an example of a driver framed as a **problem**: 
 
-[current situation]_Information is unstructured, kept in silos and sometimes unrecorded_, [effect] _leading to people working with missing or outdated information_, [relevance] _which results in ineffectiveness and our clients’ needs being unmet_.  
+[current situation]_Information is unstructured, kept in silos and sometimes unrecorded_, [effect] _leading to people working with missing or outdated information_, [relevance] _which results in ineffectiveness and our clients’ needs being unmet_. 
 
 The same driver framed as an **opportunity**: 
 
@@ -61,7 +60,7 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 _“To resolve local issues, teams currently have autonomy to develop their work and decision-making processes in the way they see fit.”_
 
 
-* Describe the situation you observe, rather than describing assumptions about what might be missing or lacking. For example, avoid phrases like “_teams don’t focus enough on resolving common issues_” or ”_we are lacking coherence between teams_”. This way of framing a situation fails to describe what is actually happening.
+* Describe the situation you observe, rather than describing assumptions about what might be missing or lacking. For example, avoid phrases like “_teams don’t focus enough on resolving common issues_” or ”_we are lacking coherence between teams_”. This way of framing a situation obscures what is actually happening.
 * Be concise and describe the essentials of what is happening, and, if necessary, the context in which it occurs. 
 * Be specific and avoid vague and ambiguous statements (e.g. use “_to resolve local issues_” instead of “_to resolve some issues_”. 
 * Be bjectiveand describe verifiable facts and observations. 
@@ -84,7 +83,7 @@ _“To resolve local issues, teams currently have autonomy to develop their work
 _“…which impedes effective collaboration on handling dependencies between and across domains.”_
 
 
-* Explain why responding to the situation is worthwhile for the organization, by describing  the benefit of interacting with it, or the cost of not doing so: How it help the organization to respond to this situation?  How does, or could it, harm us if we don’t?
+* Explain why responding to the situation is worthwhile for the organization, by describing the benefit of interacting with it, or the cost of not doing so: How would it help the organization to respond to this situation? How would it harm us if we don’t?
 * Sometimes the relevance of responding to the situation for the organization is already obvious and clear, in which case there is no need to add any further information. 
 
 
