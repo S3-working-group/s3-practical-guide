@@ -86,7 +86,7 @@ Consider reviewing the design of the organization’s overall domain and how it�
 
 One way of clarifying an organization’s overall domain is by filling out an [S3 Organization Canvas](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
 
-An organization’s overall domain should be designed with the customers, partners, other stakeholders, and business model in mind. It also needs to factor in environmental constraints (e.g. legal, economic, market, competition)
+An organization’s overall domain should be designed with the customers, partners, other stakeholders, and business model in mind. It also needs to factor in environmental conditions (e.g. legal, or economic constraints, market trends, competition).
 
 Once clarified, regularly evaluate the overall domain of the organization to identify opportunities for improvement and adapt its design when helpful or necessary.
 
@@ -110,7 +110,7 @@ You can describe the primary driver using the pattern [Describe Organizational D
 **Describe:**
 
 -   **Primary Driver**: Describe the _current situation_, its _(anticipated or current) effect_, and if it’s not already obvious, the  _relevance_ of this effect for the organization (to clarify why it’s worthwhile or necessary to respond to the situation).
--   **Main Requirement**: Describe what is _required_ to respond to this situation**,** as well as what is the _anticipated impact_ of fulfilling the requirement?
+-   **Main Requirement**: Describe what is _required_ to respond to this situation, as well as what is the _anticipated impact_ of fulfilling the requirement?
 
 **Recommended format:** Primary Driver: _[current situation]_ and _[(anticipated) effect]_, if useful, also describe _[relevance]_. Main Requirement: _[requirement]_ and _[anticipated impact]_.
 
