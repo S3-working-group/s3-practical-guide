@@ -1,6 +1,21 @@
 # Changelog
 
 
+## Changes 2024-02-08
+
+-   introduced _Requirement_ as a core concept distinct from the _Driver_:
+    -   added an explanation of _Requirement_ to [Drivers and Requirements](section:drivers-and-requirements]
+    -   added new pattern [Determine Requirements](section:determine-requirements)
+    -   updated [Respond to Organizational Drivers](section:respond-to-organizational-drivers)
+    -   updated [Describe Organizational Drivers](section:describe-organizational-drivers): 
+    -   updated [Navigate via Tension](section:navigate-via-tension)
+    -   revised [Proposal Forming](section:proposal-forming), [Consent Decision Making](section:consent-decision-making) and [Driver Mapping](section:driver-mapping)
+-   extended [Clarify and Develop Domains](section:clarify-and-develop-domains) to include a detailed description and  examples for each aspect of a domain description
+-   added an [expample domain description](section:example-domain-description) to the appendix
+-  updated definitions for [Domain](glossary:domain), [Deliverable](glossary:deliverable) and [Organizational driver](glossary:organizational-driver)
+-  added new glossary entries for [Requirement](glossary:requirement), [Standard Constraint](glossary:standard-constraint), [Overall Domain](glossary:overall-domain)
+
+
 ## Changes 2022-04-26
 
 -   added detailed description and new illustrations to [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)   
