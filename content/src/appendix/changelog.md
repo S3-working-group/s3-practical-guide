@@ -11,8 +11,9 @@
     -   updated [Navigate via Tension](section:navigate-via-tension)
     -   revised [Proposal Forming](section:proposal-forming), [Consent Decision Making](section:consent-decision-making) and [Driver Mapping](section:driver-mapping)
 -   extended [Clarify and Develop Domains](section:clarify-and-develop-domains) to include a detailed description and  examples for each aspect of a domain description
+-   added a detailed descripton for each step to [Proposal Forming](section:proposal-forming)
 -   added an [example domain description](section:example-domain-description) to the appendix
--  updated definitions for [Domain](glossary:domain), [Deliverable](glossary:deliverable) and [Organizational driver](glossary:organizational-driver)
+-  updated definitions for [Domain](glossary:domain), [Deliverable](glossary:deliverable) and [Organizational Driver](glossary:organizational-driver)
 -  added new glossary entries for [Requirement](glossary:requirement), [Standard Constraint](glossary:standard-constraint), [Overall Domain](glossary:overall-domain)
 
 
