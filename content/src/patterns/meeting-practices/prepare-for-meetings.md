@@ -6,7 +6,7 @@ Prepare in advance to make meetings more effective.
 
 Some considerations for successfully preparing a meeting:
 
-- clarify and communicate the [driver](glossary:driver) for, and [intended outcome](glossary:intended-outcome) of the meeting
+- clarify and communicate the [driver](glossary:organizational-driver) for, and [intended outcome](glossary:intended-outcome) of the meeting
 - decide who to invite
 - create an agenda
 - schedule the meeting enough in advance, so people have time to prepare

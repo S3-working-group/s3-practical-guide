@@ -19,7 +19,7 @@ Objections are resolved by amending the proposal. **Amendments** can include:
 - take some more time for reflection and then come back to the objection again later.
 - etc.
 
-There’s always an iterative next step of some kind that you can take! Even if a proposal doesn’t fully address the [driver](glossary:driver), reaching agreement about **one or more iterative next steps** is often good enough. It’s also helpful sometimes to break things down into small steps, especially when you’re dealing with complex or complicated situations. 
+There’s always an iterative next step of some kind that you can take! Even if a proposal doesn’t fully address the [driver](glossary:organizational-driver), reaching agreement about **one or more iterative next steps** is often good enough. It’s also helpful sometimes to break things down into small steps, especially when you’re dealing with complex or complicated situations. 
 
 Objections can be resolved by following the process outlined in [Reasoned Decision-Making](section:reasoned-decision-making):
 

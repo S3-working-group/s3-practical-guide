@@ -21,7 +21,7 @@ Not all arguments raised are objections, but they might reveal [concerns](sectio
 
 ## Step 1: Consent to Driver and Requirement
 
-_Make sure the [driver](glossary:driver) and [requirement](glossary:requirement) are summarized clearly enough and that it is relevant for this group to deal with them._
+_Make sure the [driver](glossary:organizational-driver) and [requirement](glossary:requirement) are summarized clearly enough and that it is relevant for this group to deal with them._
 
 Facilitator asks: _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
 
