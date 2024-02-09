@@ -21,7 +21,7 @@ parts:
        - principle-accountability
   - id: making-sense-of-organizations
     parts:
-      - driver
+      - drivers-and-requirements
       - domain
       - objection
       - agreement
@@ -36,6 +36,8 @@ parts:
           - id: navigate-via-tension
             tags: [pattern]
           - id: describe-organizational-drivers
+            tags: [pattern]
+          - id: determine-requirements
             tags: [pattern]
           - id: consent-decision-making
             tags: [pattern]
@@ -239,6 +241,7 @@ parts:
     parts:
       - changelog
       - pattern-index
+      - example-domain-description
       - links
       - license
       - disclaimer
