@@ -1,4 +1,4 @@
-# The Principle of Transparency 
+# The Principle of Transparency
 
 _{{glossary:transparency}}_
 
@@ -12,13 +12,13 @@ Transparency facilitates the ongoing development and maintenance of a coherent a
 
 ## Clarify motivation for (more) transparency
 
-Transparency is a means to an end, not an end in itself, so if you’re looking to increase transparency in your organization, take the time to clarify the reasons why. What are the challenges you are trying to solve by introducing more transparency and/or what are the opportunities you wish to pursue?
+Transparency is a means to an end, not an end in itself, so if you're looking to increase transparency in your organization, take the time to clarify the reasons why. What are the challenges you are trying to solve by introducing more transparency and/or what are the opportunities you wish to pursue?
 
-Introduce more transparency into your organization as a way to support learning and to free people up, not as a way to control them. Use it as a way to improve performance, not leave people feeling unsafe to do anything because they are anxious about being watched. Transparency can enable co-creation and innovation but in a context where failure is treated as negative, rather than an opportunity to learn, it will impede people’s willingness to take risks and experiment.
+Introduce more transparency into your organization as a way to support learning and to free people up, not as a way to control them. Use it as a way to improve performance, not leave people feeling unsafe to do anything because they are anxious about being watched. Transparency can enable co-creation and innovation but in a context where failure is treated as negative, rather than an opportunity to learn, it will impede people's willingness to take risks and experiment.
 
 ## Consider reasons for confidentiality
 
-Be clear about information that is inappropriate to share. While secrecy can be associated with illicit or dubious affairs, there are many legitimate reasons for confidentiality in organizations.  Sometimes secrecy is necessary, for example, protection of people’s personal data and affairs, security of assets or protection of intellectual property that helps an organization achieve its goals.
+Be clear about information that is inappropriate to share. While secrecy can be associated with illicit or dubious affairs, there are many legitimate reasons for confidentiality in organizations.  Sometimes secrecy is necessary, for example, protection of people's personal data and affairs, security of assets or protection of intellectual property that helps an organization achieve its goals.
 
 ## Identify what information is valuable to record and share
 
@@ -33,5 +33,5 @@ Consider carefully what information is worthwhile to record. Valuable informatio
 
 ## Create and maintain a coherent system for recording information
 
-Documenting relevant information in a way that is coherent and accessible is an ongoing task that relies on everyone in the organization playing their part. Developing a system for recording and sharing information and keeping it up to date takes time and effort. Choose tools that make it simple to create, update, and cross-reference records, as well as to search and retrieve information when it’s required. Make clear which information is recorded and updated, by whom and when, and structure records accordingly. Take the time to regularly check through your records, ensure your system remains helpful and keep an archive of historical information for reference.
+Documenting relevant information in a way that is coherent and accessible is an ongoing task that relies on everyone in the organization playing their part. Developing a system for recording and sharing information and keeping it up to date takes time and effort. Choose tools that make it simple to create, update, and cross-reference records, as well as to search and retrieve information when it's required. Make clear which information is recorded and updated, by whom and when, and structure records accordingly. Take the time to regularly check through your records, ensure your system remains helpful and keep an archive of historical information for reference.
 

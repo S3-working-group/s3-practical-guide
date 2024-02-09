@@ -24,7 +24,7 @@ A simple way to describe an organizational driver is by explaining:
 
 -   the **current situation** that is being observed, 
 -   the **(current or anticipated) effect** this situation leads to.
--   and, if it’s not already obvious from the previous two points, why it’s **relevant** for the organization to respond to this situation.
+-   and, if it's not already obvious from the previous two points, why it's **relevant** for the organization to respond to this situation.
 
 Describing these three aspects will typically provide enough information to communicate an organizational driver clearly.
 
@@ -37,11 +37,11 @@ In most cases, organizational drivers can be framed as either a problem to solve
 
 Here is an example of a driver framed as a **problem**: 
 
-(current situation) _Information is unstructured, kept in silos and sometimes unrecorded_, (effect) _leading to people working with missing or outdated information_, (relevance) _which results in ineffectiveness and our clients’ needs being unmet_.
+(current situation) _Information is unstructured, kept in silos and sometimes unrecorded_, (effect) _leading to people working with missing or outdated information_, (relevance) _which results in ineffectiveness and our clients' needs being unmet_.
 
 The same driver framed as an **opportunity**: 
 
-(current situation) _Useful information that can help us build a better understanding of our clients’ needs is distributed throughout the organization_, (anticipated effect) _and figuring out how to record and share it could help us improve our services._
+(current situation) _Useful information that can help us build a better understanding of our clients' needs is distributed throughout the organization_, (anticipated effect) _and figuring out how to record and share it could help us improve our services._
 
 
 ## Tips for describing organizational drivers
@@ -58,7 +58,7 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 "_To resolve local issues, teams currently have autonomy to develop their work and decision-making processes in the way they see fit_."
 
 
--   Describe the situation you observe, rather than describing assumptions about what might be missing or lacking. For example, avoid phrases like _"teams don’t focus enough on resolving common issues_"or "_we are lacking coherence between teams_". This way of framing a situation obscures what is actually happening.
+-   Describe the situation you observe, rather than describing assumptions about what might be missing or lacking. For example, avoid phrases like _"teams don't focus enough on resolving common issues_"or "_we are lacking coherence between teams_". This way of framing a situation obscures what is actually happening.
 -   Be concise and describe the essentials of what is happening, and, if necessary, the context in which it occurs. 
 -   Be specific and avoid vague and ambiguous statements (e.g. use "_to resolve local issues_" instead of "_to resolve some issues_". 
 -   Be objective and describe verifiable facts and observations. 
@@ -73,7 +73,7 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 -   Explain the consequences that you observe or that you expect could result from the situation.
 -   Be as objective and specific as possible.
 -   Be explicit about whether the effect(s) are occurring already, or if they are anticipated.
--   If it’s not obvious, explain how you think the effect is a consequence of the situation.
+-   If it's not obvious, explain how you think the effect is a consequence of the situation.
 
 
 ### 3. Relevance for the organization
@@ -81,7 +81,7 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 "_… which impedes effective collaboration on handling dependencies between and across domains_."
 
 
--   Explain why responding to the situation is worthwhile for the organization, by describing the benefit of interacting with it, or the cost of not doing so: How would it help the organization to respond to this situation? How would it harm us if we don’t? 
+-   Explain why responding to the situation is worthwhile for the organization, by describing the benefit of interacting with it, or the cost of not doing so: How would it help the organization to respond to this situation? How would it harm us if we don't? 
 -   Sometimes the relevance of responding to the situation for the organization is already obvious and clear, in which case there is no need to add any further information. 
 
 
@@ -89,12 +89,12 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 
 Effect is already occurring:
 
--   (current situation) _Information is unstructured, kept in silos and sometimes unrecorded_, (current effect) _leading to people’s inability to support each other, and understand and contribute to the bigger picture_, (relevance) _which impedes our ability to effectively do our work_.
--   (current situation) _We spend 25% of our work hours on admin work_ (effect) _and this is leading to slow response time for customer requests and a growing number of complaints._ (relevance) _We’re starting to develop a bad reputation and run the risk of losing customers and compromising future sales._
+-   (current situation) _Information is unstructured, kept in silos and sometimes unrecorded_, (current effect) _leading to people's inability to support each other, and understand and contribute to the bigger picture_, (relevance) _which impedes our ability to effectively do our work_.
+-   (current situation) _We spend 25% of our work hours on admin work_ (effect) _and this is leading to slow response time for customer requests and a growing number of complaints._ (relevance) _We're starting to develop a bad reputation and run the risk of losing customers and compromising future sales._
 
 Effect is anticipated:
 
--   (current situation) _We’re preparing to recruit five new members into the development teams_, (anticipated effect) _and a lack of relevant training could lead to inefficiencies and errors_, (relevance) _and an overall decrease in team productivity and quality of work_.
+-   (current situation) _We're preparing to recruit five new members into the development teams_, (anticipated effect) _and a lack of relevant training could lead to inefficiencies and errors_, (relevance) _and an overall decrease in team productivity and quality of work_.
 
 Effect is already occurring and relevance is implicit:
 

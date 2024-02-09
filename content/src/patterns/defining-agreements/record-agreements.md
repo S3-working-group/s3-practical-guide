@@ -15,7 +15,7 @@ Keep records of agreements up to date, e.g. in a [logbook](glossary:logbook).
 
 Record agreements with adequate detail so that important information can be recalled later.
 
-At the very least include a summary of the driver, a description of what’s been agreed, who is responsible for what, evaluation criteria and a review date.
+At the very least include a summary of the driver, a description of what's been agreed, who is responsible for what, evaluation criteria and a review date.
 
 Depending on the scope and significance of the agreement, consider including all of the following:
 

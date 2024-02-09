@@ -41,7 +41,7 @@ Depending on the context, a team might make governance decisions:
 -   in a one-off meeting to deal with a specific topic
 -   in other types of meetings such as product meetings, [planning meetings](section:planning-and-review-meetings) or [retrospectives](section:retrospective), etc.
 
-Wherever and whenever you make governance decisions, one thing worth considering is [documenting them somehow](section:record-agreements). This way you’ll be able to remember what was agreed, so will others, and you’ll have something to come back to when it’s time to review.
+Wherever and whenever you make governance decisions, one thing worth considering is [documenting them somehow](section:record-agreements). This way you'll be able to remember what was agreed, so will others, and you'll have something to come back to when it's time to review.
 
 
 ## Related Concepts

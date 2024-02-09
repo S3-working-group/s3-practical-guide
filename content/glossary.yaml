@@ -38,7 +38,7 @@ terms:
   check-in:
     name: Check-In
     definition: 
-    glossary: A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs. 
+    glossary: A brief disclosure where you share something about what's up for you and how you are, revealing thoughts, feelings, distractions or needs. 
   complexity:
     name: Complexity
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
@@ -82,12 +82,12 @@ terms:
     glossary: A distinct area of responsibility and authority within an organization.
   driver:
     name: Driver
-    definition: A **driver** is a person’s or a group's motive for responding to a specific situation.
-    glossary: A person’s or a group's motive for responding to a specific situation.
+    definition: A **driver** is a person's or a group's motive for responding to a specific situation.
+    glossary: A person's or a group's motive for responding to a specific situation.
   effectiveness:
     name: Effectiveness (principle)
     definition:
-    glossary: "**Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources."
+    glossary: "**Devote time only to what brings you closer towards achieving your organization's overall objectives**, so that you can make the best use of your limited time, energy and resources."
   empiricism:
     name: Empiricism (principle)
     definition:
@@ -159,8 +159,8 @@ terms:
     glossary: A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.
   organizational-driver:
     name: Organizational Driver
-    definition: An **organizational driver** is any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).
-    glossary: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).
+    definition: An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).
+    glossary: Any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).
   overall-domain:
     name: Overall Domain
     definition: The **overall domain** of an organization defines the organization's purpose, overall strategy, business model(s), and other standard constraints.

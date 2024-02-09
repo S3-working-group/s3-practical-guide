@@ -2,11 +2,11 @@
 
 _{{glossary:consent}}_
 
-Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions and activity through the lens of different people’s perspectives helps to identify reasons why a decision or activity could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
+Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions and activity through the lens of different people's perspectives helps to identify reasons why a decision or activity could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
 
 Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough or that there are worthwhile ways to improve? 
 
-Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. Instead it’s useful to make decisions that, over time, free people up as much as possible to decide and act to create value by themselves. It does however require adequate [transparency](section:principle-transparency) and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see [the Principle of Equivalence](section:principle-equivalence)).
+Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. Instead it's useful to make decisions that, over time, free people up as much as possible to decide and act to create value by themselves. It does however require adequate [transparency](section:principle-transparency) and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see [the Principle of Equivalence](section:principle-equivalence)).
 
 ## Invite dissent
 
@@ -22,11 +22,11 @@ When a group or organization adopts the principle of consent, supremacy shifts f
 
 ## Distinguish between opinion or preference, and objections
 
-Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible [objections](section:objection), but also by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it’s typically a good idea to [test arguments qualify as objections](section:test-arguments-qualify-as-objections) and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias. 
+Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible [objections](section:objection), but also by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it's typically a good idea to [test arguments qualify as objections](section:test-arguments-qualify-as-objections) and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias. 
 
-Arguments that qualify as objections — at least as far as stakeholders can tell — help a group in directing their effort toward making changes in those areas where it’s necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
+Arguments that qualify as objections — at least as far as stakeholders can tell — help a group in directing their effort toward making changes in those areas where it's necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
 
-Adopting the principle of consent shifts the aim of decision-making towards identifying a solution that’s good enough for now, and where there are no obvious worthwhile improvements that would justify spending more time. This approach is far more effective than trying to arrive at consensus with unanimity, where the aim is to accommodate everyone’s personal preference and ideas.
+Adopting the principle of consent shifts the aim of decision-making towards identifying a solution that's good enough for now, and where there are no obvious worthwhile improvements that would justify spending more time. This approach is far more effective than trying to arrive at consensus with unanimity, where the aim is to accommodate everyone's personal preference and ideas.
 
 ## Integrate learning from objections
 
@@ -40,6 +40,6 @@ Adopting the principle of consent in a team, or in the organization as a whole, 
 
 1. In the absence of objections to an agreement, I intend to follow through on that agreement to the best of my ability.
 2. As I become aware of them, I will share any possible objections to (proposed) agreements and activity, with those directly responsible for them.
-3. I’ll consider objections to proposals, agreements and activity that I’m responsible for, and will work to resolve the objection if I can.
-4. I’ll actively consider agreements that are due review, to check for any possible objections.
+3. I'll consider objections to proposals, agreements and activity that I'm responsible for, and will work to resolve the objection if I can.
+4. I'll actively consider agreements that are due review, to check for any possible objections.
 

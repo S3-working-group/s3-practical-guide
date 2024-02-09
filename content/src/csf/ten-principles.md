@@ -19,4 +19,4 @@
 
 **Principle 9 – Intentionally Develop Culture:** _Collaborate on fostering a cooperative culture where everyone can achieve their fuller potential, so that you build and maintain an engaging and productive work environment._
 
-**Principle 10 – Build Shared Mental Models:** _Invest in building shared mental models, so that everyone can engage in meaningful dialogue about what’s happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._
+**Principle 10 – Build Shared Mental Models:** _Invest in building shared mental models, so that everyone can engage in meaningful dialogue about what's happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._

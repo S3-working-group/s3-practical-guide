@@ -40,13 +40,13 @@ _Check the driver and requirement is summarized clearly enough and is relevant f
 
 Facilitator asks: _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
 
-This first step is simply about ensuring that the driver is summarized clearly enough and that it’s relevant for those who are involved to respond to it. Once the driver has been accepted, you’ll have the chance to ask further questions and learn more in the next step
+This first step is simply about ensuring that the driver is summarized clearly enough and that it's relevant for those who are involved to respond to it. Once the driver has been accepted, you'll have the chance to ask further questions and learn more in the next step
 
 As a general recommendation, aim to complete this step with meeting attendees asynchronously, prior to meeting. This will give you the opportunity to make any refinements in advance and can save wasting precious meeting time.
 
 **If the driver is not described clearly enough**: take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer forming the proposal until the driver is clear.
 
-**If the driver is not relevant for this group:** pass it on to the appropriate person or team, or, if it’s decided that this is not an organizational driver at all, discard it.
+**If the driver is not relevant for this group:** pass it on to the appropriate person or team, or, if it's decided that this is not an organizational driver at all, discard it.
 
 **If the requirement is considered to be unsuitable:** hear the argument(s) and if they qualify as objections, resolve them before considering the proposal.
 
@@ -55,7 +55,7 @@ As a general recommendation, aim to complete this step with meeting attendees as
 
 _Deepen individual and shared understanding of the driver and requirement._
 
-The purpose of this step is to deepen your understanding, individually and as a group, of the situation and what’s been determined as required to address it. You are looking back in time and until the present moment, to understand the situation.
+The purpose of this step is to deepen your understanding, individually and as a group, of the situation and what's been determined as required to address it. You are looking back in time and until the present moment, to understand the situation.
 
 **Facilitator asks**: _Any other (essential) information you need to know about the driver or requirement?_
 
@@ -74,7 +74,7 @@ Ask whatever questions you need, to be sure you understand enough about:
 
 **Tips for everyone:**
 
--   Prioritize your questions in your mind, in case there isn’t time to ask or answer them all.
+-   Prioritize your questions in your mind, in case there isn't time to ask or answer them all.
 -   If you don't have a question, then when it comes to your turn, say "pass".
 -   Keep both questions and answers brief. Avoid preamble and aim to stay focused on each question in turn. 
 -   Keep any conversation to a minimum and avoid getting into discussion. 
@@ -86,11 +86,11 @@ Ask whatever questions you need, to be sure you understand enough about:
 
 _Collect any considerations you have in relation to possible solutions. Record them in the form of questions._
 
-Before jumping into ideas about how to fulfill the requirement, it’s useful to consider important constraints and specific facts that might inform the generation of ideas (which will take place in step 6). It’s also helpful to stimulate creative thinking. This is all covered in steps 3 and 4.
+Before jumping into ideas about how to fulfill the requirement, it's useful to consider important constraints and specific facts that might inform the generation of ideas (which will take place in step 6). It's also helpful to stimulate creative thinking. This is all covered in steps 3 and 4.
 
-**Facilitator asks:** _What questions come up for you when you’re thinking about possible solutions?_
+**Facilitator asks:** _What questions come up for you when you're thinking about possible solutions?_
 
-**You’re looking for two types of questions:** Information gathering questions and generative questions.
+**You're looking for two types of questions:** Information gathering questions and generative questions.
 
 **Information gathering questions**
 
@@ -115,7 +115,7 @@ Examples:
 
 **Solutions disguised as questions**
 
-There’s a third type of question that’s better to avoid at this stage: solutions disguised as questions, like "_could we use tool X to solve this?_" or "_could we raise funds through an open campaign?_"
+There's a third type of question that's better to avoid at this stage: solutions disguised as questions, like "_could we use tool X to solve this?_" or "_could we raise funds through an open campaign?_"
 
 Such questions invite listeners to _converge_ on an idea, but in this step of Proposal Forming, we actually want to keep the field open (_divergent_) for as many creative ideas as possible. Specific Ideas about solutions are shared in step 6.
 
@@ -126,16 +126,16 @@ If you do come across a solution disguised as a question, have a go at reformula
 
 -   Begin by giving people a few minutes to reflect for themselves and record their considerations as questions on sticky notes. 
 -   Once the time is up, use rounds to hear 1 question from each person at a time. Go in rounds until all questions are harvested. 
--   Remember: you don’t answer any questions in this step.
+-   Remember: you don't answer any questions in this step.
 
 
 **Tips for everyone:**
 
 
 -   Allocate two areas (columns) on your (digital) board, one for information gathering questions and the other for generative questions.
--   When it’s your turn, add one of your questions to the board as you read it out loud. You’ll need to decide in which column to place it. If in doubt, add it to the "info gathering" column. You can talk about it later. 
--   Use the "_Bingo_" and "_Sort-of Bingo_" technique, to identify and cluster similar considerations together: When you have the same question, say "_Bingo_", there is no need to repeat what’s on your sticky note. When you have a related question, say "S_ort-of-Bingo_" and jump in and add the additional details.
--   Avoid discussing questions in this step, unless it’s necessary for understanding the question.
+-   When it's your turn, add one of your questions to the board as you read it out loud. You'll need to decide in which column to place it. If in doubt, add it to the "info gathering" column. You can talk about it later. 
+-   Use the "_Bingo_" and "_Sort-of Bingo_" technique, to identify and cluster similar considerations together: When you have the same question, say "_Bingo_", there is no need to repeat what's on your sticky note. When you have a related question, say "_Sort-of-Bingo_" and jump in and add the additional details.
+-   Avoid discussing questions in this step, unless it's necessary for understanding the question.
 -   In the case of a solution disguised as a question, rephrase the question and/or bring it up in Step 6 when you collect ideas. 
 -   To increase meeting effectiveness, you can also prepare some of these questions prior to the meeting, as part of your preparation.
 
@@ -146,19 +146,19 @@ _Gather any information regarding constraints and specific details that are wort
 
 Having collected and visualized all of the information gathering and generative questions, answer as many information gathering questions as you can. 
 
-**Note:** Don’t attempt to answer the generative questions in this step. This happens in step 6 when you collect ideas.
+**Note:** Don't attempt to answer the generative questions in this step. This happens in step 6 when you collect ideas.
 
-**Facilitator:** Ask those present to answer whatever questions they can and record the answers under the question, (on the same sticky note if that’s what you used). Learning that a question cannot be answered by those present is also useful information. 
+**Facilitator:** Ask those present to answer whatever questions they can and record the answers under the question, (on the same sticky note if that's what you used). Learning that a question cannot be answered by those present is also useful information. 
 
 Information gained in this step informs people in making appropriate suggestions for solutions in the next round. Important information gathering questions that cannot be answered now might indicate the need to address them somehow in the proposal later.
 
 **Note:** In some cases you might even pause the Proposal Forming process at this stage, to allow time to answer important information gathering questions before continuing to step 5 another day.
 
-Here’s some tips on how to do this step:  
+Here's some tips on how to do this step:  
 
 -   Everyone gather around the board and begin writing down any relevant answers on the sticky notes with the questions 
 -   Have any dialogue necessary to clarify answers.
--   The answer can also be "_we don’t know_".
+-   The answer can also be "_we don't know_".
 -   If you notice there are many possible answers to a question, move it to the generative column instead.
 -   Record any other generative questions that come up, including rephrasing information gathering questions if required:
 
@@ -187,7 +187,7 @@ _Generate and record ideas about how to respond to fulfill the determined requir
 
 In this step, everyone shares ideas about how to fulfill the determined requirement. This can include ideas that might provide a whole solution, partial solutions, iterative next steps and suggestions about how to respond to any of the prioritized generative questions. 
 
-**Facilitator says:** _Coming back to the driver for this proposal, mindful of all we’ve learned so far, and considering the priority considerations we’ve identified, please take some time now to come up with ideas about how we can respond to this driver._
+**Facilitator says:** _Coming back to the driver for this proposal, mindful of all we've learned so far, and considering the priority considerations we've identified, please take some time now to come up with ideas about how we can respond to this driver._
 
 **Tips for the facilitator:**
 
@@ -234,7 +234,7 @@ _The Tuners design a proposal._
 
 A well written proposal usually includes:
 
--   the driver it responds to and the requirement it’s intended to fulfill. 
+-   the driver it responds to and the requirement it's intended to fulfill. 
 -   the proposal text - what, how, rationale, etc.
 -   who will be responsible for what - for overseeing its application / implementation.
 -   evaluation date or frequency - when the future agreement will be reviewed.
@@ -245,7 +245,7 @@ When developing the proposal it is often enough to design a (few) viable and ite
 
 In any case, consider setting an early evaluation date to review progress and outcomes, and to develop next steps. 
 
-Of course, it’s sometimes necessary to develop a comprehensive proposal from the start but whenever possible, aim to break it down into iterative steps, so you can learn fast and evolve your agreement based on what you learn.
+Of course, it's sometimes necessary to develop a comprehensive proposal from the start but whenever possible, aim to break it down into iterative steps, so you can learn fast and evolve your agreement based on what you learn.
 
 **Tuners, note:** When writing down the proposal, aim to keep your explanation clear and concise. Describe it in a way that maximizes the potential that others will understand it without needing further explanation.
 

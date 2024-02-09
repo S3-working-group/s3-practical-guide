@@ -25,10 +25,10 @@ _Make sure the [driver](glossary:organizational-driver) and [requirement](glossa
 
 Facilitator asks: _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
 
-**Note:** As a general recommendation, aim to complete this step with meeting attendees asynchronously, [prior to the meeting](section:prepare-for-meetings). This will give you the opportunity to make any refinements in advance and save wasting precious meeting time. However, in a case where someone is presenting a proposal to a group of stakeholders who were not involved in creating it, or if there are people who are only now joining the decision-making process, check everyone understands the driver and requirement for the proposal, and make sure that it’s described clearly enough, the requirement is considered to be suitable and it’s relevant for those present to deal with this, before considering the proposal itself.
+**Note:** As a general recommendation, aim to complete this step with meeting attendees asynchronously, [prior to the meeting](section:prepare-for-meetings). This will give you the opportunity to make any refinements in advance and save wasting precious meeting time. However, in a case where someone is presenting a proposal to a group of stakeholders who were not involved in creating it, or if there are people who are only now joining the decision-making process, check everyone understands the driver and requirement for the proposal, and make sure that it's described clearly enough, the requirement is considered to be suitable and it's relevant for those present to deal with this, before considering the proposal itself.
 
 -   If the driver is not described clearly enough, take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer considering the proposal, until the driver is clear.
--   If the driver is not relevant for this group, pass it on to the appropriate person or team, or, if it’s decided that this is not an organizational driver at all, discard it.
+-   If the driver is not relevant for this group, pass it on to the appropriate person or team, or, if it's decided that this is not an organizational driver at all, discard it.
 -   If the requirement is considered to be unsuitable, hear the argument(s) and if they qualify as objections, resolve them before considering the proposal.
 
 

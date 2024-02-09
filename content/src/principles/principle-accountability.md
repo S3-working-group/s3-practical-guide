@@ -12,13 +12,13 @@ The promise we make to take responsibility for things that need doing, creates a
 
 The consequences of our action or inaction will affect the organization in some way, so by becoming part of an organization we are taking some responsibility for the wellbeing of the whole. Many responsibilities within an organization are hard to anticipate, are undefined and are undelegated. Therefore when members of an organization recognize that they _share accountability_ for the organization as a whole, they are more inclined to step up, bring attention to important issues, and take responsibility for things when needed. Problems and opportunities are more likely to be acknowledged and dealt with and you reduce the risk of developing a culture of looking the other way, or worse, a culture of blame. 
 
-Many responsibilities are typically distributed throughout an organization by way of [delegation](section:domain), meaning that people take responsibility for specific work and decision-making. Whenever a responsibility is delegated by one party (the [delegator](glossary:delegator)) to another party (the [delegatee](glossary:delegatee)), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
+Many responsibilities are typically distributed throughout an organization by way of [delegation](section:domain), meaning that people take responsibility for specific work and decision-making. Whenever a responsibility is delegated by one party (the [delegator](glossary:delegator)) to another party (the [delegatee](glossary:delegatee)), accountability for results is shared between both parties. This is because either parties' choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
 
-While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their [domain](glossary:domain), regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
+While it's typically productive for delegatee(s) to take the lead in deciding how to take care of their [domain](glossary:domain), regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
 
-When people consider themselves accountable only for those things that impact their immediate sphere of responsibility, many of the things that would require attention but have not been delegated to anyone in particular, or that appear to be someone else’s problem to solve, would get missed.
+When people consider themselves accountable only for those things that impact their immediate sphere of responsibility, many of the things that would require attention but have not been delegated to anyone in particular, or that appear to be someone else's problem to solve, would get missed.
 
-Whenever you see an important issue, make sure it’s taken care of, either by bringing it to the attention of others who will deal with it, or by dealing with it yourself. 
+Whenever you see an important issue, make sure it's taken care of, either by bringing it to the attention of others who will deal with it, or by dealing with it yourself. 
 
 
 ## Make the hierarchy of accountability explicit
@@ -29,7 +29,7 @@ Whatever your particular organizational context, making the hierarchy of account
 
 ## Move from "holding to account" to self-accountability
 
-The principle of accountability applies to everyone. It promotes a shift from being held to account by someone—which often leads to a culture of fear and blame—towards a culture of self-accountability where everyone acknowledges the impact of their actions and inaction on others, and on the system as a whole, and acts accordingly. In your relationships with others, it relates to making and following through on commitments you make, managing expectations, doing what you agree to and answering for when you don’t. 
+The principle of accountability applies to everyone. It promotes a shift from being held to account by someone—which often leads to a culture of fear and blame—towards a culture of self-accountability where everyone acknowledges the impact of their actions and inaction on others, and on the system as a whole, and acts accordingly. In your relationships with others, it relates to making and following through on commitments you make, managing expectations, doing what you agree to and answering for when you don't. 
 
 
 ## Create conditions that enable accountability to thrive
@@ -42,11 +42,11 @@ Merely clarifying what people can and cannot do is not enough to encourage a cul
 
 ## Make implicit responsibilities explicit
 
-When responsibilities are unclear, it can lead to mistaken assumptions about who is responsible for what, double work, people crossing important boundaries, or failing to take action in response to important situations. At the same time, when clarifying responsibilities, it’s important to avoid over-constraining people because doing so limits their ability to make important decisions, innovate and act. This leads to a reduction in their willingness to accept accountability. 
+When responsibilities are unclear, it can lead to mistaken assumptions about who is responsible for what, double work, people crossing important boundaries, or failing to take action in response to important situations. At the same time, when clarifying responsibilities, it's important to avoid over-constraining people because doing so limits their ability to make important decisions, innovate and act. This leads to a reduction in their willingness to accept accountability. 
 
-Too much specificity or too much ambiguity around the scope of authority people have to influence can lead to hesitation and waste. And in the worst case it can mean that important things don’t get dealt with at all. 
+Too much specificity or too much ambiguity around the scope of authority people have to influence can lead to hesitation and waste. And in the worst case it can mean that important things don't get dealt with at all. 
 
-[Clarifying domains](section:clarify-and-develop-domains) provides a way of explicitly delineating areas of responsibilities and defining where the edge to people’s autonomy lies. 
+[Clarifying domains](section:clarify-and-develop-domains) provides a way of explicitly delineating areas of responsibilities and defining where the edge to people's autonomy lies. 
 
 ## Encourage self-accountability
 
@@ -55,7 +55,7 @@ To encourage a culture with a high level of self-accountability, do your part in
 -   Act within the constraints of any agreements governing domains you are responsible for, that includes agreements related to the organization itself, to the teams you are part of, and to the roles you keep.
 -   Act in accordance with any explicitly defined organizational values.
 -   Be transparent and proactive in communicating with those you share accountability with, if you realize that what you agreed to is not the best course of action.
--   Find others who can help you if you discover you’re unable to take care of your responsibilities.
+-   Find others who can help you if you discover you're unable to take care of your responsibilities.
 -   Break agreements when you are certain the benefit to the organization outweighs the cost of waiting to amend that agreement first. And take responsibility for any consequences, including following up as soon as possible with those affected.
 -   Speak up if you disagree with something or think it can be improved in a worthwhile way, by raising possible objections as soon as you become aware of them.
 -   Be proactive in responding to situations that could help or harm the organization, either by dealing with them yourself directly, or by finding the people who can, and letting them know.
