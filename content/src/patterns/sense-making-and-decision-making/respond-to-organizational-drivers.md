@@ -23,11 +23,11 @@ Here’s a series of steps you can take which will support you to make the best 
 
 ## Step 1: Confirm Relevance
 
-As a role keeper or team, before responding to a driver, it is essential to verify both that the driver is relevant_ for the organization_ to respond to (i.e. it is in fact an _organizational driver_), **and** that it’s yours or your team’s responsibility to deal with it, or at least, that your doing so is beneficial and that it will cause no impediment or harm.
+As a role keeper or team, before responding to a driver, it is essential to verify both that the driver is relevant _for the organization_ to respond to (i.e. it is in fact an _organizational driver_), **and** that it’s yours or your team’s responsibility to deal with it, or at least, that your doing so is beneficial and that it will cause no impediment or harm.
 
 If you think that a driver is relevant, but it’s someone else’s responsibility to deal with it, pass it on to them instead (see also [Navigate via Tension](section:navigate-via-tension)). 
 
-To keep track of new drivers that you become aware of (or that others identify and pass on to you) it’s useful that for each domain you set up a dedicated place to receive them, such as a column in a kanban board called “inbox” or “incoming” where information about potentially relevant drivers can be placed.
+To keep track of new drivers that you become aware of (or that others identify and pass on to you) it’s useful that for each domain you set up a dedicated place to receive them, such as a column in a kanban board called "inbox" or "incoming" where information about potentially relevant drivers can be placed.
 
 
 ## Step 2: Determine Priority
@@ -43,13 +43,12 @@ After establishing that a driver is both relevant and a priority, it’s helpful
 
 {{define:requirement}}
 
-In some cases, the requirement is already clear, because there is an existing agreement that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern [Determine Requirement](section:determine-requirement)for guidance. 
+In some cases, the requirement is already clear, because there is an existing agreement that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern [Determine Requirement](section:determine-requirement) for guidance. 
 
 
 ## Step 4: Agree on how to fulfill the requirement
 
 Fulfilling a requirement can include: 
-
 
 -   direct action ([operations](glossary:operations))
 -   organizing how work will be done 

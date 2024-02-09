@@ -1,4 +1,4 @@
-# The Principle of Effectiveness 
+# The Principle of Effectiveness
 
 _{{glossary:effectiveness}}_
 
@@ -17,7 +17,7 @@ There might be many ways to go about achieving your objectives and sometimes you
 
 ## Aim for being effective in an efficient way
 
-Effectiveness is about achieving the desired result, while efficiency is about doing things with the least waste of your effort, resources and time. It is entirely possible to do the “wrong” thing very efficiently, so before optimizing for efficiency, ensure the outcome is what you intended. Only then look for worthwhile improvements to produce the same outcome in a more efficient manner. 
+Effectiveness is about achieving the desired result, while efficiency is about doing things with the least waste of your effort, resources and time. It is entirely possible to do the "wrong" thing very efficiently, so before optimizing for efficiency, ensure the outcome is what you intended. Only then look for worthwhile improvements to produce the same outcome in a more efficient manner. 
 
 ## Consider the bigger picture, monitor, evaluate and learn
 
@@ -27,7 +27,7 @@ There are scales of effectiveness (and efficiency) that can only be appreciated 
 
 In complex environments it is sometimes hard to figure out what effectiveness would actually mean. Consider the perspective of others, even if you are making a decision for yourself.  Make the most of experience and expertise distributed throughout your organization and reach out to people with alternative points of view. Running your ideas past others can help you to avoid consequences that you’d rather avoid, and identify worthwhile ways to improve.
 
-Decide how you will measure effectiveness, and if you’re collaborating with others, develop and maintain a shared understanding of what this will mean. Having established a clear “_why_” and defined the outcome you intend to achieve, consider how you will measure results in a way that allows you to see how you’re progressing (and whether anything you are doing is useful at all!)
+Decide how you will measure effectiveness, and if you’re collaborating with others, develop and maintain a shared understanding of what this will mean. Having established a clear "_why_" and defined the outcome you intend to achieve, consider how you will measure results in a way that allows you to see how you’re progressing (and whether anything you are doing is useful at all!)
 
 Effectiveness can sometimes only be determined in retrospect. Pay attention to and reflect on the consequences of your actions,  and then use what you learn to improve your effectiveness next time. 
 

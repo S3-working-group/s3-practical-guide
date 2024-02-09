@@ -67,7 +67,7 @@ _Consider the various actors and describe what is needed: what do they need in c
 
 -   Write each suggestion on a separate sticky note (requirement card)
 -   Describe the requirement as well as the anticipated impact of fulfilling the requirement
--   Use the format _“We/they need … so that …”_
+-   Use the format _"We/they need … so that …"_
 -   Add the name of the actor in the top left corner of the card
 -   Add your name in the top right corner of the card
 

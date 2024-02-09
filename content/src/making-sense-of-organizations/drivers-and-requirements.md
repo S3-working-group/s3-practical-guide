@@ -3,7 +3,7 @@
 
 {{define:organizational-driver}}
 
-{{define:requirement:}}
+{{define:requirement}}
 
 Identifying and interacting with situations that warrant some kind of response is a fundamental aspect of everyone’s working day in an organization. 
 

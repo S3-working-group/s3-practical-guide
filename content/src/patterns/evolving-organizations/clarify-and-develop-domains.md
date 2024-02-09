@@ -186,7 +186,7 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
 -    Key Responsibilities inform, and are informed by, various other aspects of a domain’s design.  Therefore, while describing those other aspects, you will often find things that need to be added or revised, in this section documenting Key Responsibilities.
 -    If the organizational driver behind a key responsibility is unclear, describe this as well to add context. Doing so helps to ensure that the reason for fulfilling each of these requirements is clear.
 -    Don’t describe the tasks that the delegatees are taking care of, but rather the requirements that those tasks are meant to fulfill. 
--    Describe the anticipated impact of fulfilling each requirement in a way that allows you to define specific metrics to assess whether or not that impact has been achieved. For example, say, _“… so that customers return and recommend our products to others” _rather than _“… so that our customers are happy”_.
+-    Describe the anticipated impact of fulfilling each requirement in a way that allows you to define specific metrics to assess whether or not that impact has been achieved. For example, say, "_… so that customers return and recommend our products to others_" rather than "_… so that our customers are happy_".
 -    If you mention or imply specific deliverables in the description of certain Key Responsibilities, describe those deliverables explicitly in the section about Customers and Deliverables, as well. 
 
 
@@ -313,14 +313,13 @@ Some external constraints are fixed while others may be negotiable with stakehol
 3. **Constraint:** _[requirement]_ Monthly expenditure over $15k needs to be approved with the PM _[anticipated impact]_ to ensure total expenditure for the project remains within the overall budget. (Driver is obvious in this case)
 4. **Constraint:** _[requirement] _Consult with the Architecture Circle on decisions related to software architecture, _[anticipated impact]_ to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
 5. **Constraint:** _[requirement]_ Schedule all hands meetings between 15:00 - 18:00 CEST, _[anticipated impact]_ so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
-6. **Constraint**: _[requirement]_ For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, _[anticipated impact] _so that they can bring in their project management experience. **Driver:** _[current situation]_ the team does not currently feel confident managing large projects, alone.
+6. **Constraint**: _[requirement]_ For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, _[anticipated impact]_ so that they can bring in their project management experience. **Driver:** _[current situation]_ the team does not currently feel confident managing large projects, alone.
 7. **Constraint**: _[requirement]_ Deliver the finished product to the integration team by 01 Feb _[anticipated impact]_ so that they have time to complete integration before then non-negotiable project deadline on 10 March. (Driver is obvious in this case)
 
 **Tips:**
 
-
 -    For each constraint, clarify what is required and what the anticipated impact of fulfilling the requirement is expected to be. Add further information to clarify the context where useful.
--    Describe in detail those constraints that are specific to this domain. Link to information about **standard constraints **that are also relevant to other domains as well, or to the whole organization.
+-    Describe in detail those constraints that are specific to this domain. Link to information about **standard constraints** that are also relevant to other domains as well, or to the whole organization.
 -    If the reason why the constraint exists is unclear, provide some context by describing (or referencing) the organizational driver (current situation) behind the constraint.
 -    Certain external constraints may lead to key challenges for the delegatees.
 -    Constraints within the company should enable organizational effectiveness overall. If an internal constraint impedes effectiveness, it’s worth reviewing if and how it can be changed. External constraints may or may not directly support organizational effectiveness but they need to be adhered to regardless (because the organization is powerless to change it).
@@ -345,12 +344,12 @@ Key challenges include:
 
 **Examples:**
 
-1. _[current situation] _Changing legal requirements that need to be included in our software are often only announced a few weeks before taking effect _[anticipated effect]_ which can make it difficult to respond to the changes in time.
-2. _[current situation] _Due to differing priorities, partners are sometimes unavailable when we need their services, _[effect]_ making it difficult to meet project deadlines.
+1. _[current situation]_ Changing legal requirements that need to be included in our software are often only announced a few weeks before taking effect _[anticipated effect]_ which can make it difficult to respond to the changes in time.
+2. _[current situation]_ Due to differing priorities, partners are sometimes unavailable when we need their services, _[effect]_ making it difficult to meet project deadlines.
 3. _[current situation]_ Our codebase is old, incoherent and poorly maintained, and we lack the funds to clean up the code. _[effect]_ Therefore it’s hard to estimate how long adding a new feature will take, and changes can lead to bugs and security issues.
 4. _[current situation]_ Customer purchases are highly weather dependent _[effect]_ which makes it difficult to optimize perishable stock and staffing. 
-5. _[current situation] _We’re threatened by an economic crisis, _[anticipated effect] _which could significantly impact our ability to meet our sales target. 
-6. _[current situation] _Some team members have their main responsibilities in other domains _[anticipated effect] _which can sometimes make it difficult for them to free up enough time for work in this domain 
+5. _[current situation]_ We’re threatened by an economic crisis, _[anticipated effect] _which could significantly impact our ability to meet our sales target. 
+6. _[current situation]_ Some team members have their main responsibilities in other domains, _[anticipated effect]_ which can sometimes make it difficult for them to free up enough time for work in this domain 
 7. _[current situation]_ Due to cultural differences, there is a diversity of norms and expectations across the different teams _[effect]_ which has in the past led to miscommunication, conflict and ineffectiveness.
 
 **Tips:**
@@ -358,7 +357,7 @@ Key challenges include:
 -    There are always some challenges that you need to address. Try to list at least three!
 -    Keep your descriptions objective.
 -    When identifying key challenges, consider customers, the outside world, the organization itself, the delegator and the specific delegatees.
--    Managing a key challenge might become a key responsibility as well, e.g. _“ongoingly manage risk X”_.
+-    Managing a key challenge might become a key responsibility as well, e.g. _"ongoingly manage risk X"_.
 -    When deciding how to prepare or respond to key challenges, include the delegator if helpful.
 
 
@@ -371,8 +370,6 @@ Key resources are those resources provided by the organization to delegatees tha
 Clarity regarding which resources are currently available helps with monitoring and evaluating over time which are of value, which are essential, what might be missing, and what might actually be unnecessary.
 
 Key resources can include: 
-
-
 
 -    time allocation
 -    supply of money
@@ -487,13 +484,13 @@ Key [Metrics](glossary:metric) are statistics that help delegatees monitor the e
 
 1. **Interviews per hire**
     -   **Description:** The ratio of candidates hired to candidates interviewed by recruiter or channel (e.g. Website, LinkedIn) 
-    -   **Rate: **monthly (first week of the month for last month)
+    -   **Rate:** monthly (first week of the month for last month)
     -   **Responsibilities**: Jake compiles the monthly report in Confluence
     -   **Threshold:** When a recruiter or channel rises above 15, the HR team compiles a detailed report about that partner or channel, and makes a decision how the ratio can be improved, or, if the ratio was below the threshold for at least 3 months,  whether that partner or channel should be kept.
-    -   **Purpose**: _[requirement]_ Identify which recruiters and channels _[anticipated impact] _provide the best return on time spent by senior staff in interviews.
+    -   **Purpose**: _[requirement]_ Identify which recruiters and channels _[anticipated impact]_ provide the best return on time spent by senior staff in interviews.
 2. **Employee retention by recruiter**
     -   **Description:** For each recruiter, track the total number of employees provided that were employed at the beginning of a month (TE), and the number of employees who left during that month (EL), then calculate retention rate = (TE - TL) / TE * 100
-    -   **Rate: **monthly
+    -   **Rate:** monthly
     -   **Responsibilities**: monitored by HR team
     -   **Threshold**: if the rate for a recruiter is less than the average company retention rate, decide what to do about it in the next Planning Meeting 
     -   **Purpose**: _[current situation]_ Onboarding new people carries a high cost _[anticipated effect]_ and a misplaced candidate results in wasted time, effort and resources, and the fact that the vacancy will need to be filled again. _[requirement]_ Identify which recruiters provide candidates with the highest retention rate, _[anticipated impact]_ to minimize the risk of new employees leaving.

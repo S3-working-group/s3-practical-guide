@@ -4,7 +4,7 @@
 ## Changes 2024-02-08
 
 -   introduced _Requirement_ as a core concept distinct from the _Driver_:
-    -   added an explanation of _Requirement_ to [Drivers and Requirements](section:drivers-and-requirements]
+    -   added an explanation of _Requirement_ to [Drivers and Requirements](section:drivers-and-requirements)
     -   added new pattern [Determine Requirements](section:determine-requirements)
     -   updated [Respond to Organizational Drivers](section:respond-to-organizational-drivers)
     -   updated [Describe Organizational Drivers](section:describe-organizational-drivers): 

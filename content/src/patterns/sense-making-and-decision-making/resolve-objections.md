@@ -49,7 +49,7 @@ Below you’ll find more guidance on how to go through each step. This process c
 There are many ways to come up with an amendment. Below are some typical options you can use. We recommend you use them in the order they are presented: if the first option does not work, go to the next one, and so on. Once you get more familiar with the process you’ll be able to discern in the moment which option is more suitable. 
 
 1. Ask the person raising the objection: "*Do you have a suggestion for how to amend this proposal to resolve this objection?*"
-2. Ask the group “*Does anyone have a suggestion for how to amend this proposal to resolve this objection?*” and choose one person to present their suggestion.
+2. Ask the group "*Does anyone have a suggestion for how to amend this proposal to resolve this objection?*" and choose one person to present their suggestion.
 3. In case it’s difficult to immediately come up with an amendment, invite a timeboxed dialogue to share ideas, with the purpose of coming up with an amendment from there.
 
 As with any proposal, an amendment suggestion gives you a starting point that can then be refined through inviting and resolving objections. (see Step 4:Test One Argument Qualifies as Objection)

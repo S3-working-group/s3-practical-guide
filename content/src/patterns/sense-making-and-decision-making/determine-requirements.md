@@ -82,8 +82,8 @@ If people bring contradictory suggestions about what’s required, this is somet
 
 
 
-* Be specific on whose requirement it is (e.g. “we need”, “they need”, “I need”) 
-* Avoid describing specific solutions disguised as requirements (see “Requirement vs. Solution” below)
+* Be specific on whose requirement it is (e.g. "we need", "they need", "I need") 
+* Avoid describing specific solutions disguised as requirements (see "Requirement vs. Solution" below)
 
 Sometimes further investigation of the driver or experimentation to test assumptions may be the first requirement, leading to the identification of a more specific and suitable requirement in time.
 

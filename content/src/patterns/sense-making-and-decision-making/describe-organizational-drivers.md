@@ -15,18 +15,16 @@ In the course of their daily work in organizations, individuals frequently encou
 
 Clearly understanding organizational drivers and documenting essential information about them before deciding on a response, is crucial for ensuring that the rationale behind decisions is understood. It also provides an opportunity for those who are collaborating to verify their assumptions, combine diverse viewpoints, align understanding, and consequently agree on a  description of a driver. 
 
-Both individuals and groups can describe organizational drivers. A summary can be added to a [[backlog](section:backlog)], or used as a straightforward method to communicate pertinent details about a relevant situation to others within the organization who have responsibility for dealing such things. Subsequently, these drivers can be [[prioritized](section:prioritize-backlogs)] in relation to other drivers that are pending a response and then, when the time comes, they can be dealt with accordingly. Further details on how to respond to organizational drivers can be found in the pattern [Respond to Organizational Drivers](section:respond-to-organizational-drivers).
+Both individuals and groups can describe organizational drivers. A summary can be added to a [backlog](section:backlog), or used as a straightforward method to communicate pertinent details about a relevant situation to others within the organization who have responsibility for dealing such things. Subsequently, these drivers can be [prioritized](section:prioritize-backlogs) in relation to other drivers that are pending a response and then, when the time comes, they can be dealt with accordingly. Further details on how to respond to organizational drivers can be found in the pattern [Respond to Organizational Drivers](section:respond-to-organizational-drivers).
 
 
 ## How to describe organizational drivers
 
 A simple way to describe an organizational driver is by explaining:
 
-
-
-* the **current situation** that is being observed, 
-* the **(current or anticipated) effect** this situation leads to.
-* And, if it’s not already obvious from the previous two points, why it’s **relevant** for the organization to respond to this situation.
+-   the **current situation** that is being observed, 
+-   the **(current or anticipated) effect** this situation leads to.
+-   and, if it’s not already obvious from the previous two points, why it’s **relevant** for the organization to respond to this situation.
 
 Describing these three aspects will typically provide enough information to communicate an organizational driver clearly.
 
@@ -57,19 +55,19 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 
 ### 1. Current Situation
 
-“_To resolve local issues, teams currently have autonomy to develop their work and decision-making processes in the way they see fit_.”
+"_To resolve local issues, teams currently have autonomy to develop their work and decision-making processes in the way they see fit_."
 
 
--   Describe the situation you observe, rather than describing assumptions about what might be missing or lacking. For example, avoid phrases like _“teams don’t focus enough on resolving common issues_”or ”_we are lacking coherence between teams_”. This way of framing a situation obscures what is actually happening.
+-   Describe the situation you observe, rather than describing assumptions about what might be missing or lacking. For example, avoid phrases like _"teams don’t focus enough on resolving common issues_"or "_we are lacking coherence between teams_". This way of framing a situation obscures what is actually happening.
 -   Be concise and describe the essentials of what is happening, and, if necessary, the context in which it occurs. 
--   Be specific and avoid vague and ambiguous statements (e.g. use “_to resolve local issues_” instead of “_to resolve some issues_”. 
+-   Be specific and avoid vague and ambiguous statements (e.g. use "_to resolve local issues_" instead of "_to resolve some issues_". 
 -   Be objective and describe verifiable facts and observations. 
--   Avoid evaluative language (e.g. use “_teams have autonomy_” instead of “_teams have too much autonomy_”).
+-   Avoid evaluative language (e.g. use "_teams have autonomy_" instead of "_teams have too much autonomy_").
 
 
 ### 2. (Current or Anticipated) Effect
 
-“_This often leads to incoherence in how work and decision-making is handled between teams …_.”
+"_This often leads to incoherence in how work and decision-making is handled between teams …_."
 
 
 -   Explain the consequences that you observe or that you expect could result from the situation.
@@ -80,7 +78,7 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 
 ### 3. Relevance for the organization
 
-“_… which impedes effective collaboration on handling dependencies between and across domains_.”
+"_… which impedes effective collaboration on handling dependencies between and across domains_."
 
 
 -   Explain why responding to the situation is worthwhile for the organization, by describing the benefit of interacting with it, or the cost of not doing so: How would it help the organization to respond to this situation? How would it harm us if we don’t? 

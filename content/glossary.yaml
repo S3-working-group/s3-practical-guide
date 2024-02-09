@@ -183,9 +183,8 @@ terms:
     glossary: A basic idea or rule that guides behavior, or explains or controls how something happens or works.
   requirement:
     name: Requirement
-    definition: A requirement is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.
+    definition: A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.
     glossary: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.
-    The need or desire considered necessary to fulfill, to adequately respond to an organizational driver.
   role:
     name: Role
     definition:
@@ -211,8 +210,8 @@ terms:
     glossary: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.
   social-technology:
     name: Social Technology
-    definition: Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
-    glossary: Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
+    definition: "**Social technology** is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange."
+    glossary: Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
   sociocracy:
     name: Sociocracy
     glossary: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.
