@@ -37,11 +37,11 @@ In most cases, organizational drivers can be framed as either a problem to solve
 
 Here is an example of a driver framed as a **problem**: 
 
-[current situation] _Information is unstructured, kept in silos and sometimes unrecorded_, [effect] _leading to people working with missing or outdated information_, [relevance] _which results in ineffectiveness and our clients’ needs being unmet_.
+(current situation) _Information is unstructured, kept in silos and sometimes unrecorded_, (effect) _leading to people working with missing or outdated information_, (relevance) _which results in ineffectiveness and our clients’ needs being unmet_.
 
 The same driver framed as an **opportunity**: 
 
-[current situation] _Useful information that can help us build a better understanding of our clients’ needs is distributed throughout the organization_, [anticipated effect] _and figuring out how to record and share it could help us improve our services._
+(current situation) _Useful information that can help us build a better understanding of our clients’ needs is distributed throughout the organization_, (anticipated effect) _and figuring out how to record and share it could help us improve our services._
 
 
 ## Tips for describing organizational drivers
@@ -89,17 +89,17 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 
 Effect is already occurring:
 
--   [current situation] _Information is unstructured, kept in silos and sometimes unrecorded_, [current effect] _leading to people’s inability to support each other, and understand and contribute to the bigger picture_, [relevance] _which impedes our ability to effectively do our work_.
--   [current situation] _We spend 25% of our work hours on admin work_ [effect] _and this is leading to slow response time for customer requests and a growing number of complaints._ [relevance] _We’re starting to develop a bad reputation and run the risk of losing customers and compromising future sales._
+-   (current situation) _Information is unstructured, kept in silos and sometimes unrecorded_, (current effect) _leading to people’s inability to support each other, and understand and contribute to the bigger picture_, (relevance) _which impedes our ability to effectively do our work_.
+-   (current situation) _We spend 25% of our work hours on admin work_ (effect) _and this is leading to slow response time for customer requests and a growing number of complaints._ (relevance) _We’re starting to develop a bad reputation and run the risk of losing customers and compromising future sales._
 
 Effect is anticipated:
 
--   [current situation] _We’re preparing to recruit five new members into the development teams_, [anticipated effect] _and a lack of relevant training could lead to inefficiencies and errors_, [relevance] _and an overall decrease in team productivity and quality of work_.
+-   (current situation) _We’re preparing to recruit five new members into the development teams_, (anticipated effect) _and a lack of relevant training could lead to inefficiencies and errors_, (relevance) _and an overall decrease in team productivity and quality of work_.
 
 Effect is already occurring and relevance is implicit:
 
 
--   [current situation] _The teams often work on items that have not been prioritized in accordance with the product roadmap_. [effect] _This slows down the delivery of features that have been assigned a high priority by the customer and is leading to complaints about the effectiveness of our work_.
--   [current situation] _Although the financial records of the organization are available to anyone who asks, most people in the organization lack adequate financial understanding to make sense of them in the current format._ [effect] _This leads to frustration, uncertainty and questions that are hard to answer about why certain decisions are being made._
+-   (current situation) _The teams often work on items that have not been prioritized in accordance with the product roadmap_. (effect) _This slows down the delivery of features that have been assigned a high priority by the customer and is leading to complaints about the effectiveness of our work_.
+-   (current situation) _Although the financial records of the organization are available to anyone who asks, most people in the organization lack adequate financial understanding to make sense of them in the current format._ (effect) _This leads to frustration, uncertainty and questions that are hard to answer about why certain decisions are being made._
 
 

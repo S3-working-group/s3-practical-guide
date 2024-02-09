@@ -1,7 +1,7 @@
 # Backlog
 
 <summary>
-{{define:backlog}}
+A **backlog** (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
 </summary>
 
 Consider making backlogs visible, not only to other members of a team, but also to the wider organization.

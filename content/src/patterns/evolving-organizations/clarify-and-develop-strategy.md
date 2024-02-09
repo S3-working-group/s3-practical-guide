@@ -1,8 +1,10 @@
 # Clarify and Develop Strategy
 
 <summary>
-{{define:strategy}}
+For the whole organization and for each domain, devise a strategy for how to create value, and develop it over time based on what you learn.
 </summary>
+
+{{define:strategy}}
 
 It is usually more effective if a team or role keeper lead in developing their own strategy.
 

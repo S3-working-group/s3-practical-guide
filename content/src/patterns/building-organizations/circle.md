@@ -1,7 +1,7 @@
 # Circle
 
 <summary>
-{{define:circle}}
+A **circle** is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.
 </summary>
 
 A circle:
