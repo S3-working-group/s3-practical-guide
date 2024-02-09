@@ -77,11 +77,11 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-deliverable">Deliverable</dt>
-<dd>A product, service, component or material provided in response to an organizational driver.</dd>
+<dd>A product, service, component or material provided to fulfill a requirement.</dd>
 
 
 <dt id="entry-domain">Domain</dt>
-<dd>A distinct area of influence, activity and decision-making within an organization.</dd>
+<dd>A distinct area of responsibility and authority within an organization.</dd>
 
 
 <dt id="entry-driver">Driver</dt>
@@ -165,7 +165,11 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-organizational-driver">Organizational Driver</dt>
-<dd>A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an <strong>organizational driver</strong> if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.</dd>
+<dd>Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).</dd>
+
+
+<dt id="entry-overall-domain">Overall Domain</dt>
+<dd>The domain that defines the organization's purpose, overall strategy, business model(s), and other standard constraints.</dd>
 
 
 <dt id="entry-pattern">Pattern</dt>
@@ -182,6 +186,10 @@ prev_page_url: "authors.html"
 
 <dt id="entry-principle">Principle</dt>
 <dd>A basic idea or rule that guides behavior, or explains or controls how something happens or works.</dd>
+
+
+<dt id="entry-requirement">Requirement</dt>
+<dd>A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.</dd>
 
 
 <dt id="entry-role">Role</dt>
@@ -205,7 +213,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-social-technology">Social Technology</dt>
-<dd>Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.</dd>
+<dd>Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.</dd>
 
 
 <dt id="entry-sociocracy">Sociocracy</dt>
@@ -214,6 +222,10 @@ prev_page_url: "authors.html"
 
 <dt id="entry-scm">Sociocratic Circle-Organisation Method (SCM)</dt>
 <dd>An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.</dd>
+
+
+<dt id="entry-standard-constraint">Standard Constraint</dt>
+<dd>A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).</dd>
 
 
 <dt id="entry-strategy">Strategy</dt>
@@ -233,7 +245,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-superdriver">Superdriver</dt>
-<dd>see subdriver.</dd>
+<dd>see Subdriver.</dd>
 
 
 <dt id="entry-team">Team</dt>
@@ -253,7 +265,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-value">Value</dt>
-<dd>The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").</dd>
+<dd>The importance, worth or usefulness of something in relation to a driver. Also "a valued principle that guides behavior" (mostly used as plural, "values", or "organizational values").</dd>
 
 
 <dt id="entry-values">Values</dt>

@@ -17,6 +17,6 @@ Teams in the periphery:
 
 The center provides internal services to support the organization.
 
-<a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">Domains</a> are linked as required to flow information and influence, and to support collaboration around dependencies.
+<a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domains</a> are linked as required to flow information and influence, and to support collaboration around dependencies.
 
 ![Peach Organization](img/structural-patterns/peach-organization.png)

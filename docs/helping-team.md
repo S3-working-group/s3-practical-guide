@@ -15,7 +15,7 @@ A helping team:
 -   is a way for a <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> to expand their capacity
 -   may be self-organizing, or guided by a [coordinator](coordinator.html) chosen by the delegator
 -   is governed by the delegator
--   benefits from a clearly defined <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>
+-   benefits from a clearly defined <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>
 
 Members of the helping team:
 

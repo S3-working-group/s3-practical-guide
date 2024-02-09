@@ -9,7 +9,7 @@ prev_page_url: "shared-mental-models.html"
 
 ![Ten Principles for Evolving Teams and Organizations](img/csf/csf-light.png)
 
-Each principle supports a specific outcome. To determine where to start in your organization or team, **take a look at the outcomes for each principle** (the text after “_so that_”) and reflect on where your greatest need lies at the moment. In any case, **check that you are clear enough on your organization’s or team’s purpose and strategy before you proceed**.
+Each principle supports a specific outcome. To determine where to start in your organization or team, **take a look at the outcomes for each principle** (the text after "_so that_") and reflect on where your greatest need lies at the moment. In any case, **check that you are clear enough on your organization’s or team’s purpose and strategy before you proceed**.
 
 In the illustration below you can see that some of the principles are more closely related than others, which might further inform you of where to start.
 

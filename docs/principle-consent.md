@@ -2,7 +2,7 @@
 title: "The Principle of Consent"
 next_page_title: "The Principle of Empiricism"
 next_page_url: "principle-empiricism.html"
-prev_page_title: "The Principle of Effectiveness "
+prev_page_title: "The Principle of Effectiveness"
 prev_page_url: "principle-effectiveness.html"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Key Concepts for Making Sense of Organizations"
-next_page_title: "Drivers"
-next_page_url: "driver.html"
+next_page_title: "Organizational Drivers and Requirements"
+next_page_url: "drivers-and-requirements.html"
 prev_page_title: "The Principle of Accountability"
 prev_page_url: "principle-accountability.html"
 ---

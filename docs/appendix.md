@@ -9,6 +9,7 @@ prev_page_url: "where-to-start.html"
 
 - [Changelog](changelog.html)
 - [Alphabetical List Of All Patterns](pattern-index.html)
+- [Example Domain Description: Marketing Department](example-domain-description.html)
 - [Links](links.html)
 - [License](license.html)
 - [Disclaimer](disclaimer.html)

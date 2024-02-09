@@ -17,8 +17,8 @@ A circle:
 -   is responsible for its own development and its body of <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
 
 -   **semi-autonomous:**
-    -   A circle's members act within the constraints of their <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
-    -   Each circle can create <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Value: The importance, worth or usefulness of something in relation to a driver. Also &quot;a principle of some significance that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">value</a> autonomously.
+    -   A circle's members act within the constraints of their <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>.
+    -   Each circle can create <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Value: The importance, worth or usefulness of something in relation to a driver. Also &quot;a valued principle that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">value</a> autonomously.
 -   **self-governing:**
     -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
 -  **equivalence of circle members:**

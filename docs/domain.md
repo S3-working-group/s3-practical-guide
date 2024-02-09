@@ -2,12 +2,12 @@
 title: "Domains"
 next_page_title: "Objections"
 next_page_url: "objection.html"
-prev_page_title: "Drivers"
-prev_page_url: "driver.html"
+prev_page_title: "Organizational Drivers and Requirements"
+prev_page_url: "drivers-and-requirements.html"
 ---
 
 
-_A **domain** is a distinct area of influence, activity and decision-making within an organization._
+_A **domain** is a distinct area of responsibility and authority within an organization._
 
 To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
 

@@ -25,7 +25,7 @@ _**Governance** in an organization (or a domain within it) is the process of set
 
 _**Operations** is doing the work and organizing day-to-day activities within the constraints defined through governance._
 
-For each <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a> in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
+For each <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a> in an organization there is a _governing body_: people with a mandate to make and evolve agreements which govern how the people doing the work in that domain create value.
 
 There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a manager who leads others. Other times a [group of people govern themselves](circle.html) and all members share responsibility for governance within the constraints of their domain. 
  

@@ -1,7 +1,7 @@
 ---
 title: "Alphabetical List Of All Patterns"
-next_page_title: "Links"
-next_page_url: "links.html"
+next_page_title: "Example Domain Description: Marketing Department"
+next_page_url: "example-domain-description.html"
 prev_page_title: "Changelog"
 prev_page_url: "changelog.html"
 ---
@@ -49,7 +49,7 @@ prev_page_url: "changelog.html"
   <dd><p>Be explicit about the expected results of agreements, activities, projects and strategies.</p></dd>
 
   <dt><a href="clarify-and-develop-domains.html">Clarify and Develop Domains</a></dt>
-  <dd><p>Explicitly clarify, and then regularly evaluate and develop a domain's design based on learning, to enable those with responsibility for the domain to account for it as effectively as possible.</p></dd>
+  <dd><p>Explicitly clarify, and then regularly evaluate and develop the design of domains throughout the organization, based on learning, to enable those with responsibility for each domain to deliver value as effectively as possible to the customers they serve.</p></dd>
 
   <dt><a href="clarify-and-develop-strategy.html">Clarify and Develop Strategy</a></dt>
   <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
@@ -88,7 +88,10 @@ prev_page_url: "changelog.html"
   <dd><p>Clearly describe any deliverables related to an agreement to support shared understanding of expectations.</p></dd>
 
   <dt><a href="describe-organizational-drivers.html">Describe Organizational Drivers</a></dt>
-  <dd><p>Describe organizational drivers to understand, communicate and remember them.</p></dd>
+  <dd><p>Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.</p></dd>
+
+  <dt><a href="determine-requirements.html">Determine Requirements</a></dt>
+  <dd><p>Determine what’s required to respond appropriately to an organizational driver, before making a specific decision about what to do.</p></dd>
 
   <dt><a href="development-plan.html">Development Plan</a></dt>
   <dd><p>A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.</p></dd>
@@ -151,7 +154,7 @@ prev_page_url: "changelog.html"
   <dd><p>Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.</p></dd>
 
   <dt><a href="navigate-via-tension.html">Navigate via Tension</a></dt>
-  <dd><p>Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.</p></dd>
+  <dd><p>Pay attention to tension you experience in relation to the organization, investigate the cause and pass on information about any organizational drivers you discover to the people accountable for the appropriate domain.</p></dd>
 
   <dt><a href="open-space-for-change.html">Open Space For Change</a></dt>
   <dd><p>Invite everyone to create and run experiments for evolving the organization.</p></dd>
@@ -199,7 +202,7 @@ prev_page_url: "changelog.html"
   <dd><p>Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state.</p></dd>
 
   <dt><a href="respond-to-organizational-drivers.html">Respond to Organizational Drivers</a></dt>
-  <dd><p>Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.</p></dd>
+  <dd><p>Respond to all organizational drivers you are responsible for, in order of priority, by fulfilling the requirements you determine necessary in each case.</p></dd>
 
   <dt><a href="retrospective.html">Retrospective</a></dt>
   <dd><p>Dedicate time to reflect on past experience, learn, and decide how to improve work process.</p></dd>

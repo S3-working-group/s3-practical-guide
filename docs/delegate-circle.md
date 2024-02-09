@@ -14,7 +14,7 @@ To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-t
 
 ![Delegate Circle](img/structural-patterns/delegate-circle.png)
 
-Governance decisions made in a delegate circle are acted upon in the various <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> it serves.
+Governance decisions made in a delegate circle are acted upon in the various <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> it serves.
 
 Delegate circles provide a way of steering organizations in alignment with the <a href="glossary.html#entry-flow-of-value" class="glossary-tooltip" data-toggle="tooltip" title="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</a>, and bring a diversity of perspectives to governance decision-making.
 

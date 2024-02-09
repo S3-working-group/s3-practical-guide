@@ -19,7 +19,7 @@ Ensure all <a href="glossary.html#entry-agreement" class="glossary-tooltip" data
 
 Evaluating agreements can be as simple as checking that an agreement is still relevant, and there is no objection to keeping it as it is.
 
-![Experiment, evaluate, evolve](img/evolution/kaizen.png)
+![](img/evolution/evolve-agreement.png)
 
 Agreements are often reviewed in [Governance Meetings](governance-meeting.html), however sometimes it's more effective to schedule a dedicated session.
 

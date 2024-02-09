@@ -113,7 +113,7 @@ Choose one of the people with a raised hand and using the same process for testi
 
 ### Step 5: Integrate the information revealed in the previous step with the original argument
 
-**Facilitator asks** the person who presented the original argument: *“Anything remaining of your argument?”*
+**Facilitator asks** the person who presented the original argument: *"Anything remaining of your argument?"*
 
 The person who brought the original argument has the option to refine, rephrase or reframe their argument, or to drop it entirely, if there’s nothing remaining. 
 

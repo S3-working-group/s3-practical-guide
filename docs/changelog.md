@@ -8,6 +8,21 @@ prev_page_url: "appendix.html"
 
 
 
+## Changes 2024-02-08
+
+-   introduced _Requirement_ as a core concept distinct from the _Driver_:
+    -   added an explanation of _Requirement_ to [Drivers and Requirements](drivers-and-requirements.html)
+    -   added new pattern [Determine Requirements](determine-requirements.html)
+    -   updated [Respond to Organizational Drivers](respond-to-organizational-drivers.html)
+    -   updated [Describe Organizational Drivers](describe-organizational-drivers.html): 
+    -   updated [Navigate via Tension](navigate-via-tension.html)
+    -   revised [Proposal Forming](proposal-forming.html), [Consent Decision Making](consent-decision-making.html) and [Driver Mapping](driver-mapping.html)
+-   extended [Clarify and Develop Domains](clarify-and-develop-domains.html) to include a detailed description and  examples for each aspect of a domain description
+-   added an [expample domain description](example-domain-description.html) to the appendix
+-  updated definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a> and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational driver</a>
+-  added new glossary entries for <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">Requirement</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Standard Constraint: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).">Standard Constraint</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">Overall Domain</a>
+
+
 ## Changes 2022-04-26
 
 -   added detailed description and new illustrations to [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)   
@@ -187,7 +202,7 @@ prev_page_url: "appendix.html"
 **Glossary:**
 
 -   added <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> to glossary (and replaced group with team throughout the practical guide where applicable)
--   updated definition for <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</a>
+-   updated definition for <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">deliverable</a>
 -   removed **driver statement** from text and glossary
 -   updated definitions for <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a>, <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a>, and <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</a>
 

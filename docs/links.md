@@ -2,8 +2,8 @@
 title: "Links"
 next_page_title: "License"
 next_page_url: "license.html"
-prev_page_title: "Alphabetical List Of All Patterns"
-prev_page_url: "pattern-index.html"
+prev_page_title: "Example Domain Description: Marketing Department"
+prev_page_url: "example-domain-description.html"
 ---
 
 

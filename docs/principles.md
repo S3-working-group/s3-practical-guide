@@ -1,6 +1,6 @@
 ---
 title: "The Seven Principles"
-next_page_title: "The Principle of Effectiveness "
+next_page_title: "The Principle of Effectiveness"
 next_page_url: "principle-effectiveness.html"
 prev_page_title: "Why \"3.0\"?"
 prev_page_url: "why-30.html"

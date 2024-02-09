@@ -25,7 +25,7 @@ Objections are resolved by amending the proposal. **Amendments** can include:
 - take some more time for reflection and then come back to the objection again later.
 - etc.
 
-There’s always an iterative next step of some kind that you can take! Even if a proposal doesn’t fully address the <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a>, reaching agreement about **one or more iterative next steps** is often good enough. It’s also helpful sometimes to break things down into small steps, especially when you’re dealing with complex or complicated situations. 
+There’s always an iterative next step of some kind that you can take! Even if a proposal doesn’t fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>, reaching agreement about **one or more iterative next steps** is often good enough. It’s also helpful sometimes to break things down into small steps, especially when you’re dealing with complex or complicated situations. 
 
 Objections can be resolved by following the process outlined in [Reasoned Decision-Making](reasoned-decision-making.html):
 
@@ -55,7 +55,7 @@ Below you’ll find more guidance on how to go through each step. This process c
 There are many ways to come up with an amendment. Below are some typical options you can use. We recommend you use them in the order they are presented: if the first option does not work, go to the next one, and so on. Once you get more familiar with the process you’ll be able to discern in the moment which option is more suitable. 
 
 1. Ask the person raising the objection: "*Do you have a suggestion for how to amend this proposal to resolve this objection?*"
-2. Ask the group “*Does anyone have a suggestion for how to amend this proposal to resolve this objection?*” and choose one person to present their suggestion.
+2. Ask the group "*Does anyone have a suggestion for how to amend this proposal to resolve this objection?*" and choose one person to present their suggestion.
 3. In case it’s difficult to immediately come up with an amendment, invite a timeboxed dialogue to share ideas, with the purpose of coming up with an amendment from there.
 
 As with any proposal, an amendment suggestion gives you a starting point that can then be refined through inviting and resolving objections. (see Step 4:Test One Argument Qualifies as Objection)

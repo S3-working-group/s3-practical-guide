@@ -12,6 +12,6 @@ prev_page_url: "timebox-activities.html"
 
 The coordinator may be selected by the team itself, or by the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
 
-Several coordinators may collaborate to synchronize work across multiple <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a>.
+Several coordinators may collaborate to synchronize work across multiple <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a>.
 
 Instead of selecting a coordinator, a team may choose to self-organize.

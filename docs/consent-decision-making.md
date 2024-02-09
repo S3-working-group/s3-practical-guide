@@ -2,8 +2,8 @@
 title: "Consent Decision-Making"
 next_page_title: "Test Arguments Qualify as Objections"
 next_page_url: "test-arguments-qualify-as-objections.html"
-prev_page_title: "Describe Organizational Drivers"
-prev_page_url: "describe-organizational-drivers.html"
+prev_page_title: "Determine Requirements"
+prev_page_url: "determine-requirements.html"
 ---
 
 
@@ -25,20 +25,17 @@ Not all arguments raised are objections, but they might reveal [concerns](object
 _A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
 
 
-## Step 1: Consent to the Driver
+## Step 1: Consent to Driver and Requirement
 
-_Make sure the <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">driver</a> is summarized clearly enough and is relevant for the group to respond to._
+_Make sure the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> and <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a> are summarized clearly enough and that it is relevant for this group to deal with them._
 
-**Facilitator asks:** _Are there any objections to this driver being described clearly enough and relevant for us to respond to?_
+Facilitator asks: _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
 
-**Note:** If you have already consented to the driver at an earlier stage in the process, there is no need to repeat this step here. However, in a case where someone is presenting a proposal to a group of stakeholders who were not involved in creating it, or if there are people who are only now joining the decision-making process, check everyone understands the driver for the proposal, and make sure that it's described clearly enough and it's relevant for those present to respond to, before considering the proposal itself.
+**Note:** As a general recommendation, aim to complete this step with meeting attendees asynchronously, [prior to the meeting](prepare-for-meetings.html). This will give you the opportunity to make any refinements in advance and save wasting precious meeting time. However, in a case where someone is presenting a proposal to a group of stakeholders who were not involved in creating it, or if there are people who are only now joining the decision-making process, check everyone understands the driver and requirement for the proposal, and make sure that it’s described clearly enough, the requirement is considered to be suitable and it’s relevant for those present to deal with this, before considering the proposal itself.
 
-As a general recommendation, aim to complete this step with meeting attendees asynchronously, [prior to the meeting](prepare-for-meetings.html). This will give you the opportunity to make any refinements in advance and save wasting precious meeting time.
-
-In case of objections that indicate: 
-
--   **The driver is not described clearly enough:** take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer making the decision until the driver is clear.
--   **The driver is not relevant for this meeting / group:** pass it on to the appropriate person or team, or discard it.
+-   If the driver is not described clearly enough, take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer considering the proposal, until the driver is clear.
+-   If the driver is not relevant for this group, pass it on to the appropriate person or team, or, if it’s decided that this is not an organizational driver at all, discard it.
+-   If the requirement is considered to be unsuitable, hear the argument(s) and if they qualify as objections, resolve them before considering the proposal.
 
 
 ## Step 2: Present the Proposal

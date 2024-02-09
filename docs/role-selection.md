@@ -16,7 +16,7 @@ Instead of simply assigning people for [roles](role.html), or making a choice ba
 - increase ownership over the decision
 - ensure support for the role keeper by those affected.
 
-A prerequisite to the selection process is a [clear description](clarify-and-develop-domains.html) of the role's <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domain</a>.
+A prerequisite to the selection process is a [clear description](clarify-and-develop-domains.html) of the role's <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>.
 
 ## Role Selection - Steps
 

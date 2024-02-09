@@ -10,13 +10,16 @@ prev_page_url: "patterns.html"
 <dl>
 
   <dt><a href="respond-to-organizational-drivers.html">Respond to Organizational Drivers</a></dt>
-  <dd><p>Clarify organizational drivers (i.e. what's happening and what's needed in relation to the organization), and respond as required.</p></dd>
+  <dd><p>Respond to all organizational drivers you are responsible for, in order of priority, by fulfilling the requirements you determine necessary in each case.</p></dd>
 
   <dt><a href="navigate-via-tension.html">Navigate via Tension</a></dt>
-  <dd><p>Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.</p></dd>
+  <dd><p>Pay attention to tension you experience in relation to the organization, investigate the cause and pass on information about any organizational drivers you discover to the people accountable for the appropriate domain.</p></dd>
 
   <dt><a href="describe-organizational-drivers.html">Describe Organizational Drivers</a></dt>
-  <dd><p>Describe organizational drivers to understand, communicate and remember them.</p></dd>
+  <dd><p>Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.</p></dd>
+
+  <dt><a href="determine-requirements.html">Determine Requirements</a></dt>
+  <dd><p>Determine what’s required to respond appropriately to an organizational driver, before making a specific decision about what to do.</p></dd>
 
   <dt><a href="consent-decision-making.html">Consent Decision-Making</a></dt>
   <dd><p>A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.</p></dd>

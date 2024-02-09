@@ -7,7 +7,7 @@ prev_page_url: "coordinator.html"
 ---
 
 
-Organizational structure is the actual arrangement of <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of influence, activity and decision-making within an organization.">domains</a> and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
+Organizational structure is the actual arrangement of <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
 
 Continuously evolve your organization's structure to:
 
@@ -23,7 +23,7 @@ Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex ad
 Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
 
 -   S3's structural patterns apply to different layers of abstraction
--   different structural patterns serve different <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Driver: A person’s or a group&#x27;s motive for responding to a specific situation.">drivers</a>
+-   different structural patterns serve different <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">drivers</a>
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
 
