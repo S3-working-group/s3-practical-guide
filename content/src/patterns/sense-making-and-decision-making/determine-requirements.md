@@ -29,7 +29,7 @@ Identifying and responding to organizational drivers is a fundamental aspect of 
 
 4.  **Driver**: _The teams often work on items that have not been prioritized in accordance with the product roadmap. This slows down the delivery of features that have been assigned a high priority by the customer and is leading to complaints about the effectiveness of our work._
 
-    **_Requirement:** We need to improve alignment of the team planning to the product roadmap so that the most important features are shipped first._
+    **Requirement:** _We need to improve alignment of the team planning to the product roadmap so that the most important features are shipped first._
 
 5.  **Driver:** _Although the financial records of the organization are available to anyone who asks, most people in the organization lack adequate financial understanding to make sense of them in the current format. This leads to frustration, uncertainty and questions that are hard to answer about why certain decisions are being made._
 
@@ -54,7 +54,7 @@ This is why it's valuable to approach deciding what you believe is required to r
 
 **Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others - especially to those who will be affected by whatever’s decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
 
-Once a requirement is determined, the** next steps for responding to the organizational driver** involve agreeing on how to fulfill the requirement, acting on this agreement, reviewing outcomes, and, if needed, adapting your decision to improve it, based on what you learn (see [Respond to Organizational Drivers](section:respond-to-organizational-drivers) for more details).
+Once a requirement is determined, the **next steps for responding to the organizational driver** involve agreeing on how to fulfill the requirement, acting on this agreement, reviewing outcomes, and, if needed, adapting your decision to improve it, based on what you learn (see [Respond to Organizational Drivers](section:respond-to-organizational-drivers) for more details).
 
 In complex situations where multiple and sometimes even contradictory options exist, an iterative approach for determining a requirement may be necessary because: 
 
@@ -81,9 +81,8 @@ When addressing a complex driver, or when deciding how to respond to an organiza
 If people bring contradictory suggestions about what’s required, this is sometimes an indicator that they’re too much in the solution space. In this case it can be helpful to zoom out and try to identify a requirement that some or all of these solutions might help to fulfill.
 
 
-
-* Be specific on whose requirement it is (e.g. "we need", "they need", "I need") 
-* Avoid describing specific solutions disguised as requirements (see "Requirement vs. Solution" below)
+-   Be specific on whose requirement it is (e.g. "we need", "they need", "I need") 
+-   Avoid describing specific solutions disguised as requirements (see "Requirement vs. Solution" below)
 
 Sometimes further investigation of the driver or experimentation to test assumptions may be the first requirement, leading to the identification of a more specific and suitable requirement in time.
 
@@ -93,9 +92,8 @@ Sometimes further investigation of the driver or experimentation to test assumpt
 When describing the anticipated impact, explain what you anticipate the consequence of fulfilling the requirement will lead to, and how this is relevant in relation to the driver.
 
 
-
 -   Explain potential benefits, opportunities, or even the [intended outcome](glossary:intended-outcome) of responding to the requirement _in relation to the driver_.
--   Making the impact explicit constraints the scope of the response and helps evaluating n the driverthe effectiveness of the response in relation the driver 
+-   Making the impact explicit constraints the scope of the response and helps evaluating the effectiveness of the response in relation the driver 
 
 
 ## Requirement vs. Solution

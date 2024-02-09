@@ -11,7 +11,7 @@ Organizational drivers are identified by individuals (see [Navigate Via Tension]
 
 ## Why describe organizational drivers?
 
-In the course of their daily work in organizations, individuals frequently encounter situations that need responding to. They make decisions alone or with others, based on what they believe is required and then act accordingly. However, sometimes decisions are taken without fully understanding the situation they were intended to deal with. Decisions can be based more on judgments and assumptions than on concrete observations. Additionally, failing to communicate relevant information to other stakeholders can lead to misunderstanding, conflict, and waste.
+In the course of their daily work in organizations, individuals frequently encounter situations that need responding to. They make decisions alone or with others, based on what they believe is required and then act accordingly. However, sometimes decisions are taken without fully understanding the situation they were intended to deal with. Decisions can be based more on judgments and assumptions rather than on concrete observations. Additionally, failing to communicate relevant information to other stakeholders can lead to misunderstanding, conflict, and waste.
 
 Clearly understanding organizational drivers and documenting essential information about them before deciding on a response, is crucial for ensuring that the rationale behind decisions is understood. It also provides an opportunity for those who are collaborating to verify their assumptions, combine diverse viewpoints, align understanding, and consequently agree on a  description of a driver. 
 

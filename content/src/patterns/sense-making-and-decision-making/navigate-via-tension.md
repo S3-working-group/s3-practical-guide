@@ -14,7 +14,7 @@ In this context, _tension_ is an inner state of alert: a personal experience tha
 
 ## Step 2: Understand situation
 
-Investigate** the situation** you are perceiving that stimulates tension in you. Sometimes this inquiry can reveal misconceptions and the tension goes away.
+Investigate **the situation** you are perceiving that stimulates tension in you. Sometimes this inquiry can reveal misconceptions and the tension goes away.
 
 
 ## Step 3: Is this an Organizational Driver?

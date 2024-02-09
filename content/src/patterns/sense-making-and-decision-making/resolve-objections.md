@@ -11,7 +11,7 @@ A proposal becomes an agreement when all objections have been resolved.
 Objections are resolved by amending the proposal. **Amendments** can include: 
 
 - adding, removing and/or changing something in the proposal.
-- deferring resolution of a particular objection until later. (Remember to clarify who will take responsibility for this, by when and what will happen after that).
+- deferring resolution of a particular objection until later. (Remember to clarify who will take responsibility for this, by when, and what will happen after that).
 - an alternative proposal, or an agreement to (co-)create a new proposal in future (if it’s considered more effective than continuing to work on developing the existing proposal).
 - delegating the task to review, research, and/or propose an amendment for one, or even several related objections, to an individual or group.
 - leaving the main proposal unchanged and monitoring the outcome because the effort, or cost of changing things to resolve the objection, outweighs the anticipated benefits or gain.
@@ -54,7 +54,7 @@ There are many ways to come up with an amendment. Below are some typical options
 
 As with any proposal, an amendment suggestion gives you a starting point that can then be refined through inviting and resolving objections. (see Step 4:Test One Argument Qualifies as Objection)
 
-It’s often helpful to repeat or summarise the amendment and write it down for everyone to see. 
+It’s often helpful to repeat or summarize the amendment and write it down for everyone to see. 
 
 
 ## Step 2: Understand amendment

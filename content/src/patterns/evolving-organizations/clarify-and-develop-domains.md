@@ -192,7 +192,7 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
 
 ### Customers and Deliverables
 
-_Whom does this team (or role keeper) deliver value to, what specifically do they provide and why?_
+_Whom does this team (or role keeper) deliver value to, what specifically do they provide, and why?_
 
 The purpose of work done by the delegatees is to provide value to their **customers**. Customers can include those who are paying money for the deliverables provided, or others from inside of the organization who are dependent on these deliverables to do their work. 
 

@@ -1,7 +1,7 @@
 # Coordinator
 
 <summary>
-A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.
+A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term**.
 </summary>
 
 The coordinator may be selected by the team itself, or by the [delegator](glossary:delegator).
