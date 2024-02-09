@@ -10,31 +10,39 @@ A (facilitated) group process for co-creating a response to a driver.
 
 _Proposal Forming_ may also be used by an individual.
 
+
 ## Proposal Forming Steps
 
-**Consent to driver:** Briefly present the [driver](glossary:organizational-driver). _Is this driver relevant for us to respond to? Are there any essential amendments to what has been presented?_
+**1. Present and Consent to Driver and Requirement:** Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to. 
 
-**Deepen shared understanding of driver:** invite essential questions to understand the driver in more detail.
+**2. Questions about the driver and Requirement:** Deepen individual and shared understanding of the driver and Requirement.
 
-**Collect considerations** phrased as questions relating to possible solutions. Questions either reveal constraints (information gathering questions) or possibilities (generative questions).
+**3. Considerations as questions:** Collect any considerations you have in relation to possible solutions. Record them in the form of questions.
 
-**Answer** any information gathering questions if possible.
+**4. Answer information gathering questions:** Gather any information regarding constraints and specific details that are worthwhile to consider.
 
-**Prioritize** considerations.
+**5. Prioritize generative questions:** Identify priority considerations to clarify which are more or less important to consider when forming the proposal.
 
-**Gather ideas** as possible ingredients for a proposal.
+**6. Collect ideas:** Generate and record ideas about how to respond to the driver and fulfill the determined requirement.
 
-**Design a proposal** for addressing the driver considering the creative ideas and information gathered so far. This is usually done by a smaller group of "tuners".
+**7. Choose tuners:** Delegate responsibility for putting together a proposal, to 2-3 people (tuners).
 
-## Choosing Tuners
-
-Consider:
+When choosing Tuners, consider expertise, outside view, and inspiration, and the following questions:
 
 -   who should be there?
 -   who wants to be there?
 -   who else may have a valuable contribution to make?
--   consider expertise, outside view, and inspiration
 
-Between two and three tuners is usually appropriate. Check for any objections to the proposed tuner(s).
+Between two and three tuners is usually appropriate. Remember to check for any objections to the proposed tuner(s).
+
+**8. Design proposal:** The Tuners design a proposal.A well written proposal usually includes:
+
+
+-   the Driver it responds to
+-   the proposal text - what, how, rationale, etc.
+-   who will be responsible for what - for overseeing its application / implementation
+-   evaluation date or frequency - when the future agreement will be reviewed
+-   evaluation criteria - to measure / determine the success or effectiveness of the decision
+-   (a due date if necessary)
 
 ![Proposal forming process](img/agreements/proposal-forming.png)
