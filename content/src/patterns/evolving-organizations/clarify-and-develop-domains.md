@@ -311,7 +311,7 @@ Some external constraints are fixed while others may be negotiable with stakehol
 1. **Constraint**: _[requirement]_ Ensure that we have clearance from the provider for training external consultants, _[anticipated impact]_ so that we get the reduced rate for training. **Driver:** _[current situation]_ We have an agreement with the external services provider that external consultants only receive 50% of their hourly fee for attending training provided by our company.
 2. **Constraint:** _[requirement]_ Prioritize work on projects with deadlines over time spent on training and development _[anticipated impact]_ so that we can keep to delivery dates agreed upon with customers. (Driver is obvious in this case)
 3. **Constraint:** _[requirement]_ Monthly expenditure over $15k needs to be approved with the PM _[anticipated impact]_ to ensure total expenditure for the project remains within the overall budget. (Driver is obvious in this case)
-4. **Constraint:** _[requirement] _Consult with the Architecture Circle on decisions related to software architecture, _[anticipated impact]_ to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
+4. **Constraint:** _[requirement]_ Consult with the Architecture Circle on decisions related to software architecture, _[anticipated impact]_ to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
 5. **Constraint:** _[requirement]_ Schedule all hands meetings between 15:00 - 18:00 CEST, _[anticipated impact]_ so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
 6. **Constraint**: _[requirement]_ For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, _[anticipated impact]_ so that they can bring in their project management experience. **Driver:** _[current situation]_ the team does not currently feel confident managing large projects, alone.
 7. **Constraint**: _[requirement]_ Deliver the finished product to the integration team by 01 Feb _[anticipated impact]_ so that they have time to complete integration before then non-negotiable project deadline on 10 March. (Driver is obvious in this case)
@@ -348,7 +348,7 @@ Key challenges include:
 2. _[current situation]_ Due to differing priorities, partners are sometimes unavailable when we need their services, _[effect]_ making it difficult to meet project deadlines.
 3. _[current situation]_ Our codebase is old, incoherent and poorly maintained, and we lack the funds to clean up the code. _[effect]_ Therefore it’s hard to estimate how long adding a new feature will take, and changes can lead to bugs and security issues.
 4. _[current situation]_ Customer purchases are highly weather dependent _[effect]_ which makes it difficult to optimize perishable stock and staffing. 
-5. _[current situation]_ We’re threatened by an economic crisis, _[anticipated effect] _which could significantly impact our ability to meet our sales target. 
+5. _[current situation]_ We’re threatened by an economic crisis, _[anticipated effect]_ which could significantly impact our ability to meet our sales target. 
 6. _[current situation]_ Some team members have their main responsibilities in other domains, _[anticipated effect]_ which can sometimes make it difficult for them to free up enough time for work in this domain 
 7. _[current situation]_ Due to cultural differences, there is a diversity of norms and expectations across the different teams _[effect]_ which has in the past led to miscommunication, conflict and ineffectiveness.
 
@@ -357,7 +357,7 @@ Key challenges include:
 -    There are always some challenges that you need to address. Try to list at least three!
 -    Keep your descriptions objective.
 -    When identifying key challenges, consider customers, the outside world, the organization itself, the delegator and the specific delegatees.
--    Managing a key challenge might become a key responsibility as well, e.g. _"ongoingly manage risk X"_.
+-    Managing a key challenge might become a key responsibility as well, e.g. "_ongoingly manage risk X_".
 -    When deciding how to prepare or respond to key challenges, include the delegator if helpful.
 
 

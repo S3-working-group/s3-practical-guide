@@ -127,7 +127,7 @@ _Organize the work that lies ahead in each domain, ensure things are prioritized
     -   governance backlog: needs that would benefit from or necessitate a decision
 -   Combine and rephrase cards as necessary, so that description on each card is clear. Consult the author of the card when in doubt.
 -   Prioritize the cards in each board.
--   Archive any _requirement cards _that appear superfluous.
+-   Archive any _requirement cards_ that appear superfluous.
 -   Consider the domain and describe and prioritize other requirements that may not have been identified.
 -   Pass on cards that appear to be the accountability of another domain to address.
 -   Put aside cards relating to multiple domains. You can deal with them in Step 8.
