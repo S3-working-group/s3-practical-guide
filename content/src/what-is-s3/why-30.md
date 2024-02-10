@@ -16,7 +16,7 @@ To this end, we recognize the value of a strong identity, a radically different 
 
 The name "*Sociocracy 3.0*" demonstrates both respect to the lineage and a significant step forward.
 
-It also helps avoid the perception of us misrepresenting the Sociocratic Circle Organization Method (SCM) as promoted by The Sociocracy Group (TSG), The Sociocracy Consulting Group, Sociocracy For All (SoFA), Governance Alive, and many others.
+It also helps avoid the perception of us misrepresenting the _Sociocratic Circle Organization Method (SCM)_ as promoted by The Sociocracy Group (TSG), The Sociocracy Consulting Group, Sociocracy For All (SoFA), Governance Alive, and many others.
 
 ![Three variants of sociocracy](img/context/sociocracy-variants.png)
 
@@ -31,21 +31,21 @@ We support "viral" distribution through two key strategies:
 
 ## The Evolution of the Sociocratic Circle Organization Method
 
-Maybe we need to make this explicit: Sociocracy 3.0 is not targeted specifically at the existing community of people exploring the *Sociocratic Circle Organization Method*, or at The Sociocracy Group (TSG). The *Sociocratic Circle Organization Method* (SCM) is already well developed and many people appear to be mostly happy with it.
+Maybe we need to make this explicit: _Sociocracy 3.0_ is not targeted specifically at the existing community of people exploring or using the _Sociocratic Circle Organization Method_ (SCM). SCM is already well developed and of those people who use it, many appear to be mostly happy with it.
 
-Yet from our direct experience, even for those organizations that have heard about sociocracy, there are many obstacles to actually become invested. With *Sociocracy 3.0* we actively work on addressing and eliminating what stands in the way.
+Yet from our direct experience, for most organizations, the methodology is either insufficient or inappropriate for addressing many of their needs. With _Sociocracy 3.0_ we actively work on addressing these limitations and inadequacies by developing new patterns and eliminating what stands in the way.
 
 ### Reducing Risk and Resistance
 
-*Sociocracy 3.0* meets organizations where they are and takes them on a journey of continuous improvement. There's no radical change or reorganization. *Sociocracy 3.0* provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
+_Sociocracy 3.0_ meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. _Sociocracy 3.0_ provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
 
-### Shifting Focus From Aim (or Purpose) to Need
+### Shifting Focus from Vision to Need
 
-*Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
+_Sociocracy 3.0_ moves primary focus away from attempting to realize a vision, toward understanding the current reality and determining what is required to achieve an organization's objectives. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
 
 ### Condensed to the Essentials
 
-When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight approach to adapt and build on as necessary.
+When looking at the norms, the _Sociocratic Circle Organization Method_ may look big and scary. By focusing on the essentials only, _Sociocracy 3.0_ offers a more lightweight starting point to adapt and build on as necessary.
 
 This doesn't mean to say it's all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it's important to only pull in what you need, because there's no point to changing things if what you are doing is already good enough.
 
