@@ -21,7 +21,7 @@ Depending on the scope and significance of the agreement, consider including all
 
 -   A title for the agreement
 -   [Description of the driver](section:describe-organizational-drivers)
--   Date of creation (and/or version)
+-   Date of creation (or version)
 -   Date of expiry or due date (if relevant)
 -   Review date (or frequency)
 -   Who is responsible for what?

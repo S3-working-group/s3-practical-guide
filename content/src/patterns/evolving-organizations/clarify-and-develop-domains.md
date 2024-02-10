@@ -384,7 +384,7 @@ Key resources can include:
 
 1. Time allocation for delegatee: 32 hrs per week
 2. Budget for hardware, software licenses and external engineering service providers is provided on request
-3. Budget for yearly training: 2000€ / person. Extension possible on request.
+3. Budget for yearly training: 2000€ per person. Extension possible on request.
 4. Company credit card to hire cars and mini buses for transporting casters to the casting locations. 
 5. A budget of €5000 per month for advertising
 6. Administration privileges for systems X,Y and Z

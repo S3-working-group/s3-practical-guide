@@ -136,7 +136,7 @@ If you do come across a solution disguised as a question, have a go at reformula
 -   When it's your turn, add one of your questions to the board as you read it out loud. You'll need to decide in which column to place it. If in doubt, add it to the "info gathering" column. You can talk about it later. 
 -   Use the "_Bingo_" and "_Sort-of Bingo_" technique, to identify and cluster similar considerations together: When you have the same question, say "_Bingo_", there is no need to repeat what's on your sticky note. When you have a related question, say "_Sort-of-Bingo_" and jump in and add the additional details.
 -   Avoid discussing questions in this step, unless it's necessary for understanding the question.
--   In the case of a solution disguised as a question, rephrase the question and/or bring it up in Step 6 when you collect ideas. 
+-   In the case of a solution disguised as a question, rephrase the question or bring it up in Step 6 when you collect ideas. 
 -   To increase meeting effectiveness, you can also prepare some of these questions prior to the meeting, as part of your preparation.
 
 
@@ -210,7 +210,7 @@ In this step, everyone shares ideas about how to fulfill the determined requirem
 
 _Delegate responsibility for putting together a proposal, to 2-3 people (tuners)._
 
-**Tuners** are individuals chosen by the group. Their task is to consider all the information and ideas the group has collected and to prepare a proposal for how to respond to the driver. They can choose one or more of the ideas, synthesize them and/or come up with new ones, based on all the information gathered in the process. When choosing Tuners, consider expertise, outside view, and inspiration.
+**Tuners** are individuals chosen by the group. Their task is to consider all the information and ideas the group has collected and to prepare a proposal for how to respond to the driver. They can choose one or more of the ideas, synthesize them or come up with new ones, based on all the information gathered in the process. When choosing Tuners, consider expertise, outside view, and inspiration.
 
 **Facilitator says**: _We need to choose tuners_. Then asks in this order: 
 
@@ -236,9 +236,9 @@ A well written proposal usually includes:
 
 -   the driver it responds to and the requirement it's intended to fulfill. 
 -   the proposal text - what, how, rationale, etc.
--   who will be responsible for what - for overseeing its application / implementation.
+-   who will be responsible for what - for overseeing its application/implementation.
 -   evaluation date or frequency - when the future agreement will be reviewed.
--   evaluation criteria - to measure / determine the success or effectiveness of the decision.
+-   evaluation criteria - to measure/determine the success or effectiveness of the decision.
 -   (a due date if necessary).
 
 When developing the proposal it is often enough to design a (few) viable and iterative next step(s). Alternatively, you might prepare a high-level proposal first and then get into details later, once the basic concept has been tested and approved.

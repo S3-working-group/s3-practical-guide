@@ -55,7 +55,7 @@ _Present and consent to the primary driver and main requirement._
 
 ### 2. Who will be impacted?
 
-_Who will be impacted as we fulfill the related requirement? Consider who can help / stand in the way / benefit / lose or be harmed._
+_Who will be impacted as we fulfill the related requirement? Consider who can help, stand in the way, benefit, lose, or be harmed._
 
 -   List actors on sticky notes and display them on a board
 -   Focus on actual people that will be impacted by this initiative (groups or individuals), and avoid making assumptions about future roles (such as _Project Manager_) or other domains (e.g. _Marketing_) at this stage.

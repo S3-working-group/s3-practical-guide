@@ -67,8 +67,8 @@ terms:
     glossary: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
   delegation:
     name: Delegation
-    definition: Delegation is the grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.
-    glossary: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.
+    definition: Delegation is the grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.
+    glossary: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.
   delegator:
     name: Delegator
     glossary: An individual or group delegating responsibility for a domain to other(s).
