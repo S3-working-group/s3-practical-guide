@@ -34,5 +34,5 @@ prev_page_url: "development-plan.html"
   <dd><p>Apply the role pattern to external contractors.</p></dd>
 
   <dt><a href="bylaws.html">Bylaws</a></dt>
-  <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and **organizational culture</p></dd>
+  <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and <strong>organizational culture</strong>.</p></dd>
 </dl>

@@ -7,7 +7,7 @@ prev_page_url: "building-organizations.html"
 ---
 
 
-<div class="card summary"><div class="card-body">_A **circle** is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain._
+<div class="card summary"><div class="card-body">A <strong>circle</strong> is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.
 </div></div>
 
 A circle:

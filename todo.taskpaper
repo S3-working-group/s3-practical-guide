@@ -1,6 +1,7 @@
-Inbox:
 
-- fix source of pattern map (outdated link to enablers of co-creation) and merge updated templates (also in docs/includes) to language versions
+Inbox:
+	- fix source of pattern map (outdated link to enablers of co-creation) and merge updated templates (also in docs/includes) to language versions
+
 
 ebook:
 	- ToC doesn't build correctly in PDF: @done
@@ -18,7 +19,7 @@ Link between language versions:
 		- fix German epub build
 Indexes, Tags, Dynamic Pattern Map:
 		Dynamic Pattern map:
-			- render a clickable pattern map that contains summaries on mouserover
+			- render a clickable pattern map that contains summaries on mouse-over
 			- add a filter (like on omnijs page) to search and filter for panels
 				see https://github.com/bboc/omni-plugins/blob/master/index.html
 				- what happens to pattern groups, do they just disappear when the first letter is typed??

@@ -24,4 +24,4 @@ During the session itself, consider:
 
 Avoid discussing or judging the feedback you receive and remember to thank your peer for taking the time to give you their feedback. 
 
-After the session, review your notes and decide for yourself what you will do with the feedback you received. It’s your choice if you want to share your decision with your peer.
+After the session, review your notes and decide for yourself what you will do with the feedback you received. It's your choice if you want to share your decision with your peer.

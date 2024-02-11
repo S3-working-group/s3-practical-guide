@@ -19,7 +19,7 @@ prev_page_url: "patterns.html"
   <dd><p>Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.</p></dd>
 
   <dt><a href="determine-requirements.html">Determine Requirements</a></dt>
-  <dd><p>Determine what’s required to respond appropriately to an organizational driver, before making a specific decision about what to do.</p></dd>
+  <dd><p>Determine what's required to respond appropriately to an organizational driver, before making a specific decision about what to do.</p></dd>
 
   <dt><a href="consent-decision-making.html">Consent Decision-Making</a></dt>
   <dd><p>A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.</p></dd>

@@ -29,7 +29,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-check-in">Check-In</dt>
-<dd>A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.</dd>
+<dd>A brief disclosure where you share something about what's up for you and how you are, revealing thoughts, feelings, distractions or needs.</dd>
 
 
 <dt id="entry-chosen-values">Chosen Values</dt>
@@ -69,7 +69,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-delegation">Delegation</dt>
-<dd>The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.</dd>
+<dd>The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.</dd>
 
 
 <dt id="entry-delegator">Delegator</dt>
@@ -85,11 +85,11 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-driver">Driver</dt>
-<dd>A person’s or a group's motive for responding to a specific situation.</dd>
+<dd>A person's or a group's motive for responding to a specific situation.</dd>
 
 
 <dt id="entry-effectiveness">Effectiveness (principle)</dt>
-<dd><strong>Devote time only to what brings you closer towards achieving your organization’s overall objectives</strong>, so that you can make the best use of your limited time, energy and resources.</dd>
+<dd><strong>Devote time only to what brings you closer towards achieving your organization's overall objectives</strong>, so that you can make the best use of your limited time, energy and resources.</dd>
 
 
 <dt id="entry-empiricism">Empiricism (principle)</dt>
@@ -165,7 +165,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-organizational-driver">Organizational Driver</dt>
-<dd>Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).</dd>
+<dd>Any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).</dd>
 
 
 <dt id="entry-overall-domain">Overall Domain</dt>

@@ -11,16 +11,16 @@ prev_page_url: "sense-making-and-decision-making.html"
 </div></div>
 
 
-When a role keeper or a team becomes aware of a new driver they are responsible for dealing with, it’s usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
+When a role keeper or a team becomes aware of a new driver they are responsible for dealing with, it's usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
 
-Here’s a series of steps you can take which will support you to make the best use of your time and resources:
+Here's a series of steps you can take which will support you to make the best use of your time and resources:
 
 
 1. Confirm that this situation is both relevant for the organization to respond to, and that responding is the responsibility of you or your team.
-2. Sort it into your backlog according to its priority. When it’s time to respond to the driver:
+2. Sort it into your backlog according to its priority. When it's time to respond to the driver:
 3. Determine the <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a>
 4. Decide on how to fulfill the requirement 
-5. act on what’s been agreed
+5. act on what's been agreed
 6. Regularly review outcomes and, if needed, adapt your decision to improve it, based on what you learn.
 
 
@@ -29,23 +29,23 @@ Here’s a series of steps you can take which will support you to make the best 
 
 ## Step 1: Confirm Relevance
 
-As a role keeper or team, before responding to a driver, it is essential to verify both that the driver is relevant _for the organization_ to respond to (i.e. it is in fact an _organizational driver_), **and** that it’s yours or your team’s responsibility to deal with it, or at least, that your doing so is beneficial and that it will cause no impediment or harm.
+As a role keeper or team, before responding to a driver, it is essential to verify both that the driver is relevant _for the organization_ to respond to (i.e. it is in fact an _organizational driver_), **and** that it's yours or your team's responsibility to deal with it, or at least, that your doing so is beneficial and that it will cause no impediment or harm.
 
-If you think that a driver is relevant, but it’s someone else’s responsibility to deal with it, pass it on to them instead (see also [Navigate via Tension](navigate-via-tension.html)). 
+If you think that a driver is relevant, but it's someone else's responsibility to deal with it, pass it on to them instead (see also [Navigate via Tension](navigate-via-tension.html)). 
 
-To keep track of new drivers that you become aware of (or that others identify and pass on to you) it’s useful that for each domain you set up a dedicated place to receive them, such as a column in a kanban board called "inbox" or "incoming" where information about potentially relevant drivers can be placed.
+To keep track of new drivers that you become aware of (or that others identify and pass on to you) it's useful that for each domain you set up a dedicated place to receive them, such as a column in a kanban board called "inbox" or "incoming" where information about potentially relevant drivers can be placed.
 
 
 ## Step 2: Determine Priority
 
-Once you decide that a driver is described clearly enough and it’s relevant for you to respond to, it needs to be prioritized and moved to the appropriate backlog, to be picked up and dealt with accordingly. 
+Once you decide that a driver is described clearly enough and it's relevant for you to respond to, it needs to be prioritized and moved to the appropriate backlog, to be picked up and dealt with accordingly. 
 
-Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn’t imply that it’s also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Therefore, new drivers need to be prioritized in relation to other work items, so that you remain focused on doing what’s most important next, to continue working effectively toward your objectives.
+Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn't imply that it's also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Therefore, new drivers need to be prioritized in relation to other work items, so that you remain focused on doing what's most important next, to continue working effectively toward your objectives.
 
 
 ## Step 3: Determine the requirement
 
-After establishing that a driver is both relevant and a priority, it’s helpful to determine the requirement: what you consider is needed or desirable to effectively respond to the situation - before narrowing down on a specific solution. 
+After establishing that a driver is both relevant and a priority, it's helpful to determine the requirement: what you consider is needed or desirable to effectively respond to the situation - before narrowing down on a specific solution. 
 
 _A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step._
 
@@ -65,12 +65,12 @@ In the absence of any existing agreement that guides people on how to fulfill a 
 
 ## Step 5: Act
 
-Finally, it’s time to act on what was agreed. 
+Finally, it's time to act on what was agreed. 
 
 
 ## Step 6: Review and Improve
 
-It’s helpful to regularly review decisions in light of the outcomes that arise from acting on them, so you can reflect on learning and use that information to identify opportunities for improving any decisions you have made.
+It's helpful to regularly review decisions in light of the outcomes that arise from acting on them, so you can reflect on learning and use that information to identify opportunities for improving any decisions you have made.
 
 As well as reviewing outcomes, remember to also review your decisions regarding:
 

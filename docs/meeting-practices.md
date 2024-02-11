@@ -31,5 +31,5 @@ prev_page_url: "coordination-meeting.html"
   <dd><p>Select someone to facilitate governance meetings.</p></dd>
 
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
-  <dd><p><em>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</em></p></dd>
+  <dd><p>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</p></dd>
 </dl>

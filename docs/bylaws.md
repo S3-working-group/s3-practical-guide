@@ -7,7 +7,7 @@ prev_page_url: "support-role.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture
+<div class="card summary"><div class="card-body">Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and <strong>organizational culture</strong>.
 </div></div>
 
 Consider:

@@ -10,7 +10,7 @@ prev_page_url: "fractal-organization.html"
 
 ![The Common Sense Framework](img/csf/csf-logo.png)
 
-We’re observing an emerging common sense that is transforming organizations around the world, inspiring and enabling people to build successful organizations where BOTH the people and the organization thrive.
+We're observing an emerging common sense that is transforming organizations around the world, inspiring and enabling people to build successful organizations where BOTH the people and the organization thrive.
 
 We have distilled the essence of this _common sense_ into a concise  framework for teams and organizations: The **Common Sense Framework (CSF)** is a tool for sense-making, designed to help people address the challenges and opportunities they face. It supports building a shared understanding of the bigger picture, identifying and prioritizing areas of need within a team and throughout an organization, and understanding what to focus on next.
 

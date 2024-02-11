@@ -19,7 +19,7 @@ Explore and refine each argument as necessary to identify any misconceptions or 
 
 To have a productive dialogue, it is helpful to understand that any argument is made up of a series of **claims**: Each argument contains one or more **premises**, which are offered as reasons for accepting a **conclusion**.
 
-Each of an argument’s premises can be scrutinized individually, and when that is done, we can analyze whether or not the conclusion that follows from those premises stood up to the test.
+Each of an argument's premises can be scrutinized individually, and when that is done, we can analyze whether or not the conclusion that follows from those premises stood up to the test.
 
 It helps to present the argument in a way that makes the premises and conclusion, obvious, e.g. like this:
 
@@ -54,7 +54,7 @@ This process for testing if arguments qualify as objections, is a variation of t
 
 **Step 4:** Investigate the reasoning behind the disagreement: 
 
-- If it demonstrates that the original argument is false (totally or partly) or that ( despite it being sound), it doesn’t qualify as an objection, continue with the next step.
+- If it demonstrates that the original argument is false (totally or partly) or that ( despite it being sound), it doesn't qualify as an objection, continue with the next step.
 - Otherwise go back to step 3 to check for any further disagreements.
 
 **Step 5:** Integrate the information revealed in the previous step with the original argument:
@@ -64,7 +64,7 @@ This process for testing if arguments qualify as objections, is a variation of t
 
 ![A process for testing if an argument qualifies as an objection](img/agreements/test-arguments.png)
 
-Below you’ll find more guidance on how to go through each step. As with all patterns in S3, your approach to testing if arguments qualify as objections can be adjusted to suit your context.
+Below you'll find more guidance on how to go through each step. As with all patterns in S3, your approach to testing if arguments qualify as objections can be adjusted to suit your context.
 
 
 ### Step 1 Present argument
@@ -80,7 +80,7 @@ Below you’ll find more guidance on how to go through each step. As with all pa
 
 **Facilitator asks everyone:** *Any questions to understand the argument?*
 
-**Everyone:** If you don’t understand, jump in and ask a clarifying question. The person presenting the argument explains further, until everyone understands.
+**Everyone:** If you don't understand, jump in and ask a clarifying question. The person presenting the argument explains further, until everyone understands.
 
 
 ### Step 3 Check for disagreement with the argument
@@ -108,18 +108,18 @@ Choose one of the people with a raised hand and using the same process for testi
 **4.3. Check for disagreement to the disagreement:** Facilitator asks: *Does anyone disagree with the reason for this disagreement, entirely or in part?*
 
 - **If no one disagrees**: the argument for the disagreement is considered valid. Go to step 5.
-- **If anyone disagrees**: investigate the reasoning behind the disagreement (see step 4) until you come to an argument that no-one disagrees with. Then take each preceding argument in turn – checking if there’s anything remaining and/or if it needs to be changed or dropped (see step 5 for guidelines on how to do this) – until you arrive back to the initial disagreement. 
+- **If anyone disagrees**: investigate the reasoning behind the disagreement (see step 4) until you come to an argument that no-one disagrees with. Then take each preceding argument in turn – checking if there's anything remaining and/or if it needs to be changed or dropped (see step 5 for guidelines on how to do this) – until you arrive back to the initial disagreement. 
 
 
 ### Step 5: Integrate the information revealed in the previous step with the original argument
 
 **Facilitator asks** the person who presented the original argument: *"Anything remaining of your argument?"*
 
-The person who brought the original argument has the option to refine, rephrase or reframe their argument, or to drop it entirely, if there’s nothing remaining. 
+The person who brought the original argument has the option to refine, rephrase or reframe their argument, or to drop it entirely, if there's nothing remaining. 
 
 - If the original argument still has some validity, refine it and then continue with step 3 to see if there is any disagreement with the refined argument.
 - Otherwise you have demonstrated that the original **argument is not an objection.**
 
 ![Recursive application of testing arguments and investigating disagreements](img/agreements/test-arguments-process.png)
 
-![Facilitator’s Guide: Test Arguments Qualify As Objections](img/agreements/test-arguments-facilitation-guide.png)
+![Facilitator's Guide: Test Arguments Qualify As Objections](img/agreements/test-arguments-facilitation-guide.png)

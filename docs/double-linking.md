@@ -7,7 +7,7 @@ prev_page_url: "linking.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Enable the _two-way_ flow of information and influence between two teams.
+<div class="card summary"><div class="card-body">Enable the <em>two-way</em> flow of information and influence between two teams.
 </div></div>
 
 Two interdependent teams each select one of their members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decisions of the other team.

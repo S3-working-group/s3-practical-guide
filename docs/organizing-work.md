@@ -10,7 +10,7 @@ prev_page_url: "governance-backlog.html"
 <dl>
 
   <dt><a href="backlog.html">Backlog</a></dt>
-  <dd><p><em>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</em></p></dd>
+  <dd><p>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</p></dd>
 
   <dt><a href="prioritize-backlogs.html">Prioritize Backlogs</a></dt>
   <dd><p>Order all uncompleted work items with the most important items first, then pull work items from the top whenever there is new capacity.</p></dd>
@@ -28,5 +28,5 @@ prev_page_url: "governance-backlog.html"
   <dd><p>Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.</p></dd>
 
   <dt><a href="coordinator.html">Coordinator</a></dt>
-  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is **selected for a limited term.</p></dd>
+  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term</strong>.</p></dd>
 </dl>

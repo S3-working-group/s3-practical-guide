@@ -28,7 +28,7 @@ prev_page_url: "changelog.html"
   <dd><p>A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.</p></dd>
 
   <dt><a href="backlog.html">Backlog</a></dt>
-  <dd><p><em>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</em></p></dd>
+  <dd><p>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</p></dd>
 
   <dt><a href="be-the-change.html">Be The Change</a></dt>
   <dd><p>Lead by example.</p></dd>
@@ -37,13 +37,13 @@ prev_page_url: "changelog.html"
   <dd><p>Break agreements when you are certain the benefit for the organization outweighs the cost of waiting to amend that agreement first, and take responsibility for any consequences.</p></dd>
 
   <dt><a href="bylaws.html">Bylaws</a></dt>
-  <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and **organizational culture</p></dd>
+  <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and <strong>organizational culture</strong>.</p></dd>
 
   <dt><a href="check-in.html">Check In</a></dt>
   <dd><p>Help people to become aware of themselves and others, and to focus, be present and engage.</p></dd>
 
   <dt><a href="circle.html">Circle</a></dt>
-  <dd><p><em>A <strong>circle</strong> is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.</em></p></dd>
+  <dd><p>A <strong>circle</strong> is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.</p></dd>
 
   <dt><a href="clarify-intended-outcome.html">Clarify Intended Outcome</a></dt>
   <dd><p>Be explicit about the expected results of agreements, activities, projects and strategies.</p></dd>
@@ -52,7 +52,7 @@ prev_page_url: "changelog.html"
   <dd><p>Explicitly clarify, and then regularly evaluate and develop the design of domains throughout the organization, based on learning, to enable those with responsibility for each domain to deliver value as effectively as possible to the customers they serve.</p></dd>
 
   <dt><a href="clarify-and-develop-strategy.html">Clarify and Develop Strategy</a></dt>
-  <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
+  <dd><p>For the whole organization and for each domain, devise a strategy for how to create value, and develop it over time based on what you learn.</p></dd>
 
   <dt><a href="co-create-proposals.html">Co-Create Proposals</a></dt>
   <dd><p>Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.</p></dd>
@@ -70,7 +70,7 @@ prev_page_url: "changelog.html"
   <dd><p>Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.</p></dd>
 
   <dt><a href="coordinator.html">Coordinator</a></dt>
-  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is **selected for a limited term.</p></dd>
+  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term</strong>.</p></dd>
 
   <dt><a href="create-a-pull-system-for-organizational-change.html">Create a Pull-System For Organizational Change</a></dt>
   <dd><p>Create an environment that invites and enables members of the organization to drive change.</p></dd>
@@ -91,7 +91,7 @@ prev_page_url: "changelog.html"
   <dd><p>Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.</p></dd>
 
   <dt><a href="determine-requirements.html">Determine Requirements</a></dt>
-  <dd><p>Determine what’s required to respond appropriately to an organizational driver, before making a specific decision about what to do.</p></dd>
+  <dd><p>Determine what's required to respond appropriately to an organizational driver, before making a specific decision about what to do.</p></dd>
 
   <dt><a href="development-plan.html">Development Plan</a></dt>
   <dd><p>A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.</p></dd>
@@ -121,7 +121,7 @@ prev_page_url: "changelog.html"
   <dd><p>Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).</p></dd>
 
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
-  <dd><p><em>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</em></p></dd>
+  <dd><p>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</p></dd>
 
   <dt><a href="governance-facilitator.html">Governance Facilitator</a></dt>
   <dd><p>Select someone to facilitate governance meetings.</p></dd>

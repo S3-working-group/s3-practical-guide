@@ -8,17 +8,17 @@ prev_page_url: "pattern-index.html"
 
 
 
-- **Delegator:** Executive team
-- **Delegatees:** Danielle, Mawiyah, Chris, Mohammed
-- **Date of latest update to the domain description:** 13th November 2023
-- **Author Name(s):** Mohammed, Danielle, Richard
+-   **Delegator:** Executive team
+-   **Delegatees:** Danielle, Mawiyah, Chris, Mohammed
+-   **Date of latest update to the domain description:** 13th November 2023
+-   **Author Name(s):** Mohammed, Danielle, Richard
 
 
 ## Purpose
 
-**Primary Driver**: The organization's growth is currently hindered by a lack of brand recognition and market penetration, despite having a product that meets the needs of the market. This results in lower sales volume and a slower rate of customer acquisition compared to what’s possible, considering we want to sustain our growth and market share in an industry with rapid innovation and high competition.
+**Primary Driver**: The organization's growth is currently hindered by a lack of brand recognition and market penetration, despite having a product that meets the needs of the market. This results in lower sales volume and a slower rate of customer acquisition compared to what's possible, considering we want to sustain our growth and market share in an industry with rapid innovation and high competition.
 
-**Main Requirement: **We need to elevate the company's brand profile and articulate the unique value proposition of our products to the target market, so that potential customers understand why our product is the right choice for them, leading to increased customer engagement and revenue.
+**Main Requirement:** We need to elevate the company's brand profile and articulate the unique value proposition of our products to the target market, so that potential customers understand why our product is the right choice for them, leading to increased customer engagement and revenue.
 
 
 ## Key Responsibilities
@@ -27,7 +27,7 @@ prev_page_url: "pattern-index.html"
 
 **Manage the marketing budget efficiently**, to maximize ROI across all campaigns.
 
-**Monitor and analyze market trends**, to adjust marketing strategies proactively and maintain competitive advantage.–** **The fast pace of change in consumer behavior and market dynamics is rendering current marketing strategies ineffective.
+**Monitor and analyze market trends**, to adjust marketing strategies proactively and maintain competitive advantage. The fast pace of change in consumer behavior and market dynamics is rendering current marketing strategies ineffective.
 
 **Execute and refine digital marketing campaigns**, to improve engagement and reduce customer acquisition costs. – With digital ad spend increasing without proportional gains in engagement and acquisition, current strategies are leading to diminishing returns.
 
@@ -53,12 +53,12 @@ prev_page_url: "pattern-index.html"
 
 ### Product Development Team 🔗
 
-**Deliverable: **Market research reports that provide insights into customer needs, preferences, and trends, to aid the product team in making data-driven decisions for product enhancements or new product creation.
+**Deliverable:** Market research reports that provide insights into customer needs, preferences, and trends, to aid the product team in making data-driven decisions for product enhancements or new product creation.
 
 
 ### Customer Service Department 🔗
 
-**Deliverable: **Training materials and FAQs for new campaigns or product launches, that equip customer service representatives with up-to-date information, enabling them to effectively address customer inquiries and enhance overall customer satisfaction.
+**Deliverable:** Training materials and FAQs for new campaigns or product launches, that equip customer service representatives with up-to-date information, enabling them to effectively address customer inquiries and enhance overall customer satisfaction.
 
 
 ### Executive Leadership 🔗
@@ -79,57 +79,57 @@ prev_page_url: "pattern-index.html"
 
 **Deliverable:** Product information and updates, which are critical for creating accurate marketing materials and campaigns.
 
-**Requirement: **Receive detailed product specifications and roadmaps to develop marketing strategies that align with product capabilities and release schedules.
+**Requirement:** Receive detailed product specifications and roadmaps to develop marketing strategies that align with product capabilities and release schedules.
 
 
 ### IT Department 🔗
 
-**Deliverable: **Technical infrastructure support for hosting the company's website, managing marketing databases, and ensuring cybersecurity for digital marketing operations.
+**Deliverable:** Technical infrastructure support for hosting the company's website, managing marketing databases, and ensuring cybersecurity for digital marketing operations.
 
-**Requirement: **Ensure robust and secure IT systems to maintain the functionality and security of marketing channels and customer data.
+**Requirement:** Ensure robust and secure IT systems to maintain the functionality and security of marketing channels and customer data.
 
 
 ### Customer Service Department 🔗
 
 **Deliverable:** Feedback and insights from customer interactions, providing first-hand customer experiences and expectations.
 
-**Requirement: **Gather customer feedback to refine marketing messages and identify customer service improvement opportunities.
+**Requirement:** Gather customer feedback to refine marketing messages and identify customer service improvement opportunities.
 
 
 ### Sales Team 🔗
 
-**Deliverable: **Sales data and customer feedback on marketing leads and their conversion rates.
+**Deliverable:** Sales data and customer feedback on marketing leads and their conversion rates.
 
-**Requirement: **Share detailed sales results to inform marketing effectiveness and direction for future campaigns.
+**Requirement:** Share detailed sales results to inform marketing effectiveness and direction for future campaigns.
 
 
 ### Product Management Team 🔗
 
 **Deliverable:** Strategic direction and decision-making that guide overall business and marketing strategy alignment.
 
-**Requirement: **Provide clear strategic directives to ensure marketing efforts support overarching business goals.
+**Requirement:** Provide clear strategic directives to ensure marketing efforts support overarching business goals.
 
 
 ### Finance Department 🔗
 
 **Deliverable:** Budget allocations and financial reporting systems that marketing needs for budget management and campaign funding.
 
-**Requirement: **Allocate marketing budgets to plan and execute campaigns effectively without overspending.
+**Requirement:** Allocate marketing budgets to plan and execute campaigns effectively without overspending.
 
 
 ### Legal Team 🔗
 
-**Deliverable: **Legal advice and approval for marketing content to ensure compliance with advertising laws and regulations.
+**Deliverable:** Legal advice and approval for marketing content to ensure compliance with advertising laws and regulations.
 
-**Requirement: **Legal vetting of marketing materials to avoid regulatory breaches and protect brand reputation.
+**Requirement:** Legal vetting of marketing materials to avoid regulatory breaches and protect brand reputation.
 
 
 
 ## External Constraints
 
-**Adhere to <span style="text-decoration:underline;">brand guidelines</span> and messaging for all marketing materials**, to maintain a consistent brand image and avoid customer confusion. 
+**Adhere to brand guidelines🔗 and messaging for all marketing materials**, to maintain a consistent brand image and avoid customer confusion. 
 
-**Obtain approval for campaigns exceeding the allocated budget from <span style="text-decoration:underline;">Finance</span>**, to avoid overspending. – With a finite marketing budget, overspending on one campaign could limit the resources available for other critical marketing activities throughout the fiscal year.
+**Obtain approval for campaigns exceeding the allocated budget from Finance🔗**, to avoid overspending. – With a finite marketing budget, overspending on one campaign could limit the resources available for other critical marketing activities throughout the fiscal year.
 
 **Compliance with advertising standards and regulations**, to prevent legal issues and uphold the company's reputation for integrity. – The marketing industry is regulated to protect consumers and ensure fair competition, making compliance a non-negotiable aspect of marketing operations.
 
@@ -194,13 +194,13 @@ prev_page_url: "pattern-index.html"
 
 ### Personality
 
-* **Customer-centric thinking **to ensure marketing efforts align with customer needs and preferences.
+* **Customer-centric thinking** to ensure marketing efforts align with customer needs and preferences.
 * **Adaptability to embrace and lead change** in response to market trends, technology developments, and shifts in consumer behavior.
 * **Ethical judgment and professionalism** in representing the company's brand and interacting with stakeholders.
 * **Attention to detail** in crafting marketing materials and analyzing the performance metrics of campaigns.
 * **Strong collaborative skills** to work with other teams and external partners effectively.
 * **Resilience** in facing and overcoming the setbacks common in dynamic and competitive environments.
-* **Experience paired with open-mindedness **to approach marketing challenges with fresh ideas and new perspectives.
+* **Experience paired with open-mindedness** to approach marketing challenges with fresh ideas and new perspectives.
 * **Networking abilities** to cultivate relationships with media, influencers, and industry professionals.
 
 
@@ -283,7 +283,7 @@ Track MROI for **each campaign**, and **quarterly** for overall performance
 **Purpose**: Ensure product and service quality meets customer expectations to maintain a positive brand reputation and customer loyalty.
 
 
-### Brand Engagement 
+### Brand Engagement
 
 **Calculate Brand Engagement rate per platform** as reported by Hootsuite.
 

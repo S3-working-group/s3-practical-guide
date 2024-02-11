@@ -34,7 +34,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 We dedicate a part of our time and money to create free resources about Sociocracy 3.0 as part of our ongoing commitment to make sociocracy and related ideas more accessible to the wider world. 
 
-There’s an overlap between what we give away for free and how we make a living. Besides our work co-developing Sociocracy 3.0, we also sell consulting, facilitation, coaching and mentoring services, and design and delivery courses and events about, but not limited to Sociocracy 3.0. 
+There's an overlap between what we give away for free and how we make a living. Besides our work co-developing Sociocracy 3.0, we also sell consulting, facilitation, coaching and mentoring services, and design and delivery courses and events about, but not limited to Sociocracy 3.0. 
 
 You can always rely on the the Practical Guide as being the current and authoritative description of Sociocracy 3.0, which will always be available under a Creative Commons Attribution-ShareAlike 4.0 International License.
 

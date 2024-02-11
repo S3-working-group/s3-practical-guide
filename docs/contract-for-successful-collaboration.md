@@ -48,7 +48,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 
 ## When Co-Creating a Contract:
 
-- ensure all parties have a delegation that includes representation for all affected <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. not only sales, but also development / production / support, etc)
+- ensure all parties have a delegation that includes representation for all affected <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. not only sales, but also development, production, support etc.)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
 - state the reasons for the proposed collaboration, and transparent about expectations and needs of all parties
 - disclose all relevant information (if necessary under an NDA)

@@ -10,7 +10,7 @@ prev_page_url: "bylaws.html"
 <dl>
 
   <dt><a href="circle.html">Circle</a></dt>
-  <dd><p><em>A <strong>circle</strong> is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.</em></p></dd>
+  <dd><p>A <strong>circle</strong> is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.</p></dd>
 
   <dt><a href="role.html">Role</a></dt>
   <dd><p>Delegate responsibility for a domain to individuals.</p></dd>

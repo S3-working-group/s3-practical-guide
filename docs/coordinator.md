@@ -7,7 +7,7 @@ prev_page_url: "timebox-activities.html"
 ---
 
 
-<div class="card summary"><div class="card-body">A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.
+<div class="card summary"><div class="card-body">A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term</strong>.
 </div></div>
 
 The coordinator may be selected by the team itself, or by the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.

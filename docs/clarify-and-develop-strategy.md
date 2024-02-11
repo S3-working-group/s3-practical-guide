@@ -7,8 +7,10 @@ prev_page_url: "delegate-influence.html"
 ---
 
 
-<div class="card summary"><div class="card-body">_A **strategy** is a high level approach for how people will create value to successfully account for a domain._
+<div class="card summary"><div class="card-body">For the whole organization and for each domain, devise a strategy for how to create value, and develop it over time based on what you learn.
 </div></div>
+
+_A **strategy** is a high level approach for how people will create value to successfully account for a domain._
 
 It is usually more effective if a team or role keeper lead in developing their own strategy.
 

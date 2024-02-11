@@ -13,9 +13,9 @@ You can think of objections as a simple tool for harvesting distributed intellig
 
 Be aware that withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 
-It’s the responsibility of each individual in an organization to raise potential objections to proposals, decisions, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or activities.
+It's the responsibility of each individual in an organization to raise potential objections to proposals, decisions, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or activities.
 
-Those accountable for an activity or (proposed) agreement in question, are responsible for *considering arguments and addressing objections* that are raised, when doing so will help to meet the organization’s objectives.
+Those accountable for an activity or (proposed) agreement in question, are responsible for *considering arguments and addressing objections* that are raised, when doing so will help to meet the organization's objectives.
 
 When seeking out potential objections, consider:
 
@@ -42,7 +42,7 @@ Harness a diversity of perspectives and be open to challenge your own, to discov
 
 _A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
 
-Concerns can still inform people of ways to further evolve agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. Bring up concerns if you think it’s valuable to consider them.
+Concerns can still inform people of ways to further evolve agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. Bring up concerns if you think it's valuable to consider them.
 
 Determining whether an argument is an objection or concern is sometimes dependent on context. 
 

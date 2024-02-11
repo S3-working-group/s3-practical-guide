@@ -16,7 +16,7 @@ prev_page_url: "role-selection.html"
   <dd><p>Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.</p></dd>
 
   <dt><a href="clarify-and-develop-strategy.html">Clarify and Develop Strategy</a></dt>
-  <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
+  <dd><p>For the whole organization and for each domain, devise a strategy for how to create value, and develop it over time based on what you learn.</p></dd>
 
   <dt><a href="align-flow.html">Align Flow</a></dt>
   <dd><p>In support of continuous flow of value, move decision-making close to where value is created, and align the flow of information accordingly.</p></dd>

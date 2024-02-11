@@ -80,7 +80,7 @@ Even though several sections in this book are brief and may still be rough aroun
 
 ![Influences and history of Sociocracy 3.0](img/context/history.png)
 
-The literal meaning of the term **sociocracy** is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means "power", or "rule".
+The literal meaning of the term **sociocracy** is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means "power", or "rule".
 
 The word sociocracy can be traced back to 1851, when **Auguste Comte** suggested applying a scientific approach to society: states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
 
@@ -124,7 +124,7 @@ To this end, we recognize the value of a strong identity, a radically different 
 
 The name "*Sociocracy 3.0*" demonstrates both respect to the lineage and a significant step forward.
 
-It also helps avoid the perception of us misrepresenting the Sociocratic Circle Organization Method (SCM) as promoted by The Sociocracy Group (TSG), The Sociocracy Consulting Group, Sociocracy For All (SoFA), Governance Alive, and many others.
+It also helps avoid the perception of us misrepresenting the _Sociocratic Circle Organization Method (SCM)_ as promoted by The Sociocracy Group (TSG), The Sociocracy Consulting Group, Sociocracy For All (SoFA), Governance Alive, and many others.
 
 ![Three variants of sociocracy](img/context/sociocracy-variants.png)
 
@@ -139,21 +139,21 @@ We support "viral" distribution through two key strategies:
 
 #### The Evolution of the Sociocratic Circle Organization Method
 
-Maybe we need to make this explicit: Sociocracy 3.0 is not targeted specifically at the existing community of people exploring the *Sociocratic Circle Organization Method*, or at The Sociocracy Group (TSG). The *Sociocratic Circle Organization Method* (SCM) is already well developed and many people appear to be mostly happy with it.
+Maybe we need to make this explicit: _Sociocracy 3.0_ is not targeted specifically at the existing community of people exploring or using the _Sociocratic Circle Organization Method_ (SCM). SCM is already well developed and of those people who use it, many appear to be mostly happy with it.
 
-Yet from our direct experience, even for those organizations that have heard about sociocracy, there are many obstacles to actually become invested. With *Sociocracy 3.0* we actively work on addressing and eliminating what stands in the way.
+Yet from our direct experience, for most organizations, the methodology is either insufficient or inappropriate for addressing many of their needs. With _Sociocracy 3.0_ we actively work on addressing these limitations and inadequacies by developing new patterns and eliminating what stands in the way.
 
 ##### Reducing Risk and Resistance
 
-*Sociocracy 3.0* meets organizations where they are and takes them on a journey of continuous improvement. There's no radical change or reorganization. *Sociocracy 3.0* provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
+_Sociocracy 3.0_ meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. _Sociocracy 3.0_ provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
 
-##### Shifting Focus From Aim (or Purpose) to Need
+##### Shifting Focus from Vision to Need
 
-*Sociocracy 3.0* moves primary focus from vision, mission, aims or purpose, towards the source of motivation, and aligns the organization towards discovering and addressing what it needs. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
+_Sociocracy 3.0_ moves primary focus away from attempting to realize a vision, toward understanding the current reality and determining what is required to achieve an organization's objectives. Organizations which are already need-driven, value driven or customer-centric, find this immediately accessible.
 
 ##### Condensed to the Essentials
 
-When looking at the norms, the *Sociocratic Circle Organization Method* may look big and scary. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight approach to adapt and build on as necessary.
+When looking at the norms, the _Sociocratic Circle Organization Method_ may look big and scary. By focusing on the essentials only, _Sociocracy 3.0_ offers a more lightweight starting point to adapt and build on as necessary.
 
 This doesn't mean to say it's all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it's important to only pull in what you need, because there's no point to changing things if what you are doing is already good enough.
 
@@ -177,7 +177,7 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 **_The Principle of Effectiveness_:** 
 
-_**Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources._
+_**Devote time only to what brings you closer towards achieving your organization's overall objectives**, so that you can make the best use of your limited time, energy and resources._
 
 **_The Principle of Consent_:**
 
@@ -206,7 +206,7 @@ _**Respond when something is needed, do what you agreed to do, and accept your s
 
 ### The Principle of Effectiveness
 
-_**Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources._
+_**Devote time only to what brings you closer towards achieving your organization's overall objectives**, so that you can make the best use of your limited time, energy and resources._
 
 The principle of effectiveness invites us to think consciously about what we do and how we do things. It calls for the intentional consideration of the consequences of our actions, both now and across time, on our organizations but also on the wider environment and the world at large. 
 
@@ -215,7 +215,7 @@ Pursuing effectiveness requires that we act with intent to minimize waste, remov
 
 #### Clarify the why
 
-Being effective begins with getting clear about why you want to do something and establishing an approximate idea of what it is you want to achieve. Defining why the organization exists and the objectives it’s trying to achieve helps everyone understand more about what they are working toward and about how they can contribute in a meaningful way. Without this clarity, it’s hard for individuals to contextualize their work in the bigger picture. It’s also harder to qualify and quantify what brings value and in which ways. 
+Being effective begins with getting clear about why you want to do something and establishing an approximate idea of what it is you want to achieve. Defining why the organization exists and the objectives it's trying to achieve helps everyone understand more about what they are working toward and about how they can contribute in a meaningful way. Without this clarity, it's hard for individuals to contextualize their work in the bigger picture. It's also harder to qualify and quantify what brings value and in which ways. 
 
 #### Keep your options open
 
@@ -231,9 +231,9 @@ Be on the lookout for possible side-effects and unintended consequences before, 
 
 There are scales of effectiveness (and efficiency) that can only be appreciated if we consider the wider context and consequences of our actions across time. Sometimes our activities might achieve the outcomes we intended in the short term but with unfavorable consequences and hidden costs that only reveal themselves across time.  For example, large scale, industrial agriculture produces huge yields very efficiently but over the long-term  it leads to a critical depletion of topsoil and increasing dependency on fertilizers, insecticides and weedkillers. This can be a case of a short term gain but for long term pain.
 
-In complex environments it is sometimes hard to figure out what effectiveness would actually mean. Consider the perspective of others, even if you are making a decision for yourself.  Make the most of experience and expertise distributed throughout your organization and reach out to people with alternative points of view. Running your ideas past others can help you to avoid consequences that you’d rather avoid, and identify worthwhile ways to improve.
+In complex environments it is sometimes hard to figure out what effectiveness would actually mean. Consider the perspective of others, even if you are making a decision for yourself.  Make the most of experience and expertise distributed throughout your organization and reach out to people with alternative points of view. Running your ideas past others can help you to avoid consequences that you'd rather avoid, and identify worthwhile ways to improve.
 
-Decide how you will measure effectiveness, and if you’re collaborating with others, develop and maintain a shared understanding of what this will mean. Having established a clear "_why_" and defined the outcome you intend to achieve, consider how you will measure results in a way that allows you to see how you’re progressing (and whether anything you are doing is useful at all!)
+Decide how you will measure effectiveness, and if you're collaborating with others, develop and maintain a shared understanding of what this will mean. Having established a clear "_why_" and defined the outcome you intend to achieve, consider how you will measure results in a way that allows you to see how you're progressing (and whether anything you are doing is useful at all!)
 
 Effectiveness can sometimes only be determined in retrospect. Pay attention to and reflect on the consequences of your actions,  and then use what you learn to improve your effectiveness next time. 
 
@@ -255,11 +255,11 @@ As well as getting clear on what you WILL do, be clear on what NOT to do as well
 
 _**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve._
 
-Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions and activity through the lens of different people’s perspectives helps to identify reasons why a decision or activity could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
+Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions and activity through the lens of different people's perspectives helps to identify reasons why a decision or activity could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
 
 Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough or that there are worthwhile ways to improve? 
 
-Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. Instead it’s useful to make decisions that, over time, free people up as much as possible to decide and act to create value by themselves. It does however require adequate _transparency_ and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see _the Principle of Equivalence_).
+Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. Instead it's useful to make decisions that, over time, free people up as much as possible to decide and act to create value by themselves. It does however require adequate _transparency_ and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see _the Principle of Equivalence_).
 
 #### Invite dissent
 
@@ -275,11 +275,11 @@ When a group or organization adopts the principle of consent, supremacy shifts f
 
 #### Distinguish between opinion or preference, and objections
 
-Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible _objections_, but also by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it’s typically a good idea to _test arguments qualify as objections_ and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias. 
+Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible _objections_, but also by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it's typically a good idea to _test arguments qualify as objections_ and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias. 
 
-Arguments that qualify as objections — at least as far as stakeholders can tell — help a group in directing their effort toward making changes in those areas where it’s necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
+Arguments that qualify as objections — at least as far as stakeholders can tell — help a group in directing their effort toward making changes in those areas where it's necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
 
-Adopting the principle of consent shifts the aim of decision-making towards identifying a solution that’s good enough for now, and where there are no obvious worthwhile improvements that would justify spending more time. This approach is far more effective than trying to arrive at consensus with unanimity, where the aim is to accommodate everyone’s personal preference and ideas.
+Adopting the principle of consent shifts the aim of decision-making towards identifying a solution that's good enough for now, and where there are no obvious worthwhile improvements that would justify spending more time. This approach is far more effective than trying to arrive at consensus with unanimity, where the aim is to accommodate everyone's personal preference and ideas.
 
 #### Integrate learning from objections
 
@@ -293,8 +293,8 @@ Adopting the principle of consent in a team, or in the organization as a whole, 
 
 1. In the absence of objections to an agreement, I intend to follow through on that agreement to the best of my ability.
 2. As I become aware of them, I will share any possible objections to (proposed) agreements and activity, with those directly responsible for them.
-3. I’ll consider objections to proposals, agreements and activity that I’m responsible for, and will work to resolve the objection if I can.
-4. I’ll actively consider agreements that are due review, to check for any possible objections.
+3. I'll consider objections to proposals, agreements and activity that I'm responsible for, and will work to resolve the objection if I can.
+4. I'll actively consider agreements that are due review, to check for any possible objections.
 
 
 
@@ -302,9 +302,9 @@ Adopting the principle of consent in a team, or in the organization as a whole, 
 
 _**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
 
-Empiricism — the foundation of the scientific method — is an essential principle to embrace if we’re to navigate effectively in a complex world. Not only are the environments in which organizations operate complex but an organization is in itself a complex adaptive system. Knowledge about an organizational system and its interactions is often tentative and highly dependent on context. 
+Empiricism — the foundation of the scientific method — is an essential principle to embrace if we're to navigate effectively in a complex world. Not only are the environments in which organizations operate complex but an organization is in itself a complex adaptive system. Knowledge about an organizational system and its interactions is often tentative and highly dependent on context. 
 
-Empiricism can help us to increase certainty and reduce self-delusion, so that we can make the best use of our time. In our attempts to make sense of things and to have a sense of certainty about what is happening, why it’s happening, what should happen next and what’s needed to achieve that, we often draw conclusions without checking if the assumptions they are built on are true and accurate. In complexity, what we perceive as causation can often turn out to be mere correlation or coincidence, and the outcomes of interventions we make will always lead to some consequences we couldn’t predict.
+Empiricism can help us to increase certainty and reduce self-delusion, so that we can make the best use of our time. In our attempts to make sense of things and to have a sense of certainty about what is happening, why it's happening, what should happen next and what's needed to achieve that, we often draw conclusions without checking if the assumptions they are built on are true and accurate. In complexity, what we perceive as causation can often turn out to be mere correlation or coincidence, and the outcomes of interventions we make will always lead to some consequences we couldn't predict.
 
 Observing and probing systems, and making use of experimentation to inform an iterative approach to change, supports ongoing learning and helps an organization continuously develop to remain effective and responsive to change.
 
@@ -317,7 +317,7 @@ In the context of organizations, you might develop hypotheses about how a change
 
 When faced with uncertainty, it helps to make any questions and assumptions you have explicit and describe a clear hypothesis that allows for answering those questions and validating if your assumptions are true. A vague or ambiguous description will make assumptions hard or even impossible to test, and trying to test too many assumptions at once, might set you up on a long path where you learn little of value. Less is often more.
 
-One vital skill to develop when designing experiments is the ability to **distinguish between established knowledge and mere assumptions**. By acknowledging what you don’t know yet and what you assume to be more or less true, you can identify questions and assumptions around which to build a hypothesis.
+One vital skill to develop when designing experiments is the ability to **distinguish between established knowledge and mere assumptions**. By acknowledging what you don't know yet and what you assume to be more or less true, you can identify questions and assumptions around which to build a hypothesis.
 
 In complex domains, a hypothesis-driven approach relies on experiments to validate or disprove hypotheses, so that you can find viable ideas or falsify them fast. Making sense of things through experimentation, not only enables you to more effectively achieve what you need or desire but it can also help you to validate assumptions you have about which objectives are worthwhile pursuing to start with.  
 
@@ -326,13 +326,13 @@ In complex domains, a hypothesis-driven approach relies on experiments to valida
 
 An experiment is a controlled test designed to prove or disprove a hypothesis. Experiments provide you with validated learning about how to better respond to the challenges and opportunities you face. Outcomes often provide you with the opportunity to refine your hypothesis, or even develop new hypotheses that you can then test with further experiments.
 
-Before you start an experiment, it’s important to fully define and document it. In the context of an organization, a good experiment will consist of a list of things you need to do, and if helpful, how you need to do them, as well as a list of variables you will track before, during and/or after the experiment. 
+Before you start an experiment, it's important to fully define and document it. In the context of an organization, a good experiment will consist of a list of things you need to do, and if helpful, how you need to do them, as well as a list of variables you will track before, during and/or after the experiment. 
 
-Define and document specific thresholds for success and failure of the experiment related to your variables and add details about this to your evaluation criteria. In particular, consider what you would accept as evidence that your hypothesis is false. While an experiment is running, avoid making changes to it, and if you do change something, document those changes, otherwise your measurements may become meaningless. It is vital that you **measure before starting the experiment** to ensure that the threshold for success is not already met because you made an error in your experiment’s design.
+Define and document specific thresholds for success and failure of the experiment related to your variables and add details about this to your evaluation criteria. In particular, consider what you would accept as evidence that your hypothesis is false. While an experiment is running, avoid making changes to it, and if you do change something, document those changes, otherwise your measurements may become meaningless. It is vital that you **measure before starting the experiment** to ensure that the threshold for success is not already met because you made an error in your experiment's design.
 
 #### Treat decisions as experiments
 
-In a complex system, it is impossible to predict all of the ways in which that system will react to a particular intervention of change. Because of this you can apply the concept of experimentation to the way you approach decision-making as well. It’s valuable to view all significant operational and governance decisions you make as experiments, and to document the intended outcome and evaluation criteria in each case. Make one decision at a time, starting with what appears to be an appropriate or logical starting point and evolve those decisions iteratively, based on what you learn.
+In a complex system, it is impossible to predict all of the ways in which that system will react to a particular intervention of change. Because of this you can apply the concept of experimentation to the way you approach decision-making as well. It's valuable to view all significant operational and governance decisions you make as experiments, and to document the intended outcome and evaluation criteria in each case. Make one decision at a time, starting with what appears to be an appropriate or logical starting point and evolve those decisions iteratively, based on what you learn.
 
 
 
@@ -344,11 +344,11 @@ Whereas the principles of _Empiricism_ and _Consent_ reveal opportunities for le
 
 #### Take an iterative approach to change
 
-Evolution is often more effective and more sustainable than revolution which is rarely necessary or worthwhile unless you fail to continuously improve a system when it’s needed. Especially in a complex environment, making many changes to a system at the same time can lead to a mess that is difficult to fix. Consequences resulting from larger interventions are often hard to measure effectively, especially in complexity, and the relationship between cause and effect will be difficult, if not impossible to determine and evaluate. 
+Evolution is often more effective and more sustainable than revolution which is rarely necessary or worthwhile unless you fail to continuously improve a system when it's needed. Especially in a complex environment, making many changes to a system at the same time can lead to a mess that is difficult to fix. Consequences resulting from larger interventions are often hard to measure effectively, especially in complexity, and the relationship between cause and effect will be difficult, if not impossible to determine and evaluate. 
 
 Instead, consider changing things incrementally whenever you see an opportunity for a small and worthwhile improvement, significantly reducing the need for a large intervention. This will help you to effectively adapt to changing environments, keep your organization and systems fit for purpose, and prevent things from descending into a state that is costly or even impossible to repair.
 
-**Even when a large change is needed, go step by step**, figuring out how things need to be and **adjust what you’re doing based on what you learn**. With small changes, assumptions can be tested quickly and failure is more manageable. When a small experiment fails, you can learn fast and if necessary, use what you learn to develop a better experiment. When a large experiment fails, a lot of time and effort might be spent without learning much at all.
+**Even when a large change is needed, go step by step**, figuring out how things need to be and **adjust what you're doing based on what you learn**. With small changes, assumptions can be tested quickly and failure is more manageable. When a small experiment fails, you can learn fast and if necessary, use what you learn to develop a better experiment. When a large experiment fails, a lot of time and effort might be spent without learning much at all.
 
 Be aware that if you change several things at the same time, you might not be able to determine which of them lead to the effects you see, so **aim for one or only a few concurrent changes at a time**.
 
@@ -358,7 +358,7 @@ Be aware that if you change several things at the same time, you might not be ab
 
 **Monitor the consequences of your actions** and reflect on what you learn. Pay attention to what actually happens and whether or not the results of your interventions reflect your assumptions and intentions. This will help you keep track of whether or not your changes led to improvements at all.
 
-Remember that even if things don’t turn out as you expect sometimes, this doesn’t necessarily mean that the results are negative. Sometimes things turn out differently to how we’d assumed or intended. All outcomes help us learn. **Be open to whatever happens**, consider the pros and cons of any unintended consequences that emerge and acknowledge when it would be beneficial to do things differently, or to aim for different results.
+Remember that even if things don't turn out as you expect sometimes, this doesn't necessarily mean that the results are negative. Sometimes things turn out differently to how we'd assumed or intended. All outcomes help us learn. **Be open to whatever happens**, consider the pros and cons of any unintended consequences that emerge and acknowledge when it would be beneficial to do things differently, or to aim for different results.
 
 ### The Principle of Equivalence
 
@@ -368,11 +368,11 @@ Equivalence is important in organizational systems, precisely because people are
 
 Equivalence increases engagement by giving people affected by decisions the opportunity to influence those decisions to some degree. 
 
-By including people in making and evolving a decision that affects them, they gain deeper understanding about the resulting decision, the situation it’s intended to address, and the pros and cons that have been weighed in the process. It also helps to keep systems more open and transparent and reduces the potential for information vital to the decision being overlooked or ignored. Depending on the level of involvement, people might also have the opportunity to shape things according to their preference, and in any case, participation in the decision-making leads to a greater sense of ownership over what is decided. 
+By including people in making and evolving a decision that affects them, they gain deeper understanding about the resulting decision, the situation it's intended to address, and the pros and cons that have been weighed in the process. It also helps to keep systems more open and transparent and reduces the potential for information vital to the decision being overlooked or ignored. Depending on the level of involvement, people might also have the opportunity to shape things according to their preference, and in any case, participation in the decision-making leads to a greater sense of ownership over what is decided. 
 
 People are more likely to take responsibility for following through on decisions when they are involved in making them. This is further reinforced when ensuring affected parties have influence in adapting those decisions later, should they discover reasons why a decision is no longer good enough, or if they discover a viable way for improving something.  
 
-Decisions we develop together will always be ‘_our_’ decisions, whereas decisions taken by others, will always be ‘_theirs_’ and will be appreciated and supported more or less by others, depending on their personal preference and point of view.
+Decisions we develop together will always be _our_ decisions, whereas decisions taken by others, will always be _theirs_ and will be appreciated and supported more or less by others, depending on their personal preference and point of view.
 
 Some decisions will affect a large group of people, e.g. an entire department, or even the  organization as a whole. Including those affected in the decision-making process will yield benefits that reach far beyond the decision in question. People will build connection, trust and a greater sense of community and belonging. For effectively involving a large number of stakeholders in the decision-making process you can use a variety of group facilitation techniques and online tools. 
 
@@ -386,17 +386,17 @@ Periodically rotating who takes a lead in decision-making helps build trust, acc
 
 #### Consider who should be involved and how
 
-Everyone throughout an organization is impacted by all decisions to some degree, because each decision will impact the whole in some way. Equivalence in decision-making doesn’t mean everyone needs to be involved in every decision all of the time. Nor does it mean that everyone has to have the same amount of influence in every context where they are affected. Equivalence means ensuring that those affected by decisions are at least able to influence those decisions, on the basis of arguments that reveal unintended consequences for the organization that are preferable to avoid, and/or worthwhile ways for how things can be improved. Put another way, the minimum requirement for equivalence to exist is to hear and consider any possible objections raised by people affected by decisions, and work to ensure that those objections are resolved.
+Everyone throughout an organization is impacted by all decisions to some degree, because each decision will impact the whole in some way. Equivalence in decision-making doesn't mean everyone needs to be involved in every decision all of the time. Nor does it mean that everyone has to have the same amount of influence in every context where they are affected. Equivalence means ensuring that those affected by decisions are at least able to influence those decisions, on the basis of arguments that reveal unintended consequences for the organization that are preferable to avoid, and/or worthwhile ways for how things can be improved. Put another way, the minimum requirement for equivalence to exist is to hear and consider any possible objections raised by people affected by decisions, and work to ensure that those objections are resolved.
 
 The degree of worthwhile involvement is context dependent. At one end of the spectrum, it might be enough that decisions affecting others are made initially by an individual or a smaller group and that these decisions are then tested for any objections with those affected afterwards. On the other end of the spectrum, equivalence could manifest as a fully collaborative process where those affected participate in decision-making from end-to-end. A middle road is a participatory approach that keeps people informed about progress and invites specific input at various stages along the way.
 
-Equivalence needs to be balanced with _Effectiveness_, enabled through _Transparency_ and constrained by _Consent_, for it to function at its best. It’s valuable to weigh up the benefits of more or less involvement, versus the cost in terms of resources, energy and time. 
+Equivalence needs to be balanced with _Effectiveness_, enabled through _Transparency_ and constrained by _Consent_, for it to function at its best. It's valuable to weigh up the benefits of more or less involvement, versus the cost in terms of resources, energy and time. 
 
-For any decision of significance it’s good to ask yourself who, if anyone, should be involved, and to what degree? Consider those who will be directly or indirectly impacted and those who will have responsibility for acting on what you decide. While not directly related to Equivalence, it might also be prudent to consider those who are not obviously affected by a decision, but who could contribute with their influence, experience and expertise.
+For any decision of significance it's good to ask yourself who, if anyone, should be involved, and to what degree? Consider those who will be directly or indirectly impacted and those who will have responsibility for acting on what you decide. While not directly related to Equivalence, it might also be prudent to consider those who are not obviously affected by a decision, but who could contribute with their influence, experience and expertise.
 
 #### Make necessary information available
 
-For people to contribute in an effective way, they need access to relevant information relating to the decision in question. It’s helpful to develop a system for visualizing important decisions and broadcasting about them to others. Visibility and the option for open dialogue about what’s going on in the organization helps to build shared understanding, which, in turn, contributes toward more effective decisions being made. 
+For people to contribute in an effective way, they need access to relevant information relating to the decision in question. It's helpful to develop a system for visualizing important decisions and broadcasting about them to others. Visibility and the option for open dialogue about what's going on in the organization helps to build shared understanding, which, in turn, contributes toward more effective decisions being made. 
 
 #### Invest in learning and development
 
@@ -414,7 +414,7 @@ Some decision-making will be improved through including a range of perspectives 
 
 
 
-### The Principle of Transparency 
+### The Principle of Transparency
 
 _**Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole._
 
@@ -428,13 +428,13 @@ Transparency facilitates the ongoing development and maintenance of a coherent a
 
 #### Clarify motivation for (more) transparency
 
-Transparency is a means to an end, not an end in itself, so if you’re looking to increase transparency in your organization, take the time to clarify the reasons why. What are the challenges you are trying to solve by introducing more transparency and/or what are the opportunities you wish to pursue?
+Transparency is a means to an end, not an end in itself, so if you're looking to increase transparency in your organization, take the time to clarify the reasons why. What are the challenges you are trying to solve by introducing more transparency and/or what are the opportunities you wish to pursue?
 
-Introduce more transparency into your organization as a way to support learning and to free people up, not as a way to control them. Use it as a way to improve performance, not leave people feeling unsafe to do anything because they are anxious about being watched. Transparency can enable co-creation and innovation but in a context where failure is treated as negative, rather than an opportunity to learn, it will impede people’s willingness to take risks and experiment.
+Introduce more transparency into your organization as a way to support learning and to free people up, not as a way to control them. Use it as a way to improve performance, not leave people feeling unsafe to do anything because they are anxious about being watched. Transparency can enable co-creation and innovation but in a context where failure is treated as negative, rather than an opportunity to learn, it will impede people's willingness to take risks and experiment.
 
 #### Consider reasons for confidentiality
 
-Be clear about information that is inappropriate to share. While secrecy can be associated with illicit or dubious affairs, there are many legitimate reasons for confidentiality in organizations.  Sometimes secrecy is necessary, for example, protection of people’s personal data and affairs, security of assets or protection of intellectual property that helps an organization achieve its goals.
+Be clear about information that is inappropriate to share. While secrecy can be associated with illicit or dubious affairs, there are many legitimate reasons for confidentiality in organizations.  Sometimes secrecy is necessary, for example, protection of people's personal data and affairs, security of assets or protection of intellectual property that helps an organization achieve its goals.
 
 #### Identify what information is valuable to record and share
 
@@ -449,7 +449,7 @@ Consider carefully what information is worthwhile to record. Valuable informatio
 
 #### Create and maintain a coherent system for recording information
 
-Documenting relevant information in a way that is coherent and accessible is an ongoing task that relies on everyone in the organization playing their part. Developing a system for recording and sharing information and keeping it up to date takes time and effort. Choose tools that make it simple to create, update, and cross-reference records, as well as to search and retrieve information when it’s required. Make clear which information is recorded and updated, by whom and when, and structure records accordingly. Take the time to regularly check through your records, ensure your system remains helpful and keep an archive of historical information for reference.
+Documenting relevant information in a way that is coherent and accessible is an ongoing task that relies on everyone in the organization playing their part. Developing a system for recording and sharing information and keeping it up to date takes time and effort. Choose tools that make it simple to create, update, and cross-reference records, as well as to search and retrieve information when it's required. Make clear which information is recorded and updated, by whom and when, and structure records accordingly. Take the time to regularly check through your records, ensure your system remains helpful and keep an archive of historical information for reference.
 
 
 
@@ -467,13 +467,13 @@ The promise we make to take responsibility for things that need doing, creates a
 
 The consequences of our action or inaction will affect the organization in some way, so by becoming part of an organization we are taking some responsibility for the wellbeing of the whole. Many responsibilities within an organization are hard to anticipate, are undefined and are undelegated. Therefore when members of an organization recognize that they _share accountability_ for the organization as a whole, they are more inclined to step up, bring attention to important issues, and take responsibility for things when needed. Problems and opportunities are more likely to be acknowledged and dealt with and you reduce the risk of developing a culture of looking the other way, or worse, a culture of blame. 
 
-Many responsibilities are typically distributed throughout an organization by way of _delegation_, meaning that people take responsibility for specific work and decision-making. Whenever a responsibility is delegated by one party (the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>) to another party (the <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a>), accountability for results is shared between both parties. This is because either parties’ choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
+Many responsibilities are typically distributed throughout an organization by way of _delegation_, meaning that people take responsibility for specific work and decision-making. Whenever a responsibility is delegated by one party (the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>) to another party (the <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a>), accountability for results is shared between both parties. This is because either parties' choices and actions (or inaction) will impact results. Furthermore the delegator is accountable for their decision to delegate these responsibilities, and for their decision about whom to delegate them to.
 
-While it’s typically productive for delegatee(s) to take the lead in deciding how to take care of their <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>, regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
+While it's typically productive for delegatee(s) to take the lead in deciding how to take care of their <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>, regular communication between delegator and delegatee(s) provides a broader scope of perspective which in turn, supports strategic development and the effective execution of work. 
 
-When people consider themselves accountable only for those things that impact their immediate sphere of responsibility, many of the things that would require attention but have not been delegated to anyone in particular, or that appear to be someone else’s problem to solve, would get missed.
+When people consider themselves accountable only for those things that impact their immediate sphere of responsibility, many of the things that would require attention but have not been delegated to anyone in particular, or that appear to be someone else's problem to solve, would get missed.
 
-Whenever you see an important issue, make sure it’s taken care of, either by bringing it to the attention of others who will deal with it, or by dealing with it yourself. 
+Whenever you see an important issue, make sure it's taken care of, either by bringing it to the attention of others who will deal with it, or by dealing with it yourself. 
 
 
 #### Make the hierarchy of accountability explicit
@@ -484,7 +484,7 @@ Whatever your particular organizational context, making the hierarchy of account
 
 #### Move from "holding to account" to self-accountability
 
-The principle of accountability applies to everyone. It promotes a shift from being held to account by someone—which often leads to a culture of fear and blame—towards a culture of self-accountability where everyone acknowledges the impact of their actions and inaction on others, and on the system as a whole, and acts accordingly. In your relationships with others, it relates to making and following through on commitments you make, managing expectations, doing what you agree to and answering for when you don’t. 
+The principle of accountability applies to everyone. It promotes a shift from being held to account by someone—which often leads to a culture of fear and blame—towards a culture of self-accountability where everyone acknowledges the impact of their actions and inaction on others, and on the system as a whole, and acts accordingly. In your relationships with others, it relates to making and following through on commitments you make, managing expectations, doing what you agree to and answering for when you don't. 
 
 
 #### Create conditions that enable accountability to thrive
@@ -497,11 +497,11 @@ Merely clarifying what people can and cannot do is not enough to encourage a cul
 
 #### Make implicit responsibilities explicit
 
-When responsibilities are unclear, it can lead to mistaken assumptions about who is responsible for what, double work, people crossing important boundaries, or failing to take action in response to important situations. At the same time, when clarifying responsibilities, it’s important to avoid over-constraining people because doing so limits their ability to make important decisions, innovate and act. This leads to a reduction in their willingness to accept accountability. 
+When responsibilities are unclear, it can lead to mistaken assumptions about who is responsible for what, double work, people crossing important boundaries, or failing to take action in response to important situations. At the same time, when clarifying responsibilities, it's important to avoid over-constraining people because doing so limits their ability to make important decisions, innovate and act. This leads to a reduction in their willingness to accept accountability. 
 
-Too much specificity or too much ambiguity around the scope of authority people have to influence can lead to hesitation and waste. And in the worst case it can mean that important things don’t get dealt with at all. 
+Too much specificity or too much ambiguity around the scope of authority people have to influence can lead to hesitation and waste. And in the worst case it can mean that important things don't get dealt with at all. 
 
-_Clarifying domains_ provides a way of explicitly delineating areas of responsibilities and defining where the edge to people’s autonomy lies. 
+_Clarifying domains_ provides a way of explicitly delineating areas of responsibilities and defining where the edge to people's autonomy lies. 
 
 #### Encourage self-accountability
 
@@ -510,7 +510,7 @@ To encourage a culture with a high level of self-accountability, do your part in
 -   Act within the constraints of any agreements governing domains you are responsible for, that includes agreements related to the organization itself, to the teams you are part of, and to the roles you keep.
 -   Act in accordance with any explicitly defined organizational values.
 -   Be transparent and proactive in communicating with those you share accountability with, if you realize that what you agreed to is not the best course of action.
--   Find others who can help you if you discover you’re unable to take care of your responsibilities.
+-   Find others who can help you if you discover you're unable to take care of your responsibilities.
 -   Break agreements when you are certain the benefit to the organization outweighs the cost of waiting to amend that agreement first. And take responsibility for any consequences, including following up as soon as possible with those affected.
 -   Speak up if you disagree with something or think it can be improved in a worthwhile way, by raising possible objections as soon as you become aware of them.
 -   Be proactive in responding to situations that could help or harm the organization, either by dealing with them yourself directly, or by finding the people who can, and letting them know.
@@ -521,9 +521,9 @@ To encourage a culture with a high level of self-accountability, do your part in
 
 ## Key Concepts for Making Sense of Organizations
 
-In this section you’ll learn about the following key concepts:
+In this section you'll learn about the following key concepts:
 
-- Driver
+- Driver and Requirement
 - Domain
 - Agreement
 - Objection
@@ -531,21 +531,21 @@ In this section you’ll learn about the following key concepts:
 
 You will also discover how these concepts relate to value (and waste), delegation (and accountability), self-organization, self-governance and semi-autonomy.
 
-When people understand these concepts, it gives them a common language for describing clearly what’s going on in the organization. This helps to increase shared understanding and enables constructive dialogue about what needs to be done.
+When people understand these concepts, it gives them a common language for describing clearly what's going on in the organization. This helps to increase shared understanding and enables constructive dialogue about what needs to be done.
 
-For any terms you don’t understand, check out the glossary at the end.
+For any terms you don't understand, check out the glossary at the end.
 
 
 ### Organizational Drivers and Requirements
 
 
-_An **organizational driver** is any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences)._
+_An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences)._
 
 _A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step._
 
-Identifying and interacting with situations that warrant some kind of response is a fundamental aspect of everyone’s working day in an organization. 
+Identifying and interacting with situations that warrant some kind of response is a fundamental aspect of everyone's working day in an organization. 
 
-In the context of Sociocracy 3.0, _effectiveness_ is a key principle that invites an organization’s members to make the best use of their resources, energy and time by devoting effort toward only doing what brings an organization closer toward achieving its overall objectives. To help people make sense of what’s important to focus on, and to develop shared understanding around what may or may not be beneficial to do, we use the concepts of _Organizational Drivers_ and _Requirements_.
+In the context of Sociocracy 3.0, _effectiveness_ is a key principle that invites an organization's members to make the best use of their resources, energy and time by devoting effort toward only doing what brings an organization closer toward achieving its overall objectives. To help people make sense of what's important to focus on, and to develop shared understanding around what may or may not be beneficial to do, we use the concepts of _Organizational Drivers_ and _Requirements_.
 
 Reflecting on and describing organizational drivers and requirements supports:
 
@@ -556,20 +556,20 @@ Reflecting on and describing organizational drivers and requirements supports:
 
 #### Organizational Drivers
 
-Identifying and understanding situations that present potential impediments or opportunities in relation to an organization’s objectives is important if we are to successfully orient through our daily work and make the best use of our limited resources, energy, and time. 
+Identifying and understanding situations that present potential impediments or opportunities in relation to an organization's objectives is important if we are to successfully orient through our daily work and make the best use of our limited resources, energy, and time. 
 
-However, not all situations that motivate an organization’s members to act, are pertinent for the organization to respond to. With the concept of organizational drivers we give a name to those situations an organization’s members investigate and determine as relevant to respond to because they anticipate that doing so would be beneficial for the organization - by helping to generate value, eliminate waste, or avoid undesirable risks or consequences.
+However, not all situations that motivate an organization's members to act, are pertinent for the organization to respond to. With the concept of organizational drivers we give a name to those situations an organization's members investigate and determine as relevant to respond to because they anticipate that doing so would be beneficial for the organization - by helping to generate value, eliminate waste, or avoid undesirable risks or consequences.
 
 Making sense of situations that arise in the course of daily work and establishing if those situations are relevant to deal with, before deciding how to respond to them, has evident **benefits**: 
 
 
--   A clear and accurate understanding of a situation that requires an intervention, **supports people to develop a better idea of what’s required to deal with it**. A problem well-defined is a problem half-solved (see _Respond to Organizational Drivers_)
+-   A clear and accurate understanding of a situation that requires an intervention, **supports people to develop a better idea of what's required to deal with it**. A problem well-defined is a problem half-solved (see _Respond to Organizational Drivers_)
 -   Explicitly describing a driver helps to **communicate about it effectively** with others and **develop a shared understanding** of the situation and its relevance for the organization (see _Describe Organizational Drivers_)
 -   Thinking about organizational drivers supports people to reflect on, **understand and communicate about why they do the things they do**. It provides a way to investigate and make explicit the reasons behind actions and decisions and it helps to understand **why we are motivated to pursue particular objectives and goals**. 
 -   Taking time to investigate situations and their potential relevance, before acting, helps to **determine if and when intervening is worthwhile**, because people can be mistaken, both regarding their conclusions about what they are perceiving, and in terms of the relevance they ascribe to the situations they perceive (see _Navigate via Tension_). 
 -   Being clear about why you are doing things will make it easier to **regularly evaluate the outcomes** of your actions and identify ways to improve your approach. (When doing so, also consider whether the organizational driver has changed: the situation is different, or its relevance for the organization has changed.)
 
-Determining whether a situation qualifies as an organizational driver is dependent on adequate understanding of the overall purpose of the organization (its <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</a> and main <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a>, its <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>, <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objectives</a>, <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a>, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, and so on. Once it’s established that responding to a particular situation would be beneficial for the organization, it qualifies as an organization driver and can then be prioritized accordingly. Such diligence ensures that people remain focused on, and responsive to, challenges and opportunities that are relevant to the organization's purpose and objectives.
+Determining whether a situation qualifies as an organizational driver is dependent on adequate understanding of the overall purpose of the organization (its <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</a> and main <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a>, its <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>, <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objectives</a>, <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a>, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, and so on. Once it's established that responding to a particular situation would be beneficial for the organization, it qualifies as an organization driver and can then be prioritized accordingly. Such diligence ensures that people remain focused on, and responsive to, challenges and opportunities that are relevant to the organization's purpose and objectives.
 
 
 ##### Relationships between organizational drivers
@@ -587,7 +587,7 @@ _**Value** is the importance, worth or usefulness of something in relation to a 
 
 _**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
 
-There's a wealth of research and development about the concept of value and waste in organizations. We’d encourage you to explore that for yourself.
+There's a wealth of research and development about the concept of value and waste in organizations. We'd encourage you to explore that for yourself.
 
 
 #### Requirements
@@ -602,9 +602,9 @@ Having a solution-oriented attitude is highly valued in organizations. However, 
 
 _A **domain** is a distinct area of responsibility and authority within an organization._
 
-To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
+To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap or be fully contained within other domains.
 
-![Domains may overlap and/or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
+![Domains may overlap or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
 
 Any role or team's purpose is to contribute towards the overall purpose of the organization by taking care of a specific organizational need. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work suffers because of missed dependencies, double work, or work not done at all.
 
@@ -620,7 +620,7 @@ People might do a great job of accounting for a domain in the way it's designed,
 
 #### Delegating Responsibility for Domains
 
-_Delegation is the grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability._
+_Delegation is the grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability._
 
 Responsibility for domains is delegated to groups or individuals, who then act within its defined constraints on their autonomy and influence.
 
@@ -655,9 +655,9 @@ You can think of objections as a simple tool for harvesting distributed intellig
 
 Be aware that withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 
-It’s the responsibility of each individual in an organization to raise potential objections to proposals, decisions, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or activities.
+It's the responsibility of each individual in an organization to raise potential objections to proposals, decisions, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or activities.
 
-Those accountable for an activity or (proposed) agreement in question, are responsible for *considering arguments and addressing objections* that are raised, when doing so will help to meet the organization’s objectives.
+Those accountable for an activity or (proposed) agreement in question, are responsible for *considering arguments and addressing objections* that are raised, when doing so will help to meet the organization's objectives.
 
 When seeking out potential objections, consider:
 
@@ -684,7 +684,7 @@ Harness a diversity of perspectives and be open to challenge your own, to discov
 
 _A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
 
-Concerns can still inform people of ways to further evolve agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. Bring up concerns if you think it’s valuable to consider them.
+Concerns can still inform people of ways to further evolve agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. Bring up concerns if you think it's valuable to consider them.
 
 Determining whether an argument is an objection or concern is sometimes dependent on context. 
 
@@ -697,7 +697,7 @@ _An **agreement** is an agreed upon guideline, process, protocol or policy desig
 
 Shared guidelines about why, how and when to act, and what is specifically required, enable effective collaboration.
 
-Agreements are created in response to <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">organizational drivers</a>, are **regularly reviewed** and evolved as necessary.
+Agreements are created in response to <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">organizational drivers</a>, are **regularly reviewed** and evolved as necessary.
 
 **Overall accountability** for an agreement lies with the people that make them.
 
@@ -747,7 +747,7 @@ Depending on the context, a team might make governance decisions:
 -   in a one-off meeting to deal with a specific topic
 -   in other types of meetings such as product meetings, _planning meetings_ or _retrospectives_, etc.
 
-Wherever and whenever you make governance decisions, one thing worth considering is _documenting them somehow_. This way you’ll be able to remember what was agreed, so will others, and you’ll have something to come back to when it’s time to review.
+Wherever and whenever you make governance decisions, one thing worth considering is _documenting them somehow_. This way you'll be able to remember what was agreed, so will others, and you'll have something to come back to when it's time to review.
 
 
 #### Related Concepts
@@ -797,16 +797,16 @@ In this guide, the patterns are grouped by topic into eleven categories to help 
 </div></div>
 
 
-When a role keeper or a team becomes aware of a new driver they are responsible for dealing with, it’s usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
+When a role keeper or a team becomes aware of a new driver they are responsible for dealing with, it's usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
 
-Here’s a series of steps you can take which will support you to make the best use of your time and resources:
+Here's a series of steps you can take which will support you to make the best use of your time and resources:
 
 
 1. Confirm that this situation is both relevant for the organization to respond to, and that responding is the responsibility of you or your team.
-2. Sort it into your backlog according to its priority. When it’s time to respond to the driver:
+2. Sort it into your backlog according to its priority. When it's time to respond to the driver:
 3. Determine the <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a>
 4. Decide on how to fulfill the requirement 
-5. act on what’s been agreed
+5. act on what's been agreed
 6. Regularly review outcomes and, if needed, adapt your decision to improve it, based on what you learn.
 
 
@@ -815,23 +815,23 @@ Here’s a series of steps you can take which will support you to make the best 
 
 ##### Step 1: Confirm Relevance
 
-As a role keeper or team, before responding to a driver, it is essential to verify both that the driver is relevant _for the organization_ to respond to (i.e. it is in fact an _organizational driver_), **and** that it’s yours or your team’s responsibility to deal with it, or at least, that your doing so is beneficial and that it will cause no impediment or harm.
+As a role keeper or team, before responding to a driver, it is essential to verify both that the driver is relevant _for the organization_ to respond to (i.e. it is in fact an _organizational driver_), **and** that it's yours or your team's responsibility to deal with it, or at least, that your doing so is beneficial and that it will cause no impediment or harm.
 
-If you think that a driver is relevant, but it’s someone else’s responsibility to deal with it, pass it on to them instead (see also _Navigate via Tension_). 
+If you think that a driver is relevant, but it's someone else's responsibility to deal with it, pass it on to them instead (see also _Navigate via Tension_). 
 
-To keep track of new drivers that you become aware of (or that others identify and pass on to you) it’s useful that for each domain you set up a dedicated place to receive them, such as a column in a kanban board called "inbox" or "incoming" where information about potentially relevant drivers can be placed.
+To keep track of new drivers that you become aware of (or that others identify and pass on to you) it's useful that for each domain you set up a dedicated place to receive them, such as a column in a kanban board called "inbox" or "incoming" where information about potentially relevant drivers can be placed.
 
 
 ##### Step 2: Determine Priority
 
-Once you decide that a driver is described clearly enough and it’s relevant for you to respond to, it needs to be prioritized and moved to the appropriate backlog, to be picked up and dealt with accordingly. 
+Once you decide that a driver is described clearly enough and it's relevant for you to respond to, it needs to be prioritized and moved to the appropriate backlog, to be picked up and dealt with accordingly. 
 
-Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn’t imply that it’s also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Therefore, new drivers need to be prioritized in relation to other work items, so that you remain focused on doing what’s most important next, to continue working effectively toward your objectives.
+Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn't imply that it's also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Therefore, new drivers need to be prioritized in relation to other work items, so that you remain focused on doing what's most important next, to continue working effectively toward your objectives.
 
 
 ##### Step 3: Determine the requirement
 
-After establishing that a driver is both relevant and a priority, it’s helpful to determine the requirement: what you consider is needed or desirable to effectively respond to the situation - before narrowing down on a specific solution. 
+After establishing that a driver is both relevant and a priority, it's helpful to determine the requirement: what you consider is needed or desirable to effectively respond to the situation - before narrowing down on a specific solution. 
 
 _A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step._
 
@@ -851,12 +851,12 @@ In the absence of any existing agreement that guides people on how to fulfill a 
 
 ##### Step 5: Act
 
-Finally, it’s time to act on what was agreed. 
+Finally, it's time to act on what was agreed. 
 
 
 ##### Step 6: Review and Improve
 
-It’s helpful to regularly review decisions in light of the outcomes that arise from acting on them, so you can reflect on learning and use that information to identify opportunities for improving any decisions you have made.
+It's helpful to regularly review decisions in light of the outcomes that arise from acting on them, so you can reflect on learning and use that information to identify opportunities for improving any decisions you have made.
 
 As well as reviewing outcomes, remember to also review your decisions regarding:
 
@@ -879,12 +879,12 @@ For more information on reviewing agreements, check _Evaluate and Evolve Agreeme
 
 ##### Step 1: Notice tension
 
-In this context, _tension_ is an inner state of alert: a personal experience that’s triggered when there's some kind of dissonance between an individual’s perception of a situation, and what they expect or would prefer to see.
+In this context, _tension_ is an inner state of alert: a personal experience that's triggered when there's some kind of dissonance between an individual's perception of a situation, and what they expect or would prefer to see.
 
 
 ##### Step 2: Understand situation
 
-Investigate** the situation** you are perceiving that stimulates tension in you. Sometimes this inquiry can reveal misconceptions and the tension goes away.
+Investigate **the situation** you are perceiving that stimulates tension in you. Sometimes this inquiry can reveal misconceptions and the tension goes away.
 
 
 ##### Step 3: Is this an Organizational Driver?
@@ -893,16 +893,16 @@ A simple way to determine whether a driver is relevant for the organization is b
 
 _Would responding to this situation help the organization to generate value, eliminate waste or avoid undesirable consequences?_
 
--   If you think the answer is **yes**, it’s likely you’ve identified an organizational driver that needs a response.
+-   If you think the answer is **yes**, it's likely you've identified an organizational driver that needs a response.
 -   If you think the answer is **no**, you can ignore the situation and focus on relevant things instead. 
 -   If you are **unclear**, investigate further, which might include reaching out to others who could have a clearer idea.
 
 
 ##### Step 4: Is it in my/our domain? If not, pass it on
 
-It could be that the driver falls within the scope of a domain you’re responsible for, in which case you’ll want to place it in your list of priorities and respond to it accordingly (see _Respond to Organizational drivers_). Even if it does fall outside of your area of responsibility, it might still be something that you are best placed to deal with, or at the very least, you can take care of it without  causing any impediments or harm, in which case, consider just doing it. It might not be worth the effort to go and find somebody else and explain to them about the situation if it’s something you can simply deal with yourself.
+It could be that the driver falls within the scope of a domain you're responsible for, in which case you'll want to place it in your list of priorities and respond to it accordingly (see _Respond to Organizational drivers_). Even if it does fall outside of your area of responsibility, it might still be something that you are best placed to deal with, or at the very least, you can take care of it without  causing any impediments or harm, in which case, consider just doing it. It might not be worth the effort to go and find somebody else and explain to them about the situation if it's something you can simply deal with yourself.
 
-On other occasions however, you’ll come across drivers that are the responsibility of others to respond to. Therefore, to Navigate Via Tension effectively, there needs to be enough clarity around who is responsible for what in the organization so that people know, or can find out, who to inform about new organizational drivers they discover, so they can pass that information on to them.
+On other occasions however, you'll come across drivers that are the responsibility of others to respond to. Therefore, to Navigate Via Tension effectively, there needs to be enough clarity around who is responsible for what in the organization so that people know, or can find out, who to inform about new organizational drivers they discover, so they can pass that information on to them.
 
 
 ![Navigate via Tension](img/process/nvt.png)
@@ -917,14 +917,14 @@ On other occasions however, you’ll come across drivers that are the responsibi
 <div class="card summary"><div class="card-body">Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.
 </div></div>
 
-_An **organizational driver** is any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences)._
+_An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences)._
 
 Organizational drivers are identified by individuals (see _Navigate Via Tension_) who either respond to them directly (when a driver falls within their own domain of responsibility), or who pass on information about drivers they discover to others in the organization (whom they believe are responsible for dealing with them). 
 
 
 ##### Why describe organizational drivers?
 
-In the course of their daily work in organizations, individuals frequently encounter situations that need responding to. They make decisions alone or with others, based on what they believe is required and then act accordingly. However, sometimes decisions are taken without fully understanding the situation they were intended to deal with. Decisions can be based more on judgments and assumptions than on concrete observations. Additionally, failing to communicate relevant information to other stakeholders can lead to misunderstanding, conflict, and waste.
+In the course of their daily work in organizations, individuals frequently encounter situations that need responding to. They make decisions alone or with others, based on what they believe is required and then act accordingly. However, sometimes decisions are taken without fully understanding the situation they were intended to deal with. Decisions can be based more on judgments and assumptions rather than on concrete observations. Additionally, failing to communicate relevant information to other stakeholders can lead to misunderstanding, conflict, and waste.
 
 Clearly understanding organizational drivers and documenting essential information about them before deciding on a response, is crucial for ensuring that the rationale behind decisions is understood. It also provides an opportunity for those who are collaborating to verify their assumptions, combine diverse viewpoints, align understanding, and consequently agree on a  description of a driver. 
 
@@ -937,7 +937,7 @@ A simple way to describe an organizational driver is by explaining:
 
 -   the **current situation** that is being observed, 
 -   the **(current or anticipated) effect** this situation leads to.
--   and, if it’s not already obvious from the previous two points, why it’s **relevant** for the organization to respond to this situation.
+-   and, if it's not already obvious from the previous two points, why it's **relevant** for the organization to respond to this situation.
 
 Describing these three aspects will typically provide enough information to communicate an organizational driver clearly.
 
@@ -950,11 +950,11 @@ In most cases, organizational drivers can be framed as either a problem to solve
 
 Here is an example of a driver framed as a **problem**: 
 
-[current situation] _Information is unstructured, kept in silos and sometimes unrecorded_, [effect] _leading to people working with missing or outdated information_, [relevance] _which results in ineffectiveness and our clients’ needs being unmet_.
+(current situation) _Information is unstructured, kept in silos and sometimes unrecorded_, (effect) _leading to people working with missing or outdated information_, (relevance) _which results in ineffectiveness and our clients' needs being unmet_.
 
 The same driver framed as an **opportunity**: 
 
-[current situation] _Useful information that can help us build a better understanding of our clients’ needs is distributed throughout the organization_, [anticipated effect] _and figuring out how to record and share it could help us improve our services._
+(current situation) _Useful information that can help us build a better understanding of our clients' needs is distributed throughout the organization_, (anticipated effect) _and figuring out how to record and share it could help us improve our services._
 
 
 ##### Tips for describing organizational drivers
@@ -971,7 +971,7 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 "_To resolve local issues, teams currently have autonomy to develop their work and decision-making processes in the way they see fit_."
 
 
--   Describe the situation you observe, rather than describing assumptions about what might be missing or lacking. For example, avoid phrases like _"teams don’t focus enough on resolving common issues_"or "_we are lacking coherence between teams_". This way of framing a situation obscures what is actually happening.
+-   Describe the situation you observe, rather than describing assumptions about what might be missing or lacking. For example, avoid phrases like _"teams don't focus enough on resolving common issues_"or "_we are lacking coherence between teams_". This way of framing a situation obscures what is actually happening.
 -   Be concise and describe the essentials of what is happening, and, if necessary, the context in which it occurs. 
 -   Be specific and avoid vague and ambiguous statements (e.g. use "_to resolve local issues_" instead of "_to resolve some issues_". 
 -   Be objective and describe verifiable facts and observations. 
@@ -986,7 +986,7 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 -   Explain the consequences that you observe or that you expect could result from the situation.
 -   Be as objective and specific as possible.
 -   Be explicit about whether the effect(s) are occurring already, or if they are anticipated.
--   If it’s not obvious, explain how you think the effect is a consequence of the situation.
+-   If it's not obvious, explain how you think the effect is a consequence of the situation.
 
 
 ###### 3. Relevance for the organization
@@ -994,7 +994,7 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 "_… which impedes effective collaboration on handling dependencies between and across domains_."
 
 
--   Explain why responding to the situation is worthwhile for the organization, by describing the benefit of interacting with it, or the cost of not doing so: How would it help the organization to respond to this situation? How would it harm us if we don’t? 
+-   Explain why responding to the situation is worthwhile for the organization, by describing the benefit of interacting with it, or the cost of not doing so: How would it help the organization to respond to this situation? How would it harm us if we don't? 
 -   Sometimes the relevance of responding to the situation for the organization is already obvious and clear, in which case there is no need to add any further information. 
 
 
@@ -1002,29 +1002,29 @@ _To resolve local issues, teams currently have autonomy to develop their work an
 
 Effect is already occurring:
 
--   [current situation] _Information is unstructured, kept in silos and sometimes unrecorded_, [current effect] _leading to people’s inability to support each other, and understand and contribute to the bigger picture_, [relevance] _which impedes our ability to effectively do our work_.
--   [current situation] _We spend 25% of our work hours on admin work_ [effect] _and this is leading to slow response time for customer requests and a growing number of complaints._ [relevance] _We’re starting to develop a bad reputation and run the risk of losing customers and compromising future sales._
+-   (current situation) _Information is unstructured, kept in silos and sometimes unrecorded_, (current effect) _leading to people's inability to support each other, and understand and contribute to the bigger picture_, (relevance) _which impedes our ability to effectively do our work_.
+-   (current situation) _We spend 25% of our work hours on admin work_ (effect) _and this is leading to slow response time for customer requests and a growing number of complaints._ (relevance) _We're starting to develop a bad reputation and run the risk of losing customers and compromising future sales._
 
 Effect is anticipated:
 
--   [current situation] _We’re preparing to recruit five new members into the development teams_, [anticipated effect] _and a lack of relevant training could lead to inefficiencies and errors_, [relevance] _and an overall decrease in team productivity and quality of work_.
+-   (current situation) _We're preparing to recruit five new members into the development teams_, (anticipated effect) _and a lack of relevant training could lead to inefficiencies and errors_, (relevance) _and an overall decrease in team productivity and quality of work_.
 
 Effect is already occurring and relevance is implicit:
 
 
--   [current situation] _The teams often work on items that have not been prioritized in accordance with the product roadmap_. [effect] _This slows down the delivery of features that have been assigned a high priority by the customer and is leading to complaints about the effectiveness of our work_.
--   [current situation] _Although the financial records of the organization are available to anyone who asks, most people in the organization lack adequate financial understanding to make sense of them in the current format._ [effect] _This leads to frustration, uncertainty and questions that are hard to answer about why certain decisions are being made._
+-   (current situation) _The teams often work on items that have not been prioritized in accordance with the product roadmap_. (effect) _This slows down the delivery of features that have been assigned a high priority by the customer and is leading to complaints about the effectiveness of our work_.
+-   (current situation) _Although the financial records of the organization are available to anyone who asks, most people in the organization lack adequate financial understanding to make sense of them in the current format._ (effect) _This leads to frustration, uncertainty and questions that are hard to answer about why certain decisions are being made._
 
 
 
 
 #### Determine Requirements
 
-<div class="card summary"><div class="card-body">Determine what’s required to respond appropriately to an organizational driver, before making a specific decision about what to do.
+<div class="card summary"><div class="card-body">Determine what's required to respond appropriately to an organizational driver, before making a specific decision about what to do.
 </div></div>
 
 
-Identifying and responding to organizational drivers is a fundamental aspect of everyone’s working day in an organization. Intentionally and explicitly clarifying the general direction and scope of the response to a driver _before_ deciding on what specific steps to take, helps identify more specific and suitable solutions, especially in complex situations.
+Identifying and responding to organizational drivers is a fundamental aspect of everyone's working day in an organization. Intentionally and explicitly clarifying the general direction and scope of the response to a driver _before_ deciding on what specific steps to take, helps identify more specific and suitable solutions, especially in complex situations.
 
 _A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step._
 
@@ -1034,21 +1034,21 @@ _A **requirement** is a need or desire considered necessary to fulfill to respon
 
 ##### Examples
 
-1.  **Driver**: _Information is unstructured, kept in silos and sometimes unrecorded, leading to people working with missing or outdated information, which results in ineffectiveness and our clients’ needs being unmet._
+1.  **Driver**: _Information is unstructured, kept in silos and sometimes unrecorded, leading to people working with missing or outdated information, which results in ineffectiveness and our clients' needs being unmet._
 
-    **Requirement**: _We need to store and share relevant information effectively, to improve everyone’s ability to provide valuable solutions for our customers._
+    **Requirement**: _We need to store and share relevant information effectively, to improve everyone's ability to provide valuable solutions for our customers._
 
-2.  **Driver:** _We spend 25% of our work hours on admin work and this is leading to slow response time for customer requests and a growing number of complaints. We’re starting to develop a bad reputation and run the risk of losing customers and compromising future sales._
+2.  **Driver:** _We spend 25% of our work hours on admin work and this is leading to slow response time for customer requests and a growing number of complaints. We're starting to develop a bad reputation and run the risk of losing customers and compromising future sales._
 
     **Requirement:** _We need to free up time for handling customer requirements in a timely manner, so that we improve customer satisfaction and eliminate this type of complaint._
 
-3.  **Driver**: _We’re preparing to recruit five new members into the development teams, and a lack of relevant training could lead to inefficiencies and errors, and an overall decrease in team productivity and quality of work._
+3.  **Driver**: _We're preparing to recruit five new members into the development teams, and a lack of relevant training could lead to inefficiencies and errors, and an overall decrease in team productivity and quality of work._
 
-    **Requirement:** _We need to ensure that all prospective candidates have the relevant training and experience, so they can effectively contribute to the teams they’ll be part of._
+    **Requirement:** _We need to ensure that all prospective candidates have the relevant training and experience, so they can effectively contribute to the teams they'll be part of._
 
 4.  **Driver**: _The teams often work on items that have not been prioritized in accordance with the product roadmap. This slows down the delivery of features that have been assigned a high priority by the customer and is leading to complaints about the effectiveness of our work._
 
-    **_Requirement:** We need to improve alignment of the team planning to the product roadmap so that the most important features are shipped first._
+    **Requirement:** _We need to improve alignment of the team planning to the product roadmap so that the most important features are shipped first._
 
 5.  **Driver:** _Although the financial records of the organization are available to anyone who asks, most people in the organization lack adequate financial understanding to make sense of them in the current format. This leads to frustration, uncertainty and questions that are hard to answer about why certain decisions are being made._
 
@@ -1061,19 +1061,19 @@ In some cases, a requirement is already clear because there is an existing agree
 
 If there is no agreement in place you need to agree (or decide) what the requirement is. Then you can then act on what has been agreed, review outcomes and, if necessary or helpful, adapt and improve things based on what you learn. 
 
-Our opinion about what’s required to deal with a specific situation will inevitably be influenced by our past experience. When facing complex situations however, our initial opinion about what’s required is more likely to be unsuitable or difficult to determine: Several potential requirements may be indicated or what’s required may simply be unclear. 
+Our opinion about what's required to deal with a specific situation will inevitably be influenced by our past experience. When facing complex situations however, our initial opinion about what's required is more likely to be unsuitable or difficult to determine: Several potential requirements may be indicated or what's required may simply be unclear. 
 
 This is why it's valuable to approach deciding what you believe is required to respond effectively, in a conscious and intentional way, even if the requirement appears obvious.
 
 **Determining a requirement, before deciding on what specific steps to be taken**, helps define a general direction while still allowing for a range of options on how to fulfill the requirement to respond to the driver in an effective way.
 
-**When two or more people share responsibility** for deciding how to respond to an organizational driver, differing opinions about specific solutions can lead to contention. People’s ideas can be contradictory or objectionable to others, and they can get into either/or conversations about what would be best. To avoid such confrontation, it’s helpful to resist debating specific solutions until you’ve agreed on the requirement first. 
+**When two or more people share responsibility** for deciding how to respond to an organizational driver, differing opinions about specific solutions can lead to contention. People's ideas can be contradictory or objectionable to others, and they can get into either/or conversations about what would be best. To avoid such confrontation, it's helpful to resist debating specific solutions until you've agreed on the requirement first. 
 
-**Even in the case that you are the sole person responsible** for responding to an organizational driver, it’s useful to clarify for yourself the requirement, before deciding how to proceed. Deciding on a course of action is often more straightforward when the general direction and scope for such action is determined first.
+**Even in the case that you are the sole person responsible** for responding to an organizational driver, it's useful to clarify for yourself the requirement, before deciding how to proceed. Deciding on a course of action is often more straightforward when the general direction and scope for such action is determined first.
 
-**Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others - especially to those who will be affected by whatever’s decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
+**Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others - especially to those who will be affected by whatever's decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
 
-Once a requirement is determined, the** next steps for responding to the organizational driver** involve agreeing on how to fulfill the requirement, acting on this agreement, reviewing outcomes, and, if needed, adapting your decision to improve it, based on what you learn (see _Respond to Organizational Drivers_ for more details).
+Once a requirement is determined, the **next steps for responding to the organizational driver** involve agreeing on how to fulfill the requirement, acting on this agreement, reviewing outcomes, and, if needed, adapting your decision to improve it, based on what you learn (see _Respond to Organizational Drivers_ for more details).
 
 In complex situations where multiple and sometimes even contradictory options exist, an iterative approach for determining a requirement may be necessary because: 
 
@@ -1083,7 +1083,7 @@ In complex situations where multiple and sometimes even contradictory options ex
 
 ##### How to determine the requirement
 
-An organizational driver is a situation that the organization would benefit from responding to. A requirement however, is a decision that defines direction and scope for a suitable response. When determining what requirement would be suitable, it’s helpful to consider:
+An organizational driver is a situation that the organization would benefit from responding to. A requirement however, is a decision that defines direction and scope for a suitable response. When determining what requirement would be suitable, it's helpful to consider:
 
 
 
@@ -1095,14 +1095,13 @@ An organizational driver is a situation that the organization would benefit from
 
 When determining a requirement, deciding how specific or broad to be is crucial. Each requirement inherently suggests a direction; a more specific one narrows the range of options for how to fulfill it, while a less specific requirement broadens the possibilities. The desirability of a wider or narrower scope of options varies depending on the situation.
 
-When addressing a complex driver, or when deciding how to respond to an organizational driver collaboratively, it’s often beneficial to aim for a requirement that allows for a broader scope of potential solutions.
+When addressing a complex driver, or when deciding how to respond to an organizational driver collaboratively, it's often beneficial to aim for a requirement that allows for a broader scope of potential solutions.
 
-If people bring contradictory suggestions about what’s required, this is sometimes an indicator that they’re too much in the solution space. In this case it can be helpful to zoom out and try to identify a requirement that some or all of these solutions might help to fulfill.
+If people bring contradictory suggestions about what's required, this is sometimes an indicator that they're too much in the solution space. In this case it can be helpful to zoom out and try to identify a requirement that some or all of these solutions might help to fulfill.
 
 
-
-* Be specific on whose requirement it is (e.g. "we need", "they need", "I need") 
-* Avoid describing specific solutions disguised as requirements (see "Requirement vs. Solution" below)
+-   Be specific on whose requirement it is (e.g. "we need", "they need", "I need") 
+-   Avoid describing specific solutions disguised as requirements (see "Requirement vs. Solution" below)
 
 Sometimes further investigation of the driver or experimentation to test assumptions may be the first requirement, leading to the identification of a more specific and suitable requirement in time.
 
@@ -1112,9 +1111,8 @@ Sometimes further investigation of the driver or experimentation to test assumpt
 When describing the anticipated impact, explain what you anticipate the consequence of fulfilling the requirement will lead to, and how this is relevant in relation to the driver.
 
 
-
 -   Explain potential benefits, opportunities, or even the <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of responding to the requirement _in relation to the driver_.
--   Making the impact explicit constraints the scope of the response and helps evaluating n the driverthe effectiveness of the response in relation the driver 
+-   Making the impact explicit constraints the scope of the response and helps evaluating the effectiveness of the response in relation the driver 
 
 
 ##### Requirement vs. Solution
@@ -1124,15 +1122,15 @@ The requirement provides a general direction and clarifies the scope for possibl
 Example:
 
 
--   **Requirement:** _We need to store and share relevant information effectively, to improve everyone’s ability to provide valuable solutions for our customers._
+-   **Requirement:** _We need to store and share relevant information effectively, to improve everyone's ability to provide valuable solutions for our customers._
 -   **Solution**: _A simple and comprehensive information architecture for Confluence, and a coordinated effort to migrate all existing information into that structure._
 
-The requirement above explains _what_ is missing (absent or deficit in some way), but it doesn’t specify _how_ the information will be stored and shared, what steps to take, and who will do what, etc. Having agreed on this requirement, specific decisions. e.g. about _how_ and _where_ to store and share relevant information effectively can be made.
+The requirement above explains _what_ is missing (absent or deficit in some way), but it doesn't specify _how_ the information will be stored and shared, what steps to take, and who will do what, etc. Having agreed on this requirement, specific decisions. e.g. about _how_ and _where_ to store and share relevant information effectively can be made.
 
 
 ##### When to determine a requirement?
 
-Determine the requirement _before_ deciding how to specifically respond to an organizational driver, but _after_ establishing that this is in fact an organizational driver, that it’s yours or your team's responsibility to deal with it, _and_ that responding is a priority. Determining a requirement for drivers that are _not_ a priority might be wasteful, because the situation or its relevance to the organization might change.
+Determine the requirement _before_ deciding how to specifically respond to an organizational driver, but _after_ establishing that this is in fact an organizational driver, that it's yours or your team's responsibility to deal with it, _and_ that responding is a priority. Determining a requirement for drivers that are _not_ a priority might be wasteful, because the situation or its relevance to the organization might change.
 
 
 
@@ -1158,14 +1156,14 @@ _A **concern** is an assumption that cannot (for now at least) be backed up by r
 
 ##### Step 1: Consent to Driver and Requirement
 
-_Make sure the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> and <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a> are summarized clearly enough and that it is relevant for this group to deal with them._
+_Make sure the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> and <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a> are summarized clearly enough and that it is relevant for this group to deal with them._
 
 Facilitator asks: _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
 
-**Note:** As a general recommendation, aim to complete this step with meeting attendees asynchronously, _prior to the meeting_. This will give you the opportunity to make any refinements in advance and save wasting precious meeting time. However, in a case where someone is presenting a proposal to a group of stakeholders who were not involved in creating it, or if there are people who are only now joining the decision-making process, check everyone understands the driver and requirement for the proposal, and make sure that it’s described clearly enough, the requirement is considered to be suitable and it’s relevant for those present to deal with this, before considering the proposal itself.
+**Note:** As a general recommendation, aim to complete this step with meeting attendees asynchronously, _prior to the meeting_. This will give you the opportunity to make any refinements in advance and save wasting precious meeting time. However, in a case where someone is presenting a proposal to a group of stakeholders who were not involved in creating it, or if there are people who are only now joining the decision-making process, check everyone understands the driver and requirement for the proposal, and make sure that it's described clearly enough, the requirement is considered to be suitable and it's relevant for those present to deal with this, before considering the proposal itself.
 
 -   If the driver is not described clearly enough, take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer considering the proposal, until the driver is clear.
--   If the driver is not relevant for this group, pass it on to the appropriate person or team, or, if it’s decided that this is not an organizational driver at all, discard it.
+-   If the driver is not relevant for this group, pass it on to the appropriate person or team, or, if it's decided that this is not an organizational driver at all, discard it.
 -   If the requirement is considered to be unsuitable, hear the argument(s) and if they qualify as objections, resolve them before considering the proposal.
 
 
@@ -1330,7 +1328,7 @@ Explore and refine each argument as necessary to identify any misconceptions or 
 
 To have a productive dialogue, it is helpful to understand that any argument is made up of a series of **claims**: Each argument contains one or more **premises**, which are offered as reasons for accepting a **conclusion**.
 
-Each of an argument’s premises can be scrutinized individually, and when that is done, we can analyze whether or not the conclusion that follows from those premises stood up to the test.
+Each of an argument's premises can be scrutinized individually, and when that is done, we can analyze whether or not the conclusion that follows from those premises stood up to the test.
 
 It helps to present the argument in a way that makes the premises and conclusion, obvious, e.g. like this:
 
@@ -1365,7 +1363,7 @@ This process for testing if arguments qualify as objections, is a variation of t
 
 **Step 4:** Investigate the reasoning behind the disagreement: 
 
-- If it demonstrates that the original argument is false (totally or partly) or that ( despite it being sound), it doesn’t qualify as an objection, continue with the next step.
+- If it demonstrates that the original argument is false (totally or partly) or that ( despite it being sound), it doesn't qualify as an objection, continue with the next step.
 - Otherwise go back to step 3 to check for any further disagreements.
 
 **Step 5:** Integrate the information revealed in the previous step with the original argument:
@@ -1375,7 +1373,7 @@ This process for testing if arguments qualify as objections, is a variation of t
 
 ![A process for testing if an argument qualifies as an objection](img/agreements/test-arguments.png)
 
-Below you’ll find more guidance on how to go through each step. As with all patterns in S3, your approach to testing if arguments qualify as objections can be adjusted to suit your context.
+Below you'll find more guidance on how to go through each step. As with all patterns in S3, your approach to testing if arguments qualify as objections can be adjusted to suit your context.
 
 
 ###### Step 1 Present argument
@@ -1391,7 +1389,7 @@ Below you’ll find more guidance on how to go through each step. As with all pa
 
 **Facilitator asks everyone:** *Any questions to understand the argument?*
 
-**Everyone:** If you don’t understand, jump in and ask a clarifying question. The person presenting the argument explains further, until everyone understands.
+**Everyone:** If you don't understand, jump in and ask a clarifying question. The person presenting the argument explains further, until everyone understands.
 
 
 ###### Step 3 Check for disagreement with the argument
@@ -1419,21 +1417,21 @@ Choose one of the people with a raised hand and using the same process for testi
 **4.3. Check for disagreement to the disagreement:** Facilitator asks: *Does anyone disagree with the reason for this disagreement, entirely or in part?*
 
 - **If no one disagrees**: the argument for the disagreement is considered valid. Go to step 5.
-- **If anyone disagrees**: investigate the reasoning behind the disagreement (see step 4) until you come to an argument that no-one disagrees with. Then take each preceding argument in turn – checking if there’s anything remaining and/or if it needs to be changed or dropped (see step 5 for guidelines on how to do this) – until you arrive back to the initial disagreement. 
+- **If anyone disagrees**: investigate the reasoning behind the disagreement (see step 4) until you come to an argument that no-one disagrees with. Then take each preceding argument in turn – checking if there's anything remaining and/or if it needs to be changed or dropped (see step 5 for guidelines on how to do this) – until you arrive back to the initial disagreement. 
 
 
 ###### Step 5: Integrate the information revealed in the previous step with the original argument
 
 **Facilitator asks** the person who presented the original argument: *"Anything remaining of your argument?"*
 
-The person who brought the original argument has the option to refine, rephrase or reframe their argument, or to drop it entirely, if there’s nothing remaining. 
+The person who brought the original argument has the option to refine, rephrase or reframe their argument, or to drop it entirely, if there's nothing remaining. 
 
 - If the original argument still has some validity, refine it and then continue with step 3 to see if there is any disagreement with the refined argument.
 - Otherwise you have demonstrated that the original **argument is not an objection.**
 
 ![Recursive application of testing arguments and investigating disagreements](img/agreements/test-arguments-process.png)
 
-![Facilitator’s Guide: Test Arguments Qualify As Objections](img/agreements/test-arguments-facilitation-guide.png)
+![Facilitator's Guide: Test Arguments Qualify As Objections](img/agreements/test-arguments-facilitation-guide.png)
 
 
 #### Resolve Objections
@@ -1441,22 +1439,22 @@ The person who brought the original argument has the option to refine, rephrase 
 <div class="card summary"><div class="card-body">Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state. 
 </div></div>
 
-Typically it’s most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
+Typically it's most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
 
 A proposal becomes an agreement when all objections have been resolved.
 
 Objections are resolved by amending the proposal. **Amendments** can include: 
 
 - adding, removing and/or changing something in the proposal.
-- deferring resolution of a particular objection until later. (Remember to clarify who will take responsibility for this, by when and what will happen after that).
-- an alternative proposal, or an agreement to (co-)create a new proposal in future (if it’s considered more effective than continuing to work on developing the existing proposal).
+- deferring resolution of a particular objection until later. (Remember to clarify who will take responsibility for this, by when, and what will happen after that).
+- an alternative proposal, or an agreement to (co-)create a new proposal in future (if it's considered more effective than continuing to work on developing the existing proposal).
 - delegating the task to review, research, and/or propose an amendment for one, or even several related objections, to an individual or group.
 - leaving the main proposal unchanged and monitoring the outcome because the effort, or cost of changing things to resolve the objection, outweighs the anticipated benefits or gain.
 - asking a delegator for feedback or input (e.g. when agreeing on a strategy for a subdomain).
 - take some more time for reflection and then come back to the objection again later.
 - etc.
 
-There’s always an iterative next step of some kind that you can take! Even if a proposal doesn’t fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>, reaching agreement about **one or more iterative next steps** is often good enough. It’s also helpful sometimes to break things down into small steps, especially when you’re dealing with complex or complicated situations. 
+There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>, reaching agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations. 
 
 Objections can be resolved by following the process outlined in _Reasoned Decision-Making_:
 
@@ -1472,26 +1470,26 @@ If there are no possible objections, proceed to step 6 (Celebrate), otherwise ta
 
 **Step 5:** Integrate any information revealed in the previous step to improve the proposed amendment, then go back to step 3.
 
-**Step 6:** Celebrate! You’ve agreed on an amendment that resolves the objection! 
+**Step 6:** Celebrate! You've agreed on an amendment that resolves the objection! 
 
 ![Process for resolving an objection](img/agreements/resolve-objections.png)
 
-Below you’ll find more guidance on how to go through each step. This process can be repeated until all objections have been resolved. As with all patterns in S3, your approach to resolving objections can be adjusted to suit your context. 
+Below you'll find more guidance on how to go through each step. This process can be repeated until all objections have been resolved. As with all patterns in S3, your approach to resolving objections can be adjusted to suit your context. 
 
 
 ##### Step 1: Come up with proposal for an amendment
 
 *Come up with a suggestion for how to amend the proposal to resolve the objection based on information the objection reveals.* 
 
-There are many ways to come up with an amendment. Below are some typical options you can use. We recommend you use them in the order they are presented: if the first option does not work, go to the next one, and so on. Once you get more familiar with the process you’ll be able to discern in the moment which option is more suitable. 
+There are many ways to come up with an amendment. Below are some typical options you can use. We recommend you use them in the order they are presented: if the first option does not work, go to the next one, and so on. Once you get more familiar with the process you'll be able to discern in the moment which option is more suitable. 
 
 1. Ask the person raising the objection: "*Do you have a suggestion for how to amend this proposal to resolve this objection?*"
 2. Ask the group "*Does anyone have a suggestion for how to amend this proposal to resolve this objection?*" and choose one person to present their suggestion.
-3. In case it’s difficult to immediately come up with an amendment, invite a timeboxed dialogue to share ideas, with the purpose of coming up with an amendment from there.
+3. In case it's difficult to immediately come up with an amendment, invite a timeboxed dialogue to share ideas, with the purpose of coming up with an amendment from there.
 
 As with any proposal, an amendment suggestion gives you a starting point that can then be refined through inviting and resolving objections. (see Step 4:Test One Argument Qualifies as Objection)
 
-It’s often helpful to repeat or summarise the amendment and write it down for everyone to see. 
+It's often helpful to repeat or summarize the amendment and write it down for everyone to see. 
 
 
 ##### Step 2: Understand amendment
@@ -1518,7 +1516,7 @@ This step is simply about identifying who has possible objections or concerns. A
 Many groups use hand signs as a way to indicate quickly and clearly if anyone has any possible objections. 
 
 - In case there are possible objections to the suggested amendment, go on to the next step, Test One Argument Qualifies as Objection(link). 
-- If no one indicates having any possible objections, go to **Step 6: Celebrate**, because you’ve agreed on the amendment.
+- If no one indicates having any possible objections, go to **Step 6: Celebrate**, because you've agreed on the amendment.
 
 
 ##### Step 4: Test One Argument Qualifies as Objection
@@ -1526,7 +1524,7 @@ Many groups use hand signs as a way to indicate quickly and clearly if anyone ha
 Please refer to _Test Arguments Qualify as Objections_
 
 - If the argument qualifies, continue to **Step 5** (Resolve one Objection)
-- If the argument doesn’t qualify, go back to **Step 3** to check if there are any further possible objections to the proposed amendment. 
+- If the argument doesn't qualify, go back to **Step 3** to check if there are any further possible objections to the proposed amendment. 
 
 
 ##### Step 5: Resolve one Objection
@@ -1542,8 +1540,8 @@ As you can see, the Resolve Objections pattern can be used recursively. Below yo
 
 ##### Step 6: Celebrate!
 
-You’ve agreed on an amendment that resolves the objection!
-Before moving on, remember to update your original proposal to integrate the amendment you’ve agreed on.
+You've agreed on an amendment that resolves the objection!
+Before moving on, remember to update your original proposal to integrate the amendment you've agreed on.
 
 
 #### Evaluate And Evolve Agreements
@@ -1598,7 +1596,7 @@ Follow-up:
 
 There are many ways to co-create proposals. They typically follow a similar pattern:
 
-1. Agree on the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> and <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a> (or problem / opportunity / need)
+1. Agree on the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> and <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a> (or problem/opportunity/need)
 2. Explore the topic and understand constraints
 3. Generate ideas
 4. Design a proposal (often done by a smaller group)
@@ -1617,18 +1615,19 @@ Besides in a face-to-face workshop, you can adapt this process for online meetin
 <div class="card summary"><div class="card-body">A (facilitated) group process for co-creating a response to a driver.
 </div></div>
 
--   draws on the collective intelligence and diversity of perspective within a group
--   involves people in co-creating agreements
--   fosters accountability and sense of ownership
+
+* draws on the collective intelligence and diversity of perspective within a group
+* involves people in co-creating agreements
+* fosters accountability and sense of ownership
 
 _Proposal Forming_ may also be used by an individual.
 
 
 ##### Proposal Forming Steps
 
-**1. Present and Consent to Driver and Requirement:** Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to. 
+**1. Consent to Driver and Requirement:** Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to. 
 
-**2. Questions about the driver and Requirement:** Deepen individual and shared understanding of the driver and Requirement.
+**2. Questions about the Driver and Requirement:** Deepen individual and shared understanding of the driver and Requirement.
 
 **3. Considerations as questions:** Collect any considerations you have in relation to possible solutions. Record them in the form of questions.
 
@@ -1638,27 +1637,229 @@ _Proposal Forming_ may also be used by an individual.
 
 **6. Collect ideas:** Generate and record ideas about how to respond to the driver and fulfill the determined requirement.
 
-**7. Choose tuners:** Delegate responsibility for putting together a proposal, to 2-3 people (tuners).
+**7. Choose tuners:** Delegate responsibility for putting together a proposal to 2-3 people (tuners).
 
-When choosing Tuners, consider expertise, outside view, and inspiration, and the following questions:
+**8. Design proposal:** The Tuners design a proposal based on the information gathered in the previous steps.
 
--   who should be there?
--   who wants to be there?
--   who else may have a valuable contribution to make?
-
-Between two and three tuners is usually appropriate. Remember to check for any objections to the proposed tuner(s).
-
-**8. Design proposal:** The Tuners design a proposal.A well written proposal usually includes:
-
-
--   the Driver it responds to
--   the proposal text - what, how, rationale, etc.
--   who will be responsible for what - for overseeing its application / implementation
--   evaluation date or frequency - when the future agreement will be reviewed
--   evaluation criteria - to measure / determine the success or effectiveness of the decision
--   (a due date if necessary)
 
 ![Proposal forming process](img/agreements/proposal-forming.png)
+
+
+##### Step 1: Consent to Driver and Requirement
+
+_Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to._
+
+Facilitator asks: _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
+
+This first step is simply about ensuring that the driver is summarized clearly enough and that it's relevant for those who are involved to respond to it. Once the driver has been accepted, you'll have the chance to ask further questions and learn more in the next step
+
+As a general recommendation, aim to complete this step with meeting attendees asynchronously, prior to meeting. This will give you the opportunity to make any refinements in advance and can save wasting precious meeting time.
+
+**If the driver is not described clearly enough**: take time to clarify and make any necessary changes to how the driver is summarized until there are no further objections. Unless this will be a quick fix, consider doing this after the meeting and defer forming the proposal until the driver is clear.
+
+**If the driver is not relevant for this group:** pass it on to the appropriate person or team, or, if it's decided that this is not an organizational driver at all, discard it.
+
+**If the requirement is considered to be unsuitable:** hear the argument(s) and if they qualify as objections, resolve them before considering the proposal.
+
+
+##### Step 2: Questions about the Driver and Requirement
+
+_Deepen individual and shared understanding of the driver and requirement._
+
+The purpose of this step is to deepen your understanding, individually and as a group, of the situation and what's been determined as required to address it. You are looking back in time and until the present moment, to understand the situation.
+
+**Facilitator asks**: _Any other (essential) information you need to know about the driver or requirement?_
+
+Ask whatever questions you need, to be sure you understand enough about:
+
+-   the current situation, 
+-   the effect it has on the organization, 
+-   the requirement you're trying to address in this process and 
+-   the impact you want to achieve. 
+
+**Tips for the facilitator:**
+
+
+-   Use rounds, hear one question at a time, and invite anyone with an answer to share it briefly. Encourage them to be brief and concise.
+-   Check regularly with the person who asks a question, if the answer(s) given is sufficient to move on.  
+
+**Tips for everyone:**
+
+-   Prioritize your questions in your mind, in case there isn't time to ask or answer them all.
+-   If you don't have a question, then when it comes to your turn, say "pass".
+-   Keep both questions and answers brief. Avoid preamble and aim to stay focused on each question in turn. 
+-   Keep any conversation to a minimum and avoid getting into discussion. 
+-   Only record answers, NOT questions.
+-   If there are 2 or more points of view, record them all.
+
+
+##### Step 3: Considerations as questions
+
+_Collect any considerations you have in relation to possible solutions. Record them in the form of questions._
+
+Before jumping into ideas about how to fulfill the requirement, it's useful to consider important constraints and specific facts that might inform the generation of ideas (which will take place in step 6). It's also helpful to stimulate creative thinking. This is all covered in steps 3 and 4.
+
+**Facilitator asks:** _What questions come up for you when you're thinking about possible solutions?_
+
+**You're looking for two types of questions:** Information gathering questions and generative questions.
+
+**Information gathering questions**
+
+These questions elicit information that helps to understand constraints relating to possible solutions. They reveal specific information, or that there is a lack of knowledge to be able to answer that question. 
+
+Examples:
+
+-   _What budget do we have available for this?_
+-   _How much slack time do we currently have?_
+-   _How many people are affected by this situation?_
+
+**Generative questions**
+
+These are open questions that can be answered in many ways and invite people to think of various possibilities. They stimulate creative thinking. 
+
+Examples:
+
+-   _How can we utilize our existing platforms to address this issue?_
+-   _What's the simplest way to begin?_
+-   _What can we learn from how others have dealt with this before?_
+
+
+**Solutions disguised as questions**
+
+There's a third type of question that's better to avoid at this stage: solutions disguised as questions, like "_could we use tool X to solve this?_" or "_could we raise funds through an open campaign?_"
+
+Such questions invite listeners to _converge_ on an idea, but in this step of Proposal Forming, we actually want to keep the field open (_divergent_) for as many creative ideas as possible. Specific Ideas about solutions are shared in step 6.
+
+If you do come across a solution disguised as a question, have a go at reformulating it as a generative question, for example, "_what tools do we know of that we could use for this?_" or "_how will we finance this?_". Alternatively, save it and bring it up in step 6. 
+
+**Tips for the facilitator:**
+
+
+-   Begin by giving people a few minutes to reflect for themselves and record their considerations as questions on sticky notes. 
+-   Once the time is up, use rounds to hear 1 question from each person at a time. Go in rounds until all questions are harvested. 
+-   Remember: you don't answer any questions in this step.
+
+
+**Tips for everyone:**
+
+
+-   Allocate two areas (columns) on your (digital) board, one for information gathering questions and the other for generative questions.
+-   When it's your turn, add one of your questions to the board as you read it out loud. You'll need to decide in which column to place it. If in doubt, add it to the "info gathering" column. You can talk about it later. 
+-   Use the "_Bingo_" and "_Sort-of Bingo_" technique, to identify and cluster similar considerations together: When you have the same question, say "_Bingo_", there is no need to repeat what's on your sticky note. When you have a related question, say "_Sort-of-Bingo_" and jump in and add the additional details.
+-   Avoid discussing questions in this step, unless it's necessary for understanding the question.
+-   In the case of a solution disguised as a question, rephrase the question or bring it up in Step 6 when you collect ideas. 
+-   To increase meeting effectiveness, you can also prepare some of these questions prior to the meeting, as part of your preparation.
+
+
+##### Step 4: Answer information gathering questions
+
+_Gather any information regarding constraints and specific details that are worthwhile to consider._
+
+Having collected and visualized all of the information gathering and generative questions, answer as many information gathering questions as you can. 
+
+**Note:** Don't attempt to answer the generative questions in this step. This happens in step 6 when you collect ideas.
+
+**Facilitator:** Ask those present to answer whatever questions they can and record the answers under the question, (on the same sticky note if that's what you used). Learning that a question cannot be answered by those present is also useful information. 
+
+Information gained in this step informs people in making appropriate suggestions for solutions in the next round. Important information gathering questions that cannot be answered now might indicate the need to address them somehow in the proposal later.
+
+**Note:** In some cases you might even pause the Proposal Forming process at this stage, to allow time to answer important information gathering questions before continuing to step 5 another day.
+
+Here's some tips on how to do this step:  
+
+-   Everyone gather around the board and begin writing down any relevant answers on the sticky notes with the questions 
+-   Have any dialogue necessary to clarify answers.
+-   The answer can also be "_we don't know_".
+-   If you notice there are many possible answers to a question, move it to the generative column instead.
+-   Record any other generative questions that come up, including rephrasing information gathering questions if required:
+
+    Example: 
+    Information gathering question: _How many people are affected by this problem?_
+    Answer: _we don't know_
+    Generative question: _How shall we find out how many people are affected?_
+
+
+##### Step 5: Prioritize generative questions
+
+_Identify priority considerations to clarify which are more or less important to consider when forming the proposal._
+
+In this step, arrange the generative questions in order of importance.
+
+**A suggested way to prioritize:**
+
+Together, in silence, arrange the sticky notes in an approximate order of importance in a vertical list, with those that are essential to address in any proposal near the top, and those that are of little consequence near the bottom. Place any disputed considerations aside until undisputed notes have been placed. Then dedicate time for dialogue to decide where to position the others in the list.
+
+**Note:** this prioritization only needs to be approximate. The main purpose here is to ensure that essential considerations are identified so that they can be considered when it comes to tuning the proposal. 
+
+
+##### Step 6: Collect ideas
+
+_Generate and record ideas about how to respond to fulfill the determined requirement._
+
+In this step, everyone shares ideas about how to fulfill the determined requirement. This can include ideas that might provide a whole solution, partial solutions, iterative next steps and suggestions about how to respond to any of the prioritized generative questions. 
+
+**Facilitator says:** _Coming back to the driver for this proposal, mindful of all we've learned so far, and considering the priority considerations we've identified, please take some time now to come up with ideas about how we can respond to this driver._
+
+**Tips for the facilitator:**
+
+-   Begin by giving people a few minutes to reflect for themselves and record their ideas on sticky notes. 
+-   Encourage people to record as many ideas as possible. Reassure everyone that contradictory ideas are welcome.
+-   Once the time is up, use rounds to hear one idea from each person at a time. Go in a round until all ideas are harvested.
+-   Use the "Bingo" and "Sort-of Bingo" technique, to identify and cluster similar considerations together.
+
+**Tips for everyone**
+
+-   Take time to reflect individually and write down ideas you have on sticky notes. 
+-   If you know about the requirement in advance, you can start recording any ideas you have about how to fulfil the requirement prior to the meeting.
+-   Keep your notes brief.
+-   Avoid discussing, evaluating, comparing or debating ideas.
+-   Ask questions for understanding if necessary.
+-   Use the "Bingo" and "Sort-of Bingo" technique.
+
+
+##### Step 7: Choose tuners
+
+_Delegate responsibility for putting together a proposal, to 2-3 people (tuners)._
+
+**Tuners** are individuals chosen by the group. Their task is to consider all the information and ideas the group has collected and to prepare a proposal for how to respond to the driver. They can choose one or more of the ideas, synthesize them or come up with new ones, based on all the information gathered in the process. When choosing Tuners, consider expertise, outside view, and inspiration.
+
+**Facilitator says**: _We need to choose tuners_. Then asks in this order: 
+
+1. _Who do you think should be there?_
+2. _Who would like to be there?_
+3. _Can you think of anyone else, not present here, who might have a valuable contribution to make?_ 
+
+**Tips for the facilitator:**
+
+-   Ask people to make suggestions, including proposing themselves, and if there are several suggestions, narrow it down to 2 or 3 people. 
+-   Check for any objections to the proposed tuners, and if there are any, resolve them until there are no further objections remaining.
+
+**Note:** Tuners can invite others to contribute toward designing the proposal if they decide it is necessary or valuable to do so.
+
+**Note:** The **tuners are not making a final decision**. Their task is to ensure a proposal is created based on the information gathered in the previous steps. The output of the Proposal Forming process is a proposal that can later be tested and evolved if necessary using the Consent Decision Making process.
+
+
+##### Step 8: Design proposal
+
+_The Tuners design a proposal._
+
+A well written proposal usually includes:
+
+-   the driver it responds to and the requirement it's intended to fulfill. 
+-   the proposal text - what, how, rationale, etc.
+-   who will be responsible for what - for overseeing its application/implementation.
+-   evaluation date or frequency - when the future agreement will be reviewed.
+-   evaluation criteria - to measure/determine the success or effectiveness of the decision.
+-   (a due date if necessary).
+
+When developing the proposal it is often enough to design a (few) viable and iterative next step(s). Alternatively, you might prepare a high-level proposal first and then get into details later, once the basic concept has been tested and approved.
+
+In any case, consider setting an early evaluation date to review progress and outcomes, and to develop next steps. 
+
+Of course, it's sometimes necessary to develop a comprehensive proposal from the start but whenever possible, aim to break it down into iterative steps, so you can learn fast and evolve your agreement based on what you learn.
+
+**Tuners, note:** When writing down the proposal, aim to keep your explanation clear and concise. Describe it in a way that maximizes the potential that others will understand it without needing further explanation.
+
 
 
 #### Reasoned Decision-Making
@@ -1754,35 +1955,35 @@ This pattern can also be used in any situation where there is a need to choose b
 <div class="card summary"><div class="card-body">Explicitly clarify, and then regularly evaluate and develop the design of domains throughout the organization, based on learning, to enable those with responsibility for each domain to deliver value as effectively as possible to the customers they serve.
 </div></div>
 
-A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> —distinct areas of responsibility and authority within the organization. Depending on the purpose it’s meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
+A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> —distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
 
 Responsibility for domains is taken on by individuals (role keepers), or by groups of people (teams, projects, platforms, micro-enterprises, departments, etc.) Each team or role keeper contributes toward fulfilling the overall purpose of the organization by taking care of a specific area of responsibility in the organization. In some cases, people might keep more than one role, or be part of more than one team. 
 
-In the process of delegating responsibility to others, or when existing responsibilities are misunderstood or people’s efforts to fulfill their responsibilities are impeded in some way, consider explicitly clarifying domains. A written description of significant domains helps to reduce misunderstanding and makes existing expectations and assumptions clear. It lays out the contract between delegator and delegatees, and describes how the domain’s design and the work done by the delegatees, can be monitored, evaluated and improved over time.
+In the process of delegating responsibility to others, or when existing responsibilities are misunderstood or people's efforts to fulfill their responsibilities are impeded in some way, consider explicitly clarifying domains. A written description of significant domains helps to reduce misunderstanding and makes existing expectations and assumptions clear. It lays out the contract between delegator and delegatees, and describes how the domain's design and the work done by the delegatees, can be monitored, evaluated and improved over time.
 
 
 ##### Why clarify and develop domains?
 
-Clarifying domains makes expectations about the distribution of work transparent. It supports making the contract between <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> and <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatees</a> explicit and helps everyone understand who is responsible for what. A clear and easy to understand description of the area of responsibility and scope of authority to influence that delegatees have, helps clarify the part that each team or role keeper plays in the overall value chain. It also supports effective organizational development by making expectations explicit. Regular evaluation of each domain’s design can reveal ways to improve them to enable greater efficiency, collaboration, and agility throughout the organization.
+Clarifying domains makes expectations about the distribution of work transparent. It supports making the contract between <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> and <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatees</a> explicit and helps everyone understand who is responsible for what. A clear and easy to understand description of the area of responsibility and scope of authority to influence that delegatees have, helps clarify the part that each team or role keeper plays in the overall value chain. It also supports effective organizational development by making expectations explicit. Regular evaluation of each domain's design can reveal ways to improve them to enable greater efficiency, collaboration, and agility throughout the organization.
 
 When domains are inadequately or insufficiently defined, stakeholders may have different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work can suffer because of unnecessary or missed dependencies, double work, or work not done at all. 
 
-A clear domain description with adequate detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work. Regular evaluation of each domain’s design supports learning about what works and what doesn’t. It helps people to identify ways to improve domain design over time, both locally regarding each individual domain and also regarding the overall structure of domains, the ways in which responsibilities are distributed between them, and the ways in which they are linked together to support the effective creation and delivery of value throughout the whole organization. 
+A clear domain description with adequate detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work. Regular evaluation of each domain's design supports learning about what works and what doesn't. It helps people to identify ways to improve domain design over time, both locally regarding each individual domain and also regarding the overall structure of domains, the ways in which responsibilities are distributed between them, and the ways in which they are linked together to support the effective creation and delivery of value throughout the whole organization. 
 
 A simple way for supporting stakeholders in developing shared understanding about the various aspects of a domain is by creating a domain description that contains information about:
 
 
--    **Purpose**:  _What is the specific purpose the team (or role keeper) is responsible for fulfilling within the organization_?
--    **Key Responsibilities:** _What is the essential work and decision-making being delegated to the team (or role keeper)?_
--    **Customers and Deliverables**: _Whom does this team (or role keeper) deliver value to and what specifically do they provide?_
--    **Dependencies**: _Who is the team (or role keeper) dependent on, from other parts of the organization or the outside world, and what deliverable(s) do these people provide?_
--    **External Constraints**: _What are important external constraints to the delegatees’ autonomy and influence?_
--    **Key Challenges**: _What are the most important known (or anticipated) challenges the delegatees might face?_
--    **Key Resources**: _What essential resources can the team (or role keeper) make use of?_
--    **Delegator Responsibilities**: _What responsibilities can delegatees rely on the delegator to take care of to support them to successfully account for this domain?_
--    **Competencies, Qualities and Skills**: _What competencies, qualities and skills are required – or at least preferable – to successfully account for this domain?_
--    **Key Metrics and Monitoring**: _What are the critical indicators of progress, performance, project health, etc, how frequently will they be measured and by whom?_
--    **Evaluation Schedule:** _When and how will you evaluate the effectiveness of the domain’s design and the success of the team (or role keeper) in fulfilling the domain’s purpose?_
+-   **Purpose**:  _What is the specific purpose the team (or role keeper) is responsible for fulfilling within the organization_?
+-   **Key Responsibilities:** _What is the essential work and decision-making being delegated to the team (or role keeper)?_
+-   **Customers and Deliverables**: _Whom does this team (or role keeper) deliver value to and what specifically do they provide?_
+-   **Dependencies**: _Who is the team (or role keeper) dependent on, from other parts of the organization or the outside world, and what deliverable(s) do these people provide?_
+-   **External Constraints**: _What are important external constraints to the delegatees' autonomy and influence?_
+-   **Key Challenges**: _What are the most important known (or anticipated) challenges the delegatees might face?_
+-   **Key Resources**: _What essential resources can the team (or role keeper) make use of?_
+-   **Delegator Responsibilities**: _What responsibilities can delegatees rely on the delegator to take care of to support them to successfully account for this domain?_
+-   **Competencies, Qualities and Skills**: _What competencies, qualities and skills are required – or at least preferable – to successfully account for this domain?_
+-   **Key Metrics and Monitoring**: _What are the critical indicators of progress, performance, project health, etc, how frequently will they be measured and by whom?_
+-   **Evaluation Schedule:** _When and how will you evaluate the effectiveness of the domain's design and the success of the team (or role keeper) in fulfilling the domain's purpose?_
 
 On the [S3 Canvas microsite](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) you can find a template that you can use for (co-)designing new domains or for documenting existing domains, when clarifying them is worthwhile. 
 
@@ -1791,15 +1992,15 @@ On the [S3 Canvas microsite](http://s3canvas.sociocracy30.org/s3-delegation-canv
 
 Free delegatees up to create and deliver value. Aim to design or develop domains in ways that enable them to fulfill the purpose of the domain as effectively as possible: 
 
--    Avoid, minimize or remove any unnecessary dependencies and constraints that otherwise impede the ability of the delegatees to successfully account for the domain.
--    Enable delegatees to undertake whichever activities they consider to be valuable, unless such activity falls outside of the domain of the organization, is explicitly forbidden, they violate somebody else’s (explicit) domain, or if it impedes other people’s contribution to the organization in some other way. Things that are forbidden may include explicit constraints laid out in the domain description, any other agreements the delegatees need to keep, or legal and regulatory requirements.
--    Aim to design simple metrics that help delegatees learn whether or not they focus on the right things   
--    Keep the design brief and to the point, and schedule regular evaluations to discover what is working, what’s missing, and what needs to be changed.
+-   Avoid, minimize or remove any unnecessary dependencies and constraints that otherwise impede the ability of the delegatees to successfully account for the domain.
+-   Enable delegatees to undertake whichever activities they consider to be valuable, unless such activity falls outside of the domain of the organization, is explicitly forbidden, they violate somebody else's (explicit) domain, or if it impedes other people's contribution to the organization in some other way. Things that are forbidden may include explicit constraints laid out in the domain description, any other agreements the delegatees need to keep, or legal and regulatory requirements.
+-   Aim to design simple metrics that help delegatees learn whether or not they focus on the right things   
+-   Keep the design brief and to the point, and schedule regular evaluations to discover what is working, what's missing, and what needs to be changed.
 
 
 ##### When to clarify domains
 
-**When delegating responsibility for a new domain:** as a delegator, take the time to draft out a design of the domain you intend to delegate, before contracting with an individual or team to take responsibility for it. As part of the delegation process, It’s often worthwhile to review and perhaps develop some aspects of a new domain design, with input from the delegatees.
+**When delegating responsibility for a new domain:** as a delegator, take the time to draft out a design of the domain you intend to delegate, before contracting with an individual or team to take responsibility for it. As part of the delegation process, It's often worthwhile to review and perhaps develop some aspects of a new domain design, with input from the delegatees.
 
 **When existing domains are unclear:** Consider clarifying existing domains whenever you identify that stakeholders have differing assumptions about the domain of an existing _role_, position, team, project, department, or even about the domain of the entire organization, if that unclarity leads to confusion, double work, work not being done, etc.
 
@@ -1810,176 +2011,176 @@ When clarifying domains throughout an entire organization there is often merit i
 
 **Starting point**
 
-All sections are worth considering when clarifying a domain. However, if you’re tight on time, or if many aspects of the domain are currently unclear, start with defining the following, and then cover the rest as soon as you can:
+All sections are worth considering when clarifying a domain. However, if you're tight on time, or if many aspects of the domain are currently unclear, start with defining the following, and then cover the rest as soon as you can:
 
--    Purpose
--    Key Responsibilities
--    Customers and Deliverables
--    Delegator Responsibilities
--    An early date by when the design of the domain will be reviewed and improved.
+-   Purpose
+-   Key Responsibilities
+-   Customers and Deliverables
+-   Delegator Responsibilities
+-   An early date by when the design of the domain will be reviewed and improved.
 
 
 ##### Regularly evaluate and develop domains
 
-People’s understanding of the organization is limited and the environment is always changing. Therefore it’s essential that delegator, delegatees and other relevant stakeholders regularly evaluate and when useful, improve the design of domains as their understanding of each domain and its contribution to a value chain deepens.
+People's understanding of the organization is limited and the environment is always changing. Therefore it's essential that delegator, delegatees and other relevant stakeholders regularly evaluate and when useful, improve the design of domains as their understanding of each domain and its contribution to a value chain deepens.
 
-If the design of a domain is primitive or flawed, it will impede the team or role keeper’s ability to contribute effectively to the purpose of the organization, even if the delegatees are doing a great job of accounting for the domain in the way it is currently designed. Therefore it’s essential that a domain’s design is regularly evaluated so that a poor or out of date design can be improved incrementally as people learn over time.
+If the design of a domain is primitive or flawed, it will impede the team or role keeper's ability to contribute effectively to the purpose of the organization, even if the delegatees are doing a great job of accounting for the domain in the way it is currently designed. Therefore it's essential that a domain's design is regularly evaluated so that a poor or out of date design can be improved incrementally as people learn over time.
 
 If changes are made to one domain, consider if other domains are affected and make changes accordingly. Especially look to subdomains and dependent domains.
 
 
 ##### Clarify the overall domain of the organization
 
-All domains in an organization are nested within the <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">overall domain of the organization</a>. This domain can either be deliberately designed and described in the early stages of the organization, or clarified retrospectively. An organization’s overall domain needs to be designed in a way that enables the members of the organization to contribute effectively toward fulfilling its purpose, and it too, typically needs to be evolved over time.
+All domains in an organization are nested within the <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">overall domain of the organization</a>. This domain can either be deliberately designed and described in the early stages of the organization, or clarified retrospectively. An organization's overall domain needs to be designed in a way that enables the members of the organization to contribute effectively toward fulfilling its purpose, and it too, typically needs to be evolved over time.
 
-Consider reviewing the design of the organization’s overall domain and how it’s described if you discover that key stakeholders have differing understanding about it, or when its current design leads to missed opportunities or significant impediments. Review and adaptation of the organization’s overall domain is the responsibility of the overall delegator of the organization. In a typical organizational hierarchy, the overall delegator is either the owners (or shareholders), sometimes represented by a board of directors, the president/CEO or the executive team. In a bottom-archy (e.g. a cooperative, or a community), the overall delegator might be everyone.
+Consider reviewing the design of the organization's overall domain and how it's described if you discover that key stakeholders have differing understanding about it, or when its current design leads to missed opportunities or significant impediments. Review and adaptation of the organization's overall domain is the responsibility of the overall delegator of the organization. In a typical organizational hierarchy, the overall delegator is either the owners (or shareholders), sometimes represented by a board of directors, the president/CEO or the executive team. In a bottom-archy (e.g. a cooperative, or a community), the overall delegator might be everyone.
 
-One way of clarifying an organization’s overall domain is by filling out an [S3 Organization Canvas](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
+One way of clarifying an organization's overall domain is by filling out an [S3 Organization Canvas](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
 
-An organization’s overall domain should be designed with the customers, partners, other stakeholders, and business model in mind. It also needs to factor in environmental conditions (e.g. legal, or economic constraints, market trends, competition).
+An organization's overall domain should be designed with the customers, partners, other stakeholders, and business model in mind. It also needs to factor in environmental conditions (e.g. legal, or economic constraints, market trends, competition).
 
 Once clarified, regularly evaluate the overall domain of the organization to identify opportunities for improvement and adapt its design when helpful or necessary.
 
 
 ##### Useful aspects to clarify in a domain description
 
-All of the following elements are important to consider when clarifying a domain. Depending on where you are in the lifecycle of the domain, you might be able to describe each of them more or less clearly. Remember to regularly evaluate each domain’s design, to test assumptions, clarify misconceptions and improve things, as you learn over time. 
+All of the following elements are important to consider when clarifying a domain. Depending on where you are in the lifecycle of the domain, you might be able to describe each of them more or less clearly. Remember to regularly evaluate each domain's design, to test assumptions, clarify misconceptions and improve things, as you learn over time. 
 
 ![Template for a domain description](img/templates/domain-description-template.png)
 
 
 ###### Purpose
 
-_What’s the primary driver and the associated requirement this team (or role keeper) is responsible for taking care of in the organization?_
+_What's the primary driver and the associated requirement this team (or role keeper) is responsible for taking care of in the organization?_
 
-Describing the specific purpose the team (or role keeper) is responsible for fulfilling within the organization, clarifies why this domain exists, so that delegatees understand what’s expected of them and why their work is relevant for the organization.
+Describing the specific purpose the team (or role keeper) is responsible for fulfilling within the organization, clarifies why this domain exists, so that delegatees understand what's expected of them and why their work is relevant for the organization.
 
 You can describe the primary driver using the pattern _Describe Organizational Drivers_ and look to the pattern _Respond to Organizational Drivers_ for suggestions on how to describe the requirement.
 
 
 **Describe:**
 
--   **Primary Driver**: Describe the _current situation_, its _(anticipated or current) effect_, and if it’s not already obvious, the  _relevance_ of this effect for the organization (to clarify why it’s worthwhile or necessary to respond to the situation).
+-   **Primary Driver**: Describe the _current situation_, its _(anticipated or current) effect_, and if it's not already obvious, the  _relevance_ of this effect for the organization (to clarify why it's worthwhile or necessary to respond to the situation).
 -   **Main Requirement**: Describe what is _required_ to respond to this situation, as well as what is the _anticipated impact_ of fulfilling the requirement?
 
-**Recommended format:** Primary Driver: _[current situation]_ and _[(anticipated) effect]_, if useful, also describe _[relevance]_. Main Requirement: _[requirement]_ and _[anticipated impact]_.
+**Recommended format:** Primary Driver: (current situation) and (anticipated or current) effect, if useful, also describe (relevance). Main Requirement: (requirement) and (anticipated impact).
 
 
 **Examples:**
 
 1. Purpose of a Team Support domain:
 
-    **Primary Driver:** _[current situation]_ To resolve local issues, teams develop their work processes and meeting schedules in the way they see fit. _[effect]_ This often leads to incoherence in how work and decision-making is handled between teams and _[relevance]_ it impedes effective collaboration on handling dependencies between and across domains. 
+    **Primary Driver:** (current situation) To resolve local issues, teams develop their work processes and meeting schedules in the way they see fit. (effect) This often leads to incoherence in how work and decision-making is handled between teams and (relevance) it impedes effective collaboration on handling dependencies between and across domains. 
 
-    **Main Requirement:** _[requirement]_ We need to support teams to develop and maintain a coherent approach to how they collaborate on dependencies _[anticipated impact]_ so that they are able to deal with them effectively while ensuring they are still able to resolve local issues as autonomously as possible.
+    **Main Requirement:** (requirement) We need to support teams to develop and maintain a coherent approach to how they collaborate on dependencies (anticipated impact) so that they are able to deal with them effectively while ensuring they are still able to resolve local issues as autonomously as possible.
 
 2. Purpose of a Marketing domain:
 
-    **Primary Driver:** _[current situation]_ Despite its limited feature set, our product is already highly valuable to a lot of small businesses, yet we operate in a competitive market where others provide a similar product with a far wider feature set than ours, _[effect]_ and despite our competitive pricing, they currently tend to opt for these other products due to their reputation, and a lack of familiarity with ours.
+    **Primary Driver:** (current situation) Despite its limited feature set, our product is already highly valuable to a lot of small businesses, yet we operate in a competitive market where others provide a similar product with a far wider feature set than ours, (effect) and despite our competitive pricing, they currently tend to opt for these other products due to their reputation, and a lack of familiarity with ours.
 
-    **Main Requirement:** _[requirement]_ We need to increase awareness and understanding of our product and its benefits among those businesses that would appreciate it and find our existing feature set adequate for their needs, _[anticipated impact]_ so that we boost sales and avoid the overhead that comes from attracting customers that are dissatisfied with the features we provide.
+    **Main Requirement:** (requirement) We need to increase awareness and understanding of our product and its benefits among those businesses that would appreciate it and find our existing feature set adequate for their needs, (anticipated impact) so that we boost sales and avoid the overhead that comes from attracting customers that are dissatisfied with the features we provide.
 
 **Tips:**
 
--    Aim for two to three sentences as a maximum, so that the information is easy to remember and process.
--    Besides the summary, more details about the driver and the associated requirement may be kept in a _logbook_.
--    Ensure the description of the purpose clarifies why the work of delegatees is relevant for the organization. 
--    Whilst the purpose can sometimes be clarified only by describing the main requirement the domain desponds to, it’s helpful to describe the primary driver behind the requirement as well, as it helps to clarify context and supports monitoring and evaluating outcomes, 
--    Sometimes the Primary Driver is generic and obvious, for example, in the case of an HR or Marketing domain.
+-   Aim for two to three sentences as a maximum, so that the information is easy to remember and process.
+-   Besides the summary, more details about the driver and the associated requirement may be kept in a _logbook_.
+-   Ensure the description of the purpose clarifies why the work of delegatees is relevant for the organization. 
+-   Whilst the purpose can sometimes be clarified only by describing the main requirement the domain desponds to, it's helpful to describe the primary driver behind the requirement as well, as it helps to clarify context and supports monitoring and evaluating outcomes, 
+-   Sometimes the Primary Driver is generic and obvious, for example, in the case of an HR or Marketing domain.
 
 
 ###### Key Responsibilities
 
 _What is the essential work and decision-making being delegated to the team (or role keeper)?_
 
-Key responsibilities are a summary of those areas of _work and decision-making_ that the delegator and delegatees considers **essential** to take care of in relation to fulfilling the domain's purpose effectively. They provide a high level overview of what’s expected from the delegatees.
+Key responsibilities are a summary of those areas of _work and decision-making_ that the delegator and delegatees considers **essential** to take care of in relation to fulfilling the domain's purpose effectively. They provide a high level overview of what's expected from the delegatees.
 
 
 **List**all _essential responsibilities_ that are being delegated by clarifying the **requirement** in each case, and the **anticipated impact** that responding to each requirement will bring.
 
-**Recommended format:** _[requirement]_ and _[anticipated impact]_. If useful, describe the Driver as well: _[current situation]_, _[(anticipated) effect]_, and _[relevance]_.
+**Recommended format:** (requirement) and (anticipated impact). If useful, describe the Driver as well: (current situation), (anticipated or current) effect, and (relevance).
 
 
 **Examples:**
 
 
-1. For a customer service team
+1.  For a customer service team
 
-    **Requirement**: _[requirement]_ Ensure that customer inquiries are responded to in a timely manner _[anticipated impact]_ so that we stay within the time-frame stipulated in our service level agreement.
+    **Requirement**: (requirement) Ensure that customer inquiries are responded to in a timely manner (anticipated impact) so that we stay within the time-frame stipulated in our service level agreement.
 
-    **Driver:** _[current situation]_ The organization has observed an increasing volume of customer inquiries, with varied complexities, _[effect]_ leading to delays in response times and customer dissatisfaction.
+    **Driver:** (current situation) The organization has observed an increasing volume of customer inquiries, with varied complexities, (effect) leading to delays in response times and customer dissatisfaction.
 
-2. For an agile coaching domain:
+2.  For an agile coaching domain:
 
-    **Requirement**: _[requirement]_ Support cross-team collaboration on dependencies, _[anticipated impact]_ so that common objectives of product teams are effectively achieved.
+    **Requirement**: (requirement) Support cross-team collaboration on dependencies, (anticipated impact) so that common objectives of product teams are effectively achieved.
 
 
-    **Driver:** _[current situation]_ Our product development process involves multiple interdependent teams, _[effect]_ where lack of coordination can lead to bottlenecks and project delays, _[relevance]_ emphasizing the need for effective cross-team collaboration to ensure efficient progress and successful delivery of product objectives.
+    **Driver:** (current situation) Our product development process involves multiple interdependent teams, (effect) where lack of coordination can lead to bottlenecks and project delays, (relevance) emphasizing the need for effective cross-team collaboration to ensure efficient progress and successful delivery of product objectives.
 
-3. For an organizational development training provider team:
+3.  For an organizational development training provider team:
 
-    **Requirement**: _[requirement]_ Develop and deliver bespoke learning interventions _[anticipated impact]_ to fulfill customer learning needs.
+    **Requirement**: (requirement) Develop and deliver bespoke learning interventions (anticipated impact) to fulfill customer learning needs.
  
 
-    **Driver:** _[current situation]_ Our customers operate in a dynamic business environment where employee skills and knowledge requirements are constantly evolving, _[effect]_ which leads to critical gaps in workforce capabilities and adaptability, _[relevance]_ underscoring the necessity for tailored learning interventions that ensure that employees are equipped to meet current and future challenges effectively.
+    **Driver:** (current situation) Our customers operate in a dynamic business environment where employee skills and knowledge requirements are constantly evolving, (effect) which leads to critical gaps in workforce capabilities and adaptability, (relevance) underscoring the necessity for tailored learning interventions that ensure that employees are equipped to meet current and future challenges effectively.
 
-4. For a marketing team:
+4.  For a marketing team:
 
-    **Requirement**: _[requirement]_ Execute and refine digital marketing campaigns, _[anticipated impact]_ to improve engagement metrics and customer acquisition costs.
+    **Requirement**: (requirement) Execute and refine digital marketing campaigns, (anticipated impact) to improve engagement metrics and customer acquisition costs.
 
 
-    **Driver:** _[current situation]_ With digital ad spend increasing without proportional gains in engagement, _[effect]_ current strategies are leading to diminishing returns.
+    **Driver:** (current situation) With digital ad spend increasing without proportional gains in engagement, (effect) current strategies are leading to diminishing returns.
 
 
 **Tips:**
 
--    Key Responsibilities inform, and are informed by, various other aspects of a domain’s design.  Therefore, while describing those other aspects, you will often find things that need to be added or revised, in this section documenting Key Responsibilities.
--    If the organizational driver behind a key responsibility is unclear, describe this as well to add context. Doing so helps to ensure that the reason for fulfilling each of these requirements is clear.
--    Don’t describe the tasks that the delegatees are taking care of, but rather the requirements that those tasks are meant to fulfill. 
--    Describe the anticipated impact of fulfilling each requirement in a way that allows you to define specific metrics to assess whether or not that impact has been achieved. For example, say, "_… so that customers return and recommend our products to others_" rather than "_… so that our customers are happy_".
--    If you mention or imply specific deliverables in the description of certain Key Responsibilities, describe those deliverables explicitly in the section about Customers and Deliverables, as well. 
+-   Key Responsibilities inform, and are informed by, various other aspects of a domain's design. Therefore, while describing those other aspects, you will often find things that need to be added or revised, in this section documenting Key Responsibilities.
+-   If the organizational driver behind a key responsibility is unclear, describe this as well to add context. Doing so helps to ensure that the reason for fulfilling each of these requirements is clear.
+-   Don't describe the tasks that the delegatees are taking care of, but rather the requirements that those tasks are meant to fulfill. 
+-   Describe the anticipated impact of fulfilling each requirement in a way that allows you to define specific metrics to assess whether or not that impact has been achieved. For example, say, "_… so that customers return and recommend our products to others_" rather than "_… so that our customers are happy_".
+-   If you mention or imply specific deliverables in the description of certain Key Responsibilities, describe those deliverables explicitly in the section about Customers and Deliverables, as well. 
 
 
 ###### Customers and Deliverables
 
-_Whom does this team (or role keeper) deliver value to, what specifically do they provide and why?_
+_Whom does this team (or role keeper) deliver value to, what specifically do they provide, and why?_
 
 The purpose of work done by the delegatees is to provide value to their **customers**. Customers can include those who are paying money for the deliverables provided, or others from inside of the organization who are dependent on these deliverables to do their work. 
 
-**Deliverables** are the _products, services, components and materials_ that delegatees deliver to fulfill their customers’ requirements.
+**Deliverables** are the _products, services, components and materials_ that delegatees deliver to fulfill their customers' requirements.
 
 **List** the **direct recipients** of the value delivered by the team (or role keeper). In each case, describe the **deliverables** they receive with enough detail to clearly communicate what is being provided, and clarify the **requirement** that each deliverable is intended to fulfill.
 
-**Recommended format:** Customer and Deliverable(s). And, unless it’s already clear, information about the Requirement: _[requirement]_ and _[anticipated impact]_.
+**Recommended format:** Customer and Deliverable(s). And, unless it's already clear, information about the Requirement: (requirement) and (anticipated impact).
 
 **Examples:**
 
 
 1. For a marketing department:
     -   **Customer:** Current and Potential Customers
-    -   **Deliverable**: Regularly updated content such as blog posts, newsletters, and social media updates _[requirement]_ to keep the customer base informed about the latest company news, product developments, and industry insights, _[anticipated impact]_ to strengthen brand loyalty and attract potential customers.
+    -   **Deliverable**: Regularly updated content such as blog posts, newsletters, and social media updates (requirement) to keep the customer base informed about the latest company news, product developments, and industry insights, (anticipated impact) to strengthen brand loyalty and attract potential customers.
 2. For the delegator of a marketing department:
     -   **Customer:** Executive Leadership
-    -   **Deliverable:** Marketing performance analytics reports _[requirement]_ that measure campaign effectiveness, customer engagement, and ROI to inform strategic decisions and budget allocations, _[anticipated impact]_ to inform leadership about marketing performance and guide budgeting and strategy development.
+    -   **Deliverable:** Marketing performance analytics reports (requirement) that measure campaign effectiveness, customer engagement, and ROI to inform strategic decisions and budget allocations, (anticipated impact) to inform leadership about marketing performance and guide budgeting and strategy development.
 3. For a team that delivers consulting to clients:
     -   **Customer:** Sales & marketing department
-    -   **Deliverable:** Success stories about our work with clients _[requirement]_ that can be used as reference for future sales _[anticipated impact]_ to enhance the sales team's ability to demonstrate the value and effectiveness of the consulting services, ultimately aiding in closing more sales deals.
+    -   **Deliverable:** Success stories about our work with clients (requirement) that can be used as reference for future sales (anticipated impact) to enhance the sales team's ability to demonstrate the value and effectiveness of the consulting services, ultimately aiding in closing more sales deals.
 4. For a team that designs and develops websites for business clients:
     -   **Customer:** Clients
-    -   **Deliverable:** Design and develop user-friendly and aesthetically pleasing websites company websites _[requirement]_ that ensure a positive user experience and that the client’s customers engage with _[anticipated impact]_ to support their business objectives for increased traffic, customer retention, and sales.
+    -   **Deliverable:** Design and develop user-friendly and aesthetically pleasing websites company websites (requirement) that ensure a positive user experience and that the client's customers engage with (anticipated impact) to support their business objectives for increased traffic, customer retention, and sales.
 5. For a User Experience team: 
     -   **Customer:** development team
-    -   **Deliverable:** interaction design for new features - with detailed description for all edge cases and potential errors, complete with all graphical assets required for implementation without the need for further communication, _[requirement]_ to facilitate the development team in efficiently building and implementing features that offer an optimal user experience, _[anticipated impact]_ reducing the need for extensive revisions and ensuring a smoother product development process.
+    -   **Deliverable:** interaction design for new features - with detailed description for all edge cases and potential errors, complete with all graphical assets required for implementation without the need for further communication, (requirement) to facilitate the development team in efficiently building and implementing features that offer an optimal user experience, (anticipated impact) reducing the need for extensive revisions and ensuring a smoother product development process.
 
 **Tips:**
 
--    Sometimes the specific deliverables for fulfilling a customer requirement are currently undefined. In this case, describe the customer requirement instead. 
--    Remember: deliverables are products, services, etc, NOT outcomes. 
--    When identifying Customers and Key Deliverables, consider the Purpose, Key Responsibilities, and Key Challenges of the domain. 
--    List all relevant internal and external customers who depend on, or benefit from the value provided by this team (or role keeper). 
--    Include both customers and users (if there is a difference).
--    When describing deliverables, use a sentence or two to describe each one. Link to a _more detailed description_ if necessary.
--    As a delegator: In the case of a new domain, consider carefully to what degree you will specify deliverables rather than leaving this decision up to the delegatees. Freeing them up to create value according to their expertise, strengths, and interests, and based on what they learn as their work proceeds can significantly improve their effectiveness.
+-   Sometimes the specific deliverables for fulfilling a customer requirement are currently undefined. In this case, describe the customer requirement instead. 
+-   Remember: deliverables are products, services, etc, NOT outcomes. 
+-   When identifying Customers and Key Deliverables, consider the Purpose, Key Responsibilities, and Key Challenges of the domain. 
+-   List all relevant internal and external customers who depend on, or benefit from the value provided by this team (or role keeper). 
+-   Include both customers and users (if there is a difference).
+-   When describing deliverables, use a sentence or two to describe each one. Link to a _more detailed description_ if necessary.
+-   As a delegator: In the case of a new domain, consider carefully to what degree you will specify deliverables rather than leaving this decision up to the delegatees. Freeing them up to create value according to their expertise, strengths, and interests, and based on what they learn as their work proceeds can significantly improve their effectiveness.
 
 
 ###### Dependencies
@@ -1990,125 +2191,125 @@ Dependencies refer to who and what the delegatees rely on, besides themselves an
 
 **Describe** those **deliverables** that are essential to the work of the delegatees. Explicitly name **who provides them** in each case (either from within the organization or from the outside world), and clarify the requirement that each deliverable is intended to fulfill.
 
-**Recommended format:** Provider and Deliverable(s). And, unless it’s already clear, add information about the Requirement: _[requirement]_ and _[anticipated impact]_.
+**Recommended format:** Provider and Deliverable(s). And, unless it's already clear, add information about the Requirement: (requirement) and (anticipated impact).
 
 **Examples**: 
 
 
-1. For a sales team:
+1.  For a sales team:
 
     **Provider:** Legal team
     
-    **Deliverable:** adaptation of standard contracts for specific customers _[requirement]_ to ensure the customer’s contract is in line with the unique agreements and terms negotiated, _[anticipated impact]_ aiding smooth business transactions and reducing the risk of contract disputes.
+    **Deliverable:** adaptation of standard contracts for specific customers (requirement) to ensure the customer's contract is in line with the unique agreements and terms negotiated, (anticipated impact) aiding smooth business transactions and reducing the risk of contract disputes.
 
-1. For a support team:
+1.  For a support team:
 
     **Provider:** development team
 
-    **Deliverable:** help from developers _[requirement]_ for technical assistance and resolution of complex issues, _[anticipated impact]_ to enable the support team to address customer queries more effectively and improve overall customer satisfaction with prompt issue resolution.
+    **Deliverable:** help from developers (requirement) for technical assistance and resolution of complex issues, (anticipated impact) to enable the support team to address customer queries more effectively and improve overall customer satisfaction with prompt issue resolution.
 
-3. For a development team:
+3.  For a development team:
     
     **Provider:** external consultancy
-    **Deliverable:** designs for new features on demand, including the graphical assets _[requirement]_ to support the development of innovative and user-centric design solutions, _[anticipated impact]_ that enhance the functionality and user experience of the development team's products, leading to more successful and marketable software solutions for our customers.
+    **Deliverable:** designs for new features on demand, including the graphical assets (requirement) to support the development of innovative and user-centric design solutions, (anticipated impact) that enhance the functionality and user experience of the development team's products, leading to more successful and marketable software solutions for our customers.
 
-4. For a training department:
+4.  For a training department:
 
     **Provider**: IT department
     
-    **Deliverable:** IT support for making certain online learning tools available _[requirement]_ that ensure seamless integration and functionality of online learning platforms, _[anticipated impact]_ to facilitate effective digital learning experiences, thereby improving the skills and competencies of employees across the organization.
+    **Deliverable:** IT support for making certain online learning tools available (requirement) that ensure seamless integration and functionality of online learning platforms, (anticipated impact) to facilitate effective digital learning experiences, thereby improving the skills and competencies of employees across the organization.
 
 5. For a research and development team:
     
     **Provider**: local university laboratory
-    **Deliverable:** testing facility with advanced testing and research facilities, _[requirement]_ to enable thorough experimentation and innovation, crucial for _[anticipated impact]_ developing cutting-edge products and technologies in line with industry standards and market expectations.
+    **Deliverable:** testing facility with advanced testing and research facilities, (requirement) to enable thorough experimentation and innovation, crucial for (anticipated impact) developing cutting-edge products and technologies in line with industry standards and market expectations.
 
 **Tips:**
 
--    Include information that communicates what requirement a deliverable is intended to fulfill.
--    Describe any relevant expectations relating to delivery.
--    When delegatees rely on a deliverable from another domain, ensure that they are explicitly listed as a customer of that other domain and include details about the deliverable in that other domain’s description.
--    When describing deliverables, use a sentence or two to describe each one. Link to a _more detailed description_ if necessary.
--    For deliverables provided by external partners, ensure these are clearly described in a contractual agreement.
+-   Include information that communicates what requirement a deliverable is intended to fulfill.
+-   Describe any relevant expectations relating to delivery.
+-   When delegatees rely on a deliverable from another domain, ensure that they are explicitly listed as a customer of that other domain and include details about the deliverable in that other domain's description.
+-   When describing deliverables, use a sentence or two to describe each one. Link to a _more detailed description_ if necessary.
+-   For deliverables provided by external partners, ensure these are clearly described in a contractual agreement.
 
 
 ###### External Constraints
 
-_What are important external constraints to the delegatees’ autonomy and influence?_
+_What are important external constraints to the delegatees' autonomy and influence?_
 
-External constraints are anything that limits the delegatees’ freedom to decide and act. They may refer to customer requirements, the outside world, other essential stakeholders in the organization, overarching responsibilities the delegatees may have, or to the preference of the delegator. 
+External constraints are anything that limits the delegatees' freedom to decide and act. They may refer to customer requirements, the outside world, other essential stakeholders in the organization, overarching responsibilities the delegatees may have, or to the preference of the delegator. 
 
-Some constraints only affect a single domain, others — referred to as **standard constraints** ——affect several domains (e.g. an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, organization-wide rules, etc). 
+Some constraints only affect a single domain, others – referred to as **standard constraints** – affect several domains (e.g. an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, organization-wide rules, etc). 
 
 Some external constraints are fixed while others may be negotiable with stakeholders. They can include:
 
--    deadlines
--    specific decisions requiring authorization (from the delegator, a representative of another domain, etc.)
--    specific legal or regulatory constraints
--    time, or budget constraints
--    audits
--    expected reporting
--    organizational strategy or values
--    limitations when essential resources are shared.
+-   deadlines
+-   specific decisions requiring authorization (from the delegator, a representative of another domain, etc.)
+-   specific legal or regulatory constraints
+-   time, or budget constraints
+-   audits
+-   expected reporting
+-   organizational strategy or values
+-   limitations when essential resources are shared.
 
-**Describe** important constraints to the delegatees’ autonomy and influence and if necessary, offer some context to clarify why each constraint exists.
+**Describe** important constraints to the delegatees' autonomy and influence and if necessary, offer some context to clarify why each constraint exists.
 
-**Recommended format:** Constraint: _[requirement]_ and _[anticipated impact]_. If useful, describe the Driver to add context: _[current situation]_
+**Recommended format:** Constraint: (requirement) and (anticipated impact). If useful, describe the Driver to add context: (current situation)
 
 
 **Examples:**
 
-1. **Constraint**: _[requirement]_ Ensure that we have clearance from the provider for training external consultants, _[anticipated impact]_ so that we get the reduced rate for training. **Driver:** _[current situation]_ We have an agreement with the external services provider that external consultants only receive 50% of their hourly fee for attending training provided by our company.
-2. **Constraint:** _[requirement]_ Prioritize work on projects with deadlines over time spent on training and development _[anticipated impact]_ so that we can keep to delivery dates agreed upon with customers. (Driver is obvious in this case)
-3. **Constraint:** _[requirement]_ Monthly expenditure over $15k needs to be approved with the PM _[anticipated impact]_ to ensure total expenditure for the project remains within the overall budget. (Driver is obvious in this case)
-4. **Constraint:** _[requirement]_ Consult with the Architecture Circle on decisions related to software architecture, _[anticipated impact]_ to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
-5. **Constraint:** _[requirement]_ Schedule all hands meetings between 15:00 - 18:00 CEST, _[anticipated impact]_ so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
-6. **Constraint**: _[requirement]_ For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, _[anticipated impact]_ so that they can bring in their project management experience. **Driver:** _[current situation]_ the team does not currently feel confident managing large projects, alone.
-7. **Constraint**: _[requirement]_ Deliver the finished product to the integration team by 01 Feb _[anticipated impact]_ so that they have time to complete integration before then non-negotiable project deadline on 10 March. (Driver is obvious in this case)
+1. **Constraint**: (requirement) Ensure that we have clearance from the provider for training external consultants, (anticipated impact) so that we get the reduced rate for training. **Driver:** (current situation) We have an agreement with the external services provider that external consultants only receive 50% of their hourly fee for attending training provided by our company.
+2. **Constraint:** (requirement) Prioritize work on projects with deadlines over time spent on training and development (anticipated impact) so that we can keep to delivery dates agreed upon with customers. (Driver is obvious in this case)
+3. **Constraint:** (requirement) Monthly expenditure over $15k needs to be approved with the PM (anticipated impact) to ensure total expenditure for the project remains within the overall budget. (Driver is obvious in this case)
+4. **Constraint:** (requirement) Consult with the Architecture Circle on decisions related to software architecture, (anticipated impact) to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
+5. **Constraint:** (requirement) Schedule all hands meetings between 15:00 - 18:00 CEST, (anticipated impact) so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
+6. **Constraint**: (requirement) For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, (anticipated impact) so that they can bring in their project management experience. **Driver:** (current situation) the team does not currently feel confident managing large projects, alone.
+7. **Constraint**: (requirement) Deliver the finished product to the integration team by 01 Feb (anticipated impact) so that they have time to complete integration before then non-negotiable project deadline on 10 March. (Driver is obvious in this case)
 
 **Tips:**
 
--    For each constraint, clarify what is required and what the anticipated impact of fulfilling the requirement is expected to be. Add further information to clarify the context where useful.
--    Describe in detail those constraints that are specific to this domain. Link to information about **standard constraints** that are also relevant to other domains as well, or to the whole organization.
--    If the reason why the constraint exists is unclear, provide some context by describing (or referencing) the organizational driver (current situation) behind the constraint.
--    Certain external constraints may lead to key challenges for the delegatees.
--    Constraints within the company should enable organizational effectiveness overall. If an internal constraint impedes effectiveness, it’s worth reviewing if and how it can be changed. External constraints may or may not directly support organizational effectiveness but they need to be adhered to regardless (because the organization is powerless to change it).
+-   For each constraint, clarify what is required and what the anticipated impact of fulfilling the requirement is expected to be. Add further information to clarify the context where useful.
+-   Describe in detail those constraints that are specific to this domain. Link to information about **standard constraints** that are also relevant to other domains as well, or to the whole organization.
+-   If the reason why the constraint exists is unclear, provide some context by describing (or referencing) the organizational driver (current situation) behind the constraint.
+-   Certain external constraints may lead to key challenges for the delegatees.
+-   Constraints within the company should enable organizational effectiveness overall. If an internal constraint impedes effectiveness, it's worth reviewing if and how it can be changed. External constraints may or may not directly support organizational effectiveness but they need to be adhered to regardless (because the organization is powerless to change it).
 
 
 ###### Key Challenges
 
 _What are the most important known (or anticipated) challenges the delegatees might face?_
 
-Key challenges relate to situations that might significantly impede the delegatees’ ability to successfully account for the domain and where what’s required to deal with those situations is variable or not obvious. Explicitly describing key challenges enables delegatees to monitor and decide how to prepare for and respond to them, should they occur. 
+Key challenges relate to situations that might significantly impede the delegatees' ability to successfully account for the domain and where what's required to deal with those situations is variable or not obvious. Explicitly describing key challenges enables delegatees to monitor and decide how to prepare for and respond to them, should they occur. 
 
 Key challenges include:
 
--    risks and vulnerabilities
--    variables (e.g. weather)
--    uncertainty and complexity
--    lack of skills or resources
+-   risks and vulnerabilities
+-   variables (e.g. weather)
+-   uncertainty and complexity
+-   lack of skills or resources
 
 **Describe** the _Driver_, the situation that is (or might be) challenging and the (anticipated) effect this would have on the organization. Include information about  how this might impede the ability of the delegatees to successfully account for this domain.
 
-**Recommended format:** Driver: _[current situation]_ and _[(anticipated) effect]_
+**Recommended format:** Driver: (current situation) and (anticipated or current) effect
 
 **Examples:**
 
-1. _[current situation]_ Changing legal requirements that need to be included in our software are often only announced a few weeks before taking effect _[anticipated effect]_ which can make it difficult to respond to the changes in time.
-2. _[current situation]_ Due to differing priorities, partners are sometimes unavailable when we need their services, _[effect]_ making it difficult to meet project deadlines.
-3. _[current situation]_ Our codebase is old, incoherent and poorly maintained, and we lack the funds to clean up the code. _[effect]_ Therefore it’s hard to estimate how long adding a new feature will take, and changes can lead to bugs and security issues.
-4. _[current situation]_ Customer purchases are highly weather dependent _[effect]_ which makes it difficult to optimize perishable stock and staffing. 
-5. _[current situation]_ We’re threatened by an economic crisis, _[anticipated effect]_ which could significantly impact our ability to meet our sales target. 
-6. _[current situation]_ Some team members have their main responsibilities in other domains, _[anticipated effect]_ which can sometimes make it difficult for them to free up enough time for work in this domain 
-7. _[current situation]_ Due to cultural differences, there is a diversity of norms and expectations across the different teams _[effect]_ which has in the past led to miscommunication, conflict and ineffectiveness.
+1. (current situation) Changing legal requirements that need to be included in our software are often only announced a few weeks before taking effect (anticipated effect) which can make it difficult to respond to the changes in time.
+2. (current situation) Due to differing priorities, partners are sometimes unavailable when we need their services, (effect) making it difficult to meet project deadlines.
+3. (current situation) Our codebase is old, incoherent and poorly maintained, and we lack the funds to clean up the code. (effect) Therefore it's hard to estimate how long adding a new feature will take, and changes can lead to bugs and security issues.
+4. (current situation) Customer purchases are highly weather dependent (effect) which makes it difficult to optimize perishable stock and staffing. 
+5. (current situation) We're threatened by an economic crisis, (anticipated effect) which could significantly impact our ability to meet our sales target. 
+6. (current situation) Some team members have their main responsibilities in other domains, (anticipated effect) which can sometimes make it difficult for them to free up enough time for work in this domain 
+7. (current situation) Due to cultural differences, there is a diversity of norms and expectations across the different teams (effect) which has in the past led to miscommunication, conflict and ineffectiveness.
 
 **Tips:**
 
--    There are always some challenges that you need to address. Try to list at least three!
--    Keep your descriptions objective.
--    When identifying key challenges, consider customers, the outside world, the organization itself, the delegator and the specific delegatees.
--    Managing a key challenge might become a key responsibility as well, e.g. "_ongoingly manage risk X_".
--    When deciding how to prepare or respond to key challenges, include the delegator if helpful.
+-   There are always some challenges that you need to address. Try to list at least three!
+-   Keep your descriptions objective.
+-   When identifying key challenges, consider customers, the outside world, the organization itself, the delegator and the specific delegatees.
+-   Managing a key challenge might become a key responsibility as well, e.g. "_ongoingly manage risk X_".
+-   When deciding how to prepare or respond to key challenges, include the delegator if helpful.
 
 
 ###### Key Resources
@@ -2121,12 +2322,12 @@ Clarity regarding which resources are currently available helps with monitoring 
 
 Key resources can include: 
 
--    time allocation
--    supply of money
--    privileges and permissions
--    facilities, hardware, software, tools
--    internal or external service providers
--    components, materials, etc.
+-   time allocation
+-   supply of money
+-   privileges and permissions
+-   facilities, hardware, software, tools
+-   internal or external service providers
+-   components, materials, etc.
 
 **Describe** the resources that are available for the delegatees to use.
 
@@ -2134,7 +2335,7 @@ Key resources can include:
 
 1. Time allocation for delegatee: 32 hrs per week
 2. Budget for hardware, software licenses and external engineering service providers is provided on request
-3. Budget for yearly training: 2000€ / person. Extension possible on request.
+3. Budget for yearly training: 2000€ per person. Extension possible on request.
 4. Company credit card to hire cars and mini buses for transporting casters to the casting locations. 
 5. A budget of €5000 per month for advertising
 6. Administration privileges for systems X,Y and Z
@@ -2147,8 +2348,8 @@ Key resources can include:
 **Tips:**
 
 
--    Only describe resources that are specifically allocated for use in this domain. For example, if everyone in the organization is provided with a computer, it’s unnecessary to list it here. However, if delegatees are provided with a laptop while everyone else gets a desktop computer, include the laptops in the list.
--    Be specific about quantity or amount.
+-   Only describe resources that are specifically allocated for use in this domain. For example, if everyone in the organization is provided with a computer, it's unnecessary to list it here. However, if delegatees are provided with a laptop while everyone else gets a desktop computer, include the laptops in the list.
+-   Be specific about quantity or amount.
 
 
 ###### Delegator Responsibilities
@@ -2159,43 +2360,43 @@ When delegating responsibility for a domain to others, the delegator retains ove
 
 **List** any existing responsibilities related to this domain that the delegator had prior to delegation that they will keep, as well as information about new responsibilities that they take on to support the delegatees.
 
-**Recommended Format:** Requirement: _[requirement]_ and _[anticipated impact]_. If useful, describe the Driver as well: _[current situation]_, _[(anticipated) effect]_, and _[relevance]_.
+**Recommended Format:** Requirement: (requirement) and (anticipated impact). If useful, describe the Driver as well: (current situation), (anticipated or current) effect, and (relevance).
 
 **Examples:**
 
 
-1. **Requirement:** _[requirement]_ Provide training for new team members when necessary, _[anticipated impact]_ to ensure that they are familiar with the processes & tools the team works with.
+1.  **Requirement:** (requirement) Provide training for new team members when necessary, (anticipated impact) to ensure that they are familiar with the processes & tools the team works with.
 
-    **Driver:** _[current situation]_ The organization regularly integrates new members into existing teams, [effect] and lack of proper training can lead to inefficiencies and errors, [relevance] and an overall decrease in team productivity and quality of work.
+    **Driver:** (current situation) The organization regularly integrates new members into existing teams, (effect) and lack of proper training can lead to inefficiencies and errors, (relevance) and an overall decrease in team productivity and quality of work.
 
-2. **Requirement:** _[requirement]_ Ensure that questions delegatees have throughout the project are answered within 24 hours _[anticipated impact]_ to avoid bottlenecks while waiting for a reply.
-3. **Requirement:** _[requirement]_ Inform delegatees of any relevant news or changes and work with them to update the domain’s design when necessary or helpful.
-4. **Requirement:** _[requirement]_ Participate in scheduled Peer Review sessions with delegatees, _[anticipated impact]_ to support them with ongoing development and maintaining high standards.
-5. **Requirement:** _[requirement]_ In case of API changes, prioritize process software development resources to do required modifications, _[anticipated impact]_ to allow automation interfaces to adapt swiftly to changing requirements.
+2.  **Requirement:** (requirement) Ensure that questions delegatees have throughout the project are answered within 24 hours (anticipated impact) to avoid bottlenecks while waiting for a reply.
+3.  **Requirement:** (requirement) Inform delegatees of any relevant news or changes and work with them to update the domain's design when necessary or helpful.
+4.  **Requirement:** (requirement) Participate in scheduled Peer Review sessions with delegatees, (anticipated impact) to support them with ongoing development and maintaining high standards.
+5.  **Requirement:** (requirement) In case of API changes, prioritize process software development resources to do required modifications, (anticipated impact) to allow automation interfaces to adapt swiftly to changing requirements.
 
-    **Driver:** _[current situation]_ The technological landscape is rapidly evolving, _[effect]_ and failure to promptly adapt to changes like API updates can lead to system incompatibilities or downtimes.
+    **Driver:** (current situation) The technological landscape is rapidly evolving, (effect) and failure to promptly adapt to changes like API updates can lead to system incompatibilities or downtimes.
 
-6. **Requirement:** _[requirement]_ Proactively advocate for the work of delegatees with C-level and address concerns that they have _[anticipated impact]_ to build credibility and support early on in the project.
+6.  **Requirement:** (requirement) Proactively advocate for the work of delegatees with C-level and address concerns that they have (anticipated impact) to build credibility and support early on in the project.
 
-    **Driver:** _[current situation]_ Delegatees often face challenges in having their perspectives and needs understood and prioritized by top-level management, _[effect]_ which can result in misalignment of goals and lack of support for critical projects.
+    **Driver:** (current situation) Delegatees often face challenges in having their perspectives and needs understood and prioritized by top-level management, (effect) which can result in misalignment of goals and lack of support for critical projects.
 
 
 **Tips:**
 
--    Describe all responsibilities that the delegator keeps or takes on to support delegatees to successfully account for this domain. This includes responsibilities that may only require a small effort but that make the team's or role keeper's lives easier.
--    When identifying delegator responsibilities, consider any opportunities for learning, development and support that are helpful for the delegatees.
--    Often, delegator responsibilities can be adequately documented by describing the requirements. If the organizational driver behind a particular delegator key responsibility is unclear, describe this as well to add context. Doing so helps to ensure that the reason for fulfilling each of these requirements is clear.
--    Don’t describe the tasks that the delegator is responsible for taking care of but rather the requirements that those tasks are meant to fulfill. 
--    Describe the anticipated impact of fulfilling each requirement in a way that allows you to define specific metrics to assess whether or not that impact has been achieved, so that the delegator’s work can be reviewed and developed when necessary.
--    As a delegator, keep track of, and fulfill the responsibilities you have agreed to take on or keep.
--    Delegator responsibilities might lead to a new deliverable that the delegator will provide to the delegatees. In this case, remember to list the deliverable in the dependencies section.
+-   Describe all responsibilities that the delegator keeps or takes on to support delegatees to successfully account for this domain. This includes responsibilities that may only require a small effort but that make the team's or role keeper's lives easier.
+-   When identifying delegator responsibilities, consider any opportunities for learning, development and support that are helpful for the delegatees.
+-   Often, delegator responsibilities can be adequately documented by describing the requirements. If the organizational driver behind a particular delegator key responsibility is unclear, describe this as well to add context. Doing so helps to ensure that the reason for fulfilling each of these requirements is clear.
+-   Don't describe the tasks that the delegator is responsible for taking care of but rather the requirements that those tasks are meant to fulfill. 
+-   Describe the anticipated impact of fulfilling each requirement in a way that allows you to define specific metrics to assess whether or not that impact has been achieved, so that the delegator's work can be reviewed and developed when necessary.
+-   As a delegator, keep track of, and fulfill the responsibilities you have agreed to take on or keep.
+-   Delegator responsibilities might lead to a new deliverable that the delegator will provide to the delegatees. In this case, remember to list the deliverable in the dependencies section.
 
 
 ###### Competencies, qualities and skills
 
 _What competencies, qualities and skills are required – or at least preferable – to successfully account for this domain?_
 
-For selecting suitable delegatees, and for identifying important areas for training and development, it’s helpful to determine any attributes that are considered necessary or desirable for the role keeper or team members to have, to successfully account for this domain.
+For selecting suitable delegatees, and for identifying important areas for training and development, it's helpful to determine any attributes that are considered necessary or desirable for the role keeper or team members to have, to successfully account for this domain.
 
 **Record** any information that helps people to understand the competencies, qualities or skills that delegatees need to have or develop, to account successfully for this domain. If not obvious, include an explanation of why a particular competence, quality of skill is relevant (which requirement it fulfills).
 
@@ -2215,9 +2416,9 @@ For selecting suitable delegatees, and for identifying important areas for train
 
 **Tips:**
 
--    Consider the Primary Driver, Key Responsibilities, Key Deliverables and Key Challenges, and what you already know is useful or necessary to deal with these things effectively.
--    It’s not always possible or worthwhile to find people with all of the necessary experience and expertise. When this is the case, ensure delegatees have opportunities to develop those competencies and skills or consider external providers and list them as dependencies instead.
--    Include level of expertise or amount of experience if helpful.
+-   Consider the Primary Driver, Key Responsibilities, Key Deliverables and Key Challenges, and what you already know is useful or necessary to deal with these things effectively.
+-   It's not always possible or worthwhile to find people with all of the necessary experience and expertise. When this is the case, ensure delegatees have opportunities to develop those competencies and skills or consider external providers and list them as dependencies instead.
+-   Include level of expertise or amount of experience if helpful.
 
 
 ###### Key Metrics and Monitoring
@@ -2228,7 +2429,7 @@ Key <a href="glossary.html#entry-metric" class="glossary-tooltip" data-toggle="t
 
 **Define** simple and specific metrics that enable you to monitor progress and effectiveness, as well as to spot potential issues or opportunities as they arise. Specify when or how frequently key metrics will be checked, and by whom, and clarify the purpose that meeting this metric should help to fulfill (describe at least the requirement, and if helpful, the driver, too).
 
-**Recommended format:** Title, Description, Rate, Responsibilities, Threshold, and Purpose (include information about the Driver  (_[current situation]_ and _[(anticipated) effect]_). And, Requirement (_[requirement]_ and _[anticipated impact]_) as necessary.
+**Recommended format:** Title, Description, Rate, Responsibilities, Threshold, and Purpose (include information about the Driver (current situation and anticipated or current effect. And, Requirement ((requirement) and (anticipated impact)) as necessary.
 
 **Examples:**
 
@@ -2237,98 +2438,98 @@ Key <a href="glossary.html#entry-metric" class="glossary-tooltip" data-toggle="t
     -   **Rate:** monthly (first week of the month for last month)
     -   **Responsibilities**: Jake compiles the monthly report in Confluence
     -   **Threshold:** When a recruiter or channel rises above 15, the HR team compiles a detailed report about that partner or channel, and makes a decision how the ratio can be improved, or, if the ratio was below the threshold for at least 3 months,  whether that partner or channel should be kept.
-    -   **Purpose**: _[requirement]_ Identify which recruiters and channels _[anticipated impact]_ provide the best return on time spent by senior staff in interviews.
+    -   **Purpose**: (requirement) Identify which recruiters and channels (anticipated impact) provide the best return on time spent by senior staff in interviews.
 2. **Employee retention by recruiter**
     -   **Description:** For each recruiter, track the total number of employees provided that were employed at the beginning of a month (TE), and the number of employees who left during that month (EL), then calculate retention rate = (TE - TL) / TE * 100
     -   **Rate:** monthly
     -   **Responsibilities**: monitored by HR team
     -   **Threshold**: if the rate for a recruiter is less than the average company retention rate, decide what to do about it in the next Planning Meeting 
-    -   **Purpose**: _[current situation]_ Onboarding new people carries a high cost _[anticipated effect]_ and a misplaced candidate results in wasted time, effort and resources, and the fact that the vacancy will need to be filled again. _[requirement]_ Identify which recruiters provide candidates with the highest retention rate, _[anticipated impact]_ to minimize the risk of new employees leaving.
+    -   **Purpose**: (current situation) Onboarding new people carries a high cost (anticipated effect) and a misplaced candidate results in wasted time, effort and resources, and the fact that the vacancy will need to be filled again. (requirement) Identify which recruiters provide candidates with the highest retention rate, (anticipated impact) to minimize the risk of new employees leaving.
 3. **Disruptions - Rate**
     -   **Description**: Number of process disruptions because of problems attributed to control hardware/software (data source is the productive process execution system)
     -   **Rate**: weekly 
     -   **Responsibilities**: Product Owner provides the metric, team monitors the metric 
     -   **Threshold**: an average of less than 1 per month over the last 12 months
-    -   **Purpose**: _[current situation]_ Process disruptions are costly, _[requirement]_ so we need to ensure the number of process disruptions remains low.
+    -   **Purpose**: (current situation) Process disruptions are costly, (requirement) so we need to ensure the number of process disruptions remains low.
 
 
 **Tips:**
 
--    Aim to define simple and specific metrics that you can measure frequently (and if appropriate, daily).
--    Decide on and keep to a schedule of monitoring and assessing Key Metrics frequently. They are relevant criteria for evaluating outcomes and success in scheduled evaluations.
--    Consider using a table format to visualize key metrics and the details relating to them.
--    For each metric, consider the actual numbers that are monitored, as well as the meaning of those numbers in relation to the domain (targets, acceptable range of tolerance). 
--    Define thresholds and appropriate response for when a metric crosses that threshold.
--    Consider metrics that enable you to measure the overall ability to meet due dates and project milestones, and keep information about actual project milestones or due dates in a backlog or project plan. If unavoidable due dates are already known or even contractually fixed, describe them in the section External Constraints, and if meeting them is likely to be challenging, describe those challenges in the section on Key Challenges.
+-   Aim to define simple and specific metrics that you can measure frequently (and if appropriate, daily).
+-   Decide on and keep to a schedule of monitoring and assessing Key Metrics frequently. They are relevant criteria for evaluating outcomes and success in scheduled evaluations.
+-   Consider using a table format to visualize key metrics and the details relating to them.
+-   For each metric, consider the actual numbers that are monitored, as well as the meaning of those numbers in relation to the domain (targets, acceptable range of tolerance). 
+-   Define thresholds and appropriate response for when a metric crosses that threshold.
+-   Consider metrics that enable you to measure the overall ability to meet due dates and project milestones, and keep information about actual project milestones or due dates in a backlog or project plan. If unavoidable due dates are already known or even contractually fixed, describe them in the section External Constraints, and if meeting them is likely to be challenging, describe those challenges in the section on Key Challenges.
 
 
 ###### Evaluation Schedule
 
-_When and how will you evaluate the effectiveness of the domain’s design and the success of the team (or role keeper) in fulfilling the domain’s purpose?_
+_When and how will you evaluate the effectiveness of the domain's design and the success of the team (or role keeper) in fulfilling the domain's purpose?_
 
-Regularly evaluate the outcomes resulting from activity in this domain, as well as the domain’s design, and use what you learn to improve the creation and delivery of value. 
+Regularly evaluate the outcomes resulting from activity in this domain, as well as the domain's design, and use what you learn to improve the creation and delivery of value. 
 
-**Describe** a _schedule_ (or frequency) for evaluating the success of the team (or role keeper) in fulfilling the domain’s purpose. Include information about the _activity_ to be used (procedure, process, etc), and _who should participate_ in which parts of the evaluation. Include any _evaluation criteria_ in addition to the _key metrics_, as well as _any other relevant aspects_ to keep in mind for the evaluation.
+**Describe** a _schedule_ (or frequency) for evaluating the success of the team (or role keeper) in fulfilling the domain's purpose. Include information about the _activity_ to be used (procedure, process, etc), and _who should participate_ in which parts of the evaluation. Include any _evaluation criteria_ in addition to the _key metrics_, as well as _any other relevant aspects_ to keep in mind for the evaluation.
 
 Consider using the following processes for evaluation: 
 
--    _Peer Review_ (led by the delegatee(s), with input from the delegator and selected representatives from customers and dependencies)
--    _Retrospective_
+-   _Peer Review_ (led by the delegatee(s), with input from the delegator and selected representatives from customers and dependencies)
+-   _Retrospective_
 
 **Recommended format**: Frequency, Activity, Duration and Participants
 
 **Example (for a team):**
 
--    **Weekly: Review the key metrics** together in the beginning of the weekly team meeting
+-   **Weekly: Review the key metrics** together in the beginning of the weekly team meeting
     -   10 minutes
     -   Participants: team members
--    **Monthly retrospective**
+-   **Monthly retrospective**
     -   Up to 2 hours
     -   Participants: team members, delegator, team coach (as facilitator)
--    **Quarterly _Peer Review_** for delegatees to identify opportunities to improve strategy, domain design, learning requirements and efficacy of approach.
+-   **Quarterly _Peer Review_** for delegatees to identify opportunities to improve strategy, domain design, learning requirements and efficacy of approach.
     -   Up to 2 hours
     -   Participants: delegator, team members, team coach, facilitator and selected representatives from customers and dependencies
--    **Quarterly**: **Review strategy** (following the Peer Review)
+-   **Quarterly**: **Review strategy** (following the Peer Review)
     -   Up to 4 hours  
     -   Participants: team members, delegator, facilitator
--    **Yearly: complete review of the domain design**
+-   **Yearly: complete review of the domain design**
     -   Up to 3 hours
     -   Participants: team members, delegator
 
 **Tips:**
 
--    Ensure to record and monitor when a domain is due review and add these dates to your _logbook_.
--    Consider including a limited term of appointment for a role (after which a new selection is made).
--    Ensure that people know to flag obvious or significant problems or opportunities for improvement of the domain’s design as they encounter them, not only in the evaluation.
--    For newly designed domains, consider reviewing the design more frequently, to integrate learning and improve the domain’s design quickly. 
--    See below for more guidance on how to review a domain’s design 
+-   Ensure to record and monitor when a domain is due review and add these dates to your _logbook_.
+-   Consider including a limited term of appointment for a role (after which a new selection is made).
+-   Ensure that people know to flag obvious or significant problems or opportunities for improvement of the domain's design as they encounter them, not only in the evaluation.
+-   For newly designed domains, consider reviewing the design more frequently, to integrate learning and improve the domain's design quickly. 
+-   See below for more guidance on how to review a domain's design 
 
 
 ###### Additional Information
 
 Consider including the following information to the domain description:
 
--    Domain Name
--    Delegator (name of the circle or role; e.g. R&D, Project Manager, CEO, etc)
--    Delegatees (if they are known at the time)
--    Date of latest update to the domain description
--    Author Name(s)
+-   Domain Name
+-   Delegator (name of the circle or role; e.g. R&D, Project Manager, CEO, etc)
+-   Delegatees (if they are known at the time)
+-   Date of latest update to the domain description
+-   Author Name(s)
 
 
-##### How to review a domain’s design
+##### How to review a domain's design
 
 When designing a process for evaluation, ensure you consider the following aspects:
 
 
--    The **effectiveness** of the work of delegatees in **fulfilling the purpose** of the domain
--    The **value** the delegatees brought to the organization by accounting for the domain.
--    The team’s or role keeper’s **work processes**, and their collaboration with each other, with the delegator, and with the rest of the organization.
--    The **design of the domain** itself (and potentially the design of other related domains). E.g.: 
+-   The **effectiveness** of the work of delegatees in **fulfilling the purpose** of the domain
+-   The **value** the delegatees brought to the organization by accounting for the domain.
+-   The team's or role keeper's **work processes**, and their collaboration with each other, with the delegator, and with the rest of the organization.
+-   The **design of the domain** itself (and potentially the design of other related domains). E.g.: 
     -   Completeness and specificity of the **key metrics**, to identify if new ones are useful to add, or if existing metrics should be dropped or changed.
-    -   The team members’ or role keeper's **competencies and skills** in relation to the domain.
+    -   The team members' or role keeper's **competencies and skills** in relation to the domain.
     -   How well the **delegator** takes care of their **responsibilities**.
--    The **<a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>** the delegatees follow to fulfill the main requirement of the domain.
--    Whether fulfilling each requirement detailed in the domain description leads to the impact and whether achieving this impact results in a positive outcome in relation to the driver it’s intended to address. 
+-   The **<a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>** the delegatees follow to fulfill the main requirement of the domain.
+-   Whether fulfilling each requirement detailed in the domain description leads to the impact and whether achieving this impact results in a positive outcome in relation to the driver it's intended to address. 
 
 
 
@@ -2350,8 +2551,10 @@ Decentralize as much as possible, and retain as much influence as necessary.
 
 #### Clarify and Develop Strategy
 
-<div class="card summary"><div class="card-body">_A **strategy** is a high level approach for how people will create value to successfully account for a domain._
+<div class="card summary"><div class="card-body">For the whole organization and for each domain, devise a strategy for how to create value, and develop it over time based on what you learn.
 </div></div>
+
+_A **strategy** is a high level approach for how people will create value to successfully account for a domain._
 
 It is usually more effective if a team or role keeper lead in developing their own strategy.
 
@@ -2422,14 +2625,14 @@ The outcome of a driver mapping workshop is typically:
 -   a first draft of prioritized governance and operations backlogs for each identified subdomain.
 -   delegation of influence and the distribution of people to the subdomains through self-selection and nomination.
 
-Although Driver Mapping is often used for identifying and defining new domains, there are also applications for identifying and distributing governance and operational drivers among existing domains in an organization, e.g. when an initiative will be dealt with by existing teams in an organization, or if a group feels they’re stuck in their current structure and are looking for inspiration for how to incrementally adapt it. The group can decide if they would map to existing domains and figure out which new ones they’d need to create, or even create a new structure from scratch.
+Although Driver Mapping is often used for identifying and defining new domains, there are also applications for identifying and distributing governance and operational drivers among existing domains in an organization, e.g. when an initiative will be dealt with by existing teams in an organization, or if a group feels they're stuck in their current structure and are looking for inspiration for how to incrementally adapt it. The group can decide if they would map to existing domains and figure out which new ones they'd need to create, or even create a new structure from scratch.
 
-In a small team or circle (max. 6-8 people), when it’s not a priority to distribute work, the team might only use steps 1-5, to understand the scope and fill the operations and governance backlog, and then use proposal forming or some other approach for identifying strategy and/or next steps.
+In a small team or circle (max. 6-8 people), when it's not a priority to distribute work, the team might only use steps 1-5, to understand the scope and fill the operations and governance backlog, and then use proposal forming or some other approach for identifying strategy and/or next steps.
 
 In preparation:
 
 -   Invite people that can make a relevant contribution to this project. Send out the agenda for the workshop ahead of time.
--   Send out a description of the primary driver and the main requirement you’ll work with, and in case of an existing domain, the domain description for the project/initiative in advance so people can familiarize themselves with it. Aim to resolve any objections before the workshop.
+-   Send out a description of the primary driver and the main requirement you'll work with, and in case of an existing domain, the domain description for the project/initiative in advance so people can familiarize themselves with it. Aim to resolve any objections before the workshop.
 -   Attendees may already prepare by thinking through and recording ideas of actors and relating needs.
 -   Prepare a poster with the domain description to present in the first step. You will also need A5 and rectangular sticky notes, pens and a wide wall to work.
 
@@ -2447,14 +2650,14 @@ _Present and consent to the primary driver and main requirement._
 
 -   Present the primary driver and main requirement, to the group
 -   Consent to the driver and requirement– _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for the group to respond to? And, is the requirement suitable?_
--   Clarify any existing constraints from the delegator, e.g. budget, due date, expectations, etc. In the case of an existing domain, present the domain description.Invite further questions that help deepen understanding about what’s happening and what’s needed.
+-   Clarify any existing constraints from the delegator, e.g. budget, due date, expectations, etc. In the case of an existing domain, present the domain description.Invite further questions that help deepen understanding about what's happening and what's needed.
 -   Make explicit the level of commitment expected from the participants. E.g. people are expected to be here for the duration of the workshop only, or for the duration of the initiative, etc.
 -   Record any relevant information that comes up.
 
 
 ###### 2. Who will be impacted?
 
-_Who will be impacted as we fulfill the related requirement? Consider who can help / stand in the way / benefit / lose or be harmed._
+_Who will be impacted as we fulfill the related requirement? Consider who can help, stand in the way, benefit, lose, or be harmed._
 
 -   List actors on sticky notes and display them on a board
 -   Focus on actual people that will be impacted by this initiative (groups or individuals), and avoid making assumptions about future roles (such as _Project Manager_) or other domains (e.g. _Marketing_) at this stage.
@@ -2482,7 +2685,7 @@ _Identify who has experience or expertise in responding to these needs, so that 
 -   Add your name to those _requirement cards_ you have experience with, or ideas how to address, so that later in the process people can consult with you if helpful.
 -   Consider adding names of people who are not present if you think they would have a valuable contribution to make.
 -   Write the name(s) of these people at the bottom of the _requirement card_.
--   Adding your name to a card in this step, doesn’t mean you’re taking responsibility for the requirement, only that you’re able and willing to contribute to finding a solution if that’s helpful later.
+-   Adding your name to a card in this step, doesn't mean you're taking responsibility for the requirement, only that you're able and willing to contribute to finding a solution if that's helpful later.
 
 
 ###### 5. Identify Domains
@@ -2495,7 +2698,7 @@ Ways to identify domains:
 -   Cluster groups of similar requirements (needs-centric)
 -   A combination of both (of the above) is common
 
-Consider this step complete, as soon as you’ve agreed on a first iteration of a meaningful distribution of work. Remember, you can make changes to the domains you defined at any time (later during the workshop or afterward), so you only need to aim for something that’s good enough to start.
+Consider this step complete, as soon as you've agreed on a first iteration of a meaningful distribution of work. Remember, you can make changes to the domains you defined at any time (later during the workshop or afterward), so you only need to aim for something that's good enough to start.
 
 As a facilitator, gently support the group in self-organizing, and be mindful of people dropping out of the conversation. This process often includes a phase that appears chaotic to some participants, which might make them feel uncomfortable. To test if a result is achieved, ask for objections to the domains being good enough for now.
 
@@ -2548,7 +2751,7 @@ _Create structure to manage dependencies and deal with matters that extend beyon
 
 ###### 9. What else?
 
-_Take a moment to check if anything’s missing._
+_Take a moment to check if anything's missing._
 
 What else do we need to consider …
 
@@ -2609,7 +2812,7 @@ During the session itself, consider:
 
 Avoid discussing or judging the feedback you receive and remember to thank your peer for taking the time to give you their feedback. 
 
-After the session, review your notes and decide for yourself what you will do with the feedback you received. It’s your choice if you want to share your decision with your peer.
+After the session, review your notes and decide for yourself what you will do with the feedback you received. It's your choice if you want to share your decision with your peer.
 
 
 #### Peer Review
@@ -2626,10 +2829,10 @@ Ensure you invite people with complementary perspectives to contribute to the re
 For both appreciations and improvement suggestions, ensure you consider the following aspects:
 
 -   The **value** the delegatee brought to the organization by accounting for the <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>.
--   The role keeper’s or team’s **work processes**, and their **collaboration** with the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> and with other relevant stakeholders, and – in the case of a team - with each other.
+-   The role keeper's or team's **work processes**, and their **collaboration** with the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> and with other relevant stakeholders, and – in the case of a team - with each other.
 -   How well the **delegator** takes care of their responsibilities.
 -   The **design of the domain** itself (and potentially the design of other related domains).
--   The role keeper’s or team’s **competencies and skills** in relation to the domain.
+-   The role keeper's or team's **competencies and skills** in relation to the domain.
 -   The **<a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>** the role keeper or team follows to account for this domain.
 
 ![Continuous improvement of people's ability to effectively keep roles or collaborate in teams](img/evolution/development-process.png)
@@ -2646,7 +2849,7 @@ The development plan may be created for a person in a role, or for a team (e.g. 
 
 Development may happen in the form of refining the _description of the driver_ and the <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>, making amendments to <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>, or new or updated agreements and specific actions to be taken, either within the domain of the delegator, or the domain of the delegatee.
 
-A development plan (and any accompanying recommendations for changes to the descriptions of the domain and the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>) requires consent from both the <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a> and the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
+A development plan (and any accompanying recommendations for changes to the descriptions of the domain and the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>) requires consent from both the <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a> and the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
 
 ![A template for development plans](img/templates/development-plan-template.png)
 
@@ -2828,7 +3031,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 
 ##### When Co-Creating a Contract:
 
-- ensure all parties have a delegation that includes representation for all affected <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. not only sales, but also development / production / support, etc)
+- ensure all parties have a delegation that includes representation for all affected <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. not only sales, but also development, production, support etc.)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
 - state the reasons for the proposed collaboration, and transparent about expectations and needs of all parties
 - disclose all relevant information (if necessary under an NDA)
@@ -2865,7 +3068,7 @@ If you find that standard contracts in your industry are misaligned with the cul
 <div class="card summary"><div class="card-body">Apply the role pattern to external contractors.
 </div></div>
 
--   clarify and describe the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> for the _role_
+-   clarify and describe the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> for the _role_
 -   create a _domain description_
 -   if valuable, implement a selection process
 -   consider limiting the term of the contract, after which point it can be reviewed and renewed if necessary
@@ -2877,7 +3080,7 @@ External contractors consent to take on their role.
 
 #### Bylaws
 
-<div class="card summary"><div class="card-body">Secure S3 principles and patterns in your bylaws as needed to protect **legal integrity** and **organizational culture
+<div class="card summary"><div class="card-body">Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and <strong>organizational culture</strong>.
 </div></div>
 
 Consider:
@@ -2897,7 +3100,7 @@ Consider:
 
 #### Circle
 
-<div class="card summary"><div class="card-body">_A **circle** is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain._
+<div class="card summary"><div class="card-body">A <strong>circle</strong> is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.
 </div></div>
 
 A circle:
@@ -2923,7 +3126,7 @@ A circle:
 <div class="card summary"><div class="card-body">Delegate responsibility for a domain to individuals.
 </div></div>
 
-A role is an area of responsibility (a <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>) that is <a href="glossary.html#entry-delegation" class="glossary-tooltip" data-toggle="tooltip" title="Delegation: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.">delegated</a> to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
+A role is an area of responsibility (a <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>) that is <a href="glossary.html#entry-delegation" class="glossary-tooltip" data-toggle="tooltip" title="Delegation: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.">delegated</a> to an individual (the **role keeper**), who has autonomy to decide and act within the constraints of the role's domain.
 
 The role keeper leads in creating a <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a> for how they will account for their domain. They evolve their strategy in collaboration with the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
 
@@ -2953,7 +3156,7 @@ A team selects one of its members to represent their interests in the <a href="g
 
 #### Double Linking
 
-<div class="card summary"><div class="card-body">Enable the _two-way_ flow of information and influence between two teams.
+<div class="card summary"><div class="card-body">Enable the <em>two-way</em> flow of information and influence between two teams.
 </div></div>
 
 Two interdependent teams each select one of their members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decisions of the other team.
@@ -3073,7 +3276,7 @@ Include the people involved and affected in regular evaluation of outcomes.
 <div class="card summary"><div class="card-body">Invite everyone to create and run experiments for evolving the organization.
 </div></div>
 
--   clarify the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> for change
+-   clarify the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> for change
 -   schedule regular open space events:
     -   invite all members to create and run experiments
     -   define constraints for the experiments that enable development of a <a href="glossary.html#entry-sociocracy" class="glossary-tooltip" data-toggle="tooltip" title="Sociocracy: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.">sociocratic</a> and agile mindset (e.g. S3 principles)
@@ -3132,13 +3335,13 @@ Keep records of agreements up to date, e.g. in a <a href="glossary.html#entry-lo
 
 Record agreements with adequate detail so that important information can be recalled later.
 
-At the very least include a summary of the driver, a description of what’s been agreed, who is responsible for what, evaluation criteria and a review date.
+At the very least include a summary of the driver, a description of what's been agreed, who is responsible for what, evaluation criteria and a review date.
 
 Depending on the scope and significance of the agreement, consider including all of the following:
 
 -   A title for the agreement
 -   _Description of the driver_
--   Date of creation (and/or version)
+-   Date of creation (or version)
 -   Date of expiry or due date (if relevant)
 -   Review date (or frequency)
 -   Who is responsible for what?
@@ -3247,7 +3450,7 @@ The logbook keeper is accountable for maintaining a team's <a href="glossary.htm
 <div class="card summary"><div class="card-body">Dedicate time to reflect on past experience, learn, and decide how to improve work process.
 </div></div>
 
--   output: changes to work process, new tasks, on-the-fly <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">drivers</a> requiring an agreement
+-   output: changes to work process, new tasks, on-the-fly <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">drivers</a> requiring an agreement
 -   facilitated meeting (~1hr)
 -   regular intervals (1-4 weeks)
 -   adapt to situation and context
@@ -3391,7 +3594,7 @@ Consider selecting a facilitator for a specific term. Even an inexperienced faci
 
 Some considerations for successfully preparing a meeting:
 
-- clarify and communicate the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> for, and <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of the meeting
+- clarify and communicate the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> for, and <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of the meeting
 - decide who to invite
 - create an agenda
 - schedule the meeting enough in advance, so people have time to prepare
@@ -3518,7 +3721,7 @@ As a governance facilitator, consider learning about and using the following pat
 
 #### Governance Backlog
 
-<div class="card summary"><div class="card-body">_A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention._
+<div class="card summary"><div class="card-body">A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
 </div></div>
 
 A governance backlog contains:
@@ -3537,7 +3740,7 @@ A governance backlog contains:
 
 #### Backlog
 
-<div class="card summary"><div class="card-body">_A **backlog** (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed._
+<div class="card summary"><div class="card-body">A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
 </div></div>
 
 Consider making backlogs visible, not only to other members of a team, but also to the wider organization.
@@ -3557,7 +3760,7 @@ Types of backlog include:
 
 Each item on a (prioritized) backlog typically contains:
 
--   a **short description** of a <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">deliverable</a> or a <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>
+-   a **short description** of a <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">deliverable</a> or a <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>
 -   a **unique reference number** (or link) for each work item
 -   (the **order of work items**)
 -   **dependencies** to other work items or projects
@@ -3654,7 +3857,7 @@ You could timebox:
 
 #### Coordinator
 
-<div class="card summary"><div class="card-body">A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.
+<div class="card summary"><div class="card-body">A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term</strong>.
 </div></div>
 
 The coordinator may be selected by the team itself, or by the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
@@ -3681,7 +3884,7 @@ Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex ad
 Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
 
 -   S3's structural patterns apply to different layers of abstraction
--   different structural patterns serve different <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">drivers</a>
+-   different structural patterns serve different <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">drivers</a>
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
 
@@ -3716,7 +3919,7 @@ A service circle can be populated by members of the <a href="glossary.html#entry
 
 #### Peach Organization
 
-<div class="card summary"><div class="card-body">Deliver value in complex and competitive environments through _decentralization_ (of resources and influence) and _direct interaction_ between those creating value and the customers they serve.
+<div class="card summary"><div class="card-body">Deliver value in complex and competitive environments through <em>decentralization</em> (of resources and influence) and <em>direct interaction</em> between those creating value and the customers they serve.
 </div></div>
 
 Teams in the periphery:
@@ -3775,7 +3978,7 @@ If necessary, the pattern can be repeated to connect multiple fractal organizati
 
 ##### Prerequisites
 
-A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>, or by multiple branches, departments, or projects within a larger organization.
+A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>, or by multiple branches, departments, or projects within a larger organization.
 
 These <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</a> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. accounting, product management, or development).
 
@@ -3810,7 +4013,7 @@ The second and third tier:
 
 ![The Common Sense Framework](img/csf/csf-logo.png)
 
-We’re observing an emerging common sense that is transforming organizations around the world, inspiring and enabling people to build successful organizations where BOTH the people and the organization thrive.
+We're observing an emerging common sense that is transforming organizations around the world, inspiring and enabling people to build successful organizations where BOTH the people and the organization thrive.
 
 We have distilled the essence of this _common sense_ into a concise  framework for teams and organizations: The **Common Sense Framework (CSF)** is a tool for sense-making, designed to help people address the challenges and opportunities they face. It supports building a shared understanding of the bigger picture, identifying and prioritizing areas of need within a team and throughout an organization, and understanding what to focus on next.
 
@@ -3822,9 +4025,9 @@ The CSF can be applied in the context of developing individual teams and the org
 ### An Organization Where BOTH the People and the Organization can Thrive
 
 
-**See the bigger picture – identify what’s needed – prioritize where to start.**
+**See the bigger picture – identify what's needed – prioritize where to start.**
 
-People face many challenges and opportunities in organizations and recognize the potential for improving the current state of things, yet they’re uncertain or unable to agree how and where to start and what to do to move forward.
+People face many challenges and opportunities in organizations and recognize the potential for improving the current state of things, yet they're uncertain or unable to agree how and where to start and what to do to move forward.
 
 They need a simple way to build shared understanding about what is happening in their organization, and what needs to be done, so that they can effectively and sustainably respond to the impediments and opportunities they face.
 
@@ -3832,7 +4035,7 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 
 **Through 10 essential principles** that apply equally to individual teams, and the organization as a whole, evolve organizations that are:
 
--   **focused on value** – people’s efforts are directed toward creating value for the organization, its members, customers, and other stakeholders.
+-   **focused on value** – people's efforts are directed toward creating value for the organization, its members, customers, and other stakeholders.
 -   **productive** – the organization is efficient in identifying, developing and delivering the necessary products and services necessary to achieve its purpose.
 -   **adaptive** – people are able to effectively identify and respond to organizational needs and changing contexts (both short term and long-term).
 -   **resilient** – the organization and its members are able to withstand adversity and uncertainty, if needed.
@@ -3860,7 +4063,7 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 
 **Principle 9 – Intentionally Develop Culture:** _Collaborate on fostering a cooperative culture where everyone can achieve their fuller potential, so that you build and maintain an engaging and productive work environment._
 
-**Principle 10 – Build Shared Mental Models:** _Invest in building shared mental models, so that everyone can engage in meaningful dialogue about what’s happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._
+**Principle 10 – Build Shared Mental Models:** _Invest in building shared mental models, so that everyone can engage in meaningful dialogue about what's happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._
 
 
 ### Two Principles for Orientation
@@ -3910,7 +4113,7 @@ Essential Patterns to help you achieve this:
 Essential patterns to help you achieve this:
 
 -   _Clarify and Develop Domains_ – Clarifying the area of influence, activity and decision-making that a team, or person in a role is responsible for, enables them to understand the value they are expected to deliver.
--   _Respond to Organizational Drivers_ – Understanding what’s necessary to respond to and why, and ensuring those things are taken care of, maximizes potential for creating value.
+-   _Respond to Organizational Drivers_ – Understanding what's necessary to respond to and why, and ensuring those things are taken care of, maximizes potential for creating value.
 -   _Prioritize Backlogs_ –  When you prioritize your list of work items by value, it is obvious which ones need to be worked on first. 
 -   _Limit Work In Progress_ –  Limiting the number of concurrent work items for people and teams, helps to maintain a steady flow of value and encourages collaboration when work is blocked.
 -   _Daily Standup_ – A Daily Standup provides the space for a team to organize how they will create value during the day ahead
@@ -3927,7 +4130,7 @@ Essential patterns to help you achieve this:
 -   _Continuous Improvement of Work Process_ – Getting in the habit of continuously seeking to improve the work process supports people's skill in identifying and acting on opportunities to improve.
 -   _Describe Organizational Drivers_ – Before responding to a perceived impediment or opportunity, it is essential to understand the current situation, and why it makes sense for the organization to respond
 -   _Governance Backlog_ – Keeping a prioritized list of all impediments and opportunities that require a governance decision to be made, keeps outstanding issues visible and clarifies what is most important to respond to first.
--   _Navigate via Tension_ – When everyone in the organization pays attention for situations that appear different to what is expected or desired, and brings that information to the attention of those responsible, you maximize the organization’s potential for identifying impediments and opportunities.
+-   _Navigate via Tension_ – When everyone in the organization pays attention for situations that appear different to what is expected or desired, and brings that information to the attention of those responsible, you maximize the organization's potential for identifying impediments and opportunities.
 -   _Respond to Organizational Driver_ – Responding only to challenges and opportunities that are valuable for the organization,  maximizes return on investment of  limited time, energy and resources.
 
 
@@ -4027,7 +4230,7 @@ Essential patterns to help you achieve this:
 #### Principle 10 – Build Shared Mental Models
 
 
-**_Invest in building shared mental models, so that everyone can engage in meaningful dialogue about what’s happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._**
+**_Invest in building shared mental models, so that everyone can engage in meaningful dialogue about what's happening and what needs to be done, and in the process deepen their understanding of how the organization works, what it does and why._**
 
 Essential patterns to help you achieve this:
 
@@ -4040,7 +4243,7 @@ Essential patterns to help you achieve this:
 
 ![Ten Principles for Evolving Teams and Organizations](img/csf/csf-light.png)
 
-Each principle supports a specific outcome. To determine where to start in your organization or team, **take a look at the outcomes for each principle** (the text after "_so that_") and reflect on where your greatest need lies at the moment. In any case, **check that you are clear enough on your organization’s or team’s purpose and strategy before you proceed**.
+Each principle supports a specific outcome. To determine where to start in your organization or team, **take a look at the outcomes for each principle** (the text after "_so that_") and reflect on where your greatest need lies at the moment. In any case, **check that you are clear enough on your organization's or team's purpose and strategy before you proceed**.
 
 In the illustration below you can see that some of the principles are more closely related than others, which might further inform you of where to start.
 
@@ -4065,8 +4268,9 @@ For each principle we included a list of suggestions for things you can try. The
     -   updated _Navigate via Tension_
     -   revised _Proposal Forming_, _Consent Decision Making_ and _Driver Mapping_
 -   extended _Clarify and Develop Domains_ to include a detailed description and  examples for each aspect of a domain description
--   added an _expample domain description_ to the appendix
--  updated definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a> and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational driver</a>
+-   added a detailed descripton for each step to _Proposal Forming_
+-   added an _example domain description_ to the appendix
+-  updated definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a> and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational Driver</a>
 -  added new glossary entries for <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">Requirement</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Standard Constraint: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).">Standard Constraint</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">Overall Domain</a>
 
 
@@ -4456,7 +4660,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.</p></dd>
 
   <dt><a href="backlog.html">Backlog</a></dt>
-  <dd><p><em>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</em></p></dd>
+  <dd><p>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</p></dd>
 
   <dt><a href="be-the-change.html">Be The Change</a></dt>
   <dd><p>Lead by example.</p></dd>
@@ -4465,13 +4669,13 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>Break agreements when you are certain the benefit for the organization outweighs the cost of waiting to amend that agreement first, and take responsibility for any consequences.</p></dd>
 
   <dt><a href="bylaws.html">Bylaws</a></dt>
-  <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and **organizational culture</p></dd>
+  <dd><p>Secure S3 principles and patterns in your bylaws as needed to protect <strong>legal integrity</strong> and <strong>organizational culture</strong>.</p></dd>
 
   <dt><a href="check-in.html">Check In</a></dt>
   <dd><p>Help people to become aware of themselves and others, and to focus, be present and engage.</p></dd>
 
   <dt><a href="circle.html">Circle</a></dt>
-  <dd><p><em>A <strong>circle</strong> is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.</em></p></dd>
+  <dd><p>A <strong>circle</strong> is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.</p></dd>
 
   <dt><a href="clarify-intended-outcome.html">Clarify Intended Outcome</a></dt>
   <dd><p>Be explicit about the expected results of agreements, activities, projects and strategies.</p></dd>
@@ -4480,7 +4684,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>Explicitly clarify, and then regularly evaluate and develop the design of domains throughout the organization, based on learning, to enable those with responsibility for each domain to deliver value as effectively as possible to the customers they serve.</p></dd>
 
   <dt><a href="clarify-and-develop-strategy.html">Clarify and Develop Strategy</a></dt>
-  <dd><p><em>A <strong>strategy</strong> is a high level approach for how people will create value to successfully account for a domain.</em></p></dd>
+  <dd><p>For the whole organization and for each domain, devise a strategy for how to create value, and develop it over time based on what you learn.</p></dd>
 
   <dt><a href="co-create-proposals.html">Co-Create Proposals</a></dt>
   <dd><p>Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.</p></dd>
@@ -4498,7 +4702,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.</p></dd>
 
   <dt><a href="coordinator.html">Coordinator</a></dt>
-  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is **selected for a limited term.</p></dd>
+  <dd><p>A person fulfilling the role of a coordinator is accountable for <strong>coordinating a domain's operations</strong> and is <strong>selected for a limited term</strong>.</p></dd>
 
   <dt><a href="create-a-pull-system-for-organizational-change.html">Create a Pull-System For Organizational Change</a></dt>
   <dd><p>Create an environment that invites and enables members of the organization to drive change.</p></dd>
@@ -4519,7 +4723,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.</p></dd>
 
   <dt><a href="determine-requirements.html">Determine Requirements</a></dt>
-  <dd><p>Determine what’s required to respond appropriately to an organizational driver, before making a specific decision about what to do.</p></dd>
+  <dd><p>Determine what's required to respond appropriately to an organizational driver, before making a specific decision about what to do.</p></dd>
 
   <dt><a href="development-plan.html">Development Plan</a></dt>
   <dd><p>A plan for how to develop more effective ways of accounting for a domain, agreed between delegator and delegatee.</p></dd>
@@ -4549,7 +4753,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).</p></dd>
 
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
-  <dd><p><em>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</em></p></dd>
+  <dd><p>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</p></dd>
 
   <dt><a href="governance-facilitator.html">Governance Facilitator</a></dt>
   <dd><p>Select someone to facilitate governance meetings.</p></dd>
@@ -4670,17 +4874,17 @@ For each principle we included a list of suggestions for things you can try. The
 ### Example Domain Description: Marketing Department
 
 
-- **Delegator:** Executive team
-- **Delegatees:** Danielle, Mawiyah, Chris, Mohammed
-- **Date of latest update to the domain description:** 13th November 2023
-- **Author Name(s):** Mohammed, Danielle, Richard
+-   **Delegator:** Executive team
+-   **Delegatees:** Danielle, Mawiyah, Chris, Mohammed
+-   **Date of latest update to the domain description:** 13th November 2023
+-   **Author Name(s):** Mohammed, Danielle, Richard
 
 
 #### Purpose
 
-**Primary Driver**: The organization's growth is currently hindered by a lack of brand recognition and market penetration, despite having a product that meets the needs of the market. This results in lower sales volume and a slower rate of customer acquisition compared to what’s possible, considering we want to sustain our growth and market share in an industry with rapid innovation and high competition.
+**Primary Driver**: The organization's growth is currently hindered by a lack of brand recognition and market penetration, despite having a product that meets the needs of the market. This results in lower sales volume and a slower rate of customer acquisition compared to what's possible, considering we want to sustain our growth and market share in an industry with rapid innovation and high competition.
 
-**Main Requirement: **We need to elevate the company's brand profile and articulate the unique value proposition of our products to the target market, so that potential customers understand why our product is the right choice for them, leading to increased customer engagement and revenue.
+**Main Requirement:** We need to elevate the company's brand profile and articulate the unique value proposition of our products to the target market, so that potential customers understand why our product is the right choice for them, leading to increased customer engagement and revenue.
 
 
 #### Key Responsibilities
@@ -4689,7 +4893,7 @@ For each principle we included a list of suggestions for things you can try. The
 
 **Manage the marketing budget efficiently**, to maximize ROI across all campaigns.
 
-**Monitor and analyze market trends**, to adjust marketing strategies proactively and maintain competitive advantage.–** **The fast pace of change in consumer behavior and market dynamics is rendering current marketing strategies ineffective.
+**Monitor and analyze market trends**, to adjust marketing strategies proactively and maintain competitive advantage. The fast pace of change in consumer behavior and market dynamics is rendering current marketing strategies ineffective.
 
 **Execute and refine digital marketing campaigns**, to improve engagement and reduce customer acquisition costs. – With digital ad spend increasing without proportional gains in engagement and acquisition, current strategies are leading to diminishing returns.
 
@@ -4715,12 +4919,12 @@ For each principle we included a list of suggestions for things you can try. The
 
 ##### Product Development Team 🔗
 
-**Deliverable: **Market research reports that provide insights into customer needs, preferences, and trends, to aid the product team in making data-driven decisions for product enhancements or new product creation.
+**Deliverable:** Market research reports that provide insights into customer needs, preferences, and trends, to aid the product team in making data-driven decisions for product enhancements or new product creation.
 
 
 ##### Customer Service Department 🔗
 
-**Deliverable: **Training materials and FAQs for new campaigns or product launches, that equip customer service representatives with up-to-date information, enabling them to effectively address customer inquiries and enhance overall customer satisfaction.
+**Deliverable:** Training materials and FAQs for new campaigns or product launches, that equip customer service representatives with up-to-date information, enabling them to effectively address customer inquiries and enhance overall customer satisfaction.
 
 
 ##### Executive Leadership 🔗
@@ -4741,57 +4945,57 @@ For each principle we included a list of suggestions for things you can try. The
 
 **Deliverable:** Product information and updates, which are critical for creating accurate marketing materials and campaigns.
 
-**Requirement: **Receive detailed product specifications and roadmaps to develop marketing strategies that align with product capabilities and release schedules.
+**Requirement:** Receive detailed product specifications and roadmaps to develop marketing strategies that align with product capabilities and release schedules.
 
 
 ##### IT Department 🔗
 
-**Deliverable: **Technical infrastructure support for hosting the company's website, managing marketing databases, and ensuring cybersecurity for digital marketing operations.
+**Deliverable:** Technical infrastructure support for hosting the company's website, managing marketing databases, and ensuring cybersecurity for digital marketing operations.
 
-**Requirement: **Ensure robust and secure IT systems to maintain the functionality and security of marketing channels and customer data.
+**Requirement:** Ensure robust and secure IT systems to maintain the functionality and security of marketing channels and customer data.
 
 
 ##### Customer Service Department 🔗
 
 **Deliverable:** Feedback and insights from customer interactions, providing first-hand customer experiences and expectations.
 
-**Requirement: **Gather customer feedback to refine marketing messages and identify customer service improvement opportunities.
+**Requirement:** Gather customer feedback to refine marketing messages and identify customer service improvement opportunities.
 
 
 ##### Sales Team 🔗
 
-**Deliverable: **Sales data and customer feedback on marketing leads and their conversion rates.
+**Deliverable:** Sales data and customer feedback on marketing leads and their conversion rates.
 
-**Requirement: **Share detailed sales results to inform marketing effectiveness and direction for future campaigns.
+**Requirement:** Share detailed sales results to inform marketing effectiveness and direction for future campaigns.
 
 
 ##### Product Management Team 🔗
 
 **Deliverable:** Strategic direction and decision-making that guide overall business and marketing strategy alignment.
 
-**Requirement: **Provide clear strategic directives to ensure marketing efforts support overarching business goals.
+**Requirement:** Provide clear strategic directives to ensure marketing efforts support overarching business goals.
 
 
 ##### Finance Department 🔗
 
 **Deliverable:** Budget allocations and financial reporting systems that marketing needs for budget management and campaign funding.
 
-**Requirement: **Allocate marketing budgets to plan and execute campaigns effectively without overspending.
+**Requirement:** Allocate marketing budgets to plan and execute campaigns effectively without overspending.
 
 
 ##### Legal Team 🔗
 
-**Deliverable: **Legal advice and approval for marketing content to ensure compliance with advertising laws and regulations.
+**Deliverable:** Legal advice and approval for marketing content to ensure compliance with advertising laws and regulations.
 
-**Requirement: **Legal vetting of marketing materials to avoid regulatory breaches and protect brand reputation.
+**Requirement:** Legal vetting of marketing materials to avoid regulatory breaches and protect brand reputation.
 
 
 
 #### External Constraints
 
-**Adhere to <span style="text-decoration:underline;">brand guidelines</span> and messaging for all marketing materials**, to maintain a consistent brand image and avoid customer confusion. 
+**Adhere to brand guidelines🔗 and messaging for all marketing materials**, to maintain a consistent brand image and avoid customer confusion. 
 
-**Obtain approval for campaigns exceeding the allocated budget from <span style="text-decoration:underline;">Finance</span>**, to avoid overspending. – With a finite marketing budget, overspending on one campaign could limit the resources available for other critical marketing activities throughout the fiscal year.
+**Obtain approval for campaigns exceeding the allocated budget from Finance🔗**, to avoid overspending. – With a finite marketing budget, overspending on one campaign could limit the resources available for other critical marketing activities throughout the fiscal year.
 
 **Compliance with advertising standards and regulations**, to prevent legal issues and uphold the company's reputation for integrity. – The marketing industry is regulated to protect consumers and ensure fair competition, making compliance a non-negotiable aspect of marketing operations.
 
@@ -4856,13 +5060,13 @@ For each principle we included a list of suggestions for things you can try. The
 
 ##### Personality
 
-* **Customer-centric thinking **to ensure marketing efforts align with customer needs and preferences.
+* **Customer-centric thinking** to ensure marketing efforts align with customer needs and preferences.
 * **Adaptability to embrace and lead change** in response to market trends, technology developments, and shifts in consumer behavior.
 * **Ethical judgment and professionalism** in representing the company's brand and interacting with stakeholders.
 * **Attention to detail** in crafting marketing materials and analyzing the performance metrics of campaigns.
 * **Strong collaborative skills** to work with other teams and external partners effectively.
 * **Resilience** in facing and overcoming the setbacks common in dynamic and competitive environments.
-* **Experience paired with open-mindedness **to approach marketing challenges with fresh ideas and new perspectives.
+* **Experience paired with open-mindedness** to approach marketing challenges with fresh ideas and new perspectives.
 * **Networking abilities** to cultivate relationships with media, influencers, and industry professionals.
 
 
@@ -4945,7 +5149,7 @@ Track MROI for **each campaign**, and **quarterly** for overall performance
 **Purpose**: Ensure product and service quality meets customer expectations to maintain a positive brand reputation and customer loyalty.
 
 
-##### Brand Engagement 
+##### Brand Engagement
 
 **Calculate Brand Engagement rate per platform** as reported by Hootsuite.
 
@@ -5161,7 +5365,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 We dedicate a part of our time and money to create free resources about Sociocracy 3.0 as part of our ongoing commitment to make sociocracy and related ideas more accessible to the wider world. 
 
-There’s an overlap between what we give away for free and how we make a living. Besides our work co-developing Sociocracy 3.0, we also sell consulting, facilitation, coaching and mentoring services, and design and delivery courses and events about, but not limited to Sociocracy 3.0. 
+There's an overlap between what we give away for free and how we make a living. Besides our work co-developing Sociocracy 3.0, we also sell consulting, facilitation, coaching and mentoring services, and design and delivery courses and events about, but not limited to Sociocracy 3.0. 
 
 You can always rely on the the Practical Guide as being the current and authoritative description of Sociocracy 3.0, which will always be available under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -5190,7 +5394,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Backlog:** A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
 
 
-**Check-In:** A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
+**Check-In:** A brief disclosure where you share something about what's up for you and how you are, revealing thoughts, feelings, distractions or needs.
 
 
 **Chosen Values:** A set of principles a team (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
@@ -5220,7 +5424,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Delegatee:** An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
 
 
-**Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.
+**Delegation:** The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.
 
 
 **Delegator:** An individual or group delegating responsibility for a domain to other(s).
@@ -5232,10 +5436,10 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Domain:** A distinct area of responsibility and authority within an organization.
 
 
-**Driver:** A person’s or a group's motive for responding to a specific situation.
+**Driver:** A person's or a group's motive for responding to a specific situation.
 
 
-**Effectiveness (principle):** **Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources.
+**Effectiveness (principle):** **Devote time only to what brings you closer towards achieving your organization's overall objectives**, so that you can make the best use of your limited time, energy and resources.
 
 
 **Empiricism (principle):** **Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can.
@@ -5292,7 +5496,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Organization:** A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.
 
 
-**Organizational Driver:** Any situation where the organization’s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).
+**Organizational Driver:** Any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).
 
 
 **Overall Domain:** The domain that defines the organization's purpose, overall strategy, business model(s), and other standard constraints.

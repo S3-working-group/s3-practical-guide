@@ -1,6 +1,6 @@
 ---
 title: "The Principle of Equivalence"
-next_page_title: "The Principle of Transparency "
+next_page_title: "The Principle of Transparency"
 next_page_url: "principle-transparency.html"
 prev_page_title: "The Principle of Continuous Improvement"
 prev_page_url: "principle-continuous-improvement.html"
@@ -13,11 +13,11 @@ Equivalence is important in organizational systems, precisely because people are
 
 Equivalence increases engagement by giving people affected by decisions the opportunity to influence those decisions to some degree. 
 
-By including people in making and evolving a decision that affects them, they gain deeper understanding about the resulting decision, the situation it’s intended to address, and the pros and cons that have been weighed in the process. It also helps to keep systems more open and transparent and reduces the potential for information vital to the decision being overlooked or ignored. Depending on the level of involvement, people might also have the opportunity to shape things according to their preference, and in any case, participation in the decision-making leads to a greater sense of ownership over what is decided. 
+By including people in making and evolving a decision that affects them, they gain deeper understanding about the resulting decision, the situation it's intended to address, and the pros and cons that have been weighed in the process. It also helps to keep systems more open and transparent and reduces the potential for information vital to the decision being overlooked or ignored. Depending on the level of involvement, people might also have the opportunity to shape things according to their preference, and in any case, participation in the decision-making leads to a greater sense of ownership over what is decided. 
 
 People are more likely to take responsibility for following through on decisions when they are involved in making them. This is further reinforced when ensuring affected parties have influence in adapting those decisions later, should they discover reasons why a decision is no longer good enough, or if they discover a viable way for improving something.  
 
-Decisions we develop together will always be ‘_our_’ decisions, whereas decisions taken by others, will always be ‘_theirs_’ and will be appreciated and supported more or less by others, depending on their personal preference and point of view.
+Decisions we develop together will always be _our_ decisions, whereas decisions taken by others, will always be _theirs_ and will be appreciated and supported more or less by others, depending on their personal preference and point of view.
 
 Some decisions will affect a large group of people, e.g. an entire department, or even the  organization as a whole. Including those affected in the decision-making process will yield benefits that reach far beyond the decision in question. People will build connection, trust and a greater sense of community and belonging. For effectively involving a large number of stakeholders in the decision-making process you can use a variety of group facilitation techniques and online tools. 
 
@@ -31,17 +31,17 @@ Periodically rotating who takes a lead in decision-making helps build trust, acc
 
 ## Consider who should be involved and how
 
-Everyone throughout an organization is impacted by all decisions to some degree, because each decision will impact the whole in some way. Equivalence in decision-making doesn’t mean everyone needs to be involved in every decision all of the time. Nor does it mean that everyone has to have the same amount of influence in every context where they are affected. Equivalence means ensuring that those affected by decisions are at least able to influence those decisions, on the basis of arguments that reveal unintended consequences for the organization that are preferable to avoid, and/or worthwhile ways for how things can be improved. Put another way, the minimum requirement for equivalence to exist is to hear and consider any possible objections raised by people affected by decisions, and work to ensure that those objections are resolved.
+Everyone throughout an organization is impacted by all decisions to some degree, because each decision will impact the whole in some way. Equivalence in decision-making doesn't mean everyone needs to be involved in every decision all of the time. Nor does it mean that everyone has to have the same amount of influence in every context where they are affected. Equivalence means ensuring that those affected by decisions are at least able to influence those decisions, on the basis of arguments that reveal unintended consequences for the organization that are preferable to avoid, and/or worthwhile ways for how things can be improved. Put another way, the minimum requirement for equivalence to exist is to hear and consider any possible objections raised by people affected by decisions, and work to ensure that those objections are resolved.
 
 The degree of worthwhile involvement is context dependent. At one end of the spectrum, it might be enough that decisions affecting others are made initially by an individual or a smaller group and that these decisions are then tested for any objections with those affected afterwards. On the other end of the spectrum, equivalence could manifest as a fully collaborative process where those affected participate in decision-making from end-to-end. A middle road is a participatory approach that keeps people informed about progress and invites specific input at various stages along the way.
 
-Equivalence needs to be balanced with [Effectiveness](principle-effectiveness.html), enabled through [Transparency](principle-transparency.html) and constrained by [Consent](principle-consent.html), for it to function at its best. It’s valuable to weigh up the benefits of more or less involvement, versus the cost in terms of resources, energy and time. 
+Equivalence needs to be balanced with [Effectiveness](principle-effectiveness.html), enabled through [Transparency](principle-transparency.html) and constrained by [Consent](principle-consent.html), for it to function at its best. It's valuable to weigh up the benefits of more or less involvement, versus the cost in terms of resources, energy and time. 
 
-For any decision of significance it’s good to ask yourself who, if anyone, should be involved, and to what degree? Consider those who will be directly or indirectly impacted and those who will have responsibility for acting on what you decide. While not directly related to Equivalence, it might also be prudent to consider those who are not obviously affected by a decision, but who could contribute with their influence, experience and expertise.
+For any decision of significance it's good to ask yourself who, if anyone, should be involved, and to what degree? Consider those who will be directly or indirectly impacted and those who will have responsibility for acting on what you decide. While not directly related to Equivalence, it might also be prudent to consider those who are not obviously affected by a decision, but who could contribute with their influence, experience and expertise.
 
 ## Make necessary information available
 
-For people to contribute in an effective way, they need access to relevant information relating to the decision in question. It’s helpful to develop a system for visualizing important decisions and broadcasting about them to others. Visibility and the option for open dialogue about what’s going on in the organization helps to build shared understanding, which, in turn, contributes toward more effective decisions being made. 
+For people to contribute in an effective way, they need access to relevant information relating to the decision in question. It's helpful to develop a system for visualizing important decisions and broadcasting about them to others. Visibility and the option for open dialogue about what's going on in the organization helps to build shared understanding, which, in turn, contributes toward more effective decisions being made. 
 
 ## Invest in learning and development
 

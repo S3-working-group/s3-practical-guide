@@ -9,9 +9,9 @@ prev_page_url: "drivers-and-requirements.html"
 
 _A **domain** is a distinct area of responsibility and authority within an organization._
 
-To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap and/or be fully contained within other domains.
+To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap or be fully contained within other domains.
 
-![Domains may overlap and/or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
+![Domains may overlap or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
 
 Any role or team's purpose is to contribute towards the overall purpose of the organization by taking care of a specific organizational need. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work suffers because of missed dependencies, double work, or work not done at all.
 
@@ -27,7 +27,7 @@ People might do a great job of accounting for a domain in the way it's designed,
 
 ## Delegating Responsibility for Domains
 
-_Delegation is the grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability._
+_Delegation is the grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability._
 
 Responsibility for domains is delegated to groups or individuals, who then act within its defined constraints on their autonomy and influence.
 

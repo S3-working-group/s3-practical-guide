@@ -15,7 +15,7 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 **[The Principle of Effectiveness](principle-effectiveness.html):** 
 
-_**Devote time only to what brings you closer towards achieving your organization’s overall objectives**, so that you can make the best use of your limited time, energy and resources._
+_**Devote time only to what brings you closer towards achieving your organization's overall objectives**, so that you can make the best use of your limited time, energy and resources._
 
 **[The Principle of Consent](principle-consent.html):**
 
