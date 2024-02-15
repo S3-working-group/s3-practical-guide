@@ -10,8 +10,8 @@
     -   updated [Navigate via Tension](section:navigate-via-tension)
     -   revised [Proposal Forming](section:proposal-forming), [Consent Decision Making](section:consent-decision-making) and [Driver Mapping](section:driver-mapping)
 -   extended [Clarify and Develop Domains](section:clarify-and-develop-domains) to include a detailed description and  examples for each aspect of a domain description
--   added a detailed descripton for each step to [Proposal Forming](section:proposal-forming)
 -   added an [example domain description](section:example-domain-description) to the appendix
+-   added a detailed descripton for each step to [Proposal Forming](section:proposal-forming)
 -   revised [The Principle of Consent](section:principle-consent) and description of [Objection](section:objection)
 -  updated glossary:
     -  revised definitions for [Domain](glossary:domain), [Deliverable](glossary:deliverable), [Organizational Driver](glossary:organizational-driver), [Objection](glossary:objection) and [Concern](glossary:concern) 
