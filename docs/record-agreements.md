@@ -39,7 +39,7 @@ Depending on the scope and significance of the agreement, consider including all
     -   [Intended outcomes](clarify-intended-outcome.html)
     -   [Deliverables](describe-deliverables.html)
     -   Rationale
--   [Evaluation criteria](evaluation-criteria.html) (and potentially <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">concerns</a>)
+-   [Evaluation criteria](evaluation-criteria.html) (and potentially <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">concerns</a>)
 -   Appendix (if helpful)
     -   Background information
     -   Previous versions of the agreements

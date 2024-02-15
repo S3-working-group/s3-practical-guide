@@ -69,7 +69,7 @@ Below you'll find more guidance on how to go through each step. As with all patt
 
 ### Step 1 Present argument
 
-*Present the argument being put forward as a possible <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a>*.
+*Present the argument being put forward as a possible <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a>*.
 
 **Facilitator asks** the person with the possible objection: *Please explain your argument.*
 

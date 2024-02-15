@@ -19,7 +19,7 @@ _**Devote time only to what brings you closer towards achieving your organizatio
 
 **[The Principle of Consent](principle-consent.html):**
 
-_**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve._
+_**Raise, seek out and resolve objections to proposals, existing agreements and activity**, to reduce the potential for decisions leading to undesirable consequences and to discover worthwhile ways to improve._
 
 **[The Principle of Empiricism](principle-empiricism.html):** 
 

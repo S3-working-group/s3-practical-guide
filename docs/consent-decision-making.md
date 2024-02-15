@@ -14,7 +14,7 @@ prev_page_url: "determine-requirements.html"
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the [principle of consent](principle-consent.html), you are agreeing to intentionally seek out [objections](objection.html).
 
-_An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
+_An **objection** is an argument – relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve._
 
 Proposals become <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
 
@@ -22,7 +22,7 @@ Withholding objections can harm the ability of individuals, teams or the whole o
 
 Not all arguments raised are objections, but they might reveal [concerns](objection.html):
 
-_A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
+_A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it._
 
 
 ## Step 1: Consent to Driver and Requirement
@@ -124,8 +124,8 @@ This step is simply about identifying who has possible objections or concerns. A
 
 In case the distinction between objections and concerns is still unclear for some people, remind them:
 
--   _An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
--   _A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
+-   _An **objection** is an argument – relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve._
+-   _A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it._
 -   Proposals become agreements when they are considered good enough for now and safe enough to try until the next review.
 
 **Tips for everyone:**

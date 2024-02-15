@@ -7,7 +7,6 @@ prev_page_url: "appendix.html"
 ---
 
 
-
 ## Changes 2024-02-08
 
 -   introduced _Requirement_ as a core concept distinct from the _Driver_:
@@ -20,8 +19,10 @@ prev_page_url: "appendix.html"
 -   extended [Clarify and Develop Domains](clarify-and-develop-domains.html) to include a detailed description and  examples for each aspect of a domain description
 -   added a detailed descripton for each step to [Proposal Forming](proposal-forming.html)
 -   added an [example domain description](example-domain-description.html) to the appendix
--  updated definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a> and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational Driver</a>
--  added new glossary entries for <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">Requirement</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Standard Constraint: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).">Standard Constraint</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">Overall Domain</a>
+-   revised [The Principle of Consent](principle-consent.html) and description of [Objection](objection.html)
+-  updated glossary:
+    -  revised definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational Driver</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a> 
+    -  added new definitions for <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">Requirement</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Standard Constraint: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).">Standard Constraint</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">Overall Domain</a>
 
 
 ## Changes 2022-04-26
@@ -63,11 +64,13 @@ prev_page_url: "appendix.html"
 
 ## Changes 2021-09-03
 
--   revised text about [Objections](objection.html) as well as the definitions of <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">Concern</a>
+-   revised text about [Objections](objection.html) as well as the definitions of <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a>
+
 
 ## Changes 2021-08-15
 
 -   renamed _Open Domain_ to [Open Team](open-team.html)
+
 
 ## Changes 2021-06-18
 
@@ -79,29 +82,35 @@ prev_page_url: "appendix.html"
 -   corrected a few typos
 -   several small revisions
 
+
 ## Changes 2021-05-15
 
 -   [Navigate via Tension](navigate-via-tension.html): added more explanation about passing on drivers to another domain
 -   [Clarify and Develop Domains](clarify-and-develop-domains.html): more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
 
+
 ## Changes 2021-03-15
 
 -   updated the Seven Principles
+
 
 ## Changes 2021-02-19
 
 -   fixed several broken links on the online version
 -   corrected a few typos
 
+
 ## Changes 2021-02-11
 
 -   [Driver Mapping](driver-mapping.html): added explanation about applications of the pattern, and detailed instructions for each step of the format
+
 
 ## Changes 2021-02-06
 
 -   Revised glossary definitions for <a href="glossary.html#entry-semi-autonomy" class="glossary-tooltip" data-toggle="tooltip" title="Semi-Autonomy: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.">Semi-Autonomy</a>, <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">Self-Organization</a> and <a href="glossary.html#entry-sociocracy" class="glossary-tooltip" data-toggle="tooltip" title="Sociocracy: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.">Sociocracy</a>
 -   Renamed Pattern: _Those Affected Decide_ to _Involve Those Affected_
 -   Several small corrections and revisions
+
 
 ## Changes 2021-02-03
 
@@ -171,9 +180,10 @@ prev_page_url: "appendix.html"
 
 ## Changes 2019-06-27
 
--   _Objection_: further refined definition of objection, and updated the glossary term for <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a> accordingly
+-   _Objection_: further refined definition of objection, and updated the glossary term for <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a> accordingly
 -   replaced "action" with activity in a few places where it made more sense
 -   fixed a few typos
+
 
 ## Changes 2019-05-03
 

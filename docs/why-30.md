@@ -44,7 +44,7 @@ Yet from our direct experience, for most organizations, the methodology is eithe
 
 ### Reducing Risk and Resistance
 
-_Sociocracy 3.0_ meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. _Sociocracy 3.0_ provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
+_Sociocracy 3.0_ meets organizations where they are and takes them on a journey of continuous improvement. There's no radical change or reorganization. _Sociocracy 3.0_ provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
 
 ### Shifting Focus from Vision to Need
 

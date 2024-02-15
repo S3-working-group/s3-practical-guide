@@ -72,9 +72,7 @@ In complex situations where multiple and sometimes even contradictory options ex
 
 An organizational driver is a situation that the organization would benefit from responding to. A requirement however, is a decision that defines direction and scope for a suitable response. When determining what requirement would be suitable, it's helpful to consider:
 
-
-
--   **The requirement**: what you believe is required or needed to respond to this driver appropriately
+-   **The requirement**: what you believe is needed or desirable to respond to this driver appropriately
 -   **The anticipated impact**: how you think fulfilling the requirement will help with the driver.
 
 
@@ -86,7 +84,6 @@ When addressing a complex driver, or when deciding how to respond to an organiza
 
 If people bring contradictory suggestions about what's required, this is sometimes an indicator that they're too much in the solution space. In this case it can be helpful to zoom out and try to identify a requirement that some or all of these solutions might help to fulfill.
 
-
 -   Be specific on whose requirement it is (e.g. "we need", "they need", "I need") 
 -   Avoid describing specific solutions disguised as requirements (see "Requirement vs. Solution" below)
 
@@ -97,7 +94,6 @@ Sometimes further investigation of the driver or experimentation to test assumpt
 
 When describing the anticipated impact, explain what you anticipate the consequence of fulfilling the requirement will lead to, and how this is relevant in relation to the driver.
 
-
 -   Explain potential benefits, opportunities, or even the <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of responding to the requirement _in relation to the driver_.
 -   Making the impact explicit constraints the scope of the response and helps evaluating the effectiveness of the response in relation the driver 
 
@@ -107,7 +103,6 @@ When describing the anticipated impact, explain what you anticipate the conseque
 The requirement provides a general direction and clarifies the scope for possible solutions. A solution on the other hand is a specific course of action that fulfills a requirement.
 
 Example:
-
 
 -   **Requirement:** _We need to store and share relevant information effectively, to improve everyone's ability to provide valuable solutions for our customers._
 -   **Solution**: _A simple and comprehensive information architecture for Confluence, and a coordinated effort to migrate all existing information into that structure._

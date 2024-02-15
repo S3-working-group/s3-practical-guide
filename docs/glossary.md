@@ -45,11 +45,11 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-concern">Concern</dt>
-<dd>An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.</dd>
+<dd>An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.</dd>
 
 
 <dt id="entry-consent">Consent (principle)</dt>
-<dd><strong>Raise, seek out and resolve objections to decisions and actions,</strong> so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.</dd>
+<dd><strong>Raise, seek out and resolve objections to proposals, existing agreements and activity</strong>, to reduce the potential for decisions leading to undesirable consequences and to discover worthwhile ways to improve.</dd>
 
 
 <dt id="entry-constituent">Constituent</dt>
@@ -141,7 +141,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-objection">Objection</dt>
-<dd>An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve.</dd>
+<dd>An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.</dd>
 
 
 <dt id="entry-objective">Objective</dt>

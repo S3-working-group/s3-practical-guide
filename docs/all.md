@@ -145,7 +145,7 @@ Yet from our direct experience, for most organizations, the methodology is eithe
 
 ##### Reducing Risk and Resistance
 
-_Sociocracy 3.0_ meets organizations where they are and takes them on a journey of continuous improvement. There’s no radical change or reorganization. _Sociocracy 3.0_ provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
+_Sociocracy 3.0_ meets organizations where they are and takes them on a journey of continuous improvement. There's no radical change or reorganization. _Sociocracy 3.0_ provides a collection of independent and principle-based patterns that an organization can pull in one by one to become more effective. All patterns relate to a set of core principles, so they can easily be adapted to context.
 
 ##### Shifting Focus from Vision to Need
 
@@ -181,7 +181,7 @@ _**Devote time only to what brings you closer towards achieving your organizatio
 
 **_The Principle of Consent_:**
 
-_**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve._
+_**Raise, seek out and resolve objections to proposals, existing agreements and activity**, to reduce the potential for decisions leading to undesirable consequences and to discover worthwhile ways to improve._
 
 **_The Principle of Empiricism_:** 
 
@@ -253,49 +253,54 @@ As well as getting clear on what you WILL do, be clear on what NOT to do as well
 
 ### The Principle of Consent
 
-_**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve._
 
-Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions and activity through the lens of different people's perspectives helps to identify reasons why a decision or activity could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
+_**Raise, seek out and resolve objections to proposals, existing agreements and activity**, to reduce the potential for decisions leading to undesirable consequences and to discover worthwhile ways to improve._
 
-Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough or that there are worthwhile ways to improve? 
+Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, agreements, and activity, through the lens of different people's perspectives helps to identify reasons why proceeding in a specific way could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
 
-Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. Instead it's useful to make decisions that, over time, free people up as much as possible to decide and act to create value by themselves. It does however require adequate _transparency_ and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see _the Principle of Equivalence_).
+Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough, or that there are worthwhile ways to improve?
+
+Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. It does however require adequate _transparency_ and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see _the Principle of Equivalence_).
+
 
 #### Invite dissent
 
-When dealing with complexity, considering different perspectives, experience and expertise is a simple yet effective way for developing a coherent shared understanding, out of which more effective decisions can be made. 
+When dealing with complicated or complex matters, considering different perspectives, experience and expertise is a simple yet effective way for developing a coherent shared understanding, out of which more effective decisions can be made.
 
-Developing a culture that welcomes dissenting opinions and where people consider those opinions to discover any value they can bring generates greater engagement, psychological safety and support for decisions.
+Developing a culture that welcomes dissenting opinions and where people consider those opinions to discover any value they can bring, generates greater engagement, psychological safety, and support for decisions.
+
 
 #### Shift supremacy from people to sound arguments
 
-When comparing the available paradigms for decision-making, the essential difference lies in where ultimate authority for making a decision is placed. In autocratic systems supremacy lies with an individual or small group. In a system governed by majority vote, supremacy lies with the majority (or those who can convince the majority of their position). In a system aspiring toward consensus with unanimity, supremacy lies with whoever decides to block a proposal or existing agreement. In all three of these cases, a decision is made regardless of whether the motive of those actors is aligned with the interest of the system or not. 
+When comparing the available paradigms for decision-making, the essential difference lies in where ultimate authority for making a decision is placed. In autocratic systems supremacy lies with an individual or small group. In a system governed by majority vote, supremacy lies with the majority (or those who can convince the majority of their position). In a system aspiring toward consensus with unanimity, supremacy lies with whoever decides to block a proposal or existing agreement. In all three of these cases, a decision is made regardless of whether the motive of those actors is aligned with the interest of the system or not.
 
-When a group or organization adopts the principle of consent, supremacy shifts from any specific individual or group, to reasoned arguments that reveal the potential for undesirable consequences that would better be avoided or worthwhile ways to improve. This way, people—regardless of their position, rank, function or role—are unable to block decisions based solely on opinion, personal preference or rank. Consent invites everyone to at least be reasonable, while still leaving space for individuals to express diverse perspectives, opinions and ideas.
+When a group or organization chooses to abide by the principle of consent, supremacy shifts from any specific individual or group, to reasoned arguments that reveal the potential for undesirable consequences that would better be avoided or worthwhile ways to improve. This way, people — regardless of their position, rank, function or role — are unable to block decisions based solely on opinion, personal preference or rank, and they can be held to _account_ in the case that they do. Consent invites everyone to at least be reasonable, while still leaving space for individuals to express diverse perspectives, opinions and ideas.
+
 
 #### Distinguish between opinion or preference, and objections
 
-Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible _objections_, but also by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it's typically a good idea to _test arguments qualify as objections_ and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias. 
+Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible _objections_, bso by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it's typically a good idea to _test arguments qualify as objections_ and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias.
 
-Arguments that qualify as objections — at least as far as stakeholders can tell — help a group in directing their effort toward making changes in those areas where it's necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
+Arguments that qualify as objections—at least as far as stakeholders can tell—help a group in directing their effort toward making changes in those areas where it's necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
 
-Adopting the principle of consent shifts the aim of decision-making towards identifying a solution that's good enough for now, and where there are no obvious worthwhile improvements that would justify spending more time. This approach is far more effective than trying to arrive at consensus with unanimity, where the aim is to accommodate everyone's personal preference and ideas.
+Adopting the principle of consent shifts the aim of decision-making toward identifying a solution that's good enough for now, and where there are no obvious worthwhile improvements that would justify spending more time. This approach is far more effective than trying to arrive at consensus with unanimity, where the aim is often to accommodate everyone's personal preference and ideas.
+
 
 #### Integrate learning from objections
 
-Objections inform people of things that can be improved. _Resolving objections_ typically means evolving (proposed) agreements and changing activity in ways that render that argument void. Sometimes however, there might be a reason why there is more to be gained from leaving things unchanged despite the existence of a valid objection. Ultimately, resolving objections involves weighing up pros and cons of any decision, both in relation to the specific situation a decision is intended to address, but also in the context of the organization as a whole. In complexity there are typically no perfect or entirely correct decisions, only those that (for now at least) appear good enough for now and safe enough to try. Often all that is needed is a good enough next step which allows us to learn empirically and adapt and evolve the decision over time.
+Objections inform people of things that can be improved. _Resolving objections_ typically means evolving (proposed) agreements and changing activity in ways that render that argument void. Sometimes however, having considered an objection, it might be realized that on balance and for some reason or other, it's more advantageous to leave what was objected to unchanged. Ultimately, considering an objection and determining what, if anything, is worthwhile doing to resolve it, involves weighing up pros and cons, both in relation to the specific situation a proposal, agreement or activity is intended to address, but also in the context of the organization as a whole. In complexity there are typically no perfect or entirely correct decisions, only those that (for now at least) appear good enough for now and safe enough to try. Often all that is needed is a good enough next step which allows us to learn empirically and adapt and evolve the decision over time.
 
-This facilitation of natural and incremental learning draws on the diversity of knowledge, experience and expertise distributed throughout an organization. It helps to shift from a paradigm rooted in binary thinking and polarization (either/or) to a continual process of synergy (both/and), which over time fosters stronger relationships between peers as well.
+This approach of incremental learning draws on the diversity of knowledge, experience and expertise distributed throughout an organization. It helps to shift from a paradigm rooted in binary thinking and polarization (either/or) to a continual process of synergy (both/and), which over time fosters stronger relationships between peers as well.
 
-#### The Implicit Contract of Consent
+
+#### The Contract of Consent
 
 Adopting the principle of consent in a team, or in the organization as a whole, has implications for how people approach decision-making, dialogue and activity. Consider making this implicit contract of consent explicit, to support members of the organization to adopt and apply the principle of consent:
 
-1. In the absence of objections to an agreement, I intend to follow through on that agreement to the best of my ability.
-2. As I become aware of them, I will share any possible objections to (proposed) agreements and activity, with those directly responsible for them.
-3. I'll consider objections to proposals, agreements and activity that I'm responsible for, and will work to resolve the objection if I can.
-4. I'll actively consider agreements that are due review, to check for any possible objections.
-
+1. In the absence of objections to a proposal or existing agreement, I intend to follow through on what's been agreed to the best of my ability.
+2. As I become aware of them, I will share any possible objections to proposals,  agreements, or current activities, with those directly responsible for them.
+3. I'll actively seek out and consider objections to proposals,  agreements and activity that I'm responsible for,, and I'll work to resolve those objections if I can.
+4. I'll actively consider agreements that are due review that I'm affected by or responsible for, to check for any possible objections to the prospect of continuing with that agreement in its current form.
 
 
 ### The Principle of Empiricism
@@ -649,21 +654,21 @@ It's also possible to understand a domain in relation to organizational drivers:
 
 ### Objections
 
-_An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
+_An **objection** is an argument – relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve._
 
 You can think of objections as a simple tool for harvesting distributed intelligence and improving decision-making.
 
 Be aware that withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 
-It's the responsibility of each individual in an organization to raise potential objections to proposals, decisions, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or activities.
+In an organization that is following the _Principle of Consent_ it's the responsibility of individuals to raise possible objections to proposals, existing agreements, and activity – if and when they become aware of them – with those who are directly responsible for the decision or activity in question. In turn, those with that responsibility need to consider those arguments and address the ones that qualify as objections. Objections prevent proposals becoming agreements, without first considering the argument and making a conscious and explicit agreement about how to deal with it. The same is true for existing decisions and activities.
 
-Those accountable for an activity or (proposed) agreement in question, are responsible for *considering arguments and addressing objections* that are raised, when doing so will help to meet the organization's objectives.
+When reflecting on whether or not you have any objections to a proposal, existing agreement, or activity, consider the following questions. 
 
-When seeking out potential objections, consider:
+-   How would continuing in this way fail to adequately respond to the driver and or fulfill the requirement that the proposal or agreement is intended to address in an effective way? (**effectiveness**) 
+-   How would continuing in this way lead to undesirable consequences or risks in the same domain, in the wider organization or beyond? (**side-effects**) 
+-   How would continuing in this way lead to waste, or miss out on worthwhile ways to improve? (**efficiency**)
 
-- why the <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> would not be (fully) achieved: **effectiveness**
-- why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
-- the negative consequences something would have elsewhere (in the same <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>, in the wider organization, or beyond): **side-effects**
+**Note:** A worthwhile improvement is one where the cost of improving, in terms of the time, energy and resources it would require, would be outweighed by the anticipated gains the change would lead to. 
 
 The information revealed by objections can be used to improve:
 
@@ -673,22 +678,28 @@ The information revealed by objections can be used to improve:
 -   proposals
 -   shared understanding of drivers
 
-Create a culture where people feel comfortable to raise *potential* objections at any time, so that they can relax into making decisions that are *good enough for now and safe enough to try*. This encourages developing a preference for trying things out, instead of attempting to anticipate and account for all possibilities in advance.
 
-Harness a diversity of perspectives and be open to challenge your own, to discover when and what to change, and enjoy iterating more rapidly, running experiments and learning from the outcomes as you proceed.
+#### Aim for "good enough for now and safe enough to try" decisions
+
+Creating a culture where people feel comfortable to raise _possible_ objections enables you to harness a diversity of perspectives, and to broaden your own. 
+
+If no one has an objection or if arguments that _qualify as objections_ have been _resolved_, a decision can be considered _good enough for now and safe enough to try_.
+
+The purpose of identifying, testing and resolving objections to proposals and existing agreements is not to reach or ensure a 'perfect' decision, but rather one that is _good enough for now and safe enough to try_. This means that, as far as the people involved in the decision-making were able to determine, for now, there are no known consequences or risks that would be better avoided, and no worthwhile improvements either. 
+
+In the case of complex matters, approaching decision-making in an iterative and incremental way encourages people to try things out, instead of attempting to anticipate and account for all possibilities in advance. It encourages developing a preference for trying things out, instead of attempting to anticipate and account for all possibilities in advance.
+
+A regular cadence for evaluating significant decisions and deliberately checking for objections to continuing with a decision unchanged, provides further opportunities to identify ways to improve existing agreements. And, it helps people to relax into making decisions that are _good enough for now and safe enough to try_ (see _Evaluate and Evolve Agreements_). This approach supports a journey of experimentation and discovery, and evolving decisions based on learning over time. 
 
 
 #### Concerns
 
-**Not all arguments raised are objections, but they might reveal concerns:.**
+**Not all arguments raised are objections, but they might reveal concerns.**
 
-_A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
+_A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it._
 
-Concerns can still inform people of ways to further evolve agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. Bring up concerns if you think it's valuable to consider them.
+Concerns don't prevent proposals becoming agreements, only objections do. Nevertheless, considering people's concerns can provide insight into how to further evolve proposals and agreements, including making changes to an agreement that alleviates the concern, adding certain evaluation criteria, or adjusting the frequency of the evaluation. This is why it's important to bring up concerns if you think it's valuable to consider them. However, determining whether an argument is an objection or concern is sometimes dependent on context. Therefore, if you are in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too (see _Test Arguments Qualify as Objections_).
 
-Determining whether an argument is an objection or concern is sometimes dependent on context. 
-
-If in doubt about whether you have an objection or a concern, be proactive and check with others to see what they think too. (see _Test Arguments Qualify as Objections_).
 
 
 ### Agreements
@@ -1085,9 +1096,7 @@ In complex situations where multiple and sometimes even contradictory options ex
 
 An organizational driver is a situation that the organization would benefit from responding to. A requirement however, is a decision that defines direction and scope for a suitable response. When determining what requirement would be suitable, it's helpful to consider:
 
-
-
--   **The requirement**: what you believe is required or needed to respond to this driver appropriately
+-   **The requirement**: what you believe is needed or desirable to respond to this driver appropriately
 -   **The anticipated impact**: how you think fulfilling the requirement will help with the driver.
 
 
@@ -1099,7 +1108,6 @@ When addressing a complex driver, or when deciding how to respond to an organiza
 
 If people bring contradictory suggestions about what's required, this is sometimes an indicator that they're too much in the solution space. In this case it can be helpful to zoom out and try to identify a requirement that some or all of these solutions might help to fulfill.
 
-
 -   Be specific on whose requirement it is (e.g. "we need", "they need", "I need") 
 -   Avoid describing specific solutions disguised as requirements (see "Requirement vs. Solution" below)
 
@@ -1110,7 +1118,6 @@ Sometimes further investigation of the driver or experimentation to test assumpt
 
 When describing the anticipated impact, explain what you anticipate the consequence of fulfilling the requirement will lead to, and how this is relevant in relation to the driver.
 
-
 -   Explain potential benefits, opportunities, or even the <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of responding to the requirement _in relation to the driver_.
 -   Making the impact explicit constraints the scope of the response and helps evaluating the effectiveness of the response in relation the driver 
 
@@ -1120,7 +1127,6 @@ When describing the anticipated impact, explain what you anticipate the conseque
 The requirement provides a general direction and clarifies the scope for possible solutions. A solution on the other hand is a specific course of action that fulfills a requirement.
 
 Example:
-
 
 -   **Requirement:** _We need to store and share relevant information effectively, to improve everyone's ability to provide valuable solutions for our customers._
 -   **Solution**: _A simple and comprehensive information architecture for Confluence, and a coordinated effort to migrate all existing information into that structure._
@@ -1143,7 +1149,7 @@ Determine the requirement _before_ deciding how to specifically respond to an or
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the _principle of consent_, you are agreeing to intentionally seek out _objections_.
 
-_An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
+_An **objection** is an argument – relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve._
 
 Proposals become <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
 
@@ -1151,7 +1157,7 @@ Withholding objections can harm the ability of individuals, teams or the whole o
 
 Not all arguments raised are objections, but they might reveal _concerns_:
 
-_A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
+_A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it._
 
 
 ##### Step 1: Consent to Driver and Requirement
@@ -1253,8 +1259,8 @@ This step is simply about identifying who has possible objections or concerns. A
 
 In case the distinction between objections and concerns is still unclear for some people, remind them:
 
--   _An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve._
--   _A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it._
+-   _An **objection** is an argument – relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve._
+-   _A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it._
 -   Proposals become agreements when they are considered good enough for now and safe enough to try until the next review.
 
 **Tips for everyone:**
@@ -1378,7 +1384,7 @@ Below you'll find more guidance on how to go through each step. As with all patt
 
 ###### Step 1 Present argument
 
-*Present the argument being put forward as a possible <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a>*.
+*Present the argument being put forward as a possible <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a>*.
 
 **Facilitator asks** the person with the possible objection: *Please explain your argument.*
 
@@ -1439,7 +1445,7 @@ The person who brought the original argument has the option to refine, rephrase 
 <div class="card summary"><div class="card-body">Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state. 
 </div></div>
 
-Typically it's most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
+Typically it's most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
 
 A proposal becomes an agreement when all objections have been resolved.
 
@@ -1935,7 +1941,7 @@ A prerequisite to the selection process is a _clear description_ of the role's <
     -   proposing a nominee themselves or asking a group member
     -   inviting (some) nominees to agree who should be proposed
     -   inviting group dialogue to help reveal the strongest nominee
-7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a>.
+7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a>.
 8. **Address and Resolve Objections,** beginning with any from the proposed nominee. _Objections may be resolved_ in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
 9. **Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
 
@@ -3178,7 +3184,7 @@ Representatives (a.k.a. links):
 -   participate in the **governance decision-making** of the team they link with, and can:
     -   raise items for the agenda
     -   participate in forming proposals
-    -   raise <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objections</a> to proposals and existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
+    -   raise <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objections</a> to proposals and existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
 
 
 #### Open Team
@@ -3353,7 +3359,7 @@ Depending on the scope and significance of the agreement, consider including all
     -   _Intended outcomes_
     -   _Deliverables_
     -   Rationale
--   _Evaluation criteria_ (and potentially <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">concerns</a>)
+-   _Evaluation criteria_ (and potentially <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">concerns</a>)
 -   Appendix (if helpful)
     -   Background information
     -   Previous versions of the agreements
@@ -4257,7 +4263,6 @@ For each principle we included a list of suggestions for things you can try. The
 
 ### Changelog
 
-
 #### Changes 2024-02-08
 
 -   introduced _Requirement_ as a core concept distinct from the _Driver_:
@@ -4270,8 +4275,10 @@ For each principle we included a list of suggestions for things you can try. The
 -   extended _Clarify and Develop Domains_ to include a detailed description and  examples for each aspect of a domain description
 -   added a detailed descripton for each step to _Proposal Forming_
 -   added an _example domain description_ to the appendix
--  updated definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a> and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational Driver</a>
--  added new glossary entries for <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">Requirement</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Standard Constraint: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).">Standard Constraint</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">Overall Domain</a>
+-   revised _The Principle of Consent_ and description of _Objection_
+-  updated glossary:
+    -  revised definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational Driver</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a> 
+    -  added new definitions for <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">Requirement</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Standard Constraint: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).">Standard Constraint</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">Overall Domain</a>
 
 
 #### Changes 2022-04-26
@@ -4313,11 +4320,13 @@ For each principle we included a list of suggestions for things you can try. The
 
 #### Changes 2021-09-03
 
--   revised text about _Objections_ as well as the definitions of <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.">Concern</a>
+-   revised text about _Objections_ as well as the definitions of <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a>
+
 
 #### Changes 2021-08-15
 
 -   renamed _Open Domain_ to _Open Team_
+
 
 #### Changes 2021-06-18
 
@@ -4329,29 +4338,35 @@ For each principle we included a list of suggestions for things you can try. The
 -   corrected a few typos
 -   several small revisions
 
+
 #### Changes 2021-05-15
 
 -   _Navigate via Tension_: added more explanation about passing on drivers to another domain
 -   _Clarify and Develop Domains_: more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
 
+
 #### Changes 2021-03-15
 
 -   updated the Seven Principles
+
 
 #### Changes 2021-02-19
 
 -   fixed several broken links on the online version
 -   corrected a few typos
 
+
 #### Changes 2021-02-11
 
 -   _Driver Mapping_: added explanation about applications of the pattern, and detailed instructions for each step of the format
+
 
 #### Changes 2021-02-06
 
 -   Revised glossary definitions for <a href="glossary.html#entry-semi-autonomy" class="glossary-tooltip" data-toggle="tooltip" title="Semi-Autonomy: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.">Semi-Autonomy</a>, <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">Self-Organization</a> and <a href="glossary.html#entry-sociocracy" class="glossary-tooltip" data-toggle="tooltip" title="Sociocracy: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.">Sociocracy</a>
 -   Renamed Pattern: _Those Affected Decide_ to _Involve Those Affected_
 -   Several small corrections and revisions
+
 
 #### Changes 2021-02-03
 
@@ -4421,9 +4436,10 @@ For each principle we included a list of suggestions for things you can try. The
 
 #### Changes 2019-06-27
 
--   _Objection_: further refined definition of objection, and updated the glossary term for <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you&#x27;d rather avoid, or demonstrates worthwhile ways to improve.">objection</a> accordingly
+-   _Objection_: further refined definition of objection, and updated the glossary term for <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a> accordingly
 -   replaced "action" with activity in a few places where it made more sense
 -   fixed a few typos
+
 
 #### Changes 2019-05-03
 
@@ -5406,10 +5422,10 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Complexity:** An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
 
 
-**Concern:** An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.
+**Concern:** An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.
 
 
-**Consent (principle):** **Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve.
+**Consent (principle):** **Raise, seek out and resolve objections to proposals, existing agreements and activity**, to reduce the potential for decisions leading to undesirable consequences and to discover worthwhile ways to improve.
 
 
 **Constituent:** A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.
@@ -5478,7 +5494,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Need:** The lack of something wanted or deemed necessary (a requirement).
 
 
-**Objection:** An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve.
+**Objection:** An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.
 
 
 **Objective:** A (specific) result that a person or team or organization wants to achieve; an aim or a goal.
