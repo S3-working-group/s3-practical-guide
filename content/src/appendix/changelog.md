@@ -1,6 +1,5 @@
 # Changelog
 
-
 ## Changes 2024-02-08
 
 -   introduced _Requirement_ as a core concept distinct from the _Driver_:
@@ -13,8 +12,10 @@
 -   extended [Clarify and Develop Domains](section:clarify-and-develop-domains) to include a detailed description and  examples for each aspect of a domain description
 -   added a detailed descripton for each step to [Proposal Forming](section:proposal-forming)
 -   added an [example domain description](section:example-domain-description) to the appendix
--  updated definitions for [Domain](glossary:domain), [Deliverable](glossary:deliverable) and [Organizational Driver](glossary:organizational-driver)
--  added new glossary entries for [Requirement](glossary:requirement), [Standard Constraint](glossary:standard-constraint), [Overall Domain](glossary:overall-domain)
+-   revised [The Principle of Consent](section:principle-consent) and description of [Objection](section:objection)
+-  updated glossary:
+    -  revised definitions for [Domain](glossary:domain), [Deliverable](glossary:deliverable), [Organizational Driver](glossary:organizational-driver), [Objection](glossary:objection) and [Concern](glossary:concern) 
+    -  added new definitions for [Requirement](glossary:requirement), [Standard Constraint](glossary:standard-constraint), [Overall Domain](glossary:overall-domain)
 
 
 ## Changes 2022-04-26
@@ -58,9 +59,11 @@
 
 -   revised text about [Objections](section:objection) as well as the definitions of [Objection](glossary:objection) and [Concern](glossary:concern)
 
+
 ## Changes 2021-08-15
 
 -   renamed _Open Domain_ to [Open Team](section:open-team)
+
 
 ## Changes 2021-06-18
 
@@ -72,29 +75,35 @@
 -   corrected a few typos
 -   several small revisions
 
+
 ## Changes 2021-05-15
 
 -   [Navigate via Tension](section:navigate-via-tension): added more explanation about passing on drivers to another domain
 -   [Clarify and Develop Domains](section:clarify-and-develop-domains): more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
 
+
 ## Changes 2021-03-15
 
 -   updated the Seven Principles
+
 
 ## Changes 2021-02-19
 
 -   fixed several broken links on the online version
 -   corrected a few typos
 
+
 ## Changes 2021-02-11
 
 -   [Driver Mapping](section:driver-mapping): added explanation about applications of the pattern, and detailed instructions for each step of the format
+
 
 ## Changes 2021-02-06
 
 -   Revised glossary definitions for [Semi-Autonomy](glossary:semi-autonomy), [Self-Organization](glossary:self-organization) and [Sociocracy](glossary:sociocracy)
 -   Renamed Pattern: _Those Affected Decide_ to _Involve Those Affected_
 -   Several small corrections and revisions
+
 
 ## Changes 2021-02-03
 
@@ -167,6 +176,7 @@
 -   _Objection_: further refined definition of objection, and updated the glossary term for [objection](glossary:objection) accordingly
 -   replaced "action" with activity in a few places where it made more sense
 -   fixed a few typos
+
 
 ## Changes 2019-05-03
 

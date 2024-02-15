@@ -44,12 +44,12 @@ terms:
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
   concern:
     name: Concern
-    definition: A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it. 
-    glossary: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to prove its relevance or validity to those who are considering it.
+    definition: A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.
+    glossary: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.
   consent:
     name: Consent (principle)
     definition:
-    glossary: "**Raise, seek out and resolve objections to decisions and actions,** so that you can reduce the potential for undesirable consequences and discover worthwhile ways to improve."
+    glossary: "**Raise, seek out and resolve objections to proposals, existing agreements and activity**, to reduce the potential for decisions leading to undesirable consequences and to discover worthwhile ways to improve."
   constituent:
     name: Constituent
     definition:
@@ -135,8 +135,8 @@ terms:
     glossary: The lack of something wanted or deemed necessary (a requirement).
   objection:
     name: Objection
-    definition: An **objection** is an argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve.
-    glossary: An argument – relating to a proposal, agreement, activity or the existing state of affairs – that reveals consequences or risks you'd rather avoid, or demonstrates worthwhile ways to improve.
+    definition: An **objection** is an argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.
+    glossary: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.
   objective:
     name: Objective
     definition:
