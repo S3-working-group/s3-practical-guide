@@ -24,7 +24,7 @@ _Proposal Forming_ may also be used by an individual.
 
 **5. Prioritize generative questions:** Identify priority considerations to clarify which are more or less important to consider when forming the proposal.
 
-**6. Collect ideas:** Generate and record ideas about how to respond to the driver and fulfill the determined requirement.
+**6. Collect ideas:** Generate and record ideas about how to fulfill the determined requirement.
 
 **7. Choose tuners:** Delegate responsibility for putting together a proposal to 2-3 people (tuners).
 
@@ -183,7 +183,7 @@ Together, in silence, arrange the sticky notes in an approximate order of import
 
 ## Step 6: Collect ideas
 
-_Generate and record ideas about how to respond to fulfill the determined requirement._
+_Generate and record ideas about how to fulfill the determined requirement._
 
 In this step, everyone shares ideas about how to fulfill the determined requirement. This can include ideas that might provide a whole solution, partial solutions, iterative next steps and suggestions about how to respond to any of the prioritized generative questions. 
 
