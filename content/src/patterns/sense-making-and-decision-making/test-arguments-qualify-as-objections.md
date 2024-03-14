@@ -99,7 +99,7 @@ Choose one of the people with a raised hand and using the same process for testi
 
 **4.2. Understand reason for disagreement**: Facilitator invites: *Are there any questions to understand this argument?*
 
-**4.3. Check for disagreement to the disagreement:** Facilitator asks: *Does anyone disagree with the reason for this disagreement, entirely or in part?*
+**4.3. Check for disagreement to the disagreement:** Facilitator asks: *Does anyone disagree totally or in part, that this argument is valid?*
 
 - **If no one disagrees**: the argument for the disagreement is considered valid. Go to step 5.
 - **If anyone disagrees**: investigate the reasoning behind the disagreement (see step 4) until you come to an argument that no-one disagrees with. Then take each preceding argument in turn – checking if there's anything remaining and/or if it needs to be changed or dropped (see step 5 for guidelines on how to do this) – until you arrive back to the initial disagreement. 
