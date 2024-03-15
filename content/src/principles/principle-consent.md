@@ -26,7 +26,7 @@ When a group or organization chooses to abide by the principle of consent, supre
 
 ## Distinguish between opinion or preference, and objections
 
-Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible [objections](section:objection.html), bso by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it's typically a good idea to [test arguments qualify as objections](section:test-arguments-quaas-objections.html) and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias.
+Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible [objections](section:objection), bso by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it's typically a good idea to [test arguments qualify as objections](section:test-arguments-qualify-as-objections) and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias.
 
 Arguments that qualify as objections—at least as far as stakeholders can tell—help a group in directing their effort toward making changes in those areas where it's necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
 
