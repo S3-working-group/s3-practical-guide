@@ -43,7 +43,7 @@ After establishing that a driver is both relevant and a priority, it's helpful t
 
 {{define:requirement}}
 
-In some cases, the requirement is already clear, because there is an existing agreement that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern [Determine Requirement](section:determine-requirement) for guidance. 
+In some cases, the requirement is already clear, because there is an existing agreement that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern [Determine Requirement](section:determine-requirements) for guidance. 
 
 
 ## Step 4: Agree on how to fulfill the requirement
