@@ -537,7 +537,7 @@ Consider using the following processes for evaluation:
 -   **Monthly retrospective**
     -   Up to 2 hours
     -   Participants: team members, delegator, team coach (as facilitator)
--   **Quarterly [Peer Review](section:peer-review])** for delegatees to identify opportunities to improve strategy, domain design, learning requirements and efficacy of approach.
+-   **Quarterly [Peer Review](section:peer-review)** for delegatees to identify opportunities to improve strategy, domain design, learning requirements and efficacy of approach.
     -   Up to 2 hours
     -   Participants: delegator, team members, team coach, facilitator and selected representatives from customers and dependencies
 -   **Quarterly**: **Review strategy** (following the Peer Review)
