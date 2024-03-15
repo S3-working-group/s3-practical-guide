@@ -7,7 +7,7 @@ Deliberately seeking objections is a way to tap into the collective intelligence
 
 Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough, or that there are worthwhile ways to improve?
 
-Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. It does however require adequate [transparency](section:principle-transparhtml) and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see [the Principle of Equivalence](section:principle-equivaletml)).
+Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. It does however require adequate [transparency](section:principle-transparency) and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see [the Principle of Equivalence](section:principle-equivalence)).
 
 
 ## Invite dissent
