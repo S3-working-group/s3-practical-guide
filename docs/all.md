@@ -71,7 +71,7 @@ Inside this practical guide book you'll discover:
 
 This practical guide to Sociocracy 3.0 is written and published by the three co-developers of Sociocracy 3.0.
 
-True to the mindset behind S3, this book will always be a work in progress that grows and changes as we learn from people who are experimenting with S3 in organizations around the world. Since we started out 5 years ago, we have released several updates per year and we'll continue to do so in the years to come.
+True to the mindset behind S3, this book will always be a work in progress that grows and changes as we learn from people who are experimenting with S3 in organizations around the world. Since we started out in 2015, we have released several updates per year and we'll continue to do so in the years to come.
 
 Even though several sections in this book are brief and may still be rough around the edges, the content and explanations have been sufficient for many people to get started with S3 and achieve positive change in their organizations. We hope you'll find it useful too.
 
@@ -114,7 +114,7 @@ Yet, outside the Netherlands sociocracy has until recently remained largely unkn
 
 We love sociocracy because we see organizations and their members thrive when they use elements of it to enrich or transform what they currently do.
 
-We also love agile, lean, Kanban, the Core Protocols, NVC, and many other ideas too. We believe that the world will be a better place as more organizations learn to pull from this cornucopia of awesome practices that are emerging into the world today, and learn to synthesize them with what they already know.
+We also love agile, lean, Kanban, the Core Protocols, Non-Violent Communication, and many other ideas too. We believe that the world will be a better place as more organizations learn to pull from this cornucopia of awesome practices that are emerging into the world today, and learn to synthesize them with what they already know.
 
 Therefore we decided to devote some of our time to develop and evolve Sociocracy, integrating it with many of these other potent ideas, to make it available and applicable to as many organizations as possible.
 
@@ -1420,7 +1420,7 @@ Choose one of the people with a raised hand and using the same process for testi
 
 **4.2. Understand reason for disagreement**: Facilitator invites: *Are there any questions to understand this argument?*
 
-**4.3. Check for disagreement to the disagreement:** Facilitator asks: *Does anyone disagree with the reason for this disagreement, entirely or in part?*
+**4.3. Check for disagreement to the disagreement:** Facilitator asks: *Does anyone disagree totally or in part, that this argument is valid?*
 
 - **If no one disagrees**: the argument for the disagreement is considered valid. Go to step 5.
 - **If anyone disagrees**: investigate the reasoning behind the disagreement (see step 4) until you come to an argument that no-one disagrees with. Then take each preceding argument in turn – checking if there's anything remaining and/or if it needs to be changed or dropped (see step 5 for guidelines on how to do this) – until you arrive back to the initial disagreement. 
@@ -1641,7 +1641,7 @@ _Proposal Forming_ may also be used by an individual.
 
 **5. Prioritize generative questions:** Identify priority considerations to clarify which are more or less important to consider when forming the proposal.
 
-**6. Collect ideas:** Generate and record ideas about how to respond to the driver and fulfill the determined requirement.
+**6. Collect ideas:** Generate and record ideas about how to fulfill the determined requirement.
 
 **7. Choose tuners:** Delegate responsibility for putting together a proposal to 2-3 people (tuners).
 
@@ -1800,7 +1800,7 @@ Together, in silence, arrange the sticky notes in an approximate order of import
 
 ##### Step 6: Collect ideas
 
-_Generate and record ideas about how to respond to fulfill the determined requirement._
+_Generate and record ideas about how to fulfill the determined requirement._
 
 In this step, everyone shares ideas about how to fulfill the determined requirement. This can include ideas that might provide a whole solution, partial solutions, iterative next steps and suggestions about how to respond to any of the prioritized generative questions. 
 
@@ -1992,6 +1992,8 @@ A simple way for supporting stakeholders in developing shared understanding abou
 -   **Evaluation Schedule:** _When and how will you evaluate the effectiveness of the domain's design and the success of the team (or role keeper) in fulfilling the domain's purpose?_
 
 On the [S3 Canvas microsite](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) you can find a template that you can use for (co-)designing new domains or for documenting existing domains, when clarifying them is worthwhile. 
+
+For a complete example of a domain description, see the Appendix: _Example Domain Description: Marketing Department_.
 
 
 ##### Considerations for designing domains

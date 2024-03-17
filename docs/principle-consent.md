@@ -14,7 +14,7 @@ Deliberately seeking objections is a way to tap into the collective intelligence
 
 Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough, or that there are worthwhile ways to improve?
 
-Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. It does however require adequate [transparency](principle-transparhtml.html) and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see [the Principle of Equivalence](principle-equivaletml.html)).
+Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. It does however require adequate [transparency](principle-transparency.html) and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see [the Principle of Equivalence](principle-equivalence.html)).
 
 
 ## Invite dissent
@@ -33,7 +33,7 @@ When a group or organization chooses to abide by the principle of consent, supre
 
 ## Distinguish between opinion or preference, and objections
 
-Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible [objections](objection.html.html), bso by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it's typically a good idea to [test arguments qualify as objections](test-arguments-quaas-objections.html.html) and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias.
+Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible [objections](objection.html), bso by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it's typically a good idea to [test arguments qualify as objections](test-arguments-qualify-as-objections.html) and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias.
 
 Arguments that qualify as objections—at least as far as stakeholders can tell—help a group in directing their effort toward making changes in those areas where it's necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
 

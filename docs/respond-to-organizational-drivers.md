@@ -49,7 +49,7 @@ After establishing that a driver is both relevant and a priority, it's helpful t
 
 _A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step._
 
-In some cases, the requirement is already clear, because there is an existing agreement that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern [Determine Requirement](determine-requirement.html) for guidance. 
+In some cases, the requirement is already clear, because there is an existing agreement that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern [Determine Requirement](determine-requirements.html) for guidance. 
 
 
 ## Step 4: Agree on how to fulfill the requirement
