@@ -6,7 +6,7 @@ Yet, outside the Netherlands sociocracy has until recently remained largely unkn
 
 We love sociocracy because we see organizations and their members thrive when they use elements of it to enrich or transform what they currently do.
 
-We also love agile, lean, Kanban, the Core Protocols, NVC, and many other ideas too. We believe that the world will be a better place as more organizations learn to pull from this cornucopia of awesome practices that are emerging into the world today, and learn to synthesize them with what they already know.
+We also love agile, lean, Kanban, the Core Protocols, Non-Violent Communication, and many other ideas too. We believe that the world will be a better place as more organizations learn to pull from this cornucopia of awesome practices that are emerging into the world today, and learn to synthesize them with what they already know.
 
 Therefore we decided to devote some of our time to develop and evolve Sociocracy, integrating it with many of these other potent ideas, to make it available and applicable to as many organizations as possible.
 

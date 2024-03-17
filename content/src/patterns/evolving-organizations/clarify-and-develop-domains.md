@@ -36,6 +36,8 @@ A simple way for supporting stakeholders in developing shared understanding abou
 
 On the [S3 Canvas microsite](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) you can find a template that you can use for (co-)designing new domains or for documenting existing domains, when clarifying them is worthwhile. 
 
+For a complete example of a domain description, see the Appendix: [Example Domain Description: Marketing Department](section:example-domain-description).
+
 
 ## Considerations for designing domains
 
@@ -535,7 +537,7 @@ Consider using the following processes for evaluation:
 -   **Monthly retrospective**
     -   Up to 2 hours
     -   Participants: team members, delegator, team coach (as facilitator)
--   **Quarterly [Peer Review](section:peer-review])** for delegatees to identify opportunities to improve strategy, domain design, learning requirements and efficacy of approach.
+-   **Quarterly [Peer Review](section:peer-review)** for delegatees to identify opportunities to improve strategy, domain design, learning requirements and efficacy of approach.
     -   Up to 2 hours
     -   Participants: delegator, team members, team coach, facilitator and selected representatives from customers and dependencies
 -   **Quarterly**: **Review strategy** (following the Peer Review)
