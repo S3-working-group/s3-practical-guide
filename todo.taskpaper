@@ -1,7 +1,7 @@
 
 Inbox:
 	- fix source of pattern map (outdated link to enablers of co-creation) and merge updated templates (also in docs/includes) to language versions
-
+	- make soure to use straight quotation marks  instead of typographic quotation marks ‘…’ and “…” @done
 
 ebook:
 	- ToC doesn't build correctly in PDF: @done
