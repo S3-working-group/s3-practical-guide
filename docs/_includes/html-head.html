@@ -7,7 +7,10 @@
   <meta name="keywords" content="{{ site.keywords }}">
   <meta name="author" content="{{ site.author }}">
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  {%- comment -%}
+    to fix the erroneously truncated url of "pattern-index.html", page urls with the suffix "-index.html" are appended with an extra "index.html" which can then be removed without causing trouble
+  {%- endcomment -%}
+  <link rel="canonical" href="{{ page.url | replace:'-index.html','-index.htmlindex.html'  | replace_first:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
 
   <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
