@@ -1,7 +1,7 @@
 # Governance Backlog
 
 <summary>
-Keep a dedicated backlog for items that require a governance decision, so that you can remember them and use the information to plan and organize your governance.
+Keep a dedicated [backlog](glossary:backlog) for items that require a governance decision, so that you can remember them and use the information to plan and organize your governance.
 </summary>
 
 {{**Definition**: A **governance backlog** is a visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.}}
