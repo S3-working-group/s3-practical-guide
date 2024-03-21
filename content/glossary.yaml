@@ -108,8 +108,8 @@ terms:
     glossary: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.
   governance-backlog:
     name: Governance Backlog
-    definition: A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
-    glossary: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
+    definition: A **governance backlog** is a visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.
+    glossary: A visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.
   intended-outcome:
     name: Intended Outcome
     definition: 
