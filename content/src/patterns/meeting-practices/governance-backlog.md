@@ -21,5 +21,5 @@ An item in a (prioritized) governance backlog typically provides information abo
 - other interdependent items (including work items), as well as any other relevant information, e.g. reference to proposals, domain descriptions, etc)
 - who added the item to the backlog (for clarification/questions)
 - a due date (if necessary)
-- a way of visualizing rank or priority (see [Prioritized Backlog](https://patterns.sociocracy30.org/prioritize-backlogs.html)
+- a way of visualizing rank or priority (see [Prioritized Backlog](https://patterns.sociocracy30.org/prioritize-backlogs.html)).
 
