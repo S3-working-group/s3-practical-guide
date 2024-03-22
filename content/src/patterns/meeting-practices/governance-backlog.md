@@ -4,7 +4,7 @@
 Keep a dedicated backlog for items that require a governance decision, so that you can remember them and use the information to plan and organize your governance.
 </summary>
 
-{{**Definition**: A **governance backlog** is a visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.}}
+{{define:governance-backlog}}
 
 A governance [backlog](glossary:backlog) is at the core of any reliable and transparent system for governance. Keeping a governance backlog helps with planning regular [governance meetings](https://patterns.sociocracy30.org/governance-meeting.html). It’s also useful for deciding which items are best addressed in a dedicated meeting, or in other regular meetings such as product meetings, [planning meetings](https://patterns.sociocracy30.org/planning-and-review-meetings.html) or [retrospectives](https://patterns.sociocracy30.org/retrospective.html).
 
@@ -21,5 +21,5 @@ An item in a (prioritized) governance backlog typically provides information abo
 - other interdependent items (including work items), as well as any other relevant information, e.g. reference to proposals, domain descriptions, etc)
 - who added the item to the backlog (for clarification/questions)
 - a due date (if necessary)
-- a way of visualizing rank or priority (see [Prioritized Backlog](https://patterns.sociocracy30.org/prioritize-backlogs.html)).
+- a way of visualizing rank or priority (see [Prioritize Backlogs](https://patterns.sociocracy30.org/prioritize-backlogs.html)).
 
