@@ -1,0 +1,54 @@
+# Markdown and Formatting
+
+## The Basics
+
+-   all content is in `/content`
+-   the project uses GitHub-flavored Markdown, because the web version of the guide is published to a github page (at <https:patterns.sociocracy30.org>)
+-   for a new version of the guide to be published, the source first needs to be rendered with [mdtoos](https://github.com/bboc/mdtools)
+-   the guide uses these conventions
+    -   `-` (minus) for bulleted lists (with an indentation of 4 spaces, which is _required_ for lists of 2 levels of indentation)
+    -   `_` (underscore) for _emphasis_ and
+    -   `**` for **strong emphasis**
+
+## Preview
+
+When previewing edits with any Markdown preview, the following things will not be displayed correctly: 
+
+- the contents of the `<summary>`-Tag 
+- **internal links** (to other sections of the guide, or to the glossary) will look like links, but they will not work, because the preprocessor replaces all links with the correct targets (or replaces the links entirely when output to PDF)
+- illustrations
+- definitions `{{define:...}}`
+
+## Links and Images
+
+Links to other sections of the guide: `[link text](section:section-name)`. Section name is the name of the file that is linked to, without any extension (html or md), and without any path
+
+Links to other websites: `[link text](https://...)
+
+Links where the URL should be visible `<https://...>`
+
+## The Glossary 
+
+The project glossary is defined in `/content/glossary.yaml` - the format is YAML 1.1, a simple explanation of the format can be found on [Wikipedia](https://en.wikipedia.org/wiki/YAML) or in the [Ansible documentation](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+
+Example for a glossary entry: 
+
+```
+  social-technology:
+    name: Social Technology
+    definition: "**Social technology** is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange."
+    glossary: Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
+```
+
+Each term in the glossary is represented as as a dictionary with three keys
+
+-   name: The name of the entry (title case)
+-   definition: The text that will show up with the {{define...}} macro. This text typically starts with "A **thing** is", followed by the explanation.
+-   glossary: The text that will show up in the glossary overlays and on the [glossary page](https://patterns.sociocracy30.org/glossary.html). This text is the explanation only.
+
+The key for looking up a term's dictionary is the name of the term, in lowercase characters and with spaces replaced by dashes.
+
+The glossary provides three things 
+1.   a macro for rendering a term's definition in a page: `{{define:governance-backlog}}`. This macro is used in a separate paragraph.
+1.   glossary links, like `[driver](glossary:driver)`. The link text can be anything, the target agter "glossary:" is the key for looking up the term in the glossary. The glossary link is rendered as an overlay in the web version, and currently discarded in the ebook versions (although that might change in a future version of mdtools)
+1.   the  [glossary page](https://patterns.sociocracy30.org/glossary.html) that contains a list of all entries with explanations
