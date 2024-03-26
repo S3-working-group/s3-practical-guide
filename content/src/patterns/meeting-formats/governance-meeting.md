@@ -26,12 +26,12 @@ A typical governance meeting includes:
 
 Typical agenda items include:
 
--   any short reports
--   evaluation of existing [agreements](glossary:agreement) due review
--   selecting people to roles
--   new drivers requiring decisions to be made, including:
-    -   [forming proposals](section:co-create-proposals)
-    -   [making agreements](section:consent-decision-making)
-    -   [designing domains](section:clarify-and-develop-domains) and deciding how to account for them (e.g. new [roles](section:role), [circles](section:circle), teams or [open teams](section:open-team))
+-  any short reports
+-  evaluation of existing [agreements](glossary:agreement) due review
+-  [determining requirements](section:determine-requirements.html)
+-  [forming proposals](section:co-create-proposals)
+-  [making agreements](section:consent-decision-making)
+-  [designing domains](section:clarify-and-develop-domains) and deciding how to account for them (e.g. new [roles](section:role), [circles](section:circle) or any other type of team)
+-  [selecting people for roles](section:role-selection)
 
 
