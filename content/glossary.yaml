@@ -104,8 +104,8 @@ terms:
     glossary: Deliverables traveling through an organization towards customers or other stakeholders.
   governance:
     name: Governance
-    definition: "**Governance** in an organization (or a domain within it) is the process of setting objectives and making and evolving decisions that guide people towards achieving those objectives."
-    glossary: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.
+    definition: "**Governance** in an organization (or a domain within it) is the process of setting objectives and making and evolving decisions that guide people toward achieving those objectives."
+    glossary: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.
   governance-backlog:
     name: Governance Backlog
     definition: A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
