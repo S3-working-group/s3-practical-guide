@@ -4,7 +4,7 @@
 Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work. 
 </summary>
 
-{{Definition: A **backlog** (to-do list) is a list of (often prioritized) uncompleted work items (typically a deliverable, requirement, or a driver) that need to be addressed.}}
+{{define:backlog}}
 
 Backlogs are at the core of any reliable and transparent system for organizing work and governance. Consider making backlogs visible, not only to other members of a team but also to the wider organization.
 
