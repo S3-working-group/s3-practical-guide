@@ -25,7 +25,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-backlog">Backlog</dt>
-<dd>A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.</dd>
+<dd>A list of (often prioritized) uncompleted work items (typically a deliverable, requirement, or a driver) that need to be addressed.</dd>
 
 
 <dt id="entry-check-in">Check-In</dt>
@@ -113,7 +113,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-governance-backlog">Governance Backlog</dt>
-<dd>A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</dd>
+<dd>A visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.</dd>
 
 
 <dt id="entry-helping-team">Helping Team</dt>

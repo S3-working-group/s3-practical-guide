@@ -1,10 +1,14 @@
 # Backlog
 
 <summary>
-A **backlog** (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
+Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work. 
 </summary>
 
-Consider making backlogs visible, not only to other members of a team, but also to the wider organization.
+{{define:backlog}}
+
+Backlogs are at the core of any reliable and transparent system for organizing work and governance. Consider making backlogs visible, not only to other members of a team but also to the wider organization.
+
+Rather than getting side-tracked when a new work item comes up, make a note of it in the appropriate backlog, so that you keep focus on the work in progress.
 
 Types of backlog include:
 
@@ -21,11 +25,10 @@ Types of backlog include:
 
 Each item on a (prioritized) backlog typically contains:
 
--   a **short description** of a [deliverable](glossary:deliverable) or a [driver](glossary:organizational-driver)
--   a **unique reference number** (or link) for each work item
--   (the **order of work items**)
--   **dependencies** to other work items or projects
--   **due date** (if necessary)
--   (optional) a measure for **value**
--   (optional) a measure for **investment** (often an estimate of time or complexity)
+-   a **short description** of the work item (typically a [deliverable](glossary:deliverable) [requirement](glossary:requirement) or a [driver](glossary:organizational-driver))
+-   reference to other **interdependent work items** or projects, as well as to any **other relevant information**
+-   an **estimate of the time** required to deal with it
 
+It can also be useful to include:
+- a due date (if necessary)
+- a way of visualizing rank or priorities (see [Prioritized Backlog](https://patterns.sociocracy30.org/prioritize-backlogs.html))
