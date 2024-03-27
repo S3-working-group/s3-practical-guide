@@ -16,18 +16,18 @@ terms:
     glossary: "**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization."
   account:
     name: Account for (v.)
-    glossary: to take the responsibility for something.
+    glossary: to take responsibility for something.
   agreement:
     name: Agreement
-    definition: An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value.
-    glossary: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.
+    definition: An **agreement** is an agreed-upon guideline, process, protocol or policy designed to guide the flow of value.
+    glossary: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.
   alignment:
     name: Alignment
     glossary: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
   backlog:
     name: Backlog
-    definition: A **backlog** (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
-    glossary: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
+    definition: A **backlog** (to-do list) is a list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.
+    glossary: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.
   chosen-values:
     name: Chosen Values
     glossary: A set of principles a team (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
@@ -108,8 +108,8 @@ terms:
     glossary: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.
   governance-backlog:
     name: Governance Backlog
-    definition: A **governance backlog** is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
-    glossary: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
+    definition: A **governance backlog** is a visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.
+    glossary: A visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.
   intended-outcome:
     name: Intended Outcome
     definition: 
