@@ -28,7 +28,7 @@ Typical agenda items include:
 
 -  any short reports
 -  evaluation of existing [agreements](glossary:agreement) due review
--  [determining requirements](section:determine-requirements.html)
+-  [determining requirements](section:determine-requirements)
 -  [forming proposals](section:co-create-proposals)
 -  [making agreements](section:consent-decision-making)
 -  [designing domains](section:clarify-and-develop-domains) and deciding how to account for them (e.g. new [roles](section:role), [circles](section:circle) or any other type of team)
