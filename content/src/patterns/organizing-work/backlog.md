@@ -25,7 +25,7 @@ Types of backlog include:
 
 Each item on a (prioritized) backlog typically contains:
 
--   a **short description** of the work item typically a [deliverable](glossary:deliverable) [requirement](glossary:requirement) or a [driver](glossary:organizational-driver)
+-   a **short description** of the work item (typically a [deliverable](glossary:deliverable) [requirement](glossary:requirement) or a [driver](glossary:organizational-driver))
 -   reference to other **interdependent work items** or projects, as well as to any other relevant information
 -   an **estimate of the time** required to deal with it
 
