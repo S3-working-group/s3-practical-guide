@@ -1,5 +1,12 @@
 # Changelog
 
+## Changes 2024-04-05
+
+-   More changes relating to Requirements
+    -   updated glossary: revised definitions for [Backlog](glossary:backlog) and [Governance Backlog](glossary:governance-backlog),
+    -   Revised [Resolve Objections](section:resolve-objections), [Backlog](section:backlog), [Governance Backlog](section:governance-backlog) and [Governance Meeting](section:governance-meeting)
+    -   revised recommended patterns in the [Common Sense Framework](section:csf)
+
 ## Changes 2024-02-08
 
 -   introduced _Requirement_ as a core concept distinct from the _Driver_:
