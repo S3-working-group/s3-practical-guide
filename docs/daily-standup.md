@@ -15,6 +15,6 @@ prev_page_url: "governance-meeting.html"
 -   the team gathers around a visible project management board/tool to:
     -   organize daily work
     -   address impediments/blocks
-    -   adapt existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or create new agreements on the spot
+    -   adapt existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or create new agreements on the spot
 
 ![Daily standup is an essential meeting for self-organizing teams.](img/meetings/planning-review-standup.png)

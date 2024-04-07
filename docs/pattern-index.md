@@ -28,7 +28,7 @@ prev_page_url: "changelog.html"
   <dd><p>A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.</p></dd>
 
   <dt><a href="backlog.html">Backlog</a></dt>
-  <dd><p>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</p></dd>
+  <dd><p>Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work.</p></dd>
 
   <dt><a href="be-the-change.html">Be The Change</a></dt>
   <dd><p>Lead by example.</p></dd>
@@ -121,7 +121,7 @@ prev_page_url: "changelog.html"
   <dd><p>Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).</p></dd>
 
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
-  <dd><p>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</p></dd>
+  <dd><p>Keep a dedicated backlog for items that require a governance decision, so that you can remember them and use the information to plan and organize your governance.</p></dd>
 
   <dt><a href="governance-facilitator.html">Governance Facilitator</a></dt>
   <dd><p>Select someone to facilitate governance meetings.</p></dd>

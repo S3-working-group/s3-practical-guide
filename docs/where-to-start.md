@@ -13,4 +13,4 @@ Each principle supports a specific outcome. To determine where to start in your 
 
 In the illustration below you can see that some of the principles are more closely related than others, which might further inform you of where to start.
 
-For each principle we included a list of suggestions for things you can try. These suggestions are taken from the [menu of patterns contained in Sociocracy 3.0](http://patterns.sociocracy30.org). For now we only added the most essential patterns that support each principle, in future versions of this framework we will include even more patterns. 
+For each principle we included a list of suggestions for things you can try. These suggestions are taken from the [menu of patterns contained in Sociocracy 3.0](http://patterns.sociocracy30.org). For now, we only added the most essential patterns that support each principle, in future versions of this framework we will include even more patterns. 

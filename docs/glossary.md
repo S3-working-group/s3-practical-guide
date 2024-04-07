@@ -9,7 +9,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-account">Account for (v.)</dt>
-<dd>to take the responsibility for something.</dd>
+<dd>to take responsibility for something.</dd>
 
 
 <dt id="entry-accountability">Accountability (principle)</dt>
@@ -17,7 +17,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-agreement">Agreement</dt>
-<dd>An agreed upon guideline, process, protocol or policy designed to guide the flow of value.</dd>
+<dd>An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.</dd>
 
 
 <dt id="entry-alignment">Alignment</dt>
@@ -25,7 +25,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-backlog">Backlog</dt>
-<dd>A list of (often prioritized) uncompleted work items (typically a deliverable, requirement, or a driver) that need to be addressed.</dd>
+<dd>A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.</dd>
 
 
 <dt id="entry-check-in">Check-In</dt>
@@ -109,7 +109,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-governance">Governance</dt>
-<dd>The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.</dd>
+<dd>The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.</dd>
 
 
 <dt id="entry-governance-backlog">Governance Backlog</dt>

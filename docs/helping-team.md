@@ -20,7 +20,7 @@ A helping team:
 Members of the helping team:
 
 -   can object to the delegator's decisions that affect them
--   can add items to the delegator's <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Governance Backlog: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.">governance backlog</a>
+-   can add items to the delegator's <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Governance Backlog: A visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.">governance backlog</a>
 -   may be invited to select a [representative](representative.html) to participate in the governance decision-making of the delegator
 
 ![Helping Team](img/structural-patterns/helping-team.png)

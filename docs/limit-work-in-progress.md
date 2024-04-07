@@ -12,7 +12,7 @@ prev_page_url: "pull-system-for-work.html"
 
 Work in progress includes:
 
--   the number of items in a <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</a>
+-   the number of items in a <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.">backlog</a>
 -   concurrent projects or tasks for teams or individuals
 -   products in a portfolio
 

@@ -10,7 +10,7 @@ prev_page_url: "governance-backlog.html"
 <dl>
 
   <dt><a href="backlog.html">Backlog</a></dt>
-  <dd><p>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</p></dd>
+  <dd><p>Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work.</p></dd>
 
   <dt><a href="prioritize-backlogs.html">Prioritize Backlogs</a></dt>
   <dd><p>Order all uncompleted work items with the most important items first, then pull work items from the top whenever there is new capacity.</p></dd>

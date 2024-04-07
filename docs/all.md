@@ -574,7 +574,7 @@ Making sense of situations that arise in the course of daily work and establishi
 -   Taking time to investigate situations and their potential relevance, before acting, helps to **determine if and when intervening is worthwhile**, because people can be mistaken, both regarding their conclusions about what they are perceiving, and in terms of the relevance they ascribe to the situations they perceive (see _Navigate via Tension_). 
 -   Being clear about why you are doing things will make it easier to **regularly evaluate the outcomes** of your actions and identify ways to improve your approach. (When doing so, also consider whether the organizational driver has changed: the situation is different, or its relevance for the organization has changed.)
 
-Determining whether a situation qualifies as an organizational driver is dependent on adequate understanding of the overall purpose of the organization (its <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</a> and main <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a>, its <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>, <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objectives</a>, <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a>, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, and so on. Once it's established that responding to a particular situation would be beneficial for the organization, it qualifies as an organization driver and can then be prioritized accordingly. Such diligence ensures that people remain focused on, and responsive to, challenges and opportunities that are relevant to the organization's purpose and objectives.
+Determining whether a situation qualifies as an organizational driver is dependent on adequate understanding of the overall purpose of the organization (its <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</a> and main <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a>, its <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a>, <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objectives</a>, <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a>, existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, and so on. Once it's established that responding to a particular situation would be beneficial for the organization, it qualifies as an organization driver and can then be prioritized accordingly. Such diligence ensures that people remain focused on, and responsive to, challenges and opportunities that are relevant to the organization's purpose and objectives.
 
 
 ##### Relationships between organizational drivers
@@ -704,7 +704,7 @@ Concerns don't prevent proposals becoming agreements, only objections do. Nevert
 
 ### Agreements
 
-_An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
+_An **agreement** is an agreed-upon guideline, process, protocol or policy designed to guide the flow of value._
 
 Shared guidelines about why, how and when to act, and what is specifically required, enable effective collaboration.
 
@@ -723,7 +723,7 @@ Most organizations and teams today benefit from developing capacity for collecti
 
 Since there are so many decisions to make for an organization to run effectively, S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
 
-Greater autonomy of individuals and teams necessitates clear <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they become, and remain fit for purpose over time. 
+Greater autonomy of individuals and teams necessitates clear <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they become, and remain fit for purpose over time. 
 
 While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people's behavior and activity, often benefits from a more participatory and deliberate _decision-making process_. These agreements include but are not limited to matters such as: strategy, priorities, distribution of responsibilities and power to influence, work processes, and many decisions about products and services. 
 
@@ -731,7 +731,7 @@ Such agreements need to be documented, both to remember them and to support effe
 
 Therefore it's valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations:
 
-_**Governance** in an organization (or a domain within it) is the process of setting objectives and making and evolving decisions that guide people towards achieving those objectives._
+_**Governance** in an organization (or a domain within it) is the process of setting objectives and making and evolving decisions that guide people toward achieving those objectives._
 
 _**Operations** is doing the work and organizing day-to-day activities within the constraints defined through governance._
 
@@ -1151,7 +1151,7 @@ Consent invites people to (at least) be reasonable and open to opportunities for
 
 _An **objection** is an argument – relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve._
 
-Proposals become <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
+Proposals become <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
 
 Withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 
@@ -1453,14 +1453,14 @@ Objections are resolved by amending the proposal. **Amendments** can include:
 
 - adding, removing and/or changing something in the proposal.
 - deferring resolution of a particular objection until later. (Remember to clarify who will take responsibility for this, by when, and what will happen after that).
-- an alternative proposal, or an agreement to (co-)create a new proposal in future (if it's considered more effective than continuing to work on developing the existing proposal).
+- an alternative proposal, or an agreement to (co-)create a new proposal in the future (if it's considered more effective than continuing to work on developing the existing proposal).
 - delegating the task to review, research, and/or propose an amendment for one, or even several related objections, to an individual or group.
 - leaving the main proposal unchanged and monitoring the outcome because the effort, or cost of changing things to resolve the objection, outweighs the anticipated benefits or gain.
 - asking a delegator for feedback or input (e.g. when agreeing on a strategy for a subdomain).
 - take some more time for reflection and then come back to the objection again later.
 - etc.
 
-There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>, reaching agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations. 
+There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> or fulfill the corresponding <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a> reaching an agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations. 
 
 Objections can be resolved by following the process outlined in _Reasoned Decision-Making_:
 
@@ -1468,7 +1468,7 @@ Objections can be resolved by following the process outlined in _Reasoned Decisi
 
 **Step 2:** Understand the proposed amendment 
 
-**Step 3:** Check if there are any possible objections to the proposed amendment , e.g. by using hand signs. The possible objections themselves are presented in Step 4. 
+**Step 3:** Check if there are any possible objections to the proposed amendment, e.g. by using hand signs. The possible objections themselves are presented in Step 4. 
 
 If there are no possible objections, proceed to step 6 (Celebrate), otherwise take one possible objection at a time, and:
 
@@ -1483,7 +1483,7 @@ If there are no possible objections, proceed to step 6 (Celebrate), otherwise ta
 Below you'll find more guidance on how to go through each step. This process can be repeated until all objections have been resolved. As with all patterns in S3, your approach to resolving objections can be adjusted to suit your context. 
 
 
-##### Step 1: Come up with proposal for an amendment
+##### Step 1: Come up with a proposal for an amendment
 
 *Come up with a suggestion for how to amend the proposal to resolve the objection based on information the objection reveals.* 
 
@@ -1491,7 +1491,7 @@ There are many ways to come up with an amendment. Below are some typical options
 
 1. Ask the person raising the objection: "*Do you have a suggestion for how to amend this proposal to resolve this objection?*"
 2. Ask the group "*Does anyone have a suggestion for how to amend this proposal to resolve this objection?*" and choose one person to present their suggestion.
-3. In case it's difficult to immediately come up with an amendment, invite a timeboxed dialogue to share ideas, with the purpose of coming up with an amendment from there.
+3. In case it's difficult to immediately come up with an amendment, invite a time-boxed dialogue to share ideas, with the purpose of coming up with an amendment from there.
 
 As with any proposal, an amendment suggestion gives you a starting point that can then be refined through inviting and resolving objections. (see Step 4:Test One Argument Qualifies as Objection)
 
@@ -1560,7 +1560,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 -   adapt agreements to suit changing context
 -   integrate learning to make them more effective
 
-Ensure all <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> have an appropriate review date.
+Ensure all <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> have an appropriate review date.
 
 Evaluating agreements can be as simple as checking that an agreement is still relevant, and there is no objection to keeping it as it is.
 
@@ -2584,7 +2584,7 @@ Strategies are validated and refined through experimentation and learning.
 
 **Flow of value:** Deliverables traveling through an organization towards customers or other stakeholders.
 
-Achieve and maintain alignment of flow through the continuous evolution of an organization's body of <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>:
+Achieve and maintain alignment of flow through the continuous evolution of an organization's body of <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>:
 
 -   ensure all decisions affecting the flow of value actually support the flow of value
 -   enable people with relevant skills and knowledge to influence decisions
@@ -2874,7 +2874,7 @@ A development plan (and any accompanying recommendations for changes to the desc
 
 _"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_
 
-Participating artfully may include interrupting, objecting or breaking  <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>.
+Participating artfully may include interrupting, objecting or breaking  <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>.
 
 _Artful Participation_ is an **individual commitment** to:
 
@@ -2934,7 +2934,7 @@ _**Values** are valued principles that guide behavior. Values define scope for a
 -   each member brings their own values to an organization based on personal experiences and beliefs
 -   a team or organization may **choose to collectively adopt values** to guide their collaboration
 
-Values offer guidance to determine appropriate action, even in the absence of explicit <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>.
+Values offer guidance to determine appropriate action, even in the absence of explicit <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>.
 
 Collectively adopting a set of values supports the effectiveness of an organization:
 
@@ -2965,7 +2965,7 @@ Consider including those affected in reviewing and evolving decisions, too.
 <div class="card summary"><div class="card-body">Break agreements when you are certain the benefit for the organization outweighs the cost of waiting to amend that agreement first, and take responsibility for any consequences.
 </div></div>
 
-Breaking <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> is sometimes **necessary** but may come at a **cost** to the community.
+Breaking <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> is sometimes **necessary** but may come at a **cost** to the community.
 
 Be accountable:
 
@@ -3115,7 +3115,7 @@ A circle:
 
 -   may be permanent or temporary
 -   may be <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organizing</a>
--   is responsible for its own development and its body of <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
+-   is responsible for its own development and its body of <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
 
 -   **semi-autonomous:**
     -   A circle's members act within the constraints of their <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>.
@@ -3123,7 +3123,7 @@ A circle:
 -   **self-governing:**
     -   A circle's members continuously decide together what to do to account for their domain, and set constraints on how and when things will be done.
 -  **equivalence of circle members:**
-    -   All members of a circle are equally accountable for <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> of the circle's domain.
+    -   All members of a circle are equally accountable for <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> of the circle's domain.
 
 ![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)
 
@@ -3145,7 +3145,7 @@ A role is a simple way for an organization (or <a href="glossary.html#entry-team
 - role keepers are selected by consent and for a limited term
 - peers support one another to develop in the roles they keep
 
-A role keeper may maintain a governance <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</a>, and a <a href="glossary.html#entry-logbook" class="glossary-tooltip" data-toggle="tooltip" title="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</a> to record and help them evolve their approach toward delivering <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Value: The importance, worth or usefulness of something in relation to a driver. Also &quot;a valued principle that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">value</a>.
+A role keeper may maintain a governance <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.">backlog</a>, and a <a href="glossary.html#entry-logbook" class="glossary-tooltip" data-toggle="tooltip" title="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</a> to record and help them evolve their approach toward delivering <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Value: The importance, worth or usefulness of something in relation to a driver. Also &quot;a valued principle that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">value</a>.
 
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are treated as agreements.
 
@@ -3157,7 +3157,7 @@ A role keeper may maintain a governance <a href="glossary.html#entry-backlog" cl
 <div class="card summary"><div class="card-body">Enable the flow of information and influence between two teams.
 </div></div>
 
-A team selects one of its members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decisions of another team.
+A team selects one of its members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> decisions of another team.
 
 ![One circle linked to another circle](img/structural-patterns/link.png)
 
@@ -3167,7 +3167,7 @@ A team selects one of its members to represent their interests in the <a href="g
 <div class="card summary"><div class="card-body">Enable the <em>two-way</em> flow of information and influence between two teams.
 </div></div>
 
-Two interdependent teams each select one of their members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decisions of the other team.
+Two interdependent teams each select one of their members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> decisions of the other team.
 
 Double linking enables equivalence between two teams and can be used to draw out valuable information in hierarchical structures.
 
@@ -3186,7 +3186,7 @@ Representatives (a.k.a. links):
 -   participate in the **governance decision-making** of the team they link with, and can:
     -   raise items for the agenda
     -   participate in forming proposals
-    -   raise <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objections</a> to proposals and existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
+    -   raise <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objections</a> to proposals and existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
 
 
 #### Open Team
@@ -3200,7 +3200,7 @@ The <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle
 
 - the <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</a>, key responsibilities and constraints of the open team's domain
 - who is invited to contribute (the members of the open team)
-- constraints relating to the delegator's participation in the open team's <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a>
+- constraints relating to the delegator's participation in the open team's <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a>
 
 Depending on the constraints set by the delegator, contributors may only <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">organize and do work</a>, or take part in governance as well.
 
@@ -3224,7 +3224,7 @@ A helping team:
 Members of the helping team:
 
 -   can object to the delegator's decisions that affect them
--   can add items to the delegator's <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Governance Backlog: A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.">governance backlog</a>
+-   can add items to the delegator's <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Governance Backlog: A visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.">governance backlog</a>
 -   may be invited to select a _representative_ to participate in the governance decision-making of the delegator
 
 ![Helping Team](img/structural-patterns/helping-team.png)
@@ -3332,7 +3332,7 @@ S3 promotes a hypothesis-driven approach to decision-making.
 <div class="card summary"><div class="card-body">Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.
 </div></div>
 
-_An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
+_An **agreement** is an agreed-upon guideline, process, protocol or policy designed to guide the flow of value._
 
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.
 
@@ -3403,7 +3403,7 @@ Explicitly describing deliverables can be useful for improving communication and
 <div class="card summary"><div class="card-body">Develop well-defined evaluation criteria to determine if acting on an agreement had the desired effect.
 </div></div>
 
--   go for **simple and unambiguous** criteria and document them (to avoid discussion or unnecessary dialogue when reviewing your <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>)
+-   go for **simple and unambiguous** criteria and document them (to avoid discussion or unnecessary dialogue when reviewing your <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>)
 -   define **actionable <a href="glossary.html#entry-metric" class="glossary-tooltip" data-toggle="tooltip" title="Metric: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success">metrics</a>** to continuously track effects and spot deviations from <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a>
 -   consider adding criteria which make it explicit when the outcome of an agreement would be considered **unsuccessful**
 -   when reviewing an agreement, consider **evolving the evaluation criteria** based on what you have learned
@@ -3424,13 +3424,13 @@ Content relating to the whole organization:
 
 -   <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</a>, <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high level approach for how people will create value to successfully account for a domain.">strategy</a> and organizational <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Values: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">values</a>
 -   organizational structure (<a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> and the connections between them)
--   <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
+-   <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
 
 Content relating to a specific team or <a href="glossary.html#entry-role" class="glossary-tooltip" data-toggle="tooltip" title="Role: A domain that is delegated to an individual, who then becomes the role keeper.">role</a>:
 
 -   the domain description and strategy
 -   agreements (including <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatees'</a> domain descriptions, strategies and _development plans_)
--   <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlogs</a> and other information relating to work and <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a>
+-   <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.">backlogs</a> and other information relating to work and <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a>
 
 
 
@@ -3441,7 +3441,7 @@ Content relating to a specific team or <a href="glossary.html#entry-role" class=
 
 The logbook keeper is accountable for maintaining a team's <a href="glossary.html#entry-logbook" class="glossary-tooltip" data-toggle="tooltip" title="Logbook: A (digital) system to store all information relevant for running an organization.">logbook</a> by:
 
--   recording details of <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a> descriptions, _selections_, evaluation dates, minutes of meetings etc.
+-   recording details of <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a> descriptions, _selections_, evaluation dates, minutes of meetings etc.
 -   organizing relevant information and improving the system when valuable
 -   keeping records up to date
 -   ensuring accessibility to everyone in the team (and in the wider organization as agreed)
@@ -3458,7 +3458,7 @@ The logbook keeper is accountable for maintaining a team's <a href="glossary.htm
 <div class="card summary"><div class="card-body">Dedicate time to reflect on past experience, learn, and decide how to improve work process.
 </div></div>
 
--   output: changes to work process, new tasks, on-the-fly <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">drivers</a> requiring an agreement
+-   output: changes to work process, new tasks, on-the-fly <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">drivers</a> requiring an agreement
 -   facilitated meeting (~1hr)
 -   regular intervals (1-4 weeks)
 -   adapt to situation and context
@@ -3503,13 +3503,13 @@ A typical governance meeting includes:
 
 Typical agenda items include:
 
--   any short reports
--   evaluation of existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> due review
--   selecting people to roles
--   new drivers requiring decisions to be made, including:
-    -   _forming proposals_
-    -   _making agreements_
-    -   _designing domains_ and deciding how to account for them (e.g. new _roles_, _circles_, teams or _open teams_)
+-  any short reports
+-  evaluation of existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> due review
+-  _determining requirements_
+-  _forming proposals_
+-  _making agreements_
+-  _designing domains_ and deciding how to account for them (e.g. new _roles_, _circles_ or any other type of team)
+-  _selecting people for roles_
 
 
 
@@ -3524,7 +3524,7 @@ Typical agenda items include:
 -   the team gathers around a visible project management board/tool to:
     -   organize daily work
     -   address impediments/blocks
-    -   adapt existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or create new agreements on the spot
+    -   adapt existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> or create new agreements on the spot
 
 ![Daily standup is an essential meeting for self-organizing teams.](img/meetings/planning-review-standup.png)
 
@@ -3707,7 +3707,7 @@ Preparation:
 <div class="card summary"><div class="card-body">Select someone to facilitate governance meetings.
 </div></div>
 
-A <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> facilitator:
+A <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> facilitator:
 
 -   ensures _governance meetings_ stay on track and are evaluated
 -   is (usually) selected by a <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> from among it members (and for a specific term)
@@ -3729,16 +3729,27 @@ As a governance facilitator, consider learning about and using the following pat
 
 #### Governance Backlog
 
-<div class="card summary"><div class="card-body">A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
+<div class="card summary"><div class="card-body">Keep a dedicated backlog for items that require a governance decision, so that you can remember them and use the information to plan and organize your governance.
 </div></div>
 
-A governance backlog contains:
+_A **governance backlog** is a visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain._
+
+A governance <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.">backlog</a> is at the core of any reliable and transparent system for governance. Keeping a governance backlog helps with planning regular _governance meetings_. It’s also useful for deciding which items are best addressed in a dedicated meeting, or in other regular meetings such as product meetings, _planning meetings_ or _retrospectives_.
+
+A governance backlog contains information about:
 
 -   matters requiring a decision
 -   proposals to create and consider
 -   selecting people for roles
 
-**Note:** Upcoming reports and agreements due review are usually added directly to the agenda (rather than the backlog).
+An item in a (prioritized) governance backlog typically provides information about: 
+
+- the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> that needs addressing (and the <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a>—for drivers that have been determined as relevant and a priority)
+- the next step(s) for addressing the item (e.g. _determine requirement_, form a proposal, _test a proposal_, _review an existing agreement_, _select someone for a role_, including an estimate of the time required
+- other interdependent items (including work items), as well as any other relevant information, e.g. reference to proposals, domain descriptions, etc)
+- who added the item to the backlog (for clarification/questions)
+- a due date (if necessary)
+- a way of visualizing rank or priority (see _Prioritize Backlogs_).
 
 
 
@@ -3748,14 +3759,18 @@ A governance backlog contains:
 
 #### Backlog
 
-<div class="card summary"><div class="card-body">A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.
+<div class="card summary"><div class="card-body">Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work. 
 </div></div>
 
-Consider making backlogs visible, not only to other members of a team, but also to the wider organization.
+_A **backlog** (to-do list) is a list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed._
+
+Backlogs are at the core of any reliable and transparent system for organizing work and governance. Consider making backlogs visible, not only to other members of a team but also to the wider organization.
+
+Rather than getting side-tracked when a new work item comes up, make a note of it in the appropriate backlog, so that you keep focus on the work in progress.
 
 Types of backlog include:
 
--   <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> backlog
+-   <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> backlog
 -   <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a> backlog
 -   _sprint_ backlog
 -   product backlog
@@ -3768,14 +3783,13 @@ Types of backlog include:
 
 Each item on a (prioritized) backlog typically contains:
 
--   a **short description** of a <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">deliverable</a> or a <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>
--   a **unique reference number** (or link) for each work item
--   (the **order of work items**)
--   **dependencies** to other work items or projects
--   **due date** (if necessary)
--   (optional) a measure for **value**
--   (optional) a measure for **investment** (often an estimate of time or complexity)
+-   a **short description** of the work item (typically a <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">deliverable</a> <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a> or a <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>)
+-   reference to other **interdependent work items** or projects, as well as to any **other relevant information**
+-   an **estimate of the time** required to deal with it
 
+It can also be useful to include:
+- a due date (if necessary)
+- a way of visualizing rank or priorities (see [Prioritized Backlog](https://patterns.sociocracy30.org/prioritize-backlogs.html))
 
 
 #### Prioritize Backlogs
@@ -3785,7 +3799,7 @@ Each item on a (prioritized) backlog typically contains:
 
 No two items can be of equal importance, meaning it is necessary to agree on priorities and make tough choices.
 
-A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</a> helps to **maintain focus** on the most important items.
+A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.">backlog</a> helps to **maintain focus** on the most important items.
 
 #### Visualize Work
 
@@ -3807,7 +3821,7 @@ A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" dat
 -   **stages** of work (e.g. "to do", "in progress", "review" and "done")
 -   impediments/blocks
 -   who is working on which items
--   <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> and expectations guiding workflow (e.g. definition of done, policy, quality standards)
+-   <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> and expectations guiding workflow (e.g. definition of done, policy, quality standards)
 -   use colors, symbols, highlights etc.
 
 ![A card representing a work item](img/workflow-and-value/card.png)
@@ -3830,7 +3844,7 @@ Pulling in work prevents overloading the system, especially when _work in progre
 
 Work in progress includes:
 
--   the number of items in a <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">backlog</a>
+-   the number of items in a <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.">backlog</a>
 -   concurrent projects or tasks for teams or individuals
 -   products in a portfolio
 
@@ -3904,7 +3918,7 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
 <div class="card summary"><div class="card-body">Delegate making governance decisions affecting multiple domains to representatives selected by those domains.
 </div></div>
 
-To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decisions on their behalf, stakeholders send _representatives_ to form a delegate circle.
+To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> decisions on their behalf, stakeholders send _representatives_ to form a delegate circle.
 
 ![Delegate Circle](img/structural-patterns/delegate-circle.png)
 
@@ -3947,8 +3961,8 @@ The center provides internal services to support the organization.
 <div class="card summary"><div class="card-body">Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.
 </div></div>
 
-1. Shift governance decision-making from individuals to teams by forming <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">self-governing</a> <a href="glossary.html#entry-circle" class="glossary-tooltip" data-toggle="tooltip" title="Circle: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.">circles</a> on all levels of your organization.
-2. Each circle's members select one of their group to represent their interests and participate in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> decision-making of the next higher circle, and vice versa.
+1. Shift governance decision-making from individuals to teams by forming <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">self-governing</a> <a href="glossary.html#entry-circle" class="glossary-tooltip" data-toggle="tooltip" title="Circle: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.">circles</a> on all levels of your organization.
+2. Each circle's members select one of their group to represent their interests and participate in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> decision-making of the next higher circle, and vice versa.
 
 A double-linked hierarchy:
 
@@ -4089,7 +4103,8 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 
 Essential Patterns to help you achieve this:
 
--   _Describe Organizational Drivers_ –  Understanding the motive for acting in response to a specific situation is an essential component for understanding, defining and communicating the purpose of an organization, a team or department.
+-   _Describe Organizational Drivers_ –  Understanding the situation that is motivating action is an essential component for understanding, defining, and communicating the purpose of an organization, a team, or a department.
+-   _Determine Requirements_ - Clarifying the main requirement an organization or team is fulfilling helps people develop a shared understanding of direction for their contribution.
 
 
 #### Principle 2 – Develop Strategy
@@ -4099,11 +4114,11 @@ Essential Patterns to help you achieve this:
 
 Essential Patterns to help you achieve this:
 
--   _Clarify and Develop Domains_ – A clearly defined area of influence, activity and decision-making is a prerequisite for defining an effective strategy for an organization, a team or role.
+-   _Clarify and Develop Domains_ – A clearly defined area of influence, activity and decision-making is a prerequisite for defining an effective strategy for an organization, a team, or a role.
 -   _Clarify Intended Outcome_ - Defining the intended outcome of a strategy is an essential component for monitoring and evaluating its effectiveness, and adapting things when necessary.
 -   _Describe Organizational Drivers_ – Understanding the motive for acting in response to a specific situation is an essential component for designing an effective strategy for responding to it 
--   _Clarify and Develop Strategy_ – Stakeholders collaborating on creating and evolving strategy for an organization, team or role, helps to support creation of relevant and effective strategy
--   _Evaluate And Evolve Agreements_ – Reviewing strategy and evolving it as necessary over time ensures it remains helpful and relevant to the organization, team or role.
+-   _Clarify and Develop Strategy_ – Stakeholders collaborating on creating and evolving strategy for an organization, team, or role helps to support creation of relevant and effective strategy.
+-   _Evaluate And Evolve Agreements_ – Reviewing strategy and evolving it as necessary over time ensures it remains helpful and relevant to the organization, team, or role.
 -   _Evaluation Criteria_ – Defining criteria for success or failure is necessary for figuring out whether or not the strategy is effective.
 
 
@@ -4120,12 +4135,12 @@ Essential Patterns to help you achieve this:
 
 Essential patterns to help you achieve this:
 
--   _Clarify and Develop Domains_ – Clarifying the area of influence, activity and decision-making that a team, or person in a role is responsible for, enables them to understand the value they are expected to deliver.
--   _Respond to Organizational Drivers_ – Understanding what's necessary to respond to and why, and ensuring those things are taken care of, maximizes potential for creating value.
--   _Prioritize Backlogs_ –  When you prioritize your list of work items by value, it is obvious which ones need to be worked on first. 
--   _Limit Work In Progress_ –  Limiting the number of concurrent work items for people and teams, helps to maintain a steady flow of value and encourages collaboration when work is blocked.
--   _Daily Standup_ – A Daily Standup provides the space for a team to organize how they will create value during the day ahead
--   _Test Arguments Qualify as Objections_ – When you test each argument brought forward against a decision for whether or not it reveals worthwhile improvements or unwanted  consequences, you keep your work focused on value and avoid getting derailed by unfounded opinions and personal preferences.
+-   _Clarify and Develop Domains_ – Clarifying the area of influence, activity and decision-making that a team or person in a role is responsible for enables them to understand the value they are expected to deliver.
+-   _Respond to Organizational Drivers_ – Ensuring people in the organization respond to relevant impediments and opportunities maximizes an organization’s potential for creating value.
+-   _Prioritize Backlogs_ – When you prioritize your list of work items by value, it is obvious which ones need to be worked on first. 
+-   _Limit Work In Progress_ – Limiting the number of concurrent work items for people and teams helps to maintain a steady flow of value and encourages collaboration when work is blocked.
+-   _Daily Standup_ – A Daily Standup provides the space for a team to organize how they will create value during the day ahead.
+-   _Test Arguments Qualify as Objections_ – Considering whether or not arguments brought forward against a decision reveal worthwhile improvements or unwanted consequences supports keeping your decision-making focused on value and avoids getting derailed by unfounded opinions and personal preferences.
 
 
 #### Principle 4 – Sense & Respond
@@ -4136,10 +4151,12 @@ Essential patterns to help you achieve this:
 Essential patterns to help you achieve this:
 
 -   _Continuous Improvement of Work Process_ – Getting in the habit of continuously seeking to improve the work process supports people's skill in identifying and acting on opportunities to improve.
--   _Describe Organizational Drivers_ – Before responding to a perceived impediment or opportunity, it is essential to understand the current situation, and why it makes sense for the organization to respond
--   _Governance Backlog_ – Keeping a prioritized list of all impediments and opportunities that require a governance decision to be made, keeps outstanding issues visible and clarifies what is most important to respond to first.
--   _Navigate via Tension_ – When everyone in the organization pays attention for situations that appear different to what is expected or desired, and brings that information to the attention of those responsible, you maximize the organization's potential for identifying impediments and opportunities.
--   _Respond to Organizational Driver_ – Responding only to challenges and opportunities that are valuable for the organization,  maximizes return on investment of  limited time, energy and resources.
+-   _Describe Organizational Drivers_ – Before acting on a perceived impediment or opportunity, it is essential to understand the current situation and establish that it makes sense for the organization to respond.
+-   _Determine Requirements_ - Agreeing on the general direction and scope of response to an impediment or opportunity first, supports effective decision-making about what specifically to do.
+-   _Governance Backlog_ – Keeping a prioritized list of all impediments and opportunities that require a governance decision to be made keeps outstanding issues visible and clarifies what is most important to respond to first.
+-   _Navigate via Tension_ – When everyone in the organization pays attention for situations that appear different to what is expected or desired, and brings that information to the attention of those responsible, you maximize the organization’s potential for identifying impediments and opportunities.
+-   _Respond to Organizational Drivers_ – Responding only to challenges and opportunities that are valuable for the organization maximizes return on investment of the limited time, energy, and resources you have available.
+
 
 
 #### Principle 5 – Run Experiments
@@ -4149,13 +4166,14 @@ Essential patterns to help you achieve this:
 
 Essential patterns to help you achieve this:
 
--   _Describe Organizational Drivers_ – Building a shared mental model of the situation you want to address, is essential for successfully designing, running and later on, evaluating experiments. 
+-   _Describe Organizational Drivers_ – Building a shared mental model of the situation you want to address is essential for successfully designing, running, and later on evaluating experiments.
+-   _Determine Requirements_ - CClarifying the requirement, including the anticipated impact of fulfilling that requirement, is a prerequisite for designing the experiment, and for determining metrics for success.
 -   _Clarify Intended Outcome_ – A clear description of the intended outcome of an experiment is essential for understanding whether or not an experiment produced the intended result.
 -   _Evaluation Criteria_ – Defining clear criteria for determining success before the start of an experiment, helps to reveal flaws in its design and supports effective evaluation of outcomes. 
--   _Consent Decision-Making_ – An effective group process for viewing a proposition from a diversity of perspectives and testing whether or not an experiment is good enough and safe enough to run.
--   _Evaluate and Evolve Agreements_ – An experiment needs to be regularly reviewed to determine what outcomes it achieves, and as a consequence, potentially adapted or even stopped.
--   _Limit Work in Progress_ – Limit the number of concurrent experiments  to avoid overwhelm and maintain a steady flow of value. 
--   _Create A Pull-System for Organizational Change_ – Inviting and enabling people to run experiments when they discover organizational needs allows for effective and decentralized adaption of the organization. 
+-   _Consent Decision-Making_ – An effective group process for viewing a proposition from a diversity of perspectives, and for testing whether or not an experiment is good enough and safe enough to run.
+-   _Evaluate and Evolve Agreements_ – An experiment needs to be regularly reviewed to determine what outcomes it achieves, and, as a consequence, potentially adapted, or even stopped.
+-   _Limit Work in Progress_ – Limit the number of concurrent experiments to avoid overwhelm and maintain a steady flow of value. 
+-   _Create A Pull-System for Organizational Change_ – Inviting and enabling people to run experiments when they discover organizational requirements supports an effective and decentralized approach to organizational development.
 
 
 ### Two Principles for Structure
@@ -4172,13 +4190,13 @@ Essential patterns to help you achieve this:
 Essential patterns to help you achieve this:
 
 -   _Clarify and Develop Domains_ – When people understand their own areas of responsibility, and those of others too, they know what is expected of them and where they are dependent on others.
--   _Pull-System For Work_ – People being able to pull in new work items when they have capacity, eliminates overload and improves productivity.
--   _Delegate Influence_ – Delegating work, together with authority to make decisions relating to that work, frees people up to create value and removes unnecessary dependencies. 
--   _Role_ – Delegating autonomy to an individual to decide and act within clearly defined constraints, frees individuals up to create value, and enables those who delegate to retain as much influence as necessary. 
--   _Circle_ – Delegating autonomy to a team to organize and govern themselves within clearly defined constraints, frees the team up to create value, and enables those who delegate that authority to retain as much influence as necessary.
+-   _Pull-System For Work_ – People being able to pull in new work items when they have capacity eliminates overload and improves productivity.
+-   _Delegate Influence_ – Delegating work together with authority to make decisions relating to that work frees people up to create value and removes unnecessary dependencies. 
+-   _Role_ – Delegating autonomy to an individual to decide and act within clearly defined constraints frees individuals up to create value, and enables those who delegate to retain as much influence as necessary. 
+-   _Circle_ – Delegating autonomy to a team to organize and govern themselves within clearly defined constraints frees the team up to create value, and enables those who delegate that authority to retain as much influence as necessary.
 -   _Clarify and Develop Strategy_ – A strategy for creating value, developed by the individual or team and agreed upon by all relevant stakeholders, builds trust and supports autonomy.
--   _Development Plan_; Collaborating with relevant stakeholders on developing a plan for how to improve, helps a team or individual in a role develop their skill and competence, and builds trust among all concerned.
--   _Align Flow_ – Moving decision-making close to where value is created, while retaining the influence of the relevant stakeholders, supports the flow of value and eliminates unnecessary dependencies and delays.
+-   _Development Plan_ – Collaborating with relevant stakeholders on developing a plan for how to improve helps a team or individual in a role develop their skill and competence, and builds trust among all concerned.
+-   _Align Flow_ – Moving decision-making close to where value is created while retaining the influence of the relevant stakeholders supports the flow of value, and eliminates unnecessary dependencies and delays.
 
 
 
@@ -4191,13 +4209,14 @@ Essential patterns to help you achieve this:
 
 -   _Navigate via Tension_ – Everyone in the organization paying attention to dependencies maximizes the potential for unmanaged dependencies to be identified and responded to.
 -   _Clarify and Develop Domains_ – When people understand their own areas of responsibility, and those of others too, they also understand where collaboration on dependencies will be necessary.
--   _Visualize Work_ – Visualizing work items and the dependencies between them, makes it easier to manage dependencies in cooperation with the relevant stakeholders. 
--   _Respond to Organizational Drivers_ Understanding why a dependency exists in the first place, and ensuring it is taken care of, is essential for collaborating on managing or resolving dependencies. 
+-   _Visualize Work_ – Visualizing work items and the dependencies between them makes it easier to manage dependencies in cooperation with the relevant stakeholders. 
+-   _Respond to Organizational Drivers_ – Understanding why a dependency exists in the first place, and ensuring it is taken care of, is essential for collaborating on managing or resolving dependencies. 
 -   _Involve Those Affected_ – To address dependencies in an effective way, it often helps to gather the perspectives of all (relevant) stakeholders and involve them in the decision-making process.
 -   _Linking_ – Dependencies between two teams can often be addressed effectively by sending a _Representative_ to the decision-making of the other team, to ensure all relevant perspectives are considered and ownership of decisions is shared.
--   _Delegate Circle_ – Delegating the power to make and evolve agreements for how to deal with specific dependencies between teams, to a circle of representatives, brings together relevant perspectives and generates ownership among stakeholders. 
--   _Align Flow_ – Moving decision-making close to where value is created, brings together the people necessary for making decisions in response to specific dependencies and eliminates unnecessary decision-making bottlenecks.
--   _Create a Pull-System for Organizational Change_ – Inviting and enabling people to make changes to organizational structure, when doing so provides an effective way for dealing with dependencies they share responsibility for, facilitates the ongoing evolution of a coherent and effective organization.
+-   _Delegate Circle_ – When teams depend on each other, they can delegate the power to make and evolve agreements relating to specific dependencies to a circle of _Representatives_, to bring together relevant perspectives and generate ownership among all represented teams.
+-   _Align Flow_ – Moving decision-making close to where value is created brings together the people necessary for making decisions in response to specific dependencies and eliminates unnecessary decision-making bottlenecks.
+-   _Create a Pull-System for Organizational Change_ – Invite and enable the people affected by dependencies to make changes to organizational structure, to address those dependencies and facilitate the ongoing evolution of a coherent and effective organization.
+
 
 
 ### Three Principles for Transformation
@@ -4213,11 +4232,11 @@ Essential patterns to help you achieve this:
 
 Essential patterns to help you achieve this:
 
--   _Navigate via Tension_ – Everyone in the organization paying attention for situations where growing competence and skills may be valuable, focuses the learning effort and facilitates continuous improvement.
--   _Evaluate Meetings_ – A brief evaluation at the end of each meeting or workshop helps people identify their strengths, growing edges and ways to improve their contribution in the future.
--   _Peer Review_ –  A team or person in a role regularly inviting relevant stakeholders for a review of their effectiveness, supports identifying their strengths, growing edges and ways they can improve their contribution in future. 
--   _Development Plan_ –  Collaborating with relevant stakeholders on a plan for how to develop necessary skills and competence, is an effective way of focusing the learning efforts of a person in a role, or for a team.
--   _Peer Feedback_ –  Inviting feedback from peers, supports people in understanding their strengths and growing edges, so that they can invest in learning where helpful.
+-   _Navigate via Tension_ – Everyone in the organization paying attention for situations where growing competence and skills may be valuable focuses the learning effort and facilitates continuous improvement.
+-   _Evaluate Meetings_ – A brief evaluation at the end of each meeting or workshop helps people identify their strengths, growing edges, and ways to improve their contribution in the future.
+-   _Peer Review_ – When teams or people in roles regularly invite relevant stakeholders for a review of their effectiveness, they can learn about their strengths and growing edges, and identify ways they can improve their contribution in the future.
+-   _Development Plan_ – Collaborating with relevant stakeholders on a plan for how to develop necessary skills and competence is an effective way of focusing the learning efforts of a person in a role, or for a team.
+-   _Peer Feedback_ – Inviting feedback from peers supports people in understanding their strengths and growing edges, so that they can invest in learning where helpful.
 
 
 #### Principle 9 – Intentionally Develop Culture
@@ -4227,12 +4246,12 @@ Essential patterns to help you achieve this:
 
 Essential patterns to help you achieve this:
 
--   _Artful Participation_ – Introducing the concept of Artful Participation to people, invites them to pay conscious attention to how they contribute and to make changes when they realize their current approach can be improved.
--   _Adopt the Seven Principles_ – The seven principles provide guidelines for behavior that enable a productive, engaging and cooperative culture.
--   _Agree on Values_ – Agreement on fundamental guidelines for behavior in the organization, define ethical parameters for action and facilitate coherence.
--   _Evaluate and Evolve Agreements_ – Regular review and intentional evolution of agreements relating to culture, helps keep them alive in the consciousness of the people and identify when and how they can be improved.
--   _Contract for Successful Collaboration_ – Co-creating mutually beneficial agreements for collaboration from the start, supports building and maintaining an engaging and productive working environment and a culture of trust between parties.
--   _Create a Pull-System for Organizational Change_ – Distributing the responsibility for developing culture to everybody, invites proactivity in addressing challenges and opportunities as they arise.
+-   _Artful Participation_ – Introducing the concept of Artful Participation to people invites them to pay conscious attention to how they contribute, and to make changes when they realize their current approach can be improved.
+-   _Adopt the Seven Principles_ – The seven principles provide guidelines for behavior that enable a productive, engaging, and cooperative culture.
+-   _Agree on Values_ – Agreement on fundamental guidelines for behavior in the organization defines ethical parameters for action and facilitates coherence.
+-   _Evaluate and Evolve Agreements_ – Regular review and intentional evolution of agreements relating to culture keeps them alive in the consciousness of the people and helps identify when and how these agreements can be improved.
+-   _Contract for Successful Collaboration_ – Co-creating mutually beneficial agreements for collaboration from the start supports building and maintaining an engaging and productive working environment and a culture of trust between parties.
+-   _Create a Pull-System for Organizational Change_ – Distributing the responsibility for developing culture to everybody invites proactivity in addressing challenges and opportunities as they arise.
 
 
 #### Principle 10 – Build Shared Mental Models
@@ -4243,8 +4262,9 @@ Essential patterns to help you achieve this:
 Essential patterns to help you achieve this:
 
 -   _Navigate via Tension_ – Looking out for, and addressing situations that could benefit from building or refining a shared mental model, helps people to get on the same page and supports productive dialogue.
+-   _Determine Requirements_ - Determining what's required to respond appropriately to an organizational driver before deciding what to do helps develop a shared understanding of the direction and scope of a suitable response to the driver.
 -   _Clarify and Develop Domains_ – Explicitly clarifying and documenting areas of  responsibility ensures a shared mental model regarding expectations and responsibilities.
--   _Clarify Intended Outcome_ – By first agreeing on the intended outcome of a proposed activity, project or agreement, people develop shared understanding of where things should be headed and can then engage in productive dialog about how to get there.
+-   _Clarify Intended Outcome_ – By first agreeing on the intended outcome of a proposed activity, project, or agreement, people develop shared understanding of where things should be headed and can then engage in productive dialog about how to get there.
 
 
 ### Where to Start?
@@ -4255,7 +4275,7 @@ Each principle supports a specific outcome. To determine where to start in your 
 
 In the illustration below you can see that some of the principles are more closely related than others, which might further inform you of where to start.
 
-For each principle we included a list of suggestions for things you can try. These suggestions are taken from the [menu of patterns contained in Sociocracy 3.0](http://patterns.sociocracy30.org). For now we only added the most essential patterns that support each principle, in future versions of this framework we will include even more patterns. 
+For each principle we included a list of suggestions for things you can try. These suggestions are taken from the [menu of patterns contained in Sociocracy 3.0](http://patterns.sociocracy30.org). For now, we only added the most essential patterns that support each principle, in future versions of this framework we will include even more patterns. 
 
 
 ## Appendix
@@ -4264,6 +4284,13 @@ For each principle we included a list of suggestions for things you can try. The
 
 
 ### Changelog
+
+#### Changes 2024-04-05
+
+-   More changes relating to Requirements
+    -   updated glossary: revised definitions for <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.">Backlog</a> and <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Governance Backlog: A visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.">Governance Backlog</a>
+    -   Revised _Resolve Objections_, _Backlog_, _Governance Backlog_ and _Governance Meeting_
+    -   revised recommended patterns in the _Common Sense Framework_
 
 #### Changes 2024-02-08
 
@@ -4445,7 +4472,7 @@ For each principle we included a list of suggestions for things you can try. The
 
 #### Changes 2019-05-03
 
--   refined glossary terms for <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreement</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organization: A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.">organization</a> and <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>, added glossary term for <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objective</a>
+-   refined glossary terms for <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreement</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organization: A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.">organization</a> and <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>, added glossary term for <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objective</a>
 -   Principle of Accountability: clarified individual accountability for work as well as for collaboration
 -   _Contract For Successful Collaboration_: revised text
 -   _Describe Deliverables_: added User Stories as an example for describing deliverables
@@ -4473,7 +4500,7 @@ For each principle we included a list of suggestions for things you can try. The
 -   added <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> to glossary (and replaced group with team throughout the practical guide where applicable)
 -   updated definition for <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">deliverable</a>
 -   removed **driver statement** from text and glossary
--   updated definitions for <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a>, <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a>, and <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</a>
+-   updated definitions for <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a>, <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a>, and <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</a>
 
 **Illustrations:**
 
@@ -4678,7 +4705,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.</p></dd>
 
   <dt><a href="backlog.html">Backlog</a></dt>
-  <dd><p>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</p></dd>
+  <dd><p>Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work.</p></dd>
 
   <dt><a href="be-the-change.html">Be The Change</a></dt>
   <dd><p>Lead by example.</p></dd>
@@ -4771,7 +4798,7 @@ For each principle we included a list of suggestions for things you can try. The
   <dd><p>Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).</p></dd>
 
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
-  <dd><p>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</p></dd>
+  <dd><p>Keep a dedicated backlog for items that require a governance decision, so that you can remember them and use the information to plan and organize your governance.</p></dd>
 
   <dt><a href="governance-facilitator.html">Governance Facilitator</a></dt>
   <dd><p>Select someone to facilitate governance meetings.</p></dd>
@@ -5397,19 +5424,19 @@ To find out how you can contribute to the development of S3, go to <https://soci
 
 ### Glossary
 
-**Account for (v.):** to take the responsibility for something.
+**Account for (v.):** to take responsibility for something.
 
 
 **Accountability (principle):** **Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization.
 
 
-**Agreement:** An agreed upon guideline, process, protocol or policy designed to guide the flow of value.
+**Agreement:** An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.
 
 
 **Alignment:** The process of bringing the actions of all parts of an organization in line with the organization's objectives.
 
 
-**Backlog:** A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.
+**Backlog:** A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.
 
 
 **Check-In:** A brief disclosure where you share something about what's up for you and how you are, revealing thoughts, feelings, distractions or needs.
@@ -5472,10 +5499,10 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Flow of Value:** Deliverables traveling through an organization towards customers or other stakeholders.
 
 
-**Governance:** The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.
+**Governance:** The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.
 
 
-**Governance Backlog:** A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.
+**Governance Backlog:** A visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.
 
 
 **Helping Team:** A team of equivalent people with the mandate to execute on a specific set of requirements.
