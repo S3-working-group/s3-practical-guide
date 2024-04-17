@@ -1,3 +1,5 @@
+[:menu-title]: # "Organizational Structure"
+
 # Organizational Structure
 
 Organizational structure is the actual arrangement of [domains](glossary:domain) and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
@@ -20,4 +22,3 @@ Sociocracy 3.0 describes a variety of **structural patterns** to grow organizat
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
 
-{{index:root=organizational-structure,style=summary,only=jekyll}}
