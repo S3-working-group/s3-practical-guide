@@ -4,22 +4,22 @@ parts:
   - ten-principles
   - id: orientation
     parts:
-      - clarify-purpose
-      - develop-strategy
+      - principle-1-clarify-purpose
+      - principle-2-develop-strategy
   - id: navigation
     parts:
-      - focus-on-value
-      - sense-respond
-      - run-experiments
+      - principle-3-focus-on-value
+      - principle-4-sense-respond
+      - principle-5-run-experiments
   - id: structure
     parts:
-      - enable-autonomy
-      - collaborate-on-dependencies
+      - principle-6-enable-autonomy
+      - principle-7-collaborate-on-dependencies
   - id: transformation
     parts:
-      - invest-in-learning
-      - develop-culture
-      - shared-mental-models
+      - principle-8-invest-in-learning
+      - principle-9-develop-culture
+      - principle-10-shared-mental-models
   - where-to-start
   - csf-and-s3
   - 10-principles-one-page

@@ -2,8 +2,8 @@
 title: "Record Agreements"
 next_page_title: "Clarify Intended Outcome"
 next_page_url: "clarify-intended-outcome.html"
-prev_page_title: "Defining Agreements"
-prev_page_url: "defining-agreements.html"
+prev_page_title: "Contract For Successful Collaboration"
+prev_page_url: "contract-for-successful-collaboration.html"
 ---
 
 

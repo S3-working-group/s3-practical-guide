@@ -1,9 +1,9 @@
 ---
 title: "Principle 9 – Intentionally Develop Culture"
 next_page_title: "Principle 10 – Build Shared Mental Models"
-next_page_url: "shared-mental-models.html"
+next_page_url: "principle-10-shared-mental-models.html"
 prev_page_title: "Principle 8 – Invest in Learning"
-prev_page_url: "invest-in-learning.html"
+prev_page_url: "principle-8-invest-in-learning.html"
 ---
 
 

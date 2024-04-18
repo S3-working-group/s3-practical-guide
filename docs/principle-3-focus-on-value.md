@@ -1,7 +1,7 @@
 ---
 title: "Principle 3 – Focus on Value"
 next_page_title: "Principle 4 – Sense & Respond"
-next_page_url: "sense-respond.html"
+next_page_url: "principle-4-sense-respond.html"
 prev_page_title: "Three Principles for Navigation"
 prev_page_url: "navigation.html"
 ---

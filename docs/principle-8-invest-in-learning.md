@@ -1,7 +1,7 @@
 ---
 title: "Principle 8 – Invest in Learning"
 next_page_title: "Principle 9 – Intentionally Develop Culture"
-next_page_url: "develop-culture.html"
+next_page_url: "principle-9-develop-culture.html"
 prev_page_title: "Three Principles for Transformation"
 prev_page_url: "transformation.html"
 ---

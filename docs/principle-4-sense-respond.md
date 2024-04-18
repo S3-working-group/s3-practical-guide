@@ -1,9 +1,9 @@
 ---
 title: "Principle 4 – Sense & Respond"
 next_page_title: "Principle 5 – Run Experiments"
-next_page_url: "run-experiments.html"
+next_page_url: "principle-5-run-experiments.html"
 prev_page_title: "Principle 3 – Focus on Value"
-prev_page_url: "focus-on-value.html"
+prev_page_url: "principle-3-focus-on-value.html"
 ---
 
 

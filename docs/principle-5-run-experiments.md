@@ -3,7 +3,7 @@ title: "Principle 5 – Run Experiments"
 next_page_title: "Two Principles for Structure"
 next_page_url: "structure.html"
 prev_page_title: "Principle 4 – Sense & Respond"
-prev_page_url: "sense-respond.html"
+prev_page_url: "principle-4-sense-respond.html"
 ---
 
 

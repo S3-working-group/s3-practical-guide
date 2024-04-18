@@ -1,9 +1,9 @@
 ---
 title: "Open Systems"
-next_page_title: "Peer Development"
-next_page_url: "peer-development.html"
-prev_page_title: "Driver Mapping"
-prev_page_url: "driver-mapping.html"
+next_page_title: "Create a Pull-System For Organizational Change"
+next_page_url: "create-a-pull-system-for-organizational-change.html"
+prev_page_title: "Align Flow"
+prev_page_url: "align-flow.html"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Principle 1 – Clarify Purpose"
 next_page_title: "Principle 2 – Develop Strategy"
-next_page_url: "develop-strategy.html"
+next_page_url: "principle-2-develop-strategy.html"
 prev_page_title: "Two Principles for Orientation"
 prev_page_url: "orientation.html"
 ---

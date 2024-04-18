@@ -24,7 +24,7 @@ prev_page_url: "patterns.html"
   <dt><a href="consent-decision-making.html">Consent Decision-Making</a></dt>
   <dd><p>A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.</p></dd>
 
-  <dt><a href="test-arguments-qualify-as-objections.html">Test Arguments Qualify as Objections</a></dt>
+  <dt><a href="test-arguments-qualify-as-objections.html">Test If Arguments Qualify as Objections</a></dt>
   <dd><p>Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.</p></dd>
 
   <dt><a href="resolve-objections.html">Resolve Objections</a></dt>

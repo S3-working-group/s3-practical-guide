@@ -2,8 +2,8 @@
 title: "Delegate Circle"
 next_page_title: "Service Circle"
 next_page_url: "service-circle.html"
-prev_page_title: "Organizational Structure"
-prev_page_url: "organizational-structure.html"
+prev_page_title: "Representative"
+prev_page_url: "representative.html"
 ---
 
 

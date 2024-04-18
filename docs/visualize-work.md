@@ -1,7 +1,7 @@
 ---
 title: "Visualize Work"
-next_page_title: "Pull-System For Work"
-next_page_url: "pull-system-for-work.html"
+next_page_title: "Deliver Value Incrementally"
+next_page_url: "deliver-value-incrementally.html"
 prev_page_title: "Prioritize Backlogs"
 prev_page_url: "prioritize-backlogs.html"
 ---

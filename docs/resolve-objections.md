@@ -2,7 +2,7 @@
 title: "Resolve Objections"
 next_page_title: "Evaluate And Evolve Agreements"
 next_page_url: "evaluate-and-evolve-agreements.html"
-prev_page_title: "Test Arguments Qualify as Objections"
+prev_page_title: "Test If Arguments Qualify as Objections"
 prev_page_url: "test-arguments-qualify-as-objections.html"
 ---
 

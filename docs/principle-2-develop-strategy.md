@@ -3,7 +3,7 @@ title: "Principle 2 – Develop Strategy"
 next_page_title: "Three Principles for Navigation"
 next_page_url: "navigation.html"
 prev_page_title: "Principle 1 – Clarify Purpose"
-prev_page_url: "clarify-purpose.html"
+prev_page_url: "principle-1-clarify-purpose.html"
 ---
 
 

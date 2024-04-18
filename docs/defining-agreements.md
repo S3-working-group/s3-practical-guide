@@ -1,7 +1,7 @@
 ---
 title: "Defining Agreements"
-next_page_title: "Record Agreements"
-next_page_url: "record-agreements.html"
+next_page_title: "Contract For Successful Collaboration"
+next_page_url: "contract-for-successful-collaboration.html"
 prev_page_title: "Continuous Improvement Of Work Process"
 prev_page_url: "continuous-improvement-of-work-process.html"
 ---
@@ -15,6 +15,9 @@ S3 promotes a hypothesis-driven approach to decision-making.
 ![The Life-Cycle of an Agreement](img/evolution/agreement-lifecycle-long.png)
 
 <dl>
+
+  <dt><a href="contract-for-successful-collaboration.html">Contract For Successful Collaboration</a></dt>
+  <dd><p>Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.</p></dd>
 
   <dt><a href="record-agreements.html">Record Agreements</a></dt>
   <dd><p>Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.</p></dd>

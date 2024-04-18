@@ -3,7 +3,7 @@ title: "Principle 10 – Build Shared Mental Models"
 next_page_title: "Where to Start?"
 next_page_url: "where-to-start.html"
 prev_page_title: "Principle 9 – Intentionally Develop Culture"
-prev_page_url: "develop-culture.html"
+prev_page_url: "principle-9-develop-culture.html"
 ---
 
 
