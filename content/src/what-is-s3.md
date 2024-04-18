@@ -6,7 +6,7 @@ Sociocracy 3.0 — a.k.a. "S3" — is [social technology](glossary:social-techn
 
 Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
-Since its launch in 2015, S3 patterns have been helping people across a diverse range of organizational contexts to get the best out of collaboration. From start-ups to small and medium businesses, large international organizations, investor-funded and nonprofit organizations, families and communities.
+Since its launch in 2015, S3 patterns have been helping people across a diverse range of organizational contexts to get the best out of collaboration: from start-ups to small and medium businesses, large international organizations, investor-funded and nonprofit organizations, families and communities.
 
 Using S3 can **help you to achieve your objectives** and successfully navigate complexity. You can make changes one step at a time, **without the need for sudden radical reorganization** or planning a long-term change initiative:
 
