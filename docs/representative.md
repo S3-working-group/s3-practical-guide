@@ -1,7 +1,7 @@
 ---
 title: "Representative"
-next_page_title: "Open Team"
-next_page_url: "open-team.html"
+next_page_title: "Delegate Circle"
+next_page_url: "delegate-circle.html"
 prev_page_title: "Double Linking"
 prev_page_url: "double-linking.html"
 ---
@@ -17,4 +17,4 @@ Representatives (a.k.a. links):
 -   participate in the **governance decision-making** of the team they link with, and can:
     -   raise items for the agenda
     -   participate in forming proposals
-    -   raise <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objections</a> to proposals and existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
+    -   raise <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objections</a> to proposals and existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>

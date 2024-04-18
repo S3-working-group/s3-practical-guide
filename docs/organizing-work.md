@@ -10,13 +10,16 @@ prev_page_url: "governance-backlog.html"
 <dl>
 
   <dt><a href="backlog.html">Backlog</a></dt>
-  <dd><p>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</p></dd>
+  <dd><p>Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work.</p></dd>
 
   <dt><a href="prioritize-backlogs.html">Prioritize Backlogs</a></dt>
   <dd><p>Order all uncompleted work items with the most important items first, then pull work items from the top whenever there is new capacity.</p></dd>
 
   <dt><a href="visualize-work.html">Visualize Work</a></dt>
   <dd><p>Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.</p></dd>
+
+  <dt><a href="deliver-value-incrementally.html">Deliver Value Incrementally</a></dt>
+  <dd><p>Slice work in a way that allows for delivering value fast and frequently, to validate assumptions quickly, align with customer needs, and respond promptly to changing priorities.</p></dd>
 
   <dt><a href="pull-system-for-work.html">Pull-System For Work</a></dt>
   <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them).</p></dd>

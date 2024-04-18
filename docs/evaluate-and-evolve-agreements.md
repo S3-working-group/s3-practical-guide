@@ -15,7 +15,7 @@ Regular review of agreements is an essential practice for a learning organizatio
 -   adapt agreements to suit changing context
 -   integrate learning to make them more effective
 
-Ensure all <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> have an appropriate review date.
+Ensure all <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> have an appropriate review date.
 
 Evaluating agreements can be as simple as checking that an agreement is still relevant, and there is no objection to keeping it as it is.
 

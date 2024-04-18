@@ -2,15 +2,15 @@
 title: "Record Agreements"
 next_page_title: "Clarify Intended Outcome"
 next_page_url: "clarify-intended-outcome.html"
-prev_page_title: "Defining Agreements"
-prev_page_url: "defining-agreements.html"
+prev_page_title: "Contract For Successful Collaboration"
+prev_page_url: "contract-for-successful-collaboration.html"
 ---
 
 
 <div class="card summary"><div class="card-body">Record the details of agreements you make, so you can recall them later, evaluate the outcome and evolve the agreement over time.
 </div></div>
 
-_An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
+_An **agreement** is an agreed-upon guideline, process, protocol or policy designed to guide the flow of value._
 
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are also treated as agreements.
 

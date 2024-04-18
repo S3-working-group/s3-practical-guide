@@ -10,7 +10,7 @@ prev_page_url: "meeting-host.html"
 <div class="card summary"><div class="card-body">Select someone to facilitate governance meetings.
 </div></div>
 
-A <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a> facilitator:
+A <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> facilitator:
 
 -   ensures [governance meetings](governance-meeting.html) stay on track and are evaluated
 -   is (usually) selected by a <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> from among it members (and for a specific term)

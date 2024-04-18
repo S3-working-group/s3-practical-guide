@@ -29,6 +29,13 @@ serve-site:
 	# release the port if something went wrong:
 	# ps aux |grep jekyll |awk '{print $2}' | xargs kill -9
 
+serve-lan:
+	open http://192.168.1.51:4000/
+	# serve jekyll site
+	cd docs;jekyll serve s -H 192.168.1.51
+	# release the port if something went wrong:
+	# ps aux |grep jekyll |awk '{print $2}' | xargs kill -9
+
 debug:
 	# build with debug output (for quickly testing changes to structure.yaml or project.yaml)
 	mdbuild all-in-one-jekyll-page $(PROJECT) -vvvv

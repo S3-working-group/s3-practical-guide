@@ -1,6 +1,6 @@
 ---
 title: "Consent Decision-Making"
-next_page_title: "Test Arguments Qualify as Objections"
+next_page_title: "Test If Arguments Qualify as Objections"
 next_page_url: "test-arguments-qualify-as-objections.html"
 prev_page_title: "Determine Requirements"
 prev_page_url: "determine-requirements.html"
@@ -16,7 +16,7 @@ Consent invites people to (at least) be reasonable and open to opportunities for
 
 _An **objection** is an argument – relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve._
 
-Proposals become <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
+Proposals become <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a> when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
 
 Withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 

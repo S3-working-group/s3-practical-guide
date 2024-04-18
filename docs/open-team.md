@@ -2,8 +2,8 @@
 title: "Open Team"
 next_page_title: "Helping Team"
 next_page_url: "helping-team.html"
-prev_page_title: "Representative"
-prev_page_url: "representative.html"
+prev_page_title: "Service Circle"
+prev_page_url: "service-circle.html"
 ---
 
 
@@ -16,7 +16,7 @@ The <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle
 
 - the <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</a>, key responsibilities and constraints of the open team's domain
 - who is invited to contribute (the members of the open team)
-- constraints relating to the delegator's participation in the open team's <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a>
+- constraints relating to the delegator's participation in the open team's <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a>
 
 Depending on the constraints set by the delegator, contributors may only <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">organize and do work</a>, or take part in governance as well.
 

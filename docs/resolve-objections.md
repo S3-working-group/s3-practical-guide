@@ -2,7 +2,7 @@
 title: "Resolve Objections"
 next_page_title: "Evaluate And Evolve Agreements"
 next_page_url: "evaluate-and-evolve-agreements.html"
-prev_page_title: "Test Arguments Qualify as Objections"
+prev_page_title: "Test If Arguments Qualify as Objections"
 prev_page_url: "test-arguments-qualify-as-objections.html"
 ---
 
@@ -18,14 +18,14 @@ Objections are resolved by amending the proposal. **Amendments** can include:
 
 - adding, removing and/or changing something in the proposal.
 - deferring resolution of a particular objection until later. (Remember to clarify who will take responsibility for this, by when, and what will happen after that).
-- an alternative proposal, or an agreement to (co-)create a new proposal in future (if it's considered more effective than continuing to work on developing the existing proposal).
+- an alternative proposal, or an agreement to (co-)create a new proposal in the future (if it's considered more effective than continuing to work on developing the existing proposal).
 - delegating the task to review, research, and/or propose an amendment for one, or even several related objections, to an individual or group.
 - leaving the main proposal unchanged and monitoring the outcome because the effort, or cost of changing things to resolve the objection, outweighs the anticipated benefits or gain.
 - asking a delegator for feedback or input (e.g. when agreeing on a strategy for a subdomain).
 - take some more time for reflection and then come back to the objection again later.
 - etc.
 
-There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>, reaching agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations. 
+There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> or fulfill the corresponding <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a> reaching an agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations. 
 
 Objections can be resolved by following the process outlined in [Reasoned Decision-Making](reasoned-decision-making.html):
 
@@ -33,7 +33,7 @@ Objections can be resolved by following the process outlined in [Reasoned Decisi
 
 **Step 2:** Understand the proposed amendment 
 
-**Step 3:** Check if there are any possible objections to the proposed amendment , e.g. by using hand signs. The possible objections themselves are presented in Step 4. 
+**Step 3:** Check if there are any possible objections to the proposed amendment, e.g. by using hand signs. The possible objections themselves are presented in Step 4. 
 
 If there are no possible objections, proceed to step 6 (Celebrate), otherwise take one possible objection at a time, and:
 
@@ -48,7 +48,7 @@ If there are no possible objections, proceed to step 6 (Celebrate), otherwise ta
 Below you'll find more guidance on how to go through each step. This process can be repeated until all objections have been resolved. As with all patterns in S3, your approach to resolving objections can be adjusted to suit your context. 
 
 
-## Step 1: Come up with proposal for an amendment
+## Step 1: Come up with a proposal for an amendment
 
 *Come up with a suggestion for how to amend the proposal to resolve the objection based on information the objection reveals.* 
 
@@ -56,7 +56,7 @@ There are many ways to come up with an amendment. Below are some typical options
 
 1. Ask the person raising the objection: "*Do you have a suggestion for how to amend this proposal to resolve this objection?*"
 2. Ask the group "*Does anyone have a suggestion for how to amend this proposal to resolve this objection?*" and choose one person to present their suggestion.
-3. In case it's difficult to immediately come up with an amendment, invite a timeboxed dialogue to share ideas, with the purpose of coming up with an amendment from there.
+3. In case it's difficult to immediately come up with an amendment, invite a time-boxed dialogue to share ideas, with the purpose of coming up with an amendment from there.
 
 As with any proposal, an amendment suggestion gives you a starting point that can then be refined through inviting and resolving objections. (see Step 4:Test One Argument Qualifies as Objection)
 

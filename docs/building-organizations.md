@@ -24,6 +24,12 @@ prev_page_url: "bylaws.html"
   <dt><a href="representative.html">Representative</a></dt>
   <dd><p>Select a team member to participate in the governance decision-making of another team to enable the flow of information and influence.</p></dd>
 
+  <dt><a href="delegate-circle.html">Delegate Circle</a></dt>
+  <dd><p>Delegate making governance decisions affecting multiple domains to representatives selected by those domains.</p></dd>
+
+  <dt><a href="service-circle.html">Service Circle</a></dt>
+  <dd><p>Outsource services required by two or more domains.</p></dd>
+
   <dt><a href="open-team.html">Open Team</a></dt>
   <dd><p>Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.</p></dd>
 

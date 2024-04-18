@@ -31,5 +31,5 @@ prev_page_url: "coordination-meeting.html"
   <dd><p>Select someone to facilitate governance meetings.</p></dd>
 
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
-  <dd><p>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</p></dd>
+  <dd><p>Keep a dedicated backlog for items that require a governance decision, so that you can remember them and use the information to plan and organize your governance.</p></dd>
 </dl>

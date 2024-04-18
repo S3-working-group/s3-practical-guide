@@ -1,38 +1,79 @@
 # Changelog
 
+## Changes 2024-04-18
+
+
+**General Changes**
+
+-   Created a separate chapter for Organizational Structure,
+    -   added [Peach Organization](section:peach-organization), [Service Organization](section:service-organization), [Fractal Organization](section:fractal-organzitiona) and [Double-Linked Hierarchy](section:double-linked-hierarchy) as examples of larger structures.
+    -   moved [Delegate Circle](section:delegate-circle) and [Service Circle](section:service-circle) into [Building Organizations](section:building-organizations)
+-   updated the [S3 Organization Canvas](https://s3canvas.sociocracy30.org/s3-organization-canvas.html)
+
+**Glossary**
+
+-   removed "need" from glossary
+
+**Renamed Patterns:**
+
+-   renamed _Transparent Salary_ to [Open Salary](section:open-salary)
+
+**Added Patterns:** (all with a brief summary only for now)
+
+-   [Collaborate on Dependencies](section:collaborate-on-dependencies)
+-   [Deliver Value Incrementally](section:deliver-value-incrementally)
+-   [Design Adaptable Systems](section:design-adaptable-systems)
+-   [Enable Autonomy](section:enable-autonomy)
+-   [Financial Transparency](section:financial-transparency)
+-   [Invest in Ongoing Learning](section:invest-in-ongoing-learning)
+-   [Manage the Whole System](section:manage-the-whole-system)
+-   [Share Gains and Costs](section:share-gains-and-costs)
+
+**Removed Patterns:**
+
+-   removed _Delegate Influence_
+
+
+## Changes 2024-04-05
+
+-   More changes relating to Requirements
+    -   updated glossary: revised definitions for [Backlog](glossary:backlog) and [Governance Backlog](glossary:governance-backlog)
+    -   Revised [Resolve Objections](section:resolve-objections), [Backlog](section:backlog), [Governance Backlog](section:governance-backlog) and [Governance Meeting](section:governance-meeting)
+    -   revised recommended patterns in the [Common Sense Framework](section:csf)
+
 ## Changes 2024-02-08
 
 -   introduced _Requirement_ as a core concept distinct from the _Driver_:
     -   added an explanation of _Requirement_ to [Drivers and Requirements](section:drivers-and-requirements)
     -   added new pattern [Determine Requirements](section:determine-requirements)
     -   updated [Respond to Organizational Drivers](section:respond-to-organizational-drivers)
-    -   updated [Describe Organizational Drivers](section:describe-organizational-drivers): 
+    -   updated [Describe Organizational Drivers](section:describe-organizational-drivers):
     -   updated [Navigate via Tension](section:navigate-via-tension)
     -   revised [Proposal Forming](section:proposal-forming), [Consent Decision Making](section:consent-decision-making) and [Driver Mapping](section:driver-mapping)
--   extended [Clarify and Develop Domains](section:clarify-and-develop-domains) to include a detailed description and  examples for each aspect of a domain description
+-   extended [Clarify and Develop Domains](section:clarify-and-develop-domains) to include a detailed description and examples for each aspect of a domain description
 -   added an [example domain description](section:example-domain-description) to the appendix
 -   added a detailed descripton for each step to [Proposal Forming](section:proposal-forming)
 -   revised [The Principle of Consent](section:principle-consent) and description of [Objection](section:objection)
 -  updated glossary:
-    -  revised definitions for [Domain](glossary:domain), [Deliverable](glossary:deliverable), [Organizational Driver](glossary:organizational-driver), [Objection](glossary:objection) and [Concern](glossary:concern) 
+    -  revised definitions for [Domain](glossary:domain), [Deliverable](glossary:deliverable), [Organizational Driver](glossary:organizational-driver), [Objection](glossary:objection) and [Concern](glossary:concern)
     -  added new definitions for [Requirement](glossary:requirement), [Standard Constraint](glossary:standard-constraint), [Overall Domain](glossary:overall-domain)
 
 
 ## Changes 2022-04-26
 
--   added detailed description and new illustrations to [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)   
+-   added detailed description and new illustrations to [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)
 
 
 ## Changes 2022-04-05
 
--   added detailed description and new illustrations to [Resolve Objections](section:resolve-objections)   
+-   added detailed description and new illustrations to [Resolve Objections](section:resolve-objections)
 
 
 ## Changes 2022-02-04
 
 -   added detailed description of the [Consent Decision-Making](section:consent-decision-making) process
 -   revised text of [Reasoned Decision-Making](section:reasoned-decision-making)
--   updated 20 illustration to align with style of new illustration for Consent Decision-Making 
+-   updated 20 illustration to align with style of new illustration for Consent Decision-Making
 
 
 ## Changes 2022-01-27
@@ -52,7 +93,7 @@
 ## Changes 2021-09-22
 
 -   fixed a link on the pattern map and added links to the principles
--   fixed some typos, minor revisions to the text 
+-   fixed some typos, minor revisions to the text
 
 
 ## Changes 2021-09-03
@@ -79,7 +120,7 @@
 ## Changes 2021-05-15
 
 -   [Navigate via Tension](section:navigate-via-tension): added more explanation about passing on drivers to another domain
--   [Clarify and Develop Domains](section:clarify-and-develop-domains): more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
+-   [Clarify and Develop Domains](section:clarify-and-develop-domains): more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration,
 
 
 ## Changes 2021-03-15
@@ -115,7 +156,7 @@
     -   [The Patterns](section:patterns)
     -   [The Common Sense Framework](section:csf)
     -   [Appendix](section:appendix)
--   Redesigned the website for better usability: 
+-   Redesigned the website for better usability:
     -   A new responsive menu that provides direct access to all patterns and other sections of the guide
     -   A new homepage that explains what is where
     -   A new layout for a cleaner experience on desktop and mobile devices
@@ -133,11 +174,11 @@
 -   added glossary entry for "metric"
 -   revised glossary entry for "governance"
 -   [Describe Organizational Drivers](section:describe-organizational-drivers): revised text
--   Introduction: 
+-   Introduction:
     -   added more details to the section about Domains and delegation
-    -   removed illustration in the section about patterns and listed the pattern groups in the text 
--   Appendix: 
-    -   added a disclaimer 
+    -   removed illustration in the section about patterns and listed the pattern groups in the text
+-   Appendix:
+    -   added a disclaimer
     -   added more information about the authors
 
 
@@ -189,7 +230,7 @@
 -   _Objection_: refined definition of objection and concern, added illustration for a process to qualify an objection
 -   [Proposal Forming](section:proposal-forming): added missing process illustration
 -   [Role Selection](section:role-selection): small amendment to illustration
--   [Transparent Salary](section:transparent-salary): explained what a salary formula is
+-   [Transparent Salary](section:open-salary): explained what a salary formula is
 
 
 ## Changes 2019-03-08
@@ -287,7 +328,7 @@
 -   [Role](section:role): improved description
 -   [Role Selection](section:role-selection): improved description, added description of each step
 -   [Rounds](section:rounds): improved description
--   [Transparent Salary](section:transparent-salary): added more details about fairness, and on how to develop a salary formula
+-   [Transparent Salary](section:open-salary): added more details about fairness, and on how to develop a salary formula
 
 **Renamed Patterns:**
 
@@ -296,7 +337,7 @@
 -   _Open S3 Adoption_ to _Open Space for Change_
 -   _Contracting and Accountability_ to _Contract For Successful Collaboration_
 
-**Added Patterns:**
+**Added New Patterns:**
 
 -   [Check In](section:check-in)
 -   [Co-create Proposals](section:co-create-proposals)

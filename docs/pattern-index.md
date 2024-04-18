@@ -28,7 +28,7 @@ prev_page_url: "changelog.html"
   <dd><p>A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.</p></dd>
 
   <dt><a href="backlog.html">Backlog</a></dt>
-  <dd><p>A <strong>backlog</strong> (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed.</p></dd>
+  <dd><p>Keep an up-to-date list of things you need to address, so that you can remember them, and use that information to plan and organize your work.</p></dd>
 
   <dt><a href="be-the-change.html">Be The Change</a></dt>
   <dd><p>Lead by example.</p></dd>
@@ -57,6 +57,9 @@ prev_page_url: "changelog.html"
   <dt><a href="co-create-proposals.html">Co-Create Proposals</a></dt>
   <dd><p>Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.</p></dd>
 
+  <dt><a href="collaborate-on-dependencies.html">Collaborate on Dependencies</a></dt>
+  <dd><p>For each dependency, work with all stakeholders to agree on how to deal with it effectively, and act accordingly.</p></dd>
+
   <dt><a href="consent-decision-making.html">Consent Decision-Making</a></dt>
   <dd><p>A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.</p></dd>
 
@@ -81,14 +84,17 @@ prev_page_url: "changelog.html"
   <dt><a href="delegate-circle.html">Delegate Circle</a></dt>
   <dd><p>Delegate making governance decisions affecting multiple domains to representatives selected by those domains.</p></dd>
 
-  <dt><a href="delegate-influence.html">Delegate Influence</a></dt>
-  <dd><p>Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.</p></dd>
+  <dt><a href="deliver-value-incrementally.html">Deliver Value Incrementally</a></dt>
+  <dd><p>Slice work in a way that allows for delivering value fast and frequently, to validate assumptions quickly, align with customer needs, and respond promptly to changing priorities.</p></dd>
 
   <dt><a href="describe-deliverables.html">Describe Deliverables</a></dt>
   <dd><p>Clearly describe any deliverables related to an agreement to support shared understanding of expectations.</p></dd>
 
   <dt><a href="describe-organizational-drivers.html">Describe Organizational Drivers</a></dt>
   <dd><p>Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.</p></dd>
+
+  <dt><a href="design-adaptable-systems.html">Design Adaptable Systems</a></dt>
+  <dd><p>Develop a coherent set of constraints that enable the organization to easily adapt and grow to meet changing demand, customer requirements and market conditions.</p></dd>
 
   <dt><a href="determine-requirements.html">Determine Requirements</a></dt>
   <dd><p>Determine what's required to respond appropriately to an organizational driver, before making a specific decision about what to do.</p></dd>
@@ -99,11 +105,11 @@ prev_page_url: "changelog.html"
   <dt><a href="double-linking.html">Double Linking</a></dt>
   <dd><p>Enable the <em>two-way</em> flow of information and influence between two teams.</p></dd>
 
-  <dt><a href="double-linked-hierarchy.html">Double-Linked Hierarchy</a></dt>
-  <dd><p>Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.</p></dd>
-
   <dt><a href="driver-mapping.html">Driver Mapping</a></dt>
   <dd><p>A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.</p></dd>
+
+  <dt><a href="enable-autonomy.html">Enable Autonomy</a></dt>
+  <dd><p>Free people up to decide and act for themselves as much as possible, so that they can deliver value fast and respond quickly to changes when necessary.</p></dd>
 
   <dt><a href="evaluate-and-evolve-agreements.html">Evaluate And Evolve Agreements</a></dt>
   <dd><p>Continuously evolve the body of agreements, and eliminate waste.</p></dd>
@@ -117,11 +123,11 @@ prev_page_url: "changelog.html"
   <dt><a href="facilitate-meetings.html">Facilitate Meetings</a></dt>
   <dd><p>Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track and draw out the participant's creativity and wisdom.</p></dd>
 
-  <dt><a href="fractal-organization.html">Fractal Organization</a></dt>
-  <dd><p>Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).</p></dd>
+  <dt><a href="financial-transparency.html">Financial Transparency</a></dt>
+  <dd><p>Share relevant information about financial performance with the organization’s members, to build trust and accountability and support them to make informed decisions regarding their work.</p></dd>
 
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
-  <dd><p>A <strong>governance backlog</strong> is a visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</p></dd>
+  <dd><p>Keep a dedicated backlog for items that require a governance decision, so that you can remember them and use the information to plan and organize your governance.</p></dd>
 
   <dt><a href="governance-facilitator.html">Governance Facilitator</a></dt>
   <dd><p>Select someone to facilitate governance meetings.</p></dd>
@@ -131,6 +137,9 @@ prev_page_url: "changelog.html"
 
   <dt><a href="helping-team.html">Helping Team</a></dt>
   <dd><p>Bring together a team of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.</p></dd>
+
+  <dt><a href="invest-in-ongoing-learning.html">Invest in Ongoing Learning</a></dt>
+  <dd><p>Make continuous learning an integral part of people’s responsibilities and work, so that they ongoingly develop their capacity to contribute effectively toward the purpose of the organization.</p></dd>
 
   <dt><a href="invite-change.html">Invite Change</a></dt>
   <dd><p>Clarify the reason for change and invite people to participate.</p></dd>
@@ -150,11 +159,17 @@ prev_page_url: "changelog.html"
   <dt><a href="logbook-keeper.html">Logbook Keeper</a></dt>
   <dd><p>Select a member of your team to be specifically accountable for keeping up to date records of all information the team requires.</p></dd>
 
+  <dt><a href="manage-the-whole-system.html">Manage the Whole System</a></dt>
+  <dd><p>Ensure that the effectiveness and integrity of the whole organization is monitored and maintained, so that the organization is able to ongoingly and adequately fulfill its purpose.</p></dd>
+
   <dt><a href="meeting-host.html">Meeting Host</a></dt>
   <dd><p>Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.</p></dd>
 
   <dt><a href="navigate-via-tension.html">Navigate via Tension</a></dt>
   <dd><p>Pay attention to tension you experience in relation to the organization, investigate the cause and pass on information about any organizational drivers you discover to the people accountable for the appropriate domain.</p></dd>
+
+  <dt><a href="open-salary.html">Open Salary</a></dt>
+  <dd><p>Create a fair salary formula and make it transparent.</p></dd>
 
   <dt><a href="open-space-for-change.html">Open Space For Change</a></dt>
   <dd><p>Invite everyone to create and run experiments for evolving the organization.</p></dd>
@@ -164,9 +179,6 @@ prev_page_url: "changelog.html"
 
   <dt><a href="open-team.html">Open Team</a></dt>
   <dd><p>Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.</p></dd>
-
-  <dt><a href="peach-organization.html">Peach Organization</a></dt>
-  <dd><p>Deliver value in complex and competitive environments through <em>decentralization</em> (of resources and influence) and <em>direct interaction</em> between those creating value and the customers they serve.</p></dd>
 
   <dt><a href="peer-feedback.html">Peer Feedback</a></dt>
   <dd><p>Invite any member of your organization to give you some constructive feedback on your performance in a role or in a team, about your general participation and contribution, or about any other area you wish to develop.</p></dd>
@@ -219,20 +231,17 @@ prev_page_url: "changelog.html"
   <dt><a href="service-circle.html">Service Circle</a></dt>
   <dd><p>Outsource services required by two or more domains.</p></dd>
 
-  <dt><a href="service-organization.html">Service Organization</a></dt>
-  <dd><p>Multi-stakeholder collaboration and alignment towards a shared driver (or objective).</p></dd>
+  <dt><a href="share-costs-and-gains.html">Share Costs and Gains</a></dt>
+  <dd><p>Ensure that people have a direct relationship to the costs and gains resulting from their work, so that they are incentivised to give their best, work effectively and minimize waste.</p></dd>
 
   <dt><a href="support-role.html">Support Role</a></dt>
   <dd><p>Apply the role pattern to external contractors.</p></dd>
 
-  <dt><a href="test-arguments-qualify-as-objections.html">Test Arguments Qualify as Objections</a></dt>
+  <dt><a href="test-arguments-qualify-as-objections.html">Test If Arguments Qualify as Objections</a></dt>
   <dd><p>Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.</p></dd>
 
   <dt><a href="timebox-activities.html">Timebox Activities</a></dt>
   <dd><p>Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.</p></dd>
-
-  <dt><a href="transparent-salary.html">Transparent Salary</a></dt>
-  <dd><p>Create a fair salary formula and make it transparent.</p></dd>
 
   <dt><a href="visualize-work.html">Visualize Work</a></dt>
   <dd><p>Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.</p></dd>

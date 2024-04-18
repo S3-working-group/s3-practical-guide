@@ -7,7 +7,7 @@ prev_page_url: "objection.html"
 ---
 
 
-_An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
+_An **agreement** is an agreed-upon guideline, process, protocol or policy designed to guide the flow of value._
 
 Shared guidelines about why, how and when to act, and what is specifically required, enable effective collaboration.
 

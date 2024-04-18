@@ -1,7 +1,7 @@
 ---
 title: "Involve Those Affected"
-next_page_title: "Breaking Agreements"
-next_page_url: "breaking-agreements.html"
+next_page_title: "Invest in Ongoing Learning"
+next_page_url: "invest-in-ongoing-learning.html"
 prev_page_title: "Agree On Values"
 prev_page_url: "agree-on-values.html"
 ---

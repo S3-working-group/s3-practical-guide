@@ -1,4 +1,4 @@
-# Test Arguments Qualify as Objections
+# Test If Arguments Qualify as Objections
 
 <summary>
 Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.
