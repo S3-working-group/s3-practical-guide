@@ -15,10 +15,9 @@ The basic building blocks for organizational structure are interdependent, conne
 
 Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex adaptive system, or network, where multiple functional structures can co-exist).
 
-Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
+Sociocracy 3.0 describes a variety of [**structural patterns**](section:building-organizations) to grow organizational structure.
 
 -   S3's structural patterns apply to different layers of abstraction
--   different structural patterns serve different [drivers](glossary:organizational-driver)
+-   different structural patterns fulfill different [requirements](glossary:requirement)
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
-
