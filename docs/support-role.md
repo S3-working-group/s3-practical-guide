@@ -2,8 +2,8 @@
 title: "Support Role"
 next_page_title: "Bylaws"
 next_page_url: "bylaws.html"
-prev_page_title: "Contract For Successful Collaboration"
-prev_page_url: "contract-for-successful-collaboration.html"
+prev_page_title: "Open Salary"
+prev_page_url: "open-salary.html"
 ---
 
 

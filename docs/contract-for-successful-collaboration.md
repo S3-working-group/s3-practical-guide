@@ -1,9 +1,9 @@
 ---
 title: "Contract For Successful Collaboration"
-next_page_title: "Support Role"
-next_page_url: "support-role.html"
-prev_page_title: "Transparent Salary"
-prev_page_url: "transparent-salary.html"
+next_page_title: "Record Agreements"
+next_page_url: "record-agreements.html"
+prev_page_title: "Defining Agreements"
+prev_page_url: "defining-agreements.html"
 ---
 
 

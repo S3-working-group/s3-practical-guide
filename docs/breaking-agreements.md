@@ -1,9 +1,9 @@
 ---
 title: "Breaking Agreements"
-next_page_title: "Transparent Salary"
-next_page_url: "transparent-salary.html"
-prev_page_title: "Involve Those Affected"
-prev_page_url: "involve-those-affected.html"
+next_page_title: "Financial Transparency"
+next_page_url: "financial-transparency.html"
+prev_page_title: "Invest in Ongoing Learning"
+prev_page_url: "invest-in-ongoing-learning.html"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Service Circle"
-next_page_title: "Peach Organization"
-next_page_url: "peach-organization.html"
+next_page_title: "Open Team"
+next_page_url: "open-team.html"
 prev_page_title: "Delegate Circle"
 prev_page_url: "delegate-circle.html"
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Clarify and Develop Strategy"
-next_page_title: "Align Flow"
-next_page_url: "align-flow.html"
-prev_page_title: "Delegate Influence"
-prev_page_url: "delegate-influence.html"
+next_page_title: "Design Adaptable Systems"
+next_page_url: "design-adaptable-systems.html"
+prev_page_title: "Collaborate on Dependencies"
+prev_page_url: "collaborate-on-dependencies.html"
 ---
 
 

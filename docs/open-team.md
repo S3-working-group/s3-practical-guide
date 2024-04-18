@@ -2,8 +2,8 @@
 title: "Open Team"
 next_page_title: "Helping Team"
 next_page_url: "helping-team.html"
-prev_page_title: "Representative"
-prev_page_url: "representative.html"
+prev_page_title: "Service Circle"
+prev_page_url: "service-circle.html"
 ---
 
 

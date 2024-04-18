@@ -1,6 +1,6 @@
 ---
 title: "Consent Decision-Making"
-next_page_title: "Test Arguments Qualify as Objections"
+next_page_title: "Test If Arguments Qualify as Objections"
 next_page_url: "test-arguments-qualify-as-objections.html"
 prev_page_title: "Determine Requirements"
 prev_page_url: "determine-requirements.html"

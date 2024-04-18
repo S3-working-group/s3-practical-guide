@@ -2,8 +2,8 @@
 title: "Peach Organization"
 next_page_title: "Double-Linked Hierarchy"
 next_page_url: "double-linked-hierarchy.html"
-prev_page_title: "Service Circle"
-prev_page_url: "service-circle.html"
+prev_page_title: "Examples of Larger Structures"
+prev_page_url: "examples-of-larger-structures.html"
 ---
 
 

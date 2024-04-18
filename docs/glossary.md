@@ -136,10 +136,6 @@ prev_page_url: "authors.html"
 <dd>A quantifiable measure used to track and assess progress, evaluate outcomes and determine success</dd>
 
 
-<dt id="entry-need">Need</dt>
-<dd>The lack of something wanted or deemed necessary (a requirement).</dd>
-
-
 <dt id="entry-objection">Objection</dt>
 <dd>An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.</dd>
 

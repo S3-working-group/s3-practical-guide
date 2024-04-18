@@ -2,8 +2,8 @@
 title: "Create a Pull-System For Organizational Change"
 next_page_title: "Driver Mapping"
 next_page_url: "driver-mapping.html"
-prev_page_title: "Align Flow"
-prev_page_url: "align-flow.html"
+prev_page_title: "Open Systems"
+prev_page_url: "open-systems.html"
 ---
 
 

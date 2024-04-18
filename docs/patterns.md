@@ -29,5 +29,4 @@ In this guide, the patterns are grouped by topic into eleven categories to help 
 - [Meeting Formats](meeting-formats.html)
 - [Meeting Practices](meeting-practices.html)
 - [Organizing Work](organizing-work.html)
-- [Organizational Structure](organizational-structure.html)
 

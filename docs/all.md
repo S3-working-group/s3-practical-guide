@@ -793,7 +793,6 @@ In this guide, the patterns are grouped by topic into eleven categories to help 
 - [Meeting Formats](meeting-formats.html)
 - [Meeting Practices](meeting-practices.html)
 - [Organizing Work](organizing-work.html)
-- [Organizational Structure](organizational-structure.html)
 
 
 
@@ -1320,7 +1319,7 @@ If you are new to using Consent Decision-Making, we recommend you strictly follo
 ¹For example, if there is a general expression of concern voiced during the Brief Response round, the facilitator (or another member of the group) might suggest evolving the proposal on the spot, to include points that people inferred. In this case, always check if there is any objection to doing so, first.
 
 
-#### Test Arguments Qualify as Objections
+#### Test If Arguments Qualify as Objections
 
 <div class="card summary"><div class="card-body">Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.
 </div></div>
@@ -2541,20 +2540,22 @@ When designing a process for evaluation, ensure you consider the following aspec
 
 
 
-#### Delegate Influence
+#### Manage the Whole System
 
-<div class="card summary"><div class="card-body">Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.
+<div class="card summary"><div class="card-body">Ensure that the effectiveness and integrity of the whole organization is monitored and maintained, so that the organization is able to ongoingly and adequately fulfill its purpose.
 </div></div>
 
-A <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> can support <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatees</a> to deliver value by:
 
--   Clearly defining <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> of autonomy and responsibility
--   Ensuring there are opportunities for learning and development
--   Providing support if required
+#### Enable Autonomy
 
-Adjust constraints incrementally, considering capabilities, reliability and outcome.
+<div class="card summary"><div class="card-body">Free people up to decide and act for themselves as much as possible, so that they can deliver value fast and respond quickly to changes when necessary.
+</div></div>
 
-Decentralize as much as possible, and retain as much influence as necessary.
+
+#### Collaborate on Dependencies
+
+<div class="card summary"><div class="card-body">For each dependency, work with all stakeholders to agree on how to deal with it effectively, and act accordingly.
+</div></div>
 
 
 #### Clarify and Develop Strategy
@@ -2577,6 +2578,12 @@ A strategy is a shared agreement between delegator(s) and delegatee(s) that is r
 Strategies are validated and refined through experimentation and learning.
 
 
+#### Design Adaptable Systems
+
+<div class="card summary"><div class="card-body">Develop a coherent set of constraints that enable the organization to easily adapt and grow to meet changing demand, customer requirements and market conditions.
+</div></div>
+
+
 #### Align Flow
 
 <div class="card summary"><div class="card-body">In support of continuous flow of value, move decision-making close to where value is created, and align the flow of information accordingly.
@@ -2591,9 +2598,20 @@ Achieve and maintain alignment of flow through the continuous evolution of an or
 -   make available any helpful information
 -   aim for shorter feedback loops to amplify learning.
 
-When decision-making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is reduced.
+When decision-making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is significantly reduced.
 
 ![Aligning the flow of information to support the flow of value](img/workflow-and-value/align-flow.png)
+
+
+#### Open Systems
+
+<div class="card summary"><div class="card-body">Intentionally communicate with and learn from others outside of your system.
+</div></div>
+
+Individuals, teams and entire organizations can acknowledge interdependence and intentionally invite people from outside their system to bring in **knowledge, experience and influence** to assist with decision-making and support collective learning.
+
+-   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
+-   **Representatives of affected parties** can inform and influence decision-making in ways that benefit overall objectives (see _Involve Those Affected_)
 
 
 #### Create a Pull-System For Organizational Change
@@ -2773,17 +2791,6 @@ _Take a moment to celebrate your achievements in getting your organization or in
 
 
 
-#### Open Systems
-
-<div class="card summary"><div class="card-body">Intentionally communicate with and learn from others outside of your system.
-</div></div>
-
-Individuals, teams and entire organizations can acknowledge interdependence and intentionally invite people from outside their system to bring in **knowledge, experience and influence** to assist with decision-making and support collective learning.
-
--   **External experts** can offer an outside perspective and bring knowledge, understanding and skills
--   **Representatives of affected parties** can inform and influence decision-making in ways that benefit overall objectives (see _Involve Those Affected_)
-
-
 ### Peer Development
 
 
@@ -2960,6 +2967,12 @@ For larger groups:
 Consider including those affected in reviewing and evolving decisions, too.
 
 
+#### Invest in Ongoing Learning
+
+<div class="card summary"><div class="card-body">Make continuous learning an integral part of people’s responsibilities and work, so that they ongoingly develop their capacity to contribute effectively toward the purpose of the organization.
+</div></div>
+
+
 #### Breaking Agreements
 
 <div class="card summary"><div class="card-body">Break agreements when you are certain the benefit for the organization outweighs the cost of waiting to amend that agreement first, and take responsibility for any consequences.
@@ -2974,14 +2987,26 @@ Be accountable:
 -   **change the agreement** instead of repeatedly breaking it
 
 
-#### Transparent Salary
+#### Financial Transparency
+
+<div class="card summary"><div class="card-body">Share relevant information about financial performance with the organization’s members, to build trust and accountability and support them to make informed decisions regarding their work.
+</div></div>
+
+
+#### Share Costs and Gains
+
+<div class="card summary"><div class="card-body">Ensure that people have a direct relationship to the costs and gains resulting from their work, so that they are incentivised to give their best, work effectively and minimize waste.
+</div></div>
+
+
+#### Open Salary
 
 <div class="card summary"><div class="card-body">Create a fair salary formula and make it transparent.
 </div></div>
 
-Transparent salary (also referred to as "open salary") is the practice of determining each employee's compensation according to a set of rules — the _salary formula_ — instead of making compensation subject to individual negotiation between employer and employee. The salary formula — and often individual compensation as well — is transparent to all members of an organization, and sometimes to the public.
+Open salary (also referred to as "transparenty salary") is the practice of determining each employee's compensation according to a set of rules — the _salary formula_ — instead of making compensation subject to individual negotiation between employer and employee. The salary formula — and often individual compensation as well — is transparent to all members of an organization, and sometimes to the public.
 
-A transparent salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
+A open salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
 
 Perception of fairness varies from person to person and according to context, so creating a salary formula requires developing a shared understanding of what is considered fair.
 
@@ -2994,81 +3019,6 @@ When deciding (or agreeing) on a salary formula for an organization or departmen
 Decide how to handle remuneration for changing roles and _develop a strategy_ for how to transition towards new contracts and compensation agreements.
 
 ![Two ways of opening salaries](img/process/opening-salaries.png)
-
-
-#### Contract For Successful Collaboration
-
-<div class="card summary"><div class="card-body">Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.
-</div></div>
-
-A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies.
-
-Developing shared understanding about needs and expectations is essential for successful collaboration.
-
-While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved.
-
-This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). It is especially relevant for contracts that have a significant influence on the future of an organization or one of its partners, such as:
-
-- employment contracts and contracts with external contractors or consultants in _support roles_ (including any agreement that results in a change of remuneration or working hours)
-- contracts governing collaboration with customers, vendors or service providers
-- shareholder agreements
-
-**Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
-
-##### Success criteria for contract negotiation
-
-When negotiating a contract, ensure:
-
-- shared understanding of the reason for the collaboration, as well as the intended outcome and important constraints
-- all parties understand what is expected of them
-- all parties affected by a contract are involved in creating the contract and enter it voluntarily
-- expectations are realistic
-- the agreement is beneficial to all parties
-- everyone intends to keep to the agreement made
-
-If for any reason one or more of these criteria cannot be fulfilled, it is probably wise to not proceed.
-
-##### Co-creating the contract
-
-The way a contract is negotiated can significantly contribute toward building trust between parties. Approach contracting from the point of view of making an agreement between partners, not adversaries: co-create the contract, tailor it to its specific context, and ensure it is legally robust.
-
-- the contract should include all expectations of the parties involved, each explained with adequate detail
-- use clear and simple language that all parties can understand, and be unambiguous about legal consequences
-- if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
-- consult a lawyer who supports the culture you aspire to and is competent in the field of business you are negotiating
-
-##### When Co-Creating a Contract:
-
-- ensure all parties have a delegation that includes representation for all affected <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. not only sales, but also development, production, support etc.)
-- explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
-- state the reasons for the proposed collaboration, and transparent about expectations and needs of all parties
-- disclose all relevant information (if necessary under an NDA)
-- agree first on terms of the relationship and expectations to all parties, and then consider how you can make them legally robust
-- compile a list of specific laws and regulation the contract needs to comply to
-- negotiate in several iterations, allowing time to consider implications and propose amendments
-- keep minutes of each meeting to reduce the potential for misconceptions
-
-##### Support The Full Lifecycle Of The Collaboration:
-
-Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
-
-- make provisions for successfully getting started by defining on-boarding procedures
-- have a probationary period, where all parties can try out the collaboration, and a clear protocol for how each party can terminate the contract during the probationary period
-- define and build into the contract regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
-- include procedures for breach of contract
-- consider making available alternative means for dispute resolution, e.g. mediation, conciliation or arbitration
-- consider limiting the contract to a fixed term after which the contract expires and can be renewed if required
-
-##### Culture
-
-Every contract influences the culture of the collaboration it governs, even when it appears to only describe *what* needs to be delivered:
-
-- intentionally create the culture of collaboration you want to see by including expectations on *how* things should be done
-- align the contract to the organizational culture (of all parties) and to legal requirements
-- build contracts that enable and encourage accountability
-
-If you find that standard contracts in your industry are misaligned with the culture you want to create, build your own repository of templates for contracts and clauses and consider sharing it with others, so that you can leverage past experience when creating new contracts.
-
 
 
 #### Support Role
@@ -3187,6 +3137,32 @@ Representatives (a.k.a. links):
     -   raise items for the agenda
     -   participate in forming proposals
     -   raise <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objections</a> to proposals and existing <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>
+
+
+#### Delegate Circle
+
+<div class="card summary"><div class="card-body">Delegate making governance decisions affecting multiple domains to representatives selected by those domains.
+</div></div>
+
+To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> decisions on their behalf, stakeholders send _representatives_ to form a delegate circle.
+
+![Delegate Circle](img/structural-patterns/delegate-circle.png)
+
+Governance decisions made in a delegate circle are acted upon in the various <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> it serves.
+
+Delegate circles provide a way of steering organizations in alignment with the <a href="glossary.html#entry-flow-of-value" class="glossary-tooltip" data-toggle="tooltip" title="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</a>, and bring a diversity of perspectives to governance decision-making.
+
+A delegate circle may bring in other people (e.g. external experts) to help with specific decisions, or even as a member of the circle.
+
+
+#### Service Circle
+
+<div class="card summary"><div class="card-body">Outsource services required by two or more domains.
+</div></div>
+
+A service circle can be populated by members of the <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> it serves, and/or by other people too.
+
+![Service Circle](img/structural-patterns/service-circle.png)
 
 
 #### Open Team
@@ -3324,6 +3300,81 @@ S3 promotes a hypothesis-driven approach to decision-making.
 
 ![The Life-Cycle of an Agreement](img/evolution/agreement-lifecycle-long.png)
 
+
+
+
+#### Contract For Successful Collaboration
+
+<div class="card summary"><div class="card-body">Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.
+</div></div>
+
+A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies.
+
+Developing shared understanding about needs and expectations is essential for successful collaboration.
+
+While negotiating and agreeing on a contract, model the culture of collaboration you want to achieve, and build a positive relationship with the other parties involved.
+
+This pattern refers to contracts relating related to collaboration around any business transaction between an organization and other parties (e.g. employees, consultants, service providers, shareholders or customers). It is especially relevant for contracts that have a significant influence on the future of an organization or one of its partners, such as:
+
+- employment contracts and contracts with external contractors or consultants in _support roles_ (including any agreement that results in a change of remuneration or working hours)
+- contracts governing collaboration with customers, vendors or service providers
+- shareholder agreements
+
+**Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
+
+##### Success criteria for contract negotiation
+
+When negotiating a contract, ensure:
+
+- shared understanding of the reason for the collaboration, as well as the intended outcome and important constraints
+- all parties understand what is expected of them
+- all parties affected by a contract are involved in creating the contract and enter it voluntarily
+- expectations are realistic
+- the agreement is beneficial to all parties
+- everyone intends to keep to the agreement made
+
+If for any reason one or more of these criteria cannot be fulfilled, it is probably wise to not proceed.
+
+##### Co-creating the contract
+
+The way a contract is negotiated can significantly contribute toward building trust between parties. Approach contracting from the point of view of making an agreement between partners, not adversaries: co-create the contract, tailor it to its specific context, and ensure it is legally robust.
+
+- the contract should include all expectations of the parties involved, each explained with adequate detail
+- use clear and simple language that all parties can understand, and be unambiguous about legal consequences
+- if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
+- consult a lawyer who supports the culture you aspire to and is competent in the field of business you are negotiating
+
+##### When Co-Creating a Contract:
+
+- ensure all parties have a delegation that includes representation for all affected <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. not only sales, but also development, production, support etc.)
+- explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
+- state the reasons for the proposed collaboration, and transparent about expectations and needs of all parties
+- disclose all relevant information (if necessary under an NDA)
+- agree first on terms of the relationship and expectations to all parties, and then consider how you can make them legally robust
+- compile a list of specific laws and regulation the contract needs to comply to
+- negotiate in several iterations, allowing time to consider implications and propose amendments
+- keep minutes of each meeting to reduce the potential for misconceptions
+
+##### Support The Full Lifecycle Of The Collaboration:
+
+Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
+
+- make provisions for successfully getting started by defining on-boarding procedures
+- have a probationary period, where all parties can try out the collaboration, and a clear protocol for how each party can terminate the contract during the probationary period
+- define and build into the contract regular review meetings where signatories come together to share learning and decide how the contract might be amended to adapt to changing context
+- include procedures for breach of contract
+- consider making available alternative means for dispute resolution, e.g. mediation, conciliation or arbitration
+- consider limiting the contract to a fixed term after which the contract expires and can be renewed if required
+
+##### Culture
+
+Every contract influences the culture of the collaboration it governs, even when it appears to only describe *what* needs to be delivered:
+
+- intentionally create the culture of collaboration you want to see by including expectations on *how* things should be done
+- align the contract to the organizational culture (of all parties) and to legal requirements
+- build contracts that enable and encourage accountability
+
+If you find that standard contracts in your industry are misaligned with the culture you want to create, build your own repository of templates for contracts and clauses and consider sharing it with others, so that you can leverage past experience when creating new contracts.
 
 
 
@@ -3827,6 +3878,12 @@ A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" dat
 ![A card representing a work item](img/workflow-and-value/card.png)
 
 
+#### Deliver Value Incrementally
+
+<div class="card summary"><div class="card-body">Slice work in a way that allows for delivering value fast and frequently, to validate assumptions quickly, align with customer needs, and respond promptly to changing priorities. 
+</div></div>
+
+
 #### Pull-System For Work
 
 <div class="card summary"><div class="card-body">People pull in new work items when they have capacity (instead of having work pushed or assigned to them).
@@ -3888,7 +3945,7 @@ Several coordinators may collaborate to synchronize work across multiple <a href
 
 Instead of selecting a coordinator, a team may choose to self-organize.
 
-### Organizational Structure
+## Organizational Structure
 
 Organizational structure is the actual arrangement of <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> and their connections. It reflects where power to influence is located, and the channels through which information and influence flow.
 
@@ -3903,40 +3960,17 @@ The basic building blocks for organizational structure are interdependent, conne
 
 Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex adaptive system, or network, where multiple functional structures can co-exist).
 
-Sociocracy 3.0 describes a variety of **structural patterns** to grow organizational structure.
+Sociocracy 3.0 describes a variety of _**structural patterns**_ to grow organizational structure.
 
 -   S3's structural patterns apply to different layers of abstraction
--   different structural patterns serve different <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">drivers</a>
+-   different structural patterns fulfill different <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirements</a>
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered
 
 
+### Examples of Larger Structures
 
 
-#### Delegate Circle
-
-<div class="card summary"><div class="card-body">Delegate making governance decisions affecting multiple domains to representatives selected by those domains.
-</div></div>
-
-To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> decisions on their behalf, stakeholders send _representatives_ to form a delegate circle.
-
-![Delegate Circle](img/structural-patterns/delegate-circle.png)
-
-Governance decisions made in a delegate circle are acted upon in the various <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> it serves.
-
-Delegate circles provide a way of steering organizations in alignment with the <a href="glossary.html#entry-flow-of-value" class="glossary-tooltip" data-toggle="tooltip" title="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</a>, and bring a diversity of perspectives to governance decision-making.
-
-A delegate circle may bring in other people (e.g. external experts) to help with specific decisions, or even as a member of the circle.
-
-
-#### Service Circle
-
-<div class="card summary"><div class="card-body">Outsource services required by two or more domains.
-</div></div>
-
-A service circle can be populated by members of the <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> it serves, and/or by other people too.
-
-![Service Circle](img/structural-patterns/service-circle.png)
 
 
 #### Peach Organization
@@ -4285,6 +4319,40 @@ For each principle we included a list of suggestions for things you can try. The
 
 ### Changelog
 
+#### Changes 2024-04-18
+
+
+**General Changes**
+
+-   Created a separate chapter for Organizational Structure,
+    -   added _Peach Organization_, _Service Organization_, _Fractal Organization_ and _Double-Linked Hierarchy_ as examples of larger structures.
+    -   moved _Delegate Circle_ and _Service Circle_ into _Building Organizations_
+-   updated the [S3 Organization Canvas](https://s3canvas.sociocracy30.org/s3-organization-canvas.html)
+
+**Glossary**
+
+-   removed "need" from glossary
+
+**Renamed Patterns:**
+
+-   renamed _Transparent Salary_ to _Open Salary_
+
+**Added Patterns:** (all with a brief summary only for now)
+
+-   _Collaborate on Dependencies_
+-   _Deliver Value Incrementally_
+-   _Design Adaptable Systems_
+-   _Enable Autonomy_
+-   _Financial Transparency_
+-   _Invest in Ongoing Learning_
+-   _Manage the Whole System_
+-   _Share Gains and Costs_
+
+**Removed Patterns:**
+
+-   removed _Delegate Influence_
+
+
 #### Changes 2024-04-05
 
 -   More changes relating to Requirements
@@ -4298,33 +4366,33 @@ For each principle we included a list of suggestions for things you can try. The
     -   added an explanation of _Requirement_ to _Drivers and Requirements_
     -   added new pattern _Determine Requirements_
     -   updated _Respond to Organizational Drivers_
-    -   updated _Describe Organizational Drivers_: 
+    -   updated _Describe Organizational Drivers_:
     -   updated _Navigate via Tension_
     -   revised _Proposal Forming_, _Consent Decision Making_ and _Driver Mapping_
--   extended _Clarify and Develop Domains_ to include a detailed description and  examples for each aspect of a domain description
+-   extended _Clarify and Develop Domains_ to include a detailed description and examples for each aspect of a domain description
 -   added an _example domain description_ to the appendix
 -   added a detailed descripton for each step to _Proposal Forming_
 -   revised _The Principle of Consent_ and description of _Objection_
 -  updated glossary:
-    -  revised definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational Driver</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a> 
+    -  revised definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational Driver</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a>
     -  added new definitions for <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">Requirement</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Standard Constraint: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).">Standard Constraint</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">Overall Domain</a>
 
 
 #### Changes 2022-04-26
 
--   added detailed description and new illustrations to _Test Arguments Qualify as Objections_   
+-   added detailed description and new illustrations to _Test Arguments Qualify as Objections_
 
 
 #### Changes 2022-04-05
 
--   added detailed description and new illustrations to _Resolve Objections_   
+-   added detailed description and new illustrations to _Resolve Objections_
 
 
 #### Changes 2022-02-04
 
 -   added detailed description of the _Consent Decision-Making_ process
 -   revised text of _Reasoned Decision-Making_
--   updated 20 illustration to align with style of new illustration for Consent Decision-Making 
+-   updated 20 illustration to align with style of new illustration for Consent Decision-Making
 
 
 #### Changes 2022-01-27
@@ -4344,7 +4412,7 @@ For each principle we included a list of suggestions for things you can try. The
 #### Changes 2021-09-22
 
 -   fixed a link on the pattern map and added links to the principles
--   fixed some typos, minor revisions to the text 
+-   fixed some typos, minor revisions to the text
 
 
 #### Changes 2021-09-03
@@ -4371,7 +4439,7 @@ For each principle we included a list of suggestions for things you can try. The
 #### Changes 2021-05-15
 
 -   _Navigate via Tension_: added more explanation about passing on drivers to another domain
--   _Clarify and Develop Domains_: more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
+-   _Clarify and Develop Domains_: more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration,
 
 
 #### Changes 2021-03-15
@@ -4407,7 +4475,7 @@ For each principle we included a list of suggestions for things you can try. The
     -   _The Patterns_
     -   _The Common Sense Framework_
     -   _Appendix_
--   Redesigned the website for better usability: 
+-   Redesigned the website for better usability:
     -   A new responsive menu that provides direct access to all patterns and other sections of the guide
     -   A new homepage that explains what is where
     -   A new layout for a cleaner experience on desktop and mobile devices
@@ -4425,11 +4493,11 @@ For each principle we included a list of suggestions for things you can try. The
 -   added glossary entry for "metric"
 -   revised glossary entry for "governance"
 -   _Describe Organizational Drivers_: revised text
--   Introduction: 
+-   Introduction:
     -   added more details to the section about Domains and delegation
-    -   removed illustration in the section about patterns and listed the pattern groups in the text 
--   Appendix: 
-    -   added a disclaimer 
+    -   removed illustration in the section about patterns and listed the pattern groups in the text
+-   Appendix:
+    -   added a disclaimer
     -   added more information about the authors
 
 
@@ -4588,7 +4656,7 @@ For each principle we included a list of suggestions for things you can try. The
 -   _Open S3 Adoption_ to _Open Space for Change_
 -   _Contracting and Accountability_ to _Contract For Successful Collaboration_
 
-**Added Patterns:**
+**Added New Patterns:**
 
 -   _Check In_
 -   _Co-create Proposals_
@@ -4734,6 +4802,9 @@ For each principle we included a list of suggestions for things you can try. The
   <dt><a href="co-create-proposals.html">Co-Create Proposals</a></dt>
   <dd><p>Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.</p></dd>
 
+  <dt><a href="collaborate-on-dependencies.html">Collaborate on Dependencies</a></dt>
+  <dd><p>For each dependency, work with all stakeholders to agree on how to deal with it effectively, and act accordingly.</p></dd>
+
   <dt><a href="consent-decision-making.html">Consent Decision-Making</a></dt>
   <dd><p>A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.</p></dd>
 
@@ -4758,14 +4829,17 @@ For each principle we included a list of suggestions for things you can try. The
   <dt><a href="delegate-circle.html">Delegate Circle</a></dt>
   <dd><p>Delegate making governance decisions affecting multiple domains to representatives selected by those domains.</p></dd>
 
-  <dt><a href="delegate-influence.html">Delegate Influence</a></dt>
-  <dd><p>Distribute the power to influence, to enable people to decide and act for themselves within defined constraints.</p></dd>
+  <dt><a href="deliver-value-incrementally.html">Deliver Value Incrementally</a></dt>
+  <dd><p>Slice work in a way that allows for delivering value fast and frequently, to validate assumptions quickly, align with customer needs, and respond promptly to changing priorities.</p></dd>
 
   <dt><a href="describe-deliverables.html">Describe Deliverables</a></dt>
   <dd><p>Clearly describe any deliverables related to an agreement to support shared understanding of expectations.</p></dd>
 
   <dt><a href="describe-organizational-drivers.html">Describe Organizational Drivers</a></dt>
   <dd><p>Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.</p></dd>
+
+  <dt><a href="design-adaptable-systems.html">Design Adaptable Systems</a></dt>
+  <dd><p>Develop a coherent set of constraints that enable the organization to easily adapt and grow to meet changing demand, customer requirements and market conditions.</p></dd>
 
   <dt><a href="determine-requirements.html">Determine Requirements</a></dt>
   <dd><p>Determine what's required to respond appropriately to an organizational driver, before making a specific decision about what to do.</p></dd>
@@ -4776,11 +4850,11 @@ For each principle we included a list of suggestions for things you can try. The
   <dt><a href="double-linking.html">Double Linking</a></dt>
   <dd><p>Enable the <em>two-way</em> flow of information and influence between two teams.</p></dd>
 
-  <dt><a href="double-linked-hierarchy.html">Double-Linked Hierarchy</a></dt>
-  <dd><p>Delegate all authority for making governance decisions to self-governing circles, double-linked across all levels of the hierarchy, to transition from an traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence and building engagement.</p></dd>
-
   <dt><a href="driver-mapping.html">Driver Mapping</a></dt>
   <dd><p>A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.</p></dd>
+
+  <dt><a href="enable-autonomy.html">Enable Autonomy</a></dt>
+  <dd><p>Free people up to decide and act for themselves as much as possible, so that they can deliver value fast and respond quickly to changes when necessary.</p></dd>
 
   <dt><a href="evaluate-and-evolve-agreements.html">Evaluate And Evolve Agreements</a></dt>
   <dd><p>Continuously evolve the body of agreements, and eliminate waste.</p></dd>
@@ -4794,8 +4868,8 @@ For each principle we included a list of suggestions for things you can try. The
   <dt><a href="facilitate-meetings.html">Facilitate Meetings</a></dt>
   <dd><p>Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track and draw out the participant's creativity and wisdom.</p></dd>
 
-  <dt><a href="fractal-organization.html">Fractal Organization</a></dt>
-  <dd><p>Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy).</p></dd>
+  <dt><a href="financial-transparency.html">Financial Transparency</a></dt>
+  <dd><p>Share relevant information about financial performance with the organization’s members, to build trust and accountability and support them to make informed decisions regarding their work.</p></dd>
 
   <dt><a href="governance-backlog.html">Governance Backlog</a></dt>
   <dd><p>Keep a dedicated backlog for items that require a governance decision, so that you can remember them and use the information to plan and organize your governance.</p></dd>
@@ -4808,6 +4882,9 @@ For each principle we included a list of suggestions for things you can try. The
 
   <dt><a href="helping-team.html">Helping Team</a></dt>
   <dd><p>Bring together a team of equivalent people with the mandate to execute on a specific set of requirements defined by a delegator.</p></dd>
+
+  <dt><a href="invest-in-ongoing-learning.html">Invest in Ongoing Learning</a></dt>
+  <dd><p>Make continuous learning an integral part of people’s responsibilities and work, so that they ongoingly develop their capacity to contribute effectively toward the purpose of the organization.</p></dd>
 
   <dt><a href="invite-change.html">Invite Change</a></dt>
   <dd><p>Clarify the reason for change and invite people to participate.</p></dd>
@@ -4827,11 +4904,17 @@ For each principle we included a list of suggestions for things you can try. The
   <dt><a href="logbook-keeper.html">Logbook Keeper</a></dt>
   <dd><p>Select a member of your team to be specifically accountable for keeping up to date records of all information the team requires.</p></dd>
 
+  <dt><a href="manage-the-whole-system.html">Manage the Whole System</a></dt>
+  <dd><p>Ensure that the effectiveness and integrity of the whole organization is monitored and maintained, so that the organization is able to ongoingly and adequately fulfill its purpose.</p></dd>
+
   <dt><a href="meeting-host.html">Meeting Host</a></dt>
   <dd><p>Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.</p></dd>
 
   <dt><a href="navigate-via-tension.html">Navigate via Tension</a></dt>
   <dd><p>Pay attention to tension you experience in relation to the organization, investigate the cause and pass on information about any organizational drivers you discover to the people accountable for the appropriate domain.</p></dd>
+
+  <dt><a href="open-salary.html">Open Salary</a></dt>
+  <dd><p>Create a fair salary formula and make it transparent.</p></dd>
 
   <dt><a href="open-space-for-change.html">Open Space For Change</a></dt>
   <dd><p>Invite everyone to create and run experiments for evolving the organization.</p></dd>
@@ -4841,9 +4924,6 @@ For each principle we included a list of suggestions for things you can try. The
 
   <dt><a href="open-team.html">Open Team</a></dt>
   <dd><p>Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.</p></dd>
-
-  <dt><a href="peach-organization.html">Peach Organization</a></dt>
-  <dd><p>Deliver value in complex and competitive environments through <em>decentralization</em> (of resources and influence) and <em>direct interaction</em> between those creating value and the customers they serve.</p></dd>
 
   <dt><a href="peer-feedback.html">Peer Feedback</a></dt>
   <dd><p>Invite any member of your organization to give you some constructive feedback on your performance in a role or in a team, about your general participation and contribution, or about any other area you wish to develop.</p></dd>
@@ -4896,20 +4976,17 @@ For each principle we included a list of suggestions for things you can try. The
   <dt><a href="service-circle.html">Service Circle</a></dt>
   <dd><p>Outsource services required by two or more domains.</p></dd>
 
-  <dt><a href="service-organization.html">Service Organization</a></dt>
-  <dd><p>Multi-stakeholder collaboration and alignment towards a shared driver (or objective).</p></dd>
+  <dt><a href="share-costs-and-gains.html">Share Costs and Gains</a></dt>
+  <dd><p>Ensure that people have a direct relationship to the costs and gains resulting from their work, so that they are incentivised to give their best, work effectively and minimize waste.</p></dd>
 
   <dt><a href="support-role.html">Support Role</a></dt>
   <dd><p>Apply the role pattern to external contractors.</p></dd>
 
-  <dt><a href="test-arguments-qualify-as-objections.html">Test Arguments Qualify as Objections</a></dt>
+  <dt><a href="test-arguments-qualify-as-objections.html">Test If Arguments Qualify as Objections</a></dt>
   <dd><p>Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.</p></dd>
 
   <dt><a href="timebox-activities.html">Timebox Activities</a></dt>
   <dd><p>Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.</p></dd>
-
-  <dt><a href="transparent-salary.html">Transparent Salary</a></dt>
-  <dd><p>Create a fair salary formula and make it transparent.</p></dd>
 
   <dt><a href="visualize-work.html">Visualize Work</a></dt>
   <dd><p>Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.</p></dd>
@@ -5518,9 +5595,6 @@ To find out how you can contribute to the development of S3, go to <https://soci
 
 
 **Metric:** A quantifiable measure used to track and assess progress, evaluate outcomes and determine success
-
-
-**Need:** The lack of something wanted or deemed necessary (a requirement).
 
 
 **Objection:** An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.

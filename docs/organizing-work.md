@@ -18,6 +18,9 @@ prev_page_url: "governance-backlog.html"
   <dt><a href="visualize-work.html">Visualize Work</a></dt>
   <dd><p>Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.</p></dd>
 
+  <dt><a href="deliver-value-incrementally.html">Deliver Value Incrementally</a></dt>
+  <dd><p>Slice work in a way that allows for delivering value fast and frequently, to validate assumptions quickly, align with customer needs, and respond promptly to changing priorities.</p></dd>
+
   <dt><a href="pull-system-for-work.html">Pull-System For Work</a></dt>
   <dd><p>People pull in new work items when they have capacity (instead of having work pushed or assigned to them).</p></dd>
 

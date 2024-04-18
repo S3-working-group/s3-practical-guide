@@ -3,7 +3,7 @@ title: "Where to Start?"
 next_page_title: "Appendix"
 next_page_url: "appendix.html"
 prev_page_title: "Principle 10 – Build Shared Mental Models"
-prev_page_url: "shared-mental-models.html"
+prev_page_url: "principle-10-shared-mental-models.html"
 ---
 
 

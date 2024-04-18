@@ -1,7 +1,7 @@
 ---
 title: "Representative"
-next_page_title: "Open Team"
-next_page_url: "open-team.html"
+next_page_title: "Delegate Circle"
+next_page_url: "delegate-circle.html"
 prev_page_title: "Double Linking"
 prev_page_url: "double-linking.html"
 ---

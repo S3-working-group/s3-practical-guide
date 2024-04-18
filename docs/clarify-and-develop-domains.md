@@ -1,7 +1,7 @@
 ---
 title: "Clarify and Develop Domains"
-next_page_title: "Delegate Influence"
-next_page_url: "delegate-influence.html"
+next_page_title: "Manage the Whole System"
+next_page_url: "manage-the-whole-system.html"
 prev_page_title: "Evolving Organizations"
 prev_page_url: "evolving-organizations.html"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Test Arguments Qualify as Objections"
+title: "Test If Arguments Qualify as Objections"
 next_page_title: "Resolve Objections"
 next_page_url: "resolve-objections.html"
 prev_page_title: "Consent Decision-Making"
