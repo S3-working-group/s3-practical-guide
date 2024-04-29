@@ -10,7 +10,7 @@ $hp-box-grey-color-main:  #6c797f !default;
 article.homepage {
 
   .card { 
-    margin-bottom: $spacing-unit/2;
+    margin-bottom: $spacing-unit*0.5;
   }
   .hp-version {
     text-align: right;

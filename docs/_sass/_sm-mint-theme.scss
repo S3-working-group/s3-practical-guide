@@ -177,7 +177,7 @@ $sm-mint__toggle-spacing: floor($sm-mint__item-height * 0.1);
 		.sub-arrow {
 			position: absolute;
 			top: 50%;
-			margin-top: -(ceil($sm-mint__toggle-size / 2));
+			margin-top: -(ceil($sm-mint__toggle-size * 0.5));
 			left: auto;
 			right: $sm-mint__toggle-spacing;
 			width: $sm-mint__toggle-size;
@@ -292,7 +292,7 @@ $sm-mint__toggle-spacing: floor($sm-mint__item-height * 0.1);
 			// Sub menu indicators
 			.sub-arrow {
 				top: 50%;
-				margin-top: -(ceil($sm-mint__desktop-arrow-size / 2));
+				margin-top: -(ceil($sm-mint__desktop-arrow-size * 0.5));
 				right: $sm-mint__desktop-item-padding-horizontal;
 				width: 0;
 				height: 0;
