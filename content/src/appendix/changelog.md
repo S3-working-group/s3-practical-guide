@@ -6,7 +6,7 @@
 **General Changes**
 
 -   Created a separate chapter for Organizational Structure,
-    -   added [Peach Organization](section:peach-organization), [Service Organization](section:service-organization), [Fractal Organization](section:fractal-organzitiona) and [Double-Linked Hierarchy](section:double-linked-hierarchy) as examples of larger structures.
+    -   added [Peach Organization](section:peach-organization), [Service Organization](section:service-organization), [Fractal Organization](section:fractal-organzition) and [Double-Linked Hierarchy](section:double-linked-hierarchy) as examples of larger structures.
     -   moved [Delegate Circle](section:delegate-circle) and [Service Circle](section:service-circle) into [Building Organizations](section:building-organizations)
 -   updated the [S3 Organization Canvas](https://s3canvas.sociocracy30.org/s3-organization-canvas.html)
 
@@ -27,7 +27,7 @@
 -   [Financial Transparency](section:financial-transparency)
 -   [Invest in Ongoing Learning](section:invest-in-ongoing-learning)
 -   [Manage the Whole System](section:manage-the-whole-system)
--   [Share Gains and Costs](section:share-gains-and-costs)
+-   [Share Costs and Gains](section:share-costs-and-gains)
 
 **Removed Patterns:**
 
@@ -52,7 +52,7 @@
     -   revised [Proposal Forming](section:proposal-forming), [Consent Decision Making](section:consent-decision-making) and [Driver Mapping](section:driver-mapping)
 -   extended [Clarify and Develop Domains](section:clarify-and-develop-domains) to include a detailed description and examples for each aspect of a domain description
 -   added an [example domain description](section:example-domain-description) to the appendix
--   added a detailed descripton for each step to [Proposal Forming](section:proposal-forming)
+-   added a detailed description for each step to [Proposal Forming](section:proposal-forming)
 -   revised [The Principle of Consent](section:principle-consent) and description of [Objection](section:objection)
 -  updated glossary:
     -  revised definitions for [Domain](glossary:domain), [Deliverable](glossary:deliverable), [Organizational Driver](glossary:organizational-driver), [Objection](glossary:objection) and [Concern](glossary:concern)
@@ -301,7 +301,7 @@
 -   [Contract For Successful Collaboration](section:contract-for-successful-collaboration): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 -   [Coordination Meeting](section:coordination-meeting): clarified agenda items, updated illustration
 -   [Delegate Circle](section:delegate-circle): improved description
--   [Delegate Influence](section:delegate-influence): improved description
+-   _Delegate Influence: improved description
 -   [Describe Deliverables](section:describe-deliverables): improved description
 -   [Describe Organizational Drivers](section:describe-organizational-drivers): made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
 -   [Double Linking](section:double-linking): aligned description to _Link_
