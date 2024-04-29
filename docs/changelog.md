@@ -7,13 +7,20 @@ prev_page_url: "appendix.html"
 ---
 
 
+**Table of Contents**
+
+* toc
+{:toc}
+
+
+
 ## Changes 2024-04-18
 
 
 **General Changes**
 
 -   Created a separate chapter for Organizational Structure,
-    -   added [Peach Organization](peach-organization.html), [Service Organization](service-organization.html), [Fractal Organization](fractal-organzitiona.html) and [Double-Linked Hierarchy](double-linked-hierarchy.html) as examples of larger structures.
+    -   added [Peach Organization](peach-organization.html), [Service Organization](service-organization.html), [Fractal Organization](fractal-organzition.html) and [Double-Linked Hierarchy](double-linked-hierarchy.html) as examples of larger structures.
     -   moved [Delegate Circle](delegate-circle.html) and [Service Circle](service-circle.html) into [Building Organizations](building-organizations.html)
 -   updated the [S3 Organization Canvas](https://s3canvas.sociocracy30.org/s3-organization-canvas.html)
 
@@ -34,7 +41,7 @@ prev_page_url: "appendix.html"
 -   [Financial Transparency](financial-transparency.html)
 -   [Invest in Ongoing Learning](invest-in-ongoing-learning.html)
 -   [Manage the Whole System](manage-the-whole-system.html)
--   [Share Gains and Costs](share-gains-and-costs.html)
+-   [Share Costs and Gains](share-costs-and-gains.html)
 
 **Removed Patterns:**
 
@@ -59,7 +66,7 @@ prev_page_url: "appendix.html"
     -   revised [Proposal Forming](proposal-forming.html), [Consent Decision Making](consent-decision-making.html) and [Driver Mapping](driver-mapping.html)
 -   extended [Clarify and Develop Domains](clarify-and-develop-domains.html) to include a detailed description and examples for each aspect of a domain description
 -   added an [example domain description](example-domain-description.html) to the appendix
--   added a detailed descripton for each step to [Proposal Forming](proposal-forming.html)
+-   added a detailed description for each step to [Proposal Forming](proposal-forming.html)
 -   revised [The Principle of Consent](principle-consent.html) and description of [Objection](objection.html)
 -  updated glossary:
     -  revised definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational Driver</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a>
@@ -308,7 +315,7 @@ prev_page_url: "appendix.html"
 -   [Contract For Successful Collaboration](contract-for-successful-collaboration.html): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 -   [Coordination Meeting](coordination-meeting.html): clarified agenda items, updated illustration
 -   [Delegate Circle](delegate-circle.html): improved description
--   [Delegate Influence](delegate-influence.html): improved description
+-   _Delegate Influence_: improved description
 -   [Describe Deliverables](describe-deliverables.html): improved description
 -   [Describe Organizational Drivers](describe-organizational-drivers.html): made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
 -   [Double Linking](double-linking.html): aligned description to _Link_

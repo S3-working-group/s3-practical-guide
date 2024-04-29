@@ -10,10 +10,18 @@ prev_page_url: "co-create-proposals.html"
 <div class="card summary"><div class="card-body">A (facilitated) group process for co-creating a response to a driver.
 </div></div>
 
+**Table of Contents**
 
-* draws on the collective intelligence and diversity of perspective within a group
-* involves people in co-creating agreements
-* fosters accountability and sense of ownership
+* toc
+{:toc}
+
+
+
+## Overview
+
+
+Proposal Forming involves people in co-creating agreements
+through a facilitated group process that draws on the collective intelligence and diversity of perspective within a group, and fosters accountability and sense of ownership. 
 
 _Proposal Forming_ may also be used by an individual.
 

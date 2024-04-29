@@ -10,6 +10,15 @@ prev_page_url: "evolving-organizations.html"
 <div class="card summary"><div class="card-body">Explicitly clarify, and then regularly evaluate and develop the design of domains throughout the organization, based on learning, to enable those with responsibility for each domain to deliver value as effectively as possible to the customers they serve.
 </div></div>
 
+**Table of Contents**
+
+* toc
+{:toc}
+
+
+
+## Overview
+
 A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> —distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
 
 Responsibility for domains is taken on by individuals (role keepers), or by groups of people (teams, projects, platforms, micro-enterprises, departments, etc.) Each team or role keeper contributes toward fulfilling the overall purpose of the organization by taking care of a specific area of responsibility in the organization. In some cases, people might keep more than one role, or be part of more than one team. 
@@ -150,10 +159,10 @@ You can describe the primary driver using the pattern [Describe Organizational D
 
 _What is the essential work and decision-making being delegated to the team (or role keeper)?_
 
-Key responsibilities are a summary of those areas of _work and decision-making_ that the delegator and delegatees considers **essential** to take care of in relation to fulfilling the domain's purpose effectively. They provide a high level overview of what's expected from the delegatees.
+Key responsibilities are a summary of those areas of _work and decision-making_ that the delegator and delegatees consider **essential** to take care of in relation to fulfilling the domain's purpose effectively. They provide a high level overview of what's expected from the delegatees.
 
 
-**List**all _essential responsibilities_ that are being delegated by clarifying the **requirement** in each case, and the **anticipated impact** that responding to each requirement will bring.
+**List** all _essential responsibilities_ that are being delegated by clarifying the **requirement** in each case, and the **anticipated impact** that responding to each requirement will bring.
 
 **Recommended format:** (requirement) and (anticipated impact). If useful, describe the Driver as well: (current situation), (anticipated or current) effect, and (relevance).
 
@@ -186,7 +195,7 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
     **Requirement**: (requirement) Execute and refine digital marketing campaigns, (anticipated impact) to improve engagement metrics and customer acquisition costs.
 
 
-    **Driver:** (current situation) With digital ad spend increasing without proportional gains in engagement, (effect) current strategies are leading to diminishing returns.
+    **Driver:** (current situation) With digital ad spending increasing without proportional gains in engagement, (effect) current strategies are leading to diminishing returns.
 
 
 **Tips:**
@@ -221,10 +230,10 @@ The purpose of work done by the delegatees is to provide value to their **custom
     -   **Deliverable:** Marketing performance analytics reports (requirement) that measure campaign effectiveness, customer engagement, and ROI to inform strategic decisions and budget allocations, (anticipated impact) to inform leadership about marketing performance and guide budgeting and strategy development.
 3. For a team that delivers consulting to clients:
     -   **Customer:** Sales & marketing department
-    -   **Deliverable:** Success stories about our work with clients (requirement) that can be used as reference for future sales (anticipated impact) to enhance the sales team's ability to demonstrate the value and effectiveness of the consulting services, ultimately aiding in closing more sales deals.
+    -   **Deliverable:** Success stories about our work with clients (requirement) that can be used as a reference for future sales (anticipated impact) to enhance the sales team's ability to demonstrate the value and effectiveness of the consulting services, ultimately aiding in closing more sales deals.
 4. For a team that designs and develops websites for business clients:
     -   **Customer:** Clients
-    -   **Deliverable:** Design and develop user-friendly and aesthetically pleasing websites company websites (requirement) that ensure a positive user experience and that the client's customers engage with (anticipated impact) to support their business objectives for increased traffic, customer retention, and sales.
+    -   **Deliverable:** Design and develop user-friendly and aesthetically pleasing company websites (requirement) that ensure a positive user experience and that the client's customers engage with (anticipated impact) to support their business objectives for increased traffic, customer retention, and sales.
 5. For a User Experience team: 
     -   **Customer:** development team
     -   **Deliverable:** interaction design for new features - with detailed description for all edge cases and potential errors, complete with all graphical assets required for implementation without the need for further communication, (requirement) to facilitate the development team in efficiently building and implementing features that offer an optimal user experience, (anticipated impact) reducing the need for extensive revisions and ensuring a smoother product development process.
@@ -322,7 +331,7 @@ Some external constraints are fixed while others may be negotiable with stakehol
 4. **Constraint:** (requirement) Consult with the Architecture Circle on decisions related to software architecture, (anticipated impact) to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
 5. **Constraint:** (requirement) Schedule all hands meetings between 15:00 - 18:00 CEST, (anticipated impact) so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
 6. **Constraint**: (requirement) For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, (anticipated impact) so that they can bring in their project management experience. **Driver:** (current situation) the team does not currently feel confident managing large projects, alone.
-7. **Constraint**: (requirement) Deliver the finished product to the integration team by 01 Feb (anticipated impact) so that they have time to complete integration before then non-negotiable project deadline on 10 March. (Driver is obvious in this case)
+7. **Constraint**: (requirement) Deliver the finished product to the integration team by 01 Feb (anticipated impact) so that they have time to complete integration before the non-negotiable project deadline on 10 March. (Driver is obvious in this case)
 
 **Tips:**
 

@@ -8,9 +8,18 @@ prev_page_url: "making-sense-of-organizations.html"
 
 
 
+**Table of Contents**
+
+* toc
+{:toc}
+
+
 _An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences)._
 
 _A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step._
+
+
+## Overview
 
 Identifying and interacting with situations that warrant some kind of response is a fundamental aspect of everyone's working day in an organization. 
 

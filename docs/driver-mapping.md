@@ -10,6 +10,15 @@ prev_page_url: "create-a-pull-system-for-organizational-change.html"
 <div class="card summary"><div class="card-body">A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.
 </div></div>
 
+**Table of Contents**
+
+* toc
+{:toc}
+
+
+
+## Overview
+
 During the workshop stakeholders take full ownership of the process from start to finish, as they progress quickly from concept to fully functioning collaboration.
 
 Identify relevant stakeholders, map out related requirements and use them to identify work items and decisions that need to be made, distribute work and define an initial structure for collaboration.

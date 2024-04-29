@@ -10,6 +10,12 @@ prev_page_url: "navigate-via-tension.html"
 <div class="card summary"><div class="card-body">Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.
 </div></div>
 
+**Table of Contents**
+
+* toc
+{:toc}
+
+
 _An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences)._
 
 Organizational drivers are identified by individuals (see [Navigate Via Tension](navigate-via-tension.html)) who either respond to them directly (when a driver falls within their own domain of responsibility), or who pass on information about drivers they discover to others in the organization (whom they believe are responsible for dealing with them). 

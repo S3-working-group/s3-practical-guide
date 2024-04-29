@@ -8,7 +8,7 @@ Sociocracy 3.0 — a.k.a. "S3" — is <a href="glossary.html#entry-social-techn
 
 Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
-Since its launch in 2015, S3 patterns have been helping people across a diverse range of organizational contexts to get the best out of collaboration. From start-ups to small and medium businesses, large international organizations, investor-funded and nonprofit organizations, families and communities.
+Since its launch in 2015, S3 patterns have been helping people across a diverse range of organizational contexts to get the best out of collaboration: from start-ups to small and medium businesses, large international organizations, investor-funded and nonprofit organizations, families and communities.
 
 Using S3 can **help you to achieve your objectives** and successfully navigate complexity. You can make changes one step at a time, **without the need for sudden radical reorganization** or planning a long-term change initiative:
 
@@ -544,9 +544,13 @@ For any terms you don't understand, check out the glossary at the end.
 ### Organizational Drivers and Requirements
 
 
+
 _An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences)._
 
 _A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step._
+
+
+#### Overview
 
 Identifying and interacting with situations that warrant some kind of response is a fundamental aspect of everyone's working day in an organization. 
 
@@ -807,6 +811,10 @@ In this guide, the patterns are grouped by topic into eleven categories to help 
 </div></div>
 
 
+
+
+##### Overview
+
 When a role keeper or a team becomes aware of a new driver they are responsible for dealing with, it's usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
 
 Here's a series of steps you can take which will support you to make the best use of your time and resources:
@@ -927,6 +935,7 @@ On other occasions however, you'll come across drivers that are the responsibili
 <div class="card summary"><div class="card-body">Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.
 </div></div>
 
+
 _An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences)._
 
 Organizational drivers are identified by individuals (see _Navigate Via Tension_) who either respond to them directly (when a driver falls within their own domain of responsibility), or who pass on information about drivers they discover to others in the organization (whom they believe are responsible for dealing with them). 
@@ -1033,6 +1042,9 @@ Effect is already occurring and relevance is implicit:
 <div class="card summary"><div class="card-body">Determine what's required to respond appropriately to an organizational driver, before making a specific decision about what to do.
 </div></div>
 
+
+
+##### Overview
 
 Identifying and responding to organizational drivers is a fundamental aspect of everyone's working day in an organization. Intentionally and explicitly clarifying the general direction and scope of the response to a driver _before_ deciding on what specific steps to take, helps identify more specific and suitable solutions, especially in complex situations.
 
@@ -1144,7 +1156,12 @@ Determine the requirement _before_ deciding how to specifically respond to an or
 <div class="card summary"><div class="card-body">A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.
 </div></div>
 
+
+
 ![Consent Decision-Making](img/agreements/consent-decision-making.png)
+
+
+##### Overview
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the _principle of consent_, you are agreeing to intentionally seek out _objections_.
 
@@ -1324,6 +1341,10 @@ If you are new to using Consent Decision-Making, we recommend you strictly follo
 <div class="card summary"><div class="card-body">Utilize your limited time and resources wisely by testing if arguments qualify as objections and only acting on those that do.
 </div></div>
 
+
+
+##### Overview
+
 When someone raises a possible objection (an argument for changing something) check that the argument reveals how leaving things unchanged will – or could – lead to consequences you want to avoid, or that it informs you of a worthwhile way to improve how to go about achieving your objectives. 
 
 Explore and refine each argument as necessary to identify any misconceptions or misunderstanding, and to eliminate aspects of the argument that are based merely on assumptions, or a personal preference or opinion. If you establish that what remains of the argument qualifies as an objection, then go on to _resolve the objection_.
@@ -1443,6 +1464,11 @@ The person who brought the original argument has the option to refine, rephrase 
 
 <div class="card summary"><div class="card-body">Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state. 
 </div></div>
+
+
+
+
+##### Overview
 
 Typically it's most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
 
@@ -1621,9 +1647,12 @@ Besides in a face-to-face workshop, you can adapt this process for online meetin
 </div></div>
 
 
-* draws on the collective intelligence and diversity of perspective within a group
-* involves people in co-creating agreements
-* fosters accountability and sense of ownership
+
+##### Overview
+
+
+Proposal Forming involves people in co-creating agreements
+through a facilitated group process that draws on the collective intelligence and diversity of perspective within a group, and fosters accountability and sense of ownership. 
 
 _Proposal Forming_ may also be used by an individual.
 
@@ -1960,6 +1989,10 @@ This pattern can also be used in any situation where there is a need to choose b
 <div class="card summary"><div class="card-body">Explicitly clarify, and then regularly evaluate and develop the design of domains throughout the organization, based on learning, to enable those with responsibility for each domain to deliver value as effectively as possible to the customers they serve.
 </div></div>
 
+
+
+##### Overview
+
 A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> —distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
 
 Responsibility for domains is taken on by individuals (role keepers), or by groups of people (teams, projects, platforms, micro-enterprises, departments, etc.) Each team or role keeper contributes toward fulfilling the overall purpose of the organization by taking care of a specific area of responsibility in the organization. In some cases, people might keep more than one role, or be part of more than one team. 
@@ -2100,10 +2133,10 @@ You can describe the primary driver using the pattern _Describe Organizational D
 
 _What is the essential work and decision-making being delegated to the team (or role keeper)?_
 
-Key responsibilities are a summary of those areas of _work and decision-making_ that the delegator and delegatees considers **essential** to take care of in relation to fulfilling the domain's purpose effectively. They provide a high level overview of what's expected from the delegatees.
+Key responsibilities are a summary of those areas of _work and decision-making_ that the delegator and delegatees consider **essential** to take care of in relation to fulfilling the domain's purpose effectively. They provide a high level overview of what's expected from the delegatees.
 
 
-**List**all _essential responsibilities_ that are being delegated by clarifying the **requirement** in each case, and the **anticipated impact** that responding to each requirement will bring.
+**List** all _essential responsibilities_ that are being delegated by clarifying the **requirement** in each case, and the **anticipated impact** that responding to each requirement will bring.
 
 **Recommended format:** (requirement) and (anticipated impact). If useful, describe the Driver as well: (current situation), (anticipated or current) effect, and (relevance).
 
@@ -2136,7 +2169,7 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
     **Requirement**: (requirement) Execute and refine digital marketing campaigns, (anticipated impact) to improve engagement metrics and customer acquisition costs.
 
 
-    **Driver:** (current situation) With digital ad spend increasing without proportional gains in engagement, (effect) current strategies are leading to diminishing returns.
+    **Driver:** (current situation) With digital ad spending increasing without proportional gains in engagement, (effect) current strategies are leading to diminishing returns.
 
 
 **Tips:**
@@ -2171,10 +2204,10 @@ The purpose of work done by the delegatees is to provide value to their **custom
     -   **Deliverable:** Marketing performance analytics reports (requirement) that measure campaign effectiveness, customer engagement, and ROI to inform strategic decisions and budget allocations, (anticipated impact) to inform leadership about marketing performance and guide budgeting and strategy development.
 3. For a team that delivers consulting to clients:
     -   **Customer:** Sales & marketing department
-    -   **Deliverable:** Success stories about our work with clients (requirement) that can be used as reference for future sales (anticipated impact) to enhance the sales team's ability to demonstrate the value and effectiveness of the consulting services, ultimately aiding in closing more sales deals.
+    -   **Deliverable:** Success stories about our work with clients (requirement) that can be used as a reference for future sales (anticipated impact) to enhance the sales team's ability to demonstrate the value and effectiveness of the consulting services, ultimately aiding in closing more sales deals.
 4. For a team that designs and develops websites for business clients:
     -   **Customer:** Clients
-    -   **Deliverable:** Design and develop user-friendly and aesthetically pleasing websites company websites (requirement) that ensure a positive user experience and that the client's customers engage with (anticipated impact) to support their business objectives for increased traffic, customer retention, and sales.
+    -   **Deliverable:** Design and develop user-friendly and aesthetically pleasing company websites (requirement) that ensure a positive user experience and that the client's customers engage with (anticipated impact) to support their business objectives for increased traffic, customer retention, and sales.
 5. For a User Experience team: 
     -   **Customer:** development team
     -   **Deliverable:** interaction design for new features - with detailed description for all edge cases and potential errors, complete with all graphical assets required for implementation without the need for further communication, (requirement) to facilitate the development team in efficiently building and implementing features that offer an optimal user experience, (anticipated impact) reducing the need for extensive revisions and ensuring a smoother product development process.
@@ -2272,7 +2305,7 @@ Some external constraints are fixed while others may be negotiable with stakehol
 4. **Constraint:** (requirement) Consult with the Architecture Circle on decisions related to software architecture, (anticipated impact) to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
 5. **Constraint:** (requirement) Schedule all hands meetings between 15:00 - 18:00 CEST, (anticipated impact) so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
 6. **Constraint**: (requirement) For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, (anticipated impact) so that they can bring in their project management experience. **Driver:** (current situation) the team does not currently feel confident managing large projects, alone.
-7. **Constraint**: (requirement) Deliver the finished product to the integration team by 01 Feb (anticipated impact) so that they have time to complete integration before then non-negotiable project deadline on 10 March. (Driver is obvious in this case)
+7. **Constraint**: (requirement) Deliver the finished product to the integration team by 01 Feb (anticipated impact) so that they have time to complete integration before the non-negotiable project deadline on 10 March. (Driver is obvious in this case)
 
 **Tips:**
 
@@ -2631,6 +2664,10 @@ Change things when there is value in doing so:
 
 <div class="card summary"><div class="card-body">A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.
 </div></div>
+
+
+
+##### Overview
 
 During the workshop stakeholders take full ownership of the process from start to finish, as they progress quickly from concept to fully functioning collaboration.
 
@@ -3307,6 +3344,11 @@ S3 promotes a hypothesis-driven approach to decision-making.
 
 <div class="card summary"><div class="card-body">Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.
 </div></div>
+
+
+
+
+##### Overview
 
 A **contract** is a body of promises that two or more parties agree to make legally binding, i.e if those promises are violated, the injured party gains access to legal (or alternative) remedies.
 
@@ -4225,7 +4267,6 @@ Essential patterns to help you achieve this:
 
 -   _Clarify and Develop Domains_ – When people understand their own areas of responsibility, and those of others too, they know what is expected of them and where they are dependent on others.
 -   _Pull-System For Work_ – People being able to pull in new work items when they have capacity eliminates overload and improves productivity.
--   _Delegate Influence_ – Delegating work together with authority to make decisions relating to that work frees people up to create value and removes unnecessary dependencies. 
 -   _Role_ – Delegating autonomy to an individual to decide and act within clearly defined constraints frees individuals up to create value, and enables those who delegate to retain as much influence as necessary. 
 -   _Circle_ – Delegating autonomy to a team to organize and govern themselves within clearly defined constraints frees the team up to create value, and enables those who delegate that authority to retain as much influence as necessary.
 -   _Clarify and Develop Strategy_ – A strategy for creating value, developed by the individual or team and agreed upon by all relevant stakeholders, builds trust and supports autonomy.
@@ -4319,6 +4360,8 @@ For each principle we included a list of suggestions for things you can try. The
 
 ### Changelog
 
+
+
 #### Changes 2024-04-18
 
 
@@ -4346,7 +4389,7 @@ For each principle we included a list of suggestions for things you can try. The
 -   _Financial Transparency_
 -   _Invest in Ongoing Learning_
 -   _Manage the Whole System_
--   _Share Gains and Costs_
+-   _Share Costs and Gains_
 
 **Removed Patterns:**
 
@@ -4371,7 +4414,7 @@ For each principle we included a list of suggestions for things you can try. The
     -   revised _Proposal Forming_, _Consent Decision Making_ and _Driver Mapping_
 -   extended _Clarify and Develop Domains_ to include a detailed description and examples for each aspect of a domain description
 -   added an _example domain description_ to the appendix
--   added a detailed descripton for each step to _Proposal Forming_
+-   added a detailed description for each step to _Proposal Forming_
 -   revised _The Principle of Consent_ and description of _Objection_
 -  updated glossary:
     -  revised definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational Driver</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a>
@@ -5000,6 +5043,8 @@ For each principle we included a list of suggestions for things you can try. The
 -   **Delegatees:** Danielle, Mawiyah, Chris, Mohammed
 -   **Date of latest update to the domain description:** 13th November 2023
 -   **Author Name(s):** Mohammed, Danielle, Richard
+
+
 
 
 #### Purpose

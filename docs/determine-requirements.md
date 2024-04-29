@@ -10,6 +10,14 @@ prev_page_url: "describe-organizational-drivers.html"
 <div class="card summary"><div class="card-body">Determine what's required to respond appropriately to an organizational driver, before making a specific decision about what to do.
 </div></div>
 
+**Table of Contents**
+
+* toc
+{:toc}
+
+
+
+## Overview
 
 Identifying and responding to organizational drivers is a fundamental aspect of everyone's working day in an organization. Intentionally and explicitly clarifying the general direction and scope of the response to a driver _before_ deciding on what specific steps to take, helps identify more specific and suitable solutions, especially in complex situations.
 

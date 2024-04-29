@@ -10,7 +10,17 @@ prev_page_url: "determine-requirements.html"
 <div class="card summary"><div class="card-body">A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.
 </div></div>
 
+**Table of Contents**
+
+* toc
+{:toc}
+
+
+
 ![Consent Decision-Making](img/agreements/consent-decision-making.png)
+
+
+## Overview
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the [principle of consent](principle-consent.html), you are agreeing to intentionally seek out [objections](objection.html).
 

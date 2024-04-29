@@ -11,6 +11,15 @@ prev_page_url: "sense-making-and-decision-making.html"
 </div></div>
 
 
+**Table of Contents**
+
+* toc
+{:toc}
+
+
+
+## Overview
+
 When a role keeper or a team becomes aware of a new driver they are responsible for dealing with, it's usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
 
 Here's a series of steps you can take which will support you to make the best use of your time and resources:

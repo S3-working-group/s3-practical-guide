@@ -10,6 +10,16 @@ prev_page_url: "test-arguments-qualify-as-objections.html"
 <div class="card summary"><div class="card-body">Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state. 
 </div></div>
 
+
+**Table of Contents**
+
+* toc
+{:toc}
+
+
+
+## Overview
+
 Typically it's most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
 
 A proposal becomes an agreement when all objections have been resolved.
