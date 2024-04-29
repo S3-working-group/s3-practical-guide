@@ -25,6 +25,12 @@ safe: true # required on Github pages (no plugins)
 kramdown:
   toc_levels: 2..4
 
+# plugins:
+#   - jekyll-redirect-from
+
+# whitelist:
+#   - jekyll-redirect-from
+
 defaults:
   -
     scope:
