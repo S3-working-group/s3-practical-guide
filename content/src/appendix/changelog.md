@@ -310,7 +310,7 @@
 -   [Contract For Successful Collaboration](section:contract-for-successful-collaboration): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 -   [Coordination Meeting](section:coordination-meeting): clarified agenda items, updated illustration
 -   [Delegate Circle](section:delegate-circle): improved description
--   _Delegate Influence: improved description
+-   _Delegate Influence_: improved description
 -   [Describe Deliverables](section:describe-deliverables): improved description
 -   [Describe Organizational Drivers](section:describe-organizational-drivers): made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
 -   [Double Linking](section:double-linking): aligned description to _Link_
