@@ -11,7 +11,7 @@
 
 {{define:organizational-driver}}
 
- {{define:requirement}}
+{{define:requirement}}
 
 
 ## Overview
