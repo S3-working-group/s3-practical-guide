@@ -4,7 +4,19 @@
 A (facilitated) group process for decision-making: invite objections, and consider information and knowledge revealed to further evolve proposals or existing agreements.
 </summary>
 
+<only presets="jekyll">
+**Table of Contents**
+
+* toc
+{:toc}
+
+</only>
+
+
 ![Consent Decision-Making](img/agreements/consent-decision-making.png)
+
+
+## Overview
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the [principle of consent](section:principle-consent), you are agreeing to intentionally seek out [objections](section:objection).
 

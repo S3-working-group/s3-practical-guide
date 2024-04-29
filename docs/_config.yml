@@ -22,6 +22,9 @@ includes_dir: ./_includes
 markdown: kramdown
 safe: true # required on Github pages (no plugins)
 
+kramdown:
+  toc_levels: 2..4
+
 defaults:
   -
     scope:

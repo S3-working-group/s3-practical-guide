@@ -4,6 +4,14 @@
 Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.
 </summary>
 
+<only presets="jekyll">
+**Table of Contents**
+
+* toc
+{:toc}
+
+</only>
+
 {{define:organizational-driver}}
 
 Organizational drivers are identified by individuals (see [Navigate Via Tension](section:navigate-via-tension)) who either respond to them directly (when a driver falls within their own domain of responsibility), or who pass on information about drivers they discover to others in the organization (whom they believe are responsible for dealing with them). 

@@ -7,6 +7,15 @@
 -   **Author Name(s):** Mohammed, Danielle, Richard
 
 
+<only presets="jekyll">
+**Table of Contents**
+
+* toc
+{:toc}
+
+</only>
+
+
 ## Purpose
 
 **Primary Driver**: The organization's growth is currently hindered by a lack of brand recognition and market penetration, despite having a product that meets the needs of the market. This results in lower sales volume and a slower rate of customer acquisition compared to what's possible, considering we want to sustain our growth and market share in an industry with rapid innovation and high competition.

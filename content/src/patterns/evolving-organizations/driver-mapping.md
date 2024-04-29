@@ -4,6 +4,17 @@
 A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.
 </summary>
 
+<only presets="jekyll">
+**Table of Contents**
+
+* toc
+{:toc}
+
+</only>
+
+
+## Overview
+
 During the workshop stakeholders take full ownership of the process from start to finish, as they progress quickly from concept to fully functioning collaboration.
 
 Identify relevant stakeholders, map out related requirements and use them to identify work items and decisions that need to be made, distribute work and define an initial structure for collaboration.

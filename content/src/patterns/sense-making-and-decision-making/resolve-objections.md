@@ -4,6 +4,18 @@
 Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state. 
 </summary>
 
+
+<only presets="jekyll">
+**Table of Contents**
+
+* toc
+{:toc}
+
+</only>
+
+
+## Overview
+
 Typically it's most effective to **take one [objection](glossary:objection) at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
 
 A proposal becomes an agreement when all objections have been resolved.
