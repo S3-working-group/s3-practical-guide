@@ -14,7 +14,7 @@ If necessary, the pattern can be repeated to connect multiple fractal organizati
 
 A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) [driver](glossary:organizational-driver), or by multiple branches, departments, or projects within a larger organization.
 
-These [constituents](glossary:constituent) (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional [domains](glossary:domain) (e.g. accounting, product management, or development).
+These [constituents](glossary:constituent) (i.e. organizations, branches, departments or projects) need to share at least some – and typically most – functional [domains](glossary:domain) (e.g. accounting, product management, or development).
 
 ## Tiers
 

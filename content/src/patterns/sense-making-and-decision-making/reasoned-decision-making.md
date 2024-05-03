@@ -40,7 +40,7 @@ Each of the three processes focuses on the investigation of a different subject:
 
 -    In _Consent Decision-Making_ the subject is a **proposal**.
 -    In _Test Argument Qualifies as Objection_ the subject is an **argument** that indicates a possible objection.
--    In _Resolving Objections_ - the subject is a **proposed amendment**. 
+-    In _Resolving Objections_ the subject is a **proposed amendment**. 
 
 ![Table: Mapping the steps of RDM to the other S3 decision-making processes](img/agreements/reasoned-decision-making-table.png)
 

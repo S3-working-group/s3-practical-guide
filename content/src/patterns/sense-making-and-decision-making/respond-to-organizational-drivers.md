@@ -50,7 +50,7 @@ Even if a situation is relevant to the organization and it falls within your are
 
 ## Step 3: Determine the requirement
 
-After establishing that a driver is both relevant and a priority, it's helpful to determine the requirement: what you consider is needed or desirable to effectively respond to the situation - before narrowing down on a specific solution. 
+After establishing that a driver is both relevant and a priority, it's helpful to determine the requirement – what you consider is needed or desirable to effectively respond to the situation – before narrowing down on a specific solution. 
 
 {{define:requirement}}
 

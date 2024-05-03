@@ -1,6 +1,6 @@
 Comment: This text is used as book description. See https://kdp.amazon.com/en_US/help/topic/G201189630 for supported HTML tags, headlines must be <h4> to <h6>
 
-Sociocracy 3.0 — a.k.a. "S3" — is **social technology** for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
+Sociocracy 3.0 – a.k.a. "S3" – is **social technology** for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
 
 Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 

@@ -245,10 +245,10 @@ _The Tuners design a proposal._
 A well written proposal usually includes:
 
 -   the driver it responds to and the requirement it's intended to fulfill. 
--   the proposal text - what, how, rationale, etc.
--   who will be responsible for what - for overseeing its application/implementation.
--   evaluation date or frequency - when the future agreement will be reviewed.
--   evaluation criteria - to measure/determine the success or effectiveness of the decision.
+-   the proposal text – what, how, rationale, etc.
+-   who will be responsible for what – for overseeing its application/implementation.
+-   evaluation date or frequency – when the future agreement will be reviewed.
+-   evaluation criteria – to measure/determine the success or effectiveness of the decision.
 -   (a due date if necessary).
 
 When developing the proposal it is often enough to design a (few) viable and iterative next step(s). Alternatively, you might prepare a high-level proposal first and then get into details later, once the basic concept has been tested and approved.

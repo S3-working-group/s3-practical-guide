@@ -62,14 +62,14 @@ This is why it's valuable to approach deciding what you believe is required to r
 
 **Even in the case that you are the sole person responsible** for responding to an organizational driver, it's useful to clarify for yourself the requirement, before deciding how to proceed. Deciding on a course of action is often more straightforward when the general direction and scope for such action is determined first.
 
-**Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others - especially to those who will be affected by whatever's decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
+**Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others – especially to those who will be affected by whatever's decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
 
 Once a requirement is determined, the **next steps for responding to the organizational driver** involve agreeing on how to fulfill the requirement, acting on this agreement, reviewing outcomes, and, if needed, adapting your decision to improve it, based on what you learn (see [Respond to Organizational Drivers](section:respond-to-organizational-drivers) for more details).
 
 In complex situations where multiple and sometimes even contradictory options exist, an iterative approach for determining a requirement may be necessary because: 
 
 -   In some cases the suitability of a particular requirement can only be validated through experimentation (i.e. practical application and subsequent evaluation)
--   fulfilling what was initially determined as required may take you some way toward responding to a driver, but a further requirement—or even several further requirements—may need to be determined and fulfilled sequentially, to respond to the driver in an adequate way.
+-   fulfilling what was initially determined as required may take you some way toward responding to a driver, but a further requirement – or even several further requirements – may need to be determined and fulfilled sequentially, to respond to the driver in an adequate way.
 
 
 ## How to determine the requirement

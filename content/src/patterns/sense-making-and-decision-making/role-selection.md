@@ -12,7 +12,7 @@ Instead of simply assigning people for [roles](section:role), or making a choice
 
 A prerequisite to the selection process is a [clear description](section:clarify-and-develop-domains) of the role's [domain](glossary:domain).
 
-## Role Selection - Steps
+## Steps
 
 ![Role selection process](img/agreements/selection.png)
 

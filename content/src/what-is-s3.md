@@ -2,7 +2,7 @@
 
 # What is Sociocracy 3.0?
 
-Sociocracy 3.0 — a.k.a. "S3" — is [social technology](glossary:social-technology) for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
+Sociocracy 3.0 – a.k.a. "S3" – is [social technology](glossary:social-technology) for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
 
 Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 

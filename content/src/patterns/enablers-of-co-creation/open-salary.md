@@ -4,7 +4,7 @@
 Create a fair salary formula and make it transparent.
 </summary>
 
-Open salary (also referred to as "transparenty salary") is the practice of determining each employee's compensation according to a set of rules — the _salary formula_ — instead of making compensation subject to individual negotiation between employer and employee. The salary formula — and often individual compensation as well — is transparent to all members of an organization, and sometimes to the public.
+Open salary (also referred to as "transparenty salary") is the practice of determining each employee's compensation according to a set of rules – the _salary formula_ – instead of making compensation subject to individual negotiation between employer and employee. The salary formula – and often individual compensation as well – is transparent to all members of an organization, and sometimes to the public.
 
 A open salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
 

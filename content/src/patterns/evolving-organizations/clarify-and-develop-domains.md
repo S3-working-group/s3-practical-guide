@@ -15,7 +15,7 @@ Explicitly clarify, and then regularly evaluate and develop the design of domain
 
 ## Overview
 
-A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing [domains](glossary:domain) —distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
+A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing [domains](glossary:domain) – distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
 
 Responsibility for domains is taken on by individuals (role keepers), or by groups of people (teams, projects, platforms, micro-enterprises, departments, etc.) Each team or role keeper contributes toward fulfilling the overall purpose of the organization by taking care of a specific area of responsibility in the organization. In some cases, people might keep more than one role, or be part of more than one team. 
 
@@ -325,7 +325,7 @@ Some external constraints are fixed while others may be negotiable with stakehol
 2. **Constraint:** (requirement) Prioritize work on projects with deadlines over time spent on training and development (anticipated impact) so that we can keep to delivery dates agreed upon with customers. (Driver is obvious in this case)
 3. **Constraint:** (requirement) Monthly expenditure over $15k needs to be approved with the PM (anticipated impact) to ensure total expenditure for the project remains within the overall budget. (Driver is obvious in this case)
 4. **Constraint:** (requirement) Consult with the Architecture Circle on decisions related to software architecture, (anticipated impact) to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
-5. **Constraint:** (requirement) Schedule all hands meetings between 15:00 - 18:00 CEST, (anticipated impact) so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
+5. **Constraint:** (requirement) Schedule all hands meetings between 15:00–18:00 CEST, (anticipated impact) so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
 6. **Constraint**: (requirement) For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, (anticipated impact) so that they can bring in their project management experience. **Driver:** (current situation) the team does not currently feel confident managing large projects, alone.
 7. **Constraint**: (requirement) Deliver the finished product to the integration team by 01 Feb (anticipated impact) so that they have time to complete integration before the non-negotiable project deadline on 10 March. (Driver is obvious in this case)
 
@@ -507,7 +507,7 @@ Key [Metrics](glossary:metric) are statistics that help delegatees monitor the e
     -   **Responsibilities**: monitored by HR team
     -   **Threshold**: if the rate for a recruiter is less than the average company retention rate, decide what to do about it in the next Planning Meeting 
     -   **Purpose**: (current situation) Onboarding new people carries a high cost (anticipated effect) and a misplaced candidate results in wasted time, effort and resources, and the fact that the vacancy will need to be filled again. (requirement) Identify which recruiters provide candidates with the highest retention rate, (anticipated impact) to minimize the risk of new employees leaving.
-3. **Disruptions - Rate**
+3. **Disruption-Rate**
     -   **Description**: Number of process disruptions because of problems attributed to control hardware/software (data source is the productive process execution system)
     -   **Rate**: weekly 
     -   **Responsibilities**: Product Owner provides the metric, team monitors the metric 

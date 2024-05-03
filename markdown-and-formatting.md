@@ -37,7 +37,7 @@ Links to other websites: `[link text](https://...)
 Links where the URL should be visible `<https://...>`
 
 
-## The Glossary 
+## The Glossary
 
 The project glossary is defined in `/content/glossary.yaml` - the format is YAML 1.1, a simple explanation of the format can be found on [Wikipedia](https://en.wikipedia.org/wiki/YAML) or in the [Ansible documentation](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
 
@@ -46,8 +46,8 @@ Example for a glossary entry:
 ```
   social-technology:
     name: Social Technology
-    definition: "**Social technology** is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange."
-    glossary: Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
+    definition: "**Social technology** is any process, technique, method, skill or any other approach that people can use to influence social systems – organizations, societies, communities etc. – to support achieving shared objectives and guide meaningful interaction and exchange."
+    glossary: Any process, technique, method, skill or any other approach that people can use to influence social systems – organizations, societies, communities etc. – to support achieving shared objectives and guide meaningful interaction and exchange.
 ```
 
 Each term in the glossary is represented as as a dictionary with three keys
