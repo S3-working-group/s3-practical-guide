@@ -186,11 +186,11 @@ prev_page_url: "pattern-index.html"
 
 ## Delegator responsibilities
 
-**Provide clear strategic direction and priorities** to guide the marketing department's focus and ensure alignment with the company's business objectives. - The company operates in a dynamic industry where priorities shift rapidly, which sometimes leads to misalignment of efforts and inefficient resource utilization.
+**Provide clear strategic direction and priorities** to guide the marketing department's focus and ensure alignment with the company's business objectives. The company operates in a dynamic industry where priorities shift rapidly, which sometimes leads to misalignment of efforts and inefficient resource utilization.
 
-**Be responsive:** Maintain open channels of communication for feedback and escalation to resolve issues swiftly and keep marketing initiatives on track. – Delays in decision-making stall marketing projects, and result in missed deadlines and lost opportunities.
+**Be responsive:** Maintain open channels of communication for feedback and escalation to resolve issues swiftly and keep marketing initiatives on track. Delays in decision-making stall marketing projects, and result in missed deadlines and lost opportunities.
 
-**Support professional development and training** to ensure the marketing team's skills and knowledge remain cutting-edge.– The marketing field is continually evolving, leading to skill gaps and falling behind industry standards without ongoing training.
+**Support professional development and training** to ensure the marketing team's skills and knowledge remain cutting-edge. The marketing field is continually evolving, leading to skill gaps and falling behind industry standards without ongoing training.
 
 **Review significant changes to marketing strategy or campaign tactics** to maintain strategic coherence and mitigate risk. 
 

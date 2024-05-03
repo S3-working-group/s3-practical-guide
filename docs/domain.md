@@ -9,7 +9,7 @@ prev_page_url: "drivers-and-requirements.html"
 
 _A **domain** is a distinct area of responsibility and authority within an organization._
 
-To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap or be fully contained within other domains.
+To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains – distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap or be fully contained within other domains.
 
 ![Domains may overlap or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
 
@@ -48,7 +48,7 @@ The <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle
 
 It's also possible to understand a domain in relation to organizational drivers:
 
--   the domain's **primary driver** - the main driver the delegatee(s) respond to
+-   the domain's **primary driver** – the main driver the delegatee(s) respond to
 -  the set of subdrivers the organization may benefit from addressing when responding to the domain's primary driver, which include:
     -   **key responsibilities** (any driver following directly from the domain's primary driver)
     -  **dependencies** and **external constraints** (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees' autonomy

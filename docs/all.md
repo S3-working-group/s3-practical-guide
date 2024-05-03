@@ -4,7 +4,7 @@ title: A Practical Guide for Evolving Agile and Resilient Organizations with Soc
 
 ## What is Sociocracy 3.0?
 
-Sociocracy 3.0 — a.k.a. "S3" — is <a href="glossary.html#entry-social-technology" class="glossary-tooltip" data-toggle="tooltip" title="Social Technology: Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.">social technology</a> for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
+Sociocracy 3.0 – a.k.a. "S3" – is <a href="glossary.html#entry-social-technology" class="glossary-tooltip" data-toggle="tooltip" title="Social Technology: Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.">social technology</a> for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
 
 Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
@@ -80,7 +80,7 @@ Even though several sections in this book are brief and may still be rough aroun
 
 ![Influences and history of Sociocracy 3.0](img/context/history.png)
 
-The literal meaning of the term **sociocracy** is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means "power", or "rule".
+The literal meaning of the term **sociocracy** is "rule of the companions": _socio_ – from Latin _socius_ – means "companion", or "friend", and the suffix _-cracy_ – from Ancient Greek κράτος (krátos) – means "power", or "rule".
 
 The word sociocracy can be traced back to 1851, when **Auguste Comte** suggested applying a scientific approach to society: states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
 
@@ -101,7 +101,7 @@ In 2014 **James Priest and Bernhard Bockelbrink** came together to co-create a b
 
 #### The Sociocracy 3.0 Movement
 
-As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds — pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts — who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the S3 and its various applications.
+As interest in Sociocracy 3.0 grows there is a fast growing community of people from a variety of backgrounds – pioneering consultants, coaches, learning facilitators, and people applying S3 into their various contexts – who share appreciation for the transformational potential of Sociocracy 3.0 to help organizations and their members thrive. Many kindly dedicate some of their time to experimenting with and sharing about S3, and who collaborate to learn from one another and document experiences to inform the ongoing development and evolution of the S3 and its various applications.
 
 
 
@@ -258,7 +258,7 @@ _**Raise, seek out and resolve objections to proposals, existing agreements and 
 
 Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, agreements, and activity, through the lens of different people's perspectives helps to identify reasons why proceeding in a specific way could lead to consequences that would better be avoided, and if there are worthwhile ways to improve things.
 
-Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach agreement - can everyone agree with this? - toward the practice of deliberately checking for objections - are there any arguments that reveal why this is not good enough, safe enough, or that there are worthwhile ways to improve?
+Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach agreement - "_can everyone agree with this?_" – toward the practice of deliberately checking for objections – are there any arguments that reveal why this is not good enough, safe enough, or that there are worthwhile ways to improve?
 
 Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. It does however require adequate _transparency_ and mindfulness on the part of decision makers, to inform and involve people who would be impacted (to varying degrees), or to invite those that can bring relevant experience or expertise (see _the Principle of Equivalence_).
 
@@ -274,14 +274,14 @@ Developing a culture that welcomes dissenting opinions and where people consider
 
 When comparing the available paradigms for decision-making, the essential difference lies in where ultimate authority for making a decision is placed. In autocratic systems supremacy lies with an individual or small group. In a system governed by majority vote, supremacy lies with the majority (or those who can convince the majority of their position). In a system aspiring toward consensus with unanimity, supremacy lies with whoever decides to block a proposal or existing agreement. In all three of these cases, a decision is made regardless of whether the motive of those actors is aligned with the interest of the system or not.
 
-When a group or organization chooses to abide by the principle of consent, supremacy shifts from any specific individual or group, to reasoned arguments that reveal the potential for undesirable consequences that would better be avoided or worthwhile ways to improve. This way, people — regardless of their position, rank, function or role — are unable to block decisions based solely on opinion, personal preference or rank, and they can be held to _account_ in the case that they do. Consent invites everyone to at least be reasonable, while still leaving space for individuals to express diverse perspectives, opinions and ideas.
+When a group or organization chooses to abide by the principle of consent, supremacy shifts from any specific individual or group, to reasoned arguments that reveal the potential for undesirable consequences that would better be avoided or worthwhile ways to improve. This way, people – regardless of their position, rank, function or role – are unable to block decisions based solely on opinion, personal preference or rank, and they can be held to _account_ in the case that they do. Consent invites everyone to at least be reasonable, while still leaving space for individuals to express diverse perspectives, opinions and ideas.
 
 
 #### Distinguish between opinion or preference, and objections
 
 Consent draws on the intelligence distributed throughout an organization, not only by inviting people to raise possible _objections_, bso by inviting people to then examine those arguments, rooting out any that are unfounded, evolving those they discover to be only partly true, and revealing those that are valid objections. So it's typically a good idea to _test arguments qualify as objections_ and only act on those that do. This helps avoid wasting time on arguments based merely on opinions, personal preference or bias.
 
-Arguments that qualify as objections—at least as far as stakeholders can tell—help a group in directing their effort toward making changes in those areas where it's necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
+Arguments that qualify as objections – at least as far as stakeholders can tell – help a group in directing their effort toward making changes in those areas where it's necessary or worthwhile to adapt and improve. Incremental improvement based on discovery and learning is built into consent and is an inevitable consequence of adopting the principle.
 
 Adopting the principle of consent shifts the aim of decision-making toward identifying a solution that's good enough for now, and where there are no obvious worthwhile improvements that would justify spending more time. This approach is far more effective than trying to arrive at consensus with unanimity, where the aim is often to accommodate everyone's personal preference and ideas.
 
@@ -307,7 +307,7 @@ Adopting the principle of consent in a team, or in the organization as a whole, 
 
 _**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
 
-Empiricism — the foundation of the scientific method — is an essential principle to embrace if we're to navigate effectively in a complex world. Not only are the environments in which organizations operate complex but an organization is in itself a complex adaptive system. Knowledge about an organizational system and its interactions is often tentative and highly dependent on context. 
+Empiricism – the foundation of the scientific method – is an essential principle to embrace if we're to navigate effectively in a complex world. Not only are the environments in which organizations operate complex but an organization is in itself a complex adaptive system. Knowledge about an organizational system and its interactions is often tentative and highly dependent on context. 
 
 Empiricism can help us to increase certainty and reduce self-delusion, so that we can make the best use of our time. In our attempts to make sense of things and to have a sense of certainty about what is happening, why it's happening, what should happen next and what's needed to achieve that, we often draw conclusions without checking if the assumptions they are built on are true and accurate. In complexity, what we perceive as causation can often turn out to be mere correlation or coincidence, and the outcomes of interventions we make will always lead to some consequences we couldn't predict.
 
@@ -489,7 +489,7 @@ Whatever your particular organizational context, making the hierarchy of account
 
 #### Move from "holding to account" to self-accountability
 
-The principle of accountability applies to everyone. It promotes a shift from being held to account by someone—which often leads to a culture of fear and blame—towards a culture of self-accountability where everyone acknowledges the impact of their actions and inaction on others, and on the system as a whole, and acts accordingly. In your relationships with others, it relates to making and following through on commitments you make, managing expectations, doing what you agree to and answering for when you don't. 
+The principle of accountability applies to everyone. It promotes a shift from being held to account by someone – which often leads to a culture of fear and blame – towards a culture of self-accountability where everyone acknowledges the impact of their actions and inaction on others, and on the system as a whole, and acts accordingly. In your relationships with others, it relates to making and following through on commitments you make, managing expectations, doing what you agree to and answering for when you don't. 
 
 
 #### Create conditions that enable accountability to thrive
@@ -567,7 +567,7 @@ Reflecting on and describing organizational drivers and requirements supports:
 
 Identifying and understanding situations that present potential impediments or opportunities in relation to an organization's objectives is important if we are to successfully orient through our daily work and make the best use of our limited resources, energy, and time. 
 
-However, not all situations that motivate an organization's members to act, are pertinent for the organization to respond to. With the concept of organizational drivers we give a name to those situations an organization's members investigate and determine as relevant to respond to because they anticipate that doing so would be beneficial for the organization - by helping to generate value, eliminate waste, or avoid undesirable risks or consequences.
+However, not all situations that motivate an organization's members to act, are pertinent for the organization to respond to. With the concept of organizational drivers we give a name to those situations an organization's members investigate and determine as relevant to respond to because they anticipate that doing so would be beneficial for the organization – by helping to generate value, eliminate waste, or avoid undesirable risks or consequences.
 
 Making sense of situations that arise in the course of daily work and establishing if those situations are relevant to deal with, before deciding how to respond to them, has evident **benefits**: 
 
@@ -611,7 +611,7 @@ Having a solution-oriented attitude is highly valued in organizations. However, 
 
 _A **domain** is a distinct area of responsibility and authority within an organization._
 
-To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains - distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap or be fully contained within other domains.
+To make better use of their limited time, energy, and resources, people in organizations distribute work between them by creating roles or forming teams, units, or departments. In the process they are explicitly or implicitly defining domains – distinct areas of responsibility and autonomy. All domains are within the overall domain of an organization and may overlap or be fully contained within other domains.
 
 ![Domains may overlap or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
 
@@ -650,7 +650,7 @@ The <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle
 
 It's also possible to understand a domain in relation to organizational drivers:
 
--   the domain's **primary driver** - the main driver the delegatee(s) respond to
+-   the domain's **primary driver** – the main driver the delegatee(s) respond to
 -  the set of subdrivers the organization may benefit from addressing when responding to the domain's primary driver, which include:
     -   **key responsibilities** (any driver following directly from the domain's primary driver)
     -  **dependencies** and **external constraints** (drivers relating to other domains or to the environment beyond the organization) that constrain the delegatees' autonomy
@@ -849,7 +849,7 @@ Even if a situation is relevant to the organization and it falls within your are
 
 ##### Step 3: Determine the requirement
 
-After establishing that a driver is both relevant and a priority, it's helpful to determine the requirement: what you consider is needed or desirable to effectively respond to the situation - before narrowing down on a specific solution. 
+After establishing that a driver is both relevant and a priority, it's helpful to determine the requirement – what you consider is needed or desirable to effectively respond to the situation – before narrowing down on a specific solution. 
 
 _A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step._
 
@@ -1093,14 +1093,14 @@ This is why it's valuable to approach deciding what you believe is required to r
 
 **Even in the case that you are the sole person responsible** for responding to an organizational driver, it's useful to clarify for yourself the requirement, before deciding how to proceed. Deciding on a course of action is often more straightforward when the general direction and scope for such action is determined first.
 
-**Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others - especially to those who will be affected by whatever's decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
+**Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others – especially to those who will be affected by whatever's decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
 
 Once a requirement is determined, the **next steps for responding to the organizational driver** involve agreeing on how to fulfill the requirement, acting on this agreement, reviewing outcomes, and, if needed, adapting your decision to improve it, based on what you learn (see _Respond to Organizational Drivers_ for more details).
 
 In complex situations where multiple and sometimes even contradictory options exist, an iterative approach for determining a requirement may be necessary because: 
 
 -   In some cases the suitability of a particular requirement can only be validated through experimentation (i.e. practical application and subsequent evaluation)
--   fulfilling what was initially determined as required may take you some way toward responding to a driver, but a further requirement—or even several further requirements—may need to be determined and fulfilled sequentially, to respond to the driver in an adequate way.
+-   fulfilling what was initially determined as required may take you some way toward responding to a driver, but a further requirement – or even several further requirements – may need to be determined and fulfilled sequentially, to respond to the driver in an adequate way.
 
 
 ##### How to determine the requirement
@@ -1880,10 +1880,10 @@ _The Tuners design a proposal._
 A well written proposal usually includes:
 
 -   the driver it responds to and the requirement it's intended to fulfill. 
--   the proposal text - what, how, rationale, etc.
--   who will be responsible for what - for overseeing its application/implementation.
--   evaluation date or frequency - when the future agreement will be reviewed.
--   evaluation criteria - to measure/determine the success or effectiveness of the decision.
+-   the proposal text – what, how, rationale, etc.
+-   who will be responsible for what – for overseeing its application/implementation.
+-   evaluation date or frequency – when the future agreement will be reviewed.
+-   evaluation criteria – to measure/determine the success or effectiveness of the decision.
 -   (a due date if necessary).
 
 When developing the proposal it is often enough to design a (few) viable and iterative next step(s). Alternatively, you might prepare a high-level proposal first and then get into details later, once the basic concept has been tested and approved.
@@ -1937,7 +1937,7 @@ Each of the three processes focuses on the investigation of a different subject:
 
 -    In _Consent Decision-Making_ the subject is a **proposal**.
 -    In _Test Argument Qualifies as Objection_ the subject is an **argument** that indicates a possible objection.
--    In _Resolving Objections_ - the subject is a **proposed amendment**. 
+-    In _Resolving Objections_ the subject is a **proposed amendment**. 
 
 ![Table: Mapping the steps of RDM to the other S3 decision-making processes](img/agreements/reasoned-decision-making-table.png)
 
@@ -1956,7 +1956,7 @@ Instead of simply assigning people for _roles_, or making a choice based only on
 
 A prerequisite to the selection process is a _clear description_ of the role's <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>.
 
-##### Role Selection - Steps
+##### Steps
 
 ![Role selection process](img/agreements/selection.png)
 
@@ -1993,7 +1993,7 @@ This pattern can also be used in any situation where there is a need to choose b
 
 ##### Overview
 
-A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> —distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
+A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> – distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
 
 Responsibility for domains is taken on by individuals (role keepers), or by groups of people (teams, projects, platforms, micro-enterprises, departments, etc.) Each team or role keeper contributes toward fulfilling the overall purpose of the organization by taking care of a specific area of responsibility in the organization. In some cases, people might keep more than one role, or be part of more than one team. 
 
@@ -2303,7 +2303,7 @@ Some external constraints are fixed while others may be negotiable with stakehol
 2. **Constraint:** (requirement) Prioritize work on projects with deadlines over time spent on training and development (anticipated impact) so that we can keep to delivery dates agreed upon with customers. (Driver is obvious in this case)
 3. **Constraint:** (requirement) Monthly expenditure over $15k needs to be approved with the PM (anticipated impact) to ensure total expenditure for the project remains within the overall budget. (Driver is obvious in this case)
 4. **Constraint:** (requirement) Consult with the Architecture Circle on decisions related to software architecture, (anticipated impact) to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
-5. **Constraint:** (requirement) Schedule all hands meetings between 15:00 - 18:00 CEST, (anticipated impact) so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
+5. **Constraint:** (requirement) Schedule all hands meetings between 15:00–18:00 CEST, (anticipated impact) so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
 6. **Constraint**: (requirement) For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, (anticipated impact) so that they can bring in their project management experience. **Driver:** (current situation) the team does not currently feel confident managing large projects, alone.
 7. **Constraint**: (requirement) Deliver the finished product to the integration team by 01 Feb (anticipated impact) so that they have time to complete integration before the non-negotiable project deadline on 10 March. (Driver is obvious in this case)
 
@@ -2485,7 +2485,7 @@ Key <a href="glossary.html#entry-metric" class="glossary-tooltip" data-toggle="t
     -   **Responsibilities**: monitored by HR team
     -   **Threshold**: if the rate for a recruiter is less than the average company retention rate, decide what to do about it in the next Planning Meeting 
     -   **Purpose**: (current situation) Onboarding new people carries a high cost (anticipated effect) and a misplaced candidate results in wasted time, effort and resources, and the fact that the vacancy will need to be filled again. (requirement) Identify which recruiters provide candidates with the highest retention rate, (anticipated impact) to minimize the risk of new employees leaving.
-3. **Disruptions - Rate**
+3. **Disruption-Rate**
     -   **Description**: Number of process disruptions because of problems attributed to control hardware/software (data source is the productive process execution system)
     -   **Rate**: weekly 
     -   **Responsibilities**: Product Owner provides the metric, team monitors the metric 
@@ -2872,7 +2872,7 @@ After the session, review your notes and decide for yourself what you will do wi
 <div class="card summary"><div class="card-body">Support each other to learn and grow in the roles and teams you serve in.
 </div></div>
 
-The role keeper — or team — leads the peer review by setting up the process, and by speaking first in each step.
+The role keeper – or team – leads the peer review by setting up the process, and by speaking first in each step.
 
 ![Peer review process](img/process/peer-review.png)
 
@@ -2881,7 +2881,7 @@ Ensure you invite people with complementary perspectives to contribute to the re
 For both appreciations and improvement suggestions, ensure you consider the following aspects:
 
 -   The **value** the delegatee brought to the organization by accounting for the <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>.
--   The role keeper's or team's **work processes**, and their **collaboration** with the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> and with other relevant stakeholders, and – in the case of a team - with each other.
+-   The role keeper's or team's **work processes**, and their **collaboration** with the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> and with other relevant stakeholders, and – in the case of a team – with each other.
 -   How well the **delegator** takes care of their responsibilities.
 -   The **design of the domain** itself (and potentially the design of other related domains).
 -   The role keeper's or team's **competencies and skills** in relation to the domain.
@@ -3041,7 +3041,7 @@ Be accountable:
 <div class="card summary"><div class="card-body">Create a fair salary formula and make it transparent.
 </div></div>
 
-Open salary (also referred to as "transparenty salary") is the practice of determining each employee's compensation according to a set of rules — the _salary formula_ — instead of making compensation subject to individual negotiation between employer and employee. The salary formula — and often individual compensation as well — is transparent to all members of an organization, and sometimes to the public.
+Open salary (also referred to as "transparenty salary") is the practice of determining each employee's compensation according to a set of rules – the _salary formula_ – instead of making compensation subject to individual negotiation between employer and employee. The salary formula – and often individual compensation as well – is transparent to all members of an organization, and sometimes to the public.
 
 A open salary formula needs to suit an organization's context, and to be perceived as fair enough by all stakeholders.
 
@@ -3837,7 +3837,7 @@ A governance backlog contains information about:
 
 An item in a (prioritized) governance backlog typically provides information about: 
 
-- the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> that needs addressing (and the <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a>—for drivers that have been determined as relevant and a priority)
+- the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> that needs addressing (and the <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a> – for drivers that have been determined as relevant and a priority)
 - the next step(s) for addressing the item (e.g. _determine requirement_, form a proposal, _test a proposal_, _review an existing agreement_, _select someone for a role_, including an estimate of the time required
 - other interdependent items (including work items), as well as any other relevant information, e.g. reference to proposals, domain descriptions, etc)
 - who added the item to the backlog (for clarification/questions)
@@ -4078,7 +4078,7 @@ If necessary, the pattern can be repeated to connect multiple fractal organizati
 
 A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>, or by multiple branches, departments, or projects within a larger organization.
 
-These <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</a> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. accounting, product management, or development).
+These <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</a> (i.e. organizations, branches, departments or projects) need to share at least some – and typically most – functional <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. accounting, product management, or development).
 
 ##### Tiers
 
@@ -4180,7 +4180,7 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 Essential Patterns to help you achieve this:
 
 -   _Describe Organizational Drivers_ –  Understanding the situation that is motivating action is an essential component for understanding, defining, and communicating the purpose of an organization, a team, or a department.
--   _Determine Requirements_ - Clarifying the main requirement an organization or team is fulfilling helps people develop a shared understanding of direction for their contribution.
+-   _Determine Requirements_ – Clarifying the main requirement an organization or team is fulfilling helps people develop a shared understanding of direction for their contribution.
 
 
 #### Principle 2 – Develop Strategy
@@ -4191,7 +4191,7 @@ Essential Patterns to help you achieve this:
 Essential Patterns to help you achieve this:
 
 -   _Clarify and Develop Domains_ – A clearly defined area of influence, activity and decision-making is a prerequisite for defining an effective strategy for an organization, a team, or a role.
--   _Clarify Intended Outcome_ - Defining the intended outcome of a strategy is an essential component for monitoring and evaluating its effectiveness, and adapting things when necessary.
+-   _Clarify Intended Outcome_ – Defining the intended outcome of a strategy is an essential component for monitoring and evaluating its effectiveness, and adapting things when necessary.
 -   _Describe Organizational Drivers_ – Understanding the motive for acting in response to a specific situation is an essential component for designing an effective strategy for responding to it 
 -   _Clarify and Develop Strategy_ – Stakeholders collaborating on creating and evolving strategy for an organization, team, or role helps to support creation of relevant and effective strategy.
 -   _Evaluate And Evolve Agreements_ – Reviewing strategy and evolving it as necessary over time ensures it remains helpful and relevant to the organization, team, or role.
@@ -4228,7 +4228,7 @@ Essential patterns to help you achieve this:
 
 -   _Continuous Improvement of Work Process_ – Getting in the habit of continuously seeking to improve the work process supports people's skill in identifying and acting on opportunities to improve.
 -   _Describe Organizational Drivers_ – Before acting on a perceived impediment or opportunity, it is essential to understand the current situation and establish that it makes sense for the organization to respond.
--   _Determine Requirements_ - Agreeing on the general direction and scope of response to an impediment or opportunity first, supports effective decision-making about what specifically to do.
+-   _Determine Requirements_ – Agreeing on the general direction and scope of response to an impediment or opportunity first, supports effective decision-making about what specifically to do.
 -   _Governance Backlog_ – Keeping a prioritized list of all impediments and opportunities that require a governance decision to be made keeps outstanding issues visible and clarifies what is most important to respond to first.
 -   _Navigate via Tension_ – When everyone in the organization pays attention for situations that appear different to what is expected or desired, and brings that information to the attention of those responsible, you maximize the organization’s potential for identifying impediments and opportunities.
 -   _Respond to Organizational Drivers_ – Responding only to challenges and opportunities that are valuable for the organization maximizes return on investment of the limited time, energy, and resources you have available.
@@ -4243,7 +4243,7 @@ Essential patterns to help you achieve this:
 Essential patterns to help you achieve this:
 
 -   _Describe Organizational Drivers_ – Building a shared mental model of the situation you want to address is essential for successfully designing, running, and later on evaluating experiments.
--   _Determine Requirements_ - CClarifying the requirement, including the anticipated impact of fulfilling that requirement, is a prerequisite for designing the experiment, and for determining metrics for success.
+-   _Determine Requirements_ – CClarifying the requirement, including the anticipated impact of fulfilling that requirement, is a prerequisite for designing the experiment, and for determining metrics for success.
 -   _Clarify Intended Outcome_ – A clear description of the intended outcome of an experiment is essential for understanding whether or not an experiment produced the intended result.
 -   _Evaluation Criteria_ – Defining clear criteria for determining success before the start of an experiment, helps to reveal flaws in its design and supports effective evaluation of outcomes. 
 -   _Consent Decision-Making_ – An effective group process for viewing a proposition from a diversity of perspectives, and for testing whether or not an experiment is good enough and safe enough to run.
@@ -4337,7 +4337,7 @@ Essential patterns to help you achieve this:
 Essential patterns to help you achieve this:
 
 -   _Navigate via Tension_ – Looking out for, and addressing situations that could benefit from building or refining a shared mental model, helps people to get on the same page and supports productive dialogue.
--   _Determine Requirements_ - Determining what's required to respond appropriately to an organizational driver before deciding what to do helps develop a shared understanding of the direction and scope of a suitable response to the driver.
+-   _Determine Requirements_ – Determining what's required to respond appropriately to an organizational driver before deciding what to do helps develop a shared understanding of the direction and scope of a suitable response to the driver.
 -   _Clarify and Develop Domains_ – Explicitly clarifying and documenting areas of  responsibility ensures a shared mental model regarding expectations and responsibilities.
 -   _Clarify Intended Outcome_ – By first agreeing on the intended outcome of a proposed activity, project, or agreement, people develop shared understanding of where things should be headed and can then engage in productive dialog about how to get there.
 
@@ -5212,11 +5212,11 @@ For each principle we included a list of suggestions for things you can try. The
 
 #### Delegator responsibilities
 
-**Provide clear strategic direction and priorities** to guide the marketing department's focus and ensure alignment with the company's business objectives. - The company operates in a dynamic industry where priorities shift rapidly, which sometimes leads to misalignment of efforts and inefficient resource utilization.
+**Provide clear strategic direction and priorities** to guide the marketing department's focus and ensure alignment with the company's business objectives. The company operates in a dynamic industry where priorities shift rapidly, which sometimes leads to misalignment of efforts and inefficient resource utilization.
 
-**Be responsive:** Maintain open channels of communication for feedback and escalation to resolve issues swiftly and keep marketing initiatives on track. – Delays in decision-making stall marketing projects, and result in missed deadlines and lost opportunities.
+**Be responsive:** Maintain open channels of communication for feedback and escalation to resolve issues swiftly and keep marketing initiatives on track. Delays in decision-making stall marketing projects, and result in missed deadlines and lost opportunities.
 
-**Support professional development and training** to ensure the marketing team's skills and knowledge remain cutting-edge.– The marketing field is continually evolving, leading to skill gaps and falling behind industry standards without ongoing training.
+**Support professional development and training** to ensure the marketing team's skills and knowledge remain cutting-edge. The marketing field is continually evolving, leading to skill gaps and falling behind industry standards without ongoing training.
 
 **Review significant changes to marketing strategy or campaign tactics** to maintain strategic coherence and mitigate risk. 
 

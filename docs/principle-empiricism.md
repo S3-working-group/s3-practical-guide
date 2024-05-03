@@ -9,7 +9,7 @@ prev_page_url: "principle-consent.html"
 
 _**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
 
-Empiricism — the foundation of the scientific method — is an essential principle to embrace if we're to navigate effectively in a complex world. Not only are the environments in which organizations operate complex but an organization is in itself a complex adaptive system. Knowledge about an organizational system and its interactions is often tentative and highly dependent on context. 
+Empiricism – the foundation of the scientific method – is an essential principle to embrace if we're to navigate effectively in a complex world. Not only are the environments in which organizations operate complex but an organization is in itself a complex adaptive system. Knowledge about an organizational system and its interactions is often tentative and highly dependent on context. 
 
 Empiricism can help us to increase certainty and reduce self-delusion, so that we can make the best use of our time. In our attempts to make sense of things and to have a sense of certainty about what is happening, why it's happening, what should happen next and what's needed to achieve that, we often draw conclusions without checking if the assumptions they are built on are true and accurate. In complexity, what we perceive as causation can often turn out to be mere correlation or coincidence, and the outcomes of interventions we make will always lead to some consequences we couldn't predict.
 

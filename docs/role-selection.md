@@ -18,7 +18,7 @@ Instead of simply assigning people for [roles](role.html), or making a choice ba
 
 A prerequisite to the selection process is a [clear description](clarify-and-develop-domains.html) of the role's <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domain</a>.
 
-## Role Selection - Steps
+## Steps
 
 ![Role selection process](img/agreements/selection.png)
 

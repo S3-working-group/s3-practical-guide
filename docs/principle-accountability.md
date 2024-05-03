@@ -36,7 +36,7 @@ Whatever your particular organizational context, making the hierarchy of account
 
 ## Move from "holding to account" to self-accountability
 
-The principle of accountability applies to everyone. It promotes a shift from being held to account by someone—which often leads to a culture of fear and blame—towards a culture of self-accountability where everyone acknowledges the impact of their actions and inaction on others, and on the system as a whole, and acts accordingly. In your relationships with others, it relates to making and following through on commitments you make, managing expectations, doing what you agree to and answering for when you don't. 
+The principle of accountability applies to everyone. It promotes a shift from being held to account by someone – which often leads to a culture of fear and blame – towards a culture of self-accountability where everyone acknowledges the impact of their actions and inaction on others, and on the system as a whole, and acts accordingly. In your relationships with others, it relates to making and following through on commitments you make, managing expectations, doing what you agree to and answering for when you don't. 
 
 
 ## Create conditions that enable accountability to thrive
