@@ -22,7 +22,7 @@ For each [domain](glossary:domain) in an organization there is a _governing body
 
 There are many ways to distribute work and governance. Sometimes the governing body is a single person, e.g. in the case of a manager who leads others. Other times a [group of people govern themselves](section:circle) and all members share responsibility for governance within the constraints of their domain. 
  
-**Governance decisions** set constraints on activity and guide future decisions.They relate to matters like:
+**Governance decisions** set constraints on activity and guide future decisions. They relate to matters like:
 
 -   Work processes
 -   Policies and procedures about how people work together
