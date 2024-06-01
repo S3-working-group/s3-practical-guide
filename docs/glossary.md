@@ -209,7 +209,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-social-technology">Social Technology</dt>
-<dd>Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.</dd>
+<dd>Any process, technique, method, skill or any other approach that people can use to influence social systems – organizations, societies, communities etc. – to support achieving shared objectives and guide meaningful interaction and exchange.</dd>
 
 
 <dt id="entry-sociocracy">Sociocracy</dt>
@@ -269,7 +269,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-waste">Waste</dt>
-<dd>Anything unnecessary for — or standing in the way of — a (more) effective response to a driver.</dd>
+<dd>Anything unnecessary for – or standing in the way of – a (more) effective response to a driver.</dd>
 
 
 </dl>

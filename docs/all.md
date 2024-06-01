@@ -4,7 +4,7 @@ title: A Practical Guide for Evolving Agile and Resilient Organizations with Soc
 
 ## What is Sociocracy 3.0?
 
-Sociocracy 3.0 – a.k.a. "S3" – is <a href="glossary.html#entry-social-technology" class="glossary-tooltip" data-toggle="tooltip" title="Social Technology: Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.">social technology</a> for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
+Sociocracy 3.0 – a.k.a. "S3" – is <a href="glossary.html#entry-social-technology" class="glossary-tooltip" data-toggle="tooltip" title="Social Technology: Any process, technique, method, skill or any other approach that people can use to influence social systems – organizations, societies, communities etc. – to support achieving shared objectives and guide meaningful interaction and exchange.">social technology</a> for evolving agile and resilient organizations at any size, from small start-ups to large international networks and multi-agency collaboration.
 
 Inside this practical guide you'll discover a comprehensive collection of tried and tested **concepts, principles and practices for improving performance, engagement and wellbeing** in organizations.
 
@@ -594,7 +594,7 @@ Both concepts can be explained in relation to drivers:
 
 _**Value** is the importance, worth or usefulness of something in relation to a driver._
 
-_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
+_**Waste** is anything unnecessary for – or standing in the way of – a (more) effective response to a driver._
 
 There's a wealth of research and development about the concept of value and waste in organizations. We'd encourage you to explore that for yourself.
 
@@ -3319,7 +3319,7 @@ Include the people involved and affected in regular evaluation of outcomes.
 
 ##### Waste And Continuous Improvement
 
-_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
+_**Waste** is anything unnecessary for – or standing in the way of – a (more) effective response to a driver._
 
 Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models etc.)
 
@@ -5696,7 +5696,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Semi-Autonomy:** The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.
 
 
-**Social Technology:** Any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.
+**Social Technology:** Any process, technique, method, skill or any other approach that people can use to influence social systems – organizations, societies, communities etc. – to support achieving shared objectives and guide meaningful interaction and exchange.
 
 
 **Sociocracy:** An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.
@@ -5741,7 +5741,7 @@ To find out how you can contribute to the development of S3, go to <https://soci
 **Values:** Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.
 
 
-**Waste:** Anything unnecessary for — or standing in the way of — a (more) effective response to a driver.
+**Waste:** Anything unnecessary for – or standing in the way of – a (more) effective response to a driver.
 
 
 

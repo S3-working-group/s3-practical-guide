@@ -63,7 +63,7 @@ Both concepts can be explained in relation to drivers:
 
 _**Value** is the importance, worth or usefulness of something in relation to a driver._
 
-_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
+_**Waste** is anything unnecessary for – or standing in the way of – a (more) effective response to a driver._
 
 There's a wealth of research and development about the concept of value and waste in organizations. We'd encourage you to explore that for yourself.
 
