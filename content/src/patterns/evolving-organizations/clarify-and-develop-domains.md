@@ -40,8 +40,8 @@ A simple way for supporting stakeholders in developing shared understanding abou
 -   **External Constraints**: _What are important external constraints to the delegatees' autonomy and influence?_
 -   **Key Challenges**: _What are the most important known (or anticipated) challenges the delegatees might face?_
 -   **Key Resources**: _What essential resources can the team (or role keeper) make use of?_
--   **Delegator Responsibilities**: _What responsibilities can delegatees rely on the delegator to take care of to support them to successfully account for this domain?_
--   **Competencies, Qualities and Skills**: _What competencies, qualities and skills are required – or at least preferable – to successfully account for this domain?_
+-   **Delegator Responsibilities**: _What responsibilities can delegatees rely on the delegator to take care of to support them to successfully attend to this domain?_
+-   **Competencies, Qualities and Skills**: _What competencies, qualities and skills are required – or at least preferable – to successfully attend to this domain?_
 -   **Key Metrics and Monitoring**: _What are the critical indicators of progress, performance, project health, etc, how frequently will they be measured and by whom?_
 -   **Evaluation Schedule:** _When and how will you evaluate the effectiveness of the domain's design and the success of the team (or role keeper) in fulfilling the domain's purpose?_
 
@@ -54,7 +54,7 @@ For a complete example of a domain description, see the Appendix: [Example Domai
 
 Free delegatees up to create and deliver value. Aim to design or develop domains in ways that enable them to fulfill the purpose of the domain as effectively as possible: 
 
--   Avoid, minimize or remove any unnecessary dependencies and constraints that otherwise impede the ability of the delegatees to successfully account for the domain.
+-   Avoid, minimize or remove any unnecessary dependencies and constraints that otherwise impede the ability of the delegatees to successfully attend to the domain.
 -   Enable delegatees to undertake whichever activities they consider to be valuable, unless such activity falls outside of the domain of the organization, is explicitly forbidden, they violate somebody else's (explicit) domain, or if it impedes other people's contribution to the organization in some other way. Things that are forbidden may include explicit constraints laid out in the domain description, any other agreements the delegatees need to keep, or legal and regulatory requirements.
 -   Aim to design simple metrics that help delegatees learn whether or not they focus on the right things   
 -   Keep the design brief and to the point, and schedule regular evaluations to discover what is working, what's missing, and what needs to be changed.
@@ -249,7 +249,7 @@ The purpose of work done by the delegatees is to provide value to their **custom
 
 _Who is the team (or role keeper) dependent on, from other parts of the organization or the outside world, and what deliverable(s) do these people provide?_
 
-Dependencies refer to who and what the delegatees rely on, besides themselves and the key resources they have available, to be able to account for the domain successfully. Some dependencies are prerequisites for the daily work, others are only required occasionally.
+Dependencies refer to who and what the delegatees rely on, besides themselves and the key resources they have available, to be able to attend to the domain successfully. Some dependencies are prerequisites for the daily work, others are only required occasionally.
 
 **Describe** those **deliverables** that are essential to the work of the delegatees. Explicitly name **who provides them** in each case (either from within the organization or from the outside world), and clarify the requirement that each deliverable is intended to fulfill.
 
@@ -342,7 +342,7 @@ Some external constraints are fixed while others may be negotiable with stakehol
 
 _What are the most important known (or anticipated) challenges the delegatees might face?_
 
-Key challenges relate to situations that might significantly impede the delegatees' ability to successfully account for the domain and where what's required to deal with those situations is variable or not obvious. Explicitly describing key challenges enables delegatees to monitor and decide how to prepare for and respond to them, should they occur. 
+Key challenges relate to situations that might significantly impede the delegatees' ability to successfully attend to the domain and where what's required to deal with those situations is variable or not obvious. Explicitly describing key challenges enables delegatees to monitor and decide how to prepare for and respond to them, should they occur. 
 
 Key challenges include:
 
@@ -351,7 +351,7 @@ Key challenges include:
 -   uncertainty and complexity
 -   lack of skills or resources
 
-**Describe** the _Driver_, the situation that is (or might be) challenging and the (anticipated) effect this would have on the organization. Include information about  how this might impede the ability of the delegatees to successfully account for this domain.
+**Describe** the _Driver_, the situation that is (or might be) challenging and the (anticipated) effect this would have on the organization. Include information about  how this might impede the ability of the delegatees to successfully attend to this domain.
 
 **Recommended format:** Driver: (current situation) and (anticipated or current) effect
 
@@ -416,7 +416,7 @@ Key resources can include:
 
 ### Delegator Responsibilities
 
-_What responsibilities can delegatees rely on the delegator to take care of to support them to successfully account for this domain?_
+_What responsibilities can delegatees rely on the delegator to take care of to support them to successfully attend to this domain?_
 
 When delegating responsibility for a domain to others, the delegator retains overall [accountability](section:principle-accountability) for ensuring the purpose of the domain is fulfilled. In support of this, they often have a valuable contribution to make toward the delegatees success. Describing specific responsibilities relating to the domain that the delegator will keep or take on, clarifies what delegatees can rely on them for, and helps to keep expectations clear.
 
@@ -445,7 +445,7 @@ When delegating responsibility for a domain to others, the delegator retains ove
 
 **Tips:**
 
--   Describe all responsibilities that the delegator keeps or takes on to support delegatees to successfully account for this domain. This includes responsibilities that may only require a small effort but that make the team's or role keeper's lives easier.
+-   Describe all responsibilities that the delegator keeps or takes on to support delegatees to successfully attend to this domain. This includes responsibilities that may only require a small effort but that make the team's or role keeper's lives easier.
 -   When identifying delegator responsibilities, consider any opportunities for learning, development and support that are helpful for the delegatees.
 -   Often, delegator responsibilities can be adequately documented by describing the requirements. If the organizational driver behind a particular delegator key responsibility is unclear, describe this as well to add context. Doing so helps to ensure that the reason for fulfilling each of these requirements is clear.
 -   Don't describe the tasks that the delegator is responsible for taking care of but rather the requirements that those tasks are meant to fulfill. 
@@ -456,9 +456,9 @@ When delegating responsibility for a domain to others, the delegator retains ove
 
 ### Competencies, qualities and skills
 
-_What competencies, qualities and skills are required – or at least preferable – to successfully account for this domain?_
+_What competencies, qualities and skills are required – or at least preferable – to successfully attend to this domain?_
 
-For selecting suitable delegatees, and for identifying important areas for training and development, it's helpful to determine any attributes that are considered necessary or desirable for the role keeper or team members to have, to successfully account for this domain.
+For selecting suitable delegatees, and for identifying important areas for training and development, it's helpful to determine any attributes that are considered necessary or desirable for the role keeper or team members to have, to successfully attend to this domain.
 
 **Record** any information that helps people to understand the competencies, qualities or skills that delegatees need to have or develop, to account successfully for this domain. If not obvious, include an explanation of why a particular competence, quality of skill is relevant (which requirement it fulfills).
 

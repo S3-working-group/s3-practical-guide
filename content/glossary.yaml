@@ -15,7 +15,7 @@ terms:
     definition:
     glossary: "**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization."
   account:
-    name: Account for (v.)
+    name: Attend to (v.)
     glossary: to take responsibility for something.
   agreement:
     name: Agreement
@@ -33,8 +33,8 @@ terms:
     glossary: A set of principles a team (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
   circle:
     name: Circle
-    definition: A **circle** is a self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.
-    glossary: A self-governing and semi-autonomous team of equivalent people who collaborate to account for a domain.
+    definition: A **circle** is a self-governing and semi-autonomous team of equivalent people who collaborate to attend to a domain.
+    glossary: A self-governing and semi-autonomous team of equivalent people who collaborate to attend to a domain.
   check-in:
     name: Check-In
     definition: 
@@ -67,8 +67,8 @@ terms:
     glossary: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
   delegation:
     name: Delegation
-    definition: Delegation is the grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.
-    glossary: The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.
+    definition: Delegation is the grant of authority by one party (the delegator) to another (the delegatee) to attend to a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.
+    glossary: The grant of authority by one party (the delegator) to another (the delegatee) to attend to a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.
   delegator:
     name: Delegator
     glossary: An individual or group delegating responsibility for a domain to other(s).
@@ -172,7 +172,7 @@ terms:
   primary-driver:
     name: Primary Driver
     definition:
-    glossary: The primary driver for a domain is the main driver that people who account for that domain respond to.
+    glossary: The primary driver for a domain is the main driver that people who attend to that domain respond to.
   principle:
     name: Principle
     definition: A **principle** is a basic idea or rule that guides behavior, or explains or controls how something happens or works.
@@ -217,8 +217,8 @@ terms:
     glossary: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).
   strategy:
     name: Strategy
-    definition: A **strategy** is a high level approach for how people will create value to successfully account for a domain.
-    glossary: A high level approach for how people will create value to successfully account for a domain.
+    definition: A **strategy** is a high level approach for how people will create value to successfully attend to a domain.
+    glossary: A high level approach for how people will create value to successfully attend to a domain.
   subdomain:
     name: Subdomain
     definition:

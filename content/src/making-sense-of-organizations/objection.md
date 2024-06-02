@@ -33,7 +33,7 @@ If no one has an objection or if arguments that [qualify as objections](section:
 
 The purpose of identifying, testing and resolving objections to proposals and existing agreements is not to reach or ensure a 'perfect' decision, but rather one that is _good enough for now and safe enough to try_. This means that, as far as the people involved in the decision-making were able to determine, for now, there are no known consequences or risks that would be better avoided, and no worthwhile improvements either. 
 
-In the case of complex matters, approaching decision-making in an iterative and incremental way encourages people to try things out, instead of attempting to anticipate and account for all possibilities in advance. It encourages developing a preference for trying things out, instead of attempting to anticipate and account for all possibilities in advance.
+In the case of complex matters, approaching decision-making in an iterative and incremental way encourages people to try things out, instead of attempting to anticipate and attend to all possibilities in advance. 
 
 A regular cadence for evaluating significant decisions and deliberately checking for objections to continuing with a decision unchanged, provides further opportunities to identify ways to improve existing agreements. And, it helps people to relax into making decisions that are _good enough for now and safe enough to try_ (see [Evaluate and Evolve Agreements](section:evaluate-and-evolve-agreements)). This approach supports a journey of experimentation and discovery, and evolving decisions based on learning over time. 
 

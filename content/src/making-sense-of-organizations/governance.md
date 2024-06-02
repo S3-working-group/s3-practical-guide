@@ -27,7 +27,7 @@ There are many ways to distribute work and governance. Sometimes the governing b
 -   Work processes
 -   Policies and procedures about how people work together
 -   Organizational structure:
-    -   Distributing responsibilities and power to influence by designing domains and selecting people to account for them
+    -   Distributing responsibilities and power to influence by designing domains and selecting people to attend to them
     -   Accounting for dependencies between teams
 -   Distribution of resources
 -   Strategy (for the whole organization, for a team, product or role), 

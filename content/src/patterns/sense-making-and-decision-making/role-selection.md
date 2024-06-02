@@ -31,6 +31,6 @@ A prerequisite to the selection process is a [clear description](section:clarify
 
 To avoid influencing others, abstain from expressing personal interest or opinions before a selection takes place.
 
-Sometimes a role selection reveals a lack of capacity, relevant experience, qualities or skill. A group will then need to consider outside candidates, reconsider priorities or find an alternative way to account for the domain.
+Sometimes a role selection reveals a lack of capacity, relevant experience, qualities or skill. A group will then need to consider outside candidates, reconsider priorities or find an alternative way to attend to the domain.
 
 This pattern can also be used in any situation where there is a need to choose between a variety of options.

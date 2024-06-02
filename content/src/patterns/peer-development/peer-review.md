@@ -17,7 +17,7 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 -   How well the **delegator** takes care of their responsibilities.
 -   The **design of the domain** itself (and potentially the design of other related domains).
 -   The role keeper's or team's **competencies and skills** in relation to the domain.
--   The **[strategy](glossary:strategy)** the role keeper or team follows to account for this domain.
+-   The **[strategy](glossary:strategy)** the role keeper or team follows to attend to this domain.
 
 ![Continuous improvement of people's ability to effectively keep roles or collaborate in teams](img/evolution/development-process.png)
 

@@ -31,7 +31,7 @@ Typical agenda items include:
 -  [determining requirements](section:determine-requirements)
 -  [forming proposals](section:co-create-proposals)
 -  [making agreements](section:consent-decision-making)
--  [designing domains](section:clarify-and-develop-domains) and deciding how to account for them (e.g. new [roles](section:role), [circles](section:circle) or any other type of team)
+-  [designing domains](section:clarify-and-develop-domains) and deciding how to attend to them (e.g. new [roles](section:role), [circles](section:circle) or any other type of team)
 -  [selecting people for roles](section:role-selection)
 
 
