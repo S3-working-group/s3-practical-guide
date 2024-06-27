@@ -13,9 +13,6 @@ A (facilitated) group process for decision-making: invite objections, and consid
 </only>
 
 
-![Consent Decision-Making](img/agreements/consent-decision-making.png)
-
-
 ## Overview
 
 Consent invites people to (at least) be reasonable and open to opportunities for learning and improvement. When you apply the [principle of consent](section:principle-consent), you are agreeing to intentionally seek out [objections](section:objection).
@@ -30,6 +27,7 @@ Not all arguments raised are objections, but they might reveal [concerns](sectio
 
 {{define:concern}}
 
+![Consent Decision-Making](img/agreements/consent-decision-making.png)
 
 ## Step 1: Consent to Driver and Requirement
 
