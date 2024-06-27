@@ -152,7 +152,7 @@ terms:
   organization:
     name: Organization
     definition:
-    glossary: A group of people collaborating toward a common purpose. Often an organization subdivides into several teams.
+    glossary: A group of people collaborating toward fulfilling a common purpose. Often an organization subdivides into several teams.
   organizational-driver:
     name: Organizational Driver
     definition: An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).
