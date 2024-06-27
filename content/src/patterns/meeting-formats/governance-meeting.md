@@ -22,16 +22,24 @@ A typical governance meeting includes:
 -   [meeting evaluation](section:evaluate-meetings): reflect on your interactions, celebrate successes and share suggestions for improvement
 -   closing: check in with each other before you leave the meeting
 
+**Roles involved in a governance meeting:**
+
+-   [Meeting Host](section:meeting-host)
+-   [Logbook Keeper](section:logbook-keeper)
+-   [Governance Facilitator](section:governance-facilitator)
+
+
 ![Phases of a governance meeting](img/meetings/governance-meeting.png)
 
 Typical agenda items include:
 
--  any short reports
--  evaluation of existing [agreements](glossary:agreement) due review
--  [determining requirements](section:determine-requirements)
--  [forming proposals](section:co-create-proposals)
--  [making agreements](section:consent-decision-making)
--  [designing domains](section:clarify-and-develop-domains) and deciding how to attend to them (e.g. new [roles](section:role), [circles](section:circle) or any other type of team)
--  [selecting people for roles](section:role-selection)
+-   any short reports
+-   evaluation of existing [agreements](glossary:agreement) due review
+-   [testing objections](section:test-arguments-qualify-as-objections) and, if they qualify, [resolving them](section:resolve-objections)
+-   [determining requirements](section:determine-requirements)
+-   [forming proposals](section:co-create-proposals)
+-   [making agreements](section:consent-decision-making)
+-   [designing domains](section:clarify-and-develop-domains) and deciding how to attend to them (e.g. new [roles](section:role), [circles](section:circle) or any other type of team)
+-   [selecting people for roles](section:role-selection)
 
 
