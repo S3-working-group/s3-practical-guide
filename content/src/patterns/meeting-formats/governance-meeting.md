@@ -34,7 +34,7 @@ A typical governance meeting includes:
 Typical agenda items include:
 
 -   any short reports
--   evaluation of existing [agreements](glossary:agreement) due review
+-   evaluation of existing [agreements](glossary:governance-agreement) due review
 -   [testing objections](section:test-arguments-qualify-as-objections) and, if they qualify, [resolving them](section:resolve-objections)
 -   [determining requirements](section:determine-requirements)
 -   [forming proposals](section:co-create-proposals)

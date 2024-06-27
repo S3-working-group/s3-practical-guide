@@ -14,7 +14,7 @@ Content relating to the whole organization:
 
 -   [primary driver](glossary:primary-driver), [strategy](glossary:strategy) and organizational [values](glossary:values)
 -   organizational structure ([domains](glossary:domain) and the connections between them)
--   [agreements](glossary:agreement)
+-   [agreements](glossary:governance-agreement)
 
 Content relating to a specific team or [role](glossary:role):
 

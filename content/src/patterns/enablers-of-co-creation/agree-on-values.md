@@ -9,7 +9,7 @@ Intentionally evolve the culture in your organization.
 -   each member brings their own values to an organization based on personal experiences and beliefs
 -   a team or organization may **choose to collectively adopt values** to guide their collaboration
 
-Values offer guidance to determine appropriate action, even in the absence of explicit [agreements](glossary:agreement).
+Values offer guidance to determine appropriate action, even in the absence of explicit [agreements](glossary:governance-agreement).
 
 Collectively adopting a set of values supports the effectiveness of an organization:
 

@@ -19,7 +19,7 @@ Maintain a system that allows all stakeholders to review the state of all work i
 -   **stages** of work (e.g. "to do", "in progress", "review" and "done")
 -   impediments/blocks
 -   who is working on which items
--   [agreements](glossary:agreement) and expectations guiding workflow (e.g. definition of done, policy, quality standards)
+-   [agreements](glossary:governance-agreement) and expectations guiding workflow (e.g. definition of done, policy, quality standards)
 -   use colors, symbols, highlights etc.
 
 ![A card representing a work item](img/workflow-and-value/card.png)

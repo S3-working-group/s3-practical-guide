@@ -24,8 +24,8 @@ parts:
       - drivers-and-requirements
       - domain
       - objection
-      - agreement
       - governance
+      - agreement
   - id: patterns
     parts:
       - id: sense-making-and-decision-making
