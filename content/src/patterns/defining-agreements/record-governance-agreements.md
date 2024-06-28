@@ -2,9 +2,9 @@
 
 <summary>
 Record the details and purpose of governance agreements you make, so that you remember what was decided over time.
+</summary>
 
 {{define:governance agreement}}
-</summary>
 
 While to some the idea of recording governance agreements might seem like an overhead at first, there are numerous **benefits** to being able to recollect and review what has been decided and why over time: 
 
