@@ -12,7 +12,7 @@ Greater autonomy of individuals and teams necessitates clear [agreements](glossa
 While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people’s behavior and activity, often benefits from a more participatory and deliberate [decision-making process](section:consent-decision-making). These agreements include but are not limited to matters such as strategy, priorities, distribution of responsibilities and power to influence, work processes, and many decisions about products and services.
 
 
-Such agreements need to be [recorded](section:record-agreements) so that they can be communicated to the [people who are affected](section:equivalence) by them, and so that they can be recalled later to support effective [evaluation](section:evaluate-and-evolve-agreements).
+Such agreements need to be [recorded](section:record-governance-agreements) so that they can be communicated to the [people who are affected](section:equivalence) by them, and so that they can be recalled later to support effective [evaluation](section:evaluate-and-evolve-agreements).
 
 Therefore it’s valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations:
 
@@ -50,7 +50,7 @@ Depending on the context, a team might make governance decisions:
 -   in a one-off meeting to deal with a specific topic
 -   in other types of meetings such as product meetings, [planning meetings](section:planning-and-review-meetings) or [retrospectives](section:retrospective), etc.
 
-Wherever and whenever you make governance decisions, one thing worth considering is [documenting them somehow](section:record-agreements). This way you’ll be able to remember what was agreed, so will others, and you’ll have something to come back to when it’s time to review.
+Wherever and whenever you make governance decisions, one thing worth considering is [documenting them somehow](section:record-governance-agreements). This way you’ll be able to remember what was agreed, so will others, and you’ll have something to come back to when it’s time to review.
 
 
 ## Related Concepts

@@ -202,9 +202,9 @@
 
 -   Introduction: Added _Objection_ and _Agreement_ to concepts
 -   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)
--   renamed pattern _Agreement_ to [Record Agreements](section:record-agreements)
+-   renamed pattern _Agreement_ to [Record Agreements](section:record-governance-agreements)
 -   [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections): revised text and updated illustration
--   [Record Agreements](section:record-agreements): revised text, added more details of agreements that might be recorded, updated illustration
+-   [Record Agreements](section:record-governance-agreements): revised text, added more details of agreements that might be recorded, updated illustration
 
 
 ## Changes 2019-12-22
@@ -267,7 +267,7 @@
 
 **Changes to Patterns:**
 
--   [Agreement](section:record-agreements): description now mentions that any expectations should be recorded
+-   [Agreement](section:record-governance-agreements): description now mentions that any expectations should be recorded
 -   [Describe Deliverables](section:describe-deliverables): updated summary
 -   [Describe Organizational Drivers](section:describe-organizational-drivers): more information on summarizing drivers
 -   [Resolve Objections](section:resolve-objections): added summary and description
@@ -302,7 +302,7 @@
 -   [Agree on Values](section:agree-on-values): improved description
 -   [Align Flow](section:align-flow): improved description and illustration
 -   [Adapt Patterns To Context](section:adapt-patterns-to-context): improved description
--   [Agreement](section:record-agreements): improved description, updated template
+-   [Agreement](section:record-governance-agreements): improved description, updated template
 -   [Artful Participation](section:artful-participation): improved summary
 -   [Clarify Intended Outcome](section:clarify-intended-outcome) (renamed from _Intended Outcome_): improved description
 -   [Consent Decision-Making](section:consent-decision-making): improved description, updated illustration
@@ -316,7 +316,7 @@
 -   [Double Linking](section:double-linking): aligned description to _Link_
 -   [Double-Linked Hierarchy](section:double-linked-hierarchy): explained in more detail what a double-linked hierarchy is, and how it is created
 -   [Evaluate and Evolve Agreements](section:evaluate-and-evolve-agreements): rearranged the text so it's clear there is a long and a short format
--   [Evaluation Criteria](section:evaluation-criteria): suggested clarifying a threshold for success, and we explained about also evolving evaluation criteria when evolving agreements
+-   [Evaluation Criteria](section:define-and-monitor-metrics): suggested clarifying a threshold for success, and we explained about also evolving evaluation criteria when evolving agreements
 -   [Facilitate Meetings](section:facilitate-meetings): improved description
 -   [Fractal Organization](section:fractal-organization): extended and improved description
 -   [Governance Backlog](section:governance-backlog): improved description

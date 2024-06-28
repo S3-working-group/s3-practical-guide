@@ -153,13 +153,13 @@ parts:
         parts:
           - id: contract-for-successful-collaboration
             tags: [pattern]          
-          - id: record-agreements
+          - id: record-governance-agreements
             tags: [pattern]
           - id: clarify-intended-outcome
             tags: [pattern]
           - id: describe-deliverables
             tags: [pattern]
-          - id: evaluation-criteria
+          - id: define-and-monitor-metrics
             tags: [pattern]
           - id: logbook
             tags: [pattern]
