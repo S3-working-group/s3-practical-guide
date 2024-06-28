@@ -1,6 +1,6 @@
 # this is the database for the glossary.
 # each entry has a key that is used to reference it in the source files 
-# {define:driver}
+# {{define:driver}}
 # and some translatable strings
 # - name: the name of the glossary entry
 # - definition: the definition of the term in the form "a **x** is …"
