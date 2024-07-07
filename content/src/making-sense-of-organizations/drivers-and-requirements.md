@@ -22,7 +22,7 @@ In the context of Sociocracy 3.0, [effectiveness](section:principle-effectivenes
 
 Reflecting on and describing organizational drivers and requirements supports:
 
--   understanding situations that motivate action (**sense-making)**
+-   understanding situations that motivate action (**sense-making**)
 -   establishing whether and why a situation is relevant to respond to (**meaning-making**) 
 -   determining direction and scope for a suitable response to the situation (**decision-making**)
 
