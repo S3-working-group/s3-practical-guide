@@ -9,6 +9,44 @@
 </only>
 
 
+## Changes 2024-??-??
+
+
+**General Changes**
+
+-   Agreement -> Governance Agreement
+    -   -  updated concept page for Governance Agreement
+-   updated page aubout governance, explained about setting objectives, what else?
+
+**Glossary**
+
+-  updated objective, organization
+-  added Intended Outcome
+-  replaced account for with attend to (in relation to domains)
+-  governance backlog
+-  agreement -> Governance Agreement (and updated definition)
+-  governance
+
+**Changes to Patterns**
+
+- governance backlog:
+- updated Governance Meeting
+- updated summary of Evaluate and Evolve Agreements
+- extedned the description io Clarify Intended Outcome, added examples
+- record governance agreements: explained benefits, revesed the template and the recommendations for what to include in a record
+
+**Renamed Patterns:**
+
+-   renamed _Evaluation Criteria_ to [Define and Monitor Metrics](section:define-and-monitor-metrics)
+-   renamed _Record Agreements_ to [Record Governance Agreements](section:record-governance-agreements)
+
+**Added Patterns:** 
+
+
+**Removed Patterns:**
+
+
+
 ## Changes 2024-04-18
 
 
