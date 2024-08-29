@@ -2,6 +2,12 @@
 Inbox:
 	- fix source of pattern map (outdated link to enablers of co-creation) and merge updated templates (also in docs/includes) to language versions
 	- make soure to use straight quotation marks  instead of typographic quotation marks ‘…’ and “…” @done
+	- build a sublime (plugin or similar) that cleans up text copied from google docs:
+		- replace typographic apostrophe and quotes with plain text
+		- fix glossary links (before other links)
+		- fix other links
+		- replace underlines with link template []()
+		- update style of lists
 
 ebook:
 	- ToC doesn't build correctly in PDF: @done
