@@ -136,7 +136,7 @@ terms:
   objective:
     name: Objective
     definition:
-    glossary: A (specific) result or goal that a person, team or organization wants to achieve. In the context of S3, objectives refer to achieving intended outcomes, fulfilling requirements, and ultimately, responding adequately to organizational drivers.
+    glossary: A specific result (or goal) that a person, team or organization wants to achieve. In the context of S3, objectives refer to achieving intended outcomes, fulfilling requirements, and ultimately, responding adequately to organizational drivers.
   open-team:
     name: Open Team
     definition: An **open team** is a group of people who are invited to contribute to the work and governance done in a domain when they can.
