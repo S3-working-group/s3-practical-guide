@@ -153,7 +153,7 @@ parts:
         parts:
           - id: contract-for-successful-collaboration
             tags: [pattern]          
-          - id: record-governance-agreements
+          - id: record-governance-decisions
             tags: [pattern]
           - id: clarify-intended-outcome
             tags: [pattern]

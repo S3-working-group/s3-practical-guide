@@ -37,8 +37,6 @@ Record policies with adequate detail so that important information can be recall
 
 Depending on the scope and significance of the policy, consider including all of the following:
 
-
-
 -   A title for the agreement
 -   Date of creation (or version)
 -   Date of expiry or due date (if relevant)

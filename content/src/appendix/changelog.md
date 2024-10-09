@@ -31,6 +31,7 @@
 
 - governance backlog:
 - updated Governance Meeting
+- Record Governance Decisions
 - updated summary of Evaluate and Evolve Agreements
 - extedned the description io Clarify Intended Outcome, added examples
 - record governance agreements: explained benefits, revesed the template and the recommendations for what to include in a record
@@ -38,7 +39,7 @@
 **Renamed Patterns:**
 
 -   renamed _Evaluation Criteria_ to [Define and Monitor Metrics](section:define-and-monitor-metrics)
--   renamed _Record Agreements_ to [Record Governance Agreements](section:record-governance-agreements)
+-   renamed _Record Agreements_ to [Record Governance Decisions](section:record-governance-decisions)
 
 **Added Patterns:** 
 
@@ -240,9 +241,9 @@
 
 -   Introduction: Added _Objection_ and _Agreement_ to concepts
 -   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections)
--   renamed pattern _Agreement_ to [Record Agreements](section:record-governance-agreements)
+-   renamed pattern _Agreement_ to [Record Agreements](section:record-governance-decisions)
 -   [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections): revised text and updated illustration
--   [Record Agreements](section:record-governance-agreements): revised text, added more details of agreements that might be recorded, updated illustration
+-   [Record Agreements](section:record-governance-decisions): revised text, added more details of agreements that might be recorded, updated illustration
 
 
 ## Changes 2019-12-22
@@ -305,7 +306,7 @@
 
 **Changes to Patterns:**
 
--   [Agreement](section:record-governance-agreements): description now mentions that any expectations should be recorded
+-   [Agreement](section:record-governance-decisions): description now mentions that any expectations should be recorded
 -   [Describe Deliverables](section:describe-deliverables): updated summary
 -   [Describe Organizational Drivers](section:describe-organizational-drivers): more information on summarizing drivers
 -   [Resolve Objections](section:resolve-objections): added summary and description
@@ -340,7 +341,7 @@
 -   [Agree on Values](section:agree-on-values): improved description
 -   [Align Flow](section:align-flow): improved description and illustration
 -   [Adapt Patterns To Context](section:adapt-patterns-to-context): improved description
--   [Agreement](section:record-governance-agreements): improved description, updated template
+-   [Agreement](section:record-governance-decisions): improved description, updated template
 -   [Artful Participation](section:artful-participation): improved summary
 -   [Clarify Intended Outcome](section:clarify-intended-outcome) (renamed from _Intended Outcome_): improved description
 -   [Consent Decision-Making](section:consent-decision-making): improved description, updated illustration
