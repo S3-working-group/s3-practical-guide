@@ -11,4 +11,4 @@ Representatives (a.k.a. links):
 -   participate in the **governance decision-making** of the team they link with, and can:
     -   raise items for the agenda
     -   participate in forming proposals
-    -   raise [objections](glossary:objection) to proposals and existing [agreements](glossary:governance-agreement)
+    -   raise [objections](glossary:objection) to proposals and [policies](glossary:policy)

@@ -12,13 +12,13 @@ Common platforms for logbooks are Wikis (e.g. [DokuWiki](https://www.dokuwiki.or
 
 Content relating to the whole organization:
 
--   [primary driver](glossary:primary-driver), [strategy](glossary:strategy) and organizational [values](glossary:values)
+-   [primary driver](glossary:primary-driver), [main requirement](glossary:requirement), [strategy](glossary:strategy) and organizational [values](glossary:values)
 -   organizational structure ([domains](glossary:domain) and the connections between them)
--   [agreements](glossary:governance-agreement)
+-   [policies](glossary:policy)
 
 Content relating to a specific team or [role](glossary:role):
 
 -   the domain description and strategy
--   agreements (including [delegatees'](glossary:delegatee) domain descriptions, strategies and [development plans](section:development-plan))
+-   policies (including [delegatees'](glossary:delegatee) domain descriptions, strategies and [development plans](section:development-plan))
 -   [backlogs](glossary:backlog) and other information relating to work and [governance](glossary:governance)
 

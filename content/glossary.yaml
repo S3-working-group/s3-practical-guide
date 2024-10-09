@@ -102,10 +102,6 @@ terms:
     name: Governance
     definition: "**Governance** of, or within an organization (or a domain within it), is the process of setting objectives and making and evolving decisions that guide people toward achieving those objectives."
     glossary: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.
-  governance-agreement:
-    name: Agreement
-    definition: A **governance agreement** is an agreed-upon guideline, process, policy, protocol, plan or strategy designed to guide future decisions and actions within a domain.
-    glossary: An agreed-upon guideline, process, policy, protocol, plan or strategy designed to guide future decisions and actions within a domain.
   governance-backlog:
     name: Governance Backlog
     definition: A **governance backlog** is a visible, prioritized list of items relating to the governance of a domain.
@@ -133,7 +129,7 @@ terms:
     name: Objection
     definition: An **objection** is an argument – relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.
     glossary: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.
-  objective:
+  objective:  
     name: Objective
     definition:
     glossary: A specific result (or goal) that a person, team or organization wants to achieve. In the context of S3, objectives refer to achieving intended outcomes, fulfilling requirements, and ultimately, responding adequately to organizational drivers.
@@ -169,6 +165,10 @@ terms:
     name: Peer Domain
     definition:
     glossary: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
+  policy:
+    name: Policy
+    definitionL: A **policy** is a process, procedure, protocol, plan, strategy, or guideline designed to fulfill a significant requirement. Deciding on and evolving policies are main activities in governance.
+    glossary: A process, procedure, protocol, plan, strategy, or guideline designed to fulfill a significant requirement. Deciding on and evolving policies are main activities in governance.
   primary-driver:
     name: Primary Driver
     definition:

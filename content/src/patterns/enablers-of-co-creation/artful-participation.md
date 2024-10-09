@@ -6,7 +6,7 @@ Commit to doing your best to act and interact in ways that enable effective coll
 
 _"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_
 
-Participating artfully may include interrupting, objecting or breaking  [agreements](glossary:governance-agreement).
+Participating artfully may include interrupting, objecting or breaking [agreements](glossary:policy).
 
 _Artful Participation_ is an **individual commitment** to:
 

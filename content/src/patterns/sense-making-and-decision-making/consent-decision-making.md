@@ -19,7 +19,7 @@ Consent invites people to (at least) be reasonable and open to opportunities for
 
 {{define:objection}}
 
-Proposals become [agreements](glossary:governance-agreement) when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
+Proposals become [policy](glossary:policy) when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming agreements, but concerns do not.
 
 Withholding objections can harm the ability of individuals, teams or the whole organization to achieve their objectives.
 

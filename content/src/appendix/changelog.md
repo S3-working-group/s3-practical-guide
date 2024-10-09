@@ -14,13 +14,13 @@
 
 **General Changes**
 
--   Agreement -> Governance Agreement
+-   Agreement -> Policy
     -   -  updated concept page for Governance Agreement
 -   updated page aubout governance, explained about setting objectives, what else?
 
 **Glossary**
 
--  updated objective, organization
+-  updated objective, organization, governance backlog
 -  added Intended Outcome
 -  replaced account for with attend to (in relation to domains)
 -  governance backlog
@@ -269,7 +269,7 @@
 
 ## Changes 2019-05-03
 
--   refined glossary terms for [agreement](glossary:governance-agreement), [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
+-   refined glossary terms for [agreement](glossary:policy), [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective)
 -   Principle of Accountability: clarified individual accountability for work as well as for collaboration
 -   [Contract For Successful Collaboration](section:contract-for-successful-collaboration): revised text
 -   [Describe Deliverables](section:describe-deliverables): added User Stories as an example for describing deliverables

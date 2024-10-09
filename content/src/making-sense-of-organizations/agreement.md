@@ -1,6 +1,6 @@
 # Governance Agreements
 
-{{define:governance-agreement}}
+{{define:policy}}
 
 
 Shared guidelines about why, how, and when to act, as well as what is specifically required, enable effective collaboration.

@@ -7,7 +7,7 @@ Most organizations and teams today benefit from developing capacity for collecti
 
 Since there are so many decisions to make for an organization to run effectively, S3 seeks to enable productivity by freeing people up to do and decide as much as possible for themselves, while ensuring coherence in collaboration for a successful and effective organization.
 
-Greater autonomy of individuals and teams necessitates clear [agreements](glossary:agreement) (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they become, and remain fit for purpose over time.
+Greater autonomy of individuals and teams necessitates clear [policies](glossary:policy) (i.e. guidelines and constraints) that enable smooth collaboration between those teams and individuals, and that support achievement of both long-term and short-term objectives. Regular iterative reviews and incremental evolution of agreements ensure they become, and remain fit for purpose over time.
 
 While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people’s behavior and activity, often benefits from a more participatory and deliberate [decision-making process](section:consent-decision-making). These agreements include but are not limited to matters such as strategy, priorities, distribution of responsibilities and power to influence, work processes, and many decisions about products and services.
 

@@ -8,7 +8,7 @@ A circle:
 
 -   may be permanent or temporary
 -   may be [self-organizing](glossary:self-organization)
--   is responsible for its own development and its body of [agreements](glossary:governance-agreement)
+-   is responsible for its own development and its body of [policies](glossary:policy)
 
 -   **semi-autonomous:**
     -   A circle's members act within the constraints of their [domain](glossary:domain).
