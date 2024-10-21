@@ -46,5 +46,5 @@ Adopting the principle of consent in a team, or in the organization as a whole, 
 
 1. In the absence of objections to a proposal or existing agreement, I intend to follow through on what's been agreed to the best of my ability.
 2. As I become aware of them, I will share any possible objections to proposals,  agreements, or current activities, with those directly responsible for them.
-3. I'll actively seek out and consider objections to proposals,  agreements and activity that I'm responsible for,, and I'll work to resolve those objections if I can.
-4. I'll actively consider agreements that are due review that I'm affected by or responsible for, to check for any possible objections to the prospect of continuing with that agreement in its current form.
+3. I'll actively seek out and consider objections to proposals,  agreements and activity that I'm responsible for, and I'll work to resolve those objections if I can.
+4. I'll actively consider agreements that are due for review or that I'm affected by or responsible for, to check for any possible objections to the prospect of continuing with that agreement in its current form.
