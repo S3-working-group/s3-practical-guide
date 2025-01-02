@@ -177,6 +177,9 @@ terms:
     name: Principle
     definition: A **principle** is a basic idea or rule that guides behavior, or explains or controls how something happens or works.
     glossary: A basic idea or rule that guides behavior, or explains or controls how something happens or works.
+  purpose:
+    name: Purpose
+    glossary:  The reason why something is done, used, or created; a guiding motivation that directs actions, decisions, and resources toward achieving a meaningful outcome or fulfilling a specific need or desire.
   requirement:
     name: Requirement
     definition: A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.
