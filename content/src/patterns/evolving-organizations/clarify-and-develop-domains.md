@@ -560,7 +560,7 @@ Consider using the following processes for evaluation:
 
 **Tips:**
 
--   Ensure to record and monitor when a domain is due review and add these dates to your [logbook](section:logbook).
+-   Ensure to record and monitor when a domain is due for review and add these dates to your [logbook](section:logbook).
 -   Consider including a limited term of appointment for a role (after which a new selection is made).
 -   Ensure that people know to flag obvious or significant problems or opportunities for improvement of the domain's design as they encounter them, not only in the evaluation.
 -   For newly designed domains, consider reviewing the design more frequently, to integrate learning and improve the domain's design quickly. 
