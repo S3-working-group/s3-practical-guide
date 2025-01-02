@@ -127,8 +127,8 @@ terms:
     glossary: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success
   objection:
     name: Objection
-    definition: An **objection** is an argument – relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.
-    glossary: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.
+    definition: An **objection** is an argument – relating to a proposal, policy, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.
+    glossary: An argument – relating to a proposal, policy, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.
   objective:  
     name: Objective
     definition:
