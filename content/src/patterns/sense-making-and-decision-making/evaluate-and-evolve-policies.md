@@ -1,4 +1,4 @@
-# Evaluate And Evolve Agreements
+# Evaluate And Evolve Policies
 
 <summary>
 Ongoingly review and develop the body of policies, to integrate learning and eliminate waste, so that all agreements remain current and valuable over time.

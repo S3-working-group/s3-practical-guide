@@ -45,7 +45,7 @@ parts:
             tags: [pattern]
           - id: resolve-objections
             tags: [pattern]
-          - id: evaluate-and-evolve-agreements
+          - id: evaluate-and-evolve-policies
             tags: [pattern]
           - id: co-create-proposals
             tags: [pattern]

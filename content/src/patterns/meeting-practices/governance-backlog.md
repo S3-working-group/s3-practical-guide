@@ -32,7 +32,7 @@ Contents of a governance backlog:
 Typical information to include with an item in a (prioritized) governance backlog:
 
 -   the situation that needs addressing 
--   the *next step(s)* for addressing the item (e.g. [determine requirement](section:determine-requirements), [form a proposal](section:proposal-forming), [test a proposal](section:consent-decision-making), [review an existing policy,](section:evaluate-and-evolve-policies) [select someone for a role](section:evaluate-and-evolve-agreements), [test arguments](section:test-arguments-qualify-as-objections). and [resolve objections)](section:resolve-objections)
+-   the *next step(s)* for addressing the item (e.g. [determine requirement](section:determine-requirements), [form a proposal](section:proposal-forming), [test a proposal](section:consent-decision-making), [review an existing policy](section:evaluate-and-evolve-policies), [select someone for a role](section:evaluate-and-evolve-agreements), [test arguments](section:test-arguments-qualify-as-objections). and [resolve objections)](section:resolve-objections)
 -   an estimate of the time required to reach the next step(s)
 -   what people need to do to prepare
 -   other interdependent items (including work items), along with other relevant information including reference to proposals, related policies, domain descriptions, etc.

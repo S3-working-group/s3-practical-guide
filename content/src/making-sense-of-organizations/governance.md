@@ -12,7 +12,7 @@ Greater autonomy of individuals and teams necessitates clear [policies](glossary
 While a decision of short-term consequence can easily be amended on the spot, making more consequential agreements that constrain people’s behavior and activity, often benefits from a more participatory and deliberate [decision-making process](section:consent-decision-making). These agreements include but are not limited to matters such as strategy, priorities, distribution of responsibilities and power to influence, work processes, and many decisions about products and services.
 
 
-Such agreements need to be [recorded](section:record-governance-decisions) so that they can be communicated to the [people who are affected](section:equivalence) by them, and so that they can be recalled later to support effective [evaluation](section:evaluate-and-evolve-agreements).
+Such agreements need to be [recorded](section:record-governance-decisions) so that they can be communicated to the [people who are affected](section:equivalence) by them, and so that they can be recalled later to support effective [evaluation](section:evaluate-and-evolve-policies).
 
 Therefore it’s valuable to distinguish between two categories of activities in an organization, one of which we refer to as governance, and the other as operations:
 
