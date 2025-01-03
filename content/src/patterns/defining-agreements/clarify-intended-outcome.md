@@ -1,7 +1,7 @@
 # Clarify Intended Outcome
 
 <summary>
-Be explicit about the outcome a governance agreement or significant activity is intended to achieve, to build shared understanding among those involved and evaluate the results of your actions.
+Be explicit about the outcome a policy or significant activity is intended to achieve, to build shared understanding among those involved and evaluate the results of your actions.
 </summary>
 
 

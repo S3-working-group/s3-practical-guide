@@ -25,7 +25,6 @@ parts:
       - domain
       - objection
       - governance
-      - agreement
   - id: patterns
     parts:
       - id: sense-making-and-decision-making

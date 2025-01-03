@@ -45,7 +45,7 @@ terms:
   consent:
     name: Consent (principle)
     definition:
-    glossary: "**Raise, seek out and resolve objections to proposals, existing agreements and activity**, to reduce the potential for decisions leading to undesirable consequences and to discover worthwhile ways to improve."
+    glossary: "**Raise, seek out and resolve objections to proposals, policies and activity**, to reduce the potential for decisions leading to undesirable consequences and to discover worthwhile ways to improve."
   constituent:
     name: Constituent
     definition:
@@ -108,8 +108,8 @@ terms:
     glossary: A visible, prioritized list of items relating to the governance of a domain.
   intended-outcome:
     name: Intended Outcome
-    definition: The **intended outcome** is the expected result of an agreement, action, project or strategy.
-    glossary: The expected result of an agreement, action, project or strategy.
+    definition: The **intended outcome** is the expected result of an policy, action, project or strategy.
+    glossary: The expected result of an policy, action, project or strategy.
   helping-team:
     name: Helping Team
     definition: 

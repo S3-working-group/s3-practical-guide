@@ -1,7 +1,7 @@
 # Evaluate And Evolve Agreements
 
 <summary>
-Ongoingly review and develop the body of governance agreements, to integrate learning and eliminate waste, so that all agreements remain current and valuable over time.
+Ongoingly review and develop the body of policies, to integrate learning and eliminate waste, so that all agreements remain current and valuable over time.
 </summary>
 
 Regular review of agreements is an essential practice for a learning organization:
