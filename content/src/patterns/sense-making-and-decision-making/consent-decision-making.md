@@ -56,7 +56,7 @@ Proposals are typically created by an individual or a group beforehand but are s
 
 If you're the one presenting a proposal, write it down, share it with the others beforehand if possible and aim to keep your explanation concise and clear. Describe it in a way that maximizes the potential that others will understand what you are proposing, without requiring further explanation.
 
-**Note:** Involving stakeholders in the creation of a proposal can increase engagement and accountability for whatever is decided because people are more likely to take ownership of an agreement that they participate in creating. On the other hand, participatory or collaborative decision-making requires people's time and effort, so, only use it when the gains are worthwhile.
+**Note:** Involving stakeholders in the creation of a proposal can increase engagement and accountability for whatever is decided because people are more likely to take ownership of a policy that they participate in creating. On the other hand, participatory or collaborative decision-making requires people's time and effort, so, only use it when the gains are worthwhile.
 
 
 ## Step 3: Understand the Proposal
@@ -122,7 +122,7 @@ This step is simply about identifying who has possible objections or concerns. A
 
 **The facilitator asks:** _Are there any possible objections, or concerns to this proposal?_ 
 
-**Remember:** concerns don't stop proposals becoming agreements, only qualified objections do. Concerns are heard in Step 9, after celebrating reaching an agreement! 
+**Remember:** concerns don't stop proposals becoming policy, only qualified objections do. Concerns are heard in Step 9, after celebrating reaching an agreement! 
 
 **Tips for the facilitator:** 
 
@@ -130,7 +130,6 @@ In case the distinction between objections and concerns is still unclear for som
 
 -   {{define:objection}}
 -   {{define:concern}}
--   Proposals become agreements when they are considered good enough for now and safe enough to try until the next review.
 
 **Tips for everyone:**
 
@@ -170,17 +169,17 @@ Once the objection is resolved, **return to step 5.**
 
 ## Step 8: Celebrate!
 
-**Amazing! You made an agreement! And, with practice, you'll get faster as well!**
+**Amazing! You reached agreement! And, with practice, you'll get faster as well!**
 Take a moment to acknowledge the fact that an agreement has been made. Celebrate! 
 
 
 ## Step 9: Consider Concerns
 
-After celebrating, consider if any concerns you have are worth voicing to the group before moving on to the next topic. If not, at least record them after the meeting, alongside the evaluation criteria for this agreement. Information about concerns might be useful for informing the evaluation of the agreement when the time comes for it to be reviewed.
+After celebrating, consider if any concerns you have are worth voicing to the group before moving on to the next topic. If not, at least record them after the meeting, alongside the evaluation criteria for this policy. Information about concerns might be useful for informing the evaluation of the policy.
 
-**Facilitator asks those with concerns:** _Are there any concerns worth hearing now? If not, please at least ensure that they are recorded alongside the evaluation criteria for this agreement._
+**Facilitator asks those with concerns:** _Are there any concerns worth hearing now? If not, please at least ensure that they are recorded alongside the evaluation criteria for this policy._
 
-Sometimes, what someone thought was a concern, turns out to be an objection. In this case, you can resolve it by amending your just-made agreement using the Resolve Objections process.
+Sometimes, what someone thought was a concern turns out to be an objection. In this case, you can resolve it by amending your just-made policy using [Resolve Objections](section:resolve-objections).
 
 **A Final Note:** 
 

@@ -48,9 +48,9 @@ Identifying and responding to organizational drivers is a fundamental aspect of 
 
 ## Why determine requirements?
 
-In some cases, a requirement is already clear because there is an existing agreement that governs how to deal with a particular driver, or because the situation is simple to deal with and the requirement is obvious.
+In some cases, a requirement is already clear because there is a policy that governs how to deal with a particular driver, or because the situation is simple to deal with and the requirement is obvious.
 
-If there is no agreement in place you need to agree (or decide) what the requirement is. Then you can then act on what has been agreed, review outcomes and, if necessary or helpful, adapt and improve things based on what you learn. 
+If there is no policy in place you need to agree (or decide) what the requirement is. Then you can then act on what has been agreed, review outcomes and, if necessary or helpful, adapt and improve things based on what you learn. 
 
 Our opinion about what's required to deal with a specific situation will inevitably be influenced by our past experience. When facing complex situations however, our initial opinion about what's required is more likely to be unsuitable or difficult to determine: Several potential requirements may be indicated or what's required may simply be unclear. 
 
@@ -116,5 +116,5 @@ The requirement above explains _what_ is missing (absent or deficit in some way)
 
 ## When to determine a requirement?
 
-Determine the requirement _before_ deciding how to specifically respond to an organizational driver, but _after_ establishing that this is in fact an organizational driver, that it's yours or your team's responsibility to deal with it, _and_ that responding is a priority. Determining a requirement for drivers that are _not_ a priority might be wasteful, because the situation or its relevance to the organization might change.
+Determine the requirement _before_ deciding how to specifically respond to an organizational driver, but _after_ establishing that this is in fact an organizational driver, that it is your or your team’s responsibility to address it, _and_ that responding is a priority. Determining a requirement for an organizational driver that you do not yet intend to deal with might be wasteful, because over time the situation or its relevance to the organization might change.
 

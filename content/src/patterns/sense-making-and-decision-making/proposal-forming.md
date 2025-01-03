@@ -16,7 +16,7 @@ A (facilitated) group process for co-creating a response to a driver.
 ## Overview
 
 
-Proposal Forming involves people in co-creating agreements
+Proposal Forming involves people in co-creating a policy
 through a facilitated group process that draws on the collective intelligence and diversity of perspective within a group, and fosters accountability and sense of ownership. 
 
 _Proposal Forming_ may also be used by an individual.
@@ -247,7 +247,7 @@ A well written proposal usually includes:
 -   the driver it responds to and the requirement it's intended to fulfill. 
 -   the proposal text – what, how, rationale, etc.
 -   who will be responsible for what – for overseeing its application/implementation.
--   evaluation date or frequency – when the future agreement will be reviewed.
+-   evaluation date or frequency – when the future policy will be reviewed.
 -   evaluation criteria – to measure/determine the success or effectiveness of the decision.
 -   (a due date if necessary).
 
@@ -255,7 +255,7 @@ When developing the proposal it is often enough to design a (few) viable and ite
 
 In any case, consider setting an early evaluation date to review progress and outcomes, and to develop next steps. 
 
-Of course, it's sometimes necessary to develop a comprehensive proposal from the start but whenever possible, aim to break it down into iterative steps, so you can learn fast and evolve your agreement based on what you learn.
+Of course, it's sometimes necessary to develop a comprehensive proposal from the start but whenever possible, aim to break it down into iterative steps, so you can learn fast and incrementally evolve the policy based on what you learn.
 
 **Tuners, note:** When writing down the proposal, aim to keep your explanation clear and concise. Describe it in a way that maximizes the potential that others will understand it without needing further explanation.
 

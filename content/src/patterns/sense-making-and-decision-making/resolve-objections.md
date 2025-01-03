@@ -1,7 +1,7 @@
 # Resolve Objections
 
 <summary>
-Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state. 
+Use the information revealed by an objection to identify ways to evolve proposals, policy and actions to a good-enough state. 
 </summary>
 
 
@@ -18,20 +18,20 @@ Use the information revealed by an objection to identify ways to evolve proposal
 
 Typically it's most effective to **take one [objection](glossary:objection) at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
 
-A proposal becomes an agreement when all objections have been resolved.
+A proposal becomes policy when all objections have been resolved.
 
-Objections are resolved by amending the proposal. **Amendments** can include: 
+Objections are resolved by amending the proposal. **Amendments** can include the following: 
 
 - adding, removing and/or changing something in the proposal.
 - deferring resolution of a particular objection until later. (Remember to clarify who will take responsibility for this, by when, and what will happen after that).
-- an alternative proposal, or an agreement to (co-)create a new proposal in the future (if it's considered more effective than continuing to work on developing the existing proposal).
+- (co-)creating a new proposal in the future (if it's considered more effective than continuing to work on developing the existing proposal).
 - delegating the task to review, research, and/or propose an amendment for one, or even several related objections, to an individual or group.
 - leaving the main proposal unchanged and monitoring the outcome because the effort, or cost of changing things to resolve the objection, outweighs the anticipated benefits or gain.
 - asking a delegator for feedback or input (e.g. when agreeing on a strategy for a subdomain).
 - take some more time for reflection and then come back to the objection again later.
 - etc.
 
-There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the [driver](glossary:organizational-driver) or fulfill the corresponding [requirement](glossary:requirement) reaching an agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations. 
+There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the [driver](glossary:organizational-driver) or fulfill the corresponding [requirement](glossary:requirement), reaching agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations. 
 
 Objections can be resolved by following the process outlined in [Reasoned Decision-Making](section:reasoned-decision-making):
 

@@ -45,6 +45,6 @@ This approach of incremental learning draws on the diversity of knowledge, exper
 Adopting the principle of consent in a team, or in the organization as a whole, has implications for how people approach decision-making, dialogue and activity. Consider making this implicit contract of consent explicit, to support members of the organization to adopt and apply the principle of consent:
 
 1. In the absence of objections to a proposal or policy, I intend to follow through on what's been agreed to the best of my ability.
-2. As I become aware of them, I will share any possible objections to proposals,  agreements, or current activities, with those directly responsible for them.
+2. As I become aware of them, I will share any possible objections to proposals,  policies, or current activities, with those directly responsible for them.
 3. I'll actively seek out and consider objections to proposals, policies and activities that I'm responsible for,, and I'll work to resolve those objections if I can.
-4. I'll actively consider agreements that are due for review that I'm affected by or responsible for, to check for any possible objections to the prospect of continuing with that agreement in its current form.
+4. I'll actively consider policies that are due for review that I'm affected by or responsible for, to check for any possible objections to the prospect of continuing with that policy in its current form.

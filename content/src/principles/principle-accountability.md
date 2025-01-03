@@ -52,13 +52,14 @@ Too much specificity or too much ambiguity around the scope of authority people 
 
 To encourage a culture with a high level of self-accountability, do your part in creating a working environment where people voluntarily take on the following responsibilities:
 
--   Act within the constraints of any agreements governing domains you are responsible for, that includes agreements related to the organization itself, to the teams you are part of, and to the roles you keep.
+-   Act within any constraints governing the domains you are responsible for. This includes policies related to the organization itself, to the teams you are part of, and to the roles you keep.
 -   Act in accordance with any explicitly defined organizational values.
--   Be transparent and proactive in communicating with those you share accountability with, if you realize that what you agreed to is not the best course of action.
--   Find others who can help you if you discover you're unable to take care of your responsibilities.
--   Break agreements when you are certain the benefit to the organization outweighs the cost of waiting to amend that agreement first. And take responsibility for any consequences, including following up as soon as possible with those affected.
--   Speak up if you disagree with something or think it can be improved in a worthwhile way, by raising possible objections as soon as you become aware of them.
--   Be proactive in responding to situations that could help or harm the organization, either by dealing with them yourself directly, or by finding the people who can, and letting them know.
+-   Be transparent and proactive in communicating with those you share accountability with, if you realize that adhering to what you have previously agreed to is no longer the most effective course of action.
+-   Find others who can help you if you discover you’re unable to take care of your responsibilities.
+-   Break agreements when you are certain the benefit to the organization outweighs the cost of waiting to amend that agreement first. In such cases, take responsibility for any consequences, including following up as soon as possible with anyone who is adversely affected.
+-   Speak up if you believe that a proposal, policy or activity can be improved in a worthwhile way, by raising possible objections with whomever is responsible for any of these things, as soon as you become aware of them.
+-   Be proactive in attending to situations that could help or harm the organization, either by dealing with them yourself directly, or by finding and informing the people who can.
 -   Aim to give your best contribution, both through the work you are doing and in how you cooperate or directly collaborate with others.
 -   Take responsibility for your ongoing learning and development, and support others to do the same.
+
 

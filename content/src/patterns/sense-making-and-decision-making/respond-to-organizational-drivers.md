@@ -54,7 +54,7 @@ After establishing that a driver is both relevant and a priority, it's helpful t
 
 {{define:requirement}}
 
-In some cases, the requirement is already clear, because there is an existing agreement that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern [Determine Requirement](section:determine-requirements) for guidance. 
+In some cases, the requirement is already clear, because there is a policy that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern [Determine Requirement](section:determine-requirements) for guidance. 
 
 
 ## Step 4: Agree on how to fulfill the requirement
@@ -63,7 +63,7 @@ Fulfilling a requirement can include:
 
 -   direct action ([operations](glossary:operations))
 -   organizing how work will be done 
--   making or changing agreements (including creating new roles, teams, projects, etc.)
+-   making or changing policies (including creating new roles, teams, projects, etc.)
 
 In the absence of any existing policy that guides people on how to fulfill a requirement, those with responsibility for responding to the driver will need to decide for themselves how to do this. For situations where co-creating a solution as a group is valuable or necessary, consider using one or more of the S3 patterns for decision-making such as [Proposal Forming](section:proposal-forming), and [Consent Decision Making](section:consent-decision-making).
 
@@ -84,5 +84,5 @@ As well as reviewing outcomes, remember to also review your decisions regarding:
 -   The requirement
 -   The specific decision you made for how to fulfill the requirement
 
-For more information on reviewing agreements, check [Evaluate and Evolve Agreements](section:evaluate-and-evolve-agreements).
+For more information on reviewing policies, check [Evaluate and Evolve Policies](section:evaluate-and-evolve-policies).
 
