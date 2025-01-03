@@ -4,7 +4,7 @@
 Dedicate time to reflect on past experience, learn, and decide how to improve work process.
 </summary>
 
--   output: changes to work process, new tasks, on-the-fly [policies](glossary:policy), and [drivers](glossary:organizational-driver) requiring an agreement
+-   output: changes to work process, new tasks, on-the-fly [policies](glossary:policy), and  new [drivers](glossary:organizational-driver) or [requirements](glossary:requirement)
 -   facilitated meeting (~1hr)
 -   regular intervals (1-4 weeks)
 -   adapt to situation and context

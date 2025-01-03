@@ -28,7 +28,7 @@ When a domain is delegated to a group of people, they become a [team](glossary:t
 
 The [delegatee(s)](glossary:delegatee) may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else's (explicit) domain, or impede other people's contribution to the organization in some other way. 
 
-**Note:** _Things that are forbidden include explicit constraints laid out in the domain description, any other agreements the delegatee(s) need to keep, and legal and regulatory requirements._
+**Note:** _Things that are forbidden include explicit constraints laid out in the domain description, any other policies the delegatee(s) need to adhere to, and legal and regulatory requirements._
 
 The [delegator](glossary:delegator) still retains overall accountability for that domain, allocates **resources** and often defines:
 

@@ -15,7 +15,7 @@ Using S3 can **help you to achieve your objectives** and successfully navigate c
 
 #### How does Sociocracy 3.0 help? [a]
 
-S3 integrates core concepts and practices found in agile methodologies, lean management, Kanban (and KMM), Design Thinking, Teal Organizations and the family of sociocracy-based governance methods (SCM/Dynamic Governance, Holacracy® etc.). It's complimentary and compatible with any agile or lean framework, including but not limited to Scrum and its various scaling frameworks.
+S3 integrates core concepts and practices found in agile methodologies, lean management, Kanban (and KMM), Design Thinking, Teal Organizations and the family of sociocracy-based governance methods (SCM/Dynamic Governance, Holacracy® etc.). It's complementary and compatible with any agile or lean framework, including but not limited to Scrum and its various scaling frameworks.
 
 **Inside this book you'll discover a coherent collection of 70+ practices and guidelines** to help you navigate complexity and improve collaboration:
 

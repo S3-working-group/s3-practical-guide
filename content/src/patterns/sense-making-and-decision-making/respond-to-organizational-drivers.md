@@ -65,7 +65,7 @@ Fulfilling a requirement can include:
 -   organizing how work will be done 
 -   making or changing agreements (including creating new roles, teams, projects, etc.)
 
-In the absence of any existing agreement that guides people on how to fulfill a requirement, those with responsibility for responding to the driver will need to decide for themselves how to do this. For situations where co-creating a solution as a group is valuable or necessary, consider using one or more of the S3 patterns for decision-making such as [Proposal Forming](section:proposal-forming), and [Consent Decision Making](section:consent-decision-making).
+In the absence of any existing policy that guides people on how to fulfill a requirement, those with responsibility for responding to the driver will need to decide for themselves how to do this. For situations where co-creating a solution as a group is valuable or necessary, consider using one or more of the S3 patterns for decision-making such as [Proposal Forming](section:proposal-forming), and [Consent Decision Making](section:consent-decision-making).
 
 
 ## Step 5: Act

@@ -1,7 +1,7 @@
 # Describe Organizational Drivers
 
 <summary>
-Describe organizational drivers to support understanding and communication about situations that are relevant for the organizational to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.
+Describe organizational drivers to support understanding and communication about situations that are relevant for the organization to respond to, and for recalling why particular activities are undertaken and why specific decisions are made.
 </summary>
 
 <only presets="jekyll">

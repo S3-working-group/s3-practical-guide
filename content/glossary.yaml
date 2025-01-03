@@ -49,7 +49,7 @@ terms:
   constituent:
     name: Constituent
     definition:
-    glossary: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.
+    glossary: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other teams or organizations.
   continuous-improvement:
     name: Continuous Improvement (principle)
     definition:
@@ -108,8 +108,8 @@ terms:
     glossary: A visible, prioritized list of items relating to the governance of a domain.
   intended-outcome:
     name: Intended Outcome
-    definition: The **intended outcome** is the expected result of an policy, action, project or strategy.
-    glossary: The expected result of an policy, action, project or strategy.
+    definition: The **intended outcome** is the expected result of a policy, action, project or strategy.
+    glossary: The expected result of a policy, action, project or strategy.
   helping-team:
     name: Helping Team
     definition: 
@@ -216,8 +216,8 @@ terms:
     glossary: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.
   standard-constraint:
     name: Standard Constraint
-    definition: A **standard constraint** is a constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).
-    glossary: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).
+    definition: A **standard constraint** is a constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business model, or an organization-wide rule).
+    glossary: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business model, or an organization-wide rule).
   strategy:
     name: Strategy
     definition: A **strategy** is a high level approach for how people will create value to successfully attend to a domain.
