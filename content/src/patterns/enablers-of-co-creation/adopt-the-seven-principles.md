@@ -4,7 +4,7 @@
 Align collaboration with the Seven Principles.
 </summary>
 
-Adopting the Seven Principles reduces the number of explicit agreements required, and guides adaptation of S3 patterns to suit the organization's context.
+Adopting the Seven Principles reduces the number of explicit policies required, and guides adaptation of S3 patterns to suit the organization's context.
 
 An organization's values need to embrace the Seven Principles.
 

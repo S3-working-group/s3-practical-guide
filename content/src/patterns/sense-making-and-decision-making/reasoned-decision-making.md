@@ -4,9 +4,9 @@
 Engage in productive dialogue by investigating different perspectives and the knowledge of participants, to reach agreement on what is considered viable, relevant, valid or empirically true.
 </summary>
 
-There are many paths people can follow to arrive at a decision with others (majority, consensus, authoritative, etc), but for any approach that uses reason as a basis for that agreement, they typically follow a similar pattern of _Reasoned Decision-Making_.
+There are many paths people can follow to arrive at a decision with others (majority, consensus, authoritative, etc), but for any approach that uses reason as a basis for reaching agreement, they typically follow a similar pattern of _Reasoned Decision-Making_.
 
-Reasoned Decision-Making lays out the process that groups take when applying reason to check whether a proposal, existing agreement or amendment is good enough, or if a particular argument is relevant, valid or empirically true.
+Reasoned Decision-Making lays out the process that groups take when applying reason to check whether a proposal, policy or amendment is good enough, or if a particular argument is relevant, valid or empirically true.
 
 
 ## The steps of the process

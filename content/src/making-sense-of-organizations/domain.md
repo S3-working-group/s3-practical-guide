@@ -1,4 +1,4 @@
-# Domains
+# Domains and Delegation
 
 {{define:domain}}
 

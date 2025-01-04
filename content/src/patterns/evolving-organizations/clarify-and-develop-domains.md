@@ -55,7 +55,7 @@ For a complete example of a domain description, see the Appendix: [Example Domai
 Free delegatees up to create and deliver value. Aim to design or develop domains in ways that enable them to fulfill the purpose of the domain as effectively as possible: 
 
 -   Avoid, minimize or remove any unnecessary dependencies and constraints that otherwise impede the ability of the delegatees to successfully attend to the domain.
--   Enable delegatees to undertake whichever activities they consider to be valuable, unless such activity falls outside of the domain of the organization, is explicitly forbidden, they violate somebody else's (explicit) domain, or if it impedes other people's contribution to the organization in some other way. Things that are forbidden may include explicit constraints laid out in the domain description, any other agreements the delegatees need to keep, or legal and regulatory requirements.
+-   Enable delegatees to undertake whichever activities they consider to be valuable, unless such activity falls outside of the domain of the organization, is explicitly forbidden, they violate somebody else's (explicit) domain, or if it impedes other people's contribution to the organization in some other way. Things that are forbidden may include explicit constraints laid out in the domain description, any other policies the delegatees need to adhere to, or legal and regulatory requirements.
 -   Aim to design simple metrics that help delegatees learn whether or not they focus on the right things   
 -   Keep the design brief and to the point, and schedule regular evaluations to discover what is working, what's missing, and what needs to be changed.
 

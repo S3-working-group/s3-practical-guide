@@ -6,7 +6,7 @@ Commit to doing your best to act and interact in ways that enable effective coll
 
 _"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_
 
-Participating artfully may include interrupting, objecting or breaking [agreements](glossary:policy).
+Participating artfully may include interrupting, objecting to or evem breaking [agreements](glossary:policy).
 
 _Artful Participation_ is an **individual commitment** to:
 
@@ -20,7 +20,7 @@ _Artful Participation_ is an **individual commitment** to:
 
 Artful participation:
 
-- enables co-creation and evolution of agreements
+- enables co-creation and evolution of policies
 - helps to grow stronger teams
 - builds self-accountability, integrity and trust
 - generates a culture of mutual support and close collaboration
@@ -32,8 +32,8 @@ Artful participation:
 
 -   How can I support myself and others to participate more artfully?
 -   Where are my interactions with others unhelpful or ineffective?
--   Which agreements do I find hard to keep? What can I do to address this?
--   What skills can I develop, that would support me to participate more artfully?
+-   Which policies do I find hard to adhere to? What can I do to address this?
+-   What skills can I develop that would support me to participate more artfully?
 -   What would artful participation mean in relation to:
     -   my daily activities?
     -   collaboration and interaction with others?
