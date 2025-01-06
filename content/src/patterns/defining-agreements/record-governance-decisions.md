@@ -71,4 +71,4 @@ While all governance decisions need to be recorded so that they can be remembere
 -   An appointment in a team calendar
 -   A task on a taskboard
 
-![A template for recording policy](img/templates/agreement-template.png)
+![A template for recording policy](img/templates/policy-template.png)
