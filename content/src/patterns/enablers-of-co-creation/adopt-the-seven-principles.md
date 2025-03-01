@@ -10,4 +10,4 @@ An organization's values need to embrace the Seven Principles.
 
 ![The Seven Principles](img/framework/s3-principles-plain.png)
 
-![An organization's values need to embrace the Seven Principles](img/collaboration-values/values-7principles.png)
+![An organization's values need to embrace the Seven Principles](img/framework/values-7principles.png)

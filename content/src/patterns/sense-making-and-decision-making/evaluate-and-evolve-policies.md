@@ -13,7 +13,7 @@ Ensure all [policies](glossary:policy) have an appropriate review date.
 
 Evaluating agreements can be as simple as checking that an agreement is still relevant, and there is no objection to keeping it as it is.
 
-![](img/evolution/evolve-policy.png)
+![](img/policy/evolve-policy.png)
 
 Agreements are often reviewed in [Governance Meetings](section:governance-meeting), however sometimes it's more effective to schedule a dedicated session.
 
@@ -30,7 +30,7 @@ Elements of this pattern can also be used by individuals to evaluate decisions t
 
 ## Long Format
 
-![A long format for evaluating and evolving agreements](img/agreements/evaluate-policy.png)
+![A long format for evaluating and evolving agreements](img/policy/evaluate-policy.png)
 
 Preparation:
 

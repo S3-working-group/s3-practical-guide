@@ -19,4 +19,4 @@ Collectively adopting a set of values supports the effectiveness of an organizat
 
 Chosen values are a policy that benefits from **regular review**.
 
-![Chosen values define constraints for collaboration](img/collaboration-values/chosen-values.png)
+![Chosen values define constraints for collaboration](img/framework/chosen-values.png)

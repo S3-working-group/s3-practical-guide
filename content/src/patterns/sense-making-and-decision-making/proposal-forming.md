@@ -41,7 +41,7 @@ _Proposal Forming_ may also be used by an individual.
 **8. Design proposal:** The Tuners design a proposal based on the information gathered in the previous steps.
 
 
-![Proposal forming process](img/agreements/proposal-forming.png)
+![Proposal forming process](img/policy/proposal-forming.png)
 
 
 ## Step 1: Consent to Driver and Requirement

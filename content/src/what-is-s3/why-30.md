@@ -18,7 +18,7 @@ The name "*Sociocracy 3.0*" demonstrates both respect to the lineage and a sign
 
 It also helps avoid the perception of us misrepresenting the _Sociocratic Circle Organization Method (SCM)_ as promoted by The Sociocracy Group (TSG), The Sociocracy Consulting Group, Sociocracy For All (SoFA), Governance Alive, and many others.
 
-![Three variants of sociocracy](img/context/sociocracy-variants.png)
+![Three variants of sociocracy](img/framework/sociocracy-variants.png)
 
 ## The New Model of Distribution
 

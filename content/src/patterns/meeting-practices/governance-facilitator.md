@@ -21,4 +21,4 @@ As a governance facilitator, consider learning about and using the following pat
 -   [Resolve Objections](section:resolve-objections)
 -   [Peer Review](section:peer-review)
 
-![The governance facilitator is typically a member of the team](img/circle/facilitator.png)
+![The governance facilitator is typically a member of the team](img/illustrations/facilitator.png)

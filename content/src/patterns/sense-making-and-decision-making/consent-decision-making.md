@@ -27,7 +27,7 @@ Not all arguments raised are objections, but they might reveal [concerns](sectio
 
 {{define:concern}}
 
-![Consent Decision-Making](img/agreements/consent-decision-making.png)
+![Consent Decision-Making](img/policy/consent-decision-making.png)
 
 ## Step 1: Consent to Driver and Requirement
 

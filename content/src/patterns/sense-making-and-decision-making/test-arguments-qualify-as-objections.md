@@ -67,7 +67,7 @@ This process for testing if arguments qualify as objections, is a variation of t
 - If the original argument still has some validity, refine it and then continue with step 3 to see if there is any disagreement with the refined argument.
 - Otherwise you have demonstrated that the original **argument is not an objection.**
 
-![A process for testing if an argument qualifies as an objection](img/agreements/test-arguments.png)
+![A process for testing if an argument qualifies as an objection](img/policy/test-arguments.png)
 
 Below you'll find more guidance on how to go through each step. As with all patterns in S3, your approach to testing if arguments qualify as objections can be adjusted to suit your context.
 
@@ -125,6 +125,6 @@ The person who brought the original argument has the option to refine, rephrase 
 - If the original argument still has some validity, refine it and then continue with step 3 to see if there is any disagreement with the refined argument.
 - Otherwise you have demonstrated that the original **argument is not an objection.**
 
-![Recursive application of testing arguments and investigating disagreements](img/agreements/test-arguments-process.png)
+![Recursive application of testing arguments and investigating disagreements](img/policy/test-arguments-process.png)
 
-![Facilitator's Guide: Test Arguments Qualify As Objections](img/agreements/test-arguments-facilitation-guide.png)
+![Facilitator's Guide: Test Arguments Qualify As Objections](img/policy/test-arguments-facilitation-guide.png)

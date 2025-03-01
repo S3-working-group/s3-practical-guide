@@ -14,7 +14,7 @@ A prerequisite to the selection process is a [clear description](section:clarify
 
 ## Steps
 
-![Role selection process](img/agreements/selection.png)
+![Role selection process](img/policy/selection.png)
 
 1. **Present Role Description:** If possible, send out the role's domain description in advance.
 2. **Record Nominations:** Participants write their nomination on a slip of paper. People can nominate themselves, another, or pass.

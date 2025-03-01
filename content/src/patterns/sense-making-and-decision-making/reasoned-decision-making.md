@@ -11,7 +11,7 @@ Reasoned Decision-Making lays out the process that groups take when applying rea
 
 ## The steps of the process
 
-![Reasoned Decision-Making](img/agreements/reasoned-decision-making.png)
+![Reasoned Decision-Making](img/policy/reasoned-decision-making.png)
 
 **Step 1: Present** the subject for investigation (this could be an argument, or a proposal for how to proceed).
 
@@ -42,5 +42,5 @@ Each of the three processes focuses on the investigation of a different subject:
 -    In _Test Argument Qualifies as Objection_ the subject is an **argument** that indicates a possible objection.
 -    In _Resolving Objections_ the subject is a **proposed amendment**. 
 
-![Table: Mapping the steps of RDM to the other S3 decision-making processes](img/agreements/reasoned-decision-making-table.png)
+![Table: Mapping the steps of RDM to the other S3 decision-making processes](img/policy/reasoned-decision-making-table.png)
 
