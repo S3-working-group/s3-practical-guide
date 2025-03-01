@@ -155,7 +155,7 @@ parts:
             tags: [pattern]          
           - id: record-governance-decisions
             tags: [pattern]
-          - id: clarify-intended-outcome
+          - id: clarify-intended-outcomes
             tags: [pattern]
           - id: describe-deliverables
             tags: [pattern]
