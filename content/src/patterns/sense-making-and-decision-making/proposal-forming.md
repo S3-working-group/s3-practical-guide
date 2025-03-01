@@ -30,7 +30,7 @@ _Proposal Forming_ may also be used by an individual.
 
 **3. Considerations as questions:** Collect any considerations you have in relation to possible solutions. Record them in the form of questions.
 
-**4. Answer information gathering questions:** Gather any information regarding constraints and specific details that are worthwhile to consider.
+**4. Answer information-gathering questions:** Gather any information regarding constraints and specific details that are worthwhile to consider.
 
 **5. Prioritize generative questions:** Identify priority considerations to clarify which are more or less important to consider when forming the proposal.
 
@@ -100,9 +100,9 @@ Before jumping into ideas about how to fulfill the requirement, it's useful to c
 
 **Facilitator asks:** _What questions come up for you when you're thinking about possible solutions?_
 
-**You're looking for two types of questions:** Information gathering questions and generative questions.
+**You're looking for two types of questions:** Information-gathering questions and generative questions.
 
-**Information gathering questions**
+**Information-gathering questions**
 
 These questions elicit information that helps to understand constraints relating to possible solutions. They reveal specific information, or that there is a lack of knowledge to be able to answer that question. 
 
@@ -142,7 +142,7 @@ If you do come across a solution disguised as a question, have a go at reformula
 **Tips for everyone:**
 
 
--   Allocate two areas (columns) on your (digital) board, one for information gathering questions and the other for generative questions.
+-   Allocate two areas (columns) on your (digital) board, one for information-gathering questions and the other for generative questions.
 -   When it's your turn, add one of your questions to the board as you read it out loud. You'll need to decide in which column to place it. If in doubt, add it to the "info gathering" column. You can talk about it later. 
 -   Use the "_Bingo_" and "_Sort-of Bingo_" technique, to identify and cluster similar considerations together: When you have the same question, say "_Bingo_", there is no need to repeat what's on your sticky note. When you have a related question, say "_Sort-of-Bingo_" and jump in and add the additional details.
 -   Avoid discussing questions in this step, unless it's necessary for understanding the question.
@@ -150,19 +150,19 @@ If you do come across a solution disguised as a question, have a go at reformula
 -   To increase meeting effectiveness, you can also prepare some of these questions prior to the meeting, as part of your preparation.
 
 
-## Step 4: Answer information gathering questions
+## Step 4: Answer information-gathering questions
 
 _Gather any information regarding constraints and specific details that are worthwhile to consider._
 
-Having collected and visualized all of the information gathering and generative questions, answer as many information gathering questions as you can. 
+Having collected and visualized all of the information-gathering and generative questions, answer as many information-gathering questions as you can. 
 
 **Note:** Don't attempt to answer the generative questions in this step. This happens in step 6 when you collect ideas.
 
 **Facilitator:** Ask those present to answer whatever questions they can and record the answers under the question, (on the same sticky note if that's what you used). Learning that a question cannot be answered by those present is also useful information. 
 
-Information gained in this step informs people in making appropriate suggestions for solutions in the next round. Important information gathering questions that cannot be answered now might indicate the need to address them somehow in the proposal later.
+Information gained in this step informs people in making appropriate suggestions for solutions in the next round. Important information-gathering questions that cannot be answered now might indicate the need to address them somehow in the proposal later.
 
-**Note:** In some cases you might even pause the Proposal Forming process at this stage, to allow time to answer important information gathering questions before continuing to step 5 another day.
+**Note:** In some cases you might even pause the Proposal Forming process at this stage, to allow time to answer important information-gathering questions before continuing to step 5 another day.
 
 Here's some tips on how to do this step:  
 
@@ -170,10 +170,10 @@ Here's some tips on how to do this step:
 -   Have any dialogue necessary to clarify answers.
 -   The answer can also be "_we don't know_".
 -   If you notice there are many possible answers to a question, move it to the generative column instead.
--   Record any other generative questions that come up, including rephrasing information gathering questions if required:
+-   Record any other generative questions that come up, including rephrasing information-gathering questions if required:
 
     Example: 
-    Information gathering question: _How many people are affected by this problem?_
+    Information-gathering question: _How many people are affected by this problem?_
     Answer: _we don't know_
     Generative question: _How shall we find out how many people are affected?_
 
