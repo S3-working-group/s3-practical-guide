@@ -4,7 +4,7 @@
 Keep a dedicated, prioritized backlog for items that pertain to governance so that you can remember them and use the information to plan and organize your governance.
 </summary>
 
-{{define: governance backlog}}
+{{define:governance-backlog}}
 
 A governance backlog plays a key role in any reliable and transparent system of governance, because it contains information relating to a domain’s outstanding governance matters and allows you to remember and address them in the order of priority. Keeping a prioritized governance backlog is essential for planning regular [governance meetings](section:governance-meeting). It’s also useful for deciding which items are best addressed in a dedicated meeting versus those that can be handled effectively in other regular meetings such as product meetings, [planning meetings](section:planning-and-review-meetings), or [retrospectives](section:retrospective). 
 

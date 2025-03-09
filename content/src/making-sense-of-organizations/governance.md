@@ -20,7 +20,7 @@ Therefore it’s valuable to distinguish between two categories of activities in
 
 {{define:operations}}
 
-Setting [objectives](glossary:objectives) in the context of governance refers to deciding which [organizational drivers](glossary:organizational-drive) you want to address, determining which [requirements](glossary:requirement) you wish to fulfill, and then, when deciding on how to fulfill those requirements, deciding on what [outcomes you intend](section:clarify-intended-outcome) to achieve by doing so.
+Setting [objectives](glossary:objective) in the context of governance refers to deciding which [organizational drivers](glossary:organizational-driver) you want to address, determining which [requirements](glossary:requirement) you wish to fulfill, and then, when deciding on how to fulfill those requirements, deciding on what [outcomes you intend](section:clarify-intended-outcome) to achieve by doing so.
 
 The _primary objective_ of any organization is to fulfill its purpose, therefore all other objectives should be aligned toward that.
 
