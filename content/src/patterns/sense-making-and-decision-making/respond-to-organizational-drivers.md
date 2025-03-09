@@ -16,7 +16,7 @@ Respond to all organizational drivers you are responsible for, in order of prior
 
 ## Overview
 
-When a role keeper or a team becomes aware of a new driver they are responsible for dealing with, it's usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
+When a rolekeeper or a team becomes aware of a new driver they are responsible for dealing with, it's usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
 
 Here's a series of steps you can take which will support you to make the best use of your time and resources:
 
@@ -34,7 +34,7 @@ Here's a series of steps you can take which will support you to make the best us
 
 ## Step 1: Confirm Relevance
 
-As a role keeper or team, before responding to a driver, it is essential to verify both that the driver is relevant _for the organization_ to respond to (i.e. it is in fact an _organizational driver_), **and** that it's yours or your team's responsibility to deal with it, or at least, that your doing so is beneficial and that it will cause no impediment or harm.
+As a rolekeeper or team, before responding to a driver, it is essential to verify both that the driver is relevant _for the organization_ to respond to (i.e. it is in fact an _organizational driver_), **and** that it's yours or your team's responsibility to deal with it, or at least, that your doing so is beneficial and that it will cause no impediment or harm.
 
 If you think that a driver is relevant, but it's someone else's responsibility to deal with it, pass it on to them instead (see also [Navigate via Tension](section:navigate-via-tension)). 
 

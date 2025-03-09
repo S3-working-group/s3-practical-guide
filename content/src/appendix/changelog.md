@@ -240,7 +240,7 @@
 
 -   revised all illustrations for a more consistent style and increased readability 
 -   revised introduction: more explanation about patterns and core concepts 
--   updated glossary: revised explanation of [Delegator](glossary:delegator), [Delegatee](glossary:delegatee), [Role](glossary:role) and [Pattern](glossary:pattern), added [Role Keeper](glossary:role-keeper) 
+-   updated glossary: revised explanation of [Delegator](glossary:delegator), [Delegatee](glossary:delegatee), [Role](glossary:role) and [Pattern](glossary:pattern), added [Rolekeeper](glossary:role-keeper) 
 
 
 ## Changes 2020-04-29
@@ -459,7 +459,7 @@
 -   _Objections_: clarified qualifying objections 
 -   _Peer Review_: improved description 
 -   _Respond to Organizational Driver_: integrated information about qualifying drivers 
--   _Role_: clarified role keeper may maintain a governance backlog, introduced the term "role keeper" for a person in a role 
+-   _Role_: clarified rolekeeper may maintain a governance backlog, introduced the term "rolekeeper" for a person in a role 
 -   _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications 
 -   _Resolve Objections_: updated illustration to better reflect the process 
 

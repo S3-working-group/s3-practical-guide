@@ -17,14 +17,14 @@ Explicitly clarify, and then regularly evaluate and develop the design of domain
 
 A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing [domains](glossary:domain) – distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
 
-Responsibility for domains is taken on by individuals (role keepers), or by groups of people (teams, projects, platforms, micro-enterprises, departments, etc.) Each team or role keeper contributes toward fulfilling the overall purpose of the organization by taking care of a specific area of responsibility in the organization. In some cases, people might keep more than one role, or be part of more than one team. 
+Responsibility for domains is taken on by individuals (rolekeepers), or by groups of people (teams, projects, platforms, micro-enterprises, departments, etc.) Each team or rolekeeper contributes toward fulfilling the overall purpose of the organization by taking care of a specific area of responsibility in the organization. In some cases, people might keep more than one role, or be part of more than one team. 
 
 In the process of delegating responsibility to others, or when existing responsibilities are misunderstood or people's efforts to fulfill their responsibilities are impeded in some way, consider explicitly clarifying domains. A written description of significant domains helps to reduce misunderstanding and makes existing expectations and assumptions clear. It lays out the contract between delegator and delegatees, and describes how the domain's design and the work done by the delegatees, can be monitored, evaluated and improved over time.
 
 
 ## Why clarify and develop domains?
 
-Clarifying domains makes expectations about the distribution of work transparent. It supports making the contract between [delegator](glossary:delegator) and [delegatees](glossary:delegatee) explicit and helps everyone understand who is responsible for what. A clear and easy to understand description of the area of responsibility and scope of authority to influence that delegatees have, helps clarify the part that each team or role keeper plays in the overall value chain. It also supports effective organizational development by making expectations explicit. Regular evaluation of each domain's design can reveal ways to improve them to enable greater efficiency, collaboration, and agility throughout the organization.
+Clarifying domains makes expectations about the distribution of work transparent. It supports making the contract between [delegator](glossary:delegator) and [delegatees](glossary:delegatee) explicit and helps everyone understand who is responsible for what. A clear and easy to understand description of the area of responsibility and scope of authority to influence that delegatees have, helps clarify the part that each team or rolekeeper plays in the overall value chain. It also supports effective organizational development by making expectations explicit. Regular evaluation of each domain's design can reveal ways to improve them to enable greater efficiency, collaboration, and agility throughout the organization.
 
 When domains are inadequately or insufficiently defined, stakeholders may have different assumptions about areas of responsibility and autonomy. As a consequence, both collaboration and distribution of work can suffer because of unnecessary or missed dependencies, double work, or work not done at all. 
 
@@ -33,17 +33,17 @@ A clear domain description with adequate detail is a necessary prerequisite for 
 A simple way for supporting stakeholders in developing shared understanding about the various aspects of a domain is by creating a domain description that contains information about:
 
 
--   **Purpose**:  _What is the specific purpose the team (or role keeper) is responsible for fulfilling within the organization_?
--   **Key Responsibilities:** _What is the essential work and decision-making being delegated to the team (or role keeper)?_
--   **Customers and Deliverables**: _Whom does this team (or role keeper) deliver value to and what specifically do they provide?_
--   **Dependencies**: _Who is the team (or role keeper) dependent on, from other parts of the organization or the outside world, and what deliverable(s) do these people provide?_
+-   **Purpose**:  _What is the specific purpose the team (or rolekeeper) is responsible for fulfilling within the organization_?
+-   **Key Responsibilities:** _What is the essential work and decision-making being delegated to the team (or rolekeeper)?_
+-   **Customers and Deliverables**: _Whom does this team (or rolekeeper) deliver value to and what specifically do they provide?_
+-   **Dependencies**: _Who is the team (or rolekeeper) dependent on, from other parts of the organization or the outside world, and what deliverable(s) do these people provide?_
 -   **External Constraints**: _What are important external constraints to the delegatees' autonomy and influence?_
 -   **Key Challenges**: _What are the most important known (or anticipated) challenges the delegatees might face?_
--   **Key Resources**: _What essential resources can the team (or role keeper) make use of?_
+-   **Key Resources**: _What essential resources can the team (or rolekeeper) make use of?_
 -   **Delegator Responsibilities**: _What responsibilities can delegatees rely on the delegator to take care of to support them to successfully attend to this domain?_
 -   **Competencies, Qualities and Skills**: _What competencies, qualities and skills are required – or at least preferable – to successfully attend to this domain?_
 -   **Key Metrics and Monitoring**: _What are the critical indicators of progress, performance, project health, etc, how frequently will they be measured and by whom?_
--   **Evaluation Schedule:** _When and how will you evaluate the effectiveness of the domain's design and the success of the team (or role keeper) in fulfilling the domain's purpose?_
+-   **Evaluation Schedule:** _When and how will you evaluate the effectiveness of the domain's design and the success of the team (or rolekeeper) in fulfilling the domain's purpose?_
 
 On the [S3 Canvas microsite](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) you can find a template that you can use for (co-)designing new domains or for documenting existing domains, when clarifying them is worthwhile. 
 
@@ -86,7 +86,7 @@ All sections are worth considering when clarifying a domain. However, if you're 
 
 People's understanding of the organization is limited and the environment is always changing. Therefore it's essential that delegator, delegatees and other relevant stakeholders regularly evaluate and when useful, improve the design of domains as their understanding of each domain and its contribution to a value chain deepens.
 
-If the design of a domain is primitive or flawed, it will impede the team or role keeper's ability to contribute effectively to the purpose of the organization, even if the delegatees are doing a great job of accounting for the domain in the way it is currently designed. Therefore it's essential that a domain's design is regularly evaluated so that a poor or out of date design can be improved incrementally as people learn over time.
+If the design of a domain is primitive or flawed, it will impede the team or rolekeeper's ability to contribute effectively to the purpose of the organization, even if the delegatees are doing a great job of accounting for the domain in the way it is currently designed. Therefore it's essential that a domain's design is regularly evaluated so that a poor or out of date design can be improved incrementally as people learn over time.
 
 If changes are made to one domain, consider if other domains are affected and make changes accordingly. Especially look to subdomains and dependent domains.
 
@@ -113,9 +113,9 @@ All of the following elements are important to consider when clarifying a domain
 
 ### Purpose
 
-_What's the primary driver and the associated requirement this team (or role keeper) is responsible for taking care of in the organization?_
+_What's the primary driver and the associated requirement this team (or rolekeeper) is responsible for taking care of in the organization?_
 
-Describing the specific purpose the team (or role keeper) is responsible for fulfilling within the organization, clarifies why this domain exists, so that delegatees understand what's expected of them and why their work is relevant for the organization.
+Describing the specific purpose the team (or rolekeeper) is responsible for fulfilling within the organization, clarifies why this domain exists, so that delegatees understand what's expected of them and why their work is relevant for the organization.
 
 You can describe the primary driver using the pattern [Describe Organizational Drivers](section:describe-organizational-drivers) and look to the pattern [Respond to Organizational Drivers](section:respond-to-organizational-drivers) for suggestions on how to describe the requirement.
 
@@ -153,7 +153,7 @@ You can describe the primary driver using the pattern [Describe Organizational D
 
 ### Key Responsibilities
 
-_What is the essential work and decision-making being delegated to the team (or role keeper)?_
+_What is the essential work and decision-making being delegated to the team (or rolekeeper)?_
 
 Key responsibilities are a summary of those areas of _work and decision-making_ that the delegator and delegatees consider **essential** to take care of in relation to fulfilling the domain's purpose effectively. They provide a high level overview of what's expected from the delegatees.
 
@@ -205,13 +205,13 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
 
 ### Customers and Deliverables
 
-_Whom does this team (or role keeper) deliver value to, what specifically do they provide, and why?_
+_Whom does this team (or rolekeeper) deliver value to, what specifically do they provide, and why?_
 
 The purpose of work done by the delegatees is to provide value to their **customers**. Customers can include those who are paying money for the deliverables provided, or others from inside of the organization who are dependent on these deliverables to do their work. 
 
 **Deliverables** are the _products, services, components and materials_ that delegatees deliver to fulfill their customers' requirements.
 
-**List** the **direct recipients** of the value delivered by the team (or role keeper). In each case, describe the **deliverables** they receive with enough detail to clearly communicate what is being provided, and clarify the **requirement** that each deliverable is intended to fulfill.
+**List** the **direct recipients** of the value delivered by the team (or rolekeeper). In each case, describe the **deliverables** they receive with enough detail to clearly communicate what is being provided, and clarify the **requirement** that each deliverable is intended to fulfill.
 
 **Recommended format:** Customer and Deliverable(s). And, unless it's already clear, information about the Requirement: (requirement) and (anticipated impact).
 
@@ -239,7 +239,7 @@ The purpose of work done by the delegatees is to provide value to their **custom
 -   Sometimes the specific deliverables for fulfilling a customer requirement are currently undefined. In this case, describe the customer requirement instead. 
 -   Remember: deliverables are products, services, etc, NOT outcomes. 
 -   When identifying Customers and Key Deliverables, consider the Purpose, Key Responsibilities, and Key Challenges of the domain. 
--   List all relevant internal and external customers who depend on, or benefit from the value provided by this team (or role keeper). 
+-   List all relevant internal and external customers who depend on, or benefit from the value provided by this team (or rolekeeper). 
 -   Include both customers and users (if there is a difference).
 -   When describing deliverables, use a sentence or two to describe each one. Link to a [more detailed description](section:describe-deliverables) if necessary.
 -   As a delegator: In the case of a new domain, consider carefully to what degree you will specify deliverables rather than leaving this decision up to the delegatees. Freeing them up to create value according to their expertise, strengths, and interests, and based on what they learn as their work proceeds can significantly improve their effectiveness.
@@ -247,7 +247,7 @@ The purpose of work done by the delegatees is to provide value to their **custom
 
 ### Dependencies
 
-_Who is the team (or role keeper) dependent on, from other parts of the organization or the outside world, and what deliverable(s) do these people provide?_
+_Who is the team (or rolekeeper) dependent on, from other parts of the organization or the outside world, and what deliverable(s) do these people provide?_
 
 Dependencies refer to who and what the delegatees rely on, besides themselves and the key resources they have available, to be able to attend to the domain successfully. Some dependencies are prerequisites for the daily work, others are only required occasionally.
 
@@ -376,7 +376,7 @@ Key challenges include:
 
 ### Key Resources
 
-_What essential resources can the team (or role keeper) make use of?_
+_What essential resources can the team (or rolekeeper) make use of?_
 
 Key resources are those resources provided by the organization to delegatees that are essential for them to use to be able to fulfill the requirements of the domain effectively. 
 
@@ -445,7 +445,7 @@ When delegating responsibility for a domain to others, the delegator retains ove
 
 **Tips:**
 
--   Describe all responsibilities that the delegator keeps or takes on to support delegatees to successfully attend to this domain. This includes responsibilities that may only require a small effort but that make the team's or role keeper's lives easier.
+-   Describe all responsibilities that the delegator keeps or takes on to support delegatees to successfully attend to this domain. This includes responsibilities that may only require a small effort but that make the team's or rolekeeper's lives easier.
 -   When identifying delegator responsibilities, consider any opportunities for learning, development and support that are helpful for the delegatees.
 -   Often, delegator responsibilities can be adequately documented by describing the requirements. If the organizational driver behind a particular delegator key responsibility is unclear, describe this as well to add context. Doing so helps to ensure that the reason for fulfilling each of these requirements is clear.
 -   Don't describe the tasks that the delegator is responsible for taking care of but rather the requirements that those tasks are meant to fulfill. 
@@ -458,7 +458,7 @@ When delegating responsibility for a domain to others, the delegator retains ove
 
 _What competencies, qualities and skills are required – or at least preferable – to successfully attend to this domain?_
 
-For selecting suitable delegatees, and for identifying important areas for training and development, it's helpful to determine any attributes that are considered necessary or desirable for the role keeper or team members to have, to successfully attend to this domain.
+For selecting suitable delegatees, and for identifying important areas for training and development, it's helpful to determine any attributes that are considered necessary or desirable for the rolekeeper or team members to have, to successfully attend to this domain.
 
 **Record** any information that helps people to understand the competencies, qualities or skills that delegatees need to have or develop, to account successfully for this domain. If not obvious, include an explanation of why a particular competence, quality of skill is relevant (which requirement it fulfills).
 
@@ -527,11 +527,11 @@ Key [Metrics](glossary:metric) are statistics that help delegatees monitor the e
 
 ### Evaluation Schedule
 
-_When and how will you evaluate the effectiveness of the domain's design and the success of the team (or role keeper) in fulfilling the domain's purpose?_
+_When and how will you evaluate the effectiveness of the domain's design and the success of the team (or rolekeeper) in fulfilling the domain's purpose?_
 
 Regularly evaluate the outcomes resulting from activity in this domain, as well as the domain's design, and use what you learn to improve the creation and delivery of value. 
 
-**Describe** a _schedule_ (or frequency) for evaluating the success of the team (or role keeper) in fulfilling the domain's purpose. Include information about the _activity_ to be used (procedure, process, etc), and _who should participate_ in which parts of the evaluation. Include any _evaluation criteria_ in addition to the _key metrics_, as well as _any other relevant aspects_ to keep in mind for the evaluation.
+**Describe** a _schedule_ (or frequency) for evaluating the success of the team (or rolekeeper) in fulfilling the domain's purpose. Include information about the _activity_ to be used (procedure, process, etc), and _who should participate_ in which parts of the evaluation. Include any _evaluation criteria_ in addition to the _key metrics_, as well as _any other relevant aspects_ to keep in mind for the evaluation.
 
 Consider using the following processes for evaluation: 
 
@@ -585,10 +585,10 @@ When designing a process for evaluation, ensure you consider the following aspec
 
 -   The **effectiveness** of the work of delegatees in **fulfilling the purpose** of the domain
 -   The **value** the delegatees brought to the organization by accounting for the domain.
--   The team's or role keeper's **work processes**, and their collaboration with each other, with the delegator, and with the rest of the organization.
+-   The team's or rolekeeper's **work processes**, and their collaboration with each other, with the delegator, and with the rest of the organization.
 -   The **design of the domain** itself (and potentially the design of other related domains). E.g.: 
     -   Completeness and specificity of the **key metrics**, to identify if new ones are useful to add, or if existing metrics should be dropped or changed.
-    -   The team members' or role keeper's **competencies and skills** in relation to the domain.
+    -   The team members' or rolekeeper's **competencies and skills** in relation to the domain.
     -   How well the **delegator** takes care of their **responsibilities**.
 -   The **[strategy](glossary:strategy)** the delegatees follow to fulfill the main requirement of the domain.
 -   Whether fulfilling each requirement detailed in the domain description leads to the impact and whether achieving this impact results in a positive outcome in relation to the driver it's intended to address. 

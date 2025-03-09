@@ -8,7 +8,7 @@ Instead of simply assigning people for [roles](section:role), or making a choice
 
 - tap collective intelligence by hearing and deliberating on reasons for nominations
 - increase ownership over the decision
-- ensure support for the role keeper by those affected.
+- ensure support for the rolekeeper by those affected.
 
 A prerequisite to the selection process is a [clear description](section:clarify-and-develop-domains) of the role's [domain](glossary:domain).
 
