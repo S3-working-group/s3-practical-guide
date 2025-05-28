@@ -24,7 +24,7 @@ People might do a great job of accounting for a domain in the way it's designed,
 
 Responsibility for domains is delegated to groups or individuals, who then act within its defined constraints on their autonomy and influence.
 
-When a domain is delegated to a group of people, they become a [team](glossary:team), when it's delegated to an individual, they become a [rolekeeper](glossary:role-keeper).
+When a domain is delegated to a group of people, they become a [team](glossary:team), when it's delegated to an individual, they become a [rolekeeper](glossary:rolekeeper).
 
 The [delegatee(s)](glossary:delegatee) may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else's (explicit) domain, or impede other people's contribution to the organization in some other way. 
 

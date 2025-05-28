@@ -13,16 +13,16 @@ terms:
   accountability:
     name: Accountability (principle)
     definition:
-    glossary: "**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization."
+    glossary: "**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked, and everyone does what they can to contribute toward the effectiveness and integrity of the organization."
   account:
     name: Attend to (v.)
     glossary: to take responsibility for something.
   alignment:
     name: Alignment
-    glossary: The process of bringing the actions of all parts of an organization in line with the organization's objectives.
+    glossary: The process of aligning the actions of all parts of an organization with the organization's objectives.
   backlog:
     name: Backlog
-    definition: A **backlog** (to-do list) is a list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.
+    definition: A **backlog** (to-do list) is a list of (often prioritized) uncompleted work items (typically a deliverable, requirement, or driver) that need to be addressed.
     glossary: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.
   chosen-values:
     name: Chosen Values
@@ -34,7 +34,7 @@ terms:
   check-in:
     name: Check-In
     definition: 
-    glossary: A brief disclosure where you share something about what's up for you and how you are, revealing thoughts, feelings, distractions or needs. 
+    glossary: A brief disclosure where you share something about what's up for you and how you are, revealing thoughts, feelings, distractions, or needs. 
   complexity:
     name: Complexity
     glossary: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]
@@ -42,6 +42,10 @@ terms:
     name: Concern
     definition: A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.
     glossary: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.
+  condition:
+    name: Condition
+    definition: The **condition** is what needs to be in place to achieve a specific outcome.
+    glossary: What needs to be in place to achieve a specific outcome.
   consent:
     name: Consent (principle)
     definition:
@@ -49,8 +53,11 @@ terms:
   constituent:
     name: Constituent
     definition:
-    glossary: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other teams or organizations.
-  continuous-improvement:
+    glossary: A group (e.g., a circle, team, department, branch, project, or organization) that delegates authority to a representative to act on their behalf in other teams or organizations.
+  constraint:
+    definition: A constraint is a limitation or restriction that controls or limits what someone can do or what can happen. It can be a condition, rule, or factor that imposes boundaries on actions, behaviors, or outcomes.
+    glossary: A limitation or restriction that controls or limits what someone can do or what can happen. It can be a condition, rule, or factor that imposes boundaries on actions, behaviors, or outcomes.
+  continuous-improvement: 
     name: Continuous Improvement (principle)
     definition:
     glossary: "**Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time."
@@ -63,15 +70,15 @@ terms:
     glossary: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
   delegation:
     name: Delegation
-    definition: Delegation is the grant of authority by one party (the delegator) to another (the delegatee) to attend to a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.
+    definition: Delegation is the grant of authority by one party (the delegator) to another (the delegatee) to attend to a domain (i.e., to do certain things or to make certain decisions), for which the delegator maintains overall accountability.
     glossary: The grant of authority by one party (the delegator) to another (the delegatee) to attend to a domain (i.e. to do certain things or to make certain decisions), for which the delegator maintains overall accountability.
   delegator:
     name: Delegator
     glossary: An individual or group delegating responsibility for a domain to other(s).
   deliverable:
     name: Deliverable
-    definition: A **deliverable** is a product, service, component or material provided to fulfill a requirement.
-    glossary: A product, service, component or material provided to fulfill a requirement.
+    definition: A **deliverable** is a product or service provided to fulfill a requirement. Products include components and materials.
+    glossary: A product or service provided to fulfill a requirement. Products include components and materials.
   domain:
     name: Domain
     definition: A **domain** is a distinct area of responsibility and authority within an organization.
@@ -83,11 +90,11 @@ terms:
   effectiveness:
     name: Effectiveness (principle)
     definition:
-    glossary: "**Devote time only to what brings you closer towards achieving your organization's overall objectives**, so that you can make the best use of your limited time, energy and resources."
+    glossary: "**Devote time only to what brings you closer towards achieving your organization's overall objectives**, so that you can make the best use of your limited time, energy, and resources."
   empiricism:
     name: Empiricism (principle)
     definition:
-    glossary: "**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can."
+    glossary: "**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things, and navigate complexity as effectively as you can."
   equivalence:
     name: Equivalence (principle)
     definition:
@@ -100,39 +107,42 @@ terms:
     glossary: Deliverables traveling through an organization towards customers or other stakeholders.
   governance:
     name: Governance
-    definition: "**Governance** of, or within an organization (or a domain within it), is the process of setting objectives and making and evolving decisions that guide people toward achieving those objectives."
-    glossary: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.
+    definition: "**Governance** is the sum of activities related to setting significant objectives and making and evolving significant decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it. "
+    glossary: The sum of activities related to setting significant objectives and making and evolving significant decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it. 
   governance-backlog:
     name: Governance Backlog
     definition: A **governance backlog** is a visible, prioritized list of items relating to the governance of a domain.
     glossary: A visible, prioritized list of items relating to the governance of a domain.
   intended-outcome:
     name: Intended Outcome
-    definition: The **intended outcomes** are the expected results of an activity, policy, action, project, or strategy.
-    glossary: The expected results of an activity, policy, action, project, or strategy.
+    definition: The **intended outcome** is the future state you aim to achieve in relation to a driver.
+    glossary:  The future state you aim to achieve in relation to a driver.
+  intervention: 
+    name: Intervention
+    glossary: The specific steps you take and/or the constraints you put in place to fulfill a purpose.
   helping-team:
     name: Helping Team
     definition: 
     glossary: A team of equivalent people with the mandate to execute on a specific set of requirements.
   key-responsibilities:
-    name: Key responsibilities
+    name: Key Responsibilities
     glossary: Essential work and decision-making required in the context of a domain.
   logbook:
     name: Logbook
     definition:
-    glossary: A (digital) system to store all information relevant for running an organization. 
+    glossary: A (digital) system to store all information relevant to running an organization. 
   metric:
     name: Metric
     definition: A **metric** is a quantifiable measure used to track and assess progress, evaluate outcomes and determine success.
-    glossary: A quantifiable measure used to track and assess progress, evaluate outcomes and determine success
+    glossary: A quantifiable measure used to track and assess progress, evaluate outcomes, and determine success
   objection:
     name: Objection
-    definition: An **objection** is an argument – relating to a proposal, policy, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.
-    glossary: An argument – relating to a proposal, policy, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.
+    definition: An **objection** is an argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.
+    glossary: An argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.
   objective:  
     name: Objective
     definition:
-    glossary: A specific result (or goal) that a person, team or organization wants to achieve. In the context of S3, objectives refer to achieving intended outcomes, fulfilling requirements, and ultimately, responding adequately to organizational drivers.
+    glossary: A specific result (or goal) that a person, team, or organization wants to achieve. In the context of S3, objectives refer to achieving intended outcomes, fulfilling requirements, and ultimately, responding adequately to organizational drivers.
   open-team:
     name: Open Team
     definition: An **open team** is a group of people who are invited to contribute to the work and governance done in a domain when they can.
@@ -151,24 +161,20 @@ terms:
     glossary: A group of people collaborating toward a common purpose by delivering products and services that meet the needs or desires of the customers they serve.
   organizational-driver:
     name: Organizational Driver
-    definition: An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).
-    glossary: Any situation where the organization's members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).
+    definition: An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would benefit the organization (by helping to generate value, eliminate waste, or avoid undesirable risks or consequences).
+    glossary: Any situation where the organization's members have a motive to respond because they anticipate that doing so would beneficit the organization (by helping to generate value, eliminate waste, or avoid undesirable risks or consequences).
   overall-domain:
     name: Overall Domain
     definition: The **overall domain** of an organization defines the organization's purpose, overall strategy, business model(s), and other standard constraints.
     glossary: The domain that defines the organization's purpose, overall strategy, business model(s), and other standard constraints.
   pattern:
     name: Pattern
-    definition: A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.
+    definition: A **pattern** is a process, practice, or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.
     glossary: A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.
-  peer-domain:
-    name: Peer Domain
-    definition:
-    glossary: Two peer domains are contained within the same immediate superdomain, and may be overlapping.
   policy:
     name: Policy
-    definitionL: A **policy** is a process, procedure, protocol, plan, strategy, or guideline designed to fulfill a significant requirement. Deciding on and evolving policies are main activities in governance.
-    glossary: A process, procedure, protocol, plan, strategy, or guideline designed to fulfill a significant requirement. Deciding on and evolving policies are main activities in governance.
+    definitionL: A **policy** is an intervention that fulfills a significant purpose; a process, procedure, protocol, plan, strategy, or guideline.
+    glossary: An intervention that fulfills a significant purpose; a process, procedure, protocol, plan, strategy, or guideline. Deciding on and evolving policies are main activities in governance.
   primary-driver:
     name: Primary Driver
     definition:
@@ -187,9 +193,9 @@ terms:
   role:
     name: Role
     definition:
-    glossary: A domain that is delegated to an individual, who then becomes the role keeper. 
-  role-keeper:
-    name: Role Keeper
+    glossary: A domain that is delegated to an individual, who then becomes the rolekeeper. 
+  rolekeeper:
+    name: Rolekeeper
     definition:
     glossary: An individual taking responsibility for a role.
   scm:
@@ -206,22 +212,22 @@ terms:
   semi-autonomy:
     name: Semi-Autonomy
     definition:
-    glossary: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.
+    glossary: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain and by objections brought by the delegator, representatives, or others.
   social-technology:
     name: Social Technology
-    definition: "**Social technology** is any process, technique, method, skill or any other approach that people can use to influence social systems – organizations, societies, communities etc. – to support achieving shared objectives and guide meaningful interaction and exchange."
-    glossary: Any process, technique, method, skill or any other approach that people can use to influence social systems – organizations, societies, communities etc. – to support achieving shared objectives and guide meaningful interaction and exchange.
+    definition: "**Social technology** is any process, technique, method, skill or any other approach that people can use to influence social systems – organizations, societies, communities, etc. – to support achieving shared objectives and guide meaningful interaction and exchange."
+    glossary: Any process, technique, method, skill or any other approach that people can use to influence social systems – organizations, societies, communities, etc. – to support achieving shared objectives and guide meaningful interaction and exchange.
   sociocracy:
     name: Sociocracy
     glossary: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.
   standard-constraint:
     name: Standard Constraint
-    definition: A **standard constraint** is a constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business model, or an organization-wide rule).
-    glossary: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business model, or an organization-wide rule).
+    definition: A **standard constraint** is a constraint that affects several domains (e.g., all sales teams, an entire branch, platform, or department) or even all domains of the organization (e.g., company-wide strategy, a business model, or an organization-wide rule).
+    glossary: A constraint that affects several domains (e.g., all sales teams, an entire branch, platform, or department) or even all domains of the organization (e.g., company-wide strategy, a business model, or an organization-wide rule).
   strategy:
     name: Strategy
-    definition: A **strategy** is a high level approach for how people will create value to successfully attend to a domain.
-    glossary: A high level approach for how people will create value to successfully attend to a domain.
+    definition: A **strategy** is a high-level approach for how people will create value to successfully attend to a domain.
+    glossary: A high-level approach for how people will create value to successfully attend to a domain.
   subdomain:
     name: Subdomain
     definition:
@@ -238,14 +244,17 @@ terms:
     name: Superdomain
     definition:
     glossary: A domain that fully contains another domain. 
+  task:
+    name: Task
+    definition: A **task** is a specific piece of work that can be assigned to a person or team, ranging from a simple assignment to complex undertakings
   team:
     name: Team
     definition:
-    glossary: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.
+    glossary: A group of people collaborating toward a shared driver (or objective). Typically, a team is part of an organization, or it is formed as a collaboration of several organizations.
   tension:
     name: Tension
     definition:
-    glossary: A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.
+    glossary: A personal experience, a symptom of dissonance between an individual's perception of a situation and their expectations or preferences.
   timebox:
     name: Timebox
     definition: A **timebox** is a fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).
@@ -256,13 +265,15 @@ terms:
     glossary: "**Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole."
   value:
     name: Value
-    definition: "**Value** is the importance, worth or usefulness of something in relation to a driver."
-    glossary: The importance, worth or usefulness of something in relation to a driver. Also "a valued principle that guides behavior" (mostly used as plural, "values", or "organizational values").
+    definition: "**Value** is the importance, worth or usefulness of something in relation to a purpose."
+    glossary: 'The importance, worth, or usefulness of something in relation to a purpose. Also: "a valued principle that guides behavior" (mostly used as plural, "values", or "organizational values").'
   values:
     name: Values
     definition: "**Values** are valued principles that guide behavior. Values define scope for action and ethical constraints."
     glossary: "Valued principles that guide behavior. Not to be confused with \"value\" (singular) in the context of a driver."
   waste:
     name: Waste
-    definition: "**Waste** is anything unnecessary for – or standing in the way of – a (more) effective response to a driver."
-    glossary: Anything unnecessary for – or standing in the way of – a (more) effective response to a driver.
+    definition: "**Waste** Anything unnecessary for – or standing in the way of – an effective intervention to fulfill a purpose.
+."
+    glossary: Anything unnecessary for – or standing in the way of – an effective intervention to fulfill a purpose.
+
