@@ -26,7 +26,7 @@ _Proposal Forming_ may also be used by an individual.
 
 **1. Consent to Driver and Requirement:** Check the driver and requirement is summarized clearly enough and is relevant for the group to respond to. 
 
-**2. Questions about the Driver and Requirement:** Deepen individual and shared understanding of the driver and Requirement.
+**2. Questions about the Driver and Requirement:** Deepen individual and shared understanding of the driver and requirement.
 
 **3. Considerations as questions:** Collect any considerations you have in relation to possible solutions. Record them in the form of questions.
 
@@ -38,7 +38,7 @@ _Proposal Forming_ may also be used by an individual.
 
 **7. Choose tuners:** Delegate responsibility for putting together a proposal to 2-3 people (tuners).
 
-**8. Design proposal:** The Tuners design a proposal based on the information gathered in the previous steps.
+**8. Design proposal:** The tuners design a proposal based on the information gathered in the previous steps.
 
 
 ![Proposal forming process](img/policy/proposal-forming.png)
@@ -61,7 +61,7 @@ As a general recommendation, aim to complete this step with meeting attendees as
 **If the requirement is considered to be unsuitable:** hear the argument(s) and if they qualify as objections, resolve them before considering the proposal.
 
 
-## Step 2: Questions about the Driver and Requirement
+## Step 2: Questions About the Driver and Requirement
 
 _Deepen individual and shared understanding of the driver and requirement._
 
@@ -69,15 +69,9 @@ The purpose of this step is to deepen your understanding, individually and as a 
 
 **Facilitator asks**: _Any other (essential) information you need to know about the driver or requirement?_
 
-Ask whatever questions you need, to be sure you understand enough about:
-
--   the current situation, 
--   the effect it has on the organization, 
--   the requirement you're trying to address in this process and 
--   the impact you want to achieve. 
+Request and share whatever information you need, to be sure you understand enough about the driver and requirement.
 
 **Tips for the facilitator:**
-
 
 -   Use rounds, hear one question at a time, and invite anyone with an answer to share it briefly. Encourage them to be brief and concise.
 -   Check regularly with the person who asks a question, if the answer(s) given is sufficient to move on.  
@@ -92,7 +86,7 @@ Ask whatever questions you need, to be sure you understand enough about:
 -   If there are 2 or more points of view, record them all.
 
 
-## Step 3: Considerations as questions
+## Step 3: Considerations As Questions
 
 _Collect any considerations you have in relation to possible solutions. Record them in the form of questions._
 
@@ -139,7 +133,7 @@ If you do come across a solution disguised as a question, have a go at reformula
 -   Remember: you don't answer any questions in this step.
 
 
-**Tips for everyone:**
+**Tips for Everyone:**
 
 
 -   Allocate two areas (columns) on your (digital) board, one for information-gathering questions and the other for generative questions.
@@ -150,7 +144,7 @@ If you do come across a solution disguised as a question, have a go at reformula
 -   To increase meeting effectiveness, you can also prepare some of these questions prior to the meeting, as part of your preparation.
 
 
-## Step 4: Answer information-gathering questions
+## Step 4: Answer Information-gathering Questions
 
 _Gather any information regarding constraints and specific details that are worthwhile to consider._
 
@@ -178,7 +172,7 @@ Here's some tips on how to do this step:
     Generative question: _How shall we find out how many people are affected?_
 
 
-## Step 5: Prioritize generative questions
+## Step 5: Prioritize Generative Questions
 
 _Identify priority considerations to clarify which are more or less important to consider when forming the proposal._
 
@@ -191,7 +185,7 @@ Together, in silence, arrange the sticky notes in an approximate order of import
 **Note:** this prioritization only needs to be approximate. The main purpose here is to ensure that essential considerations are identified so that they can be considered when it comes to tuning the proposal. 
 
 
-## Step 6: Collect ideas
+## Step 6: Collect Ideas
 
 _Generate and record ideas about how to fulfill the determined requirement._
 
@@ -216,7 +210,7 @@ In this step, everyone shares ideas about how to fulfill the determined requirem
 -   Use the "Bingo" and "Sort-of Bingo" technique.
 
 
-## Step 7: Choose tuners
+## Step 7: Choose Tuners
 
 _Delegate responsibility for putting together a proposal, to 2-3 people (tuners)._
 
@@ -238,7 +232,7 @@ _Delegate responsibility for putting together a proposal, to 2-3 people (tuners)
 **Note:** The **tuners are not making a final decision**. Their task is to ensure a proposal is created based on the information gathered in the previous steps. The output of the Proposal Forming process is a proposal that can later be tested and evolved if necessary using the Consent Decision Making process.
 
 
-## Step 8: Design proposal
+## Step 8: Design Proposal
 
 _The Tuners design a proposal._
 
