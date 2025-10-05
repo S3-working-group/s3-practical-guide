@@ -9,34 +9,43 @@
 </only>
 
 
-## Changes 2024-??-??
+## Changes 2025-??-??
 
 
 **General Changes**
 
--   Agreement -> Policy (is now part of the governance/operations page)
--   updated page aubout governance, explained about setting objectives, what else? 
--   new intro to key concepts that briefly explain each concept
--   added page about complexity     
+-   Added an introduction to key concepts that briefly explains each concepts and their relationships
+-   Integrated Purpose, Intervention, Driver and Requirement into a coherent Model for Purposeful Action, and explained that in the chapter page that was originally only about drivers and requirements. This led to an number of changes throughout the guide:
+    - revised Domains and delegation accordingly
+    - revised and expanded Respond to Org Drivers
+-   We renamed the concept of Agreement to "Policy" (is now part of the governance/operations page)
+-   updated page about governance, explained about setting objectives, what else? 
+-   added page about complexity
+revise principle of equivalence, … which else?
+- define and monitor metrics: revised and extended pattern description, added examples
+- Evaluate and Evolve Policies - revised, added full description of format 
+
 
 **Glossary**
 
--   added purpose
--   updated organization
+-   added purpose, condition, intervention, 
+-   updated organization, requirement, governance
 -   updated objective, organization, governance backlog 
--   added Intended Outcome 
+-   added Intended Outcome , constraint
 -   replaced account for with attend to (in relation to domains) 
 -   governance backlog 
 -   agreement -> policy (and updated definition) 
 -   governance 
 -   updated objection
+-   updated: governance, key responsibilities, policy, strategy
 
 **Changes to Patterns**
 
 -   governance backlog: 
+-   circles; (and also revised Double-Linked Hierarchy accordingly)
 -   updated Governance Meeting 
--   Record Governance Decisions: explained benefits, revesed the template and the recommendations for what to include in a record 
-
+-   Record Governance Decisions: explained benefits, revised the template and the recommendations for what to include in a record 
+-   revised to Consent Decision Making (Purpose, small revisions for clarity)
 -   planning and review meeting 
 -   updated summary of Evaluate and Evolve Agreements 
 -   extedned the description io Clarify Intended Outcome, added examples 
@@ -52,7 +61,7 @@
 
 **Removed Patterns:**
 
-
+-    Clarify Intended Outcomes
 
 ## Changes 2024-04-18
 
@@ -98,7 +107,7 @@
 ## Changes 2024-02-08
 
 -   introduced _Requirement_ as a core concept distinct from the _Driver_: 
-    -   added an explanation of _Requirement_ to [Drivers and Requirements](section:drivers-and-requirements)
+    -   added an explanation of _Requirement_ to _Drivers and Requirements_
     -   added new pattern [Determine Requirements](section:determine-requirements)
     -   updated [Respond to Organizational Drivers](section:respond-to-organizational-drivers)
     -   updated [Describe Organizational Drivers](section:describe-organizational-drivers):
@@ -240,7 +249,7 @@
 
 -   revised all illustrations for a more consistent style and increased readability 
 -   revised introduction: more explanation about patterns and core concepts 
--   updated glossary: revised explanation of [Delegator](glossary:delegator), [Delegatee](glossary:delegatee), [Role](glossary:role) and [Pattern](glossary:pattern), added [Rolekeeper](glossary:role-keeper) 
+-   updated glossary: revised explanation of [Delegator](glossary:delegator), [Delegatee](glossary:delegatee), [Role](glossary:role) and [Pattern](glossary:pattern), added [Rolekeeper](glossary:rolekeeper) 
 
 
 ## Changes 2020-04-29
