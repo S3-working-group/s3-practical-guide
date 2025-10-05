@@ -21,7 +21,7 @@ parts:
        - principle-accountability
   - id: making-sense-of-organizations
     parts:
-      - drivers-and-requirements
+      - purposeful-action
       - domain
       - objection
       - governance

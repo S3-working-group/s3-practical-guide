@@ -188,8 +188,8 @@ terms:
     glossary:  The reason why something is done, used, or created; a guiding motivation that directs actions, decisions, and resources toward achieving a meaningful outcome or fulfilling a specific need or desire.
   requirement:
     name: Requirement
-    definition: A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.
-    glossary: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.
+    definition: A **requirement** is the combination of an _outcome_ considered valuable to achieve in relation to a driver, and the _conditions_ that need to be in place to achieve that outcome.
+    glossary: The combination of an _outcome_ considered valuable to achieve in relation to a driver, and the _conditions_ that need to be in place to achieve that outcome.
   role:
     name: Role
     definition:
