@@ -26,7 +26,7 @@ terms:
     glossary: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.
   chosen-values:
     name: Chosen Values
-    glossary: A set of principles a team (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
+    glossary: A set of principles that a team (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.
   circle:
     name: Circle
     definition: A **circle** is a self-governing and semi-autonomous team of equivalent people who collaborate to attend to a domain.
@@ -42,10 +42,6 @@ terms:
     name: Concern
     definition: A **concern** is an assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.
     glossary: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.
-  condition:
-    name: Condition
-    definition: The **condition** is what needs to be in place to achieve a specific outcome.
-    glossary: What needs to be in place to achieve a specific outcome.
   consent:
     name: Consent (principle)
     definition:
@@ -65,6 +61,10 @@ terms:
     name: Coordination
     definition:
     glossary: The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.
+  current-conditions:
+    name: Current conditions
+    definition: In the context of organizational drivers, **current conditions** are present, observable circumstances that are causing — or could plausibly cause — effects relevant to the organization's purpose.}}
+    glossary: (In the context of organizational drivers) Current conditions are present, observable circumstances that are causing — or could plausibly cause — effects relevant to the organization's purpose.}}
   delegatee:
     name: Delegatee
     glossary: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.
@@ -95,6 +95,10 @@ terms:
     name: Empiricism (principle)
     definition:
     glossary: "**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things, and navigate complexity as effectively as you can."
+  enabling-conditions:
+    name: Enabling Conditions
+    definition: In the context of a requirement, **enabling conditions** are conditions considered necessary to establish for achieving or maintaining intended outcomes.
+    glossary: Conditions considered necessary to establish for achieving or maintaining intended outcomes (in the context of a requirement).
   equivalence:
     name: Equivalence (principle)
     definition:
@@ -107,7 +111,7 @@ terms:
     glossary: Deliverables traveling through an organization towards customers or other stakeholders.
   governance:
     name: Governance
-    definition: "**Governance** the sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it."
+    definition: "**Governance** the sum of activities involved in setting significant objectives and making and evolving significant decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it."
     glossary: The sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it.
   governance-backlog:
     name: Governance Backlog
@@ -115,8 +119,8 @@ terms:
     glossary: A visible, prioritized list of items relating to the governance of a domain.
   intended-outcome:
     name: Intended Outcome
-    definition: The **intended outcome** is the future state you aim to achieve in relation to a driver.
-    glossary:  The future state you aim to achieve in relation to a driver.
+    definition: In the context of a requirement, **intended outcome(s)** are specific, observable results you aim to achieve in relation to a driver.
+    glossary:  Specific, observable results you aim to achieve in relation to a driver.
   intervention: 
     name: Intervention
     glossary: The specific steps you take and/or the constraints you put in place to fulfill a purpose.
@@ -134,7 +138,7 @@ terms:
   metric:
     name: Metric
     definition: A **metric** is a quantifiable measure used to track and assess progress, evaluate outcomes and determine success.
-    glossary: A quantifiable measure used to track and assess progress, evaluate outcomes, and determine success
+    glossary: A quantifiable measure used to track and assess progress, evaluate outcomes, and determine success.
   objection:
     name: Objection
     definition: An **objection** is an argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.
@@ -161,8 +165,8 @@ terms:
     glossary: A group of people collaborating toward a common purpose by delivering products and services that meet the needs or desires of the customers they serve.
   organizational-driver:
     name: Organizational Driver
-    definition: An **organizational driver** is any situation where the organization's members have a motive to respond because they anticipate that doing so would benefit the organization (by helping to generate value, eliminate waste, or avoid undesirable risks or consequences).
-    glossary: Any situation where the organization's members have a motive to respond because they anticipate that doing so would beneficit the organization (by helping to generate value, eliminate waste, or avoid undesirable risks or consequences).
+    definition: An **organizational driver** is a situation where the organization's members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences).
+    glossary: A situation where the organization's members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.
   overall-domain:
     name: Overall Domain
     definition: The **overall domain** of an organization defines the organization's purpose, overall strategy, business model(s), and other standard constraints.
@@ -185,11 +189,11 @@ terms:
     glossary: A basic idea or rule that guides behavior, or explains or controls how something happens or works.
   purpose:
     name: Purpose
-    glossary:  The reason why something is done, used, or created; a guiding motivation that directs actions, decisions, and resources toward achieving a meaningful outcome or fulfilling a specific need or desire.
+    glossary:  The reason why something is done, used, or created; a guiding motivation that directs actions, decisions, and resources toward achieving a valuable outcome.
   requirement:
     name: Requirement
-    definition: A **requirement** is the combination of an _outcome_ considered valuable to achieve in relation to a driver, and the _conditions_ that need to be in place to achieve that outcome.
-    glossary: The combination of an _outcome_ considered valuable to achieve in relation to a driver, and the _conditions_ that need to be in place to achieve that outcome.
+    definition: A **requirement** is a state considered valuable to establish or maintain in order to address a specific driver. 
+    glossary: A state considered valuable to establish or maintain in order to address a specific driver. Requirements are often expressed as _intended outcome(s)_, and _enabling condition(s)_ considered necessary to establish for achieving or maintaining those outcomes.
   role:
     name: Role
     definition:
@@ -246,11 +250,11 @@ terms:
     glossary: A domain that fully contains another domain. 
   task:
     name: Task
-    definition: A **task** is a specific piece of work that can be assigned to a person or team, ranging from a simple assignment to complex undertakings
+    definition: A **task** is a specific piece of work that can be assigned to a person or team, ranging from a simple assignment to complex undertakings.
   team:
     name: Team
     definition:
-    glossary: A group of people collaborating toward a shared driver (or objective). Typically, a team is part of an organization, or it is formed as a collaboration of several organizations.
+    glossary: A group of people collaborating toward fulfilling a shared purpose. Typically, a team is part of an organization, or it is formed as a collaboration of several organizations.
   tension:
     name: Tension
     definition:
@@ -265,15 +269,14 @@ terms:
     glossary: "**Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole."
   value:
     name: Value
-    definition: "**Value** is the importance, worth or usefulness of something in relation to a purpose."
-    glossary: 'The importance, worth, or usefulness of something in relation to a purpose. Also: "a valued principle that guides behavior" (mostly used as plural, "values", or "organizational values").'
+    definition: "**Value** is the importance, worth or usefulness of something for fulfilling a purpose."
+    glossary: 'The importance, worth, or usefulness of something for fulfilling a purpose. Also: "a valued principle that guides behavior" (mostly used as plural "values", e.g. "organizational values").'
   values:
     name: Values
-    definition: "**Values** are valued principles that guide behavior. Values define scope for action and ethical constraints."
-    glossary: "Valued principles that guide behavior. Not to be confused with \"value\" (singular) in the context of a driver."
+    definition: '**Values** are valued principles that guide behavior. Values define scope for action and ethical constraints.'
+    glossary: 'Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.'
   waste:
     name: Waste
-    definition: "**Waste** Anything unnecessary for – or standing in the way of – an effective intervention to fulfill a purpose.
-."
+    definition: "**Waste** Anything unnecessary for – or standing in the way of – an effective intervention to fulfill a purpose."
     glossary: Anything unnecessary for – or standing in the way of – an effective intervention to fulfill a purpose.
 
