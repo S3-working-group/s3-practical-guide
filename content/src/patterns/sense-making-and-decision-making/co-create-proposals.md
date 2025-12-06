@@ -7,7 +7,7 @@ Bring people together to co-create proposals: tap collective intelligence, build
 There are many ways to co-create proposals. They typically follow a similar pattern:
 
 1. Agree on the [driver](glossary:organizational-driver) and [requirement](glossary:requirement) (or problem/opportunity/need)
-2. Explore the topic and understand constraints
+2. Explore the topic and understand constraints, available resources and any other relevant information.
 3. Generate ideas
 4. Design a proposal (often done by a smaller group)
 
