@@ -145,8 +145,8 @@ terms:
     glossary: An argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.
   objective:  
     name: Objective
-    definition:
-    glossary: A specific result (or goal) that a person, team, or organization wants to achieve. In the context of S3, objectives refer to achieving intended outcomes, fulfilling requirements, and ultimately, responding adequately to organizational drivers.
+    definition: An **objective** is a specific result (or goal) that a person, team, or organization wants to achieve.
+    glossary: A specific result (or goal) that a person, team, or organization wants to achieve. In the context of S3, objectives refer to achieving intended outcomes, establishing desired conditions, and responding adequately to organizational drivers, all with the overarching aim of fulfilling the organization’s purpose.
   open-team:
     name: Open Team
     definition: An **open team** is a group of people who are invited to contribute to the work and governance done in a domain when they can.
@@ -277,6 +277,5 @@ terms:
     glossary: 'Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.'
   waste:
     name: Waste
-    definition: "**Waste** Anything unnecessary for – or standing in the way of – an effective intervention to fulfill a purpose."
-    glossary: Anything unnecessary for – or standing in the way of – an effective intervention to fulfill a purpose.
-
+    definition: "**Waste**, in relation to purpose, is any activity, output, or use of resources that does not contribute — directly or indirectly — to fulfilling that purpose."
+    glossary: Any activity, output, or use of resources that does not contribute — directly or indirectly — to fulfilling a specific purpose."
