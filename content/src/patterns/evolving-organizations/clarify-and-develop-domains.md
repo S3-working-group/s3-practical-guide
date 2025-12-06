@@ -15,7 +15,7 @@ Explicitly clarify, and then regularly evaluate and develop the design of domain
 
 ## Overview
 
-A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing [domains](glossary:domain) – distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
+A common practice in organizations is to distribute work and decision-making between people, to make good use of their limited time, energy and resources. In the process people are explicitly or implicitly defining and designing [domains](glossary:domain) — distinct areas of responsibility and authority within the organization. Depending on the purpose it's meant to achieve, a domain in an organization may be  temporary (e.g for a project), or permanent (e.g. finance).
 
 Responsibility for domains is taken on by individuals (rolekeepers), or by groups of people (teams, projects, platforms, micro-enterprises, departments, etc.) Each team or rolekeeper contributes toward fulfilling the overall purpose of the organization by taking care of a specific area of responsibility in the organization. In some cases, people might keep more than one role, or be part of more than one team. 
 
@@ -41,7 +41,7 @@ A simple way for supporting stakeholders in developing shared understanding abou
 -   **Key Challenges**: _What are the most important known (or anticipated) challenges the delegatees might face?_
 -   **Key Resources**: _What essential resources can the team (or rolekeeper) make use of?_
 -   **Delegator Responsibilities**: _What responsibilities can delegatees rely on the delegator to take care of to support them to successfully attend to this domain?_
--   **Competencies, Qualities and Skills**: _What competencies, qualities and skills are required – or at least preferable – to successfully attend to this domain?_
+-   **Competencies, Qualities and Skills**: _What competencies, qualities and skills are required — or at least preferable — to successfully attend to this domain?_
 -   **Key Metrics and Monitoring**: _What are the critical indicators of progress, performance, project health, etc, how frequently will they be measured and by whom?_
 -   **Evaluation Schedule:** _When and how will you evaluate the effectiveness of the domain's design and the success of the team (or rolekeeper) in fulfilling the domain's purpose?_
 
@@ -301,7 +301,7 @@ _What are important external constraints to the delegatees' autonomy and influen
 
 External constraints are anything that limits the delegatees' freedom to decide and act. They may refer to customer requirements, the outside world, other essential stakeholders in the organization, overarching responsibilities the delegatees may have, or to the preference of the delegator. 
 
-Some constraints only affect a single domain, others – referred to as **standard constraints** – affect several domains (e.g. an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, organization-wide rules, etc). 
+Some constraints only affect a single domain, others — referred to as **standard constraints** — affect several domains (e.g. an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, organization-wide rules, etc). 
 
 Some external constraints are fixed while others may be negotiable with stakeholders. They can include:
 
@@ -325,7 +325,7 @@ Some external constraints are fixed while others may be negotiable with stakehol
 2. **Constraint:** (requirement) Prioritize work on projects with deadlines over time spent on training and development (anticipated impact) so that we can keep to delivery dates agreed upon with customers. (Driver is obvious in this case)
 3. **Constraint:** (requirement) Monthly expenditure over $15k needs to be approved with the PM (anticipated impact) to ensure total expenditure for the project remains within the overall budget. (Driver is obvious in this case)
 4. **Constraint:** (requirement) Consult with the Architecture Circle on decisions related to software architecture, (anticipated impact) to ensure architectural coherence throughout all software products. (Driver is obvious in this case)
-5. **Constraint:** (requirement) Schedule all hands meetings between 15:00–18:00 CEST, (anticipated impact) so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
+5. **Constraint:** (requirement) Schedule all hands meetings between 15:00 — 18:00 CEST, (anticipated impact) so that team members from the various time-zones can work during typical working hours. (Driver is obvious in this case)
 6. **Constraint**: (requirement) For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, (anticipated impact) so that they can bring in their project management experience. **Driver:** (current situation) the team does not currently feel confident managing large projects, alone.
 7. **Constraint**: (requirement) Deliver the finished product to the integration team by 01 Feb (anticipated impact) so that they have time to complete integration before the non-negotiable project deadline on 10 March. (Driver is obvious in this case)
 
@@ -456,7 +456,7 @@ When delegating responsibility for a domain to others, the delegator retains ove
 
 ### Competencies, qualities and skills
 
-_What competencies, qualities and skills are required – or at least preferable – to successfully attend to this domain?_
+_What competencies, qualities and skills are required — or at least preferable — to successfully attend to this domain?_
 
 For selecting suitable delegatees, and for identifying important areas for training and development, it's helpful to determine any attributes that are considered necessary or desirable for the rolekeeper or team members to have, to successfully attend to this domain.
 

@@ -25,15 +25,15 @@
 
 ## Key Responsibilities
 
-**Develop and implement a data-driven marketing strategy that targets customer segments more effectively**, to increase market share.– Increasing competition and evolving customer preferences are currently leading to a loss of market share.
+**Develop and implement a data-driven marketing strategy that targets customer segments more effectively**, to increase market share. —  Increasing competition and evolving customer preferences are currently leading to a loss of market share.
 
 **Manage the marketing budget efficiently**, to maximize ROI across all campaigns.
 
 **Monitor and analyze market trends**, to adjust marketing strategies proactively and maintain competitive advantage. The fast pace of change in consumer behavior and market dynamics is rendering current marketing strategies ineffective.
 
-**Execute and refine digital marketing campaigns**, to improve engagement and reduce customer acquisition costs. – With digital ad spend increasing without proportional gains in engagement and acquisition, current strategies are leading to diminishing returns.
+**Execute and refine digital marketing campaigns**, to improve engagement and reduce customer acquisition costs. — With digital ad spend increasing without proportional gains in engagement and acquisition, current strategies are leading to diminishing returns.
 
-**Foster brand partnerships and collaborations**, to extend market reach and brand recognition.– As brand visibility plateaus, the company is experiencing stagnation in market growth.
+**Foster brand partnerships and collaborations**, to extend market reach and brand recognition. —  As brand visibility plateaus, the company is experiencing stagnation in market growth.
 
 **Oversee the production of all marketing materials**, to ensure brand consistency and message clarity across all media. 
 
@@ -131,17 +131,17 @@
 
 **Adhere to brand guidelines🔗 and messaging for all marketing materials**, to maintain a consistent brand image and avoid customer confusion. 
 
-**Obtain approval for campaigns exceeding the allocated budget from Finance🔗**, to avoid overspending. – With a finite marketing budget, overspending on one campaign could limit the resources available for other critical marketing activities throughout the fiscal year.
+**Obtain approval for campaigns exceeding the allocated budget from Finance🔗**, to avoid overspending. — With a finite marketing budget, overspending on one campaign could limit the resources available for other critical marketing activities throughout the fiscal year.
 
-**Compliance with advertising standards and regulations**, to prevent legal issues and uphold the company's reputation for integrity. – The marketing industry is regulated to protect consumers and ensure fair competition, making compliance a non-negotiable aspect of marketing operations.
+**Compliance with advertising standards and regulations**, to prevent legal issues and uphold the company's reputation for integrity. The marketing industry is regulated to protect consumers and ensure fair competition, making compliance a non-negotiable aspect of marketing operations.
 
-**Coordinate campaign launches with product release schedules**, to ensure alignment with overall product strategy and availability. – Misalignment between product availability and marketing campaigns can lead to customer dissatisfaction and lost sales opportunities.
+**Coordinate campaign launches with product release schedules**, to ensure alignment with overall product strategy and availability. Misalignment between product availability and marketing campaigns can lead to customer dissatisfaction and lost sales opportunities.
 
 **Follow data protection laws and guidelines in customer data handling**, to safeguard customer privacy and company compliance with global data protection regulations. 
 
 **Prioritize marketing initiatives that support strategic organizational goals**, to ensure that marketing efforts contribute to the overarching objectives of the company. 
 
-**Report on marketing metrics quarterly to the executive team**, to provide insight into marketing performance and justify budget use. – Executive stakeholders require regular updates to monitor departmental performance and to make informed decisions on future marketing investments.
+**Report on marketing metrics quarterly to the executive team**, to provide insight into marketing performance and justify budget use. Executive stakeholders require regular updates to monitor departmental performance and to make informed decisions on future marketing investments.
 
 
 ## Key Challenges

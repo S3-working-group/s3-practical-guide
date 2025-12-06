@@ -39,7 +39,7 @@ Metrics typically fall into the following categories:
 
 -   Choose **simple and specific metrics**, and document them clearly to avoid confusion or unnecessary debate during policy reviews.
 -   **For high-frequency metrics, efficiency is critical**. Metrics captured daily or more often should either be captured and calculated automatically or, if done manually, the process must be straightforward and quick. Complex or time-consuming metrics are unlikely to be maintained reliably at this frequency.
--   For each metric, consider both the **measured values and their interpretation**—how the numbers relate to the underlying purpose or to broader constraints such as targets or acceptable tolerance ranges.
+-   For each metric, consider both the **measured values and their interpretation** — how the numbers relate to the underlying purpose or to broader constraints such as targets or acceptable tolerance ranges.
 -   **Define actionable metrics** by setting clear thresholds and specifying the appropriate response when those thresholds are crossed.
 -   **Don't rely on raw metrics without accounting for context**. Absolute numbers can be misleading when underlying variables change. For example, if your customer base doubles from 20,000 to 40,000 and complaints rise from 20 to 30 per day, the complaint rate actually drops. More complaints don't mean more unhappy customers — it means you need to check the ratio, not just the count.
 -   **System knowledge is essential**: the person defining the metrics must have a solid understanding of the system being evaluated in order to derive meaningful insights and avoid misleading conclusions. Without this context, metrics risk becoming disconnected from actual performance or relevance.

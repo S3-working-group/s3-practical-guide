@@ -67,7 +67,7 @@ In essence, for people in organizations, this framework serves as a practical ro
 
 The model for purposeful action provides a lightweight and conceptual framework that reveals a simple underlying architecture behind all decision-making and activity in organizations. 
 
-The model can shift how people perceive organizational dynamics through the conversations it triggers. By understanding purpose, relevance, and relationship to the whole, people begin to "see the system"—recognizing interconnections between decisions and their relation to overarching purpose. This reframing is often transformational.
+The model can shift how people perceive organizational dynamics through the conversations it triggers. By understanding purpose, relevance, and relationship to the whole, people begin to "see the system" — recognizing interconnections between decisions and their relation to overarching purpose. This reframing is often transformational.
 
 On the most fundamental level, the model helps people understand why they should act and to what end before they decide what to do and how. It enables insight into relationships between decisions by connecting and aligning what you decide and do with what other people are doing in the organization. It helps surface misalignments (e.g., interventions happening in parallel that should be connected but aren't), supporting learning and adaptation across systems.
 

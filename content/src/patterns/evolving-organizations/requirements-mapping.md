@@ -58,7 +58,7 @@ These are the steps to follow:
 _Present and consent to the primary driver and main requirement._
 
 -   Present the primary driver and main requirement, to the group
--   Consent to the driver and requirement– _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for the group to respond to? And, is the mein requirement suitable?_
+-   Consent to the driver and requirement —  _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for the group to respond to? And, is the mein requirement suitable?_
 -   Clarify any existing constraints from the delegator, e.g. budget, due date, expectations, etc. In the case of an existing domain, present the domain description.Invite further questions that help deepen understanding about what's happening and what's needed.
 -   Make explicit the level of commitment expected from the participants. E.g. people are expected to be here for the duration of the workshop only, or for the duration of the initiative, etc.
 -   Record any relevant information that comes up.

@@ -4,7 +4,7 @@
 Invite any member of your organization to give you some constructive feedback on your performance in a role or in a team, about your general participation and contribution, or about any other area you wish to develop.
 </summary>
 
-Before the invitation, consider who might be able and willing to provide the feedback you seek, and decide on an appropriate duration – 15 or 30 minutes is usually enough.
+Before the invitation, consider who might be able and willing to provide the feedback you seek, and decide on an appropriate duration — 15 or 30 minutes is usually enough.
 
 Schedule the session in advance, so that your peer can prepare for your meeting, and schedule some time for yourself after the session to decide how you will act on the feedback you received.
 

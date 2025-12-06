@@ -15,7 +15,7 @@ Utilize your limited time and resources wisely by testing if arguments qualify a
 
 ## Overview
 
-When someone raises a possible objection (an argument for changing something) check that the argument reveals how leaving things unchanged will – or could – lead to consequences you want to avoid, or that it informs you of a worthwhile way to improve how to go about achieving your objectives. 
+When someone raises a possible objection (an argument for changing something) check that the argument reveals how leaving things unchanged will — or could — lead to consequences you want to avoid, or that it informs you of a worthwhile way to improve how to go about achieving your objectives. 
 
 Explore and refine each argument as necessary to identify any misconceptions or misunderstanding, and to eliminate aspects of the argument that are based merely on assumptions, or a personal preference or opinion. If you establish that what remains of the argument qualifies as an objection, then go on to [resolve the objection](section:resolve-objections).
 
@@ -30,7 +30,7 @@ It helps to present the argument in a way that makes the premises and conclusion
 
 1 First Premise \
 2 Second Premise \
-– – – – – – – – \
+ —  —  —  —  —  —  —  — \
 **Therefore**: Conclusion
 
 **Facilitator:** invite the group to list the premises and explain the conclusion, and then take it from there.
@@ -113,7 +113,7 @@ Choose one of the people with a raised hand and using the same process for testi
 **4.3. Check for disagreement to the disagreement:** Facilitator asks: *Does anyone disagree totally or in part, that this argument is valid?*
 
 - **If no one disagrees**: the argument for the disagreement is considered valid. Go to step 5.
-- **If anyone disagrees**: investigate the reasoning behind the disagreement (see step 4) until you come to an argument that no-one disagrees with. Then take each preceding argument in turn – checking if there's anything remaining and/or if it needs to be changed or dropped (see step 5 for guidelines on how to do this) – until you arrive back to the initial disagreement. 
+- **If anyone disagrees**: investigate the reasoning behind the disagreement (see step 4) until you come to an argument that no-one disagrees with. Then take each preceding argument in turn — checking if there's anything remaining and/or if it needs to be changed or dropped (see step 5 for guidelines on how to do this) — until you arrive back to the initial disagreement. 
 
 
 ### Step 5: Integrate the information revealed in the previous step with the original argument

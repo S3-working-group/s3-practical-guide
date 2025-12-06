@@ -42,7 +42,7 @@ For people to contribute in an effective way, they need access to relevant infor
 
 ## Invest in Learning and Development
 
-When involving people in decision-making, everyone understanding what objections are – and how they are distinct from concerns, opinions, or preferences – will help people contribute to decisions in more meaningful and effective ways. Put in place ways to gather any possible objections that people raise and develop a system to easily make them available to the people directly responsible for making and evolving those decisions.
+When involving people in decision-making, everyone understanding what objections are — and how they are distinct from concerns, opinions, or preferences — will help people contribute to decisions in more meaningful and effective ways. Put in place ways to gather any possible objections that people raise and develop a system to easily make them available to the people directly responsible for making and evolving those decisions.
 
 In the case where people are responsible for making and evolving policies together on a regular basis, invest in everyone developing the necessary competence and skills. This includes learning basic communication skills and developing fluency in whichever decision-making processes you use.
 
