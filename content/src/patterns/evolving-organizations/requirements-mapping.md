@@ -1,4 +1,4 @@
-# Driver Mapping
+# Requirements Mapping
 
 <summary>
 A workshop format for large groups to co-create and organize themselves in response to a complex situation of significant scope and scale.
@@ -19,7 +19,7 @@ During the workshop stakeholders take full ownership of the process from start t
 
 Identify relevant stakeholders, map out related requirements and use them to identify work items and decisions that need to be made, distribute work and define an initial structure for collaboration.
 
-You can use Driver Mapping to:
+You can use Requirements Mapping to:
 
 -   organize start-ups
 -   kick-off projects
@@ -27,14 +27,14 @@ You can use Driver Mapping to:
 -   implement strategy
 -   develop organizational structure to better enable the flow of value
 
-The outcome of a driver mapping workshop is typically:
+The outcome of a Requirements Mapping workshop is typically:
 
 -   a distribution of work, categorized in a number of domains, centered around the needs of stakeholders.
 -   a bespoke organizational structure that brings it all together, including interlinking domains for managing dependencies.
 -   a first draft of prioritized governance and operations backlogs for each identified subdomain.
 -   delegation of influence and the distribution of people to the subdomains through self-selection and nomination.
 
-Although Driver Mapping is often used for identifying and defining new domains, there are also applications for identifying and distributing governance and operational drivers among existing domains in an organization, e.g. when an initiative will be dealt with by existing teams in an organization, or if a group feels they're stuck in their current structure and are looking for inspiration for how to incrementally adapt it. The group can decide if they would map to existing domains and figure out which new ones they'd need to create, or even create a new structure from scratch.
+Although Requirements Mapping is often used for identifying and defining new domains, there are also applications for identifying and distributing governance and operational drivers among existing domains in an organization, e.g. when an initiative will be dealt with by existing teams in an organization, or if a group feels they're stuck in their current structure and are looking for inspiration for how to incrementally adapt it. The group can decide if they would map to existing domains and figure out which new ones they'd need to create, or even create a new structure from scratch.
 
 In a small team or circle (max. 6-8 people), when it's not a priority to distribute work, the team might only use steps 1-5, to understand the scope and fill the operations and governance backlog, and then use proposal forming or some other approach for identifying strategy and/or next steps.
 
@@ -46,11 +46,11 @@ In preparation:
 -   Prepare a poster with the domain description to present in the first step. You will also need A5 and rectangular sticky notes, pens and a wide wall to work.
 
 
-## The Driver Mapping Process:
+## The Requirements Mapping Process:
 
 These are the steps to follow:
 
-![Driver Mapping: Process](img/process/driver-mapping.png)
+![Requirements Mapping: Process](img/process/requirements-mapping.png)
 
 
 ### 1. Why are we here?
@@ -58,7 +58,7 @@ These are the steps to follow:
 _Present and consent to the primary driver and main requirement._
 
 -   Present the primary driver and main requirement, to the group
--   Consent to the driver and requirement– _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for the group to respond to? And, is the requirement suitable?_
+-   Consent to the driver and requirement– _Is the description of the driver and requirement clear enough? Is this an organizational driver? Is this driver relevant for the group to respond to? And, is the mein requirement suitable?_
 -   Clarify any existing constraints from the delegator, e.g. budget, due date, expectations, etc. In the case of an existing domain, present the domain description.Invite further questions that help deepen understanding about what's happening and what's needed.
 -   Make explicit the level of commitment expected from the participants. E.g. people are expected to be here for the duration of the workshop only, or for the duration of the initiative, etc.
 -   Record any relevant information that comes up.
@@ -82,7 +82,7 @@ _Consider the various actors and describe what is needed: what do they need in c
 -   Add the name of the actor in the top left corner of the card
 -   Add your name in the top right corner of the card
 
-![Driver Mapping: A Requirement Card](img/templates/requirement-card.png)
+![Requirements Mapping: A Requirement Card](img/templates/requirement-card.png)
 
 
 ### 4. Identify experience and expertise
@@ -143,11 +143,11 @@ _Organize the work that lies ahead in each domain, ensure things are prioritized
 -   Pass on cards that appear to be the accountability of another domain to address.
 -   Put aside cards relating to multiple domains. You can deal with them in Step 8.
 
-As a facilitator of the driver mapping process, provide a space to collect cards concerning multiple domains so that they can be addressed later.
+As a facilitator of the requirements mapping process, provide a space to collect cards concerning multiple domains so that they can be addressed later.
 
 Regularly pause to share reports between the various domains. Note: Some domains might dissolve, change or merge with others.
 
-![Driver Mapping: A template for domains](img/templates/domain-template.png)
+![Requirements Mapping: A template for domains](img/templates/domain-template.png)
 
 
 ### 8. Connect Domains

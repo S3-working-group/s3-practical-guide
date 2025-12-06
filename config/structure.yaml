@@ -76,7 +76,7 @@ parts:
             tags: [pattern]
           - id: create-a-pull-system-for-organizational-change
             tags: [pattern]
-          - id: driver-mapping
+          - id: requirements-mapping
             tags: [pattern]
       - id: peer-development
         tags: [group]
