@@ -17,7 +17,7 @@ While recording governance decisions might initially appear to be an overhead, t
 -   Ensures continuity and coherence in decision-making by offering a source of reference for future decisions
 -   Easier to identify dependencies between decisions, roles, and domains
 -   Better evaluation of outcomes and adaptation of agreements
--   Reduced potential for differences of opinion about existing agreements, and makes any remaining disputes easier to resolve
+-   Reduces the potential for misunderstanding later about the details of agreements, including the reasons why they are made
 
 Whether you are making governance decisions alone or with a team, and whether those decisions affect only yourself (e.g., as an individual in a role) or others as well, it's still worthwhile recording them.
 
