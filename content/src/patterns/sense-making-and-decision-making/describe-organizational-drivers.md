@@ -16,18 +16,6 @@ Describe organizational drivers to support understanding and communication about
 
 Organizational drivers are identified by individuals (see [Navigate via Tension](section:navigate-via-tension)) who either respond to them directly (when a driver falls within their own domain of responsibility) or who pass on information about drivers they discover to others in the organization (whom they believe are responsible for dealing with them). 
 
-
-## Why Describe Organizational Drivers?
-
-In the course of their daily work in organizations, individuals frequently encounter situations that require attention. They make decisions alone or with others, based on what they believe is required, and then act accordingly. However, sometimes decisions are taken without fully understanding the situation they were intended to deal with, which leads to decisions based more on judgments and assumptions rather than concrete observations. Additionally, failing to communicate relevant information to other stakeholders can lead to misunderstanding, conflict, and waste.
-
-Clearly understanding organizational drivers and documenting essential information about them before deciding on a response is crucial for ensuring that the rationale behind decisions is understood. It also provides an opportunity for those who are collaborating to verify their assumptions, combine diverse viewpoints, align understanding, and consequently agree on a description of a driver. 
-
-Both individuals and groups can describe organizational drivers. A summary can be added to a [backlog](section:backlog), or used as a straightforward method to communicate pertinent details about a relevant situation to others within the organization who have responsibility for dealing with such things. Subsequently, these drivers can be [prioritized](section:prioritize-backlogs) in relation to other drivers that are pending a response, and then, when the time comes, they can be dealt with accordingly. Further details on how to respond to organizational drivers can be found in the pattern [Respond to Organizational Drivers](section:respond-to-organizational-drivers).
-
-
-## How to Describe Organizational Drivers
-
 A simple way to describe an organizational driver is by explaining:
 
 -   the **current conditions** that are being observed, 
@@ -48,6 +36,15 @@ Here is an example of a driver framed as a **problem**:
 The same driver framed as an **opportunity**: 
 
 (current conditions) *Useful information that can help us build a better understanding of our clients' needs is distributed throughout the organization*, (anticipated effect) *and figuring out how to record and share it could help us improve our services.*
+
+
+## Why Describe Organizational Drivers?
+
+In the course of their daily work in organizations, individuals frequently encounter situations that require attention. They make decisions alone or with others, based on what they believe is required, and then act accordingly. However, sometimes decisions are taken without fully understanding the situation they were intended to deal with, which leads to decisions based more on judgments and assumptions rather than concrete observations. Additionally, failing to communicate relevant information to other stakeholders can lead to misunderstanding, conflict, and waste.
+
+Clearly understanding organizational drivers and documenting essential information about them before deciding on a response is crucial for ensuring that the rationale behind decisions is understood. It also provides an opportunity for those who are collaborating to verify their assumptions, combine diverse viewpoints, align understanding, and consequently agree on a description of a driver. 
+
+Both individuals and groups can describe organizational drivers. A summary can be added to a [backlog](section:backlog), or used as a straightforward method to communicate pertinent details about a relevant situation to others within the organization who have responsibility for dealing with such things. Subsequently, these drivers can be [prioritized](section:prioritize-backlogs) in relation to other drivers that are pending a response, and then, when the time comes, they can be dealt with accordingly. Further details on how to respond to organizational drivers can be found in the pattern [Respond to Organizational Drivers](section:respond-to-organizational-drivers).
 
 
 ## How to Describe Organizational Drivers
