@@ -10,6 +10,10 @@
 title: Glossary
 continued: (…)
 terms:
+  acceptance-criteria:
+    name: Acceptance Criteria
+    definition: "**Acceptance Criteria** are a number of specific, verifiable properties of the conditions and/or outcomes of a requirement that, when taken together, indicate the requirement is considered fulfilled."
+    glossary: A number of specific, verifiable properties of the conditions and/or outcomes of a requirement that, when taken together, indicate the requirement is considered fulfilled.
   accountability:
     name: Accountability (principle)
     definition:
@@ -51,8 +55,8 @@ terms:
     definition:
     glossary: A group (e.g., a circle, team, department, branch, project, or organization) that delegates authority to a representative to act on their behalf in other teams or organizations.
   constraint:
-    definition: A constraint is a limitation or restriction that controls or limits what someone can do or what can happen. It can be a condition, rule, or factor that imposes boundaries on actions, behaviors, or outcomes.
-    glossary: A limitation or restriction that controls or limits what someone can do or what can happen. It can be a condition, rule, or factor that imposes boundaries on actions, behaviors, or outcomes.
+    definition: A constraint is a limitation or restriction that controls or limits what someone can do or what can happen. It can be a requirement to fulfill, a rule to follow, or a factor that imposes boundaries on actions, behaviors, or outcomes.
+    glossary: A limitation or restriction that controls or limits what someone can do or what can happen. It can be a requirement to fulfill, a rule to follow, or a factor that imposes boundaries on actions, behaviors, or outcomes.
   continuous-improvement: 
     name: Continuous Improvement (principle)
     definition:
@@ -77,8 +81,8 @@ terms:
     glossary: An individual or group delegating responsibility for a domain to other(s).
   deliverable:
     name: Deliverable
-    definition: A **deliverable** is a product or service provided to fulfill a requirement. Products include components and materials.
-    glossary: A product or service provided to fulfill a requirement. Products include components and materials.
+    definition: A **deliverable** is a product or service provided in the context of an intervention. Products include components and materials.
+    glossary: A product or service provided provided in the context of an intervention. Products include components and materials.
   domain:
     name: Domain
     definition: A **domain** is a distinct area of responsibility and authority within an organization.
