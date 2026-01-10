@@ -10,7 +10,6 @@
 
 In this chapter, you will explore four key concepts that help individuals and organizations navigate their work more effectively:
 
-
 -   [Purpose](glossary:purpose)
 -   [Organizational Driver](glossary:organizational-driver)
 -   [Requirement](glossary:requirement)
@@ -32,25 +31,23 @@ Although _people making interventions to fulfill a purpose_ sounds intuitive and
 -   **Disagreement on viability**: There is disagreement about whether a purpose is valuable or worth pursuing.
 -   **Divergent opinions**: People have differing views about the purpose behind a decision or activity.
 -   **Diverse implementation perspectives**: People have different perspectives on how to fulfill a purpose.
--   **Ineffective interventions**: The activities intended to fulfill a purpose turn out to be unsuitable or insufficient, from the beginning, or because circumstances changed in the meantime. 
+-   **Ineffective interventions**: The activities intended to fulfill a purpose turn out to be unsuitable or insufficient, from the beginning, or because circumstances changed in the meantime.
 -   **Lack of effective feedback loops**: There is no review of whether interventions are achieving their purpose, or no follow-up to improve or adapt them.
 
-It's much easier to avoid or at least detect and mitigate those fail points when all stakeholders share a common understanding about how to describe and discuss purpose and interventions in a clear and coherent way.  
+It's much easier to avoid or at least detect and mitigate those fail points when all stakeholders share a common understanding about how to describe and discuss purpose and interventions clearly and coherently.
 
 Understanding and describing interventions is often straightforward; you list the specific step(s) you take and/or the constraint(s) you put in place to fulfill a purpose. Clearly understanding and describing purpose, however, can be more challenging, and there are several ways to do it.
 
 One way to understand purpose is as the confluence of a _situation_ that is relevant to address, and the _outcome(s)_ considered valuable to achieve in relation to that situation. To define purpose, we use two concepts:
 
--   **Organizational Driver**: a _situation_ of relevance that you want to address. 
--   **Requirement:** a state considered valuable to establish or maintain in order to address a specific driver. 
+-   **Organizational Driver**: a _situation_ of relevance that you want to address.
+-   **Requirement:** a state considered valuable to establish or maintain in order to address a specific driver.
 
-Clarifying both the organizational driver and the associated requirement makes it much easier to determine a suitable intervention. 
-
+Clarifying both the organizational driver and the associated requirement makes it much easier to determine a suitable intervention.
 
 ![](img/purpose-and-interventions/purposeful-action-full.png)
 
 There is also a **natural sequence** to this approach: A clear understanding of the situation of relevance is essential to determine a suitable requirement. Understanding the requirement itself (or at least, a grasp of a valuable outcome) is necessary to determine an appropriate intervention.
-
 
 ![](img/purpose-and-interventions/understand-purpose.png)
 
@@ -58,14 +55,14 @@ Breaking down the process of responding to relevant situations into distinct, se
 
 This model also helps to visualize interconnected purposes, supports shared understanding, better communication, and more effective evaluation of whether specific interventions are achieving the outcomes intended.
 
-Ensuring coherence is often complex: each intervention needs to be suitable for fulfilling the purpose it is intended to serve, but it must not impede the fulfillment of other organizational purposes. It also needs to be aligned with and valuable in light of the organization's overarching goals. This complexity arises from the interconnected and interdependent nature of things and from the difficulty of clearly delineating where one aspect ends and another begins. 
+Ensuring coherence is often complex: each intervention needs to be suitable for fulfilling the purpose it is intended to serve, but it must not impede the fulfillment of other organizational purposes. It also needs to be aligned with and valuable in light of the organization's overarching goals. This complexity arises from the interconnected and interdependent nature of things and from the difficulty of clearly delineating where one aspect ends and another begins.
 
 In essence, for people in organizations, this framework serves as a practical roadmap that turns vague intentions into concrete, purposeful actions. It supports better resource utilization, stronger alignment, a more focused approach toward achieving meaningful outcomes, and greater capacity for _learning and adaptation_ over time, as supported by the patterns in S3.
 
 
 ## How the Model Helps
 
-The model for purposeful action provides a lightweight and conceptual framework that reveals a simple underlying architecture behind all decision-making and activity in organizations. 
+The model for purposeful action provides a lightweight and conceptual framework that reveals a simple underlying architecture behind all decision-making and activity in organizations.
 
 The model can shift how people perceive organizational dynamics through the conversations it triggers. By understanding purpose, relevance, and relationship to the whole, people begin to "see the system" — recognizing interconnections between decisions and their relation to overarching purpose. This reframing is often transformational.
 
@@ -77,18 +74,18 @@ While applicable across many contexts, the model is specifically designed to sup
 
 The model is universally applicable, regardless of your organization's structure and how you choose to categorize and manage work and decision-making.
 
-Once you understand the concepts and relationships this model is built on, you can start using it right away — both for your own thought process and in your conversations with others — to improve your capacity for sense-making, meaning-making, and decision-making, and increase your chances of recognizing what's working and what may be valuable to change or improve. 
+Once you understand the concepts and relationships this model is built on, you can start using it right away — both for your own thought process and in your conversations with others — to improve your capacity for sense-making, meaning-making, and decision-making, and increase your chances of recognizing what's working and what may be valuable to change or improve.
 
 The model also works seamlessly with any tools you are currently using for visualizing decisions and work, from pen and paper and wall boards to Miro, Jira, or Google Suite.
 
 
 # Purpose
 
-**Everything you do serves a purpose**, even if you might not always consciously choose that purpose or be aware of it. Deliberately considering the purpose before taking action helps ensure that your actions contribute to achieving that purpose. What seems purposeful in isolation might not make sense when you step back and look at the bigger picture. To make the best use of resources, energy, and time, it's important that the purpose of your actions aligns with your broader goals. This applies to organizations as well.
+**Everything you do serves a purpose**, even if you might not always consciously choose that purpose or be aware of it. Deliberately considering the purpose before taking action helps ensure that your actions contribute to achieving that purpose. What seems purposeful in isolation might not make sense when you step back and look at the bigger picture. To make the best use of resources, energy, and time, the purpose of your actions must align with your broader goals. This applies to organizations as well.
 
 {{define:purpose}}
 
-Considering purpose helps people make sense of what's important to focus on and fosters a shared understanding of what may or may not be beneficial to do. 
+Considering purpose helps people make sense of what's important to focus on and fosters a shared understanding of what may or may not be beneficial to do.
 
 Reflecting on purpose supports:
 
@@ -110,8 +107,7 @@ Just as a project or team within an organization can outlive its relevance, the 
 
 ## Organizations are Complex Networks of Interrelated Purposes.
 
-Within an organization, each team, role, decision, and action serves a purpose — whether that purpose is known, clearly understood, and defined or not. For an organization to be effective, it's important that every purpose people work toward fulfilling contributes to the organization's overall purpose and is not in contradiction to another purpose elsewhere in the organization. Similarly, and in addition to that, for a team or project to be effective, decisions and actions within a team or a project must also align with that team's or project's purpose and must not contradict any other decision or action.   
-
+Within an organization, each team, role, decision, and action serves a purpose — whether that purpose is known, clearly understood, and defined or not. For an organization to be effective, it's important that every purpose people work toward fulfilling contributes to the organization's overall purpose and is not in contradiction to another purpose elsewhere in the organization. Similarly, and in addition to that, for a team or project to be effective, decisions and actions within a team or a project must also align with that team's or project's purpose and must not contradict any other decision or action.
 
 ![](img/purpose-and-interventions/nested-purpose.png)
 
@@ -139,7 +135,7 @@ There is a wealth of research and development about value and waste in organizat
 
 ## How to Describe Purpose: Drivers and Requirements
 
-For familiar or obvious challenges or opportunities, it's easy to describe purpose because it's implicit or self-evident. But even in such cases, sometimes we might discover that our interpretations differ from others', and what we thought was obvious turns out to be more complicated or complex. 
+For familiar or obvious challenges or opportunities, it's easy to describe purpose because it's implicit or self-evident. But even in such cases, sometimes we might discover that our interpretations differ from others', and what we thought was obvious turns out to be more complicated or complex.
 
 In many situations, especially when things are new, uncertain, or complex, our understanding of what's going on and of what's required to respond may be more or less clear. Some aspects of a situation might be well understood, while others remain uncertain or entirely unknown. Therefore, it's helpful to have a way to describe purpose that reflects the clarity we have so far, while leaving space to evolve our understanding over time. This makes it easier to communicate, develop shared understanding, and regularly review and adjust our approach as we learn more.
 
@@ -148,17 +144,16 @@ In many situations, especially when things are new, uncertain, or complex, our u
 To help people make sense of and clarify purpose, we use the concepts of _Organizational Drivers_ and _Requirements_:
 
 -   An **organizational driver** is any situation that is relevant for the organization to address.
--   A **requirement** is a state considered valuable to establish or maintain in order to address a specific driver. 
+-   A **requirement** is a state considered valuable to establish or maintain in order to address a specific driver.
 
+This implies that any intervention that aims to fulfill (or at least serve) a specific purpose can be understood as fulfilling a specific requirement that has been identified as suitable to address a specific situation of relevance. The driver explains the situation that makes the intervention relevant. The requirement serves both as an indication of the direction to go and as a clarification of the scope and boundaries of the intervention.
 
-This implies that any intervention that aims to fulfill (or at least serve) a specific purpose can be understood as fulfilling a specific requirement that has been identified as suitable to address a specific situation of relevance. The driver explains the situation that makes the intervention relevant. The requirement serves both as an indication of the direction to go and as a clarification of the scope and boundaries of the intervention. 
-
-So describing purpose in terms of a driver and a requirement clarifies why the intervention is needed in the first place, and then helps people understand and decide more specifically what to do. A purpose well articulated and understood not only explains and justifies activity, but it also motivates and drives action. 
+So describing purpose in terms of a driver and a requirement clarifies why the intervention is needed in the first place, and then helps people understand and decide more specifically what to do. A purpose well articulated and understood not only explains and justifies activity, but it also motivates and drives action.
 
 
 # Organizational Drivers
 
-Identifying and understanding situations that present potential **impediments** or **opportunities** in relation to an organization's objectives is essential for successfully navigating daily work and making the best use of limited resources, energy, and time. 
+Identifying and understanding situations that present potential **impediments** or **opportunities** in relation to an organization's objectives is essential for successfully navigating daily work and making the best use of limited resources, energy, and time.
 
 However, not all situations that motivate an organization's _members_ to act are **relevant** for the organization to address. The concept of organizational drivers supports people in making this distinction explicit, enabling greater clarity, alignment, and focus, both in deciding what is necessary to respond to and how to respond.
 
@@ -168,26 +163,24 @@ Note: In this guide, organizational drivers are often simply referred to as "dri
 
 Organizational drivers do not exist in isolation: in the course of serving the organization's overall purpose, people encounter numerous organizational drivers: challenges, impediments, risks, and opportunities. Some arise as a consequence of decisions you or others make in the organization, while others are due to external factors or changes. New drivers also often become apparent through the process of breaking down work into smaller parts.
 
-Whenever you identify situations that appear to represent a **problem, challenge, impediment, risk, or opportunity** for the organization, you are thinking about potential organizational drivers. 
+Whenever you identify situations that appear to represent a **problem, challenge, impediment, risk, or opportunity** for the organization, you are thinking about potential organizational drivers.
 
 Examples of situations that qualified as organizational drivers:
-
-
 
 -   _The team spends 25% of their work hours on admin work, and this is leading to slow response time for customer requests and a growing number of complaints. The organization is starting to develop a bad reputation and runs the risk of losing customers and compromising future sales._
 -   _Teams often work on items that have not been prioritized in accordance with the product roadmap. This slows down the delivery of features that have been assigned a high priority by the customer and is leading to complaints about the effectiveness of the teams' work._
 
-Making sense of such situations and establishing if they are indeed relevant for the organization to deal with, before deciding how to respond to them, brings several benefits: 
+Making sense of such situations and establishing if they are indeed relevant for the organization to deal with, before deciding how to respond to them, brings several benefits:
 
 -   Understanding a situation well is essential for determining what's required to address it adequately. (see[Respond to Organizational Drivers](section:respond-to-organizational-drivers))
 -   Investigating a situation before acting helps avoid mistaken assumptions. (see [Navigate via Tension](section:navigate-via-tension)).
 -   Describing a driver is an effective way of communicating with others, ensuring a shared understanding of the situation and why we must act. (see [Describe organizational Drivers](section:describe-organizational-drivers)).
--   Clarifying why you intend to act helps you evaluate outcomes effectively later and adapt based on learning. 
+-   Clarifying why you intend to act helps you evaluate outcomes effectively later and adapt based on learning.
 -   Recording an organizational driver in its current form also helps with monitoring if the driver changes over time.
 
 See [Describe Organizational Driver](section:describe-organizational-drivers) for more examples.
 
-To determine whether a situation **qualifies** as an organizational driver, reflect on this question: 
+To determine whether a situation **qualifies** as an organizational driver, reflect on this question:
 
 _Would responding to this situation help the organization generate value, eliminate waste, or avoid undesirable consequences?_
 
@@ -197,7 +190,7 @@ _Would responding to this situation help the organization generate value, elimin
 
 Whenever a situation qualifies as an organizational driver, dealing with it needs to be **prioritized** alongside other work. Even though many situations may qualify as organizational drivers, they might never be addressed because other drivers are more important.
 
-This careful consideration of which situation should be addressed and when helps people stay focused on and responsive to the ongoing flow of challenges and opportunities that arise day to day and that are beneficial to deal with, considering the organization's various objectives and overall purpose. 
+This careful consideration of which situation should be addressed and when helps people stay focused on and responsive to the ongoing flow of challenges and opportunities that arise day to day and that are beneficial to deal with, considering the organization's various objectives and overall purpose.
 
 While identifying organizational drivers often seems straightforward, be mindful of some **common challenges** people bump into, both when recognizing potentially relevant situations and when determining whether those situations are, in fact, relevant:
 
@@ -216,7 +209,7 @@ Related to determining relevance to the organization:
 
 For more guidance on how to describe organizational drivers clearly and effectively, see the [Describe Organizational Drivers](section:describe-organizational-drivers) pattern.
 
-**Note**: It's generally good practice to keep a written record of any significant drivers for future reference or when they need to be communicated. However, there are some cases where recording a driver doesn't add any value, e.g. in operational day-to-day decisions that don't have any significant or lasting impact on the organization, or when the driver is implied by a requirement or an intervention that has already been determined (see the section "Define just enough detail to be helpful"). 
+**Note**: It's generally good practice to keep a written record of any significant drivers for future reference or when they need to be communicated. However, there are some cases where recording a driver doesn't add any value, e.g. in operational day-to-day decisions that don't have any significant or lasting impact on the organization, or when the driver is implied by a requirement or an intervention that has already been determined (see the section "Define just enough detail to be helpful").
 
 Related Patterns:
 
@@ -228,34 +221,33 @@ Related Patterns:
 
 ![](img/purpose-and-interventions/purposeful-action-reverse.png)
 
-A requirement connects a driver and the intervention intended to address it. It builds the bridge between the _problem space_ and the _solution space_. 
+A requirement connects a driver and the intervention intended to address it. It bridges the *problem space* and the *solution space*. Once it has been determined to be suitable for addressing a driver, a requirement is binding and sets the scope and direction for the intervention you define. In this sense, requirements function as constraints.
 
-{{define:requirement}}
+{{define:requirement:}}
 
 
-## What's the Benefit of Clarifying Requirements?
+## What's the Benefit of Explicitly Clarifying Requirements?
 
-Unless the way to address a particular driver is obvious, explicitly determining the intended outcome(s) and the enabling condition(s) you think should be established to achieve those outcomes, _before_ determining more specific solutions, will give you the following benefits:
+Unless the way to address a particular driver is obvious, explicitly clarifying the intended outcome(s) and the enabling condition(s) you think should be established to achieve those outcomes, _before_ determining more specific solutions, will give you the following benefits:
 
--   **Encourages more intentionality**: When determining the requirement first, people are more likely to think consciously about how to address a driver, rather than acting on the basis of reaction or habit, especially in novel and or complex situations.
--   **Clarifies intent and direction**: By defining the outcome you seek to achieve and the conditions you deem suitable to establish, you anchor the intervention in shared understanding rather than assumption. 
--   **Clarifies scope**: The requirement serves as a constraint in terms of what kind of interventions are acceptable or feasible, narrowing down the pool of options to those that are contextually fit.
+-   **Encourages more intentionality**: When determining the requirement first, people are more likely to think consciously about how to address a driver, rather than acting based on reaction or habit, especially in novel and or complex situations.
+-   **Clarifies intent and direction**: By defining the outcome you seek and the conditions you deem suitable to establish, you anchor the intervention in shared understanding rather than assumption.
+-   **Clarifies scope**: The requirement serves as a constraint on the kind of interventions that are acceptable or feasible, narrowing down the pool of options to those that suit the context.
 -   **Creates space for creativity and diverse input**: A well-framed requirement invites a broader range of ideas before narrowing in on specific interventions.
--   **Supports delegation and autonomy**: In cases where others will carry out the intervention, clearly stated requirements enable them to act with greater confidence and less oversight while remaining aligned with organizational intent. 
+-   **Supports delegation and autonomy**: When others will carry out the intervention, clearly stated requirements enable them to act with greater confidence and less oversight while remaining aligned with organizational intent.
 -   **Enables effective collaboration**: The requirement provides a common ground for collaborating on finding suitable solutions and helps reduce unnecessary friction from people pulling in different directions because they have different assumptions about what is needed.
--   **Enables effective evaluation**: The outcome provides a reference point for assessing whether an intervention successfully addressed the driver, supporting iterative learning and continuous improvement. 
+-   **Enables effective evaluation**: The outcome provides a reference point for assessing whether an intervention successfully addressed the driver, supporting iterative learning and continuous improvement.
 
 
 ## The Anatomy of a Requirement
 
 Determining the requirement involves intentionally and explicitly defining the _intended outcome(s)_ and the _enabling condition(s)_ considered suitable to establish or maintain for achieving that outcome.
 
-{{define:[intended-outcome}}
+{{define:intended-outcome}}
 
-{{define:enabling-conditions}} 
+{{define:enabling-conditions}}
 
-Examples of requirements:
-
+**Examples of requirements:**
 
 1. **Enabling Condition**: We need to store and share relevant information effectively… \
 **Intended Outcome**: …to improve everyone's ability to provide valuable solutions for our customers.
@@ -270,7 +262,7 @@ Examples of requirements:
     -   The enabling conditions describe what we consider suitable and sufficient to achieve that outcome (**a means**, but not the intervention itself).
     -   Separating these elements allows for clearer evaluation, adaptation, and learning over time.
 -   **Enables more effective design of the intervention**
-    -   The intended outcome defines the **direction** a suitable intervention must take 
+    -   The intended outcome defines the **direction** a suitable intervention must take
     -   The enabling conditions help narrow the **scope** of possible interventions to those we find acceptable, and guide discussion and refinement of the intervention's details.
 -   **Supports evaluation and accountability**
     -   The outcome serves as the foundation for evaluation, as it clarifies what success looks like and allows assessment of whether **the intervention helped achieve what was intended**.
@@ -294,7 +286,7 @@ When interventions are implemented as designed but don't work as expected, being
 -   **The intended outcome(s) are unsuitable**: we achieved the outcome(s) we intended, but the driver was not adequately addressed.
 -   **The intended outcome(s) are unattainable**: they have not been achieved, and it appears unrealistic to expect they can be achieved in this context.
 
-Revisiting these elements will help determine how to evolve your approach: 
+Revisiting these elements will help determine how to evolve your approach:
 
 -   If necessary, update your understanding of the driver.
 -   Then review, and if necessary, update the requirement.
@@ -317,13 +309,13 @@ However, upon closer inspection of the email, you realize the inquiry references
 
 **Requirement (deliberate)**: _Formulate a thoughtful and tailored response that opens a conversation and increases the likelihood of strategic collaboration._
 
-By resisting the urge to respond habitually and instead clarifying what is actually required, you significantly improve the chances of securing a high-value partnership — something a quick, generic reply might have missed. 
+By resisting the urge to respond habitually and instead clarifying what is actually required, you significantly improve the chances of securing a high-value partnership — something a quick, generic reply might have missed.
 
 This comparison illustrates how a more deliberate process for determining the requirement can better ensure a strategic and impactful response.
 
 Organizations often put emphasis on an action-oriented or solution-oriented mindset. However, in collaborative settings, focusing on specific interventions too early — before we fully understand the requirement — can stifle creativity and lead to unnecessary tension or conflict.
 
-Moreover, interventions may sometimes stem from individuals projecting past experiences onto the current situation or simply defaulting to familiar routines. This can result in actions that do not adequately address the driver. A more suitable approach is first to [determine a suitable requirement](section:determine-requirements) and then establish an appropriate intervention to fulfill it. 
+Moreover, interventions may sometimes stem from individuals projecting past experiences onto the current situation or simply defaulting to familiar routines. This can result in actions that do not adequately address the driver. A more suitable approach is first to [determine a suitable requirement](section:determine-requirements) and then establish an appropriate intervention to fulfill it.
 
 **Note**: In complex situations, it may not be possible — or even useful — to determine a single overall requirement that fully addresses the driver at the outset of responding to it. However, it is always possible to identify a requirement that serves as a valuable next step in addressing the situation. This "sub-requirement" is already part of the intervention itself (see the section on Interventions below for more details). In such cases, you can mark the overall requirement as "TBD" (to be determined) and update it as your understanding evolves. In these situations, it is entirely valid to incrementally fulfill any sub-requirements you are able to determine as suitable, either until the overall requirement becomes clear or until the driver is sufficiently addressed through the interventions taken.
 
@@ -338,11 +330,11 @@ User stories are formulated as follows:
 
 _As a <role> I want <capability>, so that <value>._
 
-The equivalent in our model is: 
+The equivalent in our model is:
 
 _(Considering the driver) we need <enabling condition>, so that <intended outcome>._
 
-While a user story is written from the perspective of a customer or end user, a requirement in this context is typically written from the perspective of the organization responding to the driver — or a subset of its members — so the &lt;role> is simply inferred from the driver. As with user stories, the details of the enabling condition(s) or intended outcome(s) may emerge over time. Requirements are formed through conversation, and refined collaboratively — ideally close to the time the driver is to be addressed — and then improved iteratively based on actual outcomes and learning.
+While a user story is written from the perspective of a customer or end user, a requirement in this context is typically written from the perspective of the organization responding to the driver — or a subset of its members — so the <role> is simply inferred from the driver. As with user stories, the details of the enabling condition(s) or intended outcome(s) may emerge over time. Requirements are formed through conversation, and refined collaboratively — ideally close to the time the driver is to be addressed — and then improved iteratively based on actual outcomes and learning.
 
 Connecting requirements to their underlying drivers deepens shared understanding and strengthens alignment around what matters most. In the same way, it's often beneficial to make the driver behind a user story explicit, as it provides additional context to help the developer better understand the customer's (or user's) needs.
 
@@ -358,7 +350,6 @@ The following table highlights the structural parallels between drivers and requ
 Both concepts represent states in a system, yet they occupy distinct positions in the logic of purposeful action: a driver is a situation in the present that requires attention, and a requirement is a future situation whose realization is expected to address that driver.
 
 The distinction mirrors a broader pattern: each present-focused element (current conditions, effects, relevance) has a corresponding future-focused counterpart (enabling conditions, intended outcomes, relevance). Together, these pairs help clarify both why action is needed now and what is believed necessary to move toward a preferable state.
-
 
 ![](img/purposeful-action/driver-requirement-table)
 
@@ -385,23 +376,25 @@ Interventions include both simple one-time tasks and longer-term activities or c
 -   Create an agenda for a meeting
 -   Responding to a customer inquiry
 -   Reviewing financial data
--   _Set _a timebox for a meeting
+-   _Set_ a timebox for a meeting
 -   Priority order of tasks or agenda items
 -   Assigned responsibility for specific tasks or roles
 -   Define the scope of work and decision-making authority for a role or team
 -   Define a standard operating procedure
 -   Set a budget limit or spending cap
--   Define a strategy 
+-   Define a strategy
 -   A policy for onboarding new members of the organization
 
 
-### Interventions that Constrain
+### Interventions That Constrain
 
 Interventions not only refer to what to do (tasks, activities) but also may include putting limits on how things must be done or on the behaviour of members of the organization. We refer to these limitations as _constraints_:
 
 {{define:constraint}}
 
-You will find constraints in organizational strategy, policies, organizational values, and priorities, as well as all implicit expectations about what people can and cannot do ("unwritten rules"). 
+You will find constraints in organizational strategy, policies, organizational values, and priorities, as well as all implicit expectations about what people can and cannot do ("unwritten rules").
+
+**Note**: In the course of designing an intervention, any sub-requirement deemed suitable for contributing toward fulfilling the main requirement is, by definition, binding and therefore also functions as a constraint. However, this section is not concerned with sub-requirements; it focuses on interventions that, by themselves, impose constraints on behavior and activity in other parts of the system.
 
 In the context of interventions, constraints are not restrictive in a negative sense. Rather, they serve to support collaboration, reduce friction, prevent waste, and help people make decisions that are aligned with the organization's broader purpose and objectives.
 
@@ -424,11 +417,11 @@ In practice, tasks, activities, and constraints are often described together, e.
 
 In the daily work of an organization, interventions span a broad range from small, targeted adjustments to complex arrangements of activities and constraints. Some require little thought or coordination, while others call for careful planning, collaboration, and adaptation over time.
 
-In many cases, interventions can be described as a single task or a single constraint. In other cases, it's necessary to describe an intervention in more detail and break it down into a number of tasks, activities, and constraints, each of which contributes toward fulfilling the purpose. 
+In many cases, interventions can be described as a single task or a single constraint. In other cases, it's necessary to describe an intervention in more detail and break it down into a number of tasks, activities, and constraints, each of which contributes toward fulfilling the purpose.
 
 Also, the process of describing tasks, activities, or constraints often brings new situations of relevance or requirements into focus, which in turn may require more tasks, activities, or constraints.
 
-In that context, it is helpful to imagine an intervention as a nested structure of sub-interventions, over as many layers as is necessary to convey what needs to be done or constrained.
+In that context, it is helpful to imagine an intervention as a nested structure of **sub-interventions**, over as many layers as is necessary to convey what needs to be done or constrained.
 
 This flexible structure of interventions lends itself to an iterative approach, because interventions can be broken down into smaller parts (sub-interventions) over as many levels as needed, and it's simple to add, replace, or restructure elements as understanding of the situation and requirement evolves or the situation changes.
 
@@ -444,7 +437,7 @@ Breaking down a more comprehensive intervention in this way is especially helpfu
 -   New members of a team or organization who are unfamiliar with how things are done
 -   People who are less experienced in implementing the intervention.
 
-While each of these **sub-interventions** ultimately contributes toward fulfilling the overall purpose of the intervention, some of them arise as a consequence of dependencies with other parts of the organization, or wider adherence to constraints within the organization or its broader environment within which it operates. 
+While each of these **sub-interventions** ultimately contributes toward fulfilling the overall purpose of the intervention, some of them arise as a consequence of dependencies with other parts of the organization, or wider adherence to constraints within the organization or its broader environment within which it operates.
 
 In many cases, these dependencies are already present but only become salient when people begin acting on a requirement. Making them explicit can help maintain coherence, especially when coordination across teams is required.
 
@@ -455,9 +448,11 @@ In many cases, these dependencies are already present but only become salient wh
 
 Thinking through and defining interventions doesn't require exhaustive detail. Use your best judgment about what to include and what to omit. It's good practice to leave out obvious or redundant elements and to leave undefined those aspects that the people responsible for implementation are better able to determine, based on their context or evolving situations.
 
+**Interventions** frequently include one or more **activities** along with **constraints** relating to those activities, such as who's responsible, due dates, or other important conditions. One entry in such a list might look like this: "_Sally will compile a report by Friday_." Presented together, they form a clear and useful description of the intervention, combining the activity itself (_compile the report_) and two constraints (_who_ will do it and _by when_), each of which corresponds to an implicit sub-requirement.
+
 In cases where fulfilling a requirement is so simple, obvious, or familiar that it directly implies what a suitable intervention would be, there is no need to spell it out explicitly. For example, if the requirement is to _"Inform people about the topics for tomorrow's meeting so they arrive prepared," _describing the intervention, _"Prepare and send out the agenda today,_" may be unnecessary.
 
-The same can be true for more complicated or complex interventions if the people responsible already share a clear and sufficient understanding of what needs to be done and why. 
+The same can be true for more complicated or complex interventions if the people responsible already share a clear and sufficient understanding of what needs to be done and why.
 
 **Example**:
 
@@ -467,13 +462,13 @@ The same can be true for more complicated or complex interventions if the people
 
 For an experienced support team, the requirement provides enough information to successfully fulfill it.
 
-However, sometimes, explicitly naming the intervention and/or breaking an intervention down into smaller steps is helpful for evaluating the effectiveness of the various steps, or for building adequate understanding, especially among people with less experience in the matter, or for those who are new to the organization.
+However, sometimes explicitly naming the intervention and/or breaking it down into smaller steps helps evaluate the effectiveness of the various steps, or for ensuring adequate understanding, especially among people with less experience in the matter or new to the organization.
 
 When breaking interventions down into smaller parts (sub-interventions), the **purpose** (or rationale) for each part is often implicit, since the context remains within the scope of the main purpose and usually doesn't need to be restated.
 
 However, be mindful of situations where it's worthwhile to clarify the purpose of certain parts — especially when there's a reason something needs to be done in a particular way, or when sub-interventions need to happen in a certain order or are otherwise interrelated. Likewise, if parts of an intervention relate to the **wider organization** — such as org-wide policies, responsibilities, or dependencies — or to the **external environment**, document this explicitly.
 
-To clarify the purpose of a sub-intervention, it can be enough to define only the **enabling conditions** that need to be established — especially when the higher-level outcome is already clear — or just the **intended outcome(s)**, if this implies what enabling conditions are required. In other cases, it's useful to describe the situation (**driver**) that the requirement is meant to address.
+To clarify the purpose of a sub-intervention, it can be enough to define only the **enabling conditions** that need to be established — especially when the higher-level outcome is already clear — or just the **intended outcome(s)**, if this implies what enabling conditions are needed. In other cases, it's useful to describe the situation (**driver**) that the requirement is meant to address.
 
 **Example**:
 
@@ -482,9 +477,9 @@ Continuing from the example above regarding the fallout from the product unexpec
 -   **Sub-Intervention**: _Call customer X to check in and offer support._
 -   **Enabling Condition**: _The customer feels heard and supported._
 -   **Intended outcome**: _The customer stays_.
--   **Driver**: _Cus:tomer X had a negative experience when the product went down, expressed dissatisfaction, and threatened to leave._
+-   **Driver**: _Customer X had a negative experience when the product went down, expressed dissatisfaction, and threatened to leave._
 
-**Interventions** frequently include one or more **activities** along with **constraints** relating to those activities, such as who's responsible, due dates, or other important conditions. One entry in such a list might look like this: "_Sally will compile a report by Friday."_ Presented together, they form a clear and useful description of the intervention, combining the activity itself (_compile the report_) and two constraints (_who_ will do it and _by when_), each of which corresponds to an implicit sub-requirement. 
+In some cases, when designing interventions, it can be adequate first to determine sub-requirements you consider suitable to fulfill in the course of fulfilling the main requirement, deferring more specific decisions about how to fulfill some or even all of those sub-requirements until later. For example, you might decide that "*participants have access to relevant information*," "*there is a clear way to raise concerns," and "facilitation is available when needed*" are essential sub-requirements for a productive decision-making process (main requirement), without yet specifying how to achieve this.
 
 
 ## Policies: A Specific Kind of Intervention
@@ -508,7 +503,7 @@ If the action to take is already obvious, or if an existing policy already descr
 
 In other cases, it may be necessary to take a moment to identify all the steps involved, clarify their sequence, and determine who is best placed to carry each one out.
 
-However, in novel or complex situations, and especially in cases where the main requirement itself is not clear yet, determining a suitable intervention often requires more effort and can involve an iterative approach of investigation, experimentation, and adaptation. 
+However, in novel or complex situations, and especially in cases where the main requirement itself is not clear yet, determining a suitable intervention often requires more effort and can involve an iterative approach of investigation, experimentation, and adaptation.
 
 The flexible structure of interventions lends itself to an iterative approach, because interventions can be broken down into smaller parts if helpful, and it's simple to add, replace, or restructure elements as understanding of the situation and requirement evolves or the situation changes.
 
@@ -521,7 +516,7 @@ So, in such cases, instead of attempting to define the intervention in full from
 -   Consulting with others to benefit from diverse perspectives, relevant expertise, or local knowledge.
 -   Exploring possible options, and selecting one that is safe enough to try and fits the context.
 -   Testing ideas through small experiments or prototypes before committing to a more substantial intervention.
--   Evaluating an intervention on a regular basis and using what has been learned to evolve the intervention as necessary. 
+-   Evaluating an intervention on a regular basis and using what has been learned to evolve the intervention as necessary.
 
 You can use the following patterns to determine and evolve interventions:
 
