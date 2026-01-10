@@ -202,8 +202,8 @@ terms:
     name: Role
     definition:
     glossary: A domain that is delegated to an individual, who then becomes the rolekeeper. 
-  rolekeeper:
-    name: Rolekeeper
+  role-keeper:
+    name: Role Keeper
     definition:
     glossary: An individual taking responsibility for a role.
   scm:

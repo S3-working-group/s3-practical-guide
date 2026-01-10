@@ -40,7 +40,7 @@ These are the recommended steps to take to ensure that all situations that come 
 5. **Act accordingly**.
 6. **Regularly review outcomes** and adapt your approach if necessary, based on what you learn.
 
-Rolekeepers and teams will have to figure out how to integrate these steps into their daily work processes [to ensure they deliver value incrementally](section:deliver-value-incrementally).
+Role keepers and teams will have to figure out how to integrate these steps into their daily work processes [to ensure they deliver value incrementally](section:deliver-value-incrementally).
 
 Following these steps ensures that:
 

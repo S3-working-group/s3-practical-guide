@@ -6,7 +6,7 @@ For the whole organization and for each domain, devise a strategy for how to cre
 
 {{define:strategy}}
 
-It is usually more effective if a team or rolekeeper lead in developing their own strategy.
+It is usually more effective if a team or role keeper lead in developing their own strategy.
 
 A strategy often includes a description of the [intended outcome](glossary:intended-outcome) of implementing that strategy.
 
