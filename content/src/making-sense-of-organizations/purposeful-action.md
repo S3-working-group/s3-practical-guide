@@ -328,13 +328,13 @@ In software development, user stories are one way of describing requirements, ty
 
 User stories are formulated as follows:
 
-_As a <role> I want <capability>, so that <value>._
+_As a \<role\> I want \<capability\>, so that \<value\>._
 
 The equivalent in our model is:
 
-_(Considering the driver) we need <enabling condition>, so that <intended outcome>._
+_(Considering the driver) we need \<enabling condition\>, so that \<intended outcome\>._
 
-While a user story is written from the perspective of a customer or end user, a requirement in this context is typically written from the perspective of the organization responding to the driver — or a subset of its members — so the <role> is simply inferred from the driver. As with user stories, the details of the enabling condition(s) or intended outcome(s) may emerge over time. Requirements are formed through conversation, and refined collaboratively — ideally close to the time the driver is to be addressed — and then improved iteratively based on actual outcomes and learning.
+While a user story is written from the perspective of a customer or end user, a requirement in this context is typically written from the perspective of the organization responding to the driver — or a subset of its members — so the \<role\> is simply inferred from the driver. As with user stories, the details of the enabling condition(s) or intended outcome(s) may emerge over time. Requirements are formed through conversation, and refined collaboratively — ideally close to the time the driver is to be addressed — and then improved iteratively based on actual outcomes and learning.
 
 Connecting requirements to their underlying drivers deepens shared understanding and strengthens alignment around what matters most. In the same way, it's often beneficial to make the driver behind a user story explicit, as it provides additional context to help the developer better understand the customer's (or user's) needs.
 

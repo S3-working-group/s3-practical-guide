@@ -56,8 +56,8 @@ This structured format ensures clarity, accountability, and alignment between me
 -   **Rate**: The frequency at which the metric is measured or reported (e.g., daily, weekly, monthly).
 -   **Responsibilities**: Who is responsible for collecting, monitoring, and acting on the metric?
 -   **Baseline**: (if necessary) the value to compare relative metrics against, often a measurement taken before the intervention begins
--   **Triggers**: The specific value(s) or range that triggers attention or action.
 -   **Target**: The value(s) or range that is considered a success (typically derived from acceptance criteria)
+-   **Triggers**: The specific value(s) or range that triggers attention or action.
 
 
 ## Examples
@@ -68,15 +68,14 @@ This structured format ensures clarity, accountability, and alignment between me
 
 **Metrics**: 
 
-
 **Time Spent on Admin Work**
 
 -   **Description**: Average time spent on administrative tasks by all team members working on the product (as recorded in the booking system)
 -   **Rate**: Weekly
 -   **Responsibilities**: Team leads collect and review data and monitor trends for their teams
 -   **Baseline**: Time Spent on Admin Work for Week 10 of 2025 
--   **Triggers**: Value exceeds 65% of baseline (after 4 weeks): team leads call a team meeting to assess the situation 
 -   **Target**: Reduce average time spent on admin tasks by at least 50% over the next 4 weeks
+-   **Triggers**: Value exceeds 65% of baseline (after 4 weeks): team leads call a team meeting to assess the situation 
 
 
 **Time Spent on Product and Customer Requests**
@@ -85,8 +84,8 @@ This structured format ensures clarity, accountability, and alignment between me
 -   **Rate**: Weekly
 -   **Responsibilities**: Team leads collect and review data and monitor trends for their teams
 -   **Baseline**: Time Spent on Product and Customer Requests for week 10 of 2025
--   **Triggers**: 5% above baseline (after 4 weeks): team leads call a team meeting to assess the situation 
 -   **Target**: Increase average time spent on product development and customer requests by 10% over the next 4 weeks.
+-   **Triggers**: 5% above baseline (after 4 weeks): team leads call a team meeting to assess the situation 
 
 
 **Response Time for Customer Requests**
@@ -95,8 +94,8 @@ This structured format ensures clarity, accountability, and alignment between me
 -   **Rate**: Weekly
 -   **Responsibilities**: Team leads track data
 -   **Baseline**: Response Time for Customer Requests for week 10 of 2025
--   **Threshold**: Exceeds 85% of baseline (after 4 weeks): team leads call a team meeting to assess the situation 
 -   **Target**: Decrease average response time for customer requests by 30% over 4 weeks.
+-   **Triggers**: Exceeds 85% of baseline (after 4 weeks): team leads call a team meeting to assess the situation 
 
 ** umber of Customer Complaints**
 
@@ -104,8 +103,8 @@ This structured format ensures clarity, accountability, and alignment between me
 -   **Rate**: Weekly
 -   **Responsibilities**: Team members log complaints; Team leads compile weekly numbers
 -   **Baseline**: Number of Customer Complaints for week 10 of 2025
--   **Triggers**: Exceeds 85% of baseline (after 4 weeks): team leads call a team meeting to assess the situation 
 -   **Target**: Decrease the number of customer complaints by 30% over 4 weeks..
+-   **Triggers**: Exceeds 85% of baseline (after 4 weeks): team leads call a team meeting to assess the situation 
 
 **Customer Satisfaction Score (CSAT)**
 
@@ -113,5 +112,5 @@ This structured format ensures clarity, accountability, and alignment between me
 -   **Rate**: Quarterly
 -   **Responsibilities**: Marketing department: Include CSAT Test in the monthly newsletter (each quarter)
 -   **Baseline**: CSAT for March 2025
--   **Triggers**: None 
 -   **Target**: Improve overall customer satisfaction by 10% by the end of the next quarter
+-   **Triggers**: None 

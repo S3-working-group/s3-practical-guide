@@ -112,11 +112,9 @@ Effect is already occurring:
 
 Effect is anticipated:
 
-
 -   (current conditions)* We're preparing to recruit five new members into the development teams*, (anticipated effect) *and a lack of relevant training could lead to inefficiencies and errors*, (relevance) *and an overall decrease in team productivity and quality of work.*
 
 The effect is already occurring, and relevance is implicit:
 
 -   (current conditions) *The teams often work on items that have not been prioritized in accordance with the product roadmap.* (effect) *This slows down the delivery of features that have been assigned a high priority by the customer and is leading to complaints about the effectiveness of our work.*
 -   (current conditions) *Although the financial records of the organization are available to anyone who asks, most people in the organization lack adequate financial understanding to make sense of them in the current format.* (effect) *This leads to frustration, uncertainty, and questions that are hard to answer about why certain decisions are being made.*
-

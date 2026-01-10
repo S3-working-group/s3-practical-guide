@@ -77,8 +77,8 @@ _Who will be impacted as we fulfill the related requirement? Consider who can he
 _Consider the various actors and describe what is needed: what do they need in context of the primary driver and main requirement, and what do we need from them?_
 
 -   Write each suggestion on a separate sticky note (requirement card)
--   Describe the requirement as well as the anticipated impact of fulfilling the requirement
--   Use the format _"We/they need … so that …"_
+-   Describe the intended outcome, and the enabling conditions that will lead to achieving that outcome 
+-   Use the format _"We/they need <enabling conditions> so that <intended outcome>"_
 -   Add the name of the actor in the top left corner of the card
 -   Add your name in the top right corner of the card
 
