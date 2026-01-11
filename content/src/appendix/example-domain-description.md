@@ -76,7 +76,6 @@
 ## Dependencies
 
 
-
 ### Product Development Team 🔗
 
 **Deliverable**: Product information and updates, which are critical for creating accurate marketing materials and campaigns.
@@ -126,7 +125,6 @@
 **Requirement**: Legal vetting of marketing materials to avoid regulatory breaches and protect brand reputation.
 
 
-
 ## External Constraints
 
 **Adhere to brand guidelines🔗 and messaging for all marketing materials**, to maintain a consistent brand image and avoid customer confusion. 
@@ -157,6 +155,7 @@
 ## Key Resources
 
 **Time allocation for delegatees**: full-time (40 hrs per week), with approval for overtime during product launches.
+
 
 ### Finances
 
@@ -190,6 +189,7 @@
 **Review significant changes to marketing strategy or campaign tactics** to maintain strategic coherence and mitigate risk. 
 
 **Ensure the marketing department is kept informed about relevant market and organizational developments** to facilitate proactive and informed marketing decisions.
+
 
 ## Competencies, qualities and skills
 
@@ -233,6 +233,7 @@
 -   **Budget management** to ensure marketing initiatives are cost-effective and yield a high return on investment.
 -   **Project management capabilities** to oversee campaigns from conception through to execution and post-campaign analysis.
 
+
 ## Key Metrics and Monitoring
 
 
@@ -255,7 +256,7 @@ Track MROI for **each campaign**, and **quarterly** for overall performance
 
 **Marketing Manager** reviews MROI **as it becomes available**, and report to the executive team
 
-**Threshold**: Investigate and strategize if MROI falls below the set <span style="text-decoration:underline;">company benchmark</span> by 10%.
+**Trigger**: Investigate and strategize if MROI falls below the set company benchmark by 10%.
 
 **Purpose**: Assess the profitability of marketing campaigns to validate and improve marketing spend decisions.
 
@@ -266,7 +267,7 @@ Track MROI for **each campaign**, and **quarterly** for overall performance
 
 **Rate** and **Responsibilities**: Sales and Marketing teams to track and analyze jointly, **monthly.**
 
-**Threshold**: Enhance targeting and customer journey tactics if conversion rate drops below the monthly target by 5%.
+**Trigger**: Enhance targeting and customer journey tactics if conversion rate drops below the monthly target by 5%.
 
 **Purpose**: Optimize marketing funnel efficiency to increase the rate at which prospects are converted into customers.
 
@@ -280,7 +281,7 @@ Track MROI for **each campaign**, and **quarterly** for overall performance
 -   Measure satisfaction after each purchase or interaction, provide CSAT **daily.**
 -   Customer Service Manager to compile data, report to Marketing and Product Development Teams **monthly**
 
-**Threshold**: Initiate customer experience improvement initiative if CSAT is below 85 for two consecutive months.
+**Trigger**: Initiate customer experience improvement initiative if CSAT is below 85 for two consecutive months.
 
 **Purpose**: Ensure product and service quality meets customer expectations to maintain a positive brand reputation and customer loyalty.
 
@@ -294,7 +295,7 @@ Track MROI for **each campaign**, and **quarterly** for overall performance
 -   Social Media Specialist monitors Brand Engagement per platform **daily**, 
 -   Marketing Manager reviews Brand Engagement **weekly**
 
-**Threshold**: Adjust content strategy if engagement on any platform decreases by 15% from one week to the next.
+**Trigger**: Adjust content strategy if engagement on any platform decreases by 15% from one week to the next.
 
 **Purpose**: Build a strong online community and brand loyalty.
 
@@ -305,7 +306,7 @@ Increase in brand awareness measured by surveys, web traffic analytics, social m
 
 **Rates and Responsibilities**: Marketing Team defines metrics sets up tracking and monitors Brand Awareness Growth **bi-weekly**
 
-**Threshold**: Re-evaluate brand strategy if growth is below industry benchmarks or company goals.
+**Trigger**: Re-evaluate brand strategy if growth is below industry benchmarks or company goals.
 
 **Purpose**: Expand market presence and brand recognition to support long-term sales and marketing objectives.
 
@@ -319,39 +320,24 @@ Measure performance of social media posts and email campaigns in Hootsuite and M
 -   Marketing Team to set up metrics, analyze, and report
 -   Track performance overall and for each platform **weekly**
 
-**Threshold**: Review and adjust marketing strategy if performance metrics are below the industry average.
+**Trigger**: Review and adjust marketing strategy if performance metrics are below the industry average.
 
 **Purpose**: Improve quality of content and refine campaign strategy.
 
+
+
 ## Evaluation Schedule
 
-**Weekly**:
+-   **Weekly review of key metrics** (10-15 min): Marketing team members, marketing analyst
+-   **Monthly marketing performance meeting** (1h): Marketing team members, sales representatives, customer service manager, Product development liaison
+-   **Quarterly strategic review meeting** (2-3 hrs): Marketing team members, delegator, executive leadership
 
+-    **Semiannual peer review** (2hrs): Marketing team members, delegator, selected customer representatives, dependencies representatives
+-   **Semiannual campaigns effectiveness retrospective** (2hrs max.): Marketing team members, delegator, external agencies, sales team representatives
 
--   **Key Metrics Review** (10-15 min): Marketing team members, Marketing Analyst
+-   **Annual domain design review** (4 hrs max): Marketing team members, delegator, IT support representative, legal advisor, finance department representative
 
-**Monthly**:
-
-
--   **Marketing Performance Meeting** (1h): Marketing team members, Sales Representatives, Customer Service Manager, Product Development Liaison
-
-**Quarterly**:
-
-
--   **Strategic Review Meeting** (2-3 hrs): Marketing team members, delegator, executive leadership
-
-**Semiannually**:
-
-
--   **Peer Review Session** (2hrs): Marketing team members, delegator, selected customer representatives, dependencies representatives
--   **Campaigns Effectiveness Retrospective** (2hrs max.): Marketing team members, delegator, external agencies, sales team representatives
-
-**Annually**:
-
-
--   **Comprehensive Domain Design Review** (4 hrs max): Marketing team members, delegator, IT support representative, legal advisor, finance department representative
-
-**Criteria for evaluation during these activities should also include the assessment of**:
+**Criteria for evaluation during these activities should also include assessment of the following aspects**:
 
 -   Alignment of marketing initiatives with strategic objectives
 -   Quality and timeliness of marketing deliverables
@@ -361,5 +347,3 @@ Measure performance of social media posts and email campaigns in Hootsuite and M
 -   Changes in market conditions and the department's adaptability to these changes
 
 The results of these evaluations should be documented and stored in an accessible format, allowing for tracking of progress over time and providing a clear record for decision-making regarding changes in strategy or domain design. Additionally, evaluations should be flexible to include any ad-hoc reviews triggered by significant market events or internal organizational changes.
-
-

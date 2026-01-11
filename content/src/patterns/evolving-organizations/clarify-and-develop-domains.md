@@ -147,7 +147,7 @@ You can describe the primary driver using the pattern [Describe Organizational D
 -   Besides the summary, more details about the driver and the associated requirement may be kept in a [logbook](section:logbook).
 -   Ensure the description of the purpose clarifies why the work of delegatees is relevant for the organization.
 -   Whilst the purpose can sometimes be clarified only by describing the main requirement the domain responds to, it's helpful to describe the primary driver behind the requirement as well, as it helps to clarify context and supports monitoring and evaluating outcomes.
--   Sometimes the Primary Driver is generic and obvious, for example, in the case of an HR or Marketing domain.
+-   Sometimes the primary driver is generic and obvious, for example, in the case of an HR or Marketing domain.
 
 
 ### Key Responsibilities
@@ -158,7 +158,7 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
 
 **List** all _essential responsibilities_ that are being delegated by clarifying the **requirement** in each case.
 
-**Recommended format:** (enabling condition) and (intended outcome). If useful, describe the Driver as well: (current conditions), (anticipated or current) effect, and (relevance).
+**Recommended format:** (enabling condition) and (intended outcome). If useful, describe the driver as well: (current conditions), (anticipated or current) effect, and (relevance).
 
 
 **Examples:**
@@ -325,7 +325,7 @@ Some external constraints are fixed, while others may be negotiable with stakeho
 
 **Describe** important constraints to the delegatees' autonomy and influence, and if necessary, offer some context to clarify why each constraint exists.
 
-**Recommended format:** Constraint: (enabling condition) and (intended outcome). If useful, describe the Driver to add context: (current conditions)
+**Recommended format:** Constraint: (enabling condition) and (intended outcome). If useful, describe the driver to add context: (current conditions)
 
 
 **Examples:**
@@ -370,7 +370,7 @@ Key challenges include:
 -   uncertainty and complexity
 -   lack of skills or resources
 
-**Describe** the _Driver_, the situation that is (or might be) challenging and the (anticipated) effect this would have on the organization. Include information about  how this might impede the ability of the delegatees to successfully attend to this domain.
+**Describe** the _driver_, the situation that is (or might be) challenging and the (anticipated) effect this would have on the organization. Include information about  how this might impede the ability of the delegatees to successfully attend to this domain.
 
 **Recommended format:** Driver: (current conditions) and (anticipated or current) effect
 

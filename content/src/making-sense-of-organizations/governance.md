@@ -115,7 +115,7 @@ Each policy is created to fulfill a requirement and, by doing so, to address a d
 
 It's useful to [record policies](section:record-governance-decision)  to support their effective review and evolution. When describing policies, at the very least, include the following information:
 
--   Purpose (Driver and Requirement)
+-   Purpose (driver and requirement)
 -   Intended Outcome(s)
 -   Policy description (including rationale)
 -   Who's responsible for what
