@@ -121,25 +121,23 @@ You can describe the primary driver using the pattern [Describe Organizational D
 
 **Describe:**
 
--   **Primary Driver**: Describe the _current conditions_, the _(anticipated or current) effect_ these conditions lead to, and if it's not already obvious, the  _relevance_ of this effect for the organization (to clarify why it's worthwhile or necessary to respond to the situation).
+-   **Primary Driver**: Describe the _current conditions_, the (anticipated or current) _effect_ these conditions lead to, and if it's not already obvious, the _relevance_ of this effect for the organization (to clarify why it's worthwhile or necessary to respond to the situation).
 -   **Main Requirement**: Describe the _intended outcome_ of addressing the driver, as well as the _enabling conditions_ that will lead to achieving that outcome.
-
-**Recommended format:** Primary Driver: (current conditions) and (anticipated or current) effect, if useful, also describe (relevance). Main Requirement: (enabling condition) and (intended outcome).
 
 
 **Examples:**
 
 1. Purpose of a Team Support domain:
 
-    **Primary Driver:** (current conditions) To resolve local issues, teams develop their work processes and meeting schedules in the way they see fit. (effect) This often leads to incoherence in how work and decision-making are handled between teams, and (relevance) it impedes effective collaboration on handling dependencies between and across domains.
+    **Primary Driver:**  To resolve local issues, teams develop their work processes and meeting schedules in the way they see fit.  This often leads to incoherence in how work and decision-making are handled between teams, and it impedes effective collaboration on handling dependencies between and across domains.
 
-    **Main Requirement:** (enabling condition) We need to support teams to develop and maintain a coherent approach to how they collaborate on dependencies (intended outcome) so that they are able to deal with them effectively while ensuring they are still able to resolve local issues as autonomously as possible.
+    **Main Requirement:**  We need to support teams to develop and maintain a coherent approach to how they collaborate on dependencies so that they are able to deal with them effectively while ensuring they are still able to resolve local issues as autonomously as possible.
 
 2. Purpose of a Marketing domain:
 
-    **Primary Driver:** _(current conditions) Despite its limited feature set, our product is already highly valuable to a lot of small businesses, yet we operate in a competitive market where others provide a similar product with a far wider feature set than ours, (effect) and despite our competitive pricing, they currently tend to opt for these other products due to their reputation, and a lack of familiarity with ours._
+    **Primary Driver:** _Despite its limited feature set, our product is already highly valuable to a lot of small businesses, yet we operate in a competitive market where others provide a similar product with a far wider feature set than ours, and despite our competitive pricing, they currently tend to opt for these other products due to their reputation, and a lack of familiarity with ours._
 
-    **Main Requirement:** _(enabling condition) We need to increase awareness and understanding of our product and its benefits among those businesses that would appreciate it and find our existing feature set adequate for their needs, (intended outcome) so that we boost sales and avoid the overhead that comes from attracting customers that are dissatisfied with the features we provide._
+    **Main Requirement:** _We need to increase awareness and understanding of our product and its benefits among those businesses that would appreciate it and find our existing feature set adequate for their needs, so that we boost sales and avoid the overhead that comes from attracting customers that are dissatisfied with the features we provide._
 
 **Tips:**
 
@@ -158,37 +156,37 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
 
 **List** all _essential responsibilities_ that are being delegated by clarifying the **requirement** in each case.
 
-**Recommended format:** (enabling condition) and (intended outcome). If useful, describe the driver as well: (current conditions), (anticipated or current) effect, and (relevance).
+**Recommended format:** Describe Key Responsibilities as requirements, if useful, include a description of the driver as well.
 
 
 **Examples:**
 
 1.  For a customer service team
 
-    **Requirement**: _(enabling condition) Ensure that customer inquiries are responded to in a timely manner, (intended outcome) so that we stay within the time frame stipulated in our service level agreement._
+    **Requirement**: _Ensure that customer inquiries are responded to in a timely manner, so that we stay within the time frame stipulated in our service level agreement._
 
-    **Driver:** _(current conditions) The organization has observed an increasing volume of customer inquiries, with varied complexities, (effect) leading to delays in response times and customer dissatisfaction._
+    **Driver:** _The organization has observed an increasing volume of customer inquiries, with varied complexities, leading to delays in response times and customer dissatisfaction._
 
 2.  For an agile coaching domain:
 
-    **Requirement**: _(enabling condition) Support cross-team collaboration on dependencies, (intended outcome) so that common objectives of product teams are effectively achieved._
+    **Requirement**: _Support cross-team collaboration on dependencies, so that common objectives of product teams are effectively achieved._
 
 
-    **Driver:** _(current conditions) Our product development process involves multiple interdependent teams, (effect) where lack of coordination can lead to bottlenecks and project delays, (relevance) emphasizing the need for effective cross-team collaboration to ensure efficient progress and successful delivery of product objectives._
+    **Driver:** _Our product development process involves multiple interdependent teams, where lack of coordination can lead to bottlenecks and project delays, emphasizing the need for effective cross-team collaboration to ensure efficient progress and successful delivery of product objectives._
 
 3.  For an organizational development training provider team:
 
-    **Requirement**: _(enabling condition) Develop and deliver bespoke learning interventions (intended outcome) to fulfill customer learning needs._
+    **Requirement**: _Develop and deliver bespoke learning interventions to fulfill customer learning needs._
 
 
-    **Driver:** _(current conditions) Our customers operate in a dynamic business environment where employee skills and knowledge requirements are constantly evolving, (effect) which leads to critical gaps in workforce capabilities and adaptability, (relevance) underscoring the necessity for tailored learning interventions that ensure that employees are equipped to meet current and future challenges effectively._
+    **Driver:** _Our customers operate in a dynamic business environment where employee skills and knowledge requirements are constantly evolving, which leads to critical gaps in workforce capabilities and adaptability, underscoring the necessity for tailored learning interventions that ensure that employees are equipped to meet current and future challenges effectively._
 
 4.  For a marketing team:
 
-    **Requirement**: _(enabling condition) Execute and refine digital marketing campaigns, (intended outcome) to improve engagement metrics and customer acquisition costs._
+    **Requirement**: _Execute and refine digital marketing campaigns, to improve engagement metrics and customer acquisition costs._
 
 
-    **Driver:** _(current conditions) With digital ad spending increasing without proportional gains in engagement, (effect) current strategies are leading to diminishing returns._
+    **Driver:** _With digital ad spending increasing without proportional gains in engagement, current strategies are leading to diminishing returns._
 
 
 **Tips:**
@@ -196,7 +194,7 @@ Key responsibilities are a summary of those areas of _work and decision-making_ 
 -   Key Responsibilities inform and are informed by various other aspects of a domain's design. Therefore, while describing those other aspects, you will often find things that need to be added or revised, in this section documenting Key Responsibilities.
 -   If the organizational driver behind a key responsibility is unclear, describe this as well to add context. Doing so helps to ensure that the reason for fulfilling each of these requirements is clear.
 -   Don't describe the tasks that the delegatees are taking care of, but rather the requirements that those tasks are meant to fulfill.
--   Describe the intended outcome(s) of fulfilling each requirement in a way that allows you to define specific metrics to assess whether or not an outcome has been achieved. For example, say, "*… so that customers return and recommend our products to others*" rather than "*… so that our customers are happy*".
+-   Describe the intended outcome(s) of fulfilling each requirement in a way that allows you to define specific metrics to assess whether or not an outcome has been achieved. For example, say, "_… so that customers return and recommend our products to others_" rather than "_… so that our customers are happy_".
 -   If you mention or imply specific deliverables in the description of certain Key Responsibilities, describe those deliverables explicitly in the section about Customers and Deliverables, as well.
 
 
@@ -210,7 +208,7 @@ The purpose of the work done by the delegatees is to provide value to their **cu
 
 **List** the **direct recipients** of the value delivered by the team (or role keeper). In each case, describe the **deliverables** they receive with enough detail to clearly communicate what is being provided, and clarify the **requirement** that each deliverable is intended to fulfill.
 
-**Recommended format:** Customer and deliverable(s). And, unless it's already clear, information about the Requirement: (enabling conditions) and (intended outcomes).
+**Recommended format:** Customer and deliverable(s), include a description of the requirement unless it's already clear.
 
 **Examples:**
 
@@ -218,31 +216,31 @@ The purpose of the work done by the delegatees is to provide value to their **cu
 
     **Customer:** _Current and potential customers_
 
-    **Deliverable**: _Regularly updated content such as blog posts, newsletters, and social media updates (enabling condition) to inform the ustomer base about the latest company news, product developments, and industry insights, (intended outcome) to strengthen brand loyalty and attract potential customers._
+    **Deliverable**: _Regularly updated content such as blog posts, newsletters, and social media updates to inform the ustomer base about the latest company news, product developments, and industry insights, to strengthen brand loyalty and attract potential customers._
 
 2. For the delegator of a marketing department:
 
     **Customer:** _Executive leadership_
 
-    **Deliverable:** _Marketing performance analytics reports (enabling condition) that measure campaign effectiveness, customer engagement, and ROI, (intended outcome) to inform leadership about marketing performance and guide budgeting and strategy development._
+    **Deliverable:** _Marketing performance analytics reports that measure campaign effectiveness, customer engagement, and ROI, to inform leadership about marketing performance and guide budgeting and strategy development._
 
 3. For a team that delivers consulting to clients:
 
     **Customer:** _Sales & marketing department_
 
-    **Deliverable:** _Success stories about our work with clients (enabling condition) that can be used as a reference for future sales (intended outcome) to enhance the sales team's ability to demonstrate the value and effectiveness of the consulting services, ultimately aiding in closing more sales deals._
+    **Deliverable:** _Success stories about our work with clients that can be used as a reference for future sales to enhance the sales team's ability to demonstrate the value and effectiveness of the consulting services, ultimately aiding in closing more sales deals._
 
 4. For a team that designs and develops websites for business clients:
-    
+
     **Customer:** _Clients_
-    
-    **Deliverable:** _Design and develop user-friendly and aesthetically pleasing company websites (enabling condition) that ensure a positive user experience and that the client's customers engage with (intended outcome) to support their business objectives for increased traffic, customer retention, and sales._
+
+    **Deliverable:** _Design and develop user-friendly and aesthetically pleasing company websites that ensure a positive user experience and that the client's customers engage with to support their business objectives for increased traffic, customer retention, and sales._
 
 5. For a user experience team:
-    
+
     **Customer:** _Development team_
-    
-    **Deliverable:** _Interaction design for new features - with detailed description for all edge cases and potential errors, complete with all graphical assets required for implementation without the need for further communication, (enabling condition) to facilitate the development team in efficiently building and implementing features that offer an optimal user experience, (intended outcome) reducing the need for extensive revisions and ensuring a smoother product development process._
+
+    **Deliverable:** _Interaction design for new features - with detailed description for all edge cases and potential errors, complete with all graphical assets required for implementation without the need for further communication, to facilitate the development team in efficiently building and implementing features that offer an optimal user experience, reducing the need for extensive revisions and ensuring a smoother product development process._
 
 **Tips:**
 
@@ -263,7 +261,7 @@ Dependencies refer to who and what the delegatees rely on, besides themselves an
 
 **Describe** those **deliverables** that are essential to the work of the delegatees. Explicitly name **who provides them** in each case (either from within the organization or from the outside world), and clarify the requirement that each deliverable is intended to fulfill.
 
-**Recommended format:** Provider and deliverable(s). And, unless it's already clear, add information about the requirement: (enabling condition) and (intended outcome).
+**Recommended format:** Provider and deliverable(s), include a description of the requirement if it is not apparent.
 
 **Examples**:
 
@@ -271,29 +269,29 @@ Dependencies refer to who and what the delegatees rely on, besides themselves an
 
     **Provider:** _Legal team_
    
-    **Deliverable:** _Adaptation of standard contracts for specific customers (enabling condition) to ensure the customer's contract is in line with the unique agreements and terms negotiated, (intended outcome) aiding smooth business transactions and reducing the risk of contract disputes._
+    **Deliverable:** _Adaptation of standard contracts for specific customers to ensure the customer's contract is in line with the unique agreements and terms negotiated, aiding smooth business transactions and reducing the risk of contract disputes._
 
 1.  For a support team:
 
     **Provider:** _Development team_
 
-**Deliverable**: help from developers(enabling condition) for technical assistance and resolution of complex issues, (intended outcome(s)) to enable the support team to address customer queries more effectively and improve overall customer satisfaction with prompt issue resolution.
+    **Deliverable**: help from developers for technical assistance and resolution of complex issues, (intended outcome(s)) to enable the support team to address customer queries more effectively and improve overall customer satisfaction with prompt issue resolution.
 
 3.  For a development team:
    
     **Provider:** _External consultancy_
-    **Deliverable:** _Designs for new features on demand, including the graphical assets (enabling condition) to support the development of innovative and user-centric design solutions, (intended outcome) that enhance the functionality and user experience of the development team's products, leading to more successful and marketable software solutions for our customers._
+    **Deliverable:** _Designs for new features on demand, including the graphical assets to support the development of innovative and user-centric design solutions, that enhance the functionality and user experience of the development team's products, leading to more successful and marketable software solutions for our customers._
 
 4.  For a training department:
 
     **Provider**: _IT department_
    
-    **Deliverable:** _IT support for making certain online learning tools available (enabling condition) that ensure seamless integration and functionality of online learning platforms, (intended outcome) to facilitate effective digital learning experiences, thereby improving the skills and competencies of employees across the organization._
+    **Deliverable:** _IT support for making certain online learning tools available that ensure seamless integration and functionality of online learning platforms, to facilitate effective digital learning experiences, thereby improving the skills and competencies of employees across the organization._
 
 5. For a research and development team:
    
     **Provider**: _Local university laboratory_
-    **Deliverable:** _Testing facility with advanced testing and research facilities, (enabling condition) to enable thorough experimentation and innovation, crucial for (intended outcome) developing cutting-edge products and technologies in line with industry standards and market expectations._
+    **Deliverable:** _Testing facility with advanced testing and research facilities, to enable thorough experimentation and innovation, crucial for developing cutting-edge products and technologies in line with industry standards and market expectations._
 
 **Tips:**
 
@@ -325,34 +323,44 @@ Some external constraints are fixed, while others may be negotiable with stakeho
 
 **Describe** important constraints to the delegatees' autonomy and influence, and if necessary, offer some context to clarify why each constraint exists.
 
-**Recommended format:** Constraint: (enabling condition) and (intended outcome). If useful, describe the driver to add context: (current conditions)
+**Recommended format:** Describe constraints as requirements, if useful, describe the driver to add context.
 
 
 **Examples:**
 
-1. **Constraint**: _(enabling condition) Ensure that we have clearance from the provider for training external consultants, (intended outcome) so that we get the reduced rate for training._
+1. **Constraint**: _Ensure that we have clearance from the provider for training external consultants, so that we get the reduced rate for training._
     
-    **Driver:** _(current conditions) We have an agreement with the external services provider that external consultants only receive 50% of their hourly fee for attending training provided by our company._
+    **Driver:** _We have an agreement with the external services provider that external consultants only receive 50% of their hourly fee for attending training provided by our company._
 
-2. **Constraint:** _(enabling condition) Prioritize work on projects with deadlines over time spent on training and development, (intended outcome) so that we can keep to delivery dates agreed upon with customers._
+2. **Constraint:** _Prioritize work on projects with deadlines over time spent on training and development, so that we can keep to delivery dates agreed upon with customers._
+    
     (Driver is obvious in this case)
 
-3. **Constraint:** _(enabling condition) Monthly expenditure over $15k needs to be approved with the PM (intended outcome) to ensure total expenditure for the project remains within the overall budget._
+3. **Constraint:** _Monthly expenditure over $15k needs to be approved with the PM to ensure total expenditure for the project remains within the overall budget._
+    
     (Driver is obvious in this case)
-4. **Constraint:** _(enabling condition) Consult with the Architecture Circle on decisions related to software architecture, (intended outcome) to ensure architectural coherence throughout all software products._
+
+4. **Constraint:** _Consult with the Architecture Circle on decisions related to software architecture, to ensure architectural coherence throughout all software products._
+    
     (Driver is obvious in this case)
-5. **Constraint:** _(enabling condition) Schedule all hands meetings between 15:00 — 18:00 CEST, (intended outcome) so that team members from the various time zones can work during typical working hours._
+
+5. **Constraint:** _Schedule all hands meetings between 15:00 — 18:00 CEST, so that team members from the various time zones can work during typical working hours._
+    
     (Driver is obvious in this case)
-6. **Constraint**: _(enabling condition) For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, (intended outcome) so that they can bring in their project management experience. _
-    **Driver:** _(current conditions) the team does not currently feel confident managing large projects alone._
-7. **Constraint**: _(enabling condition) Deliver the finished product to the integration team by 01 Feb (intended outcome) so that they have time to complete integration before the non-negotiable project deadline on 10 March._
+
+6. **Constraint**: _For projects larger than 3 person months, the team needs to have their project plan approved by the delegator, so that they can bring in their project management experience._
+    
+    **Driver:** _the team does not currently feel confident managing large projects alone._
+
+7. **Constraint**: _Deliver the finished product to the integration team by 01 Feb so that they have time to complete integration before the non-negotiable project deadline on 10 March._
+    
     (Driver is obvious in this case)
 
 **Tips:**
 
 -   For each constraint, clarify the requirement, and add further context where useful.
 -   Describe in detail those constraints that are specific to this domain. Link to information about **standard constraints** that are also relevant to other domains as well, or to the whole organization.
--   If the reason why the constraint exists is unclear, provide some context by describing (or referencing) the organizational driver (current conditions) behind the constraint.
+-   If the reason why the constraint exists is unclear, provide some context by describing (or referencing) the organizational driver behind the constraint.
 -   Certain external constraints may lead to key challenges for the delegatees.
 -   Constraints within the company should enable organizational effectiveness overall. If an internal constraint impedes effectiveness, it's worth reviewing if and how it can be changed. External constraints may or may not directly support organizational effectiveness, but they need to be adhered to regardless (because the organization is powerless to change them).
 
@@ -370,19 +378,17 @@ Key challenges include:
 -   uncertainty and complexity
 -   lack of skills or resources
 
-**Describe** the _driver_, the situation that is (or might be) challenging and the (anticipated) effect this would have on the organization. Include information about  how this might impede the ability of the delegatees to successfully attend to this domain.
-
-**Recommended format:** Driver: (current conditions) and (anticipated or current) effect
+**Describe** the _driver_, the situation that is (or might be) challenging and the (anticipated) effect this would have on the organization. Include information about how this might impede the ability of the delegatees to successfully attend to this domain.
 
 **Examples:**
 
-1. _(current conditions) Changing legal requirements that need to be included in our software are often only announced a few weeks before taking effect (anticipated effect) which can make it difficult to respond to the changes in time._
-2. _(current conditions) Due to differing priorities, partners are sometimes unavailable when we need their services, (effect) making it difficult to meet project deadlines._
-3. _(current conditions) Our codebase is old, incoherent, and poorly maintained, and we lack the funds to clean up the code. (effect) Therefore, it's hard to estimate how long adding a new feature will take, and changes can lead to bugs and security issues._
-4. _(current conditions) Customer purchases are highly weather-dependent, (effect) which makes it difficult to optimize perishable stock and staffing._
-5. _(current conditions) We're threatened by an economic crisis, (anticipated effect) which could significantly impact our ability to meet our sales target._
-6. _(current conditions) Some team members have their main responsibilities in other domains, (anticipated effect) which can sometimes make it difficult for them to free up enough time for work in this domain._
-7. _(current conditions) Due to cultural differences, there is a diversity of norms and expectations across the different teams, (effect) which has in the past led to miscommunication, conflict, and ineffectiveness._
+1. _Changing legal requirements that need to be included in our software are often only announced a few weeks before taking effect, which can make it difficult to respond to the changes in time._
+2. _Due to differing priorities, partners are sometimes unavailable when we need their services, making it difficult to meet project deadlines._
+3. _Our codebase is old, incoherent, and poorly maintained, and we lack the funds to clean up the code.  Therefore, it's hard to estimate how long adding a new feature will take, and changes can lead to bugs and security issues._
+4. _Customer purchases are highly weather-dependent, which makes it difficult to optimize perishable stock and staffing._
+5. _We're threatened by an economic crisis, which could significantly impact our ability to meet our sales target._
+6. _Some team members have their main responsibilities in other domains, which can sometimes make it difficult for them to free up enough time for work in this domain._
+7. _Due to cultural differences, there is a diversity of norms and expectations across the different teams, which has in the past led to miscommunication, conflict, and ineffectiveness._
 
 **Tips:**
 
@@ -414,11 +420,11 @@ Describe the resources that are available for the delegatees to use.
 
 **Examples:**
 
-1._ Time allocation for delegatee: 32 hrs per week_
+1. _Time allocation for delegatee: 32 hrs per week_
 2. _Budget for hardware, software licenses, and external engineering service providers is provided on request_
-3. _Budget for yearly training: 2000€ per person. Extension possible on request._
-4. _Company credit card to hire cars and mini buses for transporting casters to the casting locations._
-5._ A budget of €5000 per month for advertising_
+3. _Budget for yearly training: 2000€ per person, extension possible on request._
+4. _Company credit card to hire cars and mini buses for transporting casters to the casting locations_
+5. _A budget of €5000 per month for advertising_
 6. _Administration privileges for systems X, Y, and Z_
 7. _Direct communication channel (Slack) with the customer_
 8. _Access to all machines, instruments, and test rigs whenever not in use_
@@ -441,27 +447,27 @@ When delegating responsibility for a domain to others, the delegator retains ove
 
 **List** any existing responsibilities related to this domain that the delegator had prior to delegation that they will keep, as well as information about new responsibilities that they take on to support the delegatees.
 
-**Recommended Format:** Requirement: (enabling condition) and (intended outcome). If useful, describe the driver as well: (current conditions), (anticipated or current) effect, and (relevance).
+**Recommended Format:** Describe Delegator Responsibilies as requirements, if useful describe the driver as well.
 
 **Examples:**
 
-1.  **Requirement:** _(enabling condition) Provide training for new team members when necessary, (intended outcome) to ensure that they are familiar with the processes & tools the team works with._
+1.  **Requirement:** _Provide training for new team members when necessary, to ensure that they are familiar with the processes & tools the team works with._
 
-    **Driver:** _(current conditions) The organization regularly integrates new members into existing teams, (effect) and lack of proper training can lead to inefficiencies and errors, (relevance) and an overall decrease in team productivity and quality of work._
+    **Driver:** _The organization regularly integrates new members into existing teams, and lack of proper training can lead to inefficiencies and errors, and an overall decrease in team productivity and quality of work._
 
-2.  **Requirement:** _(enabling condition) Ensure that questions delegatees have throughout the project are answered within 24 hours (intended outcome) to avoid bottlenecks while waiting for a reply._
+2.  **Requirement:** _Ensure that questions delegatees have throughout the project are answered within 24 hours to avoid bottlenecks while waiting for a reply._
 
-3.  **Requirement:** _(enabling condition) Inform delegatees of any relevant news or changes and work with them to update the domain's design when necessary or helpful._
+3.  **Requirement:** _Inform delegatees of any relevant news or changes and work with them to update the domain's design when necessary or helpful._
 
-4.  **Requirement:** _(enabling condition) Participate in scheduled Peer Review sessions with delegatees, (intended outcome) to support them with ongoing development and maintain high standards._
+4.  **Requirement:** _Participate in scheduled Peer Review sessions with delegatees, to support them with ongoing development and maintain high standards._
 
-5.  **Requirement:** _(enabling condition) In case of API changes, prioritize process software development resources to do required modifications, (intended outcome) to allow automation interfaces to adapt swiftly to changing requirements._
+5.  **Requirement:** _In case of API changes, prioritize process software development resources to do required modifications, to allow automation interfaces to adapt swiftly to changing requirements._
 
-    **Driver:** _(current conditions) The technological landscape is rapidly evolving, (effect) and failure to promptly adapt to changes like API updates can lead to system incompatibilities or downtimes._
+    **Driver:** _The technological landscape is rapidly evolving, and failure to promptly adapt to changes like API updates can lead to system incompatibilities or downtimes._
 
-6.  **Requirement:** _(enabling condition) Proactively advocate for the work of delegatees with C-level and address concerns that they have (intended outcome) to build credibility and support early on in the project._
+6.  **Requirement:** _Proactively advocate for the work of delegatees with C-level and address concerns that they have to build credibility and support early on in the project._
     
-    **Driver:** _(current conditions) Delegatees often face challenges in having their perspectives and needs understood and prioritized by top-level management, (effect) which can result in misalignment of goals and lack of support for critical projects._
+    **Driver:** _Delegatees often face challenges in having their perspectives and needs understood and prioritized by top-level management, which can result in misalignment of goals and lack of support for critical projects._
 
 
 **Tips:**
@@ -488,13 +494,13 @@ Record any information that helps people to understand the competencies, qualiti
 2. _General group facilitation skills_
 3. _Ability to diagnose and resolve technical issues quickly_
 4. _Have a good foundation of product and project management approaches_
-5. _At least one year of project experience with Apache Cassandra, Apache Kafka, and ClickHouse._
-6. _Working knowledge of software architecture principles, including microservices architecture and domain-driven design._
-7. _Effective communication skills, both verbal and written, to elicit product requirements from a diverse user base._
-8. _Product knowledge on bookkeeping software and knowledge about the market
-9. Minimum 4 years of experience working with Scrum in a team._
+5. _At least one year of project experience with Apache Cassandra, Apache Kafka, and ClickHouse_
+6. _Working knowledge of software architecture principles, including microservices architecture and domain-driven design_
+7. _Effective communication skills, both verbal and written, to elicit product requirements from a diverse user base_
+8. _Product knowledge on bookkeeping software and knowledge about the market_
+9. _Minimum 4 years of experience working with Scrum in a team_
 10. _Bachelor's or Master's degree in clinical mental health counseling_
-11._ 8-10 years of human resources experience within a multinational company_
+11. _8-10 years of human resources experience within a multinational company_
 
 **Tips:**
 
@@ -520,20 +526,20 @@ Define simple and specific metrics that enable you to monitor progress and effec
     -   **Rate:** _monthly (first week of the month for last month)_
     -   **Responsibilities**: _Jake compiles the monthly report in Confluence_
     -   **Target**: _10_
-    -   **Triggers:** _When a recruiter or channel rises above 15, the HR team compiles a detailed report about that partner or channel, and makes a decision how the ratio can be improved, or, if the ratio stays above that threshold for at least 3 months,  whether that partner or channel should be kept._
-    -   **Purpose**: _(enabling condition) Identify which recruiters and channels (intended outcome) provide the best return on time spent by senior staff in interviews._
+    -   **Triggers:** _When a recruiter or channel rises above 15, the HR team compiles a detailed report about that partner or channel, and makes a decision how the ratio can be improved, or, if the ratio stays above that threshold for at least 3 months, whether that partner or channel should be kept._
+    -   **Purpose**: _Identify which recruiters and channels provide the best return on time spent by senior staff in interviews._
 2. **Employee retention by recruiter**
     -   **Description:** _For each recruiter, track the total number of employees provided that were employed at the beginning of a month (TE), and the number of employees who left during that month (EL), then calculate retention rate = (TE - TL) / TE * 100_
     -   **Rate:** _monthly_
     -   **Responsibilities**: _monitored by HR team_
     -   **Triggers**: _If the rate for a recruiter is less than the average company retention rate, decide what to do about it in the next Planning Meeting._
-    -   **Purpose**: _(current conditions) Onboarding new people carries a high cost (anticipated effect) and a misplaced candidate results in wasted time, effort, and resources, and the fact that the vacancy will need to be filled again. (enabling condition) Identify which recruiters provide candidates with the highest retention rate, (intended outcome) to minimize the risk of new employees leaving._
+    -   **Purpose**: _Onboarding new people carries a high cost and a misplaced candidate results in wasted time, effort, and resources, and the fact that the vacancy will need to be filled again.  Identify which recruiters provide candidates with the highest retention rate, to minimize the risk of new employees leaving._
 3. **Disruption-Rate**
     -   **Description**: _Number of process disruptions because of problems attributed to control hardware/software (data source is the productive process execution system)_
     -   **Rate**: _weekly_
     -   **Responsibilities**: _Product Owner provides the metric, team monitors the metric_
     -   **Triggers**: _an average of less than 1 per month over the last 12 months_
-    -   **Purpose**: _(current conditions) Process disruptions are costly, (enabling condition) so we need to ensure the number of process disruptions remains low._
+    -   **Purpose**: _Process disruptions are costly, so we need to ensure the number of process disruptions remains low._
 
 
 **Tips:**
