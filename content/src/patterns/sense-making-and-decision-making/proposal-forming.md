@@ -1,7 +1,8 @@
 # Proposal Forming
 
 <summary>
-A structured process for designing a proposal for an intervention that draws on the collective intelligence and diversity of perspectives to understand context and elicit ideas about how to fulfill a purpose.</summary>
+A structured process for designing a proposal for an intervention that draws on the collective intelligence and diversity of perspectives to understand context and elicit ideas about how to fulfill a purpose.
+</summary>
 
 <only presets="jekyll">
 **Table of Contents**
