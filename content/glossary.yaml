@@ -55,12 +55,12 @@ terms:
     definition:
     glossary: A group (e.g., a circle, team, department, branch, project, or organization) that delegates authority to a representative to act on their behalf in other teams or organizations.
   constraint:
-    definition: A constraint is a limitation or restriction that controls or limits what someone can do or what can happen. It can be a requirement to fulfill, a rule to follow, or a factor that imposes boundaries on actions, behaviors, or outcomes.
-    glossary: A limitation or restriction that controls or limits what someone can do or what can happen. It can be a requirement to fulfill, a rule to follow, or a factor that imposes boundaries on actions, behaviors, or outcomes.
+    definition: A constraint is a limitation or restriction that controls or limits what someone can do or what can happen. It can be a requirement to fulfill, a rule to follow, or a boundary on actions, behaviors, or outcomes.
+    glossary: A limitation or restriction that controls or limits what someone can do or what can happen. It can be a requirement to fulfill, a rule to follow, or a boundary on actions, behaviors, or outcomes.
   continuous-improvement: 
     name: Continuous Improvement (principle)
     definition:
-    glossary: "**Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time."
+    glossary: "**Regularly review the outcomes of your actions, then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time."
   coordination:
     name: Coordination
     definition:
@@ -106,7 +106,7 @@ terms:
   equivalence:
     name: Equivalence (principle)
     definition:
-    glossary: "**Involve people in making and evolving decisions that affect them**, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives."
+    glossary: "**Involve people in making and evolving decisions that affect them**, to increase engagement and accountability, and utilize the distributed intelligence to achieve and evolve your objectives."
   evolve:
     name: Evolve (v.)
     glossary: to develop gradually.
