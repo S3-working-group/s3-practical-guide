@@ -1,5 +1,4 @@
-# Governance, Operations, Policy {#governance-operations-policy}
-
+# Governance, Operations, Policy
 
 <only presets="jekyll">
 **Table of Contents**
@@ -9,7 +8,7 @@
 
 </only>
 
-During their daily work, people come across many situations they need to address ([organizational drivers]glossary:organizational-driver)) and [requirements](glossary:reqirement) they need to fulfill. In each case, they need to determine suitable [interventions](glossary:intervention), which may involve operations — doing the work — or governance: creating or evolving decisions about what work will be done (setting objectives) and how (guidelines, strategy, rules, etc.). 
+During their daily work, people come across many situations they need to address ([organizational drivers]glossary:organizational-driver)) and [requirements](glossary:requirement) they need to fulfill. In each case, they need to determine suitable [interventions](glossary:intervention), which may involve operations — doing the work — or governance: creating or evolving decisions about what work will be done (setting objectives) and how (guidelines, strategy, rules, etc.). 
 
 Making a clear distinction between *operations*—the day-to-day work of delivering value to customers — and *governance*—setting significant objectives and guiding people toward achieving them — ensures that governance matters are addressed in a deliberate, coherent, and incremental manner and, when worthwhile or necessary, through a participatory approach.
 

@@ -15,7 +15,7 @@ Respond to all organizational drivers you are responsible for, in order of prior
 
 ## Overview
 
-{{define:organizational-drivers}}
+{{define:organizational-driver}}
 
 In the course of daily operations, every organization needs to deal with numerous existing and new drivers. Whenever a role keeper or a team becomes aware of a new driver they are responsible for addressing, taking a structured and considered approach supports staying focused on priorities, deciding and acting appropriately, and making the best use of resources, energy, and time. 
 

@@ -4,7 +4,7 @@
 Develop clear, well-defined metrics to assess your effectiveness in achieving objectives, and monitor them frequently to identify opportunities for improvement early.
 </summary>
 
-*{{define:metrics}}*
+*{{define:metric}}*
 
 Metrics help you evaluate the effectiveness of your work and decisions. They act as early signals for when things are working or when something needs attention. Frequent measurement provides timely insights that support better decisions.
 

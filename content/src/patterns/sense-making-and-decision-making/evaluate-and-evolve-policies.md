@@ -12,7 +12,7 @@ An effective evaluation integrates empirical data derived from [metrics](section
 
 To ensure policies are evaluated as necessary, it's important to keep a written record of each policy, including an archive of previous versions, and to set a suitable review date or cadence for when each policy should be reviewed. 
 
-Ideally, when evaluating a policy, you will already have a [written record](section:record-governance-agreements), not only describing the policy itself but also its [purpose](glossary:purpose) and [metrics](glossary:metrics) for evaluation. However, many teams may not have these details fully defined or recorded. If this is the case, you can use the format provided at the end of this pattern description to assess and improve your existing policies while you are putting these other elements in place.
+Ideally, when evaluating a policy, you will already have a [written record](section:record-governance-agreements), not only describing the policy itself but also its [purpose](glossary:purpose) and [metrics](glossary:metric) for evaluation. However, many teams may not have these details fully defined or recorded. If this is the case, you can use the format provided at the end of this pattern description to assess and improve your existing policies while you are putting these other elements in place.
 
 When deciding on a suitable review date or frequency, consider factors like the level of uncertainty surrounding the policy and the potential impact of its application. Make arrangements to alert those responsible as the review date approaches, and remain adaptable by initiating reviews earlier if conditions change or if new insights emerge.
 

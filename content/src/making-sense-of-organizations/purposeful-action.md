@@ -79,7 +79,7 @@ Once you understand the concepts and relationships this model is built on, you c
 The model also works seamlessly with any tools you are currently using for visualizing decisions and work, from pen and paper and wall boards to Miro, Jira, or Google Suite.
 
 
-# Purpose
+## Purpose
 
 **Everything you do serves a purpose**, even if you might not always consciously choose that purpose or be aware of it. Deliberately considering the purpose before taking action helps ensure that your actions contribute to achieving that purpose. What seems purposeful in isolation might not make sense when you step back and look at the bigger picture. To make the best use of resources, energy, and time, the purpose of your actions must align with your broader goals. This applies to organizations as well.
 
@@ -94,7 +94,7 @@ Reflecting on purpose supports:
 -   **Decision-Making**: determining direction and scope for a suitable response to the situation
 
 
-## Purpose at the Center of the Organization
+### Purpose at the Center of the Organization
 
 **Every organization has an overall purpose it serves**, whether it's explicitly defined and widely understood or not, and the effectiveness of an organization depends on its members' ability to contribute toward fulfilling that purpose.
 
@@ -105,7 +105,7 @@ As an organization evolves and the context in which it operates changes over tim
 Just as a project or team within an organization can outlive its relevance, the organization itself may reach a point where its purpose is no longer meaningful in its broader context. At that point, the organization must either redefine its purpose or cease to exist.
 
 
-## Organizations are Complex Networks of Interrelated Purposes.
+### Organizations are Complex Networks of Interrelated Purposes.
 
 Within an organization, each team, role, decision, and action serves a purpose — whether that purpose is known, clearly understood, and defined or not. For an organization to be effective, it's important that every purpose people work toward fulfilling contributes to the organization's overall purpose and is not in contradiction to another purpose elsewhere in the organization. Similarly, and in addition to that, for a team or project to be effective, decisions and actions within a team or a project must also align with that team's or project's purpose and must not contradict any other decision or action.
 
@@ -120,7 +120,7 @@ Developing and maintaining coherence across this complex, dynamic network of int
 ![](img/purpose-and-interventions/inspect-and-adapt-mono.png)
 
 
-## Purpose, Value, and Waste
+### Purpose, Value, and Waste
 
 Understanding this interrelated network of purposes provides a useful lens for evaluating value and waste in organizations. This perspective also makes many practices and ideas from lean production and lean software development immediately applicable for organizations pulling in S3 patterns, such as the Kanban Method or Value Stream Mapping.
 
@@ -133,7 +133,7 @@ In S3, both concepts are explained in relation to purpose:
 There is a wealth of research and development about value and waste in organizations. Exploring these ideas can provide valuable insights and practical methods for improving flow, reducing unnecessary effort, and increasing effectiveness when fulfilling organizational purposes.
 
 
-## How to Describe Purpose: Drivers and Requirements
+### How to Describe Purpose: Drivers and Requirements
 
 For familiar or obvious challenges or opportunities, it's easy to describe purpose because it's implicit or self-evident. But even in such cases, sometimes we might discover that our interpretations differ from others', and what we thought was obvious turns out to be more complicated or complex.
 
@@ -151,7 +151,7 @@ This implies that any intervention that aims to fulfill (or at least serve) a sp
 So describing purpose in terms of a driver and a requirement clarifies why the intervention is needed in the first place, and then helps people understand and decide more specifically what to do. A purpose well articulated and understood not only explains and justifies activity, but it also motivates and drives action.
 
 
-# Organizational Drivers
+## Organizational Drivers
 
 Identifying and understanding situations that present potential **impediments** or **opportunities** in relation to an organization's objectives is essential for successfully navigating daily work and making the best use of limited resources, energy, and time.
 
@@ -217,16 +217,16 @@ Related Patterns:
 -   [Respond to Organizational Drivers](section:respond-to-organizational-drivers) explains the steps for responding to organizational drivers.
 
 
-# Requirements
+## Requirements
 
 ![](img/purpose-and-interventions/purposeful-action-reverse.png)
 
 A requirement connects a driver and the intervention intended to address it. It bridges the *problem space* and the *solution space*. Once it has been determined to be suitable for addressing a driver, a requirement is binding and sets the scope and direction for the intervention you define. In this sense, requirements function as constraints.
 
-{{define:requirement:}}
+{{define:requirement}}
 
 
-## What's the Benefit of Explicitly Clarifying Requirements?
+### What's the Benefit of Explicitly Clarifying Requirements?
 
 Unless the way to address a particular driver is obvious, explicitly clarifying the intended outcome(s) and the enabling condition(s) you think should be established to achieve those outcomes, _before_ determining more specific solutions, will give you the following benefits:
 
@@ -239,7 +239,7 @@ Unless the way to address a particular driver is obvious, explicitly clarifying 
 -   **Enables effective evaluation**: The outcome provides a reference point for assessing whether an intervention successfully addressed the driver, supporting iterative learning and continuous improvement.
 
 
-## The Anatomy of a Requirement
+### The Anatomy of a Requirement
 
 Determining the requirement involves intentionally and explicitly defining the _intended outcome(s)_ and the _enabling condition(s)_ considered suitable to establish or maintain for achieving that outcome.
 
@@ -255,7 +255,7 @@ Determining the requirement involves intentionally and explicitly defining the _
 **Intended Outcomes**: …so that we can improve customer satisfaction and eliminate this type of complaint.
 
 
-## Why Clarify Both the Intended Outcomes and the Enabling Conditions in a Requirement?
+### Why Clarify Both the Intended Outcomes and the Enabling Conditions in a Requirement?
 
 -   **Distinguishes Ends from Means**
     -   The intended outcome represents the future state we aim to realize (the **end**).
@@ -269,7 +269,7 @@ Determining the requirement involves intentionally and explicitly defining the _
     -   The enabling condition provides a basis to evaluate whether **the intervention was appropriately scoped and implemented**.
 
 
-## Requirements as Assumptions that Guide Iteration and Learning
+### Requirements as Assumptions that Guide Iteration and Learning
 
 When determining a requirement in relation to a driver, we make several discrete assumptions:
 
@@ -293,7 +293,7 @@ Revisiting these elements will help determine how to evolve your approach:
 -   Finally, adapt the intervention itself.
 
 
-## When and Why to Make Requirements Explicit
+### When and Why to Make Requirements Explicit
 
 We often make interventions to address organizational drivers based on our assumptions about the requirement, without making those assumptions explicit. This isn't necessarily a problem, especially in familiar situations, where established patterns work well.
 
@@ -320,7 +320,7 @@ Moreover, interventions may sometimes stem from individuals projecting past expe
 **Note**: In complex situations, it may not be possible — or even useful — to determine a single overall requirement that fully addresses the driver at the outset of responding to it. However, it is always possible to identify a requirement that serves as a valuable next step in addressing the situation. This "sub-requirement" is already part of the intervention itself (see the section on Interventions below for more details). In such cases, you can mark the overall requirement as "TBD" (to be determined) and update it as your understanding evolves. In these situations, it is entirely valid to incrementally fulfill any sub-requirements you are able to determine as suitable, either until the overall requirement becomes clear or until the driver is sufficiently addressed through the interventions taken.
 
 
-## Requirements and User Stories
+### Requirements and User Stories
 
 The concept of requirements in S3 is closely aligned with how the term is used in software engineering, where a requirement describes a capability or condition needed to fulfill a purpose. S3's concept of requirements provides a more generalized structure to support more deliberate and adaptive decision-making across a wide range of organizational contexts and beyond.
 
@@ -343,7 +343,7 @@ Related Patterns:
 -   [Determine Requirements](section:determine-requirements)
 -   [Evaluate and Evolve Policy](section:evaluate-and-evolve-policy)
 
-# The Relationship Between Driver and Requirement
+## The Relationship Between Driver and Requirement
 
 The following table highlights the structural parallels between drivers and requirements and clarifies how they relate.
 
@@ -354,7 +354,7 @@ The distinction mirrors a broader pattern: each present-focused element (current
 ![](img/purposeful-action/driver-requirement-table)
 
 
-# Interventions: Turning Purpose into Action
+## Interventions: Turning Purpose into Action
 
 The model of purposeful action rests on the observation that work in organizations can be understood as people making interventions to fulfill a purpose.
 
@@ -482,7 +482,7 @@ Continuing from the example above regarding the fallout from the product unexpec
 In some cases, when designing interventions, it can be adequate first to determine sub-requirements you consider suitable to fulfill in the course of fulfilling the main requirement, deferring more specific decisions about how to fulfill some or even all of those sub-requirements until later. For example, you might decide that "*participants have access to relevant information*," "*there is a clear way to raise concerns," and "facilitation is available when needed*" are essential sub-requirements for a productive decision-making process (main requirement), without yet specifying how to achieve this.
 
 
-## Policies: A Specific Kind of Intervention
+### Policies: A Specific Kind of Intervention
 
 Policies are discussed in more detail in the chapter about [Governance, Operations, and Policy](section:governance-operations-and-policy), but a brief introduction is helpful in the context of the model.
 
@@ -495,7 +495,7 @@ Because of their significance and their long-term use, and because of people's i
 Apart from their significance, there is no difference between a policy and any other intervention: they are created to fulfill a specific purpose, and are composed of tasks, activities, and constraints.
 
 
-## Determining Interventions
+### Determining Interventions
 
 Once there is sufficient clarity around the purpose, the next step is to determine a suitable intervention to fulfill it. This involves identifying what needs to be done (tasks and activities) and what constraints need to be put in place to achieve the intended outcomes, at a level of detail appropriate for guiding effective action and evaluation.
 

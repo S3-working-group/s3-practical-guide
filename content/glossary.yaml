@@ -55,6 +55,7 @@ terms:
     definition:
     glossary: A group (e.g., a circle, team, department, branch, project, or organization) that delegates authority to a representative to act on their behalf in other teams or organizations.
   constraint:
+    name: Constraint
     definition: A constraint is a limitation or restriction that controls or limits what someone can do or what can happen. It can be a requirement to fulfill, a rule to follow, or a boundary on actions, behaviors, or outcomes.
     glossary: A limitation or restriction that controls or limits what someone can do or what can happen. It can be a requirement to fulfill, a rule to follow, or a boundary on actions, behaviors, or outcomes.
   continuous-improvement: 
@@ -127,6 +128,7 @@ terms:
     glossary:  Specific, observable results you aim to achieve in relation to a driver.
   intervention: 
     name: Intervention
+    definition: An intervention is the specific steps you take and/or the constraints you put in place to fulfill a purpose.
     glossary: The specific steps you take and/or the constraints you put in place to fulfill a purpose.
   helping-team:
     name: Helping Team
@@ -192,6 +194,7 @@ terms:
     definition: A **principle** is a basic idea or rule that guides behavior, or explains or controls how something happens or works.
     glossary: A basic idea or rule that guides behavior, or explains or controls how something happens or works.
   purpose:
+    definition: "**Purpose** is the reason why something is done, used, or created; a guiding motivation that directs actions, decisions, and resources toward achieving a valuable outcome."
     name: Purpose
     glossary:  The reason why something is done, used, or created; a guiding motivation that directs actions, decisions, and resources toward achieving a valuable outcome.
   requirement:
@@ -255,6 +258,7 @@ terms:
   task:
     name: Task
     definition: A **task** is a specific piece of work that can be assigned to a person or team, ranging from a simple assignment to complex undertakings.
+    glossary: A specific piece of work that can be assigned to a person or team, ranging from a simple assignment to complex undertakings.
   team:
     name: Team
     definition:

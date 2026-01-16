@@ -19,7 +19,7 @@ Consent invites people to (at least) be reasonable and open to opportunities for
 
 {{define:objection}}
 
-Proposals are accepted when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming become [policy](glossary:policies), but concerns do not.
+Proposals are accepted when they are considered good enough for now and safe enough to try until the next review. Objections prevent proposals from becoming become [policy](glossary:policy), but concerns do not.
 
 Withholding objections can harm the ability of individuals, teams, or the whole organization to achieve their objectives.
 
@@ -37,7 +37,7 @@ If you are new to using Consent Decision-Making, we recommend you strictly follo
 
 ## Step 1: Consent to Purpose
 
-_Ensure the [purpose]() of the proposal is clear and relevant for the organization (the [driver](glossary:driver) and [requirement](glossary:reuirement) are summarized clearly enough), and it is your responsibility to deal with this._
+_Ensure the [purpose](glossary:purpose) of the proposal is clear and relevant for the organization (the [driver](glossary:driver) and [requirement](glossary:requirement) are summarized clearly enough), and it is your responsibility to deal with this._
 
 **Facilitator asks:** _Is the description of the situation and requirement clear enough? Is this situation an organizational driver? Is this driver relevant for you to respond to? And, is this requirement suitable?_
 
