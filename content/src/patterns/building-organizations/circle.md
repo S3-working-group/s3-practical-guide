@@ -14,7 +14,7 @@ While not every team needs to be a circle, in general, circles enable faster and
 
 Establishing circles enables greater autonomy and fosters co-responsibility for achieving outcomes and improving how work gets done.
 
-![From Managed Teams to Self-governing Circles](img/illustrations/from-managed-teams-to-circles.pngIllustration: )
+![From Managed Teams to Self-governing Circles](img/illustrations/from-managed-teams-to-circles.png)
 
 A circle's members work best when their domain is defined in a way that eliminates unnecessary and unhelpful dependencies that get in the way of creating and delivering [value](glossary:value) effectively.
 
