@@ -33,7 +33,7 @@ Please note that we can't promise picking up github issues on a regular basis, a
 
 ## Build Process
 
-`build.sh` builds all available targets, you can also use `make <target>` to build individual target.
+`make` builds all available targets, you can also use `make <target>` to build individual target.
 
 The build process relies on [mdtools](https://github.com/bboc/mdtools) to prepare and compile the individual files, and on Pandoc for ePub and LaTEX for PDF.
 

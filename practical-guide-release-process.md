@@ -11,7 +11,7 @@ Now that we are using quite a few  output formats and translated versions it mak
 ## 2. S3 Practical Guide Repository
 
 1. bump the date in `config/project.yaml`
-2. make a clean build for all fully automated formats  and the Deckset source (using `./build.sh`)
+2. make a clean build for all fully automated formats  and the Deckset source (using `make` or `make all`)
 3. run `make ebook` again (or even twice) so that the ebook is built
 4. edit Deckset source: remove link on title page (otherwise the headline is aligned left
 5. export Deckset slide deck (16:9, with S3-Open-Theme v0.3) as PDF and PNG

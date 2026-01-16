@@ -4,6 +4,16 @@ PROJECT=config/project.yaml
 # get language specific parameters
 include config/local-conf
 
+all: 
+	# clean everything, then build the site, the epub and the pdf
+	$(MAKE) clean
+	$(MAKE) setup
+	# for translations, remove or comment the targets that cannot be created for that language
+	$(MAKE) site
+	$(MAKE) epub
+	$(MAKE) ebook
+	$(MAKE) version
+
 make translations:
 	mdtemplate default $(PROJECT) templates/version.txt content/version.txt
 	# it's intentional this is just echoed
@@ -65,16 +75,24 @@ supporter-epub:
 	# cd $(TMP); pandoc supporter-epub-compiled.md -f markdown --metadata-file=metadata-full.yaml -t epub3 --toc --toc-depth=3 -s -o ../$(TARGETFILE)-supporter-edition.epub
 
 ebook:
-	# render an ebook as pdf (via LaTEX)
-	mdbuild ebook $(PROJECT) -vv
-	
-	cd $(TMP); multimarkdown --to=latex --output=ebook-compiled.tex ebook-compiled.md
-	cd $(TMP); latexmk -pdf -xelatex -silent ebook.tex 
+	$(MAKE) _ebook LATEXMK_FLAGS='-pdf -xelatex -silent'
 
-	cd $(TMP); mv ebook.pdf ../$(TARGETFILE).pdf
-	
+ebook-debug:
+	# clean before!
+	cd $(TMP) && latexmk -C
+	$(MAKE) _ebook LATEXMK_FLAGS='-pdf -xelatex -interaction=errorstopmode -file-line-error -halt-on-error -verbose'
+
+_ebook:
+	# render an ebook as pdf (via LaTeX)
+	mdbuild ebook $(PROJECT) -vv
+
+	cd $(TMP) && multimarkdown --to=latex --output=ebook-compiled.tex ebook-compiled.md
+	cd $(TMP) && latexmk $(LATEXMK_FLAGS) ebook.tex
+
+	cd $(TMP) && mv ebook.pdf ../$(TARGETFILE).pdf
+
 	# clean up
-	cd $(TMP); latexmk -C
+	cd $(TMP) && latexmk -C
 
 gitbook:
 	# mdslides build gitbook $(CONFIG) $(SOURCE) gitbook/ --glossary=$(GLOSSARY)
