@@ -9,19 +9,17 @@
 </only>
 
 
-## Changes 2026-??-??
-
+## 2026-01-16
 
 This update brings two substantial changes to S3 which and led to changes and revisions affecting many concepts, patterns and glossary terms: 
 
 1. We consolidated what started with the introduction of Requirements in 2022 into a coherent **Model for Purposeful Action**, which integrates Drivers and Requirement and Interventions. In the process we also made some changes to how to describe drivers and requirements, to make it easeier to see what is what, and also to highlight differences similarities. A driver is now described as current conditions(s) that lead to an effect of relevance to the organization, while a requirement is described as enabling condition(s) that are expected to lead to intended outcome(s)
 2. We renamed _Agreement_ to _Policy_, and revised and extended many pattern descriptions.
 
-
 **Key Concepts for Making Sense of Organizations**
 
 -   Added an introduction to [Key Concepts for Making Sense of Organizations](section:making-sense-of-organizations) that briefly explains all key concepts and their relationships
--  Integrated the existing introduction to drivers and requirements into an extensive explanation of the Model for Purposeful Action 
+-  Integrated the existing introduction to drivers and requirements into an extensive explanation of the [Model for Purposeful Action](section:purposeful-action) 
 -  Integrated the explanation of [Policy](glossary:policy) into the chapter about [Governance and Operations](section:governance), revised the text and expanded on distributing governance throughout the organzation
 -  Included [Complexity](section:complexity) as a key concept 
 
@@ -33,37 +31,11 @@ This update brings two substantial changes to S3 which and led to changes and re
 
 **Glossary**
 
-- **Renamed**    
+- **Changed**    
     - _Agreement_ to [Policy](glossary:policy)
     - Replaced _account for_ with _attend to_ (in relation to [Domains](glossary:domain))  
-
-TODO: make added and updated one line after we collected them all)
-
-- **Added**
-    - [Acceptance Criteria](glossary:acceptance-criteria)
-    - [Current Conditions](glossary:current-conditions)
-    - [Constraint](glossary:constraint)
-    - [Enabling Conditions](glossary:enabling-conditions)
-    - [Intended Outcome](glossary:intended-outcome)
-    - [Intervention](glossary:intervention)
-    - [Purpose](glossary:purpose)
-
-- **Updated**
-    
-    - [Deliverable](glossary:deliverable)
-    - [Governance](glossary:governance)
-    - [Governance Backlog](glossary:governance-backlog)
-    - [Key Responsibilities](glossary:key-responsibilities)
-    - [Objection](glossary:objection)
-    - [Objective](glossary:objective)
-    - [Organization](glossary:organization)
-    - [Organizational Driver](glossary:organizational-driver)
-    - [Policy](glossary:policy)
-    - [Requirement](glossary:requirement)
-    - [Strategy](glossary:strategy)
-    - [Team](glossary:team)
-    - [Value](glossary:value)
-    - [Waste](glossary:waste)
+- **Added**: [Acceptance Criteria](glossary:acceptance-criteria), [Current Conditions](glossary:current-conditions), [Constraint](glossary:constraint), [Enabling Conditions](glossary:enabling-conditions), [Intended Outcome](glossary:intended-outcome), [Intervention](glossary:intervention), [Purpose](glossary:purpose)
+- **Updated**: [Deliverable](glossary:deliverable), [Governance](glossary:governance), [Governance Backlog](glossary:governance-backlog), [Key Responsibilities](glossary:key-responsibilities), [Objection](glossary:objection), [Objective](glossary:objective), [Organization](glossary:organization), [Organizational Driver](glossary:organizational-driver), [Policy](glossary:policy), [Requirement](glossary:requirement), [Strategy](glossary:strategy), [Team](glossary:team), [Value](glossary:value), [Waste](glossary:waste)
 
 
 **Changes to Patterns**
@@ -98,8 +70,8 @@ _(none at this stage)_ ((really???)
 
 -    _Clarify Intended Outcomes_
 
-## Changes 2024-04-18
 
+## 2024-04-18
 
 **General Changes**
 
@@ -132,14 +104,14 @@ _(none at this stage)_ ((really???)
 -   removed _Delegate Influence_ 
 
 
-## Changes 2024-04-05
+## 2024-04-05
 
 -   More changes relating to Requirements 
     -   updated glossary: revised definitions for [Backlog](glossary:backlog) and [Governance Backlog](glossary:governance-backlog)
     -   Revised [Resolve Objections](section:resolve-objections), [Backlog](section:backlog), [Governance Backlog](section:governance-backlog) and [Governance Meeting](section:governance-meeting)
     -   revised recommended patterns in the [Common Sense Framework](section:csf)
 
-## Changes 2024-02-08
+## 2024-02-08
 
 -   introduced _Requirement_ as a core concept distinct from the _Driver_: 
     -   added an explanation of _Requirement_ to _Drivers and Requirements_
@@ -157,24 +129,24 @@ _(none at this stage)_ ((really???)
     -   added new definitions for [Requirement](glossary:requirement), [Standard Constraint](glossary:standard-constraint), [Overall Domain](glossary:overall-domain)
 
 
-## Changes 2022-04-26
+## 2022-04-26
 
 -   added detailed description and new illustrations to [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections) 
 
 
-## Changes 2022-04-05
+## 2022-04-05
 
 -   added detailed description and new illustrations to [Resolve Objections](section:resolve-objections) 
 
 
-## Changes 2022-02-04
+## 2022-02-04
 
 -   added detailed description of the [Consent Decision-Making](section:consent-decision-making) process 
 -   revised text of [Reasoned Decision-Making](section:reasoned-decision-making) 
 -   updated 20 illustration to align with style of new illustration for Consent Decision-Making 
 
 
-## Changes 2022-01-27
+## 2022-01-27
 
 -   added [Reasoned Decision-Making](section:reasoned-decision-making) 
 -   updated pattern categories: 
@@ -188,23 +160,25 @@ _(none at this stage)_ ((really???)
 -   revised text of [Driver Mapping](section:driver-mapping) (step 7) 
 
 
-## Changes 2021-09-22
+## 2017 - 2021
+
+### 2021-09-22
 
 -   fixed a link on the pattern map and added links to the principles 
 -   fixed some typos, minor revisions to the text 
 
 
-## Changes 2021-09-03
+### 2021-09-03
 
 -   revised text about [Objections](section:objection) as well as the definitions of [Objection](glossary:objection) and [Concern](glossary:concern) 
 
 
-## Changes 2021-08-15
+### 2021-08-15
 
 -   renamed _Open Domain_ to [Open Team](section:open-team) 
 
 
-## Changes 2021-06-18
+### 2021-06-18
 
 -   added a dedicated chapter for each of the Seven Principles 
 -   revised the ten principles of the Common Sense Framework 
@@ -215,36 +189,36 @@ _(none at this stage)_ ((really???)
 -   several small revisions 
 
 
-## Changes 2021-05-15
+### 2021-05-15
 
 -   [Navigate via Tension](section:navigate-via-tension): added more explanation about passing on drivers to another domain 
 -   [Clarify and Develop Domains](section:clarify-and-develop-domains): more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
 
 
-## Changes 2021-03-15
+### 2021-03-15
 
 -   updated the Seven Principles 
 
 
-## Changes 2021-02-19
+### 2021-02-19
 
 -   fixed several broken links on the online version 
 -   corrected a few typos 
 
 
-## Changes 2021-02-11
+### 2021-02-11
 
 -   [Driver Mapping](section:driver-mapping): added explanation about applications of the pattern, and detailed instructions for each step of the format 
 
 
-## Changes 2021-02-06
+### 2021-02-06
 
 -   Revised glossary definitions for [Semi-Autonomy](glossary:semi-autonomy), [Self-Organization](glossary:self-organization) and [Sociocracy](glossary:sociocracy) 
 -   Renamed Pattern: _Those Affected Decide_ to _Involve Those Affected_ 
 -   Several small corrections and revisions 
 
 
-## Changes 2021-02-03
+### 2021-02-03
 
 -   Added the **[Common Sense Framework](section:csf)** to the Practical Guide 
 -   A new structure of the Practical Guide that makes that the relevant parts easier to find: 
@@ -260,7 +234,7 @@ _(none at this stage)_ ((really???)
     -   A new layout for a cleaner experience on desktop and mobile devices
 
 
-## Changes 2021-01-12
+### 2021-01-12
 
 -   **Renamed Patterns:** 
     -   renamed _Clarify Domains_ to _Clarify and Develop Domains_
@@ -280,14 +254,14 @@ _(none at this stage)_ ((really???)
     -   added more information about the authors
 
 
-## Changes 2020-05-08
+### 2020-05-08
 
 -   revised all illustrations for a more consistent style and increased readability 
 -   revised introduction: more explanation about patterns and core concepts 
 -   updated glossary: revised explanation of [Delegator](glossary:delegator), [Delegatee](glossary:delegatee), [Role](glossary:role) and [Pattern](glossary:pattern), added [role keeper](glossary:role-keeper) 
 
 
-## Changes 2020-04-29
+### 2020-04-29
 
 -   Introduction: Added _Objection_ and _Agreement_ to concepts 
 -   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections) 
@@ -296,7 +270,7 @@ _(none at this stage)_ ((really???)
 -   [Record Agreements](section:record-governance-decisions): revised text, added more details of agreements that might be recorded, updated illustration 
 
 
-## Changes 2019-12-22
+### 2019-12-22
 
 -   added new introduction text 
 -   added "social technology" to glossary 
@@ -304,20 +278,20 @@ _(none at this stage)_ ((really???)
 -   ePub now looks much better 
 
 
-## Changes 2019-11-29
+### 2019-11-29
 
 -   Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the organization 
 -   Principle of Empiricism: clarified that only those assumptions one relies on need to be tested 
 
 
-## Changes 2019-06-27
+### 2019-06-27
 
 -   _Objection_: further refined definition of objection, and updated the glossary term for [objection](glossary:objection) accordingly 
 -   replaced "action" with activity in a few places where it made more sense 
 -   fixed a few typos 
 
 
-## Changes 2019-05-03
+### 2019-05-03
 
 -   refined glossary terms for [agreement](glossary:policy), [organization](glossary:organization) and [team](glossary:team), added glossary term for [objective](glossary:objective) 
 -   Principle of Accountability: clarified individual accountability for work as well as for collaboration 
@@ -331,7 +305,7 @@ _(none at this stage)_ ((really???)
 -   [Transparent Salary](section:open-salary): explained what a salary formula is 
 
 
-## Changes 2019-03-08
+### 2019-03-08
 
 **General Changes**
 
@@ -362,7 +336,7 @@ _(none at this stage)_ ((really???)
 -   [Resolve Objections](section:resolve-objections): added summary and description 
 
 
-## Changes 2018-08-17
+### 2018-08-17
 
 **General Changes**
 
@@ -443,14 +417,14 @@ _(none at this stage)_ ((really???)
 -   [Timebox Activities](section:timebox-activities) 
 
 
-## Changes 2018-03-21
+### 2018-03-21
 
 -   renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_ 
 -   [Describe Organizational Drivers](section:describe-organizational-drivers): explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need 
 -   added _need_ to glossary 
 
 
-## Changes 2017-11-16
+### 2017-11-16
 
 -   small corrections 
 -   aligned glossary entries for _Circle_ and _Role_ to pattern text 
@@ -458,7 +432,7 @@ _(none at this stage)_ ((really???)
 -   _Role_: clarified evolution of strategy 
 
 
-## Changes 2017-11-10
+### 2017-11-10
 
 -   various small clarifications and corrections 
 -   _Circle_: clarified relationship between circle and domain 
@@ -468,7 +442,7 @@ _(none at this stage)_ ((really???)
 -   added several terms to the glossary 
 
 
-## Changes 2017-10-21
+### 2017-10-21
 
 -   added Liliana David to authors 
 -   dropped the term "framework" (replaced with "practical guide") 
