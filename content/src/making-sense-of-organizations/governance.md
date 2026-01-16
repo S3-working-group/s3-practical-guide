@@ -41,7 +41,7 @@ It will usually be clear whether a situation should be handled through governanc
 
 **If there is no relevant policy**, make a decision whether it is worthwhile to use a formal governance process. Whenever you expect that how you handle the situation may have significant consequences, treat it as governance.
 
-![](img/purose-and-intervention/governance-or-operations.png)
+![](img/purposeful-action/governance-or-operations.png)
 
 
 ### When Is It Worthwhile to Follow a Formal Governance Process?
