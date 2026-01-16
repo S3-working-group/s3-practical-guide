@@ -216,7 +216,7 @@ The purpose of the work done by the delegatees is to provide value to their **cu
 
     **Customer:** _Current and potential customers_
 
-    **Deliverable**: _Regularly updated content such as blog posts, newsletters, and social media updates to inform the ustomer base about the latest company news, product developments, and industry insights, to strengthen brand loyalty and attract potential customers._
+    **Deliverable**: _Regularly updated content such as blog posts, newsletters, and social media updates to inform the customer base about the latest company news, product developments, and industry insights, to strengthen brand loyalty and attract potential customers._
 
 2. For the delegator of a marketing department:
 
@@ -395,7 +395,7 @@ Key challenges include:
 -   There are always some challenges that you need to address. Try to list at least three!
 -   Keep your descriptions objective.
 -   When identifying key challenges, consider customers, the outside world, the organization itself, the delegator, and the specific delegatees.
--   Managing a key challenge might become a key responsibility as well, e.g. "*ongoingly manage risk X*".
+-   Managing a key challenge might become a key responsibility as well, e.g. "*continuously manage risk X*".
 -   When deciding how to prepare or respond to key challenges, include the delegator if helpful.
 
 
@@ -447,7 +447,7 @@ When delegating responsibility for a domain to others, the delegator retains ove
 
 **List** any existing responsibilities related to this domain that the delegator had prior to delegation that they will keep, as well as information about new responsibilities that they take on to support the delegatees.
 
-**Recommended Format:** Describe Delegator Responsibilies as requirements, if useful describe the driver as well.
+**Recommended Format:** Describe Delegator Responsibilities as requirements, if useful describe the driver as well.
 
 **Examples:**
 
@@ -617,5 +617,5 @@ When designing a process for evaluation, ensure you consider the following aspec
     -   The team members' or role keeper's **competencies and skills** in relation to the domain.
     -   How well the **delegator** takes care of their **responsibilities**.
 -   The **[strategy](glossary:strategy)** the delegatees follow to fulfill the main requirement of the domain.
--   The **suitability** of each requirement detailed in the domain description for adressing its related driver.
+-   The **suitability** of each requirement detailed in the domain description for addressing its related driver.
 

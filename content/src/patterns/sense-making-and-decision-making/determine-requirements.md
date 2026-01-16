@@ -175,7 +175,7 @@ Instead of repeating such criteria with each requirement, it is simpler to maint
 
 When describing acceptance criteria, ensure they are verifiable, relevant, and complete:
 
--   **Verifyable**: clear pass/fail or measurable thresholds.
+-   **Verifiable**: clear pass/fail or measurable thresholds.
 -   **Relevant**: it contributes to the requirement's value in relation to the driver
 -   **Complete**: together they cover the full intent of the requirement.
 
