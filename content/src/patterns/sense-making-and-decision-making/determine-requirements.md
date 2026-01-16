@@ -14,14 +14,14 @@ Determine what's required to respond appropriately to an organizational driver b
 
 Determining a [requirement](glossary:requirement) before deciding on the specific steps to be taken helps define a **general direction** and **scope** for an intervention, while still allowing for a range of options on how to fulfill the requirement to respond to the driver in an effective way.
 
-As we mentioned in the section [A Model for Purposeful Action](section:a-model-for-purposeful-action) one way to understand work in organizations is as* people making interventions to fulfill a purpose.*
+As we mentioned in the section [A Model for Purposeful Action](section:a-model-for-purposeful-action) one way to understand work in organizations is as *people making interventions to fulfill a purpose.*
 
 Purpose informs, motivates, and guides action. Interventions are specific steps people take, and/or the constraints they put in place, to fulfill a purpose.
 
 To help people make sense of and clarify purpose, we use the concepts of *organizational drivers* and *requirements*.
 
 -   An **organizational driver** is any *situation* that is relevant for the organization to address.
--   A **requirement** is a future state** **considered valuable to establish or maintain in order to address a specific driver. 
+-   A **requirement** is a *future state* considered valuable to establish or maintain in order to address a specific driver. 
 -   The intervention can be understood as fulfilling the requirement that has been identified as suitable to address the driver. 
 
 In short, the driver explains the situation that makes the intervention relevant. The requirement serves both as an indication of the **direction** to go and as a clarification of the **scope** and **boundaries** of the intervention. 
@@ -29,7 +29,7 @@ In short, the driver explains the situation that makes the intervention relevant
 Usually, the people responsible for addressing a driver are also responsible for determining the corresponding requirement. In more complex situations, it can be helpful to involve people with diverse perspectives when determining the requirement, because they can surface blind spots, challenge assumptions, and improve shared understanding — leading to a clearer, more realistic, and more widely supported requirement.
 
 
-# Why Determine Requirements?
+## Why Determine Requirements?
 
 When people notice a problem or opportunity, there's a natural tendency to jump straight to an intervention ("let's do X"). That speed can be valuable, but it can also lead to avoidable problems: people might act on habits that are unsuitable for the current context, or they might overlook constraints and side effects, or end up in polarized conversations about what to do before they even agree on which direction to take. 
 
@@ -40,7 +40,7 @@ Determining a requirement, before deciding on specific steps to take or constrai
 **Even if you are the sole person responsible** for responding to an organizational driver, it's useful to clarify the requirement for yourself before deciding how to proceed. Deciding on a course of action is often more straightforward when the general direction and scope for such action are determined first.
 
 
-# When to Determine a Requirement?
+## When to Determine a Requirement?
 
 Determine a requirement **after** confirming that the situation you wish to address qualifies as an organizational driver, and that it's your or your team's responsibility to deal with it.
 
@@ -51,7 +51,7 @@ Avoid determining requirements for situations you don't plan to tackle soon, bec
 Even in the case that a suitable requirement is obvious (to you), it's still often worthwhile to make it explicit by recording it for future reference.
 
 
-# How to Describe a Requirement?
+## How to Describe a Requirement?
 
 An [organizational driver](glossary:organizational-driver) is a **present situation** that the organization would benefit from addressing. A requirement linked to a driver is a desired **future state**, in which the present situation is adequately addressed. The requirement defines direction and scope for a suitable intervention. 
 
@@ -83,7 +83,7 @@ Often, the stakeholder is implicit, and sometimes it's only necessary to describ
 3. (stakeholder) *Employees* (enabling conditions) *need to gain confidence and competence in applying the new procedure.*
 
 
-# How to Determine a Requirement?
+## How to Determine a Requirement?
 
 ![Determine the requirement](img/process/determine-requirement.png)
 

@@ -27,7 +27,7 @@ Note: A *worthwhile* improvement is one where the cost of making that improvemen
 
 ## Aim for “Good Enough for Now and Safe Enough to Try” Decisions.
 
-Creating a culture where people feel comfortable raising *possible* objections enables you to harness a diversity of perspectives and broaden your own. This culture of openness ensures that critical perspectives are not overlooked, which can otherwise hinder progress. If no one has an objection or if arguments that [qualify as objections](section:test-arguments-qualify-as-objections) have been [resolved](section:resolve-objections], a decision can be considered *good enough for now and safe enough to try*.
+Creating a culture where people feel comfortable raising *possible* objections enables you to harness a diversity of perspectives and broaden your own. This culture of openness ensures that critical perspectives are not overlooked, which can otherwise hinder progress. If no one has an objection or if arguments that [qualify as objections](section:test-arguments-qualify-as-objections) have been [resolved](section:resolve-objections), a decision can be considered *good enough for now and safe enough to try*.
 
 In the case of complex matters, striving for a perfect decision is futile. Complex systems are unpredictable, and what seems like a perfect solution may turn out to be unsuitable, not work in practice, or quickly become outdated. Approach decision-making iteratively and incrementally to encourage people to try things out instead of attempting to anticipate and account for all possibilities in advance.
 
@@ -39,7 +39,7 @@ A regular cadence for evaluating significant decisions ([policies](glossary:poli
 
 Not all arguments raised are objections, but they might reveal concerns.
 
-_{{define:concern}}__
+{{define:concern}}
 
 Concerns don’t prevent proposals from being accepted; only objections do. Nevertheless, considering people’s concerns can provide insight into how to further evolve proposals, existing decisions, and activities, including revealing ways to change things to alleviate those concerns. For policies, this may include adding further evaluation criteria or adjusting the frequency of evaluation. 
 

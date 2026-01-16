@@ -172,9 +172,9 @@ Examples of situations that qualified as organizational drivers:
 
 Making sense of such situations and establishing if they are indeed relevant for the organization to deal with, before deciding how to respond to them, brings several benefits:
 
--   Understanding a situation well is essential for determining what's required to address it adequately. (see[Respond to Organizational Drivers](section:respond-to-organizational-drivers))
--   Investigating a situation before acting helps avoid mistaken assumptions. (see [Navigate via Tension](section:navigate-via-tension)).
--   Describing a driver is an effective way of communicating with others, ensuring a shared understanding of the situation and why we must act. (see [Describe organizational Drivers](section:describe-organizational-drivers)).
+-   Understanding a situation well is essential for determining what's required to address it adequately (see [Respond to Organizational Drivers](section:respond-to-organizational-drivers)).
+-   Investigating a situation before acting helps avoid mistaken assumptions (see [Navigate via Tension](section:navigate-via-tension)).
+-   Describing a driver is an effective way of communicating with others, ensuring a shared understanding of the situation and why we must act (see [Describe organizational Drivers](section:describe-organizational-drivers)).
 -   Clarifying why you intend to act helps you evaluate outcomes effectively later and adapt based on learning.
 -   Recording an organizational driver in its current form also helps with monitoring if the driver changes over time.
 
@@ -450,7 +450,7 @@ Thinking through and defining interventions doesn't require exhaustive detail. U
 
 **Interventions** frequently include one or more **activities** along with **constraints** relating to those activities, such as who's responsible, due dates, or other important conditions. One entry in such a list might look like this: "_Sally will compile a report by Friday_." Presented together, they form a clear and useful description of the intervention, combining the activity itself (_compile the report_) and two constraints (_who_ will do it and _by when_), each of which corresponds to an implicit sub-requirement.
 
-In cases where fulfilling a requirement is so simple, obvious, or familiar that it directly implies what a suitable intervention would be, there is no need to spell it out explicitly. For example, if the requirement is to _"Inform people about the topics for tomorrow's meeting so they arrive prepared," _describing the intervention, _"Prepare and send out the agenda today,_" may be unnecessary.
+In cases where fulfilling a requirement is so simple, obvious, or familiar that it directly implies what a suitable intervention would be, there is no need to spell it out explicitly. For example, if the requirement is to _"_Inform people about the topics for tomorrow's meeting so they arrive prepared_," describing the intervention, "_Prepare and send out the agenda today_," may be unnecessary.
 
 The same can be true for more complicated or complex interventions if the people responsible already share a clear and sufficient understanding of what needs to be done and why.
 
@@ -479,7 +479,7 @@ Continuing from the example above regarding the fallout from the product unexpec
 -   **Intended outcome**: _The customer stays_.
 -   **Driver**: _Customer X had a negative experience when the product went down, expressed dissatisfaction, and threatened to leave._
 
-In some cases, when designing interventions, it can be adequate first to determine sub-requirements you consider suitable to fulfill in the course of fulfilling the main requirement, deferring more specific decisions about how to fulfill some or even all of those sub-requirements until later. For example, you might decide that "*participants have access to relevant information*," "*there is a clear way to raise concerns," and "facilitation is available when needed*" are essential sub-requirements for a productive decision-making process (main requirement), without yet specifying how to achieve this.
+In some cases, when designing interventions, it can be adequate first to determine sub-requirements you consider suitable to fulfill in the course of fulfilling the main requirement, deferring more specific decisions about how to fulfill some or even all of those sub-requirements until later. For example, you might decide that "*participants have access to relevant information*," "*there is a clear way to raise concerns*," and "*facilitation is available when needed*" are essential sub-requirements for a productive decision-making process (main requirement), without yet specifying how to achieve this.
 
 
 ### Policies: A Specific Kind of Intervention

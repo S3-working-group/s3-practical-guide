@@ -47,6 +47,6 @@ When involving people in decision-making, everyone understanding what objections
 In the case where people are responsible for making and evolving policies together on a regular basis, invest in everyone developing the necessary competence and skills. This includes learning basic communication skills and developing fluency in whichever decision-making processes you use.
 
 
-## Invite external influence
+## Invite External Influence
 
 Some decision-making will be improved through including a range of perspectives and expertise. When looking for people with a worthwhile perspective to bring, consider the wider organization and your external environment too. Who has valuable expertise or experience from elsewhere in the organization, and who are your customers, investors, and other stakeholders? All of these people are affected in some way by the consequences of the decisions you make. As well as being open to considering their suggestions and points of view, there might be times when actively inviting their opinion or involving them in certain decisions you need to make will inform you of better ways to achieve your goals.

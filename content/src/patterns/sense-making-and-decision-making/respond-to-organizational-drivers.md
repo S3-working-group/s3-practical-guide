@@ -26,7 +26,7 @@ While this approach sounds straightforward, acting in such a methodical and inte
 -   **Responding to irrelevant or low-priority situations**: Time and energy are wasted on issues that don't matter or don't align with broader goals.
 -   **Postponing or interrupting work on more important matters**: Focus is diverted from what actually needs attention, or too many issues are dealt with at once.
 -   **Jumping to action without clarifying scope and direction**: Intervening without considering what is a meaningful and appropriate result.
--   **Designing ineffective or misaligned interventions: **Actions fail to address the actual requirement or conflict with other efforts.
+-   **Designing ineffective or misaligned interventions**: Actions fail to address the actual requirement or conflict with other efforts.
 -   **Overlooking opportunities to learn and adapt**: Interventions are left unreviewed and unchanged, even when they are ineffective, leaving the situation they were meant to address unresolved.
 
 This pattern supports individuals and groups to **focus on what matters**, **consciously determine what's needed**, and **develop coherent, intentional interventions** suited to the situation, while still being flexible enough to react when new things come up that take priority. A structured, intentional approach helps ensure the best use of time and resources. 
@@ -97,7 +97,7 @@ After establishing that a situation is both relevant to respond to and a priorit
 
 {{define:requirement}}
 
-In some cases, you may be familiar with this kind of driver and how to deal with it, or you have an idea in mind. There may even be an existing policy that clarifies a suitable requirement. In such cases, proceed to the next step and decide how to fulfill the requirement. Or, if you also know how to fulfill that requirement, go to Step 5 (*Act Accordingly)* instead.
+In some cases, you may be familiar with this kind of driver and how to deal with it, or you have an idea in mind. There may even be an existing policy that clarifies a suitable requirement. In such cases, proceed to the next step and decide how to fulfill the requirement. Or, if you also know how to fulfill that requirement, go to Step 5 (*Act Accordingly*) instead.
 
 However, for new drivers where the requirement is unclear, for example, when there's no policy in place that offers guidance, the situation is complicated or complex, or there are many possible options, you will need to determine a suitable requirement:
 
@@ -111,7 +111,7 @@ See [Determine Requirements](section:determine-requirements) for more informatio
 
 ## Step 4: Determine the Intervention
 
-Once the requirement is clear, a suitable intervention can be determined to fulfill the requirement. However, if it's already obvious how to fulfill the requirement, or if an existing policy clarifies what to do, you can proceed to the next step (*Act Accordingly)*.
+Once the requirement is clear, a suitable intervention can be determined to fulfill the requirement. However, if it's already obvious how to fulfill the requirement, or if an existing policy clarifies what to do, you can proceed to the next step (*Act Accordingly*).
 
 {{define:intervention}}
 

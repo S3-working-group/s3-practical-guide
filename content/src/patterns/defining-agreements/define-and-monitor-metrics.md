@@ -97,7 +97,7 @@ This structured format ensures clarity, accountability, and alignment between me
 -   **Target**: Decrease average response time for customer requests by 30% over 4 weeks.
 -   **Triggers**: Exceeds 85% of baseline (after 4 weeks): team leads call a team meeting to assess the situation 
 
-** umber of Customer Complaints**
+**Number of Customer Complaints**
 
 -   **Description**: Total number of formal complaints received from customers within a given period.
 -   **Rate**: Weekly

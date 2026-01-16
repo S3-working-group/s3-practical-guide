@@ -21,7 +21,7 @@ When deciding on a suitable review date or frequency, consider factors like the 
 
 ## How to Evaluate and Evolve Policies
 
-Evaluating a policy can be as simple as checking whether it is still relevant and suitable for achieving the outcomes intended and whether there are any objections to keeping it as it is. Policies are often reviewed in [Governance Meetings](section:governance-meeting]. However, for more extensive or particularly complicated policies, or when a policy affects multiple stakeholders, it's sometimes more effective to schedule a session dedicated solely to the review.
+Evaluating a policy can be as simple as checking whether it is still relevant and suitable for achieving the outcomes intended and whether there are any objections to keeping it as it is. Policies are often reviewed in [Governance Meetings](section:governance-meeting). However, for more extensive or particularly complicated policies, or when a policy affects multiple stakeholders, it's sometimes more effective to schedule a session dedicated solely to the review.
 
 Before evolving the policy itself, consider that the policy is designed to fulfill a requirement, which in turn is meant to provide a suitable response to an organizational driver. Therefore, making necessary changes to the driver and requirement takes precedence over changes in the policy itself:
 

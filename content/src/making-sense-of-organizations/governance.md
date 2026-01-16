@@ -35,7 +35,7 @@ While doing the work and organizing day-to-day activities (operations) is essent
 
 ## How to Distinguish Between Governance and Operations?
 
-It will usually be clear whether a situation should be handled through governance or operationally.** For cases where it's unclear, first, check if an existing *policy* helps you decide.**
+It will usually be clear whether a situation should be handled through governance or operationally. **For cases where it's unclear, first, check if an existing *policy* helps you decide.**
 
 **For example**, a policy about handling security breaches can inform you whether a new incident can be resolved by implementing existing security protocols (operations) or whether it requires making a new decision with others about how to handle it (governance). 
 

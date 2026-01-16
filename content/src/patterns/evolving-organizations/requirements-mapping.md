@@ -46,14 +46,14 @@ In preparation:
 -   Prepare a poster with the domain description to present in the first step. You will also need A5 and rectangular sticky notes, pens and a wide wall to work.
 
 
-## The Requirements Mapping Process:
+## The Requirements Mapping Process
 
 These are the steps to follow:
 
 ![Requirements Mapping: Process](img/process/requirements-mapping.png)
 
 
-### 1. Why are we here?
+### 1. Why Are We Here?
 
 _Present and consent to the primary driver and main requirement._
 
@@ -64,7 +64,7 @@ _Present and consent to the primary driver and main requirement._
 -   Record any relevant information that comes up.
 
 
-### 2. Who will be impacted?
+### 2. Who Will Be Impacted?
 
 _Who will be impacted as we fulfill the related requirement? Consider who can help, stand in the way, benefit, lose, or be harmed._
 
@@ -72,7 +72,7 @@ _Who will be impacted as we fulfill the related requirement? Consider who can he
 -   Focus on actual people that will be impacted by this initiative (groups or individuals), and avoid making assumptions about future roles (such as _Project Manager_) or other domains (e.g. _Marketing_) at this stage.
 
 
-### 3. What is needed?
+### 3. What Is Needed?
 
 _Consider the various actors and describe what is needed: what do they need in context of the primary driver and main requirement, and what do we need from them?_
 
@@ -85,7 +85,7 @@ _Consider the various actors and describe what is needed: what do they need in c
 ![Requirements Mapping: A Requirement Card](img/templates/requirement-card.png)
 
 
-### 4. Identify experience and expertise
+### 4. Identify Experience and Expertise
 
 _Identify who has experience or expertise in responding to these needs, so that later, when people respond to a specific need, they know who might have valuable input._
 
@@ -112,7 +112,7 @@ Consider this step complete, as soon as you've agreed on a first iteration of a 
 As a facilitator, gently support the group in self-organizing, and be mindful of people dropping out of the conversation. This process often includes a phase that appears chaotic to some participants, which might make them feel uncomfortable. To test if a result is achieved, ask for objections to the domains being good enough for now.
 
 
-### 6. Populate & define Domains
+### 6. Populate & Define Domains
 
 _People organize into smaller teams around the different domains, then define the domain and give it a name._
 
@@ -158,7 +158,7 @@ _Create structure to manage dependencies and deal with matters that extend beyon
 -  For an existing organization, also consider connecting to existing domains in the organization.
 
 
-### 9. What else?
+### 9. What Else?
 
 _Take a moment to check if anything's missing._
 

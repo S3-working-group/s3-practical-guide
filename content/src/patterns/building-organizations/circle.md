@@ -43,7 +43,6 @@ Together, a circle's members share the responsibility for setting objectives and
 
 ## Responsibilities of a Circle's Members
 
-
 -   Collaborate to fulfill the domain's purpose.
 -   Contribute towards developing and evolving policies for improving effectiveness in fulfilling the domain's purpose. 
 -   Ensure transparency and accountability for decisions and actions.
@@ -53,10 +52,9 @@ Together, a circle's members share the responsibility for setting objectives and
 
 ## Associated Patterns
 
-
--   **Clarify and Develop Domains** — for defining the scope and authority of the circle.
--   **Linking and Double Linking** — for connecting circles and enabling information flow and influence.
--   **Role Selection** — for assigning specific responsibilities within the circle.
--   **Evaluate and Evolve Policies** — to continuously improve how the circle operates.
--   Consent Decision Making — for making decisions together.
--   Proposal Forming — for collaborating on creating proposals. \
+-   [Clarify and Develop Domains](section:clarify-and-develop-domains) — for defining the scope and authority of the circle.
+-   [Linking](section:linking) and [Double Linking](section:double-linking) — for connecting circles and enabling information flow and influence.
+-   [Role Selection](section:role-selection) — for assigning specific responsibilities within the circle.
+-   [Evaluate and Evolve Policies](section:evaluate-and-evolve-policies) — to continuously improve how the circle operates.
+-   [Consent Decision Making](section:consent-decision-making) — for making decisions together.
+-   [Proposal Forming](section:proposal-forming) — for collaborating on creating proposals. \

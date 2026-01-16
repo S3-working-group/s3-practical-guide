@@ -4,7 +4,6 @@
 Use the information revealed by an objection to identify ways to evolve proposals, policy and actions to a good-enough state. 
 </summary>
 
-
 <only presets="jekyll">
 **Table of Contents**
 
@@ -54,7 +53,7 @@ If there are no possible objections, proceed to step 6 (Celebrate), otherwise ta
 Below you'll find more guidance on how to go through each step. This process can be repeated until all objections have been resolved. As with all patterns in S3, your approach to resolving objections can be adjusted to suit your context. 
 
 
-## Step 1: Come up with a proposal for an amendment
+## Step 1: Come Up With a Proposal for an Amendment
 
 *Come up with a suggestion for how to amend the proposal to resolve the objection based on information the objection reveals.* 
 
@@ -69,7 +68,7 @@ As with any proposal, an amendment suggestion gives you a starting point that ca
 It's often helpful to repeat or summarize the amendment and write it down for everyone to see. 
 
 
-## Step 2: Understand amendment
+## Step 2: Understand Amendment
 
 *Ensure everyone understands the amendment being proposed.*
 
@@ -92,7 +91,7 @@ This step is simply about identifying who has possible objections or concerns. A
 
 Many groups use hand signs as a way to indicate quickly and clearly if anyone has any possible objections. 
 
-- In case there are possible objections to the suggested amendment, go on to the next step, Test One Argument Qualifies as Objection(link). 
+- In case there are possible objections to the suggested amendment, go on to the next step (*Test One Argument Qualifies as Objection*). 
 - If no one indicates having any possible objections, go to **Step 6: Celebrate**, because you've agreed on the amendment.
 
 
@@ -104,7 +103,7 @@ Please refer to [Test Arguments Qualify as Objections](section:test-arguments-qu
 - If the argument doesn't qualify, go back to **Step 3** to check if there are any further possible objections to the proposed amendment. 
 
 
-## Step 5: Resolve one Objection
+## Step 5: Resolve One Objection
 
 *Repeat the process: use the Resolve Objection pattern to resolve one objection to the amendment.* 
 

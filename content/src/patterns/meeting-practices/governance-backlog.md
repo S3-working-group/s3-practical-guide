@@ -8,17 +8,6 @@ Keep a dedicated, prioritized backlog for items that pertain to governance so th
 
 A governance backlog plays a key role in any reliable and transparent system of governance, because it contains information relating to a domain’s outstanding governance matters and allows you to remember and address them in the order of priority. Keeping a prioritized governance backlog is essential for planning regular [governance meetings](section:governance-meeting). It’s also useful for deciding which items are best addressed in a dedicated meeting versus those that can be handled effectively in other regular meetings such as product meetings, [planning meetings](section:planning-and-review-meetings), or [retrospectives](section:retrospective). 
 
-Visualizing all items related to governance and their progress using a Kanban-style board is helpful for tracking the status of each item. Visual representation ensures transparency and allows all stakeholders to stay informed about the current state of affairs. It is also helpful to link related governance items between boards if they concern multiple domains, or to related work items on operational boards, to facilitate addressing dependencies in a more coherent way.
-
-A typical **governance board** includes the following columns (as a minimum):
-
--   **Incoming**: unconfirmed drivers coming in from other domains or from team members 
--   **Backlog**: items that have been determined relevant, significant, and require a decision, in the order of priority
--   **Agenda**: items that will be addressed in the next governance meeting)
--   **Agreed**: items that were agreed upon (this could also be stored in a separate board)
-
-**Tips for Managing Overloaded Governance Boards:** If you find yourself overwhelmed by the number of items in your governance board, consider [limiting the number of items](section:limit-work-in-progress) for the backlog, or for other columns. If you exceed that limit, decide whether to archive the item or store it somewhere outside of the board. 
-
 Contents of a governance backlog:
 
 -   Drivers that need a [Requirement](glossary:requirement)
@@ -32,10 +21,25 @@ Contents of a governance backlog:
 Typical information to include with an item in a (prioritized) governance backlog:
 
 -   the situation that needs addressing 
--   the *next step(s)* for addressing the item (e.g. [determine requirement](section:determine-requirements), [form a proposal](section:proposal-forming), [test a proposal](section:consent-decision-making), [review an existing policy](section:evaluate-and-evolve-policies), [select someone for a role](section:evaluate-and-evolve-agreements), [test arguments](section:test-arguments-qualify-as-objections). and [resolve objections)](section:resolve-objections)
+-   the *next step(s)* for addressing the item (e.g. [determine requirement](section:determine-requirements), [form a proposal](section:proposal-forming), [test a proposal](section:consent-decision-making), [review an existing policy](section:evaluate-and-evolve-policies), [select someone for a role](section:evaluate-and-evolve-agreements), [test arguments](section:test-arguments-qualify-as-objections). and [resolve objections](section:resolve-objections)
 -   an estimate of the time required to reach the next step(s)
 -   what people need to do to prepare
 -   other interdependent items (including work items), along with other relevant information including reference to proposals, related policies, domain descriptions, etc.
 -   who added the item to the backlog (for clarification/questions)
 -   a due date (if necessary)
 -   the priority of the item (see [Prioritized Backlog](section:prioritize-backlogs))
+
+## Governance Boards
+
+Visualizing all items related to governance and their progress using a Kanban-style board is helpful for tracking the status of each item. Visual representation ensures transparency and allows all stakeholders to stay informed about the current state of affairs. It is also helpful to link related governance items between boards if they concern multiple domains, or to related work items on operational boards, to facilitate addressing dependencies in a more coherent way.
+
+A typical **governance board** includes the following columns (as a minimum):
+
+-   **Incoming**: unconfirmed drivers coming in from other domains or from team members 
+-   **Backlog**: items that have been determined relevant, significant, and require a decision, in the order of priority
+-   **Agenda**: items that will be addressed in the next governance meeting)
+-   **Agreed**: items that were agreed upon (this could also be stored in a separate board)
+
+**Tips for Managing Overloaded Governance Boards:** If you find yourself overwhelmed by the number of items in your governance board, consider [limiting the number of items](section:limit-work-in-progress) for the backlog, or for other columns. If you exceed that limit, decide whether to archive the item or store it somewhere outside of the board. 
+
+

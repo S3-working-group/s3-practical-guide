@@ -7,19 +7,22 @@ The principle of effectiveness invites us to think consciously about what we do 
 Pursuing effectiveness requires that we act with intent to minimize waste, remove impediments and, where possible, conduct ourselves in ways that over time, lead to the greatest value creation possible, through the synergy of our creativity, resources, energy and time. 
 
 
-## Clarify the why
+## Clarify the Why
 
 Being effective begins with getting clear about why you want to do something and establishing an approximate idea of what it is you want to achieve. Defining why the organization exists and the objectives it's trying to achieve helps everyone understand more about what they are working toward and about how they can contribute in a meaningful way. Without this clarity, it's hard for individuals to contextualize their work in the bigger picture. It's also harder to qualify and quantify what brings value and in which ways. 
 
-## Keep your options open
+
+## Keep Your Options Open
 
 There might be many ways to go about achieving your objectives and sometimes your first choice might fail to meet the need. Keep your options open to avoid getting stuck in a particular trajectory as you learn about ways to improve. Avoid converging too soon and take an iterative approach whenever you can. In complexity, find ways to test any hypotheses quickly, run multiple small experiments if possible, and travel light so that you can pivot fast.
 
-## Aim for being effective in an efficient way
+
+## Aim for Being Effective in an Efficient Way
 
 Effectiveness is about achieving the desired result, while efficiency is about doing things with the least waste of your effort, resources and time. It is entirely possible to do the "wrong" thing very efficiently, so before optimizing for efficiency, ensure the outcome is what you intended. Only then look for worthwhile improvements to produce the same outcome in a more efficient manner. 
 
-## Consider the bigger picture, monitor, evaluate and learn
+
+## Consider the Bigger Picture, Monitor, Evaluate and Learn
 
 Be on the lookout for possible side-effects and unintended consequences before, during and after any interventions you make. Consider direct and indirect costs and negative externalities and be prepared to evolve or change your activities or objectives, based on what you learn.
 
@@ -31,15 +34,16 @@ Decide how you will measure effectiveness, and if you're collaborating with othe
 
 Effectiveness can sometimes only be determined in retrospect. Pay attention to and reflect on the consequences of your actions,  and then use what you learn to improve your effectiveness next time. 
 
-## Be mindful of dependencies and constraints
+
+## Be Mindful of Dependencies and Constraints
 
 Aim to free everyone up to be able to act as autonomously as possible and do what you need to do to free yourself up as well. Make any necessary dependencies between certain individuals and teams explicit, and get together to co-create and evolve a coherent system to deal with them, so that you can still deliver value fast when dependencies cannot be avoided.
 
 Clarify any constraints in which you need to operate. What are the internal and external expectations, guidelines or rules? How do the implicit or explicit values of your organization and the wider context in which you are operating, enable or limit the decisions and actions you make? How will you operate within any specific boundaries? Who do you need to communicate with if you see an argument for changing something, or for making an exception to a rule?
 
-## Prioritize and choose wisely
+
+## Prioritize and Choose Wisely
 
 Set priorities and stick to them unless you become aware of a reason to change. Distractions, context switching and a lack of breaks or slack time will inevitably lead to waste. 
 
 As well as getting clear on what you WILL do, be clear on what NOT to do as well and aim to resolve impediments as they arise.
-

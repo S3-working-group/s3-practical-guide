@@ -13,10 +13,9 @@ Scheduling a regular Governance Meeting for a domain ensures that the time for g
 A structured and facilitated meeting with a clear, prioritized [agenda](section:prioritize-backlogs) supports a group in staying focused and productive. Adding a [timebox](section:timebox-activities) to each agenda item helps keep discussions on point. If certain items take too long to resolve, review their priority and consider whether additional information or resources are needed to progress.
 
 
-## The structure of a governance meeting
+## The Structure of a Governance Meeting
 
 A governance meeting is usually:
-
 
 -   facilitated
 -   prepared in advance
@@ -25,22 +24,19 @@ A governance meeting is usually:
 
 A typical governance meeting includes the following phases:
 
-
-
-1. Opening: [check in](section:check-in) with each other and attune to the objective of the meeting
-2. Administrative matters
+1.  Opening: [check in](section:check-in) with each other and attune to the objective of the meeting
+2.  Administrative matters
     -   Check for consent to the previous meeting’s minutes
     -   Agree on a date for the next meeting
     -   Check for any last-minute agenda items and for consent to the agenda
-3. Agenda items (see below)
-4. [Meeting evaluation](section:evaluate-meetings): reflect on your interactions, celebrate successes and share suggestions for improvement
-5. Closing: Check in with each other before you leave the meeting.
+3.  Agenda items (see below)
+4.  [Meeting evaluation](section:evaluate-meetings): reflect on your interactions, celebrate successes and share suggestions for improvement
+5.  Closing: Check in with each other before you leave the meeting.
 
 ![Phases of a governance meeting](img/meetings/governance-meeting.png)
 
 
-## Roles involved in a governance meeting:
-
+## Roles Involved in a Governance Meeting
 
 -   The [Meeting Host](section:meeting-host) is responsible for preparing and following up on the governance meeting.
 -   The [Logbook Keeper](section:logbook-keeper) records details of decisions, and keeps those records up to date and organized
@@ -61,7 +57,6 @@ Typical **agenda items** include:
 -   [Selecting people for roles](section:role-selection)
 
 For each agenda item, consider including the following details, to ensure clarity and help streamline preparations for the meeting:
-
 
 -   A **description** of the item
 -   An **item owner**, who is able to present the item and respond to questions 

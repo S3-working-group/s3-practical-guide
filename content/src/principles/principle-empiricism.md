@@ -9,7 +9,7 @@ Empiricism can help us to increase certainty and reduce self-delusion, so that w
 Observing and probing systems, and making use of experimentation to inform an iterative approach to change, supports ongoing learning and helps an organization continuously develop to remain effective and responsive to change.
 
 
-## Clarify your hypothesis
+## Clarify Your Hypothesis
 
 A hypothesis is a tentative explanation of a relationship between a specific cause and effect that is both testable and falsifiable. It provides a starting point for experiments that prove or disprove that hypothesis. 
 
@@ -22,7 +22,7 @@ One vital skill to develop when designing experiments is the ability to **distin
 In complex domains, a hypothesis-driven approach relies on experiments to validate or disprove hypotheses, so that you can find viable ideas or falsify them fast. Making sense of things through experimentation, not only enables you to more effectively achieve what you need or desire but it can also help you to validate assumptions you have about which objectives are worthwhile pursuing to start with.  
 
 
-## Design good experiments
+## Design Good Experiments
 
 An experiment is a controlled test designed to prove or disprove a hypothesis. Experiments provide you with validated learning about how to better respond to the challenges and opportunities you face. Outcomes often provide you with the opportunity to refine your hypothesis, or even develop new hypotheses that you can then test with further experiments.
 
@@ -30,7 +30,6 @@ Before you start an experiment, it's important to fully define and document it. 
 
 Define and document specific thresholds for success and failure of the experiment related to your variables and add details about this to your evaluation criteria. In particular, consider what you would accept as evidence that your hypothesis is false. While an experiment is running, avoid making changes to it, and if you do change something, document those changes, otherwise your measurements may become meaningless. It is vital that you **measure before starting the experiment** to ensure that the threshold for success is not already met because you made an error in your experiment's design.
 
-## Treat decisions as experiments
+## Treat Decisions as Experiments
 
 In a complex system, it is impossible to predict all of the ways in which that system will react to a particular intervention of change. Because of this you can apply the concept of experimentation to the way you approach decision-making as well. It's valuable to view all significant operational and governance decisions you make as experiments, and to document the intended outcome and evaluation criteria in each case. Make one decision at a time, starting with what appears to be an appropriate or logical starting point and evolve those decisions iteratively, based on what you learn.
-

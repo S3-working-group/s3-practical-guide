@@ -1,4 +1,4 @@
-# A pattern-based approach to organizational change
+# a Pattern-Based Approach to Organizational Change
 
 S3 offers a pattern-based approach to organizational change.
 

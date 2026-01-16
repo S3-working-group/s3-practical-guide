@@ -47,11 +47,11 @@ This first step ensures the purpose is clearly summarized, and it's the responsi
 
 -   As a general recommendation, aim to complete this step before the meeting. Doing so allows time to make any refinements in advance and save precious meeting time.
 -   If the driver or requirement is **not described clearly enough**, take time to clarify and make any necessary changes to the description until there are no further objections.
--   If the** driver is not relevant to this group**, pass it on to the appropriate person or team, or, if you decide that this is not an organizational driver at all, discard it.
+-   If the **driver is not relevant to this group**, pass it on to the appropriate person or team, or, if you decide that this is not an organizational driver at all, discard it.
 -   If participants consider the requirement is unsuitable, hear the argument(s) and if they qualify as objections, resolve them before continuing to the next step.
 
 
-## Step 2: Questions about the Purpose
+## Step 2: Questions About the Purpose
 
 *Deepen individual and shared understanding of the purpose (driver and requirement).*
 
@@ -94,7 +94,7 @@ Summary of this step:
 
 ### Collect and Categorize Information
 
-**Facilitator asks**: "*What constraints, available resources, or other relevant information are you aware of that might be valuable to keep in mind when designing this proposal? What information are you missing but might be helpful?"*
+**Facilitator asks**: "*What constraints, available resources, or other relevant information are you aware of that might be valuable to keep in mind when designing this proposal? What information are you missing but might be helpful?*"
 
 Collect constraints, resources, and other information in rounds and place them on the board. Answer any clarifying questions that may arise during that process.
 

@@ -31,7 +31,7 @@ In most cases, organizational drivers can be framed as either a problem to solve
 
 Here is an example of a driver framed as a **problem**: 
 
-(current conditions) *Information is unstructured, kept in silos, and sometimes unrecorded*, (effect) *leading to people working with missing or outdated information, *(relevance) *which results in ineffectiveness and our clients' needs being unmet.*
+(current conditions) *Information is unstructured, kept in silos, and sometimes unrecorded*, (effect) *leading to people working with missing or outdated information*, (relevance) *which results in ineffectiveness and our clients' needs being unmet.*
 
 The same driver framed as an **opportunity**: 
 
@@ -65,7 +65,7 @@ Here's an example that breaks down the description of an  organizational driver 
 -   Describe the conditions you observe, rather than describing assumptions about what might be missing or lacking. For example, avoid phrases like "*teams don't focus enough on resolving common issues*" or "*we are lacking coherence between teams*". This way of framing a situation obscures what is actually happening.
 -   Be **concise** and describe the essentials of what is happening, and, if necessary, the context in which it occurs. 
 -   Be **specific** and avoid vague and ambiguous statements (e.g. use "*to resolve local issues*" instead of "*to resolve some issues*". 
--   Be **objective** **and describe verifiable facts and observations. 
+-   Be **objective** and describe verifiable facts and observations. 
 -   Avoid evaluative language (e.g. use "*teams have autonomy*" instead of "*teams have too much autonomy*").
 
 
@@ -96,14 +96,14 @@ When you encounter a situation you believe is an organizational driver, sometime
 
 However, there will be times, especially when communicating about unfamiliar circumstances, or with people who are not directly involved, or when a collaborative decision is required, where being explicit about all three elements — current condition(s), (anticipated) effect(s), and relevance — will be necessary or valuable. 
 
-**Examples**:
+**Examples**
 
 -   *There's a fire in the office.*  — Stating the current condition is sufficient to imply the anticipated effects and the relevance of acting. 
 -   *Several team members are close to burnout.*  —  While this description indicates that the situation is worthwhile addressing, more context is needed to determine a suitable requirement. Explaining the current conditions that are at least in part causing this effect enables a better understanding of the situation, its relevance, and which conditions may need to change.
 -   *The weekly team meeting frequently overruns by ~30 minutes.* — As a standalone condition, this is insufficient to establish the relevance. By clarifying how the overrun affects other work in the organization (effect), the relevance of addressing it becomes clear.
 
 
-## More Examples:
+## More Examples
 
 Effect is already occurring:
 
@@ -112,7 +112,7 @@ Effect is already occurring:
 
 Effect is anticipated:
 
--   (current conditions)* We're preparing to recruit five new members into the development teams*, (anticipated effect) *and a lack of relevant training could lead to inefficiencies and errors*, (relevance) *and an overall decrease in team productivity and quality of work.*
+-   (current conditions) *We're preparing to recruit five new members into the development teams*, (anticipated effect) *and a lack of relevant training could lead to inefficiencies and errors*, (relevance) *and an overall decrease in team productivity and quality of work.*
 
 The effect is already occurring, and relevance is implicit:
 
