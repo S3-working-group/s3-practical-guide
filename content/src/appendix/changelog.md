@@ -9,59 +9,94 @@
 </only>
 
 
-## Changes 2025-??-??
+## Changes 2026-??-??
 
 
-**General Changes**
+This update brings two substantial changes to S3 which and led to changes and revisions affecting many concepts, patterns and glossary terms: 
 
--   Added an introduction to key concepts that briefly explains each concepts and their relationships
--   Integrated Purpose, Intervention, Driver and Requirement into a coherent Model for Purposeful Action, and explained that in the chapter page that was originally only about drivers and requirements. This led to an number of changes throughout the guide:
-    - revised Domains and delegation accordingly
-    - revised and expanded Respond to Org Drivers
--   We renamed the concept of Agreement to "Policy" (is now part of the governance/operations page)
--   updated page about governance, explained about setting objectives, what else? 
--   added page about complexity
-revise principle of equivalence, … which else?
-- define and monitor metrics: revised and extended pattern description, added examples
-- Evaluate and Evolve Policies - revised, added full description of format 
+1. We consolidated what started with the introduction of Requirements in 2022 into a coherent **Model for Purposeful Action**, which integrates Drivers and Requirement and Interventions. In the process we also made some changes to how to describe drivers and requirements, to make it easeier to see what is what, and also to highlight differences similarities. A driver is now described as current conditions(s) that lead to an effect of relevance to the organization, while a requirement is described as enabling condition(s) that are expected to lead to intended outcome(s)
+2. We renamed _Agreement_ to _Policy_, and revised and extended many pattern descriptions.
+
+
+**Key Concepts for Making Sense of Organizations**
+
+-   Added an introduction to [Key Concepts for Making Sense of Organizations](section:making-sense-of-organizations) that briefly explains all key concepts and their relationships
+-  Integrated the existing introduction to drivers and requirements into an extensive explanation of the Model for Purposeful Action 
+-  Integrated the explanation of [Policy](glossary:policy) into the chapter about [Governance and Operations](section:governance), revised the text and expanded on distributing governance throughout the organzation
+-  Included [Complexity](section:complexity) as a key concept 
+
+
+**Other Changes**
+
+- Revised the [Principle of Equivalence](principle:equivalence) (and related principles under review).
 
 
 **Glossary**
 
--   added purpose, condition, intervention, 
--   updated organization, requirement, governance
--   updated objective, organization, governance backlog 
--   added Intended Outcome , constraint
--   replaced account for with attend to (in relation to domains) 
--   governance backlog 
--   agreement -> policy (and updated definition) 
--   governance 
--   updated objection
--   updated: governance, key responsibilities, policy, strategy
+- **Renamed**    
+    - _Agreement_ to [Policy](glossary:policy)
+    - Replaced _account for_ with _attend to_ (in relation to [Domains](glossary:domain))  
+
+TODO: make added and updated one line after we collected them all)
+
+- **Added**
+    - [Acceptance Criteria](glossary:acceptance-criteria)
+    - [Current Conditions](glossary:current-conditions)
+    - [Constraint](glossary:constraint)
+    - [Enabling Conditions](glossary:enabling-conditions)
+    - [Intended Outcome](glossary:intended-outcome)
+    - [Intervention](glossary:intervention)
+    - [Purpose](glossary:purpose)
+
+- **Updated**
+    
+    - [Deliverable](glossary:deliverable)
+    - [Governance](glossary:governance)
+    - [Governance Backlog](glossary:governance-backlog)
+    - [Key Responsibilities](glossary:key-responsibilities)
+    - [Objection](glossary:objection)
+    - [Objective](glossary:objective)
+    - [Organization](glossary:organization)
+    - [Organizational Driver](glossary:organizational-driver)
+    - [Policy](glossary:policy)
+    - [Requirement](glossary:requirement)
+    - [Strategy](glossary:strategy)
+    - [Team](glossary:team)
+    - [Value](glossary:value)
+    - [Waste](glossary:waste)
+
 
 **Changes to Patterns**
 
--   governance backlog: 
--   circles; (and also revised Double-Linked Hierarchy accordingly)
--   updated Governance Meeting 
--   Record Governance Decisions: explained benefits, revised the template and the recommendations for what to include in a record 
--   revised to Consent Decision Making (Purpose, small revisions for clarity)
--   planning and review meeting 
--   updated summary of Evaluate and Evolve Agreements 
--   extedned the description io Clarify Intended Outcome, added examples 
+Many patterns were affected by the introduction of _Purpose_ and _Intervention_, and by renaming _Agreement_ to _Policy_, what is listed here are the patterns that underwent significant changes beyond that:
 
+- [Circle](section:circle): Updated and extended the pattern; corresponding revisions were also made to [Double-Linked Hierarchy](section:double-linked-hierarchy).
+- [Consent Decision-Making](section:consent-decision-making): updated according to the Model for Purposeful Action Purpose, improved overall clarity.
+- [Clarify and Develop Domains](section:clarify-and-developintended-outcome): simplfied examples, aligned with changes in Define and Monitort Metrics
+- [Define and Monitor Metrics](section:define-and-monitor-metrics): Expanded and revised the pattern description, and added practical examples.  
+- [Dermine Requirements](section:determine-requirements): completely revised the pattern, added new examples
+- [Evaluate and Evolve Policies](section:evaluate-and-evolve-policies): Added a full description of the format and improved clarity.
+- [Governance Backlog](section:governance-backlog): revised for alignment with updated concepts. 
+- [Governance Meeting](section:governance-meeting): updated for clarity and consistency.
+- [Planning and Review Meeting](section:planning-and-review-meeting): refined descriptions and improved flow.
+- [Proposal Forming](section:proposal-forming): simplified the format by clearly separating information gathering and generative phases, revised the text ad added examples.
+- [Record Governance Decisions](section:record-governance-decisions): expanded explanation of benefits, revised the template, and clarified recommendations for record contents.
+- [Respond to Organizational Drivers](section:respond-to-organizational-drivers): revised, aligned with model for purposeful action 
 
 **Renamed Patterns:**
 
 -   renamed _Evaluation Criteria_ to [Define and Monitor Metrics](section:define-and-monitor-metrics) 
 -   renamed _Record Agreements_ to [Record Governance Decisions](section:record-governance-decisions) 
+-   renamed _Driver Mapping_ to [Requirements-Mapping](section:requirements-mapping)
 
 **Added Patterns:** 
+
+_(none at this stage)_ ((really???)
 
 
 **Removed Patterns:**
 
--    Clarify Intended Outcomes
+-    _Clarify Intended Outcomes_
 
 ## Changes 2024-04-18
 
@@ -249,7 +284,7 @@ revise principle of equivalence, … which else?
 
 -   revised all illustrations for a more consistent style and increased readability 
 -   revised introduction: more explanation about patterns and core concepts 
--   updated glossary: revised explanation of [Delegator](glossary:delegator), [Delegatee](glossary:delegatee), [Role](glossary:role) and [Pattern](glossary:pattern), added [Rolekeeper](glossary:rolekeeper) 
+-   updated glossary: revised explanation of [Delegator](glossary:delegator), [Delegatee](glossary:delegatee), [Role](glossary:role) and [Pattern](glossary:pattern), added [role keeper](glossary:role-keeper) 
 
 
 ## Changes 2020-04-29
@@ -468,7 +503,7 @@ revise principle of equivalence, … which else?
 -   _Objections_: clarified qualifying objections 
 -   _Peer Review_: improved description 
 -   _Respond to Organizational Driver_: integrated information about qualifying drivers 
--   _Role_: clarified rolekeeper may maintain a governance backlog, introduced the term "rolekeeper" for a person in a role 
+-   _Role_: clarified role keeper may maintain a governance backlog, introduced the term "role keeper" for a person in a role 
 -   _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications 
 -   _Resolve Objections_: updated illustration to better reflect the process 
 
