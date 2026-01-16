@@ -210,7 +210,7 @@ parts:
             tags: [pattern]
           - id: limit-work-in-progress
             tags: [pattern]
-          - id: timebox-activities
+          - id: time-box-activities
             tags: [pattern]
           - id: coordinator
             tags: [pattern]

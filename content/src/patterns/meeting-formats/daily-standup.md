@@ -4,7 +4,7 @@
 Meet daily to organize work, facilitate learning and improve your productivity and effectiveness.
 </summary>
 
--   [timeboxed](glossary:timebox) (usually 15 minutes)
+-   [time-boxed](glossary:time-box) (usually 15 minutes)
 -   held daily at the same time
 -   the team gathers around a visible project management board/tool to:
     -   organize daily work

@@ -10,7 +10,7 @@ The main purpose of people’s efforts in any domain is to deliver value to the 
 
 Scheduling a regular Governance Meeting for a domain ensures that the time for governance is set aside and that all people responsible for making significant decisions (e.g. team members, [delegators](glossary:delegator), or [representatives](section:representative) from other domains) can be present, so that , so that challenges and opportunities are addressed promptly, and operations run smoothly over time.
 
-A structured and facilitated meeting with a clear, prioritized [agenda](section:prioritize-backlogs) supports a group in staying focused and productive. Adding a [timebox](section:timebox-activities) to each agenda item helps keep discussions on point. If certain items take too long to resolve, review their priority and consider whether additional information or resources are needed to progress.
+A structured and facilitated meeting with a clear, prioritized [agenda](section:prioritize-backlogs) supports a group in staying focused and productive. Adding a [time box](section:time-box-activities) to each agenda item helps keep discussions on point. If certain items take too long to resolve, review their priority and consider whether additional information or resources are needed to progress.
 
 
 ## The Structure of a Governance Meeting
@@ -19,7 +19,7 @@ A governance meeting is usually:
 
 -   facilitated
 -   prepared in advance
--   [timeboxed](section:timebox-activities) for 90-120 minutes
+-   [time-boxed](section:time-box-activities) for 90-120 minutes
 -   scheduled every 2-4 weeks
 
 A typical governance meeting includes the following phases:
@@ -65,5 +65,5 @@ For each agenda item, consider including the following details, to ensure clarit
     -   Who to reach out to for clarifications
     -   Links to any relevant documentation
 -   Which **process(es)** are required
--   A **[timebox](section:timebox-activities)** (how long you intend to spend on this item)
+-   A **time box* (how long you intend to spend on this item)
 -   What **[outcome](glossary:intended-outcome)** you wish to achieve in the meeting.

@@ -376,7 +376,7 @@ Interventions include both simple one-time tasks and longer-term activities or c
 -   Create an agenda for a meeting
 -   Responding to a customer inquiry
 -   Reviewing financial data
--   _Set_ a timebox for a meeting
+-   _Set_ a time box for a meeting
 -   Priority order of tasks or agenda items
 -   Assigned responsibility for specific tasks or roles
 -   Define the scope of work and decision-making authority for a role or team
@@ -402,7 +402,7 @@ Constraints can apply to specific tasks or activities, guide behaviour, or limit
 
 Examples of constraints:
 
--   A timebox for a meeting
+-   A time box for a meeting
 -   Priority order of tasks or agenda items
 -   Assigned responsibility for specific tasks or roles
 -   Defined scope of decision-making authority

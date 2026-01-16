@@ -1,7 +1,7 @@
 # Planning And Review Meetings
 
 <summary>
-Meet with your team at regular intervals (1-4 weeks) in timeboxed meetings to plan and review work.
+Meet with your team at regular intervals (1-4 weeks) in time-boxed meetings to plan and review work.
 </summary>
 
 Planning and review meetings serve as essential feedback loops in iterative work processes, providing a structured environment for teams to align on objectives, agree on work for the next iteration (or “sprint”), evaluate progress, and make necessary adjustments.
@@ -15,7 +15,7 @@ While the planning meeting is typically limited to team members, the review meet
 
 ## Planning Meeting
 
-Timebox the meeting to stay on track (typically 1-2 hours per week of iteration). 
+Time-box the meeting to stay on track (typically 1-2 hours per week of iteration). 
 
 
 -   Review the product backlog and select work items for the next iteration (the “iteration [backlog](section:backlog)”) by considering available capacity, estimated effort, priority, and dependencies.
@@ -26,7 +26,7 @@ Timebox the meeting to stay on track (typically 1-2 hours per week of iteration)
 
 ## Review Meeting
 
-Timebox the meeting to stay on track (typically 1 hour per week of iteration). Schedule any conversations requiring a significant amount of time for after the meeting.
+Time-box the meeting to stay on track (typically 1 hour per week of iteration). Schedule any conversations requiring a significant amount of time for after the meeting.
 
 -   Report which items in the iteration backlog have been completed and which are still unfinished.
 -   Share insights on what worked well and where improvements may be required. (Add those to the agenda for a [Retrospective](section:retrospective) meeting, but refrain from attempting to deal with them in the Review meeting, which should maintain focus on reviewing the actual work).
