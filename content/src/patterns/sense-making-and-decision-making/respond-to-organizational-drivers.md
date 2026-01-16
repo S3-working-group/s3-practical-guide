@@ -151,4 +151,4 @@ Reviewing **operational tasks** involves assessing the actual outcomes and check
 The process for **evaluating policies** typically benefits from a more structured and detailed approach. For guidance, see [Evaluate and Evolve Policies](section:evaluate-and-evolve-policies).
 
 
-![](img/purpose-and-interventions/inspect-and-adapt-mono.png)
+![](img/purposeful-action/inspect-and-adapt-mono.png)

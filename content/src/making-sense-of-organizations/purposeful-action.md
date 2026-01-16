@@ -20,7 +20,7 @@ In this chapter, you will explore four key concepts that help individuals and or
 
 One way to understand work in organizations is as _people making interventions to fulfill a purpose._
 
-![](img/purpose-and-interventions/purposeful-action-basic.png)
+![](img/purposeful-action/purposeful-action-basic.png)
 
 Purpose informs, motivates, and guides action. Interventions are specific steps people take, and/or the constraints they put in place, to fulfill a purpose.
 
@@ -45,11 +45,11 @@ One way to understand purpose is as the confluence of a _situation_ that is rele
 
 Clarifying both the organizational driver and the associated requirement makes it much easier to determine a suitable intervention.
 
-![](img/purpose-and-interventions/purposeful-action-full.png)
+![](img/purposeful-action/purposeful-action-full.png)
 
 There is also a **natural sequence** to this approach: A clear understanding of the situation of relevance is essential to determine a suitable requirement. Understanding the requirement itself (or at least, a grasp of a valuable outcome) is necessary to determine an appropriate intervention.
 
-![](img/purpose-and-interventions/understand-purpose.png)
+![](img/purposeful-action/understand-purpose.png)
 
 Breaking down the process of responding to relevant situations into distinct, sequential steps helps prevent misdiagnosis, reduce wasted effort, and avoid implementing solutions that fail to address the situation in a suitable way.
 
@@ -109,7 +109,7 @@ Just as a project or team within an organization can outlive its relevance, the 
 
 Within an organization, each team, role, decision, and action serves a purpose — whether that purpose is known, clearly understood, and defined or not. For an organization to be effective, it's important that every purpose people work toward fulfilling contributes to the organization's overall purpose and is not in contradiction to another purpose elsewhere in the organization. Similarly, and in addition to that, for a team or project to be effective, decisions and actions within a team or a project must also align with that team's or project's purpose and must not contradict any other decision or action.
 
-![](img/purpose-and-interventions/nested-purpose.png)
+![](img/purposeful-action/nested-purpose.png)
 
 Without such coherence, an organization may face numerous undesirable outcomes, such as conflicting decisions, unclear responsibilities, duplication of effort, or failure to take care of important work.
 
@@ -117,7 +117,7 @@ As an organization grows, complexity increases, and the connection between our i
 
 Developing and maintaining coherence across this complex, dynamic network of interrelated purposes is both necessary and challenging. It requires ongoing monitoring and evaluation of purposes, interventions, and actual outcomes to ensure that what works is reinforced and what does not is adapted or discarded.
 
-![](img/purpose-and-interventions/inspect-and-adapt-mono.png)
+![](img/purposeful-action/inspect-and-adapt-mono.png)
 
 
 ### Purpose, Value, and Waste
@@ -139,7 +139,7 @@ For familiar or obvious challenges or opportunities, it's easy to describe purpo
 
 In many situations, especially when things are new, uncertain, or complex, our understanding of what's going on and of what's required to respond may be more or less clear. Some aspects of a situation might be well understood, while others remain uncertain or entirely unknown. Therefore, it's helpful to have a way to describe purpose that reflects the clarity we have so far, while leaving space to evolve our understanding over time. This makes it easier to communicate, develop shared understanding, and regularly review and adjust our approach as we learn more.
 
-![](img/purpose-and-interventions/purposeful-action-purpose.png)
+![](img/purposeful-action/purposeful-action-purpose.png)
 
 To help people make sense of and clarify purpose, we use the concepts of _Organizational Drivers_ and _Requirements_:
 
@@ -219,7 +219,7 @@ Related Patterns:
 
 ## Requirements
 
-![](img/purpose-and-interventions/purposeful-action-reverse.png)
+![](img/purposeful-action/purposeful-action-reverse.png)
 
 A requirement connects a driver and the intervention intended to address it. It bridges the *problem space* and the *solution space*. Once it has been determined to be suitable for addressing a driver, a requirement is binding and sets the scope and direction for the intervention you define. In this sense, requirements function as constraints.
 
@@ -358,7 +358,7 @@ The distinction mirrors a broader pattern: each present-focused element (current
 
 The model of purposeful action rests on the observation that work in organizations can be understood as people making interventions to fulfill a purpose.
 
-![](img/purpose-and-interventions/purposeful-action-basic.png)
+![](img/purposeful-action/purposeful-action-basic.png)
 
 Now that we've clarified what purpose is and how it can be described in terms of drivers and requirements, the next step is to explain more about the nature and structure of interventions. After all, interventions are how people translate purpose into practice — they are the only means through which organizations create and deliver value: it's interventions that ultimately pay the bills.
 
@@ -427,7 +427,7 @@ This flexible structure of interventions lends itself to an iterative approach, 
 
 Following the model for purposeful action, there is a specific purpose (driver and requirement) for each of those sub-interventions. This recurring pattern of purpose and intervention reflects the complexity of organizational life: activities at one level of detail often reveal new drivers, requirements, and corresponding interventions at another.
 
-![](img/purpose-and-interventions/sub-interventions.png)
+![](img/purposeful-action/sub-interventions.png)
 
 Breaking down a more comprehensive intervention in this way is especially helpful when it involves:
 
