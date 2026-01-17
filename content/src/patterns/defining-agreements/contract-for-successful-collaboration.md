@@ -1,4 +1,4 @@
-# Contract For Successful Collaboration
+# Contract for Successful Collaboration
 
 <summary>
 Support successful collaboration from the start and build trust between parties by co-creating mutually beneficial and legally robust contracts.

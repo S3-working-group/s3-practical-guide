@@ -1,4 +1,4 @@
-# Be The Change
+# Be the Change
 
 <summary>
 Lead by example.

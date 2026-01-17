@@ -1,4 +1,4 @@
-# Planning And Review Meetings
+# Planning and Review Meetings
 
 <summary>
 Meet with your team at regular intervals (1-4 weeks) in time-boxed meetings to plan and review work.

@@ -32,7 +32,53 @@ However, there are circumstances where a helping team can be more appropriate th
 
  In any case, a helping team benefits from a [clearly defined domain](section:clarify-and-develop-domains) to ensure that expectations are clear to all involved.
 
+
 ## Examples for Helping Teams
 
 The following examples illustrate cases where, in their specific context, delegators chose to create a helping team.
 
+**Example 1: Customer Support Team in a Regulated Industry**
+
+A Head of Customer Support is responsible for regulatory interpretation, and support agents handle customer interactions:
+
+-   The Head of Customer Support defines scripts, boundaries, and escalation rules.
+-   Agents execute support work within strict constraints.
+-   Edge cases go to the governance backlog.
+-   Agents are invited to select a representative to participate in governance decisions.
+
+**Why Helping Team fits**: When legal risk makes decentralized governance inappropriate, and clear procedures dominate, effectiveness comes from speed and consistency.
+
+**Example 2: Event Production Crews for a Conference Director**
+
+ A Conference Director oversees the planning, strategic design, and governance of large professional or academic conferences, while execution is carried out by multiple specialized production crews.
+
+The director defines the conference design, strategies, standards, budgets, and key partnerships, and assigns a coordinator for each crew.
+
+The production crews operate within these constraints:
+
+-   **Logistics Crew** ensures operational execution, managing venues, catering, travel, accommodation, and on-site operations.
+-   **Program & Speaker Crew** coordinates speakers, workshops, and session schedules.
+**Communications & Registration Crew** handles attendee registration, communications, signage, and digital platforms.
+-   **Sponsorship & Vendor Crew** liaises with sponsors, exhibitors, and external vendors.
+
+Each crew escalates issues that exceed their delegated authority — such as budget reallocations, major contract changes, or reputational risks — to the director's governance backlog.
+
+**Why Helping Team fits**: Multiple specialized production crews can work in parallel, ensuring efficient execution of complex tasks while the director retains governance over strategic, financial, and reputational risks. Clear boundaries and escalation procedures allow teams to focus on execution, which often aligns with a team's preference under time pressure to "just get it done" rather than engage in governance debates that would slow progress.
+
+
+**Example 3: Assistant Pool for Senior Executive or Political Leader**
+
+A senior executive or political leader is accountable for strategic decisions, public representation, and overall governance. A pool of assistants supports their work, enabling the leader to focus on high-level priorities.
+
+The leader defines priorities, protocols, and decision thresholds for what the team can handle independently.
+
+The team executes a wide variety of tasks:
+
+-   Preparing briefs and research summaries.
+-   Drafting speeches, talking points, and public statements.
+-   Creating detailed itineraries for official engagements or journeys.
+-   Managing scheduling, correspondence, and logistics.
+
+Issues that exceed delegated authority, e.g., policy interpretation, sensitive decisions, or resource allocation, are escalated to the leader's governance backlog.
+
+**Why helping team fits**: Clear rules and escalation paths expand the leader's capacity without diluting accountability; strategic, reputational, and political risks require governance to remain centralized. Assistants benefit from clarity, structure, and the ability to act efficiently within defined boundaries.

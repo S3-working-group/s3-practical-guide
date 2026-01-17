@@ -1,4 +1,4 @@
-# Ask For Help
+# Ask for Help
 
 <summary>
 A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.

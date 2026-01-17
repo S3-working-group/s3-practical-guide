@@ -10,5 +10,4 @@ Work in progress includes:
 -   concurrent projects or tasks for teams or individuals
 -   products in a portfolio
 
-When an action would exceed an agreed upon limit of work items in progress, this needs to be brought up with the team before continuing.
-
+When a team member notices an action would exceed an agreed upon limit of work items in progress, they bring it with the team before continuing. The team then decides together how to proceed. 

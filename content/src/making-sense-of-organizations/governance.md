@@ -8,7 +8,7 @@
 
 </only>
 
-During their daily work, people come across many situations they need to address ([organizational drivers]glossary:organizational-driver)) and [requirements](glossary:requirement) they need to fulfill. In each case, they need to determine suitable [interventions](glossary:intervention), which may involve operations — doing the work — or governance: creating or evolving decisions about what work will be done (setting objectives) and how (guidelines, strategy, rules, etc.). 
+During their daily work, people come across many situations they need to address ([organizational drivers](glossary:organizational-driver)) and [requirements](glossary:requirement) they need to fulfill. In each case, they need to determine suitable [interventions](glossary:intervention), which may involve operations — doing the work — or governance: creating or evolving decisions about what work will be done (setting objectives) and how (guidelines, strategy, rules, etc.). 
 
 Making a clear distinction between *operations*—the day-to-day work of delivering value to customers — and *governance*—setting significant objectives and guiding people toward achieving them — ensures that governance matters are addressed in a deliberate, coherent, and incremental manner and, when worthwhile or necessary, through a participatory approach.
 
@@ -174,7 +174,7 @@ Each domain within an organization needs to be designed and evolved in a way tha
 For an organization to be effective, domains need to be designed and evolved with consideration for the wider system of domains within which they are embedded. Furthermore, the entire system of domains needs to be continuously evolved to ensure its ongoing effectiveness in fulfilling the organization's overall purpose. In some contexts, delivery of value is best served by giving delegatees authority to handle aspects of governance relating to their domain autonomously. In other contexts, effective governance requires collaboration across multiple domains, either because it is necessary or beneficial.  To determine the right balance of autonomy and dependencies, organizations may need to periodically redesign the distribution of governance across multiple domains, or even across the whole organization.
 
 
-### Distributing Governance Throughout the Organization
+### Who governs a domain?
 
 Each domain in an organization has a **governing body**: one or more people who are responsible for making governance decisions relating to the fulfillment of the purpose of that domain. Typically, the **governing body** consists of [the delegator](glossary:delegator) (those who created the domain) and often the [delegatee(s)](glossary:delegatee) who took on responsibility for attending to it. 
 
@@ -199,7 +199,7 @@ To determine how much authority for governance to delegate to a role keeper or t
 **Example**: *A team responsible for the marketing domain has the authority to decide which partnerships and collaborations to pursue to extend market reach. The team manages its own budget, but must clear anything that costs more than 5.000 with the delegator. Any decisions regarding campaign schedules must be made in collaboration with the Product team.*
 
 
-### Distribution of governance between delegator and delegatee(s) {#distribution-of-governance-between-delegator-and-delegatee-s}
+### Distribution of Governance Between Delegators and Delegatees
 
 Role keepers and teams often have responsibility for certain governance decisions, such as planning work and developing work processes. However, they may also take on responsibility for more consequential matters such as developing their own strategy, managing their own profit and loss, or even recruiting new team members.
 
@@ -210,7 +210,7 @@ Which governance matters to delegate depends on both the delegatees' level of co
 Making and evolving governance decisions requires a certain skillset, especially in cases where a collaborative approach is required. Understanding the governance process, as well as the various related practices, is essential for delegatees to effectively take on responsibility for governance. A delegator can also bring in a coach or facilitator to help the delegatees develop their capacity for governance decision-making, which will, over time, increase their capacity to effectively handle governance by themselves.
 
 
-### Distribution of Governance Between Delegator and Delegatee(s)
+### Addressing Dependencies Between Domains
 
 Determining the right balance of autonomy and dependency for each domain requires ongoing evaluation of its design in light of how it contributes to delivering value within the overall system of domains. This balance is specific to each domain and needs to be regularly assessed and evolved — whether by removing [unnecessary or unhelpful dependencies](section:enable-autonomy) to speed up decision-making, or addressing unavoidable (or helpful) dependencies by bringing in outside influence for certain governance decisions.
 
