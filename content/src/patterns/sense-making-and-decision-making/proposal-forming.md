@@ -149,7 +149,7 @@ Hear any questions about constraints, resources, or other information that are s
 Summary of this step: 
 
 -   **Collect generative questions**: hear questions and place them on the board
--   **Sort questions into three categories**: "_Essential_", "_Desirable_", and "_Maybe later_"
+-   **Sort questions into three categories**: "_Essential_", "_Desirable_", and "_Maybe Later._"
 
 **Note**: Do not attempt to answer the generative questions yet; that happens in the next step.
 

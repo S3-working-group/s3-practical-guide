@@ -450,7 +450,7 @@ Thinking through and defining interventions doesn't require exhaustive detail. U
 
 **Interventions** frequently include one or more **activities** along with **constraints** relating to those activities, such as who's responsible, due dates, or other important conditions. One entry in such a list might look like this: "_Sally will compile a report by Friday_." Presented together, they form a clear and useful description of the intervention, combining the activity itself (_compile the report_) and two constraints (_who_ will do it and _by when_), each of which corresponds to an implicit sub-requirement.
 
-In cases where fulfilling a requirement is so simple, obvious, or familiar that it directly implies what a suitable intervention would be, there is no need to spell it out explicitly. For example, if the requirement is to _"_Inform people about the topics for tomorrow's meeting so they arrive prepared_," describing the intervention, "_Prepare and send out the agenda today_," may be unnecessary.
+In cases where fulfilling a requirement is so simple, obvious, or familiar that it directly implies what a suitable intervention would be, there is no need to spell it out explicitly. For example, if the requirement is to "_Inform people about the topics for tomorrow's meeting so they arrive prepared_," describing the intervention ("_prepare and send out the agenda today_") may be unnecessary.
 
 The same can be true for more complicated or complex interventions if the people responsible already share a clear and sufficient understanding of what needs to be done and why.
 
