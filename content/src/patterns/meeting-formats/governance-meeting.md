@@ -1,7 +1,7 @@
 # Governance Meeting
 
 <summary>
-When you share responsibility for governance with others, hold regular, structured, and facilitated meetings to address a domain’s governance so that challenges and opportunities are addressed promptly and policies are frequently evaluated and improved. 
+When you share responsibility for governance with others, hold regular, structured, and facilitated meetings to address a domain’s governance so that challenges and opportunities are addressed promptly, and policies are frequently evaluated and improved. 
 </summary>
 
 In the case of a single individual attending to a domain without the need to involve others, it’s still valuable to schedule time for governance on a regular basis to develop your own policies that enable you to be and remain effective.

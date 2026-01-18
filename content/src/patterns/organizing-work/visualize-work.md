@@ -1,10 +1,10 @@
 # Visualize Work
 
 <summary>
-Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress or complete.
+Maintain a system that allows all stakeholders to review the state of all work items currently pending, in progress, or complete.
 </summary>
 
--   valuable for [self-organization](glossary:self-organization) and pull-systems
+-   valuable for [self-organization](glossary:self-organization) and pull systems
 -   system must be accessible to everyone affected
 -   **analog:** post-its on a wall, or index cards, magnets and white board
 -   **digital:** [Trello](https://trello.com/), [Kanbanize](https://kanbanize.com/), [Leankit](https://leankit.com/), [Miro](https://miro.com), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.

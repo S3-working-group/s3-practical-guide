@@ -1,7 +1,7 @@
 # Daily Standup
 
 <summary>
-Meet daily to organize work, facilitate learning and improve your productivity and effectiveness.
+Meet daily to organize work, facilitate learning, and improve your productivity and effectiveness.
 </summary>
 
 -   [time-boxed](glossary:time-box) (usually 15 minutes)
