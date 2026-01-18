@@ -351,7 +351,7 @@ Both concepts represent states in a system, yet they occupy distinct positions i
 
 The distinction mirrors a broader pattern: each present-focused element (current conditions, effects, relevance) has a corresponding future-focused counterpart (enabling conditions, intended outcomes, relevance). Together, these pairs help clarify both why action is needed now and what is believed necessary to move toward a preferable state.
 
-![](img/purposeful-action/driver-requirement-table)
+![](img/purposeful-action/driver-requirement-table.png)
 
 
 ## Interventions: Turning Purpose into Action
