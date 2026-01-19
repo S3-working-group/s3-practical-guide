@@ -38,4 +38,30 @@ article.homepage {
     color: darken( $hp-box-grey-color-main, 15%);
   }
 
+  .illu-box {
+  height: 120px; // or: clamp(80px, 15vw, 120px)
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+    img {
+      max-height: 100%;
+      max-width: 100%;
+      object-fit: contain;
+    }
+    img.logo-square {
+      max-height: 60%; // tune until it matches optically
+    }
+  }
+
+.link-tile {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 }
