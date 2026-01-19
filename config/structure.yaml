@@ -226,24 +226,10 @@ parts:
     parts:
       - thrive
       - ten-principles
-      - id: orientation
-        parts:
-          - principle-1-clarify-purpose
-          - principle-2-develop-strategy
-      - id: navigation
-        parts:
-          - principle-3-focus-on-value
-          - principle-4-sense-respond
-          - principle-5-run-experiments
-      - id: structure
-        parts:
-          - principle-6-enable-autonomy
-          - principle-7-collaborate-on-dependencies
-      - id: transformation
-        parts:
-          - principle-8-invest-in-learning
-          - principle-9-develop-culture
-          - principle-10-shared-mental-models
+      - orientation
+      - navigation
+      - structure
+      - transformation
       - where-to-start
   - id: appendix
     parts:
