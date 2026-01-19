@@ -74,8 +74,6 @@ parts:
             tags: [pattern]
           - id: open-systems
             tags: [pattern]
-          - id: create-a-pull-system-for-organizational-change
-            tags: [pattern]
           - id: requirements-mapping
             tags: [pattern]
       - id: peer-development
@@ -93,8 +91,6 @@ parts:
         tags: [group]
         parts:
           - id: artful-participation
-            tags: [pattern]
-          - id: adopt-the-seven-principles
             tags: [pattern]
           - id: agree-on-values
             tags: [pattern]
@@ -138,11 +134,15 @@ parts:
       - id: bringing-in-s3
         tags: [group]
         parts:
+          - id: create-a-pull-system-for-organizational-change
+            tags: [pattern]          
           - id: adapt-patterns-to-context
             tags: [pattern]
           - id: be-the-change
             tags: [pattern]
           - id: invite-change
+            tags: [pattern]
+          - id: adopt-the-seven-principles
             tags: [pattern]
           - id: open-space-for-change
             tags: [pattern]
