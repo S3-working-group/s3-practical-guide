@@ -25,3 +25,11 @@ If you create a derivative work, you must give appropriate credit, and indicate 
 
 You can find out more about attribution on the [Creative Commons page about best practices for attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
 
+## Supporting the Work
+Publishing this book and maintaining Sociocracy 3.0 as free and openly licensed material requires ongoing effort: research, writing, editing, maintenance, and community support.
+
+If you find this work useful and want to support the continued development of Sociocracy 3.0 and the publication of free learning resources under a Creative Commons license, you can make a financial contribution here:
+
+<https://payment.sociocracy30.org/donation/>
+
+You will receive a receipt for your donation.
