@@ -1,22 +1,14 @@
 # A Model for Purposeful Action
 
 <only presets="jekyll">
-**Table of Contents**
-
--   toc
-{:toc}
-
-</only>
-
 In this chapter, you will explore four key concepts that help individuals and organizations navigate their work more effectively:
 
--   [Purpose](glossary:purpose)
+-   [Purpose](section:purposeful-action#purpose)
 -   [Organizational Driver](glossary:organizational-driver)
 -   [Requirement](glossary:requirement)
 -   [Intervention](glossary:intervention)
 
-
-## Overview
+</only>
 
 One way to understand work in organizations is as _people making interventions to fulfill a purpose._
 
