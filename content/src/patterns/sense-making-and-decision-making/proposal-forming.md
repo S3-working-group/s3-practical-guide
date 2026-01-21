@@ -211,7 +211,7 @@ In this step, everyone shares ideas about how to fulfill the determined requirem
 -   To increase meeting effectiveness, you can also prepare by recording your ideas in advance and bringing them to the meeting.
 
 
-## Step 6: Choose Tuners {#step-6-choose-tuners}
+## Step 6: Choose Tuners
 
 *Delegate responsibility for putting together a proposal to 2 — 3 people (tuners).*
 
@@ -235,7 +235,7 @@ When choosing Tuners, consider who has suitable experience and expertise, the le
 **Note**: Tuners take responsibility for ensuring the proposal is well designed. They may create it themselves or invite others to contribute if it's necessary or valuable to do so.
 
 
-## Step 7: Tuners Design Proposal {#step-7-tuners-design-proposal}
+## Step 7: Tuners Design Proposal
 
 *The tuners design a proposal based on the information gathered in the previous steps.*
 
