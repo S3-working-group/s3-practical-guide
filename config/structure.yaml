@@ -146,8 +146,6 @@ parts:
             tags: [pattern]
           - id: open-space-for-change
             tags: [pattern]
-          - id: continuous-improvement-of-work-process
-            tags: [pattern]
       - id: defining-agreements
         tags: [group]
         parts:
@@ -210,6 +208,8 @@ parts:
             tags: [pattern]
           - id: limit-work-in-progress
             tags: [pattern]
+          - id: continuous-improvement-of-work-process
+            tags: [pattern]            
           - id: time-box-activities
             tags: [pattern]
           - id: coordinator
