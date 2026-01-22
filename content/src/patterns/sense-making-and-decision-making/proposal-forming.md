@@ -18,12 +18,12 @@ Proposal Forming is a process that guides people in designing a proposal for an 
 
 When used by a group, it helps draw on the collective intelligence and diversity of perspectives to understand context and generate ideas for fulfilling a purpose; its participatory nature fosters creativity, accountability, and a strong sense of ownership among stakeholders. The same underlying structure — and parts of the step design — remain valuable without live collaboration, so groups can apply it asynchronously in time-boxed stages, and individuals can use it on their own when designing significant interventions. The process unfolds through the following steps:
 
-1. **Consent to Purpose**: *Check that the [purpose](glossary:purpose) is clearly summarized and relevant for the group to address.* 
-2. **Questions about the Purpose**: Deepen individual and shared understanding of the purpose.
+1. **Consent to purpose**: *Check that the [purpose](glossary:purpose) is clearly summarized and relevant for the group to address.* 
+2. **Questions about the purpose**: Deepen individual and shared understanding of the purpose.
 3. **Information gathering**: *Document any constraints, available resources, and other information relevant to consider when designing the intervention.*
 4. **Generative questions**: Capture open questions that reveal essential or desirable requirements the proposal should fulfill.
 5. **Collect ideas**: Generate and record ideas about how to fulfill the purpose.
-6. **Choose tuners**: Delegate responsibility for putting together a proposal to 2 — 3 people (tuners).
+6. **Choose [tuners](glossary:tuners)**: Delegate responsibility for putting together a proposal to 2-3 people.
 7. **Tuners design proposal**: The tuners design a proposal based on the information gathered in the previous steps.
 
 ![Proposal forming process](img/policy/proposal-forming.png)
@@ -213,11 +213,11 @@ In this step, everyone shares ideas about how to fulfill the determined requirem
 
 ## Step 6: Choose Tuners
 
-*Delegate responsibility for putting together a proposal to 2 — 3 people (tuners).*
+*Delegate responsibility for creating a proposal to 2-3 people (tuners).*
 
-**Tuners** are individuals chosen by the group. Their task is to consider all the information and ideas the group has collected and prepare a proposal for how to fulfill the purpose. Tuners can choose one or more of the ideas, synthesize them, or come up with new ones. 
+**Tuners** use the information and ideas collected in previous steps to design a coherent proposal: They review all input, select or combine promising ideas, and, if needed, introduce new elements to ensure the proposal effectively addresses the purpose. "Tuners" refers to their role in bringing diverse ideas into resonance.
 
-**Note**: The **tuners are not responsible for making a final decision**. Their task is to ensure a proposal is created based on the information gathered in the previous steps. The output of the Proposal Forming process is a proposal that can later be tested and, if necessary, evolved using the Consent Decision Making process.
+The Tuners **do not make final decisions**. Their role is to produce a proposal that can later be evaluated, tested, and refined through the [Consent Decision Making process](section:consent-decision-making).
 
 When choosing Tuners, consider who has suitable experience and expertise, the level of investment, who is inspired and willing, and who has diverse perspectives or an outside point of view.
 

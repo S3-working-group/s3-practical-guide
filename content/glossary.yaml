@@ -275,6 +275,9 @@ terms:
     name: Transparency (principle)
     definition:
     glossary: "**Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole."
+  tuners:
+    name: Tuners
+    glossary: Tuner use the information and ideas collected in Proposal Forming to design a coherent proposal. They do not make a final decisions.
   value:
     name: Value
     definition: "**Value** is the importance, worth or usefulness of something for fulfilling a purpose."

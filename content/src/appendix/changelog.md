@@ -55,7 +55,7 @@ Besides the Model of Purposeful Action, there are several other significant upda
 - **Changed**    
     - _Agreement_ to [Policy](glossary:policy)
     - Replaced _account for_ with _attend to_ (in relation to [Domains](glossary:domain))  
-- **Added**: [Acceptance Criteria](glossary:acceptance-criteria), [Current Conditions](glossary:current-conditions), [Constraint](glossary:constraint), [Enabling Conditions](glossary:enabling-conditions), [Intended Outcome](glossary:intended-outcome), [Intervention](glossary:intervention), [Purpose](glossary:purpose)
+- **Added**: [Acceptance Criteria](glossary:acceptance-criteria), [Current Conditions](glossary:current-conditions), [Constraint](glossary:constraint), [Enabling Conditions](glossary:enabling-conditions), [Intended Outcome](glossary:intended-outcome), [Intervention](glossary:intervention), [Purpose](glossary:purpose), [Tuners](glossary:tuners)
 - **Updated**: [Deliverable](glossary:deliverable), [Governance](glossary:governance), [Governance Backlog](glossary:governance-backlog), [Key Responsibilities](glossary:key-responsibilities), [Objection](glossary:objection), [Objective](glossary:objective), [Organization](glossary:organization), [Organizational Driver](glossary:organizational-driver), [Policy](glossary:policy), [Requirement](glossary:requirement), [Strategy](glossary:strategy), [Team](glossary:team), [Value](glossary:value), [Waste](glossary:waste)
 
 
