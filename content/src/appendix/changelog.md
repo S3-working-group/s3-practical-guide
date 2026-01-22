@@ -1,13 +1,5 @@
 # Changelog
 
-<only presets="jekyll">
-**Table of Contents**
-
--   toc 
-{:toc}
-
-</only>
-
 
 ## 2026-01-16
 
