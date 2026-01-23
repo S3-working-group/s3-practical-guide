@@ -255,10 +255,6 @@ terms:
     name: Superdomain
     definition:
     glossary: A domain that fully contains another domain. 
-  task:
-    name: Task
-    definition: A **task** is a specific piece of work that can be assigned to a person or team, ranging from a simple assignment to complex undertakings.
-    glossary: A specific piece of work that can be assigned to a person or team, ranging from a simple assignment to complex undertakings.
   team:
     name: Team
     definition:
@@ -277,7 +273,8 @@ terms:
     glossary: "**Record all information that is valuable for the organization and make it accessible to everyone in the organization, unless there is a reason for confidentiality**, so that everyone has the information they need to understand how to do their work in a way that contributes most effectively to the whole."
   tuners:
     name: Tuners
-    glossary: Tuner use the information and ideas collected in Proposal Forming to design a coherent proposal. They do not make a final decisions.
+    glossary: One or more people who use the information and ideas collected in Proposal Forming to design a coherent proposal (not a final decision).
+
   value:
     name: Value
     definition: "**Value** is the importance, worth or usefulness of something for fulfilling a purpose."

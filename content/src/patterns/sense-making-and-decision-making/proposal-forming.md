@@ -213,11 +213,12 @@ In this step, everyone shares ideas about how to fulfill the determined requirem
 
 ## Step 6: Choose Tuners
 
-*Delegate responsibility for creating a proposal to 2-3 people (tuners).*
+*Delegate responsibility for creating a proposal to 2-3 people (the tuners).*
 
-**Tuners** use the information and ideas collected in previous steps to design a coherent proposal: They review all input, select or combine promising ideas, and, if needed, introduce new elements to ensure the proposal effectively addresses the purpose. "Tuners" refers to their role in bringing diverse ideas into resonance.
+**Tuners** use the information and ideas collected in previous steps to design a coherent proposal. They review all input, select or combine promising ideas, and, if needed, introduce new elements to ensure the proposal effectively addresses the purpose. The term “Tuners” refers to the process of tuning a piano to create harmony and resonance. Tuners take the diverse input provided by the group and ‘tune’ it into a coherent form.
 
-The Tuners **do not make final decisions**. Their role is to produce a proposal that can later be evaluated, tested, and refined through the [Consent Decision Making process](section:consent-decision-making).
+The Tuners do not make the final decision. Their responsibility is to produce a proposal that can later be evaluated, tested, and refined through the
+ [Consent Decision Making process](section:consent-decision-making).
 
 When choosing Tuners, consider who has suitable experience and expertise, the level of investment, who is inspired and willing, and who has diverse perspectives or an outside point of view.
 
