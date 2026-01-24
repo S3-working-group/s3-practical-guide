@@ -1,88 +1,67 @@
 # Changelog
 
 
-## 2026-01-16
+## 2026-01-24
 
-This update brings a substantial change to the foundations of S3, lots of revisions affecting many concepts, patterns, and glossary terms, as well as significant changes to several patterns.
+This update brings substantial changes to the foundations of S3, including several revisions that affect many concepts, patterns, and glossary terms, as well as significant changes to several patterns.
 
-**Model for Purposeful Action**
+**Changes to Key Concepts**
 
-We consolidated the work that began with the introduction of *Requirements* (2022) into a single, coherent **Model for Purposeful Action**, which is explained in detail in the **Key Concepts** section. The model introduced **Purpose** and **Interventions** as explicit elements and integrates them consistently with **Drivers** and **Requirements**. This model is foundational for understanding S3 in its current form.
+-   Introduction: Added an introduction to the section that briefly outlines all key concepts and their relationships.
+-   Added **[Model for Purposeful Action](section:purposeful-action)**: We consolidated the work that began with the introduction of Requirements (2022) into a single, coherent model, which is foundational for understanding Sociocracy 3.0 in its current form. It introduces **[Purpose](glossary:purpose)** and **[Interventions](glossary:intervention)** as explicit concepts and integrates them consistently with Drivers and Requirements.
+-   **Drivers and Requirements**: Refined descriptions to make their roles, differences, and overlaps more explicit:
+    -   **Driver**: *Current conditions* (instead of "current situation") that lead to an *effect* of relevance to the organization.
+    -   **Requirement**: *Enabling conditions* (instead of "need") expected to lead to *intended outcomes* (instead of "anticipated impact").
+-   **[Governance and Operations](section:governance)**: Revised and extended the chapter, and added a section about distributing governance throughout the organization.
+-   Renamed the concept of "agreement" to **[Policy](glossary:policy)** and integrated it into the chapter about Governance and Operations. "Agreement" remains in use throughout the guide as a general term.
+-   Added **examples** where possible to support understanding and correct interpretation.
+-   Added the concept of **[Complexity](section:complexity)**.
 
+**Changes to Principles**
 
-**Clarifications to Core Concepts**
-
-* Refined the descriptions of **Drivers** and **Requirements** to make their roles, differences, and overlaps more explicit:
-    * **Driver**: current conditions that lead to an effect of relevance to the organization.
-    * **Requirement**: enabling conditions expected to lead to intended outcomes.
-* Renamed *Agreement* to *Policy*
-* Aligned terminology and framing across the model to improve conceptual clarity. \
-
-
-**Updates** to Patterns and Glossary Terms 
-
-
-* Updated pattern descriptions and glossary entries to reflect the revised model, resulting in numerous subtle and several significant changes.
-* Added examples where possible to support understanding and correct interpretation.
-
-**Key Concepts for Making Sense of Organizations**
-
-Besides the Model of Purposeful Action, there are several other significant updates to the Key Concepts section:
+- **[Principle of Equivalence](section:principle-equivalence)**: Addressed tension between distributed authority and effective governance in complex organizations.
 
 
--   Added an introduction to [Key Concepts for Making Sense of Organizations](section:making-sense-of-organizations) that briefly explains all key concepts and their relationships
--  Integrated the [Policy] into the revised and extended chapter about Governance and Operations, integrated the concept of policy, and explained distributing governance throughout the organization
+**Glossary Updated**
 
--  Integrated [Policy](glossary:policy) into the revised and extended chapter about [Governance and Operations](section:governance), and added a section about distributing governance throughout an organzation
--  Included [Complexity](section:complexity) as a key concept 
-
-
-**Other Changes**
-
-- Revised the [Principle of Equivalence](section:principle-equivalence) (and related principles under review).
-
-
-**Glossary**
-
-- **Changed**    
-    - _Agreement_ to [Policy](glossary:policy)
+- **Changed**
+    - _Agreement_ to [Policy](glossary:policy) and revised the definition
     - Replaced _account for_ with _attend to_ (in relation to [Domains](glossary:domain))  
 - **Added**: [Acceptance Criteria](glossary:acceptance-criteria), [Current Conditions](glossary:current-conditions), [Constraint](glossary:constraint), [Enabling Conditions](glossary:enabling-conditions), [Intended Outcome](glossary:intended-outcome), [Intervention](glossary:intervention), [Purpose](glossary:purpose), [Tuners](glossary:tuners)
-- **Updated**: [Deliverable](glossary:deliverable), [Governance](glossary:governance), [Governance Backlog](glossary:governance-backlog), [Key Responsibilities](glossary:key-responsibilities), [Objection](glossary:objection), [Objective](glossary:objective), [Organization](glossary:organization), [Organizational Driver](glossary:organizational-driver), [Policy](glossary:policy), [Requirement](glossary:requirement), [Strategy](glossary:strategy), [Team](glossary:team), [Value](glossary:value), [Waste](glossary:waste)
+- **Updated**: [Deliverable](glossary:deliverable), [Governance](glossary:governance), [Governance Backlog](glossary:governance-backlog), [Key Responsibilities](glossary:key-responsibilities), [Objection](glossary:objection), [Objective](glossary:objective), [Organization](glossary:organization), [Organizational Driver](glossary:organizational-driver), [Requirement](glossary:requirement), [Strategy](glossary:strategy), [Team](glossary:team), [Value](glossary:value), [Waste](glossary:waste)
 
 
 **Changes to Patterns**
 
-The patterns revised or updated by the introduction of *Purpose* and *Intervention*, and by renaming *Agreement* to *Policy* are too numerous to mention in detail. What is listed here are the patterns that underwent significant changes, some even unrelated to the model:
-
+- Revised many pattern descriptions as a consequence of introducing new concepts, renaming the concept of Agreement to Policy, and introducing the Model of Purposeful Action.
 - [Circle](section:circle): Updated and extended the pattern; corresponding revisions were also made to [Double-Linked Hierarchy](section:double-linked-hierarchy).
-- [Consent Decision-Making](section:consent-decision-making): updated according to the Model for Purposeful Action Purpose, improved overall clarity.
-- [Clarify and Develop Domains](section:clarify-and-developintended-outcome): simplified examples, aligned with changes in Define and Monitor Metrics
-- [Define and Monitor Metrics](section:define-and-monitor-metrics): Expanded and revised the pattern description, and added practical examples.  
-- [Determine Requirements](section:determine-requirements): completely revised the pattern, added new examples
+- [Clarify and Develop Domains](section:clarify-and-developintended-outcome): Simplified examples, aligned with changes in Define and Monitor Metrics
+- [Consent Decision-Making](section:consent-decision-making): Updated according to the Model for Purposeful Action Purpose, improved overall clarity.
+- [Define and Monitor Metrics](section:define-and-monitor-metrics):  Expanded and revised the pattern description, added practical examples.
+- [Determine Requirements](section:determine-requirements): Completely revised the pattern, added new examples
 - [Evaluate and Evolve Policies](section:evaluate-and-evolve-policies): Added a full description of the format and improved clarity.
-- [Governance Backlog](section:governance-backlog): revised for alignment with updated concepts. 
-- [Governance Meeting](section:governance-meeting): updated for clarity and consistency.
-- [Helping Team](section:helping-team): completely revised the pattern, added examples.
-- [Planning and Review Meeting](section:planning-and-review-meeting): refined descriptions and improved flow.
-- [Proposal Forming](section:proposal-forming): simplified the format by clearly separating information gathering and generative phases, revised the text and added examples.
-- [Record Governance Decisions](section:record-governance-decisions): expanded explanation of benefits, revised the template, and clarified recommendations for record contents.
-- [Respond to Organizational Drivers](section:respond-to-organizational-drivers): revised, aligned with model for purposeful action 
+- [Governance Backlog](section:governance-backlog): Revised for alignment with updated concepts. 
+- [Governance Meeting](section:governance-meeting): Updated for clarity and consistency.
+- [Helping Team](section:helping-team): Completely revised the pattern, added examples.
+- [Planning and Review Meeting](section:planning-and-review-meeting): Refined descriptions, improved flow.
+- [Proposal Forming](section:proposal-forming): Simplified the format by clearly separating information gathering and generative phases, revised the text and added examples.
+- [Record Governance Decisions](section:record-governance-decisions): Expanded explanation of benefits, revised the template, and clarified recommendations for record contents.
+- [Respond to Organizational Drivers](section:respond-to-organizational-drivers): revised and aligned with Model for Purposeful Action 
 
-**Renamed Patterns:**
+
+**Renamed and Moved Patterns**
 
 -   renamed _Evaluation Criteria_ to [Define and Monitor Metrics](section:define-and-monitor-metrics) 
 -   renamed _Record Agreements_ to [Record Governance Decisions](section:record-governance-decisions) 
 -   renamed _Driver Mapping_ to [Requirements-Mapping](section:requirements-mapping)
+-   renamed _Test Arguments Qualify as Objections_ to [Test **if** Arguments Qualify as Objections](section:test-arguments-qualify-as-objections) 
+-   moved [Adopt the Seven Principles](section:adopt-the-seven-principles) and [Create a Pull System for Organizational Change](section:create-a-pull-system-for-organizational-change) to the category _Bringing in S3_
+-   moved  [Continuous Improvement of Work Process](section:continuous-improvement-of-work-process) to category _Organize Work_
 
-**Added Patterns:** 
 
-_(none at this stage)_ ((really???)
+**Removed Pattern**
 
-
-**Removed Patterns:**
-
--    _Clarify Intended Outcomes_
+-    _Clarify Intended Outcomes_ (now integrated into the concept *Requirement*) 
 
 
 ## 2024-04-18
