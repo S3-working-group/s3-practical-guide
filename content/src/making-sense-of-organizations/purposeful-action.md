@@ -3,10 +3,10 @@
 <only presets="jekyll">
 In this chapter, you will explore four key concepts that help individuals and organizations navigate their work more effectively:
 
--   [Purpose](section:purposeful-action#purpose)
--   [Organizational Driver](glossary:organizational-driver)
--   [Requirement](glossary:requirement)
--   [Intervention](glossary:intervention)
+-   [Purpose](#purpose)
+-   [Organizational Driver](#organizational-drivers)
+-   [Requirement](#requirements)
+-   [Intervention](#interventions-turning-purpose-into-action)
 
 </only>
 
