@@ -15,7 +15,6 @@ In an organization that is following the [Principle of Consent](section:principl
 
 Objections prevent proposals, decisions, or activities from being implemented or continued until the arguments raised have been consciously considered and a clear decision is made in light of the information revealed.
 
-
 When reflecting on whether or not you have any objections to a proposal, decision, or activity, consider the following questions:
 
 -   How would continuing in this way fail to adequately respond to the driver or effectively fulfill the requirement that the proposal, decision, or activity is meant to address? (**effectiveness**)

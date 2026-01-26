@@ -19,7 +19,7 @@ This update brings substantial changes to the foundations of S3, including sever
 
 **Changes to Principles**
 
-- **[Principle of Equivalence](section:principle-equivalence)**: Addressed tension between distributed authority and effective governance in complex organizations.
+- **[Principle of Equivalence](section:principle-equivalence)**: Addressed the balance between distributed authority and effective governance in complex organizations.
 
 
 **Glossary Updated**

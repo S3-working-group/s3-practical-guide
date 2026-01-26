@@ -15,7 +15,7 @@ Developing decisions collaboratively fosters a stronger sense of ownership and c
 Some decisions will affect a large group of people, e.g., an entire department, or even the organization as a whole. Including those affected in the decision-making process will yield benefits that reach far beyond the decision in question. People will build connection, trust, and a greater sense of community and belonging. For effectively involving a large number of stakeholders in the decision-making process, you can use a variety of group facilitation techniques and online tools.
 
 
-## Delegate Responsibility and Power to Influence
+## Delegate Responsibility and Authority to Influence
 
 To become or remain effective, organizations of any size benefit from distributing work and the authority to influence decisions relating to that work. Doing so helps to avoid unnecessary dependencies, so that people can create value unimpeded, without getting bottlenecked, waiting on a decision-making hierarchy or on the input of others who are more distant from the work.
 

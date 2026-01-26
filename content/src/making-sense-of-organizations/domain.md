@@ -4,7 +4,7 @@
 
 To use their limited time, energy, and resources effectively, people in organizations distribute work between them by delegating responsibilities to individuals (who keep roles), or to teams (squads, units, departments, and so on. In the process, they are explicitly or implicitly defining domains — distinct areas of responsibility and autonomy. Domains may overlap with one another or be fully contained within other domains. 
 
-Most domains in an organization fall entirely within the overall domain of the organization. However, some domains relating to the organization might extend beyond the organization itself, like an advisory or shareholder board that may even have the power to sell or dissolve the organization. 
+Most domains in an organization fall entirely within the overall domain of the organization. However, some domains relating to the organization might extend beyond the organization itself, like an advisory or shareholder board that may even have the authority to sell or dissolve the organization. 
 
 
 ![Domains may overlap or be fully contained within other domains](img/illustrations/domains-in-organizations.png)
