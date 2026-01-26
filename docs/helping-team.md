@@ -28,7 +28,7 @@ In an organization that has adopted the principle of consent, team members can s
 </figure>
 
 
- ## Choosing Between a Circle and a Helping Team
+## Choosing Between a Circle and a Helping Team
 
 The decision about whether a Circle or a Helping Team is more suitable depends on *purpose, context, and who is involved*.*
 

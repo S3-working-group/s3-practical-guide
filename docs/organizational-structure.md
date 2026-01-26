@@ -14,7 +14,7 @@ Continuously evolve your organization's structure to:
 -   support the continuous <a href="glossary.html#entry-flow-of-value" class="glossary-tooltip" data-toggle="tooltip" title="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</a>
 -   enable effective collaboration around dependencies
 -   ensure information is available to those who need it
--   distribute resources and power to influence as required
+-   distribute resources and authority to influence as required
 
 The basic building blocks for organizational structure are interdependent, connected domains.
 

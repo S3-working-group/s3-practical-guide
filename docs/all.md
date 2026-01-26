@@ -78,12 +78,12 @@ Even though several sections in this book are brief and may still be rough aroun
 
 ### Influences and History of Sociocracy 3.0
 
-![Influences and history of Sociocracy 3.0](img/framework/history.png#limit=width;scale=full)
+![Influences and history of Sociocracy 3.0](img/framework/history.png)
 The literal meaning of the term **sociocracy** is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means "power", or "rule".
 
 The word sociocracy can be traced back to 1851, when **Auguste Comte** suggested applying a scientific approach to society: states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
 
-A few decades later, **Lester Frank Ward**, used the word 'sociocracy' to describe the rule of people with relations with each other. Instead of having sociologists at the center, he wanted to give more power and responsibility to the individual, he imagined sociologists in a role as researchers and consultants.
+A few decades later, **Lester Frank Ward**, used the word 'sociocracy' to describe the rule of people with relations with each other. Instead of having sociologists at the center, he wanted to give more authority and responsibility to the individual, he imagined sociologists in a role as researchers and consultants.
 
 In 1926, the Dutch reformist educator and Quaker **Kees Boeke**, established a residential school based on the principle of consent. Staff and students were treated as equal participants in the governance of the school, all decisions needed to be acceptable to everyone. He built this version of sociocracy on Quaker principles and practices, and described sociocracy as an evolution of democracy in his 1945 essay "Democracy as it might be".
 
@@ -259,7 +259,7 @@ _**Raise, seek out and resolve objections to proposals, policies and activities*
 
 Deliberately seeking objections is a way to tap into the collective intelligence distributed throughout an organization and benefit from insights we might otherwise miss. Examining proposals, decisions, and activities through the lens of different people’s perspectives helps to identify reasons why proceeding in a specific way could lead to consequences that would be better avoided, and if there are worthwhile ways to improve things.
 
-Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach an agreement - “_can everyone agree with this?_” — toward the practice of deliberately checking for objections — are there any arguments that reveal why this is not good enough, safe enough, or that there are worthwhile ways to improve?
+Adopting the principle of consent invites a change of focus in decision-making, shifting intent from trying to reach an agreement - “_can everyone agree with this?_” — toward the practice of deliberately checking for <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.">objections</a> — are there any arguments that reveal why this is not good enough, safe enough, or that there are worthwhile ways to improve?
 
 Consent does not mean everyone is actively involved in making every decision, as this would be ineffective. It does, however, require adequate _transparency_ and mindfulness on the part of decision-makers to inform and involve people who would be impacted (to varying degrees), or to invite those who can bring relevant experience or expertise (see _the Principle of Equivalence_).
 
@@ -386,7 +386,7 @@ Developing decisions collaboratively fosters a stronger sense of ownership and c
 Some decisions will affect a large group of people, e.g., an entire department, or even the organization as a whole. Including those affected in the decision-making process will yield benefits that reach far beyond the decision in question. People will build connection, trust, and a greater sense of community and belonging. For effectively involving a large number of stakeholders in the decision-making process, you can use a variety of group facilitation techniques and online tools.
 
 
-#### Delegate Responsibility and Power to Influence
+#### Delegate Responsibility and Authority to Influence
 
 To become or remain effective, organizations of any size benefit from distributing work and the authority to influence decisions relating to that work. Doing so helps to avoid unnecessary dependencies, so that people can create value unimpeded, without getting bottlenecked, waiting on a decision-making hierarchy or on the input of others who are more distant from the work.
 
@@ -588,7 +588,7 @@ The concepts introduced above are not just informative — they have many practi
 
 One way to understand work in organizations is as _people making interventions to fulfill a purpose._
 
-![](img/purposeful-action/purposeful-action-basic.png#limit=widht;size=small)
+![](img/purposeful-action/purposeful-action-basic.png)
 Purpose informs, motivates, and guides action. Interventions are specific steps people take, and/or the constraints they put in place, to fulfill a purpose.
 
 Although _people making interventions to fulfill a purpose_ sounds intuitive and straightforward, in practice, there are many fail points that can lead to undesirable consequences or waste. Common examples include the following:
@@ -615,7 +615,7 @@ Clarifying both the organizational driver and the associated requirement makes i
 ![](img/purposeful-action/purposeful-action-full.png)
 There is also a **natural sequence** to this approach: A clear understanding of the situation of relevance is essential to determine a suitable requirement. Understanding the requirement itself (or at least, a grasp of a valuable outcome) is necessary to determine an appropriate intervention.
 
-![](img/purposeful-action/understand-purpose.png#limit-width;size=small)
+![](img/purposeful-action/understand-purpose.png)
 Breaking down the process of responding to relevant situations into distinct, sequential steps helps prevent misdiagnosis, reduce wasted effort, and avoid implementing solutions that fail to address the situation in a suitable way.
 
 This model also helps to visualize interconnected purposes, supports shared understanding, better communication, and more effective evaluation of whether specific interventions are achieving the outcomes intended.
@@ -1089,7 +1089,7 @@ _A **domain** is a distinct area of responsibility and authority within an organ
 
 To use their limited time, energy, and resources effectively, people in organizations distribute work between them by delegating responsibilities to individuals (who keep roles), or to teams (squads, units, departments, and so on. In the process, they are explicitly or implicitly defining domains — distinct areas of responsibility and autonomy. Domains may overlap with one another or be fully contained within other domains. 
 
-Most domains in an organization fall entirely within the overall domain of the organization. However, some domains relating to the organization might extend beyond the organization itself, like an advisory or shareholder board that may even have the power to sell or dissolve the organization. 
+Most domains in an organization fall entirely within the overall domain of the organization. However, some domains relating to the organization might extend beyond the organization itself, like an advisory or shareholder board that may even have the authority to sell or dissolve the organization. 
 
 
 ![Domains may overlap or be fully contained within other domains](img/illustrations/domains-in-organizations.png)
@@ -1159,7 +1159,6 @@ In an organization that is following the _Principle of Consent_, it’s the resp
 
 Objections prevent proposals, decisions, or activities from being implemented or continued until the arguments raised have been consciously considered and a clear decision is made in light of the information revealed.
 
-
 When reflecting on whether or not you have any objections to a proposal, decision, or activity, consider the following questions:
 
 -   How would continuing in this way fail to adequately respond to the driver or effectively fulfill the requirement that the proposal, decision, or activity is meant to address? (**effectiveness**)
@@ -1207,7 +1206,7 @@ _A **policy** is an intervention that is created and evolved through governance;
 
 When people think of governance, they often think of corporate governance — the system of rules, practices, and processes for directing and controlling an organization. Traditionally, many of these decisions are seen as the domain of managers and boards of directors, and implemented through hierarchical structures for control and accountability. However, governance as we define and use the term in the context of S3 is broader. Governance occurs at all levels throughout an organization, including within teams and even at the individual level, with many people making and contributing to governance, often without being aware of it. This broader view of governance reveals why it's valuable for everyone in an organization to understand the concept, how to approach governance, and how it applies to their daily work.
 
-Regardless of how you distribute responsibility for governance throughout the organization, whether it's more centralized or more distributed, you need clear guidelines and constraints that enable smooth collaboration between teams and individuals and support achieving both long-term and short-term objectives. In S3, we refer to these guidelines and constraints created through governance as **policy**. Policies guide and constrain people in relation to significant matters such as strategy, priorities, distribution of responsibilities and power to influence, work processes, and many decisions about products and services.
+Regardless of how you distribute responsibility for governance throughout the organization, whether it's more centralized or more distributed, you need clear guidelines and constraints that enable smooth collaboration between teams and individuals and support achieving both long-term and short-term objectives. In S3, we refer to these guidelines and constraints created through governance as **policy**. Policies guide and constrain people in relation to significant matters such as strategy, priorities, distribution of responsibilities and authority to influence, work processes, and many decisions about products and services.
 
 While decisions with short-term consequences can easily be amended on the spot, making and evolving policies is more consequential because such decisions usually constrain people's behavior and activities for extended periods of time. To ensure policies become and remain fit for purpose, we recommend a more _participatory and deliberate approach to decision-making_
 
@@ -4038,7 +4037,7 @@ In an organization that has adopted the principle of consent, team members can s
 
 ![Helping Team](img/structural-patterns/helping-team.png)
 
- ## Choosing Between a Circle and a Helping Team
+##### Choosing Between a Circle and a Helping Team
 
 The decision about whether a Circle or a Helping Team is more suitable depends on *purpose, context, and who is involved*.*
 
@@ -4863,7 +4862,7 @@ As a governance facilitator, consider learning about and using the following pat
 -   _Resolve Objections_
 -   _Peer Review_
 
-![The governance facilitator is typically a member of the team](img/illustrations/facilitator.png#limit=both;scale=small)
+![The governance facilitator is typically a member of the team](img/illustrations/facilitator.png)
 
 ##### Governance Backlog
 
@@ -5082,7 +5081,7 @@ Continuously evolve your organization's structure to:
 -   support the continuous <a href="glossary.html#entry-flow-of-value" class="glossary-tooltip" data-toggle="tooltip" title="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</a>
 -   enable effective collaboration around dependencies
 -   ensure information is available to those who need it
--   distribute resources and power to influence as required
+-   distribute resources and authority to influence as required
 
 The basic building blocks for organizational structure are interdependent, connected domains.
 
@@ -5192,7 +5191,7 @@ The second and third tier:
 ## A Common Sense Framework for Organizations and Teams
 
 
-![The Common Sense Framework](img/csf/csf-logo.png#limit=width;scale=small)
+![The Common Sense Framework](img/csf/csf-logo.png)
 We're observing an emerging common sense that is transforming organizations around the world, inspiring and enabling people to build successful organizations where BOTH the people and the organization thrive.
 
 We have distilled the essence of this _common sense_ into a concise  framework for teams and organizations: The **Common Sense Framework (CSF)** is a tool for sense-making, designed to help people address the challenges and opportunities they face. It supports building a shared understanding of the bigger picture, identifying and prioritizing areas of need within a team and throughout an organization, and understanding what to focus on next.
@@ -5248,7 +5247,7 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 
 ### Two Principles for Orientation
 
-![Two Principles for Orientation: Clarify Purpose — Develop Strategy](img/csf/csf-light-orientation.png#limit=height)
+![Two Principles for Orientation: Clarify Purpose — Develop Strategy](img/csf/csf-light-orientation.png)
 
 #### Principle 1 — Clarify Purpose
 
@@ -5277,7 +5276,7 @@ Essential Patterns to help you achieve this:
 
 ### Three Principles for Navigation
 
-![Three Principles for Navigation: Focus on Value — Sense & Respond — Run Experiments](img/csf/csf-light-navigation.png#limit=height;scale=small)
+![Three Principles for Navigation: Focus on Value — Sense & Respond — Run Experiments](img/csf/csf-light-navigation.png)
 
 #### Principle 3 — Focus on Value
 
@@ -5325,7 +5324,7 @@ Essential patterns to help you achieve this:
 ### Two Principles for Structure
 
 
-![Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies](img/csf/csf-light-structure.png#limit=height;scale=full)
+![Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies](img/csf/csf-light-structure.png)
 
 #### Principle 6 — Enable Autonomy
 
@@ -5362,7 +5361,7 @@ Essential patterns to help you achieve this:
 
 ### Three Principles for Transformation
 
-![Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models](img/csf/csf-light-transformation.png#limit=both)
+![Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models](img/csf/csf-light-transformation.png)
 
 #### Principle 8 — Invest in Learning
 
@@ -5406,7 +5405,7 @@ Essential patterns to help you achieve this:
 
 ### Where to Start?
 
-![Ten Principles for Evolving Teams and Organizations](img/csf/csf-light.png#limit=height;scale=small)
+![Ten Principles for Evolving Teams and Organizations](img/csf/csf-light.png)
 Each principle supports a specific outcome. To determine where to start in your organization or team, **take a look at the outcomes for each principle** (the text after "_so that_") and reflect on where your greatest need lies at the moment. In any case, **check that you are clear enough on your organization's or team's purpose and strategy before you proceed**.
 
 In the illustration above you can see that some of the principles are more closely related than others, which might further inform you of where to start.
@@ -5440,7 +5439,7 @@ This update brings substantial changes to the foundations of S3, including sever
 
 **Changes to Principles**
 
-- **_Principle of Equivalence_**: Addressed tension between distributed authority and effective governance in complex organizations.
+- **_Principle of Equivalence_**: Addressed the balance between distributed authority and effective governance in complex organizations.
 
 
 **Glossary Updated**
