@@ -2,6 +2,12 @@
 // layout of the page (including behaviours)
 // ----------------------------------------------------------
 
+body {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
 //
 // Site header
 // --------------------------------------------------------------------------/**
@@ -9,7 +15,6 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 2px solid $grey-color-light;
     min-height: 56px;
-
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -46,25 +51,42 @@
     }
 }
 
+.site-body {
+  display: flex;
+  align-items: stretch;
+  position: relative;
+
+}
 .main-nav {
-    $main-nav-width: 230px;
-    -ms-flex: 0 0 $main-nav-width;
+    $main-nav-width: 200px;
+    $collapsed-nav-width: 30px;
+
     flex: 0 0 $main-nav-width;
-    @include media-breakpoint-up(sm) {
-        float: left;
-        flex: 0 0 30px;
+    max-width: $main-nav-width;
+    min-width: 0;
+    overflow: visible; // or auto, depending on your menu
+    
     // icons in the submenu:
-        a img { 
-            height: 22px;
-        }  
+    a img { 
+        height: 22px;
+    }  
+
+    @include media-breakpoint-down(xs) {
+        flex: 0 0 $collapsed-nav-width;
+        max-width: $collapsed-nav-width;
+    }
+    @include media-breakpoint-down(sm) {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        z-index: 1000;
     }
 }
-
 //
 // Content
 // --------------------------------------------------------------------------
 .content-container {
-    float: right;
+    flex: 1 1 auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
 }
