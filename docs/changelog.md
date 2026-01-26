@@ -7,439 +7,497 @@ prev_page_url: "appendix.html"
 ---
 
 
-**Table of Contents**
 
-* toc
-{:toc}
+## 2026-01-24
+
+This update brings substantial changes to the foundations of S3, including several revisions that affect many concepts, patterns, and glossary terms, as well as significant changes to several patterns.
+
+**Changes to Key Concepts**
+
+-   Introduction: Added an introduction to the section that briefly outlines all key concepts and their relationships.
+-   Added **[Model for Purposeful Action](purposeful-action.html)**: We consolidated the work that began with the introduction of Requirements (2022) into a single, coherent model, which is foundational for understanding Sociocracy 3.0 in its current form. It introduces **<a href="glossary.html#entry-purpose" class="glossary-tooltip" data-toggle="tooltip" title="Purpose: The reason why something is done, used, or created; a guiding motivation that directs actions, decisions, and resources toward achieving a valuable outcome.">Purpose</a>** and **<a href="glossary.html#entry-intervention" class="glossary-tooltip" data-toggle="tooltip" title="Intervention: The specific steps you take and/or the constraints you put in place to fulfill a purpose.">Interventions</a>** as explicit concepts and integrates them consistently with Drivers and Requirements.
+-   **Drivers and Requirements**: Refined descriptions to make their roles, differences, and overlaps more explicit:
+    -   **Driver**: *Current conditions* (instead of "current situation") that lead to an *effect* of relevance to the organization.
+    -   **Requirement**: *Enabling conditions* (instead of "need") expected to lead to *intended outcomes* (instead of "anticipated impact").
+-   **[Governance and Operations](governance.html)**: Revised and extended the chapter, and added a section about distributing governance throughout the organization.
+-   Renamed the concept of "agreement" to **<a href="glossary.html#entry-policy" class="glossary-tooltip" data-toggle="tooltip" title="Policy: An intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline.">Policy</a>** and integrated it into the chapter about Governance and Operations. "Agreement" remains in use throughout the guide as a general term.
+-   Added **examples** where possible to support understanding and correct interpretation.
+-   Added the concept of **[Complexity](complexity.html)**.
+
+**Changes to Principles**
+
+- **[Principle of Equivalence](principle-equivalence.html)**: Addressed tension between distributed authority and effective governance in complex organizations.
 
 
+**Glossary Updated**
 
-## Changes 2024-04-18
+- **Changed**
+    - _Agreement_ to <a href="glossary.html#entry-policy" class="glossary-tooltip" data-toggle="tooltip" title="Policy: An intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline.">Policy</a> and revised the definition
+    - Replaced _account for_ with _attend to_ (in relation to <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domains</a>)  
+- **Added**: <a href="glossary.html#entry-acceptance-criteria" class="glossary-tooltip" data-toggle="tooltip" title="Acceptance Criteria: A number of specific, verifiable properties of the conditions and/or outcomes of a requirement that, when taken together, indicate the requirement is considered fulfilled.">Acceptance Criteria</a>, <a href="glossary.html#entry-current-conditions" class="glossary-tooltip" data-toggle="tooltip" title="Current conditions: (In the context of organizational drivers) Current conditions are present, observable circumstances that are causing — or could plausibly cause — effects relevant to the organization&#x27;s purpose.}}">Current Conditions</a>, <a href="glossary.html#entry-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Constraint: A limitation or restriction that controls or limits what someone can do or what can happen. It can be a requirement to fulfill, a rule to follow, or a boundary on actions, behaviors, or outcomes.">Constraint</a>, <a href="glossary.html#entry-enabling-conditions" class="glossary-tooltip" data-toggle="tooltip" title="Enabling Conditions: Conditions considered necessary to establish for achieving or maintaining intended outcomes (in the context of a requirement).">Enabling Conditions</a>, <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: Specific, observable results you aim to achieve in relation to a driver.">Intended Outcome</a>, <a href="glossary.html#entry-intervention" class="glossary-tooltip" data-toggle="tooltip" title="Intervention: The specific steps you take and/or the constraints you put in place to fulfill a purpose.">Intervention</a>, <a href="glossary.html#entry-purpose" class="glossary-tooltip" data-toggle="tooltip" title="Purpose: The reason why something is done, used, or created; a guiding motivation that directs actions, decisions, and resources toward achieving a valuable outcome.">Purpose</a>, <a href="glossary.html#entry-tuners" class="glossary-tooltip" data-toggle="tooltip" title="Tuners: One or more people who use the information and ideas collected in Proposal Forming to design a coherent proposal (not a final decision).">Tuners</a>
+- **Updated**: <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product or service provided provided in the context of an intervention. Products include components and materials.">Deliverable</a>, <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it.">Governance</a>, <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Governance Backlog: A visible, prioritized list of items relating to the governance of a domain.">Governance Backlog</a>, <a href="glossary.html#entry-key-responsibilities" class="glossary-tooltip" data-toggle="tooltip" title="Key Responsibilities: The work and decision-making considered essential in achieving a domain’s purpose.">Key Responsibilities</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.">Objection</a>, <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objective: A specific result (or goal) that a person, team, or organization wants to achieve. In the context of S3, objectives refer to achieving intended outcomes, establishing desired conditions, and responding adequately to organizational drivers, all with the overarching aim of fulfilling the organization’s purpose.">Objective</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organization: A group of people collaborating toward a common purpose by delivering products and services that meet the needs or desires of the customers they serve.">Organization</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">Organizational Driver</a>, <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A state considered valuable to establish or maintain in order to address a specific driver. Requirements are often expressed as _intended outcome(s)_, and _enabling condition(s)_ considered necessary to establish for achieving or maintaining those outcomes.">Requirement</a>, <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high-level approach for how people will fulfill the purpose of a domain (within the constraints of that domain).">Strategy</a>, <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward fulfilling a shared purpose. Typically, a team is part of an organization, or it is formed as a collaboration of several organizations.">Team</a>, <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Value: The importance, worth, or usefulness of something for fulfilling a purpose. Also: &quot;a valued principle that guides behavior&quot; (mostly used as plural &quot;values&quot;, e.g. &quot;organizational values&quot;).">Value</a>, <a href="glossary.html#entry-waste" class="glossary-tooltip" data-toggle="tooltip" title="Waste: Any activity, output, or use of resources that does not contribute — directly or indirectly — to fulfilling a specific purpose.&quot;">Waste</a>
 
+
+**Changes to Patterns**
+
+- Revised many pattern descriptions as a consequence of introducing new concepts, renaming the concept of Agreement to Policy, and introducing the Model of Purposeful Action.
+- [Circle](circle.html): Updated and extended the pattern; corresponding revisions were also made to [Double-Linked Hierarchy](double-linked-hierarchy.html).
+- [Clarify and Develop Domains](clarify-and-developintended-outcome.html): Simplified examples, aligned with changes in Define and Monitor Metrics
+- [Consent Decision-Making](consent-decision-making.html): Updated according to the Model for Purposeful Action Purpose, improved overall clarity.
+- [Define and Monitor Metrics](define-and-monitor-metrics.html):  Expanded and revised the pattern description, added practical examples.
+- [Determine Requirements](determine-requirements.html): Completely revised the pattern, added new examples
+- [Evaluate and Evolve Policies](evaluate-and-evolve-policies.html): Added a full description of the format and improved clarity.
+- [Governance Backlog](governance-backlog.html): Revised for alignment with updated concepts. 
+- [Governance Meeting](governance-meeting.html): Updated for clarity and consistency.
+- [Helping Team](helping-team.html): Completely revised the pattern, added examples.
+- [Planning and Review Meeting](planning-and-review-meeting.html): Refined descriptions, improved flow.
+- [Proposal Forming](proposal-forming.html): Simplified the format by clearly separating information gathering and generative phases, revised the text and added examples.
+- [Record Governance Decisions](record-governance-decisions.html): Expanded explanation of benefits, revised the template, and clarified recommendations for record contents.
+- [Respond to Organizational Drivers](respond-to-organizational-drivers.html): revised and aligned with Model for Purposeful Action 
+
+
+**Renamed and Moved Patterns**
+
+-   renamed _Evaluation Criteria_ to [Define and Monitor Metrics](define-and-monitor-metrics.html) 
+-   renamed _Record Agreements_ to [Record Governance Decisions](record-governance-decisions.html) 
+-   renamed _Driver Mapping_ to [Requirements-Mapping](requirements-mapping.html)
+-   renamed _Test Arguments Qualify as Objections_ to [Test **if** Arguments Qualify as Objections](test-arguments-qualify-as-objections.html) 
+-   moved [Adopt the Seven Principles](adopt-the-seven-principles.html) and [Create a Pull System for Organizational Change](create-a-pull-system-for-organizational-change.html) to the category _Bringing in S3_
+-   moved  [Continuous Improvement of Work Process](continuous-improvement-of-work-process.html) to category _Organize Work_
+
+
+**Removed Pattern**
+
+-    _Clarify Intended Outcomes_ (now integrated into the concept *Requirement*) 
+
+
+## 2024-04-18
 
 **General Changes**
 
--   Created a separate chapter for Organizational Structure,
+-   Created a separate chapter for Organizational Structure, 
     -   added [Peach Organization](peach-organization.html), [Service Organization](service-organization.html), [Fractal Organization](fractal-organzition.html) and [Double-Linked Hierarchy](double-linked-hierarchy.html) as examples of larger structures.
     -   moved [Delegate Circle](delegate-circle.html) and [Service Circle](service-circle.html) into [Building Organizations](building-organizations.html)
--   updated the [S3 Organization Canvas](https://s3canvas.sociocracy30.org/s3-organization-canvas.html)
+-   updated the [S3 Organization Canvas](https://s3canvas.sociocracy30.org/s3-organization-canvas.html) 
 
 **Glossary**
 
--   removed "need" from glossary
+-   removed "need" from glossary 
 
 **Renamed Patterns:**
 
--   renamed _Transparent Salary_ to [Open Salary](open-salary.html)
+-   renamed _Transparent Salary_ to [Open Salary](open-salary.html) 
 
 **Added Patterns:** (all with a brief summary only for now)
 
--   [Collaborate on Dependencies](collaborate-on-dependencies.html)
--   [Deliver Value Incrementally](deliver-value-incrementally.html)
--   [Design Adaptable Systems](design-adaptable-systems.html)
--   [Enable Autonomy](enable-autonomy.html)
--   [Financial Transparency](financial-transparency.html)
--   [Invest in Ongoing Learning](invest-in-ongoing-learning.html)
--   [Manage the Whole System](manage-the-whole-system.html)
--   [Share Costs and Gains](share-costs-and-gains.html)
+-   [Collaborate on Dependencies](collaborate-on-dependencies.html) 
+-   [Deliver Value Incrementally](deliver-value-incrementally.html) 
+-   [Design Adaptable Systems](design-adaptable-systems.html) 
+-   [Enable Autonomy](enable-autonomy.html) 
+-   [Financial Transparency](financial-transparency.html) 
+-   [Invest in Ongoing Learning](invest-in-ongoing-learning.html) 
+-   [Manage the Whole System](manage-the-whole-system.html) 
+-   [Share Costs and Gains](share-costs-and-gains.html) 
 
 **Removed Patterns:**
 
--   removed _Delegate Influence_
+-   removed _Delegate Influence_ 
 
 
-## Changes 2024-04-05
+## 2024-04-05
 
--   More changes relating to Requirements
-    -   updated glossary: revised definitions for <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.">Backlog</a> and <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Governance Backlog: A visible, prioritized list of items (drivers and/or requirements) relating to the governance of a domain.">Governance Backlog</a>
+-   More changes relating to Requirements 
+    -   updated glossary: revised definitions for <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Backlog: A list of (often prioritized) uncompleted work items (typically a deliverable, requirement or a driver) that need to be addressed.">Backlog</a> and <a href="glossary.html#entry-governance-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Governance Backlog: A visible, prioritized list of items relating to the governance of a domain.">Governance Backlog</a>
     -   Revised [Resolve Objections](resolve-objections.html), [Backlog](backlog.html), [Governance Backlog](governance-backlog.html) and [Governance Meeting](governance-meeting.html)
     -   revised recommended patterns in the [Common Sense Framework](csf.html)
 
-## Changes 2024-02-08
+## 2024-02-08
 
--   introduced _Requirement_ as a core concept distinct from the _Driver_:
-    -   added an explanation of _Requirement_ to [Drivers and Requirements](drivers-and-requirements.html)
+-   introduced _Requirement_ as a core concept distinct from the _Driver_: 
+    -   added an explanation of _Requirement_ to _Drivers and Requirements_
     -   added new pattern [Determine Requirements](determine-requirements.html)
     -   updated [Respond to Organizational Drivers](respond-to-organizational-drivers.html)
     -   updated [Describe Organizational Drivers](describe-organizational-drivers.html):
     -   updated [Navigate via Tension](navigate-via-tension.html)
     -   revised [Proposal Forming](proposal-forming.html), [Consent Decision Making](consent-decision-making.html) and [Driver Mapping](driver-mapping.html)
--   extended [Clarify and Develop Domains](clarify-and-develop-domains.html) to include a detailed description and examples for each aspect of a domain description
--   added an [example domain description](example-domain-description.html) to the appendix
--   added a detailed description for each step to [Proposal Forming](proposal-forming.html)
--   revised [The Principle of Consent](principle-consent.html) and description of [Objection](objection.html)
--  updated glossary:
-    -  revised definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">Deliverable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">Organizational Driver</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a>
-    -  added new definitions for <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">Requirement</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Standard Constraint: A constraint that affects several domains (e.g. all sales teams, an entire branch, platform, or department), or even all domains of the organization (e.g. company-wide strategy, a business models, or an organization-wide rule).">Standard Constraint</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">Overall Domain</a>
+-   extended [Clarify and Develop Domains](clarify-and-develop-domains.html) to include a detailed description and examples for each aspect of a domain description 
+-   added an [example domain description](example-domain-description.html) to the appendix 
+-   added a detailed description for each step to [Proposal Forming](proposal-forming.html) 
+-   revised [The Principle of Consent](principle-consent.html) and description of [Objection](objection.html) 
+-   updated glossary: 
+    -   revised definitions for <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domain</a>, <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product or service provided provided in the context of an intervention. Products include components and materials.">Deliverable</a>, <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">Organizational Driver</a>, <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a>
+    -   added new definitions for <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A state considered valuable to establish or maintain in order to address a specific driver. Requirements are often expressed as _intended outcome(s)_, and _enabling condition(s)_ considered necessary to establish for achieving or maintaining those outcomes.">Requirement</a>, <a href="glossary.html#entry-standard-constraint" class="glossary-tooltip" data-toggle="tooltip" title="Standard Constraint: A constraint that affects several domains (e.g., all sales teams, an entire branch, platform, or department) or even all domains of the organization (e.g., company-wide strategy, a business model, or an organization-wide rule).">Standard Constraint</a>, <a href="glossary.html#entry-overall-domain" class="glossary-tooltip" data-toggle="tooltip" title="Overall Domain: The domain that defines the organization&#x27;s purpose, overall strategy, business model(s), and other standard constraints.">Overall Domain</a>
 
 
-## Changes 2022-04-26
+## 2022-04-26
 
--   added detailed description and new illustrations to [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)
-
-
-## Changes 2022-04-05
-
--   added detailed description and new illustrations to [Resolve Objections](resolve-objections.html)
+-   added detailed description and new illustrations to [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html) 
 
 
-## Changes 2022-02-04
+## 2022-04-05
 
--   added detailed description of the [Consent Decision-Making](consent-decision-making.html) process
--   revised text of [Reasoned Decision-Making](reasoned-decision-making.html)
--   updated 20 illustration to align with style of new illustration for Consent Decision-Making
+-   added detailed description and new illustrations to [Resolve Objections](resolve-objections.html) 
 
 
-## Changes 2022-01-27
+## 2022-02-04
 
--   added [Reasoned Decision-Making](reasoned-decision-making.html)
--   updated pattern categories:
+-   added detailed description of the [Consent Decision-Making](consent-decision-making.html) process 
+-   revised text of [Reasoned Decision-Making](reasoned-decision-making.html) 
+-   updated 20 illustration to align with style of new illustration for Consent Decision-Making 
+
+
+## 2022-01-27
+
+-   added [Reasoned Decision-Making](reasoned-decision-making.html) 
+-   updated pattern categories: 
     -   new category _Evolving Organizations_
     -   renamed _Co-Creation and Evolution_ to _Sense-Making and Decision-Making_
     -   renamed _Focused Interactions_ to _Meeting Formats_
     -   renamed _Enablers of Collaboration_ to _Enablers of Co-Creation_
     -   and moved some patterns around
--   Aligned spelling of decision-making throughout the guide
--   revised summary of [Resolve Objections](resolve-objections.html)
--   revised text of [Driver Mapping](driver-mapping.html) (step 7)
+-   Aligned spelling of decision-making throughout the guide 
+-   revised summary of [Resolve Objections](resolve-objections.html) 
+-   revised text of [Driver Mapping](driver-mapping.html) (step 7) 
 
 
-## Changes 2021-09-22
+## 2017 - 2021
 
--   fixed a link on the pattern map and added links to the principles
--   fixed some typos, minor revisions to the text
+### 2021-09-22
 
-
-## Changes 2021-09-03
-
--   revised text about [Objections](objection.html) as well as the definitions of <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a>
+-   fixed a link on the pattern map and added links to the principles 
+-   fixed some typos, minor revisions to the text 
 
 
-## Changes 2021-08-15
+### 2021-09-03
 
--   renamed _Open Domain_ to [Open Team](open-team.html)
+-   revised text about [Objections](objection.html) as well as the definitions of <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Concern: An assumption that cannot (for now at least) be backed up by reasoning or enough evidence to qualify as an objection to those who are considering it.">Concern</a> 
 
 
-## Changes 2021-06-18
+### 2021-08-15
 
--   added a dedicated chapter for each of the Seven Principles
--   revised the ten principles of the Common Sense Framework
--   updated section about governance in the introduction
+-   renamed _Open Domain_ to [Open Team](open-team.html) 
+
+
+### 2021-06-18
+
+-   added a dedicated chapter for each of the Seven Principles 
+-   revised the ten principles of the Common Sense Framework 
+-   updated section about governance in the introduction 
     -   added more text to explain how governance can be distributed throughout the organization
     -   more examples for governance decisions
--   corrected a few typos
--   several small revisions
+-   corrected a few typos 
+-   several small revisions 
 
 
-## Changes 2021-05-15
+### 2021-05-15
 
--   [Navigate via Tension](navigate-via-tension.html): added more explanation about passing on drivers to another domain
--   [Clarify and Develop Domains](clarify-and-develop-domains.html): more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration,
-
-
-## Changes 2021-03-15
-
--   updated the Seven Principles
+-   [Navigate via Tension](navigate-via-tension.html): added more explanation about passing on drivers to another domain 
+-   [Clarify and Develop Domains](clarify-and-develop-domains.html): more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
 
 
-## Changes 2021-02-19
+### 2021-03-15
 
--   fixed several broken links on the online version
--   corrected a few typos
-
-
-## Changes 2021-02-11
-
--   [Driver Mapping](driver-mapping.html): added explanation about applications of the pattern, and detailed instructions for each step of the format
+-   updated the Seven Principles 
 
 
-## Changes 2021-02-06
+### 2021-02-19
 
--   Revised glossary definitions for <a href="glossary.html#entry-semi-autonomy" class="glossary-tooltip" data-toggle="tooltip" title="Semi-Autonomy: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.">Semi-Autonomy</a>, <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">Self-Organization</a> and <a href="glossary.html#entry-sociocracy" class="glossary-tooltip" data-toggle="tooltip" title="Sociocracy: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.">Sociocracy</a>
--   Renamed Pattern: _Those Affected Decide_ to _Involve Those Affected_
--   Several small corrections and revisions
+-   fixed several broken links on the online version 
+-   corrected a few typos 
 
 
-## Changes 2021-02-03
+### 2021-02-11
 
--   Added the **[Common Sense Framework](csf.html)** to the Practical Guide
--   A new structure of the Practical Guide that makes that the relevant parts easier to find:
+-   [Driver Mapping](driver-mapping.html): added explanation about applications of the pattern, and detailed instructions for each step of the format 
+
+
+### 2021-02-06
+
+-   Revised glossary definitions for <a href="glossary.html#entry-semi-autonomy" class="glossary-tooltip" data-toggle="tooltip" title="Semi-Autonomy: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain and by objections brought by the delegator, representatives, or others.">Semi-Autonomy</a>, <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">Self-Organization</a> and <a href="glossary.html#entry-sociocracy" class="glossary-tooltip" data-toggle="tooltip" title="Sociocracy: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.">Sociocracy</a> 
+-   Renamed Pattern: _Those Affected Decide_ to _Involve Those Affected_ 
+-   Several small corrections and revisions 
+
+
+### 2021-02-03
+
+-   Added the **[Common Sense Framework](csf.html)** to the Practical Guide 
+-   A new structure of the Practical Guide that makes that the relevant parts easier to find: 
     -   [What is Sociocracy 3.0](what-is-s3.html)
     -   [The Seven Principles](principles.html)
     -   [Key Concepts for Making Sense of Organizations](making-sense-of-organizations.html)
     -   [The Patterns](patterns.html)
     -   [The Common Sense Framework](csf.html)
     -   [Appendix](appendix.html)
--   Redesigned the website for better usability:
+-   Redesigned the website for better usability: 
     -   A new responsive menu that provides direct access to all patterns and other sections of the guide
     -   A new homepage that explains what is where
     -   A new layout for a cleaner experience on desktop and mobile devices
 
 
-## Changes 2021-01-12
+### 2021-01-12
 
--   **Renamed Patterns:**
-    - renamed _Clarify Domains_ to _Clarify and Develop Domains_
-    - renamed _Develop Strategy_ to _Clarify and Develop Strategy_
--   [Clarify and Develop Domains](clarify-and-develop-domains.html): revised text, added more details and explanations about domain descriptions
--   [Peer Review](peer-review.html): added more details about what should be reviewed
--   [Peer Feedback](peer-feedback.html): revised the text and added more details
--   [Breaking Agreements](breaking-agreements.html): added summary
--   added glossary entry for "metric"
--   revised glossary entry for "governance"
--   [Describe Organizational Drivers](describe-organizational-drivers.html): revised text
--   Introduction:
+-   **Renamed Patterns:** 
+    -   renamed _Clarify Domains_ to _Clarify and Develop Domains_
+    -   renamed _Develop Strategy_ to _Clarify and Develop Strategy_
+-   [Clarify and Develop Domains](clarify-and-develop-domains.html): revised text, added more details and explanations about domain descriptions 
+-   [Peer Review](peer-review.html): added more details about what should be reviewed 
+-   [Peer Feedback](peer-feedback.html): revised the text and added more details 
+-   [Breaking Agreements](breaking-agreements.html): added summary 
+-   added glossary entry for "metric" 
+-   revised glossary entry for "governance" 
+-   [Describe Organizational Drivers](describe-organizational-drivers.html): revised text 
+-   Introduction: 
     -   added more details to the section about Domains and delegation
     -   removed illustration in the section about patterns and listed the pattern groups in the text
--   Appendix:
+-   Appendix: 
     -   added a disclaimer
     -   added more information about the authors
 
 
-## Changes 2020-05-08
+### 2020-05-08
 
--   revised all illustrations for a more consistent style and increased readability
--   revised introduction: more explanation about patterns and core concepts
--   updated glossary: revised explanation of <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">Delegator</a>, <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">Delegatee</a>, <a href="glossary.html#entry-role" class="glossary-tooltip" data-toggle="tooltip" title="Role: A domain that is delegated to an individual, who then becomes the role keeper.">Role</a> and <a href="glossary.html#entry-pattern" class="glossary-tooltip" data-toggle="tooltip" title="Pattern: A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.">Pattern</a>, added <a href="glossary.html#entry-role-keeper" class="glossary-tooltip" data-toggle="tooltip" title="Role Keeper: An individual taking responsibility for a role.">Role Keeper</a>
-
-
-## Changes 2020-04-29
-
--   Introduction: Added _Objection_ and _Agreement_ to concepts
--   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html)
--   renamed pattern _Agreement_ to [Record Agreements](record-agreements.html)
--   [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html): revised text and updated illustration
--   [Record Agreements](record-agreements.html): revised text, added more details of agreements that might be recorded, updated illustration
+-   revised all illustrations for a more consistent style and increased readability 
+-   revised introduction: more explanation about patterns and core concepts 
+-   updated glossary: revised explanation of <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">Delegator</a>, <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">Delegatee</a>, <a href="glossary.html#entry-role" class="glossary-tooltip" data-toggle="tooltip" title="Role: A domain that is delegated to an individual, who then becomes the role keeper.">Role</a> and <a href="glossary.html#entry-pattern" class="glossary-tooltip" data-toggle="tooltip" title="Pattern: A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.">Pattern</a>, added <a href="glossary.html#entry-role-keeper" class="glossary-tooltip" data-toggle="tooltip" title="Role Keeper: An individual taking responsibility for a role.">role keeper</a> 
 
 
-## Changes 2019-12-22
+### 2020-04-29
 
--   added new introduction text
--   added "social technology" to glossary
--   website now has separate pages for "Introduction" and "Concepts and Principles"
--   ePub now looks much better
-
-
-## Changes 2019-11-29
-
--   Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the organization
--   Principle of Empiricism: clarified that only those assumptions one relies on need to be tested
+-   Introduction: Added _Objection_ and _Agreement_ to concepts 
+-   renamed pattern _Objection_ to [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html) 
+-   renamed pattern _Agreement_ to [Record Agreements](record-governance-decisions.html) 
+-   [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html): revised text and updated illustration 
+-   [Record Agreements](record-governance-decisions.html): revised text, added more details of agreements that might be recorded, updated illustration 
 
 
-## Changes 2019-06-27
+### 2019-12-22
 
--   _Objection_: further refined definition of objection, and updated the glossary term for <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a> accordingly
--   replaced "action" with activity in a few places where it made more sense
--   fixed a few typos
-
-
-## Changes 2019-05-03
-
--   refined glossary terms for <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreement</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organization: A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.">organization</a> and <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>, added glossary term for <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objective</a>
--   Principle of Accountability: clarified individual accountability for work as well as for collaboration
--   [Contract For Successful Collaboration](contract-for-successful-collaboration.html): revised text
--   [Describe Deliverables](describe-deliverables.html): added User Stories as an example for describing deliverables
--   [Double-Linked Hierarchy](double-linked-hierarchy.html): revised summary
--   [Delegate Circle](delegate-circle.html): refined summary
--   _Objection_: refined definition of objection and concern, added illustration for a process to qualify an objection
--   [Proposal Forming](proposal-forming.html): added missing process illustration
--   [Role Selection](role-selection.html): small amendment to illustration
--   [Transparent Salary](open-salary.html): explained what a salary formula is
+-   added new introduction text 
+-   added "social technology" to glossary 
+-   website now has separate pages for "Introduction" and "Concepts and Principles" 
+-   ePub now looks much better 
 
 
-## Changes 2019-03-08
+### 2019-11-29
+
+-   Principle of Transparency: revised description to clarify that valuable information needs to be recorded, and then shared with everyone in the organization 
+-   Principle of Empiricism: clarified that only those assumptions one relies on need to be tested 
+
+
+### 2019-06-27
+
+-   _Objection_: further refined definition of objection, and updated the glossary term for <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.">objection</a> accordingly 
+-   replaced "action" with activity in a few places where it made more sense 
+-   fixed a few typos 
+
+
+### 2019-05-03
+
+-   refined glossary terms for <a href="glossary.html#entry-policy" class="glossary-tooltip" data-toggle="tooltip" title="Policy: An intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline.">agreement</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organization: A group of people collaborating toward a common purpose by delivering products and services that meet the needs or desires of the customers they serve.">organization</a> and <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward fulfilling a shared purpose. Typically, a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>, added glossary term for <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Objective: A specific result (or goal) that a person, team, or organization wants to achieve. In the context of S3, objectives refer to achieving intended outcomes, establishing desired conditions, and responding adequately to organizational drivers, all with the overarching aim of fulfilling the organization’s purpose.">objective</a> 
+-   Principle of Accountability: clarified individual accountability for work as well as for collaboration 
+-   [Contract For Successful Collaboration](contract-for-successful-collaboration.html): revised text 
+-   [Describe Deliverables](describe-deliverables.html): added User Stories as an example for describing deliverables 
+-   [Double-Linked Hierarchy](double-linked-hierarchy.html): revised summary 
+-   [Delegate Circle](delegate-circle.html): refined summary 
+-   _Objection_: refined definition of objection and concern, added illustration for a process to qualify an objection 
+-   [Proposal Forming](proposal-forming.html): added missing process illustration 
+-   [Role Selection](role-selection.html): small amendment to illustration 
+-   [Transparent Salary](open-salary.html): explained what a salary formula is 
+
+
+### 2019-03-08
 
 **General Changes**
 
--   expanded the introduction with more information about S3 and the history of sociocracy that was previously only available on the main S3 website
--   updated section about governance in the introduction
--   added captions to all illustrations
--   renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
--   removed slide deck version and improved layout and formatting of pdf and ePub version
--   website version: added clickable pattern map for simpler navigation, added glossary overlays to many patterns
+-   expanded the introduction with more information about S3 and the history of sociocracy that was previously only available on the main S3 website 
+-   updated section about governance in the introduction 
+-   added captions to all illustrations 
+-   renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration" 
+-   removed slide deck version and improved layout and formatting of pdf and ePub version 
+-   website version: added clickable pattern map for simpler navigation, added glossary overlays to many patterns 
 
 **Glossary:**
 
--   added <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> to glossary (and replaced group with team throughout the practical guide where applicable)
--   updated definition for <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product, service, component or material provided to fulfill a requirement.">deliverable</a>
--   removed **driver statement** from text and glossary
--   updated definitions for <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a>, <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a>, and <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</a>
+-   added <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward fulfilling a shared purpose. Typically, a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> to glossary (and replaced group with team throughout the practical guide where applicable) 
+-   updated definition for <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Deliverable: A product or service provided provided in the context of an intervention. Products include components and materials.">deliverable</a> 
+-   removed **driver statement** from text and glossary 
+-   updated definitions for <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it.">governance</a>, <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a>, and <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</a> 
 
 **Illustrations:**
 
--   updated templates for domain description and role description
--   updated illustrations for [Linking](linking.html) and [Double-Linking](double-linking.html)
+-   updated templates for domain description and role description 
+-   updated illustrations for [Linking](linking.html) and [Double-Linking](double-linking.html) 
 
 **Changes to Patterns:**
 
--   [Agreement](record-agreements.html): description now mentions that any expectations should be recorded
--   [Describe Deliverables](describe-deliverables.html): updated summary
--   [Describe Organizational Drivers](describe-organizational-drivers.html): more information on summarizing drivers
--   [Resolve Objections](resolve-objections.html): added summary and description
+-   [Agreement](record-governance-decisions.html): description now mentions that any expectations should be recorded 
+-   [Describe Deliverables](describe-deliverables.html): updated summary 
+-   [Describe Organizational Drivers](describe-organizational-drivers.html): more information on summarizing drivers 
+-   [Resolve Objections](resolve-objections.html): added summary and description 
 
 
-## Changes 2018-08-17
+### 2018-08-17
 
 **General Changes**
 
--   added and revised the brief summary for many of the patterns
--   removed bullet points in favor of full sentences in many patterns
--   lots of small improvements to grammar and language
--   included the URL to the web version of the practical guide
+-   added and revised the brief summary for many of the patterns 
+-   removed bullet points in favor of full sentences in many patterns 
+-   lots of small improvements to grammar and language 
+-   included the URL to the web version of the practical guide 
 
 **Glossary:**
 
--   **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
--   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team and open domain
--   **removed:** peer driver
+-   **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values 
+-   **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team and open domain 
+-   **removed:** peer driver 
 
 **Changes to Introduction**
 
--   added the driver for creating Sociocracy 3.0
--   The Seven Principles:
+-   added the driver for creating Sociocracy 3.0 
+-   The Seven Principles: 
     -   _The Principle of Empiricism_: removed reference to "falsification"
     -   _The Principle of Consent_ is now explained more clearly as "Raise, seek-out and resolve objections to decisions and actions"
--   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to "coordination", and clarified the distinction between governance and operations
--   _Drivers and Domains_: we clarified how domains can be understood in relation to organizational drivers
+-   _Governance, Semi-Autonomy and Self-Organization_: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to "coordination", and clarified the distinction between governance and operations 
+-   _Drivers and Domains_: we clarified how domains can be understood in relation to organizational drivers 
 
 **Changes to Patterns:**
 
--   [Agree on Values](agree-on-values.html): improved description
--   [Align Flow](align-flow.html): improved description and illustration
--   [Adapt Patterns To Context](adapt-patterns-to-context.html): improved description
--   [Agreement](record-agreements.html): improved description, updated template
--   [Artful Participation](artful-participation.html): improved summary
--   [Clarify Intended Outcome](clarify-intended-outcome.html) (renamed from _Intended Outcome_): improved description
--   [Consent Decision-Making](consent-decision-making.html): improved description, updated illustration
--   [Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html): improved description
--   [Contract For Successful Collaboration](contract-for-successful-collaboration.html): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
--   [Coordination Meeting](coordination-meeting.html): clarified agenda items, updated illustration
--   [Delegate Circle](delegate-circle.html): improved description
--   _Delegate Influence_: improved description
--   [Describe Deliverables](describe-deliverables.html): improved description
--   [Describe Organizational Drivers](describe-organizational-drivers.html): made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers
--   [Double Linking](double-linking.html): aligned description to _Link_
--   [Double-Linked Hierarchy](double-linked-hierarchy.html): explained in more detail what a double-linked hierarchy is, and how it is created
--   [Evaluate and Evolve Agreements](evaluate-and-evolve-agreements.html): rearranged the text so it's clear there is a long and a short format
--   [Evaluation Criteria](evaluation-criteria.html): suggested clarifying a threshold for success, and we explained about also evolving evaluation criteria when evolving agreements
--   [Facilitate Meetings](facilitate-meetings.html): improved description
--   [Fractal Organization](fractal-organization.html): extended and improved description
--   [Governance Backlog](governance-backlog.html): improved description
--   [Governance Meeting](governance-meeting.html): improved description, clarified agenda items
--   [Invite Change](invite-change.html): description now focuses on _how_ to invite change
--   [Linking](linking.html): aligned description to [Double Linking](double-linking.html)
--   [Logbook](logbook.html): clarified that there is no difference between logbooks for groups and logbooks for roles
--   [Navigate via Tension](navigate-via-tension.html): improved description, added a new illustration to clarify the distinction between _Navigate via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_
--   _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
--   [Open Domain](open-team.html): improved description and updated illustration
--   [Open Systems](open-systems.html): improved description
--   [Open Space for Change](open-space-for-change.html): renamed from _Open S3 Adoption_, improved description
--   [Peach Organization](peach-organization.html): clarified relationship between periphery and center
--   [Proposal Forming](proposal-forming.html): revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
--   [Representative](representative.html): improved description
--   [Resolve Objections](resolve-objections.html): updated both illustrations
--   [Respond to Organizational Drivers](respond-to-organizational-drivers.html): improved description, simplified qualification of organizational drivers
--   [Role](role.html): improved description
--   [Role Selection](role-selection.html): improved description, added description of each step
--   [Rounds](rounds.html): improved description
--   [Transparent Salary](open-salary.html): added more details about fairness, and on how to develop a salary formula
+-   [Agree on Values](agree-on-values.html): improved description 
+-   [Align Flow](align-flow.html): improved description and illustration 
+-   [Adapt Patterns To Context](adapt-patterns-to-context.html): improved description 
+-   [Agreement](record-governance-decisions.html): improved description, updated template 
+-   [Artful Participation](artful-participation.html): improved summary 
+-   [Clarify Intended Outcome](clarify-intended-outcome.html) (renamed from _Intended Outcome_): improved description 
+-   [Consent Decision-Making](consent-decision-making.html): improved description, updated illustration 
+-   [Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html): improved description 
+-   [Contract For Successful Collaboration](contract-for-successful-collaboration.html): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them 
+-   [Coordination Meeting](coordination-meeting.html): clarified agenda items, updated illustration 
+-   [Delegate Circle](delegate-circle.html): improved description 
+-   _Delegate Influence_: improved description 
+-   [Describe Deliverables](describe-deliverables.html): improved description 
+-   [Describe Organizational Drivers](describe-organizational-drivers.html): made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from _Respond to Organizational Drivers_ to this pattern, and added a new illustration that explains _how_ to describe organizational drivers 
+-   [Double Linking](double-linking.html): aligned description to _Link_ 
+-   [Double-Linked Hierarchy](double-linked-hierarchy.html): explained in more detail what a double-linked hierarchy is, and how it is created 
+-   [Evaluate and Evolve Agreements](evaluate-and-evolve-policies.html): rearranged the text so it's clear there is a long and a short format 
+-   [Evaluation Criteria](define-and-monitor-metrics.html): suggested clarifying a threshold for success, and we explained about also evolving evaluation criteria when evolving agreements 
+-   [Facilitate Meetings](facilitate-meetings.html): improved description 
+-   [Fractal Organization](fractal-organization.html): extended and improved description 
+-   [Governance Backlog](governance-backlog.html): improved description 
+-   [Governance Meeting](governance-meeting.html): improved description, clarified agenda items 
+-   [Invite Change](invite-change.html): description now focuses on _how_ to invite change 
+-   [Linking](linking.html): aligned description to [Double Linking](double-linking.html) 
+-   [Logbook](logbook.html): clarified that there is no difference between logbooks for groups and logbooks for roles 
+-   [Navigate via Tension](navigate-via-tension.html): improved description, added a new illustration to clarify the distinction between _Navigate via Tension_, _Describe Organizational Drivers_ and _Respond to Organizational Drivers_ 
+-   _Objection_: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context 
+-   [Open Domain](open-team.html): improved description and updated illustration 
+-   [Open Systems](open-systems.html): improved description 
+-   [Open Space for Change](open-space-for-change.html): renamed from _Open S3 Adoption_, improved description 
+-   [Peach Organization](peach-organization.html): clarified relationship between periphery and center 
+-   [Proposal Forming](proposal-forming.html): revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement 
+-   [Representative](representative.html): improved description 
+-   [Resolve Objections](resolve-objections.html): updated both illustrations 
+-   [Respond to Organizational Drivers](respond-to-organizational-drivers.html): improved description, simplified qualification of organizational drivers 
+-   [Role](role.html): improved description 
+-   [Role Selection](role-selection.html): improved description, added description of each step 
+-   [Rounds](rounds.html): improved description 
+-   [Transparent Salary](open-salary.html): added more details about fairness, and on how to develop a salary formula 
 
 **Renamed Patterns:**
 
--   _Evaluate Agreements_ to _Evaluate and Evolve Agreements_
--   _Intended Outcome_ to _Clarify Intended Outcome_
--   _Open S3 Adoption_ to _Open Space for Change_
--   _Contracting and Accountability_ to _Contract For Successful Collaboration_
+-   _Evaluate Agreements_ to _Evaluate and Evolve Agreements_ 
+-   _Intended Outcome_ to _Clarify Intended Outcome_ 
+-   _Open S3 Adoption_ to _Open Space for Change_ 
+-   _Contracting and Accountability_ to _Contract For Successful Collaboration_ 
 
 **Added New Patterns:**
 
--   [Check In](check-in.html)
--   [Co-create Proposals](co-create-proposals.html)
--   [Prepare for Meetings](prepare-for-meetings.html)
--   [Timebox Activities](timebox-activities.html)
+-   [Check In](check-in.html) 
+-   [Co-create Proposals](co-create-proposals.html) 
+-   [Prepare for Meetings](prepare-for-meetings.html) 
+-   [Time-box Activities](time-box-activities.html) 
 
 
-## Changes 2018-03-21
+### 2018-03-21
 
--   renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_
--   [Describe Organizational Drivers](describe-organizational-drivers.html): explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need
--   added _need_ to glossary
-
-
-## Changes 2017-11-16
-
--   small corrections
--   aligned glossary entries for _Circle_ and _Role_ to pattern text
--   _Development Plan_: clarification of responsibilities
--   _Role_: clarified evolution of strategy
+-   renamed pattern _Describe Drivers_ to _Describe Organizational Drivers_ 
+-   [Describe Organizational Drivers](describe-organizational-drivers.html): explained four aspects of a driver: current situation, effect of the situation on the organization, need of the organization in relation to this situation, and impact of attending to need 
+-   added _need_ to glossary 
 
 
-## Changes 2017-11-10
+### 2017-11-16
 
--   various small clarifications and corrections
--   _Circle_: clarified relationship between circle and domain
--   _Role_: improved description
--   _Rounds_: improved description
--   moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations"
--   added several terms to the glossary
+-   small corrections 
+-   aligned glossary entries for _Circle_ and _Role_ to pattern text 
+-   _Development Plan_: clarification of responsibilities 
+-   _Role_: clarified evolution of strategy 
 
 
-## Changes 2017-10-21
+### 2017-11-10
 
--   added Liliana David to authors
--   dropped the term "framework" (replaced with "practical guide")
--   updated order of patterns
--   added an index of all the patterns
--   added a glossary
--   added acknowledgments
--   various small clarifications and corrections to text and illustrations
--   updated templates for agreement and development plan
+-   various small clarifications and corrections 
+-   _Circle_: clarified relationship between circle and domain 
+-   _Role_: improved description 
+-   _Rounds_: improved description 
+-   moved _Open Domain_, _Helping Team_ and _Open Systems_ to category "Building Organizations" 
+-   added several terms to the glossary 
+
+
+### 2017-10-21
+
+-   added Liliana David to authors 
+-   dropped the term "framework" (replaced with "practical guide") 
+-   updated order of patterns 
+-   added an index of all the patterns 
+-   added a glossary 
+-   added acknowledgments 
+-   various small clarifications and corrections to text and illustrations 
+-   updated templates for agreement and development plan 
 
 **Changes to Introduction**
 
--   added "what's in it for me?"
--   added definitions for governance, self-organization, semi-autonomy, operations to introduction
--   clarified domains and their relationship to drivers
--   fleshed out core concepts
--   made all principles actionable
+-   added "what's in it for me?" 
+-   added definitions for governance, self-organization, semi-autonomy, operations to introduction 
+-   clarified domains and their relationship to drivers 
+-   fleshed out core concepts 
+-   made all principles actionable 
 
 **Changes to Patterns:**
 
--   _Artful Participation_: improved description
--   _Agreement_: clarified that the concept of agreements is applicable to people in roles
--   _Clarify Domains_: improved description
--   _Circle_: updated definition of "circle", improved description
--   _Driver_: updated definition of "driver"
--   _Development Plan_: improved description, updated template
--   _Develop Strategy_: updated definition of "strategy", improved description
--   _Double-Linked Hierarchy_: new illustration
--   _Evaluate Agreements_: aligned questions to peer review
--   _Governance Backlog_: improved description
--   _Logbook_: added details about governance to personal logbook
--   _Objections_: clarified qualifying objections
--   _Peer Review_: improved description
--   _Respond to Organizational Driver_: integrated information about qualifying drivers
--   _Role_: clarified role keeper may maintain a governance backlog, introduced the term "role keeper" for a person in a role
--   _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications
--   _Resolve Objections_: updated illustration to better reflect the process
+-   _Artful Participation_: improved description 
+-   _Agreement_: clarified that the concept of agreements is applicable to people in roles 
+-   _Clarify Domains_: improved description 
+-   _Circle_: updated definition of "circle", improved description 
+-   _Driver_: updated definition of "driver" 
+-   _Development Plan_: improved description, updated template 
+-   _Develop Strategy_: updated definition of "strategy", improved description 
+-   _Double-Linked Hierarchy_: new illustration 
+-   _Evaluate Agreements_: aligned questions to peer review 
+-   _Governance Backlog_: improved description 
+-   _Logbook_: added details about governance to personal logbook 
+-   _Objections_: clarified qualifying objections 
+-   _Peer Review_: improved description 
+-   _Respond to Organizational Driver_: integrated information about qualifying drivers 
+-   _Role_: clarified role keeper may maintain a governance backlog, introduced the term "role keeper" for a person in a role 
+-   _Proposal Forming_: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications 
+-   _Resolve Objections_: updated illustration to better reflect the process 
 
 **Renamed Patterns:**
 
--   _Backbone Organization_ to _Service Organization_
--   _Effectiveness Review_ to _Peer Review_
--   _Strategy_ to _Develop Strategy_
--   _Domain Description_ to _Clarify Domains_
--   _Describing Deliverables_ to _Describe Deliverables_
+-   _Backbone Organization_ to _Service Organization_ 
+-   _Effectiveness Review_ to _Peer Review_ 
+-   _Strategy_ to _Develop Strategy_ 
+-   _Domain Description_ to _Clarify Domains_ 
+-   _Describing Deliverables_ to _Describe Deliverables_ 
 
 **Added Patterns:**
 
--   _Delegate Influence_
--   _Describe Drivers_
--   _Open Domain_
+-   _Delegate Influence_ 
+-   _Describe Drivers_ 
+-   _Open Domain_ 
 
 **Removed Patterns**
 
--   _Coordination Circle_
--   _Nested Domains_
--   _Qualify Driver_
+-   _Coordination Circle_ 
+-   _Nested Domains_ 
+-   _Qualify Driver_ 
 

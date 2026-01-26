@@ -2,8 +2,8 @@
 title: "Coordinator"
 next_page_title: "Organizational Structure"
 next_page_url: "organizational-structure.html"
-prev_page_title: "Timebox Activities"
-prev_page_url: "timebox-activities.html"
+prev_page_title: "Time-box Activities"
+prev_page_url: "time-box-activities.html"
 ---
 
 

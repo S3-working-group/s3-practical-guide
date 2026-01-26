@@ -19,4 +19,8 @@ The center provides internal services to support the organization.
 
 <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domains</a> are linked as required to flow information and influence, and to support collaboration around dependencies.
 
-![Peach Organization](img/structural-patterns/peach-organization.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/structural-patterns/peach-organization.png" alt="Peach Organization" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Peach Organization</figcaption>'
+</figure>

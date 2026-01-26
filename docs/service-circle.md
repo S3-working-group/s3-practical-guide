@@ -12,4 +12,8 @@ prev_page_url: "delegate-circle.html"
 
 A service circle can be populated by members of the <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> it serves, and/or by other people too.
 
-![Service Circle](img/structural-patterns/service-circle.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/structural-patterns/service-circle.png" alt="Service Circle" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Service Circle</figcaption>'
+</figure>

@@ -1,8 +1,8 @@
 ---
-title: "Be The Change"
+title: "Be the Change"
 next_page_title: "Invite Change"
 next_page_url: "invite-change.html"
-prev_page_title: "Adapt Patterns To Context"
+prev_page_title: "Adapt Patterns to Context"
 prev_page_url: "adapt-patterns-to-context.html"
 ---
 

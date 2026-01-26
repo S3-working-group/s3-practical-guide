@@ -1,13 +1,13 @@
 ---
-title: "Continuous Improvement Of Work Process"
-next_page_title: "Defining Agreements"
-next_page_url: "defining-agreements.html"
-prev_page_title: "Open Space For Change"
-prev_page_url: "open-space-for-change.html"
+title: "Continuous Improvement of Work Process"
+next_page_title: "Time-box Activities"
+next_page_url: "time-box-activities.html"
+prev_page_title: "Limit Work in Progress"
+prev_page_url: "limit-work-in-progress.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Reveal drivers and establish a metrics-based pull-system for organizational change through continuously improving and refining the work process.
+<div class="card summary"><div class="card-body">Reveal drivers and establish a metrics-based pull system for organizational change through continuously improving and refining the work process.
 </div></div>
 
 -   introduce the principle of consent and [Navigate via Tension](navigate-via-tension.html) to evolve work process in a team
@@ -17,12 +17,17 @@ prev_page_url: "open-space-for-change.html"
 -   if valuable, iteratively expand the scope of the experiment to other teams
 -   intentionally look out for impediments
 
-## Waste And Continuous Improvement
 
-_**Waste** is anything unnecessary for – or standing in the way of – a (more) effective response to a driver._
+## Waste and Continuous Improvement
+
+_**Waste**, in relation to purpose, is any activity, output, or use of resources that does not contribute — directly or indirectly — to fulfilling that purpose._
 
 Waste exists in various forms and on different levels of abstraction (tasks, processes, organizational structure, mental models etc.)
 
 Establishing a process for the ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness and adaptation to changing context.
 
-![Drivers, Value and Waste](img/workflow-and-value/drivers-value-waste.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/workflow-and-value/drivers-value-waste.png" alt="Drivers, Value and Waste" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Drivers, Value and Waste</figcaption>'
+</figure>

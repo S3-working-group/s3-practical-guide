@@ -17,4 +17,8 @@ prev_page_url: "double-linked-hierarchy.html"
 
 **Note:** a service organization is sometimes referred to as a **backbone organization**.
 
-![Service Organization](img/structural-patterns/service-organization-text.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/structural-patterns/service-organization-text.png" alt="Service Organization" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Service Organization</figcaption>'
+</figure>

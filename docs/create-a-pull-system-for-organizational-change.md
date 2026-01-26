@@ -1,9 +1,9 @@
 ---
-title: "Create a Pull-System For Organizational Change"
-next_page_title: "Driver Mapping"
-next_page_url: "driver-mapping.html"
-prev_page_title: "Open Systems"
-prev_page_url: "open-systems.html"
+title: "Create a Pull System for Organizational Change"
+next_page_title: "Adapt Patterns to Context"
+next_page_url: "adapt-patterns-to-context.html"
+prev_page_title: "Bringing in S3"
+prev_page_url: "bringing-in-s3.html"
 ---
 
 

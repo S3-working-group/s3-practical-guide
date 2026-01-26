@@ -20,7 +20,11 @@ Short formats you can use:
 -   more of/less of/start/stop/keep
 -   positive/critical/suggested improvements
 
-![Evaluate meetings right before closing the meeting](img/meetings/evaluate-interactions.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/meetings/evaluate-interactions.png" alt="Evaluate meetings right before closing the meeting" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Evaluate meetings right before closing the meeting</figcaption>'
+</figure>
 
 ## Evaluate Meetings: Long Format
 

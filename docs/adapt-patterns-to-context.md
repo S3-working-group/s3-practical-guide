@@ -1,9 +1,9 @@
 ---
-title: "Adapt Patterns To Context"
-next_page_title: "Be The Change"
+title: "Adapt Patterns to Context"
+next_page_title: "Be the Change"
 next_page_url: "be-the-change.html"
-prev_page_title: "Bringing in S3"
-prev_page_url: "bringing-in-s3.html"
+prev_page_title: "Create a Pull System for Organizational Change"
+prev_page_url: "create-a-pull-system-for-organizational-change.html"
 ---
 
 
@@ -20,5 +20,9 @@ Run experiments with adaptations for long enough to learn about the benefits and
 
 Share valuable adaptations with the S3 community.
 
-![Phases of adapting patterns to a specific context](img/process/adapt-pattern-to-context.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/process/adapt-pattern-to-context.png" alt="Phases of adapting patterns to a specific context" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Phases of adapting patterns to a specific context</figcaption>'
+</figure>
 

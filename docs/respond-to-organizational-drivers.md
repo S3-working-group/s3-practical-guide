@@ -10,83 +10,157 @@ prev_page_url: "sense-making-and-decision-making.html"
 <div class="card summary"><div class="card-body">Respond to all organizational drivers you are responsible for, in order of priority, by fulfilling the requirements you determine necessary in each case.
 </div></div>
 
-
 **Table of Contents**
 
-* toc
+-   toc
 {:toc}
 
 
 
 ## Overview
 
-When a role keeper or a team becomes aware of a new driver they are responsible for dealing with, it's usually ineffective to drop everything else and do the first thing that comes to mind to respond to it.
+_An **organizational driver** is a situation where the organization's members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences)._
 
-Here's a series of steps you can take which will support you to make the best use of your time and resources:
+In the course of daily operations, every organization needs to deal with numerous existing and new drivers. Whenever a role keeper or a team becomes aware of a new driver they are responsible for addressing, taking a structured and considered approach supports staying focused on priorities, deciding and acting appropriately, and making the best use of resources, energy, and time. 
+
+This pattern lays out a series of steps to follow that help you focus only on **relevant situations**, address them according to **priority**, consciously **determine what to do**, **act** intentionally, and **review**and iterate if necessary, to ensure each organizational driver is addressed adequately. 
+
+While this approach sounds straightforward, acting in such a methodical and intentional way can be challenging. When faced with new situations, it's common to jump straight into action based on unverified assumptions about what's happening or required and act according to first impulse, habit, or according to how we dealt with things in the past. Such behaviors are more likely under pressure, but also occur simply because we misinterpret a situation, overlook the wider context, or fail to pause long enough to consciously consider what might actually be required. This can lead to various negative consequences for the organization, such as: 
+
+-   **Responding to irrelevant or low-priority situations**: Time and energy are wasted on issues that don't matter or don't align with broader goals.
+-   **Postponing or interrupting work on more important matters**: Focus is diverted from what actually needs attention, or too many issues are dealt with at once.
+-   **Jumping to action without clarifying scope and direction**: Intervening without considering what is a meaningful and appropriate result.
+-   **Designing ineffective or misaligned interventions**: Actions fail to address the actual requirement or conflict with other efforts.
+-   **Overlooking opportunities to learn and adapt**: Interventions are left unreviewed and unchanged, even when they are ineffective, leaving the situation they were meant to address unresolved.
+
+This pattern supports individuals and groups to **focus on what matters**, **consciously determine what's needed**, and **develop coherent, intentional interventions** suited to the situation, while still being flexible enough to react when new things come up that take priority. A structured, intentional approach helps ensure the best use of time and resources. 
+
+These are the recommended steps to take to ensure that all situations that come to your attention in the course of your daily work are adequately addressed:
+
+1. **Confirm that the situation is relevant** for the organization to address and that responding is your responsibility or that of your team.
+2. **Determine its priority**: if it's not an immediate priority, ensure it is added to the appropriate place in the backlog before responding. When it's time to respond:
+3. **Determine the requirement**.
+4. **Determine intervention** (if necessary).
+5. **Act accordingly**.
+6. **Regularly review outcomes** and adapt your approach if necessary, based on what you learn.
+
+Role keepers and teams will have to figure out how to integrate these steps into their daily work processes [to ensure they deliver value incrementally](deliver-value-incrementally.html).
+
+Following these steps ensures that:
+
+-   Action is grounded in a shared understanding of relevance and responsibility.
+-   Responses are deliberate, clear, and adaptive.
+-   Resources are used effectively to create value and avoid waste.
+-   Learning is integrated as part of the process.
+
+This process translates the **[concepts for purposeful action](purposeful-action.html)** into practical steps to navigate everyday work, so you can act with greater coherence and impact. The first three steps relate to clarifying <a href="glossary.html#entry-purpose" class="glossary-tooltip" data-toggle="tooltip" title="Purpose: The reason why something is done, used, or created; a guiding motivation that directs actions, decisions, and resources toward achieving a valuable outcome.">purpose</a>, the next two to determining and implementing <a href="glossary.html#entry-intervention" class="glossary-tooltip" data-toggle="tooltip" title="Intervention: The specific steps you take and/or the constraints you put in place to fulfill a purpose.">interventions</a>, and the final step covers evaluation of both purpose and intervention. 
+
+If you are not familiar with the concepts of purpose, driver, requirement, and intervention, it's recommended to pause here and check them out. 
 
 
-1. Confirm that this situation is both relevant for the organization to respond to, and that responding is the responsibility of you or your team.
-2. Sort it into your backlog according to its priority. When it's time to respond to the driver:
-3. Determine the <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a>
-4. Decide on how to fulfill the requirement 
-5. act on what's been agreed
-6. Regularly review outcomes and, if needed, adapt your decision to improve it, based on what you learn.
-
-
-![Respond to Organziational Drivers](img/process/respond-to-org-drivers.png)
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>'
+</figure>
 
 
 ## Step 1: Confirm Relevance
 
-As a role keeper or team, before responding to a driver, it is essential to verify both that the driver is relevant _for the organization_ to respond to (i.e. it is in fact an _organizational driver_), **and** that it's yours or your team's responsibility to deal with it, or at least, that your doing so is beneficial and that it will cause no impediment or harm.
+Before responding to a situation, it is essential to verify that it is relevant for *the organization* to respond to (i.e., it qualifies as an <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">organizational driver</a>) and that it is your responsibility to handle it.
 
-If you think that a driver is relevant, but it's someone else's responsibility to deal with it, pass it on to them instead (see also [Navigate via Tension](navigate-via-tension.html)). 
+To determine relevance for the organization, ask:
 
-To keep track of new drivers that you become aware of (or that others identify and pass on to you) it's useful that for each domain you set up a dedicated place to receive them, such as a column in a kanban board called "inbox" or "incoming" where information about potentially relevant drivers can be placed.
+***Would responding to this situation help the organization generate value, eliminate waste, or avoid undesirable consequences?***
+
+-   If the answer is **yes**, you've identified an **organizational driver** that requires attention.
+-   If **not**, you can disregard it.
+-   If **you are uncertain**, investigate further or ask for help.
+
+If you personally perceive a situation that seems relevant, take whatever steps are necessary to confirm the fact for yourself. However, if someone else brings a situation to your attention, don't assume it's relevant just because they think so — verify it for yourself. 
+
+Once you confirm the relevance of the driver, determine whether you or your team is responsible for addressing it or if it falls under someone else's responsibility.
+
+-   **If it's outside your scope of responsibility, pass it on** to the appropriate person or team (see [Navigate via Tension](navigate-via-tension.html)). 
+-   **If you are unsure who is responsible, consult with others**, including the person who initially identified the situation.
+
+**Note**: Sometimes, even though an organizational driver is not your explicit responsibility, you might still be best placed to deal with it, given the circumstances. In this case, ensure that your action will be beneficial and cause no impediments, exposure to risks, or harm.
+
+To keep track of new situations that might qualify as organizational drivers, set up a dedicated space for storing information about them. For instance, for each [domain](glosssary:domain), create **a dedicated column on a Kanban board** labeled "**inbox**" or "**incoming**," where information can be stored until relevance is confirmed.
 
 
 ## Step 2: Determine Priority
 
-Once you decide that a driver is described clearly enough and it's relevant for you to respond to, it needs to be prioritized and moved to the appropriate backlog, to be picked up and dealt with accordingly. 
+Once you've established that an organizational driver is relevant for you to respond to, the next step is to identify its priority relative to other matters you already need to deal with. Place it in the appropriate backlog and position it according to its priority, so that it can be managed and addressed effectively.
 
-Even if a situation is relevant to the organization and it falls within your area of responsibility to deal with it, this doesn't imply that it's also a priority to do something about it immediately. There may be many other organizational drivers that are more important to deal with first. Therefore, new drivers need to be prioritized in relation to other work items, so that you remain focused on doing what's most important next, to continue working effectively toward your objectives.
+Even if responding to a situation is relevant and within your area of responsibility, it may not be an immediate priority. Other organizational drivers may need to be addressed first.
 
+To maintain focus and work effectively, attend to high-priority drivers before lower-priority tasks to ensure that organizational energy is directed toward what matters most, rather than merely reacting to each new situation as it comes up. 
 
-## Step 3: Determine the requirement
-
-After establishing that a driver is both relevant and a priority, it's helpful to determine the requirement – what you consider is needed or desirable to effectively respond to the situation – before narrowing down on a specific solution. 
-
-_A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step._
-
-In some cases, the requirement is already clear, because there is an existing agreement that governs how to deal with drivers like this. In this case, simply continue with step 4. Otherwise refer to the pattern [Determine Requirement](determine-requirements.html) for guidance. 
+Remember to review priorities frequently to account for changing circumstances and requirements.
 
 
-## Step 4: Agree on how to fulfill the requirement
+## Step 3: Determine the Requirement
 
-Fulfilling a requirement can include: 
+After establishing that a situation is both relevant to respond to and a priority, it's helpful to [determine the requirement](determine-requirements.html) before deciding on the specifics of an intervention (in the next step).
 
--   direct action (<a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a>)
--   organizing how work will be done 
--   making or changing agreements (including creating new roles, teams, projects, etc.)
+_A **requirement** is a state considered valuable to establish or maintain in order to address a specific driver._
 
-In the absence of any existing agreement that guides people on how to fulfill a requirement, those with responsibility for responding to the driver will need to decide for themselves how to do this. For situations where co-creating a solution as a group is valuable or necessary, consider using one or more of the S3 patterns for decision-making such as [Proposal Forming](proposal-forming.html), and [Consent Decision Making](consent-decision-making.html).
+In some cases, you may be familiar with this kind of driver and how to deal with it, or you have an idea in mind. There may even be an existing policy that clarifies a suitable requirement. In such cases, proceed to the next step and decide how to fulfill the requirement. Or, if you also know how to fulfill that requirement, go to Step 5 (*Act Accordingly*) instead.
+
+However, for new drivers where the requirement is unclear, for example, when there's no policy in place that offers guidance, the situation is complicated or complex, or there are many possible options, you will need to determine a suitable requirement:
+
+-   **The intended outcome(s)** you'd like to achieve to address the driver. 
+-   **The condition(s)** you think should be established to achieve those outcomes.
+
+See [Determine Requirements](determine-requirements.html) for more information and examples.
+
+**Note**: In complex situations, you may not be able to identify a requirement that fully addresses the driver. In such cases, determine one or more requirements whose fulfillment would represent suitable next steps.
 
 
-## Step 5: Act
+## Step 4: Determine the Intervention
 
-Finally, it's time to act on what was agreed. 
+Once the requirement is clear, a suitable intervention can be determined to fulfill the requirement. However, if it's already obvious how to fulfill the requirement, or if an existing policy clarifies what to do, you can proceed to the next step (*Act Accordingly*).
+
+_An intervention is the specific steps you take and/or the constraints you put in place to fulfill a purpose._
+
+Examples of interventions:
+
+-   Activities (operations) 
+-   (Re)Prioritizing daily work (operations) 
+-   Creating or adjusting policies (governance) 
+
+For situations where co-creating an intervention with others is valuable or necessary, consider using one or more of the S3 patterns for decision-making, such as:
+
+-   [Proposal Forming](proposal-forming.html) — for co-creating solutions based on collective input.
+-   [Consent Decision Making](consent-decision-making.html) — for surfacing and addressing objections before moving forward.
+
+If there is uncertainty about how to proceed — especially in novel, high-stakes, or complex situations — consider taking an iterative and incremental approach. Taking things one step at a time supports continuous learning about whether your assumptions about the situation and its relevance, and the requirements and interventions you determine, are actually suitable. This way, you can update your understanding promptly, recognizing as soon as possible what's working, what needs changing, or deciding next, and when to pivot or persevere.
+
+When planning an intervention, consider defining one or more metrics to help you track progress and assess effectiveness over time. Metrics act as early signals that indicate whether you're on track or if you need to adjust your approach. See [Define and Monitor Metrics](define-and-monitor-metrics.html) for support in identifying clear and meaningful metrics.
+
+Record enough detail about the intervention, including any relevant rationale, to support both the implementation and evaluation.
+
+
+## Step 5: Act Accordingly
+
+Once the intervention is clear, it's time to implement it: act according to what you have determined in the previous step.
+
+Take care to follow through on what you agreed to, and stay alert to new information that might reveal the need to make adjustments.
+
+For any significant interventions, consider recording what you actually do, along with the actual outcomes, including those you didn't expect. This information will be valuable for reviewing and, if necessary, improving the intervention later.
 
 
 ## Step 6: Review and Improve
 
-It's helpful to regularly review decisions in light of the outcomes that arise from acting on them, so you can reflect on learning and use that information to identify opportunities for improving any decisions you have made.
+Finally, regularly review the outcomes of your actions to assess what's working and use any insights to identify opportunities for improvement, both regarding the decisions you made and how you execute them.
 
-As well as reviewing outcomes, remember to also review your decisions regarding:
+Reviewing **operational tasks** involves assessing the actual outcomes and checking if the driver has been adequately addressed, considering the requirement and any defined **acceptance criteria**. Before scheduling any rework, first check if the purpose is still relevant.
+
+The process for **evaluating policies** typically benefits from a more structured and detailed approach. For guidance, see [Evaluate and Evolve Policies](evaluate-and-evolve-policies.html).
 
 
--   Your interpretation of the driver, including to evaluate whether a the driver is still relevant, or if the situation has changed
--   The requirement
--   The specific decision you made for how to fulfill the requirement
 
-For more information on reviewing agreements, check [Evaluate and Evolve Agreements](evaluate-and-evolve-agreements.html).
-
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>'
+</figure>

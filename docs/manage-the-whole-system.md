@@ -7,5 +7,5 @@ prev_page_url: "clarify-and-develop-domains.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Ensure that the effectiveness and integrity of the whole organization is monitored and maintained, so that the organization is able to ongoingly and adequately fulfill its purpose.
+<div class="card summary"><div class="card-body">Ensure that the effectiveness and integrity of the whole organization is monitored and maintained, so that the organization is able to sustainably and adequately fulfill its purpose.
 </div></div>

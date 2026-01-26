@@ -16,4 +16,8 @@ Be clear on the purpose and intended outcome of each round.
 
 Sit in a circle, begin each round with a different person, and change direction (clockwise or counterclockwise) to bring variation to who speaks first and last, and to the order of contributions.
 
-![Rounds](img/circle/rounds.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/illustrations/rounds.png" alt="Rounds" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Rounds</figcaption>'
+</figure>

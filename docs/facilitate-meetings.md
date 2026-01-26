@@ -7,7 +7,7 @@ prev_page_url: "rounds.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track and draw out the participant's creativity and wisdom.
+<div class="card summary"><div class="card-body">Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track, and draw out the participants' creativity and wisdom.
 </div></div>
 
 Before each meeting, prepare an agenda of topics, and select a facilitator to:

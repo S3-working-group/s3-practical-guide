@@ -1,7 +1,7 @@
 ---
 title: "Artful Participation"
-next_page_title: "Adopt The Seven Principles"
-next_page_url: "adopt-the-seven-principles.html"
+next_page_title: "Agree On Values"
+next_page_url: "agree-on-values.html"
 prev_page_title: "Enablers of Co-Creation"
 prev_page_url: "enablers-of-co-creation.html"
 ---
@@ -10,9 +10,9 @@ prev_page_url: "enablers-of-co-creation.html"
 <div class="card summary"><div class="card-body">Commit to doing your best to act and interact in ways that enable effective collaboration.
 </div></div>
 
-_"Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?"_
+"_Is my behavior in this moment the greatest contribution I can make to the effectiveness of this collaboration?_"
 
-Participating artfully may include interrupting, objecting or breaking  <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>.
+Participating artfully may include interrupting, objecting to or even breaking <a href="glossary.html#entry-policy" class="glossary-tooltip" data-toggle="tooltip" title="Policy: An intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline.">agreements</a>.
 
 _Artful Participation_ is an **individual commitment** to:
 
@@ -26,20 +26,24 @@ _Artful Participation_ is an **individual commitment** to:
 
 Artful participation:
 
-- enables co-creation and evolution of agreements
+- enables co-creation and evolution of policies
 - helps to grow stronger teams
 - builds self-accountability, integrity and trust
 - generates a culture of mutual support and close collaboration
 - is more powerful when embraced by many
 
-![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/illustrations/balance-autonomy-collaboration-alt.png" alt="Balance autonomy and collaboration through artful participation" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Balance autonomy and collaboration through artful participation</figcaption>'
+</figure>
 
 ## Artful Participation: Self-Assessment
 
 -   How can I support myself and others to participate more artfully?
 -   Where are my interactions with others unhelpful or ineffective?
--   Which agreements do I find hard to keep? What can I do to address this?
--   What skills can I develop, that would support me to participate more artfully?
+-   Which policies do I find hard to adhere to? What can I do to address this?
+-   What skills can I develop that would support me to participate more artfully?
 -   What would artful participation mean in relation to:
     -   my daily activities?
     -   collaboration and interaction with others?

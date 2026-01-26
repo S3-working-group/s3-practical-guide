@@ -23,6 +23,6 @@ Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex ad
 Sociocracy 3.0 describes a variety of [**structural patterns**](building-organizations.html) to grow organizational structure.
 
 -   S3's structural patterns apply to different layers of abstraction
--   different structural patterns fulfill different <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirements</a>
+-   different structural patterns fulfill different <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A state considered valuable to establish or maintain in order to address a specific driver. Requirements are often expressed as _intended outcome(s)_, and _enabling condition(s)_ considered necessary to establish for achieving or maintaining those outcomes.">requirements</a>
 -   structural patterns can be adapted and combined as needed
 -   more patterns are out there and will be discovered

@@ -7,118 +7,189 @@ prev_page_url: "describe-organizational-drivers.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Determine what's required to respond appropriately to an organizational driver, before making a specific decision about what to do.
+<div class="card summary"><div class="card-body">Determine what's required to respond appropriately to an organizational driver before deciding on an intervention.
 </div></div>
 
 **Table of Contents**
 
-* toc
+-   toc
 {:toc}
 
 
+Determining a <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A state considered valuable to establish or maintain in order to address a specific driver. Requirements are often expressed as _intended outcome(s)_, and _enabling condition(s)_ considered necessary to establish for achieving or maintaining those outcomes.">requirement</a> before deciding on the specific steps to be taken helps define a **general direction** and **scope** for an intervention, while still allowing for a range of options on how to fulfill the requirement to respond to the driver in an effective way.
 
-## Overview
+As we mentioned in the section [A Model for Purposeful Action](a-model-for-purposeful-action.html) one way to understand work in organizations is as *people making interventions to fulfill a purpose.*
 
-Identifying and responding to organizational drivers is a fundamental aspect of everyone's working day in an organization. Intentionally and explicitly clarifying the general direction and scope of the response to a driver _before_ deciding on what specific steps to take, helps identify more specific and suitable solutions, especially in complex situations.
+Purpose informs, motivates, and guides action. Interventions are specific steps people take, and/or the constraints they put in place, to fulfill a purpose.
 
-_A **requirement** is a need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step._
+To help people make sense of and clarify purpose, we use the concepts of *organizational drivers* and *requirements*.
 
+-   An **organizational driver** is any *situation* that is relevant for the organization to address.
+-   A **requirement** is a *future state* considered valuable to establish or maintain in order to address a specific driver. 
+-   The intervention can be understood as fulfilling the requirement that has been identified as suitable to address the driver. 
 
-![Determine the requirement](img/process/determine-requirement.png)
+In short, the driver explains the situation that makes the intervention relevant. The requirement serves both as an indication of the **direction** to go and as a clarification of the **scope** and **boundaries** of the intervention. 
 
-
-## Examples
-
-1.  **Driver**: _Information is unstructured, kept in silos and sometimes unrecorded, leading to people working with missing or outdated information, which results in ineffectiveness and our clients' needs being unmet._
-
-    **Requirement**: _We need to store and share relevant information effectively, to improve everyone's ability to provide valuable solutions for our customers._
-
-2.  **Driver:** _We spend 25% of our work hours on admin work and this is leading to slow response time for customer requests and a growing number of complaints. We're starting to develop a bad reputation and run the risk of losing customers and compromising future sales._
-
-    **Requirement:** _We need to free up time for handling customer requirements in a timely manner, so that we improve customer satisfaction and eliminate this type of complaint._
-
-3.  **Driver**: _We're preparing to recruit five new members into the development teams, and a lack of relevant training could lead to inefficiencies and errors, and an overall decrease in team productivity and quality of work._
-
-    **Requirement:** _We need to ensure that all prospective candidates have the relevant training and experience, so they can effectively contribute to the teams they'll be part of._
-
-4.  **Driver**: _The teams often work on items that have not been prioritized in accordance with the product roadmap. This slows down the delivery of features that have been assigned a high priority by the customer and is leading to complaints about the effectiveness of our work._
-
-    **Requirement:** _We need to improve alignment of the team planning to the product roadmap so that the most important features are shipped first._
-
-5.  **Driver:** _Although the financial records of the organization are available to anyone who asks, most people in the organization lack adequate financial understanding to make sense of them in the current format. This leads to frustration, uncertainty and questions that are hard to answer about why certain decisions are being made._
-
-    **Requirement:** _We need to present the information in ways that are understandable, so that people can inform themselves when insight into the financial situation of the organization is required._
+Usually, the people responsible for addressing a driver are also responsible for determining the corresponding requirement. In more complex situations, it can be helpful to involve people with diverse perspectives when determining the requirement, because they can surface blind spots, challenge assumptions, and improve shared understanding — leading to a clearer, more realistic, and more widely supported requirement.
 
 
-## Why determine requirements?
+## Why Determine Requirements?
 
-In some cases, a requirement is already clear because there is an existing agreement that governs how to deal with a particular driver, or because the situation is simple to deal with and the requirement is obvious.
+When people notice a problem or opportunity, there's a natural tendency to jump straight to an intervention ("let's do X"). That speed can be valuable, but it can also lead to avoidable problems: people might act on habits that are unsuitable for the current context, or they might overlook constraints and side effects, or end up in polarized conversations about what to do before they even agree on which direction to take. 
 
-If there is no agreement in place you need to agree (or decide) what the requirement is. Then you can then act on what has been agreed, review outcomes and, if necessary or helpful, adapt and improve things based on what you learn. 
+Determining a requirement, before deciding on specific steps to take or constraints to put in place, **defines a general direction and scope**, while still allowing for a range of options on how to fulfill the requirement.
 
-Our opinion about what's required to deal with a specific situation will inevitably be influenced by our past experience. When facing complex situations however, our initial opinion about what's required is more likely to be unsuitable or difficult to determine: Several potential requirements may be indicated or what's required may simply be unclear. 
+**When two or more people share responsibility for deciding** how to address an organizational driver, differing opinions about specific solutions can lead to contention. When stakeholders are on the same page about the requirement, agreeing on an intervention becomes much easier: proposals can be compared against a shared "target condition," rather than against competing opinions. 
 
-This is why it's valuable to approach deciding what you believe is required to respond effectively, in a conscious and intentional way, even if the requirement appears obvious.
-
-**Determining a requirement, before deciding on what specific steps to be taken**, helps define a general direction while still allowing for a range of options on how to fulfill the requirement to respond to the driver in an effective way.
-
-**When two or more people share responsibility** for deciding how to respond to an organizational driver, differing opinions about specific solutions can lead to contention. People's ideas can be contradictory or objectionable to others, and they can get into either/or conversations about what would be best. To avoid such confrontation, it's helpful to resist debating specific solutions until you've agreed on the requirement first. 
-
-**Even in the case that you are the sole person responsible** for responding to an organizational driver, it's useful to clarify for yourself the requirement, before deciding how to proceed. Deciding on a course of action is often more straightforward when the general direction and scope for such action is determined first.
-
-**Keeping a record of the requirement** (as well as any relevant information about _why_ it was chosen) will help with communicating the requirement to others – especially to those who will be affected by whatever's decided and by those who will help respond to the organizational driver. It will also help later when reviewing and potentially improving whatever decision has been made.
-
-Once a requirement is determined, the **next steps for responding to the organizational driver** involve agreeing on how to fulfill the requirement, acting on this agreement, reviewing outcomes, and, if needed, adapting your decision to improve it, based on what you learn (see [Respond to Organizational Drivers](respond-to-organizational-drivers.html) for more details).
-
-In complex situations where multiple and sometimes even contradictory options exist, an iterative approach for determining a requirement may be necessary because: 
-
--   In some cases the suitability of a particular requirement can only be validated through experimentation (i.e. practical application and subsequent evaluation)
--   fulfilling what was initially determined as required may take you some way toward responding to a driver, but a further requirement – or even several further requirements – may need to be determined and fulfilled sequentially, to respond to the driver in an adequate way.
+**Even if you are the sole person responsible** for responding to an organizational driver, it's useful to clarify the requirement for yourself before deciding how to proceed. Deciding on a course of action is often more straightforward when the general direction and scope for such action are determined first.
 
 
-## How to determine the requirement
+## When to Determine a Requirement?
 
-An organizational driver is a situation that the organization would benefit from responding to. A requirement however, is a decision that defines direction and scope for a suitable response. When determining what requirement would be suitable, it's helpful to consider:
+Determine a requirement **after** confirming that the situation you wish to address qualifies as an organizational driver, and that it's your or your team's responsibility to deal with it.
 
--   **The requirement**: what you believe is needed or desirable to respond to this driver appropriately
--   **The anticipated impact**: how you think fulfilling the requirement will help with the driver.
+Avoid determining requirements for situations you don't plan to tackle soon, because context and relevance can change, and your efforts might go to waste.
 
+**Before** investing time in determining a suitable requirement, consider whether there is already a policy in place that covers this kind of thing. Also, check if you already have a policy in place that you can adapt or extend to address this situation.
 
-### Requirement
-
-When determining a requirement, deciding how specific or broad to be is crucial. Each requirement inherently suggests a direction; a more specific one narrows the range of options for how to fulfill it, while a less specific requirement broadens the possibilities. The desirability of a wider or narrower scope of options varies depending on the situation.
-
-When addressing a complex driver, or when deciding how to respond to an organizational driver collaboratively, it's often beneficial to aim for a requirement that allows for a broader scope of potential solutions.
-
-If people bring contradictory suggestions about what's required, this is sometimes an indicator that they're too much in the solution space. In this case it can be helpful to zoom out and try to identify a requirement that some or all of these solutions might help to fulfill.
-
--   Be specific on whose requirement it is (e.g. "we need", "they need", "I need") 
--   Avoid describing specific solutions disguised as requirements (see "Requirement vs. Solution" below)
-
-Sometimes further investigation of the driver or experimentation to test assumptions may be the first requirement, leading to the identification of a more specific and suitable requirement in time.
+Even in the case that a suitable requirement is obvious (to you), it's still often worthwhile to make it explicit by recording it for future reference.
 
 
-### Anticipated Impact
+## How to Describe a Requirement?
 
-When describing the anticipated impact, explain what you anticipate the consequence of fulfilling the requirement will lead to, and how this is relevant in relation to the driver.
+An <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">organizational driver</a> is a **present situation** that the organization would benefit from addressing. A requirement linked to a driver is a desired **future state**, in which the present situation is adequately addressed. The requirement defines direction and scope for a suitable intervention. 
 
--   Explain potential benefits, opportunities, or even the <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: The expected result of an agreement, action, project or strategy.">intended outcome</a> of responding to the requirement _in relation to the driver_.
--   Making the impact explicit constraints the scope of the response and helps evaluating the effectiveness of the response in relation the driver 
+A simple way to describe a requirement is by explaining:
 
+-   **Intended outcome(s)**: Specific, observable results you aim to achieve in relation to a driver.
+-   **Enabling condition(s)**: Circumstances considered necessary to establish or maintain for achieving or sustaining the intended outcomes.
 
-## Requirement vs. Solution
+How much detail is necessary to communicate a requirement depends on context. For simple requirements, it is sufficient to explain them as a single sentence: 
 
-The requirement provides a general direction and clarifies the scope for possible solutions. A solution on the other hand is a specific course of action that fulfills a requirement.
-
-Example:
-
--   **Requirement:** _We need to store and share relevant information effectively, to improve everyone's ability to provide valuable solutions for our customers._
--   **Solution**: _A simple and comprehensive information architecture for Confluence, and a coordinated effort to migrate all existing information into that structure._
-
-The requirement above explains _what_ is missing (absent or deficit in some way), but it doesn't specify _how_ the information will be stored and shared, what steps to take, and who will do what, etc. Having agreed on this requirement, specific decisions. e.g. about _how_ and _where_ to store and share relevant information effectively can be made.
+*\<stakeholder\> needs \<enabling conditions\> so that \<intended outcome(s)\>.*
 
 
-## When to determine a requirement?
+**Examples**
 
-Determine the requirement _before_ deciding how to specifically respond to an organizational driver, but _after_ establishing that this is in fact an organizational driver, that it's yours or your team's responsibility to deal with it, _and_ that responding is a priority. Determining a requirement for drivers that are _not_ a priority might be wasteful, because the situation or its relevance to the organization might change.
+1. (stakeholder) *Employees need* (enabling conditions) *to gain confidence and competence in applying the new procedure so that* (intended outcome) *they can carry out their responsibilities independently without needing frequent guidance or correction.*
+2. (stakeholder) *We* (enabling conditions) *need to ensure that team members' concerns about how we work are heard and addressed* (intended outcomes), *so that we can address issues early and prevent bigger problems down the line.*
+3. (stakeholder) *We* (enabling conditions) *need to understand recurring themes and patterns in customer feedback* (intended outcome) *to prioritize necessary and worthwhile improvements.*
 
+People familiar with Scrum or other agile methodologies will recognize that the format above is similar to that used for **user stories**. We use it deliberately: the concept of a 'requirement' builds on the idea of user stories, and extends it beyond product development to apply to any kind of purposeful intervention, in organizations and beyond. (see [Requirements and User Stories](concepts#​​Requirements-and-User-Stories for more information.html)
+
+Often, the stakeholder is implicit, and sometimes it's only necessary to describe the intended outcome(s), or only the enabling conditions, because the other is obvious or implicit. 
+
+
+**Examples** (variations on one requirement): 
+
+1. (enabling conditions) *Gain confidence and competence in applying the new procedure* (intended outcome) *so that everyone can carry out their responsibilities independently without needing frequent guidance or correction.*
+2. (stakeholder) *Everyone* (intended outcome) *needs to be able to carry out their responsibilities independently without needing frequent guidance or correction.*
+3. (stakeholder) *Employees* (enabling conditions) *need to gain confidence and competence in applying the new procedure.*
+
+
+## How to Determine a Requirement?
+
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/process/determine-requirement.png" alt="Determine the requirement" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Determine the requirement</figcaption>'
+</figure>
+
+A requirement is always determined in relation to a <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">driver</a>, so before doing so, make sure the driver is understood. Write down a [description of the driver](describe-organizational-drivers.html) to keep it in mind.
+
+If the requirement is obvious, name it and go on. There is no need to overthink something if it is known or clear.
+
+Otherwise, start by identifying **outcome(s)** that are valuable in relation to the driver, and then identify **the immediate condition(s)** that must be true to realize those outcomes.
+
+-   Which **outcomes** would be valuable in addressing the situation? 
+-   Which **enabling conditions** need to be in place to achieve these outcomes? 
+
+When determining requirements, it's important to ensure that existing external or standard constraints are considered. Many of these will be considered implicitly during the process, because people already have them in mind, and they naturally shape what they judge to be an appropriate requirement. 
+
+After defining a combination of outcome(s) and enabling condition(s), check if the resulting requirement is suitable, effective, and feasible:
+
+-   **Suitability**: Will the outcome address the driver?
+-   **Effectiveness**: Are the enabling conditions likely to produce the outcome?
+-   **Feasibility**: Can the conditions realistically be established?
+
+Refine the outcomes and enabling conditions (using objections if seeking others' opinion) until the requirement is good enough.
+
+If even after some deliberation, the full requirement is still not apparent, identify a requirement for the next incremental step. Once that step has been implemented, return to defining the complete requirement.
+
+**Note**: If you discover *later* that a requirement turns out to be unsuitable, ineffective, or unfeasible, refine it as needed or start from scratch and determine a new requirement.
+
+
+### Requirements in Complexity
+
+When dealing with a <a href="glossary.html#entry-complexity" class="glossary-tooltip" data-toggle="tooltip" title="Complexity: An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]">complex</a> situation, the relationship between cause and effect is unclear, and there might be many unknown unknowns.
+
+Further investigation of the situation or experimentation to test assumptions may be the first requirement, and fulfilling that will lead to the emergence of more specific requirements. This process of iteratively defining requirements and then fulfilling them continues until the situation is adequately addressed. 
+
+In complexity, it's also useful to determine requirements collaboratively, to benefit from the diversity of perspectives and experiences of relevant stakeholders or others with expertise. 
+
+
+### Balancing Specificity and Scope
+
+When determining a requirement, make a conscious decision about how specific or broad it should be. Each requirement inherently suggests a direction for the intervention that addresses the organizational driver; a more specific one narrows the range of options, while a less specific requirement broadens the possibilities. The desirability of a wider or narrower scope of options varies depending on the situation. 
+
+Contradictory suggestions about what is required often indicate that the discussion could have become overly specific. In that case, zooming out to a higher level that encompasses these suggestions can open the way for a broader range of options for designing an intervention.
+
+
+## Clarifying Requirements Through Acceptance Criteria
+
+While a requirement can often be described sufficiently with a single sentence, there is sometimes merit in defining it further. This is especially the case when it would otherwise be difficult later to determine whether that requirement has been adequately fulfilled, because the future state needs to be described in more detail, or the enabling conditions that bring it about, or the relationship between those conditions and the intended outcomes, needs more explanation.
+
+This is typically achieved through **acceptance criteria**: *a set of specific, verifiable properties of the conditions and/or outcomes of a requirement that, when taken together, indicate the requirement is fulfilled.*
+
+Acceptance criteria **reduce ambiguity** by breaking a requirement down into concrete, verifiable aspects. In doing so, they can make the requirement more specific and actionable when doing so is helpful.
+
+They inform the intervention by ruling out those that cannot plausibly satisfy the criteria, and by focusing attention on actions capable of producing the required effects.
+
+It's especially useful to define acceptance criteria in complicated or complex situations, or when a product or solution needs to be handed over to a customer (within the organization or beyond), because the customer can use them to verify fulfillment *without* needing to understand the intervention's technical details.
+
+When defining acceptance criteria, consider the following question: 
+
+-   *What **specific, observable indicators** would show that the intended outcomes have been adequately achieved?*
+-   *What **verifiable properties** must the enabling conditions have to bring about the intended outcomes?*
+
+Sometimes, answering one question or the other is enough to clarify the requirement in a given context. 
+
+Once some criteria have been identified, check: *Are these criteria taken together sufficient to determine whether the requirement has been fulfilled?*
+
+**Example**: *Department Relocation*
+
+-   **Requirement**: *We need to organize the relocation so that daily operations continue smoothly.* 
+-   **Acceptance Criteria**:
+    -   *What **specific, observable indicators** would show that daily operations continued smoothly during the relocation?*
+        -   systems and access remain available
+        -   critical operations meet minimum service levels
+        -   problems that come up are resolved promptly
+    -   *What **verifiable properties** must "organize the relocation" have to bring about the intended outcome?*
+        -   Critical operations are identified and protected 
+        -   The relocation schedule is aligned with operational needs and communicated with enough time to plan for the relocation
+        -   We know what to do when we hit an unforeseen problem
+        -    Testing proves continuity measures work
+
+In this example, the requirement remains a single, coherent statement of what is needed. The acceptance criteria specify how people will verify that the requirement has been fulfilled in practice.
+
+Not all acceptance criteria need to be made explicit for every requirement. Some standard or  "non-functional" criteria may apply across many different requirements, for example:
+
+-   product standards
+-   security or privacy policies
+-   accessibility standards
+-   legal or regulatory constraints
+
+Instead of repeating such criteria with each requirement, it is simpler to maintain them as shared standards or policies and reference them where relevant.
+
+When describing acceptance criteria, ensure they are verifiable, relevant, and complete:
+
+-   **Verifiable**: clear pass/fail or measurable thresholds.
+-   **Relevant**: it contributes to the requirement's value in relation to the driver
+-   **Complete**: together they cover the full intent of the requirement.
+
+**Note:** From the perspective of the requirement that is being clarified through acceptance criteria, these acceptance criteria point toward sub-requirements the intervention must fulfill, related to adequately fulfilling the main requirement, typically relating to the condition(s) or intended outcome(s) of that requirement. Acceptance criteria are typically defined as intended outcomes only.
+
+
+## Keep a Record
+
+Record a description of the requirement (for example, in your [logbook](logbook.html)), and unless it's obvious, the driver it responds to, along with any acceptance criteria, any context that's useful to know about, and the key reasons the requirement was chosen. This makes it easier to communicate the requirement and its relevance to others, especially those affected by the intervention and those responsible for carrying it out. It also provides a clear reference point later, when you review the intervention and decide what to improve.

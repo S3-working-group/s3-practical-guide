@@ -1,5 +1,5 @@
 ---
-title: "A pattern-based approach to organizational change"
+title: "A Pattern-Based Approach to Organizational Change"
 next_page_title: "What's in this guide?"
 next_page_url: "contents.html"
 prev_page_title: "How does Sociocracy 3.0 help?"

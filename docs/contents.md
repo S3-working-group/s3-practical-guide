@@ -2,7 +2,7 @@
 title: "What's in this guide?"
 next_page_title: "Influences and History of Sociocracy 3.0"
 next_page_url: "history.html"
-prev_page_title: "A pattern-based approach to organizational change"
+prev_page_title: "A Pattern-Based Approach to Organizational Change"
 prev_page_url: "pattern.html"
 ---
 

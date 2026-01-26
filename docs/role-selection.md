@@ -7,7 +7,7 @@ prev_page_url: "reasoned-decision-making.html"
 ---
 
 
-<div class="card summary"><div class="card-body">A group process for selecting a person for a role on the strength of the reason.
+<div class="card summary"><div class="card-body">A group process for selecting a person for a role based on the strength of the reason.
 </div></div>
 
 Instead of simply assigning people for [roles](role.html), or making a choice based only on majority, use the role selection process to:
@@ -20,7 +20,11 @@ A prerequisite to the selection process is a [clear description](clarify-and-dev
 
 ## Steps
 
-![Role selection process](img/agreements/selection.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/selection.png" alt="Role selection process" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Role selection process</figcaption>'
+</figure>
 
 1. **Present Role Description:** If possible, send out the role's domain description in advance.
 2. **Record Nominations:** Participants write their nomination on a slip of paper. People can nominate themselves, another, or pass.
@@ -31,12 +35,12 @@ A prerequisite to the selection process is a [clear description](clarify-and-dev
     -   proposing a nominee themselves or asking a group member
     -   inviting (some) nominees to agree who should be proposed
     -   inviting group dialogue to help reveal the strongest nominee
-7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a>.
+7. **Check for Objections:** Ask participants (including the proposed nominee) to simultaneously signal whether or not they have an <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.">objection</a>.
 8. **Address and Resolve Objections,** beginning with any from the proposed nominee. [Objections may be resolved](resolve-objections.html) in many ways, including amending the role's domain description or by nominating someone else. When all objections are resolved, check with the (final) nominee again if they accept the role.
 9. **Celebrate:** Acknowledge reaching agreement and thank the person who will now keep the role.
 
 To avoid influencing others, abstain from expressing personal interest or opinions before a selection takes place.
 
-Sometimes a role selection reveals a lack of capacity, relevant experience, qualities or skill. A group will then need to consider outside candidates, reconsider priorities or find an alternative way to account for the domain.
+Sometimes a role selection reveals a lack of capacity, relevant experience, qualities or skill. A group will then need to consider outside candidates, reconsider priorities or find an alternative way to attend to the domain.
 
 This pattern can also be used in any situation where there is a need to choose between a variety of options.

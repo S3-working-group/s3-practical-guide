@@ -13,6 +13,6 @@ prev_page_url: "agree-on-values.html"
 For larger groups:
 
 -   facilitate a process in several stages and create smaller groups who select delegates
--   use an online tool and conduct an asynchronous, [timeboxed](timebox-activities.html) and staged process
+-   use an online tool and conduct an asynchronous, [time-boxed](time-box-activities.html) and staged process
 
 Consider including those affected in reviewing and evolving decisions, too.

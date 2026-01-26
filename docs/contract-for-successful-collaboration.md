@@ -1,7 +1,7 @@
 ---
-title: "Contract For Successful Collaboration"
-next_page_title: "Record Agreements"
-next_page_url: "record-agreements.html"
+title: "Contract for Successful Collaboration"
+next_page_title: "Record Governance Decisions"
+next_page_url: "record-governance-decisions.html"
 prev_page_title: "Defining Agreements"
 prev_page_url: "defining-agreements.html"
 ---
@@ -34,7 +34,7 @@ This pattern refers to contracts relating related to collaboration around any bu
 
 **Note:** Many agreements about collaboration within an organization do not require dedicated contracts, as they are already governed by or subject to existing contracts.
 
-## Success criteria for contract negotiation
+## Success Criteria for Contract Negotiation
 
 When negotiating a contract, ensure:
 
@@ -47,7 +47,7 @@ When negotiating a contract, ensure:
 
 If for any reason one or more of these criteria cannot be fulfilled, it is probably wise to not proceed.
 
-## Co-creating the contract
+## Co-Creating the Contract
 
 The way a contract is negotiated can significantly contribute toward building trust between parties. Approach contracting from the point of view of making an agreement between partners, not adversaries: co-create the contract, tailor it to its specific context, and ensure it is legally robust.
 
@@ -56,7 +56,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 - if you need to use specific technical or legal terms a party might be unfamiliar with, explain them in a glossary that is part of the contract
 - consult a lawyer who supports the culture you aspire to and is competent in the field of business you are negotiating
 
-## When Co-Creating a Contract:
+## When Co-Creating a Contract
 
 - ensure all parties have a delegation that includes representation for all affected <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. not only sales, but also development, production, support etc.)
 - explicitly describe the culture you want to develop, with consideration for common ground and any cultural differences between parties
@@ -67,7 +67,7 @@ The way a contract is negotiated can significantly contribute toward building tr
 - negotiate in several iterations, allowing time to consider implications and propose amendments
 - keep minutes of each meeting to reduce the potential for misconceptions
 
-## Support The Full Lifecycle Of The Collaboration:
+## Support the Full Lifecycle of the Collaboration
 
 Any contract can be changed at any time, provided all signatories agree. However, it greatly reduces the potential for conflict later if you consider the full lifecycle of the collaboration in the contract:
 

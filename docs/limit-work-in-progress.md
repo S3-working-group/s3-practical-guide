@@ -1,8 +1,8 @@
 ---
 title: "Limit Work in Progress"
-next_page_title: "Timebox Activities"
-next_page_url: "timebox-activities.html"
-prev_page_title: "Pull-System For Work"
+next_page_title: "Continuous Improvement of Work Process"
+next_page_url: "continuous-improvement-of-work-process.html"
+prev_page_title: "Pull System For Work"
 prev_page_url: "pull-system-for-work.html"
 ---
 
@@ -16,5 +16,4 @@ Work in progress includes:
 -   concurrent projects or tasks for teams or individuals
 -   products in a portfolio
 
-When an action would exceed an agreed upon limit of work items in progress, this needs to be brought up with the team before continuing.
-
+When a team member notices an action would exceed an agreed upon limit of work items in progress, they bring it with the team before continuing. The team then decides together how to proceed. 

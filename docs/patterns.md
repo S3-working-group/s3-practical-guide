@@ -2,8 +2,8 @@
 title: "The Patterns"
 next_page_title: "Sense-Making and Decision-Making"
 next_page_url: "sense-making-and-decision-making.html"
-prev_page_title: "Governance and Operations"
-prev_page_url: "governance.html"
+prev_page_title: "Complexity"
+prev_page_url: "complexity.html"
 ---
 
 
@@ -13,7 +13,7 @@ prev_page_url: "governance.html"
 
 S3 offers a pattern-based approach to organizational change.
 
-_A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity._
+_A **pattern** is a process, practice, or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity._
 
 Patterns are modular and adaptable, can be used independently, and are mutually reinforcing, complementing one another when used in combination. S3 patterns can be evolved and adapted to address your specific needs.
 

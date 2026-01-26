@@ -25,7 +25,11 @@ The name "*Sociocracy 3.0*" demonstrates both respect to the lineage and a sign
 
 It also helps avoid the perception of us misrepresenting the _Sociocratic Circle Organization Method (SCM)_ as promoted by The Sociocracy Group (TSG), The Sociocracy Consulting Group, Sociocracy For All (SoFA), Governance Alive, and many others.
 
-![Three variants of sociocracy](img/context/sociocracy-variants.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/framework/sociocracy-variants.png" alt="Three variants of sociocracy" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Three variants of sociocracy</figcaption>'
+</figure>
 
 ## The New Model of Distribution
 
@@ -54,7 +58,7 @@ _Sociocracy 3.0_ moves primary focus away from attempting to realize a vision, 
 
 When looking at the norms, the _Sociocratic Circle Organization Method_ may look big and scary. By focusing on the essentials only, _Sociocracy 3.0_ offers a more lightweight starting point to adapt and build on as necessary.
 
-This doesn't mean to say it's all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and un-learning. This is why it's important to only pull in what you need, because there's no point to changing things if what you are doing is already good enough.
+This doesn't mean to say it's all easy: choosing to pull in *Sociocracy 3.0's* patterns requires an investment in learning and unlearning. This is why it's important to only pull in what you need, because there's no point to changing things if what you are doing is already good enough.
 
 ### Integration With Agile and Lean Thinking
 

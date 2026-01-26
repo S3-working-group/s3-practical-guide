@@ -1,5 +1,5 @@
 ---
-title: "Pull-System For Work"
+title: "Pull System For Work"
 next_page_title: "Limit Work in Progress"
 next_page_url: "limit-work-in-progress.html"
 prev_page_title: "Deliver Value Incrementally"

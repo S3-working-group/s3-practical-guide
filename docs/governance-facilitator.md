@@ -10,10 +10,10 @@ prev_page_url: "meeting-host.html"
 <div class="card summary"><div class="card-body">Select someone to facilitate governance meetings.
 </div></div>
 
-A <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> facilitator:
+A <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it.">governance</a> facilitator:
 
 -   ensures [governance meetings](governance-meeting.html) stay on track and are evaluated
--   is (usually) selected by a <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> from among it members (and for a specific term)
+-   is (usually) selected by a <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: A group of people collaborating toward fulfilling a shared purpose. Typically, a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> from among its members (and for a specific term)
 -   familiarizes themselves with the [Governance Backlog](governance-backlog.html)
 -   often invites others to facilitate some agenda items
 
@@ -27,4 +27,8 @@ As a governance facilitator, consider learning about and using the following pat
 -   [Resolve Objections](resolve-objections.html)
 -   [Peer Review](peer-review.html)
 
-![The governance facilitator is typically a member of the team](img/circle/facilitator.png)
+
+<figure class="fig fig--limit-both fig--scale-small">
+    <img src="img/illustrations/facilitator.png" alt="The governance facilitator is typically a member of the team" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>The governance facilitator is typically a member of the team</figcaption>'
+</figure>

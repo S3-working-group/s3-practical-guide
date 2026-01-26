@@ -1,15 +1,14 @@
 ---
 title: "Resolve Objections"
-next_page_title: "Evaluate And Evolve Agreements"
-next_page_url: "evaluate-and-evolve-agreements.html"
-prev_page_title: "Test If Arguments Qualify as Objections"
+next_page_title: "Evaluate and Evolve Policies"
+next_page_url: "evaluate-and-evolve-policies.html"
+prev_page_title: "Test if Arguments Qualify as Objections"
 prev_page_url: "test-arguments-qualify-as-objections.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Use the information revealed by an objection to identify ways to evolve proposals, agreements and actions to a good-enough state. 
+<div class="card summary"><div class="card-body">Use the information revealed by an objection to identify ways to evolve proposals, policy and actions to a good-enough state. 
 </div></div>
-
 
 **Table of Contents**
 
@@ -20,22 +19,22 @@ prev_page_url: "test-arguments-qualify-as-objections.html"
 
 ## Overview
 
-Typically it's most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument –relating to a proposal, existing agreement, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization, or that demonstrates worthwhile ways to improve.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
+Typically it's most effective to **take one <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Objection: An argument – relating to a proposal, existing decision, or activity being conducted by one or more members of the organization – that reveals consequences or risks that are preferably avoided for the organization or that demonstrates worthwhile ways to improve.">objection</a> at a time**, come up with a proposal for an amendment, resolve any objections to that amendment, and then continue with the next objection to the overall proposal. 
 
-A proposal becomes an agreement when all objections have been resolved.
+A proposal becomes policy when all objections have been resolved.
 
-Objections are resolved by amending the proposal. **Amendments** can include: 
+Objections are resolved by amending the proposal. **Amendments** can include the following: 
 
 - adding, removing and/or changing something in the proposal.
 - deferring resolution of a particular objection until later. (Remember to clarify who will take responsibility for this, by when, and what will happen after that).
-- an alternative proposal, or an agreement to (co-)create a new proposal in the future (if it's considered more effective than continuing to work on developing the existing proposal).
+- (co-)creating a new proposal in the future (if it's considered more effective than continuing to work on developing the existing proposal).
 - delegating the task to review, research, and/or propose an amendment for one, or even several related objections, to an individual or group.
 - leaving the main proposal unchanged and monitoring the outcome because the effort, or cost of changing things to resolve the objection, outweighs the anticipated benefits or gain.
 - asking a delegator for feedback or input (e.g. when agreeing on a strategy for a subdomain).
 - take some more time for reflection and then come back to the objection again later.
 - etc.
 
-There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a> or fulfill the corresponding <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A need or desire considered necessary to fulfill to respond to an organizational driver, adequately or as a suitable incremental next step.">requirement</a> reaching an agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations. 
+There's always an iterative next step of some kind that you can take! Even if a proposal doesn't fully address the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">driver</a> or fulfill the corresponding <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A state considered valuable to establish or maintain in order to address a specific driver. Requirements are often expressed as _intended outcome(s)_, and _enabling condition(s)_ considered necessary to establish for achieving or maintaining those outcomes.">requirement</a>, reaching agreement about **one or more iterative next steps** is often good enough. It's also helpful sometimes to break things down into small steps, especially when you're dealing with complex or complicated situations. 
 
 Objections can be resolved by following the process outlined in [Reasoned Decision-Making](reasoned-decision-making.html):
 
@@ -53,12 +52,16 @@ If there are no possible objections, proceed to step 6 (Celebrate), otherwise ta
 
 **Step 6:** Celebrate! You've agreed on an amendment that resolves the objection! 
 
-![Process for resolving an objection](img/agreements/resolve-objections.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/resolve-objections.png" alt="Process for resolving an objection" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Process for resolving an objection</figcaption>'
+</figure>
 
 Below you'll find more guidance on how to go through each step. This process can be repeated until all objections have been resolved. As with all patterns in S3, your approach to resolving objections can be adjusted to suit your context. 
 
 
-## Step 1: Come up with a proposal for an amendment
+## Step 1: Come Up With a Proposal for an Amendment
 
 *Come up with a suggestion for how to amend the proposal to resolve the objection based on information the objection reveals.* 
 
@@ -73,7 +76,7 @@ As with any proposal, an amendment suggestion gives you a starting point that ca
 It's often helpful to repeat or summarize the amendment and write it down for everyone to see. 
 
 
-## Step 2: Understand amendment
+## Step 2: Understand Amendment
 
 *Ensure everyone understands the amendment being proposed.*
 
@@ -96,7 +99,7 @@ This step is simply about identifying who has possible objections or concerns. A
 
 Many groups use hand signs as a way to indicate quickly and clearly if anyone has any possible objections. 
 
-- In case there are possible objections to the suggested amendment, go on to the next step, Test One Argument Qualifies as Objection(link). 
+- In case there are possible objections to the suggested amendment, go on to the next step (*Test One Argument Qualifies as Objection*). 
 - If no one indicates having any possible objections, go to **Step 6: Celebrate**, because you've agreed on the amendment.
 
 
@@ -108,7 +111,7 @@ Please refer to [Test Arguments Qualify as Objections](test-arguments-qualify-as
 - If the argument doesn't qualify, go back to **Step 3** to check if there are any further possible objections to the proposed amendment. 
 
 
-## Step 5: Resolve one Objection
+## Step 5: Resolve One Objection
 
 *Repeat the process: use the Resolve Objection pattern to resolve one objection to the amendment.* 
 
@@ -116,7 +119,11 @@ Come up with an amendment to the current amendment suggestion! Be aware that a p
 
 As you can see, the Resolve Objections pattern can be used recursively. Below you will find an illustration that shows how this works.
 
-![Recursive application of the Resolve Objection pattern](img/agreements/resolve-objections-process.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/resolve-objections-process.png" alt="Recursive application of the Resolve Objection pattern" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Recursive application of the Resolve Objection pattern</figcaption>'
+</figure>
 
 
 ## Step 6: Celebrate!

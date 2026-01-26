@@ -1,6 +1,6 @@
 ---
 title: "Deliver Value Incrementally"
-next_page_title: "Pull-System For Work"
+next_page_title: "Pull System For Work"
 next_page_url: "pull-system-for-work.html"
 prev_page_title: "Visualize Work"
 prev_page_url: "visualize-work.html"

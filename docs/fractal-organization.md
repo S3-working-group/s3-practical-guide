@@ -14,25 +14,29 @@ Creating a fractal organization can enable a large network to rapidly respond to
 
 If necessary, the pattern can be repeated to connect multiple fractal organizations into one.
 
-![Fractal Organization](img/structural-patterns/fractal-organization.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/structural-patterns/fractal-organization.png" alt="Fractal Organization" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Fractal Organization</figcaption>'
+</figure>
 
 ## Prerequisites
 
-A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">driver</a>, or by multiple branches, departments, or projects within a larger organization.
+A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">driver</a>, or by multiple branches, departments, or projects within a larger organization.
 
-These <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">constituents</a> (i.e. organizations, branches, departments or projects) need to share at least some – and typically most – functional <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. accounting, product management, or development).
+These <a href="glossary.html#entry-constituent" class="glossary-tooltip" data-toggle="tooltip" title="Constituent: A group (e.g., a circle, team, department, branch, project, or organization) that delegates authority to a representative to act on their behalf in other teams or organizations.">constituents</a> (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> (e.g. accounting, product management, or development).
 
 ## Tiers
 
 A fractal organization has at least three tiers:
 
 - first tier: the **constituents** (i.e. organizations, branches, departments or projects)
-- second tier: **function-specific [delegate circles](delegate-circle.html)** to share learning and to make and evolve agreements on behalf of function-specific domains
--  third tier: a **cross-functional delegate circle** to make and evolve agreements in response to drivers affecting the overall body of constituents
+- second tier: **function-specific [delegate circles](delegate-circle.html)** to share learning and to make and evolve policies on behalf of function-specific domains
+-  third tier: a **cross-functional delegate circle** to make and evolve policies in response to drivers affecting the overall body of constituents
 
 ## Forming a Fractal Organization
 
-1.  Forming the **second tier:** In each constituent, the members of each common (and significant) functional domain, decide who of them will represent them in a **function-specific delegate circle**, where they share knowledge and learning, and contribute toward making and evolving agreements. Representatives are selected for a limited term (after which a new selection is made).
+1.  Forming the **second tier:** In each constituent, the members of each common (and significant) functional domain, decide who of them will represent them in a **function-specific delegate circle**, where they share knowledge and learning, and contribute toward making and evolving policies. Representatives are selected for a limited term (after which a new selection is made).
 2.  Forming the **third tier:** second-tier delegate circles each select a delegate to form the **cross-functional delegate circle**.
 
 ## Impact on the organization(s)

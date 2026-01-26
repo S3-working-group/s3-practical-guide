@@ -1,8 +1,8 @@
 ---
 title: "Invite Change"
-next_page_title: "Open Space For Change"
-next_page_url: "open-space-for-change.html"
-prev_page_title: "Be The Change"
+next_page_title: "Adopt the Seven Principles"
+next_page_url: "adopt-the-seven-principles.html"
+prev_page_title: "Be the Change"
 prev_page_url: "be-the-change.html"
 ---
 

@@ -7,19 +7,23 @@ prev_page_url: "service-circle.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Intentionally account for a domain by invitation rather than assignment, and request that those invited contribute when they can.
+<div class="card summary"><div class="card-body">Intentionally attend to a domain by invitation rather than assignment, and request that those invited contribute when they can.
 </div></div>
 
 _An **open team** is a group of people who are invited to contribute to the work and governance done in a domain when they can._
 
 The <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a> of the domain creates an invitation that clarifies:
 
-- the <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primary driver</a>, key responsibilities and constraints of the open team's domain
+- the <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who attend to that domain respond to.">primary driver</a>, key responsibilities and constraints of the open team's domain
 - who is invited to contribute (the members of the open team)
-- constraints relating to the delegator's participation in the open team's <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a>
+- constraints relating to the delegator's participation in the open team's <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it.">governance</a>
 
 Depending on the constraints set by the delegator, contributors may only <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">organize and do work</a>, or take part in governance as well.
 
 The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision-making in the open team.
 
-![Open Team](img/structural-patterns/open-team.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/structural-patterns/open-team.png" alt="Open Team" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Open Team</figcaption>'
+</figure>

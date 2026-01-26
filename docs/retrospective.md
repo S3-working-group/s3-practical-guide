@@ -7,15 +7,19 @@ prev_page_url: "meeting-formats.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Dedicate time to reflect on past experience, learn, and decide how to improve work process.
+<div class="card summary"><div class="card-body">Dedicate time to reflect on past experience, learn, and decide how to improve work processes.
 </div></div>
 
--   output: changes to work process, new tasks, on-the-fly <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Agreement: An agreed-upon guideline, process, protocol or policy designed to guide the flow of value.">agreements</a>, and <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: Any situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so would be beneficial for the organization (by helping to generate value, eliminate waste or avoid undesirable risks or consequences).">drivers</a> requiring an agreement
+-   output: changes to work process, new tasks, on-the-fly <a href="glossary.html#entry-policy" class="glossary-tooltip" data-toggle="tooltip" title="Policy: An intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline.">policies</a>, and  new <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">drivers</a> or <a href="glossary.html#entry-requirement" class="glossary-tooltip" data-toggle="tooltip" title="Requirement: A state considered valuable to establish or maintain in order to address a specific driver. Requirements are often expressed as _intended outcome(s)_, and _enabling condition(s)_ considered necessary to establish for achieving or maintaining those outcomes.">requirements</a>
 -   facilitated meeting (~1hr)
 -   regular intervals (1-4 weeks)
 -   adapt to situation and context
 
-![Output of a retrospective](img/meetings/retrospective.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/meetings/retrospective.png" alt="Output of a retrospective" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Output of a retrospective</figcaption>'
+</figure>
 
 ## Five Phases of a Retrospective Meeting
 

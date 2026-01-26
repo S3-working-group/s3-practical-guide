@@ -11,27 +11,31 @@ Sociocracy 3.0 is built on seven foundational principles which enable sociocrati
 
 Practicing Sociocracy 3.0 helps people appreciate the essential value that these core principles bring – both to individuals and to organizations – and supports their integration into organizational culture.
 
-![The Seven Principles](img/framework/s3-principles-plain.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>The Seven Principles</figcaption>'
+</figure>
 
 **[The Principle of Effectiveness](principle-effectiveness.html):** 
 
-_**Devote time only to what brings you closer towards achieving your organization's overall objectives**, so that you can make the best use of your limited time, energy and resources._
+_**Devote time only to what brings you closer towards achieving your organization's overall objectives**, so that you can make the best use of your limited time, energy, and resources._
 
 **[The Principle of Consent](principle-consent.html):**
 
-_**Raise, seek out and resolve objections to proposals, existing agreements and activity**, to reduce the potential for decisions leading to undesirable consequences and to discover worthwhile ways to improve._
+_**Raise, seek out and resolve objections to proposals, policies and activities**, to reduce the potential for decisions leading to undesirable consequences and to discover worthwhile ways to improve._
 
 **[The Principle of Empiricism](principle-empiricism.html):** 
 
-_**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things and navigate complexity as effectively as you can._
+_**Test all assumptions you rely on through experiments and continuous revision**, so that you learn fast, make sense of things, and navigate complexity as effectively as you can._
 
 **[The Principle of Continuous Improvement](principle-continuous-improvement.html):**
 
-_**Regularly review the outcome of what you are doing, and then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time._
+_**Regularly review the outcomes of your actions, then make incremental improvements to what you do and how you do it based on what you learn**, so that you can adapt to changes when necessary, and maintain or improve effectiveness over time._
 
 **[The Principle of Equivalence](principle-equivalence.html):**
 
-_**Involve people in making and evolving decisions that affect them**, so that you increase engagement and accountability, and make use of the distributed intelligence toward achieving and evolving your objectives._
+_**Involve people in making and evolving decisions that affect them**, to increase engagement and accountability, and utilize the distributed intelligence to achieve and evolve your objectives._
 
 **[The Principle of Transparency](principle-transparency.html):**
 
@@ -39,4 +43,4 @@ _**Record all information that is valuable for the organization and make it acce
 
 **[The Principle of Accountability](principle-accountability.html):**
 
-_**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked and everyone does what they can to contribute toward the effectiveness and integrity of the organization._
+_**Respond when something is needed, do what you agreed to do, and accept your share of responsibility for the course of the organization,** so that what needs doing gets done, nothing is overlooked, and everyone does what they can to contribute toward the effectiveness and integrity of the organization._

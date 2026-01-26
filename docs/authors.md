@@ -9,7 +9,11 @@ prev_page_url: "acknowledgments.html"
 
 We sell consulting, learning facilitation, coaching and mentoring, including but not limited to *Sociocracy 3.0*. We dedicate a part of our time and money to create free resources about *Sociocracy 3.0* as part of our ongoing commitment to make sociocracy and related ideas more accessible to the wider world.
 
-![James Priest, Liliana David, Bernhard Bockelbrink](img/james-liliana-bernhard.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/james-liliana-bernhard.png" alt="James Priest, Liliana David, Bernhard Bockelbrink" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>James Priest, Liliana David, Bernhard Bockelbrink</figcaption>'
+</figure>
 
 **James Priest** serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
 

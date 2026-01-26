@@ -10,8 +10,12 @@ prev_page_url: "linking.html"
 <div class="card summary"><div class="card-body">Enable the <em>two-way</em> flow of information and influence between two teams.
 </div></div>
 
-Two interdependent teams each select one of their members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people toward achieving those objectives.">governance</a> decisions of the other team.
+Two interdependent teams each select one of their members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it.">governance</a> decisions of the other team.
 
 Double linking enables equivalence between two teams and can be used to draw out valuable information in hierarchical structures.
 
-![Double linking two circles](img/structural-patterns/double-link.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/structural-patterns/double-link.png" alt="Double linking two circles" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Double linking two circles</figcaption>'
+</figure>

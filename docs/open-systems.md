@@ -1,7 +1,7 @@
 ---
 title: "Open Systems"
-next_page_title: "Create a Pull-System For Organizational Change"
-next_page_url: "create-a-pull-system-for-organizational-change.html"
+next_page_title: "Requirements Mapping"
+next_page_url: "requirements-mapping.html"
 prev_page_title: "Align Flow"
 prev_page_url: "align-flow.html"
 ---

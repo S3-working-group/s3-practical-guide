@@ -1,15 +1,15 @@
 ---
 title: "Peer Development"
-next_page_title: "Ask For Help"
+next_page_title: "Ask for Help"
 next_page_url: "ask-for-help.html"
-prev_page_title: "Driver Mapping"
-prev_page_url: "driver-mapping.html"
+prev_page_title: "Requirements Mapping"
+prev_page_url: "requirements-mapping.html"
 ---
 
 
 <dl>
 
-  <dt><a href="ask-for-help.html">Ask For Help</a></dt>
+  <dt><a href="ask-for-help.html">Ask for Help</a></dt>
   <dd><p>A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.</p></dd>
 
   <dt><a href="peer-feedback.html">Peer Feedback</a></dt>

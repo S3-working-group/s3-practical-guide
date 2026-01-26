@@ -7,5 +7,5 @@ prev_page_url: "breaking-agreements.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Share relevant information about financial performance with the organization’s members, to build trust and accountability and support them to make informed decisions regarding their work.
+<div class="card summary"><div class="card-body">Share relevant information about financial performance with the organization’s members to build trust and accountability and support them in making informed decisions regarding their work.
 </div></div>
