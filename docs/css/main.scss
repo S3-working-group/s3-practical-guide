@@ -6,7 +6,6 @@
 
 @use "sass:math";
 
-
 $base-font-size:   14px;
 
 //maximum with of the content box
@@ -27,7 +26,6 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $headline-color:   $grey-color-dark;
-
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
