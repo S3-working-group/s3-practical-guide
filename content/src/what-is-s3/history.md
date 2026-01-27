@@ -1,6 +1,6 @@
 # Influences and History of Sociocracy 3.0
 
-![Influences and history of Sociocracy 3.0](img/framework/history.png)
+![Influences and history of Sociocracy 3.0](img/framework/history.png#limit=width;scale=full)
 
 The literal meaning of the term **sociocracy** is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means "power", or "rule".
 
