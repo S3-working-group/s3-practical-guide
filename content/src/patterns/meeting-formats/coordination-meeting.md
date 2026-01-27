@@ -15,4 +15,4 @@ Agenda items:
 -   prioritization and distribution of work
 -   responding to impediments
 
-![Phases of a coordination meeting](img/meetings/coordination-meeting.png)
+![Phases of a coordination meeting](img/meetings/coordination-meeting.png#limit=width;size=small)

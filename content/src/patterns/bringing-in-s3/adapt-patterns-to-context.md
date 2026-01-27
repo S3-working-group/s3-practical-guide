@@ -14,5 +14,4 @@ Run experiments with adaptations for long enough to learn about the benefits and
 
 Share valuable adaptations with the S3 community.
 
-![Phases of adapting patterns to a specific context](img/process/adapt-pattern-to-context.png)
-
+![Phases of adapting patterns to a specific context](img/process/adapt-pattern-to-context.png#limit=width;size=small)

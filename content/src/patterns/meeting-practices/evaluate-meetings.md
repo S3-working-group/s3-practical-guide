@@ -14,7 +14,7 @@ Short formats you can use:
 -   more of/less of/start/stop/keep
 -   positive/critical/suggested improvements
 
-![Evaluate meetings right before closing the meeting](img/meetings/evaluate-interactions.png)
+![Evaluate meetings right before closing the meeting](img/meetings/evaluate-interactions.png#limit=width;size=small)
 
 ## Evaluate Meetings: Long Format
 

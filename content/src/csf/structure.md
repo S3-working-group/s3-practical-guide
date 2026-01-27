@@ -3,7 +3,7 @@
 # Two Principles for Structure
 
 
-![Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies](img/csf/csf-light-structure.png)
+![Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies](img/csf/csf-light-structure.png#limit=height;size=small)
 
 
 ## Principle 6 — Enable Autonomy

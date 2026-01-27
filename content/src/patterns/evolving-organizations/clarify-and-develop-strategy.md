@@ -14,6 +14,4 @@ As the [delegator](glossary:delegator) shares accountability for [domains](gloss
 
 A strategy is a shared agreement between delegator(s) and delegatee(s) that is regularly reviewed and updated as necessary (*pivot or persevere*)
 
-![Strategies are validated and refined through experimentation and learning.](img/illustrations/domain-driver-strategy-exeriments.png)
-
-Strategies are validated and refined through experimentation and learning.
+![Strategies are validated and refined through experimentation and learning.](img/illustrations/domain-driver-strategy-exeriments.png#limit=width;size=small)

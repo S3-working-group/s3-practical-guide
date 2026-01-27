@@ -2,7 +2,7 @@
 
 # Three Principles for Transformation
 
-![Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models](img/csf/csf-light-transformation.png)
+![Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models](img/csf/csf-light-transformation.png#limit=height;size=small)
 
 
 ## Principle 8 — Invest in Learning

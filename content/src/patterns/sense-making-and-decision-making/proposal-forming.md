@@ -26,7 +26,7 @@ When used by a group, it helps draw on the collective intelligence and diversity
 6. **Choose [tuners](glossary:tuners)**: Delegate responsibility for putting together a proposal to 2-3 people.
 7. **Tuners design proposal**: The tuners design a proposal based on the information gathered in the previous steps.
 
-![Proposal forming process](img/policy/proposal-forming.png)
+![Proposal forming process](img/policy/proposal-forming.png#limit=width;size=small)
 
 
 ## Step 1: Consent to Purpose

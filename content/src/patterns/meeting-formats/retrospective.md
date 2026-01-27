@@ -9,7 +9,7 @@ Dedicate time to reflect on past experience, learn, and decide how to improve wo
 -   regular intervals (1-4 weeks)
 -   adapt to situation and context
 
-![Output of a retrospective](img/meetings/retrospective.png)
+![Output of a retrospective](img/meetings/retrospective.png#limit=width;size=small)
 
 ## Five Phases of a Retrospective Meeting
 

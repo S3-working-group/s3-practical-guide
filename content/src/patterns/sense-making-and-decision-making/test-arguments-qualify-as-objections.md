@@ -125,6 +125,6 @@ The person who brought the original argument has the option to refine, rephrase 
 - If the original argument still has some validity, refine it and then continue with step 3 to see if there is any disagreement with the refined argument.
 - Otherwise you have demonstrated that the original **argument is not an objection.**
 
-![Recursive application of testing arguments and investigating disagreements](img/policy/test-arguments-process.png)
+![Recursive application of testing arguments and investigating disagreements](img/policy/test-arguments-process.png#limit=width;size=full)
 
-![Facilitator's Guide: Test Arguments Qualify As Objections](img/policy/test-arguments-facilitation-guide.png)
+![Facilitator's Guide: Test Arguments Qualify As Objections](img/policy/test-arguments-facilitation-guide.png#limit=width;size=full)

@@ -12,7 +12,7 @@ In this chapter, you will explore four key concepts that help individuals and or
 
 One way to understand work in organizations is as _people making interventions to fulfill a purpose._
 
-![](img/purposeful-action/purposeful-action-basic.png)
+![](img/purposeful-action/purposeful-action-basic.png#limit:width;size=small)
 
 Purpose informs, motivates, and guides action. Interventions are specific steps people take, and/or the constraints they put in place, to fulfill a purpose.
 
@@ -41,7 +41,7 @@ Clarifying both the organizational driver and the associated requirement makes i
 
 There is also a **natural sequence** to this approach: A clear understanding of the situation of relevance is essential to determine a suitable requirement. Understanding the requirement itself (or at least, a grasp of a valuable outcome) is necessary to determine an appropriate intervention.
 
-![](img/purposeful-action/understand-purpose.png)
+![](img/purposeful-action/understand-purpose.png#limit=width;size=small)
 
 Breaking down the process of responding to relevant situations into distinct, sequential steps helps prevent misdiagnosis, reduce wasted effort, and avoid implementing solutions that fail to address the situation in a suitable way.
 
@@ -343,14 +343,14 @@ Both concepts represent states in a system, yet they occupy distinct positions i
 
 The distinction mirrors a broader pattern: each present-focused element (current conditions, effects, relevance) has a corresponding future-focused counterpart (enabling conditions, intended outcomes, relevance). Together, these pairs help clarify both why action is needed now and what is believed necessary to move toward a preferable state.
 
-![](img/purposeful-action/driver-requirement-table.png)
+![](img/purposeful-action/driver-requirement-table.png#limit=width;size=full)
 
 
 ## Interventions: Turning Purpose into Action
 
 The model of purposeful action rests on the observation that work in organizations can be understood as people making interventions to fulfill a purpose.
 
-![](img/purposeful-action/purposeful-action-basic.png)
+![](img/purposeful-action/purposeful-action-basic.png#limit=width&size=small)
 
 Now that we've clarified what purpose is and how it can be described in terms of drivers and requirements, the next step is to explain more about the nature and structure of interventions. After all, interventions are how people translate purpose into practice — they are the only means through which organizations create and deliver value: it's interventions that ultimately pay the bills.
 

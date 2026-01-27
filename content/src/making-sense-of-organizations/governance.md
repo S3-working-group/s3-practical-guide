@@ -158,7 +158,7 @@ You'll find that similar steps apply to both operations and governance. For more
 
 Check your current governance processes to see if all those steps are included, and in general, take a conscious and intentional approach to how you handle governance of your domain and the whole organization. 
 
-![](img/process/respond-to-org-drivers.png)
+![](img/process/respond-to-org-drivers.png#limit=width;size=small)
 
 
 ## Distributing Governance Throughout the Organization

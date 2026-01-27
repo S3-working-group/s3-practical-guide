@@ -37,5 +37,5 @@ On other occasions, however, you'll come across drivers that are the responsibil
 ![Navigate via Tension](img/process/nvt.png)
 
 
-![Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement](img/process/navigate-describe-respond-determine.png)
+![Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement](img/process/navigate-describe-respond-determine.png#limit=width;size=full)
 
