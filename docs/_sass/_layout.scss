@@ -31,7 +31,11 @@ body {
 
         }
     }
-
+    img.icon {
+        width: 22px;
+        height: 22px;
+        vertical-align: left;        
+    }
     .header-title {
         float: left;
     }
@@ -173,4 +177,31 @@ article.post {
             min-width: 300px;
         }
     }
+}
+
+
+//
+// Pattern Map
+// --------------------------------------------------------------------------
+
+.map-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 15050; /* > navbar */
+}
+.map-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,.6);
+}
+.map-panel {
+  position: relative;
+  margin: 5vh auto;
+  max-width: 90vw;
+  max-height: 90vh;
+}
+.map-panel img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
