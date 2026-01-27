@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 2026-01-24
+## 2026-01-26
 
 This update brings substantial changes to the foundations of S3, including several revisions that affect many concepts, patterns, and glossary terms, as well as significant changes to several patterns.
 
