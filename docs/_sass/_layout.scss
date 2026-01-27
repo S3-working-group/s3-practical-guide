@@ -25,7 +25,7 @@ body {
     .header-title, .header-icons {
         margin-bottom: $spacing-unit * 0.5;
         padding-top: $spacing-unit * 0.5;
-        @include media-breakpoint-down(lg) {
+        @include media-breakpoint-down(md) {
             margin-bottom: $spacing-unit * 0.25;
             padding-top: 0px;
 
@@ -45,7 +45,7 @@ body {
         white-space: nowrap;
         float: right;
         text-align: right;
-        @include media-breakpoint-down(lg) {
+        @include media-breakpoint-down(md) {
             text-align: left;
             min-width: 300px;
         }
