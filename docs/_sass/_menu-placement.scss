@@ -1,64 +1,80 @@
-// placement of smartmenu
-@include media-breakpoint-up(md) {
-  #main-menu {
-    float: left;
-    width: 12em;
-  }
+/* ----------------------------------------------------------
+   SmartMenus placement (button etc. only)
+---------------------------------------------------------- */
+
+@include media-breakpoint-up(lg) {
   .sm-mint.sm-vertical {
-    border-bottom: 0;
     border-right: 2px solid #9aadeb;
     margin-right: 20px;
   }
 }
 
+
+
+/* ----------------------------------------------------------
+   Menu toggle button (HEADER ONLY)
+---------------------------------------------------------- */
+
 .main-menu-btn {
-  position: relative;
-  display: inline-block;
+  display: none;
   width: 28px;
   height: 28px;
-  text-indent: 28px;
-  white-space: nowrap;
-  overflow: hidden;
   cursor: pointer;
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  position: relative;
+  vertical-align: bottom;
+  margin-bottom: 0px;
+
+  @include media-breakpoint-down(md) {
+    // Mobile behavior (< lg)
+    display: inline-block;
+  }
+  @include media-breakpoint-up(lg) {
+    // Desktop behavior (>= lg)
+    display: none;
+  }
 }
+
 /* hamburger icon */
-.main-menu-btn-icon, .main-menu-btn-icon:before, .main-menu-btn-icon:after {
+.main-menu-btn-icon,
+.main-menu-btn-icon::before,
+.main-menu-btn-icon::after {
   position: absolute;
   top: 50%;
-  left: 2px;
-  height: 2px;
+  left: 50%;
   width: 24px;
+  height: 2px;
   background: #bbb;
-  -webkit-transition: all 0.25s;
+  transform: translate(-50%, -50%);
   transition: all 0.25s;
 }
-.main-menu-btn-icon:before {
+
+.main-menu-btn-icon::before {
   content: '';
-  top: -7px;
-  left: 0;
+  transform: translate(-50%, -9px);
 }
-.main-menu-btn-icon:after {
+
+.main-menu-btn-icon::after {
   content: '';
-  top: 7px;
-  left: 0;
+  transform: translate(-50%, 7px);
 }
-/* x icon */
+
+/* x state */
 #main-menu-state:checked ~ .main-menu-btn .main-menu-btn-icon {
-  height: 0;
   background: transparent;
 }
-#main-menu-state:checked ~ .main-menu-btn .main-menu-btn-icon:before {
-  top: 0;
-  -webkit-transform: rotate(-45deg);
-  transform: rotate(-45deg);
+
+#main-menu-state:checked ~ .main-menu-btn .main-menu-btn-icon::before {
+  transform: translate(-50%, 0) rotate(-45deg);
 }
-#main-menu-state:checked ~ .main-menu-btn .main-menu-btn-icon:after {
-  top: 0;
-  -webkit-transform: rotate(45deg);
-  transform: rotate(45deg);
+
+#main-menu-state:checked ~ .main-menu-btn .main-menu-btn-icon::after {
+  transform: translate(-50%, 0) rotate(45deg);
 }
-/* hide menu state checkbox (keep it visible to screen readers) */
+
+/* ----------------------------------------------------------
+   Checkbox (hidden but accessible)
+---------------------------------------------------------- */
+
 #main-menu-state {
   position: absolute;
   width: 1px;
@@ -69,21 +85,19 @@
   overflow: hidden;
   clip: rect(1px,1px,1px,1px);
 }
-/* hide the menu in mobile view */
-#main-menu-state:not(:checked) ~ #main-menu {
-  display: none;
-}
-#main-menu-state:checked ~ #main-menu {
-  display: block;
-}
-@include media-breakpoint-up(md) {
-  /* hide the button in desktop view */
-  .main-menu-btn {
-    position: absolute;
-    top: -99999px;
-  }
-  /* always show the menu in desktop view */
-  #main-menu-state:not(:checked) ~ #main-menu {
-    display: block;
-  }
+
+/* ----------------------------------------------------------
+   Accessibility helper
+---------------------------------------------------------- */
+
+.menu-hint-visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
 }

@@ -25,7 +25,7 @@ body {
     .header-title, .header-icons {
         margin-bottom: $spacing-unit * 0.5;
         padding-top: $spacing-unit * 0.5;
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(lg) {
             margin-bottom: $spacing-unit * 0.25;
             padding-top: 0px;
 
@@ -41,7 +41,7 @@ body {
         white-space: nowrap;
         float: right;
         text-align: right;
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(lg) {
             text-align: left;
             min-width: 300px;
         }
@@ -51,37 +51,66 @@ body {
     }
 }
 
-.site-body {
-  display: flex;
-  align-items: stretch;
-  position: relative;
 
-}
+// see: menu-placement.scss for positioning menu buttons
+
 .main-nav {
-    $main-nav-width: 200px;
-    $collapsed-nav-width: 30px;
-
-    flex: 0 0 $main-nav-width;
-    max-width: $main-nav-width;
-    min-width: 0;
-    overflow: visible; // or auto, depending on your menu
-    
-    // icons in the submenu:
-    a img { 
-        height: 22px;
-    }  
-
-    @include media-breakpoint-down(xs) {
-        flex: 0 0 $collapsed-nav-width;
-        max-width: $collapsed-nav-width;
-    }
-    @include media-breakpoint-down(sm) {
-        position: absolute;
-        top: 100%;
-        left: 0;
-        z-index: 1000;
-    }
+  overflow: visible;
+  a img {
+    height: 22px;
+  }
 }
+
+//
+// Desktop behavior (>= lg)
+// for site-body, main-nav and content-container
+// --------------------------------------------------------------------------
+@include media-breakpoint-up(lg) {
+  .site-body {
+    display: flex;
+    flex-direction: row;
+  }
+  .main-nav {
+    flex: 0 0 $nav-width;   /* your sidebar width */
+    max-width: $nav-width;
+  }
+  #main-menu {
+    display: block;
+  }
+  .content-container {
+    flex: 1 1 auto;
+  }
+}
+
+//
+// Mobile behavior (< lg)
+// for site-body, main-nav and content-container
+// --------------------------------------------------------------------------
+@include media-breakpoint-down(md) {
+  .site-body {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .main-nav {
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  /* menu is normal flow, above content */
+  #main-menu {
+    display: none;
+    width: 100%;
+  }
+  header.site-header:has(#main-menu-state:checked)
+  + .site-body
+  .main-nav
+  #main-menu {
+    display: block;
+  }
+
+}
+
+
 //
 // Content
 // --------------------------------------------------------------------------
@@ -90,6 +119,12 @@ body {
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
 }
+
+
+//
+// Article (inside content)
+// --------------------------------------------------------------------------
+
 
 article.post {
     max-width: $content-max-width;
@@ -133,7 +168,7 @@ article.post {
     }
     .footer-col-bottom-right {
         text-align: right;
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(lg) {
             text-align: left;
             min-width: 300px;
         }

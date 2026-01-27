@@ -3,6 +3,13 @@
     <a class="site-title" href="{{ relative_url }}/">{{ site.title }}</a>
   </div>
   <div class="header-icons col-2">
+    <!-- Mobile menu toggle button (hamburger/x icon) -->
+    <input id="main-menu-state" type="checkbox" />
+    <label class="main-menu-btn" for="main-menu-state">
+      <span class="main-menu-btn-icon"></span>
+      <span class="menu-hint-visually-hidden">Toggle main menu visibility</span>
+    </label>
+    
     <a href="{{'pattern-index.html' | relative_url }}" ><img src="{{ '/icons/list-ul.svg' | relative_url }}" class="icon" title="An alphabetical index of all patterns." alt="pattern index" /></a>
     <a href="{{'map.html' | relative_url }}" ><img src="{{'/icons/map.svg' | relative_url }}" class="icon" alt="pattern map" title="Use the pattern map to jump to another pattern." /></a>
     <span id="annotate-span"><a href="" id="annotate-link"><img src="{{ '/icons/comments-alt.svg' | relative_url }}" class="icon" title="Annotate this page with hypothes.is. Click here, wait for the page to reload, then you can highlight text and add public comments. You will need to set up a free account at hypothes.is." alt="annotate page" /></a></span>

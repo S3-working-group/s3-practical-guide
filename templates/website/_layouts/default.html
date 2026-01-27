@@ -7,14 +7,12 @@
     <header class="site-header container-fluid">
       {% include header.html %}
     </header>
-    <div class="site-body container-fluid">
-      <div class="row">
-        <nav class="main-nav col">
-          {% include menu.html %}
-        </nav>
-        <div class="content-container col">
-          {{ content }}
-        </div>
+    <div class="site-body">
+      <nav class="main-nav">
+        {% include menu.html %}
+      </nav>
+      <div class="content-container">
+        {{ content }}
       </div>
     </div>
     <footer class="site-footer container-fluid">
@@ -64,8 +62,12 @@
         } else {
           $("#prev-page").hide()
         }
-        $('.post-content img').zoomify();
+        // init zoomify
+        $(function () {
+          $('img.zoomify').zoomify({ /* options */ });
+        });
       });
+
   </script>
   </body>
 </html>
