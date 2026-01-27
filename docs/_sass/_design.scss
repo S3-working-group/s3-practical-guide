@@ -8,6 +8,41 @@
     }
 }
 
+// Headline sizes and spacing
+
+@function ms($step) {
+    @return $base-font-size * pow($font-scale, $step);
+}
+
+@function lines($n) {
+    @return $n * $base-font-size * 1.5;
+}
+
+h1 {
+    font-size: ms(4);
+    line-height: lines(2);
+    font-weight: 400;
+}
+h2 {
+    font-size: ms(3);
+    line-height: lines(2);
+    font-weight: 400;
+}
+h3 {
+    font-size: ms(2);
+    line-height: lines(1.5);
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: -0.01em; // tighter for italics
+}
+h4 {
+    font-size: ms(1);
+    line-height: lines(1.25);
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: -0.01em; // tighter for italics
+}
+
 //
 // Site header
 // --------------------------------------------------------------------------/**
@@ -17,7 +52,7 @@
         font-weight: 300;
         letter-spacing: -1px;
 
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(md) {
             font-size: 20px;
         }
 
