@@ -16,4 +16,4 @@ Depending on the constraints set by the delegator, contributors may only [organi
 
 The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision-making in the open team.
 
-![Open Team](img/structural-patterns/open-team.png)
+![Open Team](img/structural-patterns/open-team.png#limit=height;scale=small)

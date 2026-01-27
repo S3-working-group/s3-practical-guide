@@ -131,7 +131,7 @@ For familiar or obvious challenges or opportunities, it's easy to describe purpo
 
 In many situations, especially when things are new, uncertain, or complex, our understanding of what's going on and of what's required to respond may be more or less clear. Some aspects of a situation might be well understood, while others remain uncertain or entirely unknown. Therefore, it's helpful to have a way to describe purpose that reflects the clarity we have so far, while leaving space to evolve our understanding over time. This makes it easier to communicate, develop shared understanding, and regularly review and adjust our approach as we learn more.
 
-![](img/purposeful-action/purposeful-action-purpose.png)
+![](img/purposeful-action/purposeful-action-purpose.png#limit=widht;scale=small)
 
 To help people make sense of and clarify purpose, we use the concepts of _Organizational Drivers_ and _Requirements_:
 

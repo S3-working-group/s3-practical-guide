@@ -15,7 +15,7 @@ A Helping Team's members might have *more or less scope to organize their work*,
 
 In an organization that has adopted the principle of consent, team members can still *raise objections* to decisions that affect them. They may even be invited or expected to select a [representative](section:representative) to participate in governance decisions concerning the team.
 
-![Helping Team](img/structural-patterns/helping-team.png)
+![Helping Team](img/structural-patterns/helping-team.png#limit=height;scale=small)
 
 
 ## Choosing Between a Circle and a Helping Team

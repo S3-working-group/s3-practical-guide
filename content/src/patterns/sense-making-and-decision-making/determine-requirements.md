@@ -85,7 +85,7 @@ Often, the stakeholder is implicit, and sometimes it's only necessary to describ
 
 ## How to Determine a Requirement?
 
-![Determine the requirement](img/process/determine-requirement.png)
+![Determine the requirement](img/process/determine-requirement.png#limit=height;scale=small)
 
 A requirement is always determined in relation to a [driver](glossary:organizational-driver), so before doing so, make sure the driver is understood. Write down a [description of the driver](section:describe-organizational-drivers) to keep it in mind.
 
