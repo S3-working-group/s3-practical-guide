@@ -65,5 +65,5 @@ For each agenda item, consider including the following details, to ensure clarit
     -   Who to reach out to for clarifications
     -   Links to any relevant documentation
 -   Which **process(es)** are required
--   A **time box* (how long you intend to spend on this item)
+-   A *time box* (how long you intend to spend on this item)
 -   What **[outcome](glossary:intended-outcome)** you wish to achieve in the meeting.
