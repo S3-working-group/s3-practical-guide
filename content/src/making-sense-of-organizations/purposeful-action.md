@@ -97,11 +97,11 @@ As an organization evolves and the context in which it operates changes over tim
 Just as a project or team within an organization can outlive its relevance, the organization itself may reach a point where its purpose is no longer meaningful in its broader context. At that point, the organization must either redefine its purpose or cease to exist.
 
 
-### Organizations are Complex Networks of Interrelated Purposes.
+### Organizations are Complex Networks of Interrelated Purposes
 
 Within an organization, each team, role, decision, and action serves a purpose — whether that purpose is known, clearly understood, and defined or not. For an organization to be effective, it's important that every purpose people work toward fulfilling contributes to the organization's overall purpose and is not in contradiction to another purpose elsewhere in the organization. Similarly, and in addition to that, for a team or project to be effective, decisions and actions within a team or a project must also align with that team's or project's purpose and must not contradict any other decision or action.
 
-![](img/purposeful-action/nested-purpose.png)
+![Organizations are complex networks of interrelated purposes.](img/purposeful-action/nested-purpose.png)
 
 Without such coherence, an organization may face numerous undesirable outcomes, such as conflicting decisions, unclear responsibilities, duplication of effort, or failure to take care of important work.
 

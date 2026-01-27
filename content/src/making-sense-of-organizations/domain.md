@@ -7,7 +7,7 @@ To use their limited time, energy, and resources effectively, people in organiza
 Most domains in an organization fall entirely within the overall domain of the organization. However, some domains relating to the organization might extend beyond the organization itself, like an advisory or shareholder board that may even have the authority to sell or dissolve the organization. 
 
 
-![Domains may overlap or be fully contained within other domains](img/illustrations/domains-in-organizations.png)
+![Domains may overlap or be fully contained within other domains.](img/illustrations/domains-in-organizations.png)
 
 Any role or team's purpose within an organization is to contribute toward the overall purpose of the organization by taking care of a specific area of responsibility. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and people's level of authority to decide and act for themselves. As a consequence, both collaboration and distribution of work suffer because of missed dependencies, double work, or important work not being done at all.
 
