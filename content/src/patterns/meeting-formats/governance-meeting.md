@@ -33,7 +33,7 @@ A typical governance meeting includes the following phases:
 4.  [Meeting evaluation](section:evaluate-meetings): reflect on your interactions, celebrate successes and share suggestions for improvement
 5.  Closing: Check in with each other before you leave the meeting.
 
-![Phases of a governance meeting](img/meetings/governance-meeting.png#limit=width;size=small)
+![Phases of a governance meeting](img/meetings/governance-meeting.png#limit=width;scale=small)
 
 
 ## Roles Involved in a Governance Meeting

@@ -10,6 +10,6 @@ A double-linked hierarchy:
 -   brings equivalence to governance
 -   maintains the potential for a functional hierarchy (if it enables the flow of value).
 
-![A double-linked hierarchy: not your typical hierarchy](img/structural-patterns/double-linked-hierarchy.png#limit=height;size=small)
+![A double-linked hierarchy: not your typical hierarchy](img/structural-patterns/double-linked-hierarchy.png#limit=height;scale=small)
 
 **See also**: [Circle](section:circle), [Double Linking](section:double-linking), [Representative](section:representative)

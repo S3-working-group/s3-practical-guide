@@ -111,7 +111,7 @@ Come up with an amendment to the current amendment suggestion! Be aware that a p
 
 As you can see, the Resolve Objections pattern can be used recursively. Below you will find an illustration that shows how this works.
 
-![Recursive application of the Resolve Objection pattern](img/policy/resolve-objections-process.png#limit=width;size=full)
+![Recursive application of the Resolve Objection pattern](img/policy/resolve-objections-process.png#limit=width;scale=full)
 
 
 ## Step 6: Celebrate!

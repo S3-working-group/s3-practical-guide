@@ -10,7 +10,7 @@ Both meetings rely on a well-maintained **product backlog**: The outcome of a pl
 
 While the planning meeting is typically limited to team members, the review meeting includes **relevant stakeholders**because they would be best placed to accept completed work items and can provide valuable feedback that might lead to new items in the backlog, as well as changes in priority.
 
-![Planning and review meetings](img/meetings/planning-review.png#limit=width;size=small)
+![Planning and review meetings](img/meetings/planning-review.png#limit=width;scale=small)
 
 
 ## Planning Meeting

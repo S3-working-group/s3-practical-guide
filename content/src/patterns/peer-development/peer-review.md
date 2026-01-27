@@ -6,7 +6,7 @@ Support each other to learn and grow in the roles and teams you serve in.
 
 The role keeper — or team — leads the peer review by setting up the process, and by speaking first in each step.
 
-![Peer review process](img/process/peer-review.png#limit=width;size=small)
+![Peer review process](img/process/peer-review.png#limit=width;scale=small)
 
 Ensure you invite people with complementary perspectives to contribute to the review, and a [facilitator](section:facilitate-meetings).
 

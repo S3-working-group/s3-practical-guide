@@ -82,7 +82,7 @@ _Consider the various actors and describe what is needed: what do they need in t
 -   Add the name of the actor in the top left corner of the card
 -   Add your name in the top right corner of the card
 
-![Requirements Mapping: A Requirement Card](img/templates/requirement-card.png#limit=width;size=small)
+![Requirements Mapping: A Requirement Card](img/templates/requirement-card.png#limit=width;scale=small)
 
 
 ### 4. Identify Experience and Expertise
@@ -146,7 +146,7 @@ As a facilitator of the requirements mapping process, provide a space to collect
 
 Regularly pause to share reports between the various domains. Note: Some domains might dissolve, change, or merge with others.
 
-![Requirements Mapping: A template for domains](img/templates/domain-template.png#limit=width;size=small)
+![Requirements Mapping: A template for domains](img/templates/domain-template.png#limit=width;scale=small)
 
 
 ### 8. Connect Domains

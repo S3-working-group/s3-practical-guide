@@ -19,4 +19,4 @@ A role keeper may maintain a governance [backlog](glossary:backlog), and a [logb
 
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are treated as [policies](glossary:policy).
 
-![People can take responsibility for more than one role](img/illustrations/roles.png#limit=width;size=small)
+![People can take responsibility for more than one role](img/illustrations/roles.png#limit=width;scale=small)

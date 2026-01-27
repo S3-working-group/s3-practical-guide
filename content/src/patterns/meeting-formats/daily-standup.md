@@ -12,4 +12,4 @@ The team gathers around a visible project management board/tool to:
 -   identify and resolve impediments/blocks
     -   adapt existing [policies](glossary:policy) or create new ones on the fly
 
-![Daily standup is an essential meeting for self-organizing teams.](img/meetings/planning-review-standup.png#limit=width;size=small)
+![Daily standup is an essential meeting for self-organizing teams.](img/meetings/planning-review-standup.png#limit=width;scale=small)

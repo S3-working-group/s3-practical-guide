@@ -8,6 +8,6 @@ Adopting the Seven Principles reduces the number of explicit policies required, 
 
 An organization's values need to embrace the Seven Principles.
 
-![The Seven Principles](img/framework/s3-principles-plain.png#limit=height;size=small)
+![The Seven Principles](img/framework/s3-principles-plain.png#limit=height;scale=small)
 
-![An organization's values need to embrace the Seven Principles](img/framework/values-7principles.png#limit=height;size=small)
+![An organization's values need to embrace the Seven Principles](img/framework/values-7principles.png#limit=height;scale=small)

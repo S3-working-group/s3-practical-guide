@@ -50,7 +50,7 @@ This process translates the **[concepts for purposeful action](section:purposefu
 
 If you are not familiar with the concepts of purpose, driver, requirement, and intervention, it's recommended to pause here and check them out. 
 
-![](img/process/respond-to-org-drivers.png#limit=width;size=small)
+![](img/process/respond-to-org-drivers.png#limit=width;scale=small)
 
 
 ## Step 1: Confirm Relevance

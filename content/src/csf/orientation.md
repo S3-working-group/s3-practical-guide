@@ -2,7 +2,7 @@
 
 # Two Principles for Orientation
 
-![Two Principles for Orientation: Clarify Purpose — Develop Strategy](img/csf/csf-light-orientation.png#limit=height;size=small)
+![Two Principles for Orientation: Clarify Purpose — Develop Strategy](img/csf/csf-light-orientation.png#limit=height;scale=small)
 
 
 ## Principle 1 — Clarify Purpose
