@@ -56,8 +56,8 @@ This structured format ensures clarity, accountability, and alignment between me
 -   **Rate**: The frequency at which the metric is measured or reported (e.g., daily, weekly, monthly).
 -   **Responsibilities**: Who is responsible for collecting, monitoring, and acting on the metric?
 -   **Baseline**: (if necessary) the value to compare relative metrics against, often a measurement taken before the intervention begins
--   **Target**: The value(s) or range that is considered a success (typically derived from acceptance criteria)
--   **Triggers**: The specific value(s) or range that triggers attention or action.
+-   **Target**: The values or range that is considered a success (typically derived from acceptance criteria)
+-   **Triggers**: The specific values or range that triggers attention or action.
 
 
 ## Examples
