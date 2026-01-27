@@ -15,7 +15,7 @@ Two interdependent teams each select one of their members to represent their int
 Double linking enables equivalence between two teams and can be used to draw out valuable information in hierarchical structures.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/structural-patterns/double-link.png" alt="Double linking two circles" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Double linking two circles</figcaption>'
+    <figcaption>Double linking two circles</figcaption>
 </figure>

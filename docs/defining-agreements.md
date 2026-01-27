@@ -10,16 +10,16 @@ prev_page_url: "open-space-for-change.html"
 S3 promotes a hypothesis-driven approach to decision-making.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/process/experiments.png" alt="Any policy or decision can be viewed as an experiment." class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Any policy or decision can be viewed as an experiment.</figcaption>'
+    <figcaption>Any policy or decision can be viewed as an experiment.</figcaption>
 </figure>
 
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/policy/policy-lifecycle.png" alt="The Life-Cycle of a Policy" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>The Life-Cycle of a Policy</figcaption>'
+    <figcaption>The Life-Cycle of a Policy</figcaption>
 </figure>
 
 <dl>

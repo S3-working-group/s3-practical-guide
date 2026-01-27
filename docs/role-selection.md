@@ -23,7 +23,7 @@ A prerequisite to the selection process is a [clear description](clarify-and-dev
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/policy/selection.png" alt="Role selection process" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Role selection process</figcaption>'
+    <figcaption>Role selection process</figcaption>
 </figure>
 
 1. **Present Role Description:** If possible, send out the role's domain description in advance.

@@ -20,7 +20,7 @@ Reasoned Decision-Making lays out the process that groups take when applying rea
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/policy/reasoned-decision-making.png" alt="Reasoned Decision-Making" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Reasoned Decision-Making</figcaption>'
+    <figcaption>Reasoned Decision-Making</figcaption>
 </figure>
 
 **Step 1: Present** the subject for investigation (this could be an argument, or a proposal for how to proceed).
@@ -53,8 +53,8 @@ Each of the three processes focuses on the investigation of a different subject:
 -    In _Resolving Objections_ the subject is a **proposed amendment**. 
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-full">
     <img src="img/policy/reasoned-decision-making-table.png" alt="Table: Mapping the steps of RDM to the other S3 decision-making processes" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Table: Mapping the steps of RDM to the other S3 decision-making processes</figcaption>'
+    <figcaption>Table: Mapping the steps of RDM to the other S3 decision-making processes</figcaption>
 </figure>
 

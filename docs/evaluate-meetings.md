@@ -21,9 +21,9 @@ Short formats you can use:
 -   positive/critical/suggested improvements
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/meetings/evaluate-interactions.png" alt="Evaluate meetings right before closing the meeting" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Evaluate meetings right before closing the meeting</figcaption>'
+    <figcaption>Evaluate meetings right before closing the meeting</figcaption>
 </figure>
 
 ## Evaluate Meetings: Long Format

@@ -37,7 +37,7 @@ For each agenda item agree on:
 -   notify people about any expectations and prerequisites
 -   make any resources available that people may need for preparation
 
-## as a Participant
+## As a Participant
 
 -   consider the pattern [Artful Participation](artful-participation.html)
 -   review the agenda and consider how you can contribute to each item

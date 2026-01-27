@@ -78,7 +78,12 @@ Even though several sections in this book are brief and may still be rough aroun
 
 ### Influences and History of Sociocracy 3.0
 
-![Influences and history of Sociocracy 3.0](img/framework/history.png)
+
+<figure class="fig fig--limit-width fig--scale-full">
+    <img src="img/framework/history.png" alt="Influences and history of Sociocracy 3.0" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Influences and history of Sociocracy 3.0</figcaption>
+</figure>
+
 The literal meaning of the term **sociocracy** is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means "power", or "rule".
 
 The word sociocracy can be traced back to 1851, when **Auguste Comte** suggested applying a scientific approach to society: states would be governed by a body of scientists who are experts on society (which he termed "sociologists"). In his opinion, this future, although not yet achievable, would be inevitable.
@@ -125,7 +130,12 @@ The name "*Sociocracy 3.0*" demonstrates both respect to the lineage and a sign
 
 It also helps avoid the perception of us misrepresenting the _Sociocratic Circle Organization Method (SCM)_ as promoted by The Sociocracy Group (TSG), The Sociocracy Consulting Group, Sociocracy For All (SoFA), Governance Alive, and many others.
 
-![Three variants of sociocracy](img/framework/sociocracy-variants.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/framework/sociocracy-variants.png" alt="Three variants of sociocracy" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Three variants of sociocracy</figcaption>
+</figure>
+
 #### The New Model of Distribution
 
 *Sociocracy 3.0* employs a non-centralized model for distribution. This is a paradigm shift in the way sociocracy is brought to people and organizations, and one that many people can relate to.
@@ -171,7 +181,12 @@ Sociocracy 3.0 is built on seven foundational principles which enable sociocrati
 
 Practicing Sociocracy 3.0 helps people appreciate the essential value that these core principles bring – both to individuals and to organizations – and supports their integration into organizational culture.
 
-![The Seven Principles](img/framework/s3-principles-plain.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>The Seven Principles</figcaption>
+</figure>
+
 **_The Principle of Effectiveness_:** 
 
 _**Devote time only to what brings you closer towards achieving your organization's overall objectives**, so that you can make the best use of your limited time, energy, and resources._
@@ -588,7 +603,12 @@ The concepts introduced above are not just informative — they have many practi
 
 One way to understand work in organizations is as _people making interventions to fulfill a purpose._
 
-![](img/purposeful-action/purposeful-action-basic.png)
+
+<figure class="fig fig--limit-both fig--scale-small">
+    <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 Purpose informs, motivates, and guides action. Interventions are specific steps people take, and/or the constraints they put in place, to fulfill a purpose.
 
 Although _people making interventions to fulfill a purpose_ sounds intuitive and straightforward, in practice, there are many fail points that can lead to undesirable consequences or waste. Common examples include the following:
@@ -605,17 +625,27 @@ It's much easier to avoid or at least detect and mitigate those fail points when
 
 Understanding and describing interventions is often straightforward; you list the specific step(s) you take and/or the constraint(s) you put in place to fulfill a purpose. Clearly understanding and describing purpose, however, can be more challenging, and there are several ways to do it.
 
-One way to understand purpose is as the confluence of a _situation_ that is relevant to address, and the _outcome(s)_ considered valuable to achieve in relation to that situation. To define purpose, we use two concepts:
+One way to understand purpose is as the confluence of a _situation_ that is relevant to address, and the _outcomes_ considered valuable to achieve in relation to that situation. To define purpose, we use two concepts:
 
 -   **Organizational Driver**: a _situation_ of relevance that you want to address.
 -   **Requirement:** a state considered valuable to establish or maintain in order to address a specific driver.
 
 Clarifying both the organizational driver and the associated requirement makes it much easier to determine a suitable intervention.
 
-![](img/purposeful-action/purposeful-action-full.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/purposeful-action/purposeful-action-full.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 There is also a **natural sequence** to this approach: A clear understanding of the situation of relevance is essential to determine a suitable requirement. Understanding the requirement itself (or at least, a grasp of a valuable outcome) is necessary to determine an appropriate intervention.
 
-![](img/purposeful-action/understand-purpose.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/purposeful-action/understand-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 Breaking down the process of responding to relevant situations into distinct, sequential steps helps prevent misdiagnosis, reduce wasted effort, and avoid implementing solutions that fail to address the situation in a suitable way.
 
 This model also helps to visualize interconnected purposes, supports shared understanding, better communication, and more effective evaluation of whether specific interventions are achieving the outcomes intended.
@@ -670,18 +700,28 @@ As an organization evolves and the context in which it operates changes over tim
 Just as a project or team within an organization can outlive its relevance, the organization itself may reach a point where its purpose is no longer meaningful in its broader context. At that point, the organization must either redefine its purpose or cease to exist.
 
 
-##### Organizations are Complex Networks of Interrelated Purposes.
+##### Organizations are Complex Networks of Interrelated Purposes
 
 Within an organization, each team, role, decision, and action serves a purpose — whether that purpose is known, clearly understood, and defined or not. For an organization to be effective, it's important that every purpose people work toward fulfilling contributes to the organization's overall purpose and is not in contradiction to another purpose elsewhere in the organization. Similarly, and in addition to that, for a team or project to be effective, decisions and actions within a team or a project must also align with that team's or project's purpose and must not contradict any other decision or action.
 
-![](img/purposeful-action/nested-purpose.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/purposeful-action/nested-purpose.png" alt="Organizations are complex networks of interrelated purposes." class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Organizations are complex networks of interrelated purposes.</figcaption>
+</figure>
+
 Without such coherence, an organization may face numerous undesirable outcomes, such as conflicting decisions, unclear responsibilities, duplication of effort, or failure to take care of important work.
 
 As an organization grows, complexity increases, and the connection between our interventions — the actions we take and the rules we put in place — and the organization's overall purpose becomes difficult to track and understand.
 
 Developing and maintaining coherence across this complex, dynamic network of interrelated purposes is both necessary and challenging. It requires ongoing monitoring and evaluation of purposes, interventions, and actual outcomes to ensure that what works is reinforced and what does not is adapted or discarded.
 
-![](img/purposeful-action/inspect-and-adapt-mono.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 
 ##### Purpose, Value, and Waste
 
@@ -702,7 +742,12 @@ For familiar or obvious challenges or opportunities, it's easy to describe purpo
 
 In many situations, especially when things are new, uncertain, or complex, our understanding of what's going on and of what's required to respond may be more or less clear. Some aspects of a situation might be well understood, while others remain uncertain or entirely unknown. Therefore, it's helpful to have a way to describe purpose that reflects the clarity we have so far, while leaving space to evolve our understanding over time. This makes it easier to communicate, develop shared understanding, and regularly review and adjust our approach as we learn more.
 
-![](img/purposeful-action/purposeful-action-purpose.png)
+
+<figure class="fig fig--limit-both fig--scale-small">
+    <img src="img/purposeful-action/purposeful-action-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 To help people make sense of and clarify purpose, we use the concepts of _Organizational Drivers_ and _Requirements_:
 
 -   An **organizational driver** is any situation that is relevant for the organization to address.
@@ -781,7 +826,12 @@ Related Patterns:
 
 #### Requirements
 
-![](img/purposeful-action/purposeful-action-reverse.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/purposeful-action/purposeful-action-reverse.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 A requirement connects a driver and the intervention intended to address it. It bridges the *problem space* and the *solution space*. Once it has been determined to be suitable for addressing a driver, a requirement is binding and sets the scope and direction for the intervention you define. In this sense, requirements function as constraints.
 
 _A **requirement** is a state considered valuable to establish or maintain in order to address a specific driver._
@@ -789,7 +839,7 @@ _A **requirement** is a state considered valuable to establish or maintain in or
 
 ##### What's the Benefit of Explicitly Clarifying Requirements?
 
-Unless the way to address a particular driver is obvious, explicitly clarifying the intended outcome(s) and the enabling condition(s) you think should be established to achieve those outcomes, _before_ determining more specific solutions, will give you the following benefits:
+Unless the way to address a particular driver is obvious, explicitly clarifying the intended outcomes and the enabling conditions you think should be established to achieve those outcomes, _before_ determining more specific solutions, will give you the following benefits:
 
 -   **Encourages more intentionality**: When determining the requirement first, people are more likely to think consciously about how to address a driver, rather than acting based on reaction or habit, especially in novel and or complex situations.
 -   **Clarifies intent and direction**: By defining the outcome you seek and the conditions you deem suitable to establish, you anchor the intervention in shared understanding rather than assumption.
@@ -835,17 +885,17 @@ _In the context of a requirement, **enabling conditions** are conditions conside
 When determining a requirement in relation to a driver, we make several discrete assumptions:
 
 -   Our understanding of the driver is _accurate_ and _sufficient_ for determining a suitable requirement
--   The intended outcome(s) are _achievable_ and _valuable_ (in relation to the driver)
+-   The intended outcomes are _achievable_ and _valuable_ (in relation to the driver)
 -   The enabling conditions we want to establish (or maintain) are _suitable_ and _sufficient_ for achieving that outcome
 
 These assumptions are based on the information available at the time, as well as the level of understanding and experience we have about the situation we are dealing with. Any of these assumptions may be wrong. Therefore, requirements need to be tested, monitored, and, if necessary, changed over time.
 
 When interventions are implemented as designed but don't work as expected, being able to revisit both outcomes and enabling conditions separately helps determine what needs to be improved:
 
--   **The design of the intervention is flawed**: we implemented the intervention, but it didn't establish the enabling conditions, and also did not achieve the intended outcome(s).
--   **The assumed condition is inappropriate or insufficient** for achieving the intended outcome(s): the enabling conditions were met, but it didn't lead to the outcome we intended.
--   **The intended outcome(s) are unsuitable**: we achieved the outcome(s) we intended, but the driver was not adequately addressed.
--   **The intended outcome(s) are unattainable**: they have not been achieved, and it appears unrealistic to expect they can be achieved in this context.
+-   **The design of the intervention is flawed**: we implemented the intervention, but it didn't establish the enabling conditions, and also did not achieve the intended outcomes.
+-   **The assumed conditions are inappropriate or insufficient** for achieving the intended outcomes: the enabling conditions were met, but it didn't lead to the outcome we intended.
+-   **The intended outcomes are unsuitable**: we achieved the outcomes we intended, but the driver was not adequately addressed.
+-   **The intended outcomes are unattainable**: they have not been achieved, and it appears unrealistic to expect they can be achieved in this context.
 
 Revisiting these elements will help determine how to evolve your approach:
 
@@ -895,7 +945,7 @@ The equivalent in our model is:
 
 _(Considering the driver) we need \<enabling condition\>, so that \<intended outcome\>._
 
-While a user story is written from the perspective of a customer or end user, a requirement in this context is typically written from the perspective of the organization responding to the driver — or a subset of its members — so the \<role\> is simply inferred from the driver. As with user stories, the details of the enabling condition(s) or intended outcome(s) may emerge over time. Requirements are formed through conversation, and refined collaboratively — ideally close to the time the driver is to be addressed — and then improved iteratively based on actual outcomes and learning.
+While a user story is written from the perspective of a customer or end user, a requirement in this context is typically written from the perspective of the organization responding to the driver — or a subset of its members — so the \<role\> is simply inferred from the driver. As with user stories, the details of the enabling conditions or intended outcomes may emerge over time. Requirements are formed through conversation, and refined collaboratively — ideally close to the time the driver is to be addressed — and then improved iteratively based on actual outcomes and learning.
 
 Connecting requirements to their underlying drivers deepens shared understanding and strengthens alignment around what matters most. In the same way, it's often beneficial to make the driver behind a user story explicit, as it provides additional context to help the developer better understand the customer's (or user's) needs.
 
@@ -912,13 +962,23 @@ Both concepts represent states in a system, yet they occupy distinct positions i
 
 The distinction mirrors a broader pattern: each present-focused element (current conditions, effects, relevance) has a corresponding future-focused counterpart (enabling conditions, intended outcomes, relevance). Together, these pairs help clarify both why action is needed now and what is believed necessary to move toward a preferable state.
 
-![](img/purposeful-action/driver-requirement-table.png)
+
+<figure class="fig fig--limit-width fig--scale-full">
+    <img src="img/purposeful-action/driver-requirement-table.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 
 #### Interventions: Turning Purpose into Action
 
 The model of purposeful action rests on the observation that work in organizations can be understood as people making interventions to fulfill a purpose.
 
-![](img/purposeful-action/purposeful-action-basic.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 Now that we've clarified what purpose is and how it can be described in terms of drivers and requirements, the next step is to explain more about the nature and structure of interventions. After all, interventions are how people translate purpose into practice — they are the only means through which organizations create and deliver value: it's interventions that ultimately pay the bills.
 
 _An intervention is the specific steps you take and/or the constraints you put in place to fulfill a purpose._
@@ -986,7 +1046,12 @@ This flexible structure of interventions lends itself to an iterative approach, 
 
 Following the model for purposeful action, there is a specific purpose (driver and requirement) for each of those sub-interventions. This recurring pattern of purpose and intervention reflects the complexity of organizational life: activities at one level of detail often reveal new drivers, requirements, and corresponding interventions at another.
 
-![](img/purposeful-action/sub-interventions.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/purposeful-action/sub-interventions.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 Breaking down a more comprehensive intervention in this way is especially helpful when it involves:
 
 -   Multiple stakeholders or contributors
@@ -1026,7 +1091,7 @@ When breaking interventions down into smaller parts (sub-interventions), the **p
 
 However, be mindful of situations where it's worthwhile to clarify the purpose of certain parts — especially when there's a reason something needs to be done in a particular way, or when sub-interventions need to happen in a certain order or are otherwise interrelated. Likewise, if parts of an intervention relate to the **wider organization** — such as org-wide policies, responsibilities, or dependencies — or to the **external environment**, document this explicitly.
 
-To clarify the purpose of a sub-intervention, it can be enough to define only the **enabling conditions** that need to be established — especially when the higher-level outcome is already clear — or just the **intended outcome(s)**, if this implies what enabling conditions are needed. In other cases, it's useful to describe the situation (**driver**) that the requirement is meant to address.
+To clarify the purpose of a sub-intervention, it can be enough to define only the **enabling conditions** that need to be established — especially when the higher-level outcome is already clear — or just the **intended outcomes**, if this implies what enabling conditions are needed. In other cases, it's useful to describe the situation (**driver**) that the requirement is meant to address.
 
 **Example**:
 
@@ -1092,7 +1157,12 @@ To use their limited time, energy, and resources effectively, people in organiza
 Most domains in an organization fall entirely within the overall domain of the organization. However, some domains relating to the organization might extend beyond the organization itself, like an advisory or shareholder board that may even have the authority to sell or dissolve the organization. 
 
 
-![Domains may overlap or be fully contained within other domains](img/illustrations/domains-in-organizations.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/illustrations/domains-in-organizations.png" alt="Domains may overlap or be fully contained within other domains." class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Domains may overlap or be fully contained within other domains.</figcaption>
+</figure>
+
 Any role or team's purpose within an organization is to contribute toward the overall purpose of the organization by taking care of a specific area of responsibility. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and people's level of authority to decide and act for themselves. As a consequence, both collaboration and distribution of work suffer because of missed dependencies, double work, or important work not being done at all.
 
 _Clarifying domains_ makes the contract between the *delegator* (who delegates responsibility for a domain) and the *delegatee(s)* (to whom the domain is delegated) explicit, which enables everyone to understand expectations and to reflect on what works and what doesn't, so that a domain's design can be improved over time. A clear domain description with a reasonable amount of detail is a necessary prerequisite for people to successfully evaluate and continuously improve their work.
@@ -1107,7 +1177,7 @@ People might do a great job of accounting for a domain in the way it's designed,
 
 #### Delegating Responsibility for Domains
 
-_**Delegation** is the grant of authority by one party (the delegator) to another (the delegatee) to attend to a domain (i.e., to do certain things or to make certain decisions), for which the delegator maintains overall accountability.**_
+_**Delegation** is the grant of authority by one party (the delegator) to another (the delegatee) to attend to a domain (i.e., to do certain things or to make certain decisions), for which the delegator maintains overall accountability._
 
 Responsibility for domains is delegated to groups or individuals, who then act within their defined constraints on their autonomy and influence.
 
@@ -1225,7 +1295,12 @@ It will usually be clear whether a situation should be handled through governanc
 
 **If there is no relevant policy**, make a decision whether it is worthwhile to use a formal governance process. Whenever you expect that how you handle the situation may have significant consequences, treat it as governance.
 
-![](img/purposeful-action/governance-or-operations.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/purposeful-action/governance-or-operations.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 
 ##### When Is It Worthwhile to Follow a Formal Governance Process?
 
@@ -1278,7 +1353,12 @@ Alignment and coherence between these decisions are essential: the requirement m
 
 When dealing with matters of governance, requirements are fulfilled through creating and implementing policy. 
 
-![](img/policy/governance-short.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/governance-short.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 _A **policy** is an intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline._
 
 Typical examples of Policies include: 
@@ -1340,7 +1420,12 @@ You'll find that similar steps apply to both operations and governance. For more
 
 Check your current governance processes to see if all those steps are included, and in general, take a conscious and intentional approach to how you handle governance of your domain and the whole organization. 
 
-![](img/process/respond-to-org-drivers.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 
 #### Distributing Governance Throughout the Organization
 
@@ -1450,9 +1535,6 @@ In this guide, the patterns are grouped by topic into eleven categories to help 
 </div></div>
 
 
-
-##### Overview
-
 _An **organizational driver** is a situation where the organization's members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences)._
 
 In the course of daily operations, every organization needs to deal with numerous existing and new drivers. Whenever a role keeper or a team becomes aware of a new driver they are responsible for addressing, taking a structured and considered approach supports staying focused on priorities, deciding and acting appropriately, and making the best use of resources, energy, and time. 
@@ -1491,7 +1573,12 @@ This process translates the **_concepts for purposeful action_** into practical 
 
 If you are not familiar with the concepts of purpose, driver, requirement, and intervention, it's recommended to pause here and check them out. 
 
-![](img/process/respond-to-org-drivers.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 
 ##### Step 1: Confirm Relevance
 
@@ -1588,7 +1675,12 @@ Reviewing **operational tasks** involves assessing the actual outcomes and check
 The process for **evaluating policies** typically benefits from a more structured and detailed approach. For guidance, see _Evaluate and Evolve Policies_.
 
 
-![](img/purposeful-action/inspect-and-adapt-mono.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 
 #### Navigate via Tension
 
@@ -1625,9 +1717,19 @@ It could be that the driver falls within the scope of a domain you're responsibl
 On other occasions, however, you'll come across drivers that are the responsibility of others to address. Therefore, to navigate via tension effectively, there needs to be enough clarity around who is responsible for what in the organization so that people know, or can find out, who to inform about new organizational drivers they discover, so they can pass that information on to them.
 
 
-![Navigate via Tension](img/process/nvt.png)
 
-![Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement](img/process/navigate-describe-respond-determine.png)
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/process/nvt.png" alt="Navigate via Tension" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Navigate via Tension</figcaption>
+</figure>
+
+
+
+<figure class="fig fig--limit-width fig--scale-full">
+    <img src="img/process/navigate-describe-respond-determine.png" alt="Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement</figcaption>
+</figure>
+
 
 
 #### Describe Organizational Drivers
@@ -1675,7 +1777,12 @@ Both individuals and groups can describe organizational drivers. A summary can b
 
 Aim to create **a comprehensive but brief summary in two or three sentences**, so that the information is easy to remember and process. If necessary, more details about the driver may be recorded below the summary and/or kept in a _logbook_. 
 
-![Describe Organizational Drivers](img/process/describe-organizational-drivers.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/process/describe-organizational-drivers.png" alt="Describe Organizational Drivers" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Describe Organizational Drivers</figcaption>
+</figure>
+
 Here's an example that breaks down the description of an  organizational driver into current conditions, effect, and relevance:
 
 *To resolve local issues, teams currently have autonomy to develop their work and decision-making processes in the way they see fit. This often leads to incoherence in how work and decision-making are handled between teams, which impedes effective collaboration on handling dependencies between and across domains.*
@@ -1799,7 +1906,7 @@ A simple way to describe a requirement is by explaining:
 
 How much detail is necessary to communicate a requirement depends on context. For simple requirements, it is sufficient to explain them as a single sentence: 
 
-*\<stakeholder\> needs \<enabling conditions\> so that \<intended outcome(s)\>.*
+*\<stakeholder\> needs \<enabling conditions\> so that \<intended outcomes\>.*
 
 
 **Examples**
@@ -1810,7 +1917,7 @@ How much detail is necessary to communicate a requirement depends on context. Fo
 
 People familiar with Scrum or other agile methodologies will recognize that the format above is similar to that used for **user stories**. We use it deliberately: the concept of a 'requirement' builds on the idea of user stories, and extends it beyond product development to apply to any kind of purposeful intervention, in organizations and beyond. (see _Requirements and User Stories_
 
-Often, the stakeholder is implicit, and sometimes it's only necessary to describe the intended outcome(s), or only the enabling conditions, because the other is obvious or implicit. 
+Often, the stakeholder is implicit, and sometimes it's only necessary to describe the intended outcomes, or only the enabling conditions, because the other is obvious or implicit. 
 
 
 **Examples** (variations on one requirement): 
@@ -1822,7 +1929,12 @@ Often, the stakeholder is implicit, and sometimes it's only necessary to describ
 
 ##### How to Determine a Requirement?
 
-![Determine the requirement](img/process/determine-requirement.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/process/determine-requirement.png" alt="Determine the requirement" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Determine the requirement</figcaption>
+</figure>
+
 A requirement is always determined in relation to a <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">driver</a>, so before doing so, make sure the driver is understood. Write down a _description of the driver_ to keep it in mind.
 
 If the requirement is obvious, name it and go on. There is no need to overthink something if it is known or clear.
@@ -1915,7 +2027,7 @@ When describing acceptance criteria, ensure they are verifiable, relevant, and c
 -   **Relevant**: it contributes to the requirement's value in relation to the driver
 -   **Complete**: together they cover the full intent of the requirement.
 
-**Note:** From the perspective of the requirement that is being clarified through acceptance criteria, these acceptance criteria point toward sub-requirements the intervention must fulfill, related to adequately fulfilling the main requirement, typically relating to the condition(s) or intended outcome(s) of that requirement. Acceptance criteria are typically defined as intended outcomes only.
+**Note:** From the perspective of the requirement that is being clarified through acceptance criteria, these acceptance criteria point toward sub-requirements the intervention must fulfill, related to adequately fulfilling the main requirement, typically relating to the enablingg conditions or intended outcomes of that requirement. Acceptance criteria are typically defined as intended outcomes only.
 
 
 ##### Keep a Record
@@ -1949,7 +2061,12 @@ The most common use case for Consent Decision-Making is when groups need to deci
 If you are new to using Consent Decision-Making, we recommend you strictly follow the process until you become familiar with the rationale behind the steps. As you gain experience, you might skip steps or hop between them, but doing so in the beginning can lead to confusion and even chaos. For example, if there is a general expression of concern voiced during the Brief Response round, it might appear to make sense to evolve the proposal on the spot to include points that people inferred. For any suggestion that involves changing the process, always check if there are any objections to doing so first. 
 
 
-![Consent Decision-Making](img/policy/consent-decision-making.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/consent-decision-making.png" alt="Consent Decision-Making" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Consent Decision-Making</figcaption>
+</figure>
+
 
 ##### Step 1: Consent to Purpose
 
@@ -2165,7 +2282,12 @@ This process for testing if arguments qualify as objections, is a variation of t
 - If the original argument still has some validity, refine it and then continue with step 3 to see if there is any disagreement with the refined argument.
 - Otherwise you have demonstrated that the original **argument is not an objection.**
 
-![A process for testing if an argument qualifies as an objection](img/policy/test-arguments.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/test-arguments.png" alt="A process for testing if an argument qualifies as an objection" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>A process for testing if an argument qualifies as an objection</figcaption>
+</figure>
+
 Below you'll find more guidance on how to go through each step. As with all patterns in S3, your approach to testing if arguments qualify as objections can be adjusted to suit your context.
 
 
@@ -2222,8 +2344,18 @@ The person who brought the original argument has the option to refine, rephrase 
 - If the original argument still has some validity, refine it and then continue with step 3 to see if there is any disagreement with the refined argument.
 - Otherwise you have demonstrated that the original **argument is not an objection.**
 
-![Recursive application of testing arguments and investigating disagreements](img/policy/test-arguments-process.png)
-![Facilitator's Guide: Test Arguments Qualify As Objections](img/policy/test-arguments-facilitation-guide.png)
+
+<figure class="fig fig--limit-width fig--scale-full">
+    <img src="img/policy/test-arguments-process.png" alt="Recursive application of testing arguments and investigating disagreements" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Recursive application of testing arguments and investigating disagreements</figcaption>
+</figure>
+
+
+<figure class="fig fig--limit-width fig--scale-full">
+    <img src="img/policy/test-arguments-facilitation-guide.png" alt="Facilitator&#x27;s Guide: Test Arguments Qualify As Objections" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Facilitator's Guide: Test Arguments Qualify As Objections</figcaption>
+</figure>
+
 
 #### Resolve Objections
 
@@ -2267,7 +2399,12 @@ If there are no possible objections, proceed to step 6 (Celebrate), otherwise ta
 
 **Step 6:** Celebrate! You've agreed on an amendment that resolves the objection! 
 
-![Process for resolving an objection](img/policy/resolve-objections.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/resolve-objections.png" alt="Process for resolving an objection" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Process for resolving an objection</figcaption>
+</figure>
+
 Below you'll find more guidance on how to go through each step. This process can be repeated until all objections have been resolved. As with all patterns in S3, your approach to resolving objections can be adjusted to suit your context. 
 
 
@@ -2329,7 +2466,12 @@ Come up with an amendment to the current amendment suggestion! Be aware that a p
 
 As you can see, the Resolve Objections pattern can be used recursively. Below you will find an illustration that shows how this works.
 
-![Recursive application of the Resolve Objection pattern](img/policy/resolve-objections-process.png)
+
+<figure class="fig fig--limit-width fig--scale-full">
+    <img src="img/policy/resolve-objections-process.png" alt="Recursive application of the Resolve Objection pattern" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Recursive application of the Resolve Objection pattern</figcaption>
+</figure>
+
 
 ##### Step 6: Celebrate!
 
@@ -2370,7 +2512,12 @@ This implies there is a simple and natural order to the steps of a review:
 
 First, ensure the purpose is still relevant to fulfill (or retire and archive the policy if it is not); second, evaluate how effective the current version of the policy has been in fulfilling the requirement; third, assess whether the purpose (driver and requirement) needs updating; and finally adapt or replace the current version of the policy based on insights from the evaluation, to support another iteration of learning and improvement.
 
-![](img/policy/evaluate-policy.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/evaluate-policy.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <figcaption></figcaption>
+</figure>
+
 
 ##### General Format for Evaluating and Evolving Policies
 
@@ -2418,7 +2565,12 @@ There are many ways to co-create proposals. They typically follow a similar patt
 
 One way to co-create proposals is to use S3's _Proposal Forming_ pattern.
 
-![A template for proposals](img/templates/proposal-template.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/templates/proposal-template.png" alt="A template for proposals" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>A template for proposals</figcaption>
+</figure>
+
 For inspiration for steps 2 and 3, look to classic group facilitation techniques or design thinking activities.
 
 Besides in a face-to-face workshop, you can adapt this process for online meetings. You can even use it asynchronously (and over an extended period of time) to include many people.
@@ -2444,7 +2596,12 @@ When used by a group, it helps draw on the collective intelligence and diversity
 6. **Choose <a href="glossary.html#entry-tuners" class="glossary-tooltip" data-toggle="tooltip" title="Tuners: One or more people who use the information and ideas collected in Proposal Forming to design a coherent proposal (not a final decision).">tuners</a>**: Delegate responsibility for putting together a proposal to 2-3 people.
 7. **Tuners design proposal**: The tuners design a proposal based on the information gathered in the previous steps.
 
-![Proposal forming process](img/policy/proposal-forming.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/policy/proposal-forming.png" alt="Proposal forming process" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Proposal forming process</figcaption>
+</figure>
+
 
 ##### Step 1: Consent to Purpose
 
@@ -2692,7 +2849,12 @@ Reasoned Decision-Making lays out the process that groups take when applying rea
 
 ##### The steps of the process
 
-![Reasoned Decision-Making](img/policy/reasoned-decision-making.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/reasoned-decision-making.png" alt="Reasoned Decision-Making" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Reasoned Decision-Making</figcaption>
+</figure>
+
 **Step 1: Present** the subject for investigation (this could be an argument, or a proposal for how to proceed).
 
 **Step 2: Understand** the subject (e.g. through clarifying questions).
@@ -2722,7 +2884,12 @@ Each of the three processes focuses on the investigation of a different subject:
 -    In _Test Argument Qualifies as Objection_ the subject is an **argument** that indicates a possible objection.
 -    In _Resolving Objections_ the subject is a **proposed amendment**. 
 
-![Table: Mapping the steps of RDM to the other S3 decision-making processes](img/policy/reasoned-decision-making-table.png)
+
+<figure class="fig fig--limit-width fig--scale-full">
+    <img src="img/policy/reasoned-decision-making-table.png" alt="Table: Mapping the steps of RDM to the other S3 decision-making processes" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Table: Mapping the steps of RDM to the other S3 decision-making processes</figcaption>
+</figure>
+
 
 
 #### Role Selection
@@ -2740,7 +2907,12 @@ A prerequisite to the selection process is a _clear description_ of the role's <
 
 ##### Steps
 
-![Role selection process](img/policy/selection.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/selection.png" alt="Role selection process" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Role selection process</figcaption>
+</figure>
+
 1. **Present Role Description:** If possible, send out the role's domain description in advance.
 2. **Record Nominations:** Participants write their nomination on a slip of paper. People can nominate themselves, another, or pass.
 3. **Reasons for Nominations:** Each person shares who they have nominated and why.
@@ -2866,7 +3038,12 @@ Once clarified, regularly evaluate the overall domain of the organization to ide
 
 All of the following elements are important to consider when clarifying a domain. Depending on where you are in the lifecycle of the domain, you might be able to describe each of them more or less clearly. Remember to regularly evaluate each domain's design, to test assumptions, clarify misconceptions, and improve things, as you learn over time.
 
-![Template for a domain description](img/templates/domain-description-template.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/templates/domain-description-template.png" alt="Template for a domain description" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Template for a domain description</figcaption>
+</figure>
+
 
 ###### Purpose
 
@@ -3412,8 +3589,11 @@ As the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-tog
 
 A strategy is a shared agreement between delegator(s) and delegatee(s) that is regularly reviewed and updated as necessary (*pivot or persevere*)
 
-![Strategies are validated and refined through experimentation and learning.](img/illustrations/domain-driver-strategy-exeriments.png)
-Strategies are validated and refined through experimentation and learning.
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/illustrations/domain-driver-strategy-exeriments.png" alt="Strategies are validated and refined through experimentation and learning." class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Strategies are validated and refined through experimentation and learning.</figcaption>
+</figure>
 
 
 #### Design Adaptable Systems
@@ -3438,7 +3618,12 @@ Achieve and maintain alignment of flow through the continuous evolution of an or
 
 When decision-making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is significantly reduced.
 
-![Aligning the flow of information to support the flow of value](img/workflow-and-value/align-flow.png)
+
+<figure class="fig fig--limit-width fig--scale-full">
+    <img src="img/workflow-and-value/align-flow.png" alt="Aligning the flow of information to support the flow of value" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Aligning the flow of information to support the flow of value</figcaption>
+</figure>
+
 
 #### Open Systems
 
@@ -3495,7 +3680,12 @@ In preparation:
 
 These are the steps to follow:
 
-![Requirements Mapping: Process](img/process/requirements-mapping.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/process/requirements-mapping.png" alt="Requirements Mapping: Process" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Requirements Mapping: Process</figcaption>
+</figure>
+
 
 ###### 1. Why Are We Here?
 
@@ -3526,7 +3716,12 @@ _Consider the various actors and describe what is needed: what do they need in t
 -   Add the name of the actor in the top left corner of the card
 -   Add your name in the top right corner of the card
 
-![Requirements Mapping: A Requirement Card](img/templates/requirement-card.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/templates/requirement-card.png" alt="Requirements Mapping: A Requirement Card" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Requirements Mapping: A Requirement Card</figcaption>
+</figure>
+
 
 ###### 4. Identify Experience and Expertise
 
@@ -3589,7 +3784,12 @@ As a facilitator of the requirements mapping process, provide a space to collect
 
 Regularly pause to share reports between the various domains. Note: Some domains might dissolve, change, or merge with others.
 
-![Requirements Mapping: A template for domains](img/templates/domain-template.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/templates/domain-template.png" alt="Requirements Mapping: A template for domains" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Requirements Mapping: A template for domains</figcaption>
+</figure>
+
 
 ###### 8. Connect Domains
 
@@ -3661,7 +3861,12 @@ After the session, review your notes and decide for yourself what you will do wi
 
 The role keeper — or team — leads the peer review by setting up the process, and by speaking first in each step.
 
-![Peer review process](img/process/peer-review.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/process/peer-review.png" alt="Peer review process" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Peer review process</figcaption>
+</figure>
+
 Ensure you invite people with complementary perspectives to contribute to the review, and a _facilitator_.
 
 For both appreciations and improvement suggestions, ensure you consider the following aspects:
@@ -3673,7 +3878,12 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 -   The role keeper's or team's **competencies and skills** in relation to the domain.
 -   The **<a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategy: A high-level approach for how people will fulfill the purpose of a domain (within the constraints of that domain).">strategy</a>** the role keeper or team follows to attend to this domain.
 
-![Continuous improvement of people's ability to effectively keep roles or collaborate in teams](img/process/development-process.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/process/development-process.png" alt="Continuous improvement of people&#x27;s ability to effectively keep roles or collaborate in teams" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Continuous improvement of people's ability to effectively keep roles or collaborate in teams</figcaption>
+</figure>
+
 
 
 
@@ -3688,7 +3898,12 @@ Development may happen in the form of refining the _description of the driver_ a
 
 A development plan (and any accompanying recommendations for changes to the descriptions of the domain and the <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">driver</a>) requires consent from both the <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegatee</a> and the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">delegator</a>.
 
-![A template for development plans](img/templates/development-plan-template.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/templates/development-plan-template.png" alt="A template for development plans" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>A template for development plans</figcaption>
+</figure>
+
 
 ### Enablers of Co-Creation
 
@@ -3722,7 +3937,12 @@ Artful participation:
 - generates a culture of mutual support and close collaboration
 - is more powerful when embraced by many
 
-![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/illustrations/balance-autonomy-collaboration-alt.png" alt="Balance autonomy and collaboration through artful participation" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Balance autonomy and collaboration through artful participation</figcaption>
+</figure>
+
 ##### Artful Participation: Self-Assessment
 
 -   How can I support myself and others to participate more artfully?
@@ -3757,7 +3977,12 @@ Collectively adopting a set of values supports the effectiveness of an organizat
 
 Chosen values are a policy that benefits from **regular review**.
 
-![Chosen values define constraints for collaboration](img/framework/chosen-values.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/framework/chosen-values.png" alt="Chosen values define constraints for collaboration" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Chosen values define constraints for collaboration</figcaption>
+</figure>
+
 
 #### Involve Those Affected
 
@@ -3823,7 +4048,12 @@ When deciding (or agreeing) on a salary formula for an organization or departmen
 
 Decide how to handle remuneration for changing roles and _develop a strategy_ for how to transition towards new contracts and compensation agreements.
 
-![Two ways of opening salaries](img/process/opening-salaries.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/process/opening-salaries.png" alt="Two ways of opening salaries" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Two ways of opening salaries</figcaption>
+</figure>
+
 
 #### Support Role
 
@@ -3875,7 +4105,12 @@ While not every team needs to be a circle, in general, circles enable faster and
 
 Establishing circles enables greater autonomy and fosters co-responsibility for achieving outcomes and improving how work gets done.
 
-![From Managed Teams to Self-governing Circles](img/illustrations/from-managed-teams-to-circles.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/illustrations/from-managed-teams-to-circles.png" alt="From Managed Teams to Self-governing Circles" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>From Managed Teams to Self-governing Circles</figcaption>
+</figure>
+
 A circle's members work best when their domain is defined in a way that eliminates unnecessary and unhelpful dependencies that get in the way of creating and delivering <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Value: The importance, worth, or usefulness of something for fulfilling a purpose. Also: &quot;a valued principle that guides behavior&quot; (mostly used as plural &quot;values&quot;, e.g. &quot;organizational values&quot;).">value</a> effectively.
 
 Circles may be permanent or temporary and can be composed of individuals holding specific roles or working together as a team.
@@ -3898,7 +4133,12 @@ All members of a circle are considered equivalent in the governance of the circl
 
 Together, a circle's members share the responsibility for setting objectives and defining or evolving policies that guide their work. They also share responsibility for ensuring that the decisions they make and the activities that follow are in alignment with broader organizational objectives and coherent with wider organizational policies.
 
-![All members of a circle are equally accountable for governance of the circle's domain](img/illustrations/circle.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/illustrations/circle.png" alt="All members of a circle are equally accountable for governance of the circle&#x27;s domain" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>All members of a circle are equally accountable for governance of the circle's domain</figcaption>
+</figure>
+
 
 ##### Responsibilities of a Circle's Members
 
@@ -3939,7 +4179,12 @@ A role keeper may maintain a governance <a href="glossary.html#entry-backlog" cl
 
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are treated as <a href="glossary.html#entry-policy" class="glossary-tooltip" data-toggle="tooltip" title="Policy: An intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline.">policies</a>.
 
-![People can take responsibility for more than one role](img/illustrations/roles.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/illustrations/roles.png" alt="People can take responsibility for more than one role" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>People can take responsibility for more than one role</figcaption>
+</figure>
+
 
 #### Linking
 
@@ -3948,7 +4193,12 @@ A role keeper may maintain a governance <a href="glossary.html#entry-backlog" cl
 
 A team selects one of its members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it.">governance</a> decisions of another team.
 
-![One circle linked to another circle](img/structural-patterns/link.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/structural-patterns/link.png" alt="One circle linked to another circle" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>One circle linked to another circle</figcaption>
+</figure>
+
 
 #### Double Linking
 
@@ -3959,7 +4209,12 @@ Two interdependent teams each select one of their members to represent their int
 
 Double linking enables equivalence between two teams and can be used to draw out valuable information in hierarchical structures.
 
-![Double linking two circles](img/structural-patterns/double-link.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/structural-patterns/double-link.png" alt="Double linking two circles" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Double linking two circles</figcaption>
+</figure>
+
 
 #### Representative
 
@@ -3983,7 +4238,12 @@ Representatives (a.k.a. links):
 
 To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it.">governance</a> decisions on their behalf, stakeholders send _representatives_ to form a delegate circle.
 
-![Delegate Circle](img/structural-patterns/delegate-circle.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/structural-patterns/delegate-circle.png" alt="Delegate Circle" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Delegate Circle</figcaption>
+</figure>
+
 Governance decisions made in a delegate circle are acted upon in the various <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> it serves.
 
 Delegate circles provide a way of steering organizations in alignment with the <a href="glossary.html#entry-flow-of-value" class="glossary-tooltip" data-toggle="tooltip" title="Flow of Value: Deliverables traveling through an organization towards customers or other stakeholders.">flow of value</a>, and bring a diversity of perspectives to governance decision-making.
@@ -3998,7 +4258,12 @@ A delegate circle may bring in other people (e.g. external experts) to help with
 
 A service circle can be populated by members of the <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> it serves, and/or by other people too.
 
-![Service Circle](img/structural-patterns/service-circle.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/structural-patterns/service-circle.png" alt="Service Circle" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Service Circle</figcaption>
+</figure>
+
 
 #### Open Team
 
@@ -4017,7 +4282,12 @@ Depending on the constraints set by the delegator, contributors may only <a href
 
 The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision-making in the open team.
 
-![Open Team](img/structural-patterns/open-team.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/structural-patterns/open-team.png" alt="Open Team" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Open Team</figcaption>
+</figure>
+
 
 #### Helping Team
 
@@ -4035,11 +4305,16 @@ A Helping Team's members might have *more or less scope to organize their work*,
 
 In an organization that has adopted the principle of consent, team members can still *raise objections* to decisions that affect them. They may even be invited or expected to select a _representative_ to participate in governance decisions concerning the team.
 
-![Helping Team](img/structural-patterns/helping-team.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/structural-patterns/helping-team.png" alt="Helping Team" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Helping Team</figcaption>
+</figure>
+
 
 ##### Choosing Between a Circle and a Helping Team
 
-The decision about whether a Circle or a Helping Team is more suitable depends on *purpose, context, and who is involved*.*
+The decision about whether a Circle or a Helping Team is more suitable depends on *purpose, context, and who is involved*.
 
 Managed Helping Teams are prevalent today, but it's worth asking whether this is always the most effective way to set up a team for maximum effectiveness. In many cases, _freeing team members up to decide and act for themselves as much as possible_ regarding not only how they execute and organize their work, but also concerning strategic development and governance of their domain as well, makes a lot of sense. In many cases, a team with more autonomy will be more effective in creating value. In this spirit, a well-designed domain can thoroughly enable a team to create value without the need for further interference or constraints.
 
@@ -4136,7 +4411,11 @@ Run experiments with adaptations for long enough to learn about the benefits and
 
 Share valuable adaptations with the S3 community.
 
-![Phases of adapting patterns to a specific context](img/process/adapt-pattern-to-context.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/process/adapt-pattern-to-context.png" alt="Phases of adapting patterns to a specific context" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Phases of adapting patterns to a specific context</figcaption>
+</figure>
 
 
 #### Be the Change
@@ -4173,8 +4452,18 @@ Adopting the Seven Principles reduces the number of explicit policies required, 
 
 An organization's values need to embrace the Seven Principles.
 
-![The Seven Principles](img/framework/s3-principles-plain.png)
-![An organization's values need to embrace the Seven Principles](img/framework/values-7principles.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>The Seven Principles</figcaption>
+</figure>
+
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/framework/values-7principles.png" alt="An organization&#x27;s values need to embrace the Seven Principles" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>An organization's values need to embrace the Seven Principles</figcaption>
+</figure>
+
 
 #### Open Space for Change
 
@@ -4193,9 +4482,19 @@ An organization's values need to embrace the Seven Principles.
 
 S3 promotes a hypothesis-driven approach to decision-making.
 
-![Any policy or decision can be viewed as an experiment.](img/process/experiments.png)
 
-![The Life-Cycle of a Policy](img/policy/policy-lifecycle.png)
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/process/experiments.png" alt="Any policy or decision can be viewed as an experiment." class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Any policy or decision can be viewed as an experiment.</figcaption>
+</figure>
+
+
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/policy/policy-lifecycle.png" alt="The Life-Cycle of a Policy" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>The Life-Cycle of a Policy</figcaption>
+</figure>
+
 
 
 
@@ -4347,7 +4646,12 @@ Depending on the scope and significance of the policy, consider including all of
 
 
 
-![A template for recording policy](img/templates/policy-template.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/templates/policy-template.png" alt="A template for recording policy" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>A template for recording policy</figcaption>
+</figure>
+
 
 ##### Recording Day-to-Day Agreements
 
@@ -4375,14 +4679,14 @@ When describing deliverables:
 
 Explicitly describing deliverables can be useful for improving communication and collaboration within the organization, with customer and with external partners.
 
-**Example:** A popular way to describe deliverables in software-engineering are so-called **user stories**, which focus on the need of users in relation to a software system. User stories are developed in dialogue between a customer (or their representative, the product manager or "product owner"), and the software developer(s). What is written down is usually one sentence to remind the team of the user need, and acceptance criteria, a list of requirements for the new feature, which the customer will then use in a review meeting to decide whether or not they accept the new feature as delivered.
+
 
 #### Define and Monitor Metrics
 
 <div class="card summary"><div class="card-body">Develop clear, well-defined metrics to assess your effectiveness in achieving objectives, and monitor them frequently to identify opportunities for improvement early.
 </div></div>
 
-*_A **metric** is a quantifiable measure used to track and assess progress, evaluate outcomes and determine success._*
+_A **metric** is a quantifiable measure used to track and assess progress, evaluate outcomes and determine success._
 
 Metrics help you evaluate the effectiveness of your work and decisions. They act as early signals for when things are working or when something needs attention. Frequent measurement provides timely insights that support better decisions.
 
@@ -4434,8 +4738,8 @@ This structured format ensures clarity, accountability, and alignment between me
 -   **Rate**: The frequency at which the metric is measured or reported (e.g., daily, weekly, monthly).
 -   **Responsibilities**: Who is responsible for collecting, monitoring, and acting on the metric?
 -   **Baseline**: (if necessary) the value to compare relative metrics against, often a measurement taken before the intervention begins
--   **Target**: The value(s) or range that is considered a success (typically derived from acceptance criteria)
--   **Triggers**: The specific value(s) or range that triggers attention or action.
+-   **Target**: The values or range that is considered a success (typically derived from acceptance criteria)
+-   **Triggers**: The specific values or range that triggers attention or action.
 
 
 ##### Examples
@@ -4548,7 +4852,12 @@ The logbook keeper is accountable for maintaining a team's <a href="glossary.htm
 -   regular intervals (1-4 weeks)
 -   adapt to situation and context
 
-![Output of a retrospective](img/meetings/retrospective.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/meetings/retrospective.png" alt="Output of a retrospective" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Output of a retrospective</figcaption>
+</figure>
+
 ##### Five Phases of a Retrospective Meeting
 
 1. Set the stage
@@ -4594,7 +4903,12 @@ A typical governance meeting includes the following phases:
 4.  _Meeting evaluation_: reflect on your interactions, celebrate successes and share suggestions for improvement
 5.  Closing: Check in with each other before you leave the meeting.
 
-![Phases of a governance meeting](img/meetings/governance-meeting.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/meetings/governance-meeting.png" alt="Phases of a governance meeting" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Phases of a governance meeting</figcaption>
+</figure>
+
 
 ##### Roles Involved in a Governance Meeting
 
@@ -4625,7 +4939,7 @@ For each agenda item, consider including the following details, to ensure clarit
     -   Who to reach out to for clarifications
     -   Links to any relevant documentation
 -   Which **process(es)** are required
--   A **time box* (how long you intend to spend on this item)
+-   A *time box* (how long you intend to spend on this item)
 -   What **<a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: Specific, observable results you aim to achieve in relation to a driver.">outcome</a>** you wish to achieve in the meeting.
 
 
@@ -4642,7 +4956,12 @@ The team gathers around a visible project management board/tool to:
 -   identify and resolve impediments/blocks
     -   adapt existing <a href="glossary.html#entry-policy" class="glossary-tooltip" data-toggle="tooltip" title="Policy: An intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline.">policies</a> or create new ones on the fly
 
-![Daily standup is an essential meeting for self-organizing teams.](img/meetings/planning-review-standup.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/meetings/planning-review-standup.png" alt="Daily standup is an essential meeting for self-organizing teams." class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Daily standup is an essential meeting for self-organizing teams.</figcaption>
+</figure>
+
 
 #### Planning and Review Meetings
 
@@ -4655,7 +4974,12 @@ Both meetings rely on a well-maintained **product backlog**: The outcome of a pl
 
 While the planning meeting is typically limited to team members, the review meeting includes **relevant stakeholders**because they would be best placed to accept completed work items and can provide valuable feedback that might lead to new items in the backlog, as well as changes in priority.
 
-![Planning and review meetings](img/meetings/planning-review.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/meetings/planning-review.png" alt="Planning and review meetings" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Planning and review meetings</figcaption>
+</figure>
+
 
 ##### Planning Meeting
 
@@ -4698,7 +5022,12 @@ Agenda items:
 -   prioritization and distribution of work
 -   responding to impediments
 
-![Phases of a coordination meeting](img/meetings/coordination-meeting.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/meetings/coordination-meeting.png" alt="Phases of a coordination meeting" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Phases of a coordination meeting</figcaption>
+</figure>
+
 
 ### Meeting Practices
 
@@ -4716,7 +5045,12 @@ Be clear on the purpose and intended outcome of each round.
 
 Sit in a circle, begin each round with a different person, and change direction (clockwise or counterclockwise) to bring variation to who speaks first and last, and to the order of contributions.
 
-![Rounds](img/illustrations/rounds.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/illustrations/rounds.png" alt="Rounds" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Rounds</figcaption>
+</figure>
+
 
 #### Facilitate Meetings
 
@@ -4766,7 +5100,7 @@ For each agenda item agree on:
 -   notify people about any expectations and prerequisites
 -   make any resources available that people may need for preparation
 
-##### as a Participant
+##### As a Participant
 
 -   consider the pattern _Artful Participation_
 -   review the agenda and consider how you can contribute to each item
@@ -4804,7 +5138,12 @@ Short formats you can use:
 -   more of/less of/start/stop/keep
 -   positive/critical/suggested improvements
 
-![Evaluate meetings right before closing the meeting](img/meetings/evaluate-interactions.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/meetings/evaluate-interactions.png" alt="Evaluate meetings right before closing the meeting" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Evaluate meetings right before closing the meeting</figcaption>
+</figure>
+
 ##### Evaluate Meetings: Long Format
 
 Ask everyone in a _round_ to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
@@ -4862,7 +5201,12 @@ As a governance facilitator, consider learning about and using the following pat
 -   _Resolve Objections_
 -   _Peer Review_
 
-![The governance facilitator is typically a member of the team](img/illustrations/facilitator.png)
+
+<figure class="fig fig--limit-both fig--scale-small">
+    <img src="img/illustrations/facilitator.png" alt="The governance facilitator is typically a member of the team" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>The governance facilitator is typically a member of the team</figcaption>
+</figure>
+
 
 ##### Governance Backlog
 
@@ -4968,7 +5312,12 @@ A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" dat
 -   **analog:** post-its on a wall, or index cards, magnets and white board
 -   **digital:** [Trello](https://trello.com/), [Kanbanize](https://kanbanize.com/), [Leankit](https://leankit.com/), [Miro](https://miro.com), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
-![Visualization of a simple work process](img/workflow-and-value/simple-process.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/workflow-and-value/simple-process.png" alt="Visualization of a simple work process" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Visualization of a simple work process</figcaption>
+</figure>
+
 **Things to track**:
 
 -   **types of work items** (e.g. customer request, project tasks, reporting tasks, rework)
@@ -4980,7 +5329,12 @@ A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" dat
 -   <a href="glossary.html#entry-policy" class="glossary-tooltip" data-toggle="tooltip" title="Policy: An intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline.">policies</a> that guide workflow (e.g. definition of done, policy, quality standards)
 -   use colors, symbols, highlights etc.
 
-![A card representing a work item](img/workflow-and-value/card.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/workflow-and-value/card.png" alt="A card representing a work item" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>A card representing a work item</figcaption>
+</figure>
+
 
 #### Deliver Value Incrementally
 
@@ -5033,7 +5387,12 @@ Waste exists in various forms and on different levels of abstraction (tasks, pro
 
 Establishing a process for the ongoing elimination of waste enables natural evolution of an organization towards greater effectiveness and adaptation to changing context.
 
-![Drivers, Value and Waste](img/workflow-and-value/drivers-value-waste.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/workflow-and-value/drivers-value-waste.png" alt="Drivers, Value and Waste" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Drivers, Value and Waste</figcaption>
+</figure>
+
 
 #### Time-box Activities
 
@@ -5114,7 +5473,12 @@ The center provides internal services to support the organization.
 
 <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">Domains</a> are linked as required to flow information and influence, and to support collaboration around dependencies.
 
-![Peach Organization](img/structural-patterns/peach-organization.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/structural-patterns/peach-organization.png" alt="Peach Organization" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Peach Organization</figcaption>
+</figure>
+
 
 #### Double-Linked Hierarchy
 
@@ -5128,7 +5492,12 @@ A double-linked hierarchy:
 -   brings equivalence to governance
 -   maintains the potential for a functional hierarchy (if it enables the flow of value).
 
-![A double-linked hierarchy: not your typical hierarchy](img/structural-patterns/double-linked-hierarchy.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/structural-patterns/double-linked-hierarchy.png" alt="A double-linked hierarchy: not your typical hierarchy" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>A double-linked hierarchy: not your typical hierarchy</figcaption>
+</figure>
+
 **See also**: _Circle_, _Double Linking_, _Representative_
 
 
@@ -5144,7 +5513,12 @@ A double-linked hierarchy:
 
 **Note:** a service organization is sometimes referred to as a **backbone organization**.
 
-![Service Organization](img/structural-patterns/service-organization-text.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/structural-patterns/service-organization-text.png" alt="Service Organization" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Service Organization</figcaption>
+</figure>
+
 
 #### Fractal Organization
 
@@ -5155,7 +5529,12 @@ Creating a fractal organization can enable a large network to rapidly respond to
 
 If necessary, the pattern can be repeated to connect multiple fractal organizations into one.
 
-![Fractal Organization](img/structural-patterns/fractal-organization.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/structural-patterns/fractal-organization.png" alt="Fractal Organization" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Fractal Organization</figcaption>
+</figure>
+
 ##### Prerequisites
 
 A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">driver</a>, or by multiple branches, departments, or projects within a larger organization.
@@ -5191,7 +5570,12 @@ The second and third tier:
 ## A Common Sense Framework for Organizations and Teams
 
 
-![The Common Sense Framework](img/csf/csf-logo.png)
+
+<figure class="fig fig--limit-width fig--scale-small">
+    <img src="img/csf/csf-logo.png" alt="The Common Sense Framework" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>The Common Sense Framework</figcaption>
+</figure>
+
 We're observing an emerging common sense that is transforming organizations around the world, inspiring and enabling people to build successful organizations where BOTH the people and the organization thrive.
 
 We have distilled the essence of this _common sense_ into a concise  framework for teams and organizations: The **Common Sense Framework (CSF)** is a tool for sense-making, designed to help people address the challenges and opportunities they face. It supports building a shared understanding of the bigger picture, identifying and prioritizing areas of need within a team and throughout an organization, and understanding what to focus on next.
@@ -5247,7 +5631,12 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 
 ### Two Principles for Orientation
 
-![Two Principles for Orientation: Clarify Purpose — Develop Strategy](img/csf/csf-light-orientation.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/csf/csf-light-orientation.png" alt="Two Principles for Orientation: Clarify Purpose — Develop Strategy" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Two Principles for Orientation: Clarify Purpose — Develop Strategy</figcaption>
+</figure>
+
 
 #### Principle 1 — Clarify Purpose
 
@@ -5276,7 +5665,12 @@ Essential Patterns to help you achieve this:
 
 ### Three Principles for Navigation
 
-![Three Principles for Navigation: Focus on Value — Sense & Respond — Run Experiments](img/csf/csf-light-navigation.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/csf/csf-light-navigation.png" alt="Three Principles for Navigation: Focus on Value — Sense &amp; Respond — Run Experiments" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Three Principles for Navigation: Focus on Value — Sense &amp; Respond — Run Experiments</figcaption>
+</figure>
+
 
 #### Principle 3 — Focus on Value
 
@@ -5324,7 +5718,12 @@ Essential patterns to help you achieve this:
 ### Two Principles for Structure
 
 
-![Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies](img/csf/csf-light-structure.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/csf/csf-light-structure.png" alt="Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies</figcaption>
+</figure>
+
 
 #### Principle 6 — Enable Autonomy
 
@@ -5361,7 +5760,12 @@ Essential patterns to help you achieve this:
 
 ### Three Principles for Transformation
 
-![Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models](img/csf/csf-light-transformation.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/csf/csf-light-transformation.png" alt="Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models</figcaption>
+</figure>
+
 
 #### Principle 8 — Invest in Learning
 
@@ -5405,7 +5809,12 @@ Essential patterns to help you achieve this:
 
 ### Where to Start?
 
-![Ten Principles for Evolving Teams and Organizations](img/csf/csf-light.png)
+
+<figure class="fig fig--limit-height fig--scale-small">
+    <img src="img/csf/csf-light.png" alt="Ten Principles for Evolving Teams and Organizations" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Ten Principles for Evolving Teams and Organizations</figcaption>
+</figure>
+
 Each principle supports a specific outcome. To determine where to start in your organization or team, **take a look at the outcomes for each principle** (the text after "_so that_") and reflect on where your greatest need lies at the moment. In any case, **check that you are clear enough on your organization's or team's purpose and strategy before you proceed**.
 
 In the illustration above you can see that some of the principles are more closely related than others, which might further inform you of where to start.
@@ -6619,7 +7028,12 @@ Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrad
 
 We sell consulting, learning facilitation, coaching and mentoring, including but not limited to *Sociocracy 3.0*. We dedicate a part of our time and money to create free resources about *Sociocracy 3.0* as part of our ongoing commitment to make sociocracy and related ideas more accessible to the wider world.
 
-![James Priest, Liliana David, Bernhard Bockelbrink](img/james-liliana-bernhard.png)
+
+<figure class="fig fig--limit-both fig--scale-normal">
+    <img src="img/james-liliana-bernhard.png" alt="James Priest, Liliana David, Bernhard Bockelbrink" class="zoomify" loading="lazy" decoding="async">
+    <figcaption>James Priest, Liliana David, Bernhard Bockelbrink</figcaption>
+</figure>
+
 **James Priest** serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
 
 <https://thriveincollaboration.com>

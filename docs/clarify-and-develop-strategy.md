@@ -21,9 +21,7 @@ As the <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-tog
 A strategy is a shared agreement between delegator(s) and delegatee(s) that is regularly reviewed and updated as necessary (*pivot or persevere*)
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/illustrations/domain-driver-strategy-exeriments.png" alt="Strategies are validated and refined through experimentation and learning." class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Strategies are validated and refined through experimentation and learning.</figcaption>'
+    <figcaption>Strategies are validated and refined through experimentation and learning.</figcaption>
 </figure>
-
-Strategies are validated and refined through experimentation and learning.

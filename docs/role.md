@@ -26,7 +26,7 @@ A role keeper may maintain a governance <a href="glossary.html#entry-backlog" cl
 **Note:** In S3, guidelines, processes or protocols created by individuals in roles are treated as <a href="glossary.html#entry-policy" class="glossary-tooltip" data-toggle="tooltip" title="Policy: An intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline.">policies</a>.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/illustrations/roles.png" alt="People can take responsibility for more than one role" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>People can take responsibility for more than one role</figcaption>'
+    <figcaption>People can take responsibility for more than one role</figcaption>
 </figure>

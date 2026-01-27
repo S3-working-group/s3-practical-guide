@@ -40,9 +40,9 @@ A typical governance meeting includes the following phases:
 5.  Closing: Check in with each other before you leave the meeting.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/meetings/governance-meeting.png" alt="Phases of a governance meeting" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Phases of a governance meeting</figcaption>'
+    <figcaption>Phases of a governance meeting</figcaption>
 </figure>
 
 
@@ -75,5 +75,5 @@ For each agenda item, consider including the following details, to ensure clarit
     -   Who to reach out to for clarifications
     -   Links to any relevant documentation
 -   Which **process(es)** are required
--   A **time box* (how long you intend to spend on this item)
+-   A *time box* (how long you intend to spend on this item)
 -   What **<a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Intended Outcome: Specific, observable results you aim to achieve in relation to a driver.">outcome</a>** you wish to achieve in the meeting.

@@ -13,9 +13,9 @@ prev_page_url: "peer-feedback.html"
 The role keeper — or team — leads the peer review by setting up the process, and by speaking first in each step.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/process/peer-review.png" alt="Peer review process" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Peer review process</figcaption>'
+    <figcaption>Peer review process</figcaption>
 </figure>
 
 Ensure you invite people with complementary perspectives to contribute to the review, and a [facilitator](facilitate-meetings.html).
@@ -32,7 +32,7 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/process/development-process.png" alt="Continuous improvement of people&#x27;s ability to effectively keep roles or collaborate in teams" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Continuous improvement of people's ability to effectively keep roles or collaborate in teams</figcaption>'
+    <figcaption>Continuous improvement of people's ability to effectively keep roles or collaborate in teams</figcaption>
 </figure>
 
 

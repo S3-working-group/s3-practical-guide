@@ -18,9 +18,9 @@ A double-linked hierarchy:
 -   maintains the potential for a functional hierarchy (if it enables the flow of value).
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-height fig--scale-small">
     <img src="img/structural-patterns/double-linked-hierarchy.png" alt="A double-linked hierarchy: not your typical hierarchy" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>A double-linked hierarchy: not your typical hierarchy</figcaption>'
+    <figcaption>A double-linked hierarchy: not your typical hierarchy</figcaption>
 </figure>
 
 **See also**: [Circle](circle.html), [Double Linking](double-linking.html), [Representative](representative.html)

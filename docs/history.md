@@ -10,7 +10,7 @@ prev_page_url: "contents.html"
 
 <figure class="fig fig--limit-width fig--scale-full">
     <img src="img/framework/history.png" alt="Influences and history of Sociocracy 3.0" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Influences and history of Sociocracy 3.0</figcaption>'
+    <figcaption>Influences and history of Sociocracy 3.0</figcaption>
 </figure>
 
 The literal meaning of the term **sociocracy** is "rule of the companions": _socio_ — from Latin _socius_ — means "companion", or "friend", and the suffix _-cracy_ — from Ancient Greek κράτος (krátos) — means "power", or "rule".

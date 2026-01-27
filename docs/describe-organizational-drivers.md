@@ -58,7 +58,7 @@ Aim to create **a comprehensive but brief summary in two or three sentences**, s
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/process/describe-organizational-drivers.png" alt="Describe Organizational Drivers" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Describe Organizational Drivers</figcaption>'
+    <figcaption>Describe Organizational Drivers</figcaption>
 </figure>
 
 Here's an example that breaks down the description of an  organizational driver into current conditions, effect, and relevance:

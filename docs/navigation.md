@@ -10,7 +10,7 @@ prev_page_url: "orientation.html"
 
 <figure class="fig fig--limit-height fig--scale-small">
     <img src="img/csf/csf-light-navigation.png" alt="Three Principles for Navigation: Focus on Value — Sense &amp; Respond — Run Experiments" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Three Principles for Navigation: Focus on Value — Sense &amp; Respond — Run Experiments</figcaption>'
+    <figcaption>Three Principles for Navigation: Focus on Value — Sense &amp; Respond — Run Experiments</figcaption>
 </figure>
 
 

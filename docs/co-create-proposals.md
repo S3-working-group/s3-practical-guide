@@ -22,7 +22,7 @@ One way to co-create proposals is to use S3's [Proposal Forming](proposal-formin
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/templates/proposal-template.png" alt="A template for proposals" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>A template for proposals</figcaption>'
+    <figcaption>A template for proposals</figcaption>
 </figure>
 
 For inspiration for steps 2 and 3, look to classic group facilitation techniques or design thinking activities.

@@ -12,7 +12,7 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/james-liliana-bernhard.png" alt="James Priest, Liliana David, Bernhard Bockelbrink" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>James Priest, Liliana David, Bernhard Bockelbrink</figcaption>'
+    <figcaption>James Priest, Liliana David, Bernhard Bockelbrink</figcaption>
 </figure>
 
 **James Priest** serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.

@@ -66,7 +66,7 @@ A simple way to describe a requirement is by explaining:
 
 How much detail is necessary to communicate a requirement depends on context. For simple requirements, it is sufficient to explain them as a single sentence: 
 
-*\<stakeholder\> needs \<enabling conditions\> so that \<intended outcome(s)\>.*
+*\<stakeholder\> needs \<enabling conditions\> so that \<intended outcomes\>.*
 
 
 **Examples**
@@ -77,7 +77,7 @@ How much detail is necessary to communicate a requirement depends on context. Fo
 
 People familiar with Scrum or other agile methodologies will recognize that the format above is similar to that used for **user stories**. We use it deliberately: the concept of a 'requirement' builds on the idea of user stories, and extends it beyond product development to apply to any kind of purposeful intervention, in organizations and beyond. (see [Requirements and User Stories](concepts#​​Requirements-and-User-Stories for more information.html)
 
-Often, the stakeholder is implicit, and sometimes it's only necessary to describe the intended outcome(s), or only the enabling conditions, because the other is obvious or implicit. 
+Often, the stakeholder is implicit, and sometimes it's only necessary to describe the intended outcomes, or only the enabling conditions, because the other is obvious or implicit. 
 
 
 **Examples** (variations on one requirement): 
@@ -90,9 +90,9 @@ Often, the stakeholder is implicit, and sometimes it's only necessary to describ
 ## How to Determine a Requirement?
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-height fig--scale-small">
     <img src="img/process/determine-requirement.png" alt="Determine the requirement" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Determine the requirement</figcaption>'
+    <figcaption>Determine the requirement</figcaption>
 </figure>
 
 A requirement is always determined in relation to a <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organizational Driver: A situation where the organization&#x27;s members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences). Drivers are often expressed as _current conditions_ that lead to current or anticipated _effects_ that are _relevant_ to the organization.">driver</a>, so before doing so, make sure the driver is understood. Write down a [description of the driver](describe-organizational-drivers.html) to keep it in mind.
@@ -187,7 +187,7 @@ When describing acceptance criteria, ensure they are verifiable, relevant, and c
 -   **Relevant**: it contributes to the requirement's value in relation to the driver
 -   **Complete**: together they cover the full intent of the requirement.
 
-**Note:** From the perspective of the requirement that is being clarified through acceptance criteria, these acceptance criteria point toward sub-requirements the intervention must fulfill, related to adequately fulfilling the main requirement, typically relating to the condition(s) or intended outcome(s) of that requirement. Acceptance criteria are typically defined as intended outcomes only.
+**Note:** From the perspective of the requirement that is being clarified through acceptance criteria, these acceptance criteria point toward sub-requirements the intervention must fulfill, related to adequately fulfilling the main requirement, typically relating to the enablingg conditions or intended outcomes of that requirement. Acceptance criteria are typically defined as intended outcomes only.
 
 
 ## Keep a Record

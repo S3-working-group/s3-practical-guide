@@ -15,7 +15,7 @@ To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-t
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/structural-patterns/delegate-circle.png" alt="Delegate Circle" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Delegate Circle</figcaption>'
+    <figcaption>Delegate Circle</figcaption>
 </figure>
 
 Governance decisions made in a delegate circle are acted upon in the various <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domain: A distinct area of responsibility and authority within an organization.">domains</a> it serves.

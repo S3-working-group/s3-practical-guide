@@ -22,15 +22,15 @@ A Helping Team's members might have *more or less scope to organize their work*,
 In an organization that has adopted the principle of consent, team members can still *raise objections* to decisions that affect them. They may even be invited or expected to select a [representative](representative.html) to participate in governance decisions concerning the team.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-height fig--scale-small">
     <img src="img/structural-patterns/helping-team.png" alt="Helping Team" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Helping Team</figcaption>'
+    <figcaption>Helping Team</figcaption>
 </figure>
 
 
 ## Choosing Between a Circle and a Helping Team
 
-The decision about whether a Circle or a Helping Team is more suitable depends on *purpose, context, and who is involved*.*
+The decision about whether a Circle or a Helping Team is more suitable depends on *purpose, context, and who is involved*.
 
 Managed Helping Teams are prevalent today, but it's worth asking whether this is always the most effective way to set up a team for maximum effectiveness. In many cases, [freeing team members up to decide and act for themselves as much as possible](enable-autonomy.html) regarding not only how they execute and organize their work, but also concerning strategic development and governance of their domain as well, makes a lot of sense. In many cases, a team with more autonomy will be more effective in creating value. In this spirit, a well-designed domain can thoroughly enable a team to create value without the need for further interference or constraints.
 

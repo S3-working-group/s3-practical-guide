@@ -41,7 +41,7 @@ First, ensure the purpose is still relevant to fulfill (or retire and archive th
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/policy/evaluate-policy.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 

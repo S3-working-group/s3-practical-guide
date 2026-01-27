@@ -57,7 +57,7 @@ These are the steps to follow:
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/process/requirements-mapping.png" alt="Requirements Mapping: Process" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Requirements Mapping: Process</figcaption>'
+    <figcaption>Requirements Mapping: Process</figcaption>
 </figure>
 
 
@@ -91,9 +91,9 @@ _Consider the various actors and describe what is needed: what do they need in t
 -   Add your name in the top right corner of the card
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/templates/requirement-card.png" alt="Requirements Mapping: A Requirement Card" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Requirements Mapping: A Requirement Card</figcaption>'
+    <figcaption>Requirements Mapping: A Requirement Card</figcaption>
 </figure>
 
 
@@ -159,9 +159,9 @@ As a facilitator of the requirements mapping process, provide a space to collect
 Regularly pause to share reports between the various domains. Note: Some domains might dissolve, change, or merge with others.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/templates/domain-template.png" alt="Requirements Mapping: A template for domains" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Requirements Mapping: A template for domains</figcaption>'
+    <figcaption>Requirements Mapping: A template for domains</figcaption>
 </figure>
 
 

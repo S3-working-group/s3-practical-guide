@@ -23,7 +23,7 @@ Establishing circles enables greater autonomy and fosters co-responsibility for 
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/illustrations/from-managed-teams-to-circles.png" alt="From Managed Teams to Self-governing Circles" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>From Managed Teams to Self-governing Circles</figcaption>'
+    <figcaption>From Managed Teams to Self-governing Circles</figcaption>
 </figure>
 
 A circle's members work best when their domain is defined in a way that eliminates unnecessary and unhelpful dependencies that get in the way of creating and delivering <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Value: The importance, worth, or usefulness of something for fulfilling a purpose. Also: &quot;a valued principle that guides behavior&quot; (mostly used as plural &quot;values&quot;, e.g. &quot;organizational values&quot;).">value</a> effectively.
@@ -51,7 +51,7 @@ Together, a circle's members share the responsibility for setting objectives and
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/illustrations/circle.png" alt="All members of a circle are equally accountable for governance of the circle&#x27;s domain" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>All members of a circle are equally accountable for governance of the circle's domain</figcaption>'
+    <figcaption>All members of a circle are equally accountable for governance of the circle's domain</figcaption>
 </figure>
 
 

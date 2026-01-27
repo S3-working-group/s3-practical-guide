@@ -12,9 +12,9 @@ Sociocracy 3.0 is built on seven foundational principles which enable sociocrati
 Practicing Sociocracy 3.0 helps people appreciate the essential value that these core principles bring – both to individuals and to organizations – and supports their integration into organizational culture.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-height fig--scale-small">
     <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>The Seven Principles</figcaption>'
+    <figcaption>The Seven Principles</figcaption>
 </figure>
 
 **[The Principle of Effectiveness](principle-effectiveness.html):** 

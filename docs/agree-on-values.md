@@ -26,7 +26,7 @@ Collectively adopting a set of values supports the effectiveness of an organizat
 Chosen values are a policy that benefits from **regular review**.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/framework/chosen-values.png" alt="Chosen values define constraints for collaboration" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Chosen values define constraints for collaboration</figcaption>'
+    <figcaption>Chosen values define constraints for collaboration</figcaption>
 </figure>

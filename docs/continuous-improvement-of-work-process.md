@@ -29,5 +29,5 @@ Establishing a process for the ongoing elimination of waste enables natural evol
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/workflow-and-value/drivers-value-waste.png" alt="Drivers, Value and Waste" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Drivers, Value and Waste</figcaption>'
+    <figcaption>Drivers, Value and Waste</figcaption>
 </figure>

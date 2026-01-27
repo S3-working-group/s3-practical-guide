@@ -22,7 +22,7 @@ Achieve and maintain alignment of flow through the continuous evolution of an or
 When decision-making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is significantly reduced.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-full">
     <img src="img/workflow-and-value/align-flow.png" alt="Aligning the flow of information to support the flow of value" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Aligning the flow of information to support the flow of value</figcaption>'
+    <figcaption>Aligning the flow of information to support the flow of value</figcaption>
 </figure>

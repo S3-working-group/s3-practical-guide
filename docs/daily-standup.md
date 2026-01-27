@@ -19,7 +19,7 @@ The team gathers around a visible project management board/tool to:
     -   adapt existing <a href="glossary.html#entry-policy" class="glossary-tooltip" data-toggle="tooltip" title="Policy: An intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline.">policies</a> or create new ones on the fly
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/meetings/planning-review-standup.png" alt="Daily standup is an essential meeting for self-organizing teams." class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Daily standup is an essential meeting for self-organizing teams.</figcaption>'
+    <figcaption>Daily standup is an essential meeting for self-organizing teams.</figcaption>
 </figure>

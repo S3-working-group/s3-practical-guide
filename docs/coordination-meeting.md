@@ -22,7 +22,7 @@ Agenda items:
 -   responding to impediments
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/meetings/coordination-meeting.png" alt="Phases of a coordination meeting" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Phases of a coordination meeting</figcaption>'
+    <figcaption>Phases of a coordination meeting</figcaption>
 </figure>

@@ -11,7 +11,7 @@ prev_page_url: "fractal-organization.html"
 
 <figure class="fig fig--limit-width fig--scale-small">
     <img src="img/csf/csf-logo.png" alt="The Common Sense Framework" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>The Common Sense Framework</figcaption>'
+    <figcaption>The Common Sense Framework</figcaption>
 </figure>
 
 We're observing an emerging common sense that is transforming organizations around the world, inspiring and enabling people to build successful organizations where BOTH the people and the organization thrive.

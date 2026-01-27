@@ -55,7 +55,7 @@ If there are no possible objections, proceed to step 6 (Celebrate), otherwise ta
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/policy/resolve-objections.png" alt="Process for resolving an objection" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Process for resolving an objection</figcaption>'
+    <figcaption>Process for resolving an objection</figcaption>
 </figure>
 
 Below you'll find more guidance on how to go through each step. This process can be repeated until all objections have been resolved. As with all patterns in S3, your approach to resolving objections can be adjusted to suit your context. 
@@ -120,9 +120,9 @@ Come up with an amendment to the current amendment suggestion! Be aware that a p
 As you can see, the Resolve Objections pattern can be used recursively. Below you will find an illustration that shows how this works.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-full">
     <img src="img/policy/resolve-objections-process.png" alt="Recursive application of the Resolve Objection pattern" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Recursive application of the Resolve Objection pattern</figcaption>'
+    <figcaption>Recursive application of the Resolve Objection pattern</figcaption>
 </figure>
 
 

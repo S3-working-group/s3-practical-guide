@@ -21,8 +21,7 @@ Run experiments with adaptations for long enough to learn about the benefits and
 Share valuable adaptations with the S3 community.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/process/adapt-pattern-to-context.png" alt="Phases of adapting patterns to a specific context" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Phases of adapting patterns to a specific context</figcaption>'
+    <figcaption>Phases of adapting patterns to a specific context</figcaption>
 </figure>
-

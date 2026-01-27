@@ -18,9 +18,9 @@ In this chapter, you will explore four key concepts that help individuals and or
 One way to understand work in organizations is as _people making interventions to fulfill a purpose._
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-both fig--scale-small">
     <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 Purpose informs, motivates, and guides action. Interventions are specific steps people take, and/or the constraints they put in place, to fulfill a purpose.
@@ -39,7 +39,7 @@ It's much easier to avoid or at least detect and mitigate those fail points when
 
 Understanding and describing interventions is often straightforward; you list the specific step(s) you take and/or the constraint(s) you put in place to fulfill a purpose. Clearly understanding and describing purpose, however, can be more challenging, and there are several ways to do it.
 
-One way to understand purpose is as the confluence of a _situation_ that is relevant to address, and the _outcome(s)_ considered valuable to achieve in relation to that situation. To define purpose, we use two concepts:
+One way to understand purpose is as the confluence of a _situation_ that is relevant to address, and the _outcomes_ considered valuable to achieve in relation to that situation. To define purpose, we use two concepts:
 
 -   **Organizational Driver**: a _situation_ of relevance that you want to address.
 -   **Requirement:** a state considered valuable to establish or maintain in order to address a specific driver.
@@ -49,15 +49,15 @@ Clarifying both the organizational driver and the associated requirement makes i
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/purposeful-action/purposeful-action-full.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 There is also a **natural sequence** to this approach: A clear understanding of the situation of relevance is essential to determine a suitable requirement. Understanding the requirement itself (or at least, a grasp of a valuable outcome) is necessary to determine an appropriate intervention.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/purposeful-action/understand-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 Breaking down the process of responding to relevant situations into distinct, sequential steps helps prevent misdiagnosis, reduce wasted effort, and avoid implementing solutions that fail to address the situation in a suitable way.
@@ -114,14 +114,14 @@ As an organization evolves and the context in which it operates changes over tim
 Just as a project or team within an organization can outlive its relevance, the organization itself may reach a point where its purpose is no longer meaningful in its broader context. At that point, the organization must either redefine its purpose or cease to exist.
 
 
-### Organizations are Complex Networks of Interrelated Purposes.
+### Organizations are Complex Networks of Interrelated Purposes
 
 Within an organization, each team, role, decision, and action serves a purpose — whether that purpose is known, clearly understood, and defined or not. For an organization to be effective, it's important that every purpose people work toward fulfilling contributes to the organization's overall purpose and is not in contradiction to another purpose elsewhere in the organization. Similarly, and in addition to that, for a team or project to be effective, decisions and actions within a team or a project must also align with that team's or project's purpose and must not contradict any other decision or action.
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/nested-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <img src="img/purposeful-action/nested-purpose.png" alt="Organizations are complex networks of interrelated purposes." class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Organizations are complex networks of interrelated purposes.</figcaption>
 </figure>
 
 Without such coherence, an organization may face numerous undesirable outcomes, such as conflicting decisions, unclear responsibilities, duplication of effort, or failure to take care of important work.
@@ -133,7 +133,7 @@ Developing and maintaining coherence across this complex, dynamic network of int
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 
@@ -157,9 +157,9 @@ For familiar or obvious challenges or opportunities, it's easy to describe purpo
 In many situations, especially when things are new, uncertain, or complex, our understanding of what's going on and of what's required to respond may be more or less clear. Some aspects of a situation might be well understood, while others remain uncertain or entirely unknown. Therefore, it's helpful to have a way to describe purpose that reflects the clarity we have so far, while leaving space to evolve our understanding over time. This makes it easier to communicate, develop shared understanding, and regularly review and adjust our approach as we learn more.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-both fig--scale-small">
     <img src="img/purposeful-action/purposeful-action-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 To help people make sense of and clarify purpose, we use the concepts of _Organizational Drivers_ and _Requirements_:
@@ -243,7 +243,7 @@ Related Patterns:
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/purposeful-action/purposeful-action-reverse.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 A requirement connects a driver and the intervention intended to address it. It bridges the *problem space* and the *solution space*. Once it has been determined to be suitable for addressing a driver, a requirement is binding and sets the scope and direction for the intervention you define. In this sense, requirements function as constraints.
@@ -253,7 +253,7 @@ _A **requirement** is a state considered valuable to establish or maintain in or
 
 ### What's the Benefit of Explicitly Clarifying Requirements?
 
-Unless the way to address a particular driver is obvious, explicitly clarifying the intended outcome(s) and the enabling condition(s) you think should be established to achieve those outcomes, _before_ determining more specific solutions, will give you the following benefits:
+Unless the way to address a particular driver is obvious, explicitly clarifying the intended outcomes and the enabling conditions you think should be established to achieve those outcomes, _before_ determining more specific solutions, will give you the following benefits:
 
 -   **Encourages more intentionality**: When determining the requirement first, people are more likely to think consciously about how to address a driver, rather than acting based on reaction or habit, especially in novel and or complex situations.
 -   **Clarifies intent and direction**: By defining the outcome you seek and the conditions you deem suitable to establish, you anchor the intervention in shared understanding rather than assumption.
@@ -299,17 +299,17 @@ _In the context of a requirement, **enabling conditions** are conditions conside
 When determining a requirement in relation to a driver, we make several discrete assumptions:
 
 -   Our understanding of the driver is _accurate_ and _sufficient_ for determining a suitable requirement
--   The intended outcome(s) are _achievable_ and _valuable_ (in relation to the driver)
+-   The intended outcomes are _achievable_ and _valuable_ (in relation to the driver)
 -   The enabling conditions we want to establish (or maintain) are _suitable_ and _sufficient_ for achieving that outcome
 
 These assumptions are based on the information available at the time, as well as the level of understanding and experience we have about the situation we are dealing with. Any of these assumptions may be wrong. Therefore, requirements need to be tested, monitored, and, if necessary, changed over time.
 
 When interventions are implemented as designed but don't work as expected, being able to revisit both outcomes and enabling conditions separately helps determine what needs to be improved:
 
--   **The design of the intervention is flawed**: we implemented the intervention, but it didn't establish the enabling conditions, and also did not achieve the intended outcome(s).
--   **The assumed condition is inappropriate or insufficient** for achieving the intended outcome(s): the enabling conditions were met, but it didn't lead to the outcome we intended.
--   **The intended outcome(s) are unsuitable**: we achieved the outcome(s) we intended, but the driver was not adequately addressed.
--   **The intended outcome(s) are unattainable**: they have not been achieved, and it appears unrealistic to expect they can be achieved in this context.
+-   **The design of the intervention is flawed**: we implemented the intervention, but it didn't establish the enabling conditions, and also did not achieve the intended outcomes.
+-   **The assumed conditions are inappropriate or insufficient** for achieving the intended outcomes: the enabling conditions were met, but it didn't lead to the outcome we intended.
+-   **The intended outcomes are unsuitable**: we achieved the outcomes we intended, but the driver was not adequately addressed.
+-   **The intended outcomes are unattainable**: they have not been achieved, and it appears unrealistic to expect they can be achieved in this context.
 
 Revisiting these elements will help determine how to evolve your approach:
 
@@ -359,7 +359,7 @@ The equivalent in our model is:
 
 _(Considering the driver) we need \<enabling condition\>, so that \<intended outcome\>._
 
-While a user story is written from the perspective of a customer or end user, a requirement in this context is typically written from the perspective of the organization responding to the driver — or a subset of its members — so the \<role\> is simply inferred from the driver. As with user stories, the details of the enabling condition(s) or intended outcome(s) may emerge over time. Requirements are formed through conversation, and refined collaboratively — ideally close to the time the driver is to be addressed — and then improved iteratively based on actual outcomes and learning.
+While a user story is written from the perspective of a customer or end user, a requirement in this context is typically written from the perspective of the organization responding to the driver — or a subset of its members — so the \<role\> is simply inferred from the driver. As with user stories, the details of the enabling conditions or intended outcomes may emerge over time. Requirements are formed through conversation, and refined collaboratively — ideally close to the time the driver is to be addressed — and then improved iteratively based on actual outcomes and learning.
 
 Connecting requirements to their underlying drivers deepens shared understanding and strengthens alignment around what matters most. In the same way, it's often beneficial to make the driver behind a user story explicit, as it provides additional context to help the developer better understand the customer's (or user's) needs.
 
@@ -377,9 +377,9 @@ Both concepts represent states in a system, yet they occupy distinct positions i
 The distinction mirrors a broader pattern: each present-focused element (current conditions, effects, relevance) has a corresponding future-focused counterpart (enabling conditions, intended outcomes, relevance). Together, these pairs help clarify both why action is needed now and what is believed necessary to move toward a preferable state.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-full">
     <img src="img/purposeful-action/driver-requirement-table.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 
@@ -388,9 +388,9 @@ The distinction mirrors a broader pattern: each present-focused element (current
 The model of purposeful action rests on the observation that work in organizations can be understood as people making interventions to fulfill a purpose.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 Now that we've clarified what purpose is and how it can be described in terms of drivers and requirements, the next step is to explain more about the nature and structure of interventions. After all, interventions are how people translate purpose into practice — they are the only means through which organizations create and deliver value: it's interventions that ultimately pay the bills.
@@ -463,7 +463,7 @@ Following the model for purposeful action, there is a specific purpose (driver a
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/purposeful-action/sub-interventions.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 Breaking down a more comprehensive intervention in this way is especially helpful when it involves:
@@ -505,7 +505,7 @@ When breaking interventions down into smaller parts (sub-interventions), the **p
 
 However, be mindful of situations where it's worthwhile to clarify the purpose of certain parts — especially when there's a reason something needs to be done in a particular way, or when sub-interventions need to happen in a certain order or are otherwise interrelated. Likewise, if parts of an intervention relate to the **wider organization** — such as org-wide policies, responsibilities, or dependencies — or to the **external environment**, document this explicitly.
 
-To clarify the purpose of a sub-intervention, it can be enough to define only the **enabling conditions** that need to be established — especially when the higher-level outcome is already clear — or just the **intended outcome(s)**, if this implies what enabling conditions are needed. In other cases, it's useful to describe the situation (**driver**) that the requirement is meant to address.
+To clarify the purpose of a sub-intervention, it can be enough to define only the **enabling conditions** that need to be established — especially when the higher-level outcome is already clear — or just the **intended outcomes**, if this implies what enabling conditions are needed. In other cases, it's useful to describe the situation (**driver**) that the requirement is meant to address.
 
 **Example**:
 

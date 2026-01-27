@@ -49,7 +49,7 @@ It will usually be clear whether a situation should be handled through governanc
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/purposeful-action/governance-or-operations.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 
@@ -107,7 +107,7 @@ When dealing with matters of governance, requirements are fulfilled through crea
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/policy/governance-short.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 _A **policy** is an intervention that is created and evolved through governance; a process, procedure, protocol, plan, strategy, or guideline._
@@ -172,9 +172,9 @@ You'll find that similar steps apply to both operations and governance. For more
 Check your current governance processes to see if all those steps are included, and in general, take a conscious and intentional approach to how you handle governance of your domain and the whole organization. 
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 

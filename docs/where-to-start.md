@@ -10,7 +10,7 @@ prev_page_url: "transformation.html"
 
 <figure class="fig fig--limit-height fig--scale-small">
     <img src="img/csf/csf-light.png" alt="Ten Principles for Evolving Teams and Organizations" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Ten Principles for Evolving Teams and Organizations</figcaption>'
+    <figcaption>Ten Principles for Evolving Teams and Organizations</figcaption>
 </figure>
 
 Each principle supports a specific outcome. To determine where to start in your organization or team, **take a look at the outcomes for each principle** (the text after "_so that_") and reflect on where your greatest need lies at the moment. In any case, **check that you are clear enough on your organization's or team's purpose and strategy before you proceed**.

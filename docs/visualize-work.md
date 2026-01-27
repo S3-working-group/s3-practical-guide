@@ -16,9 +16,9 @@ prev_page_url: "prioritize-backlogs.html"
 -   **digital:** [Trello](https://trello.com/), [Kanbanize](https://kanbanize.com/), [Leankit](https://leankit.com/), [Miro](https://miro.com), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/workflow-and-value/simple-process.png" alt="Visualization of a simple work process" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Visualization of a simple work process</figcaption>'
+    <figcaption>Visualization of a simple work process</figcaption>
 </figure>
 
 **Things to track**:
@@ -33,7 +33,7 @@ prev_page_url: "prioritize-backlogs.html"
 -   use colors, symbols, highlights etc.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/workflow-and-value/card.png" alt="A card representing a work item" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>A card representing a work item</figcaption>'
+    <figcaption>A card representing a work item</figcaption>
 </figure>

@@ -8,9 +8,9 @@ prev_page_url: "ten-principles.html"
 
 
 
-<figure class="fig fig--limit-height fig--scale-normal">
+<figure class="fig fig--limit-height fig--scale-small">
     <img src="img/csf/csf-light-orientation.png" alt="Two Principles for Orientation: Clarify Purpose — Develop Strategy" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Two Principles for Orientation: Clarify Purpose — Develop Strategy</figcaption>'
+    <figcaption>Two Principles for Orientation: Clarify Purpose — Develop Strategy</figcaption>
 </figure>
 
 

@@ -16,8 +16,8 @@ Most domains in an organization fall entirely within the overall domain of the o
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/illustrations/domains-in-organizations.png" alt="Domains may overlap or be fully contained within other domains" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Domains may overlap or be fully contained within other domains</figcaption>'
+    <img src="img/illustrations/domains-in-organizations.png" alt="Domains may overlap or be fully contained within other domains." class="zoomify" loading="lazy" decoding="async">
+    <figcaption>Domains may overlap or be fully contained within other domains.</figcaption>
 </figure>
 
 Any role or team's purpose within an organization is to contribute toward the overall purpose of the organization by taking care of a specific area of responsibility. Inadequately defined domains typically lead to stakeholders having different assumptions about areas of responsibility and people's level of authority to decide and act for themselves. As a consequence, both collaboration and distribution of work suffer because of missed dependencies, double work, or important work not being done at all.
@@ -34,7 +34,7 @@ People might do a great job of accounting for a domain in the way it's designed,
 
 ## Delegating Responsibility for Domains
 
-_**Delegation** is the grant of authority by one party (the delegator) to another (the delegatee) to attend to a domain (i.e., to do certain things or to make certain decisions), for which the delegator maintains overall accountability.**_
+_**Delegation** is the grant of authority by one party (the delegator) to another (the delegatee) to attend to a domain (i.e., to do certain things or to make certain decisions), for which the delegator maintains overall accountability._
 
 Responsibility for domains is delegated to groups or individuals, who then act within their defined constraints on their autonomy and influence.
 

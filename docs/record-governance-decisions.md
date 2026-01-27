@@ -76,7 +76,7 @@ Depending on the scope and significance of the policy, consider including all of
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/templates/policy-template.png" alt="A template for recording policy" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>A template for recording policy</figcaption>'
+    <figcaption>A template for recording policy</figcaption>
 </figure>
 
 

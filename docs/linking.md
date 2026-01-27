@@ -13,7 +13,7 @@ prev_page_url: "role.html"
 A team selects one of its members to represent their interests in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it.">governance</a> decisions of another team.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/structural-patterns/link.png" alt="One circle linked to another circle" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>One circle linked to another circle</figcaption>'
+    <figcaption>One circle linked to another circle</figcaption>
 </figure>

@@ -28,7 +28,7 @@ It also helps avoid the perception of us misrepresenting the _Sociocratic Circle
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/framework/sociocracy-variants.png" alt="Three variants of sociocracy" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Three variants of sociocracy</figcaption>'
+    <figcaption>Three variants of sociocracy</figcaption>
 </figure>
 
 ## The New Model of Distribution

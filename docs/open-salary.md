@@ -27,5 +27,5 @@ Decide how to handle remuneration for changing roles and [develop a strategy](cl
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/process/opening-salaries.png" alt="Two ways of opening salaries" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Two ways of opening salaries</figcaption>'
+    <figcaption>Two ways of opening salaries</figcaption>
 </figure>

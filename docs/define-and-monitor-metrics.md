@@ -10,7 +10,7 @@ prev_page_url: "describe-deliverables.html"
 <div class="card summary"><div class="card-body">Develop clear, well-defined metrics to assess your effectiveness in achieving objectives, and monitor them frequently to identify opportunities for improvement early.
 </div></div>
 
-*_A **metric** is a quantifiable measure used to track and assess progress, evaluate outcomes and determine success._*
+_A **metric** is a quantifiable measure used to track and assess progress, evaluate outcomes and determine success._
 
 Metrics help you evaluate the effectiveness of your work and decisions. They act as early signals for when things are working or when something needs attention. Frequent measurement provides timely insights that support better decisions.
 
@@ -62,8 +62,8 @@ This structured format ensures clarity, accountability, and alignment between me
 -   **Rate**: The frequency at which the metric is measured or reported (e.g., daily, weekly, monthly).
 -   **Responsibilities**: Who is responsible for collecting, monitoring, and acting on the metric?
 -   **Baseline**: (if necessary) the value to compare relative metrics against, often a measurement taken before the intervention begins
--   **Target**: The value(s) or range that is considered a success (typically derived from acceptance criteria)
--   **Triggers**: The specific value(s) or range that triggers attention or action.
+-   **Target**: The values or range that is considered a success (typically derived from acceptance criteria)
+-   **Triggers**: The specific values or range that triggers attention or action.
 
 
 ## Examples

@@ -16,9 +16,6 @@ prev_page_url: "sense-making-and-decision-making.html"
 {:toc}
 
 
-
-## Overview
-
 _An **organizational driver** is a situation where the organization's members have a motive to respond because they anticipate that doing so is beneficial or necessary for fulfilling the organization’s purpose. (by helping generate value, eliminate waste, or avoid undesirable risks or consequences)._
 
 In the course of daily operations, every organization needs to deal with numerous existing and new drivers. Whenever a role keeper or a team becomes aware of a new driver they are responsible for addressing, taking a structured and considered approach supports staying focused on priorities, deciding and acting appropriately, and making the best use of resources, energy, and time. 
@@ -58,9 +55,9 @@ This process translates the **[concepts for purposeful action](purposeful-action
 If you are not familiar with the concepts of purpose, driver, requirement, and intervention, it's recommended to pause here and check them out. 
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>
 
 
@@ -162,5 +159,5 @@ The process for **evaluating policies** typically benefits from a more structure
 
 <figure class="fig fig--limit-both fig--scale-normal">
     <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
-    <figcaption></figcaption>'
+    <figcaption></figcaption>
 </figure>

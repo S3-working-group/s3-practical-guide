@@ -23,7 +23,7 @@ Depending on the constraints set by the delegator, contributors may only <a href
 The delegator is accountable for conducting regular reviews to support effectiveness of work and any decision-making in the open team.
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-height fig--scale-small">
     <img src="img/structural-patterns/open-team.png" alt="Open Team" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Open Team</figcaption>'
+    <figcaption>Open Team</figcaption>
 </figure>

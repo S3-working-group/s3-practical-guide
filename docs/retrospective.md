@@ -16,9 +16,9 @@ prev_page_url: "meeting-formats.html"
 -   adapt to situation and context
 
 
-<figure class="fig fig--limit-both fig--scale-normal">
+<figure class="fig fig--limit-width fig--scale-small">
     <img src="img/meetings/retrospective.png" alt="Output of a retrospective" class="zoomify" loading="lazy" decoding="async">
-    <figcaption>Output of a retrospective</figcaption>'
+    <figcaption>Output of a retrospective</figcaption>
 </figure>
 
 ## Five Phases of a Retrospective Meeting
