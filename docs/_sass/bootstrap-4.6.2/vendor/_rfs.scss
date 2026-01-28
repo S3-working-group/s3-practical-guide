@@ -6,8 +6,6 @@
 //
 // Licensed under MIT (https://github.com/twbs/rfs/blob/v8.x/LICENSE)
 
-@use "sass:math";
-
 // Configuration
 
 // Base font size
@@ -53,8 +51,8 @@ $rfs-base-font-size-unit: unit($rfs-base-font-size);
 
 @function divide($dividend, $divisor, $precision: 10) {
   $sign: if($dividend > 0 and $divisor > 0 or $dividend < 0 and $divisor < 0, 1, -1);
-  $dividend: math.abs($dividend);
-  $divisor: math.abs($divisor);
+  $dividend: abs($dividend);
+  $divisor: abs($divisor);
   @if $dividend == 0 {
     @return 0;
   }
