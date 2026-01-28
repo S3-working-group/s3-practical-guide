@@ -6,28 +6,33 @@
  * Basic styling
  */
 
-@font-face {
-  font-family: "Open Sans";
-  src: url("/fonts/OpenSans-latin.woff2")
-       format("woff2-variations");
-  font-weight: 300 800;
-  font-style: normal;
-  font-display: swap;
-}
+// @font-face {
+//   font-family: "Open Sans";
+//   src: url("/fonts/OpenSans-latin.woff2")
+//        format("woff2-variations");
+//   font-weight: 300 800;
+//   font-style: normal;
+//   font-display: swap;
+// }
 
-@font-face {
-  font-family: "Open Sans";
-  src: url("/fonts/OpenSans-greek.woff2")
-       format("woff2-variations");
-  font-weight: 300 800;
-  font-style: normal;
-  unicode-range: U+0370-03FF, U+1F00-1FFF;
-  font-display: swap;
-}
+// @font-face {
+//   font-family: "Open Sans";
+//   src: url("/fonts/OpenSans-greek.woff2")
+//        format("woff2-variations");
+//   font-weight: 300 800;
+//   font-style: normal;
+//   unicode-range: U+0370-03FF, U+1F00-1FFF;
+//   font-display: swap;
+// }
+
+// :root {
+//     --font-sans: "Open Sans", system-ui, -apple-system,
+//                  "Segoe UI", Roboto, Arial, sans-serif;
+// }
 
 :root {
-    --font-sans: "Open Sans", system-ui, -apple-system,
-                 "Segoe UI", Roboto, Arial, sans-serif;
+ --font-sans: "Jost", system-ui, -apple-system,
+              "Segoe UI", Roboto, Arial, sans-serif;
 }
 
 html {
