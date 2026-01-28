@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1720 1e3" width="1720" height="1000">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.25.1\n2026-01-25 17:52:25 +0000</metadata>
+  <g id="pattern-map" fill="none" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill-opacity="1">
+    <title>pattern-map</title>
+    <rect fill="white" x="0" y="0" width="1720" height="1e3"/>
+    <g id="pattern-map_license">
+      <title>license</title>
+      <g id="Group_97">
+        <g id="Graphic_99">
+          <rect x="1145" y="947.7157" width="78" height="14.542373" id="path"/>
+          <clipPath id="clip_path">
+            <use href="#path"/>
+          </clipPath>
+          <g clip-path="url(#clip_path)">
+            <image href="https://patterns.sociocracy30.org/img/cc-by-sa-sm.png" width="64.08" height="12" transform="matrix(1.2172285 0 0 1.2118644 1145 947.7157)"/>
+          </g>
+        </g>
+        <g id="Graphic_98">
+          <text transform="translate(1233.1365 946.4214)" fill="black">
+            <tspan font-family="Open Sans" font-size="13" fill="black" x="0" y="14" xml:space="preserve">Bernhard Bockelbrink, Liliana David, James Priest  http://sociocracy30.org</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g id="pattern-map_logo">
+      <title>logo</title>
+      <g id="Group_148">
+        <g id="Graphic_107">
+          <text transform="translate(598.3554 207.94738)" fill="#9bc0ff" fill-opacity=".25">
+            <tspan font-family="Menlo" font-size="444.342" fill="#9bc0ff" fill-opacity=".25" x="3410605e-19" y="412" xml:space="preserve">S3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_106">
+          <path d="M 465.22554 411.3206 C 447.87573 536.33295 490.57096 660.203 575.4872 747.9491 C 578.99875 739.5368 584.1772 731.6558 591.0226 724.8104 C 595.6589 720.1741 600.7703 716.3024 606.2001 713.1954 C 533.29465 636.3355 496.47925 529.0685 510.6175 420.56565 C 494.7823 422.58416 478.8039 419.227 465.22556 411.3206 Z M 508.3215 277.47085 C 523.9674 278.9727 538.90156 285.57363 550.5798 296.44695 C 602.67494 199.5606 695.80305 133.81436 800.3982 114.27286 C 793.7577 99.7565 792.1974 83.48625 795.7171 68.14565 C 675.0331 89.50952 567.43995 165.29426 508.3215 277.4709 Z M 689.03745 830.1373 C 705.6046 838.1668 722.9169 845.1596 740.9201 851.0092 C 844.5243 884.6725 951.8711 874.2568 1042.6664 830.1028 C 1041.3871 828.9914 1040.1376 827.8273 1038.9209 826.6106 C 1028.5374 816.2271 1021.9892 803.4607 1019.2764 790.0717 C 939.5389 827.8863 845.7555 836.4826 755.2003 807.0592 C 740.4144 802.2551 726.1547 796.58025 712.4595 790.11 C 709.7419 803.485 703.19635 816.237 692.82275 826.6106 C 691.5934 827.8399 690.3307 829.0155 689.03745 830.1373 Z M 1156.2607 747.9592 C 1197.9408 705.02875 1230.6955 652.1472 1250.4336 591.3991 C 1269.9576 531.3109 1274.6545 469.9638 1266.5418 411.31695 C 1252.6611 419.43523 1236.6447 422.51345 1221.1444 420.55167 C 1227.7753 471.6059 1223.451 524.89914 1206.4837 577.1189 C 1189.3953 629.7121 1161.2915 675.64815 1125.5566 713.2029 C 1130.9815 716.3086 1136.0885 720.1778 1140.721 724.8104 C 1147.5692 731.6585 1152.749 739.5431 1156.2607 747.9592 Z M 1223.3553 277.48436 C 1175.949 187.7801 1094.9402 115.71488 990.8235 81.88561 C 972.639 75.97706 954.3392 71.42644 936.0339 68.17785 C 939.5462 83.51836 937.9794 99.78645 931.3334 114.29933 C 946.4396 117.1272 961.5358 120.95924 976.5433 125.83552 C 1067.7634 155.47445 1138.9568 218.25076 1181.1269 296.50712 C 1193.1401 285.28496 1208.0587 278.94404 1223.3553 277.48437 Z" fill="#ff9340" fill-opacity=".143497"/>
+        </g>
+        <g id="Graphic_105">
+          <circle cx="501.5101" cy="349.1407" r="49.7665565789638" fill="#9bc0ff" fill-opacity=".25"/>
+        </g>
+        <g id="Graphic_104">
+          <circle cx="865.8718" cy="84.31193" r="49.7665565789638" fill="#9bc0ff" fill-opacity=".25"/>
+        </g>
+        <g id="Graphic_103">
+          <circle cx="641.9227" cy="775.7105" r="49.7665565789638" fill="#9bc0ff" fill-opacity=".25"/>
+        </g>
+        <g id="Graphic_102">
+          <circle cx="1089.821" cy="775.7105" r="49.7665565789638" fill="#9bc0ff" fill-opacity=".25"/>
+        </g>
+        <g id="Graphic_101">
+          <circle cx="1230.2335" cy="349.1407" r="49.7665565789638" fill="#9bc0ff" fill-opacity=".25"/>
+        </g>
+      </g>
+    </g>
+    <g id="pattern-map_title">
+      <title>title</title>
+      <g id="Graphic_147">
+        <text transform="translate(347.66667 934.8057)" fill="#8190c2">
+          <tspan font-family="Open Sans" font-size="26" fill="#8190c2" x="0" y="28" xml:space="preserve">Social Technology for Evolving Agile and Resilient Organizations</tspan>
+        </text>
+      </g>
+      <g id="Graphic_146">
+        <text transform="translate(45 918.8267)" fill="#ff9340">
+          <tspan font-family="Open Sans" font-size="42" fill="#ff9340" x="0" y="45" xml:space="preserve">Sociocracy 3.0 </tspan>
+        </text>
+      </g>
+    </g>
+    <g id="pattern-map_patterns">
+      <title>patterns</title>
+      <g id="Group_276">
+        <g id="Graphic_256">
+          <a href="https://patterns.sociocracy30.org/peer-development.html">
+            <path d="M 45 670 L 415 670 C 417.7614 670 420 672.2386 420 675 L 420 715 C 420 717.7614 417.7614 720 415 720 L 45 720 C 42.238576 720 40 717.7614 40 715 L 40 675 C 40 672.2386 42.238576 670 45 670 Z" fill="#56b484" fill-opacity=".246192"/>
+            <text transform="translate(40 679)" fill="#346c50">
+              <tspan font-family="Open Sans" font-size="23" fill="#346c50" x="90.27344" y="25" xml:space="preserve">Peer Development</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_255">
+          <a href="https://patterns.sociocracy30.org/ask-for-help.html">
+            <path d="M 44 730 L 156 730 C 158.20914 730 160 731.7909 160 734 L 160 796 C 160 798.2091 158.20914 800 156 800 L 44 800 C 41.79086 800 40 798.2091 40 796 L 40 734 C 40 731.7909 41.79086 730 44 730 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(42 755)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.248047" y="16" xml:space="preserve">Ask for Help</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_254">
+          <a href="https://patterns.sociocracy30.org/peer-feedback.html">
+            <path d="M 304 730 L 416 730 C 418.20914 730 420 731.7909 420 734 L 420 796 C 420 798.2091 418.20914 800 416 800 L 304 800 C 301.79086 800 300 798.2091 300 796 L 300 734 C 300 731.7909 301.79086 730 304 730 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(302 755)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="8.422363" y="16" xml:space="preserve">Peer Feedback</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_253">
+          <a href="https://patterns.sociocracy30.org/peer-review.html">
+            <path d="M 44 810 L 156 810 C 158.20914 810 160 811.7909 160 814 L 160 876 C 160 878.2091 158.20914 880 156 880 L 44 880 C 41.79086 880 40 878.2091 40 876 L 40 814 C 40 811.7909 41.79086 810 44 810 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(42 835)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.262695" y="16" xml:space="preserve">Peer Review</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_252">
+          <a href="https://patterns.sociocracy30.org/development-plan.html">
+            <path d="M 174 730 L 286 730 C 288.20914 730 290 731.7909 290 734 L 290 796 C 290 798.2091 288.20914 800 286 800 L 174 800 C 171.79086 800 170 798.2091 170 796 L 170 734 C 170 731.7909 171.79086 730 174 730 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(172 745)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="12.802246" y="16" xml:space="preserve">Development</tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="43.52002" y="36" xml:space="preserve">Plan</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+      <g id="Group_300">
+        <g id="Graphic_250">
+          <a href="https://patterns.sociocracy30.org/meeting-formats.html">
+            <path d="M 1305 350 L 1675 350 C 1677.7614 350 1680 352.23858 1680 355 L 1680 395 C 1680 397.76142 1677.7614 400 1675 400 L 1305 400 C 1302.2386 400 1300 397.76142 1300 395 L 1300 355 C 1300 352.23858 1302.2386 350 1305 350 Z" fill="#56b484" fill-opacity=".246192"/>
+            <text transform="translate(1300 359)" fill="#346c50">
+              <tspan font-family="Open Sans" font-size="23" fill="#346c50" x="99.18481" y="25" xml:space="preserve">Meeting Formats</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_249">
+          <a href="https://patterns.sociocracy30.org/governance-meeting.html">
+            <path d="M 1564 410 L 1676 410 C 1678.2091 410 1680 411.79086 1680 414 L 1680 476 C 1680 478.20914 1678.2091 480 1676 480 L 1564 480 C 1561.7909 480 1560 478.20914 1560 476 L 1560 414 C 1560 411.79086 1561.7909 410 1564 410 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1562 425)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.204102" y="16" xml:space="preserve">Governance </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="30.74292" y="36" xml:space="preserve">Meeting</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_248">
+          <a href="https://patterns.sociocracy30.org/retrospective.html">
+            <path d="M 1434 490 L 1546 490 C 1548.2091 490 1550 491.79086 1550 494 L 1550 556 C 1550 558.20914 1548.2091 560 1546 560 L 1434 560 C 1431.7909 560 1430 558.20914 1430 556 L 1430 494 C 1430 491.79086 1431.7909 490 1434 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1432 515)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="12.197998" y="16" xml:space="preserve">Retrospective</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_247">
+          <a href="https://patterns.sociocracy30.org/daily-standup.html">
+            <path d="M 1434 410 L 1546 410 C 1548.2091 410 1550 411.79086 1550 414 L 1550 476 C 1550 478.20914 1548.2091 480 1546 480 L 1434 480 C 1431.7909 480 1430 478.20914 1430 476 L 1430 414 C 1430 411.79086 1431.7909 410 1434 410 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1432 435)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="11.601074" y="16" xml:space="preserve">Daily Standup</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_246">
+          <a href="https://patterns.sociocracy30.org/planning-and-review-meetings.html">
+            <path d="M 1304 490 L 1416 490 C 1418.2091 490 1420 491.79086 1420 494 L 1420 556 C 1420 558.20914 1418.2091 560 1416 560 L 1304 560 C 1301.7909 560 1300 558.20914 1300 556 L 1300 494 C 1300 491.79086 1301.7909 490 1304 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1302 505)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="14.245117" y="16" xml:space="preserve">Planning and </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="2.050293" y="36" xml:space="preserve">Review Meetings</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_245">
+          <a href="https://patterns.sociocracy30.org/coordination-meeting.html">
+            <path d="M 1304 410 L 1416 410 C 1418.2091 410 1420 411.79086 1420 414 L 1420 476 C 1420 478.20914 1418.2091 480 1416 480 L 1304 480 C 1301.7909 480 1300 478.20914 1300 476 L 1300 414 C 1300 411.79086 1301.7909 410 1304 410 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1302 425)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="14.051025" y="16" xml:space="preserve">Coordination </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="30.74292" y="36" xml:space="preserve">Meeting</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+      <g id="Group_275">
+        <g id="Graphic_227">
+          <a href="https://patterns.sociocracy30.org/defining-agreements.html">
+            <path d="M 45 430 L 415 430 C 417.7614 430 420 432.2386 420 435 L 420 475 C 420 477.7614 417.7614 480 415 480 L 45 480 C 42.238576 480 40 477.7614 40 475 L 40 435 C 40 432.2386 42.238576 430 45 430 Z" fill="#56b484" fill-opacity=".246192"/>
+            <text transform="translate(40 439)" fill="#346c50">
+              <tspan font-family="Open Sans" font-size="23" fill="#346c50" x="77.11694" y="25" xml:space="preserve">Defining Agreements</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_226">
+          <a href="https://patterns.sociocracy30.org/record-governance-decisions.html">
+            <path d="M 304 570 L 416 570 C 418.20914 570 420 571.79086 420 574 L 420 636 C 420 638.20914 418.20914 640 416 640 L 304 640 C 301.79086 640 300 638.20914 300 636 L 300 574 C 300 571.79086 301.79086 570 304 570 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(302 575)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="34.086426" y="16" xml:space="preserve">Record </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.204102" y="36" xml:space="preserve">Governance </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="25.82837" y="56" xml:space="preserve">Decisions</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_225">
+          <a href="https://patterns.sociocracy30.org/logbook.html">
+            <path d="M 44 570 L 156 570 C 158.20914 570 160 571.79086 160 574 L 160 636 C 160 638.20914 158.20914 640 156 640 L 44 640 C 41.79086 640 40 638.20914 40 636 L 40 574 C 40 571.79086 41.79086 570 44 570 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(42 595)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.95215" y="16" xml:space="preserve">Logbook</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_224">
+          <a href="https://patterns.sociocracy30.org/logbook-keeper.html">
+            <path d="M 174 570 L 286 570 C 288.20914 570 290 571.79086 290 574 L 290 636 C 290 638.20914 288.20914 640 286 640 L 174 640 C 171.79086 640 170 638.20914 170 636 L 170 574 C 170 571.79086 171.79086 570 174 570 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(172 585)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.95215" y="16" xml:space="preserve">Logbook </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="33.910645" y="36" xml:space="preserve">Keeper</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_222">
+          <a href="https://patterns.sociocracy30.org/define-and-monitor-metrics.html">
+            <path d="M 174 490 L 286 490 C 288.20914 490 290 491.79086 290 494 L 290 556 C 290 558.20914 288.20914 560 286 560 L 174 560 C 171.79086 560 170 558.20914 170 556 L 170 494 C 170 491.79086 171.79086 490 174 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(172 505)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="21.294678" y="16" xml:space="preserve">Define and </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="4.470947" y="36" xml:space="preserve">Monitor Metrics </tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_221">
+          <a href="https://patterns.sociocracy30.org/describe-deliverables.html">
+            <path d="M 304 490 L 416 490 C 418.20914 490 420 491.79086 420 494 L 420 556 C 420 558.20914 418.20914 560 416 560 L 304 560 C 301.79086 560 300 558.20914 300 556 L 300 494 C 300 491.79086 301.79086 490 304 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(302 505)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.336914" y="16" xml:space="preserve">Describe </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="16.97705" y="36" xml:space="preserve">Deliverables</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_220">
+          <a href="https://patterns.sociocracy30.org/contract-for-successful-collaboration.html">
+            <path d="M 44 490 L 156 490 C 158.20914 490 160 491.79086 160 494 L 160 556 C 160 558.20914 158.20914 560 156 560 L 44 560 C 41.79086 560 40 558.20914 40 556 L 40 494 C 40 491.79086 41.79086 490 44 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(42 495)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.533691" y="16" xml:space="preserve">Contract for </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="22.891357" y="36" xml:space="preserve">Successful </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="12.805908" y="56" xml:space="preserve">Collaboration</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+      <g id="Group_273">
+        <g id="Graphic_218">
+          <a href="https://patterns.sociocracy30.org/circle.html">
+            <path d="M 884 90 L 996 90 C 998.2091 90 1e3 91.79086 1e3 94 L 1e3 156 C 1e3 158.20914 998.2091 160 996 160 L 884 160 C 881.7909 160 880 158.20914 880 156 L 880 94 C 880 91.79086 881.7909 90 884 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(882 115)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="39.35254" y="16" xml:space="preserve">Circle</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_217">
+          <a href="https://patterns.sociocracy30.org/role.html">
+            <path d="M 1014 250 L 1126 250 C 1128.2091 250 1130 251.79086 1130 254 L 1130 316 C 1130 318.20914 1128.2091 320 1126 320 L 1014 320 C 1011.7909 320 1010 318.20914 1010 316 L 1010 254 C 1010 251.79086 1011.7909 250 1014 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1012 275)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="43.336914" y="16" xml:space="preserve">Role</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_216">
+          <a href="https://patterns.sociocracy30.org/linking.html">
+            <path d="M 1014 170 L 1126 170 C 1128.2091 170 1130 171.79086 1130 174 L 1130 236 C 1130 238.20914 1128.2091 240 1126 240 L 1014 240 C 1011.7909 240 1010 238.20914 1010 236 L 1010 174 C 1010 171.79086 1011.7909 170 1014 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1012 195)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="34.361084" y="16" xml:space="preserve">Linking</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_215">
+          <a href="https://patterns.sociocracy30.org/double-linking.html">
+            <path d="M 1144 90 L 1256 90 C 1258.2091 90 1260 91.79086 1260 94 L 1260 156 C 1260 158.20914 1258.2091 160 1256 160 L 1144 160 C 1141.7909 160 1140 158.20914 1140 156 L 1140 94 C 1140 91.79086 1141.7909 90 1144 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1142 115)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="8.023193" y="16" xml:space="preserve">Double Linking</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_214">
+          <a href="https://patterns.sociocracy30.org/representative.html">
+            <path d="M 884 250 L 996 250 C 998.2091 250 1e3 251.79086 1e3 254 L 1e3 316 C 1e3 318.20914 998.2091 320 996 320 L 884 320 C 881.7909 320 880 318.20914 880 316 L 880 254 C 880 251.79086 881.7909 250 884 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(882 275)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="7.642334" y="16" xml:space="preserve">Representative</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_213">
+          <a href="https://patterns.sociocracy30.org/open-team.html">
+            <path d="M 1144 170 L 1256 170 C 1258.2091 170 1260 171.79086 1260 174 L 1260 236 C 1260 238.20914 1258.2091 240 1256 240 L 1144 240 C 1141.7909 240 1140 238.20914 1140 236 L 1140 174 C 1140 171.79086 1141.7909 170 1144 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1142 195)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="18.67627" y="16" xml:space="preserve">Open Team</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_212">
+          <a href="https://patterns.sociocracy30.org/helping-team.html">
+            <path d="M 884 170 L 996 170 C 998.2091 170 1e3 171.79086 1e3 174 L 1e3 236 C 1e3 238.20914 998.2091 240 996 240 L 884 240 C 881.7909 240 880 238.20914 880 236 L 880 174 C 880 171.79086 881.7909 170 884 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(882 195)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="11.699951" y="16" xml:space="preserve">Helping Team</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_211">
+          <title>Title</title>
+          <a href="https://patterns.sociocracy30.org/building-organizations.html">
+            <path d="M 885 30 L 1255 30 C 1257.7614 30 1260 32.238576 1260 35 L 1260 75 C 1260 77.76142 1257.7614 80 1255 80 L 885 80 C 882.2386 80 880 77.76142 880 75 L 880 35 C 880 32.238576 882.2386 30 885 30 Z" fill="#56b484" fill-opacity=".246192"/>
+            <text transform="translate(880 39)" fill="#346c50">
+              <tspan font-family="Open Sans" font-size="23" fill="#346c50" x="68.82324" y="25" xml:space="preserve">Building Organizations</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_210">
+          <a href="https://patterns.sociocracy30.org/delegate-circle.html">
+            <path d="M 1014 90 L 1126 90 C 1128.2091 90 1130 91.79086 1130 94 L 1130 156 C 1130 158.20914 1128.2091 160 1126 160 L 1014 160 C 1011.7909 160 1010 158.20914 1010 156 L 1010 94 C 1010 91.79086 1011.7909 90 1014 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1012 115)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="7.656982" y="16" xml:space="preserve">Delegate Circle</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_209">
+          <a href="https://patterns.sociocracy30.org/service-circle.html">
+            <path d="M 1144 250 L 1256 250 C 1258.2091 250 1260 251.79086 1260 254 L 1260 316 C 1260 318.20914 1258.2091 320 1256 320 L 1144 320 C 1141.7909 320 1140 318.20914 1140 316 L 1140 254 C 1140 251.79086 1141.7909 250 1144 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1142 275)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="13.465088" y="16" xml:space="preserve">Service Circle</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+      <g id="Group_309">
+        <g id="Graphic_207">
+          <a href="https://patterns.sociocracy30.org/governance-facilitator.html">
+            <path d="M 1434 170 L 1546 170 C 1548.2091 170 1550 171.79086 1550 174 L 1550 236 C 1550 238.20914 1548.2091 240 1546 240 L 1434 240 C 1431.7909 240 1430 238.20914 1430 236 L 1430 174 C 1430 171.79086 1431.7909 170 1434 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1432 185)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.204102" y="16" xml:space="preserve">Governance </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="25.301025" y="36" xml:space="preserve">Facilitator</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_206">
+          <a href="https://patterns.sociocracy30.org/meeting-practices.html">
+            <path d="M 1305 30 L 1675 30 C 1677.7614 30 1680 32.238576 1680 35 L 1680 75 C 1680 77.76142 1677.7614 80 1675 80 L 1305 80 C 1302.2386 80 1300 77.76142 1300 75 L 1300 35 C 1300 32.238576 1302.2386 30 1305 30 Z" fill="#56b484" fill-opacity=".246192"/>
+            <text transform="translate(1300 39)" fill="#346c50">
+              <tspan font-family="Open Sans" font-size="23" fill="#346c50" x="95.5293" y="25" xml:space="preserve">Meeting Practices</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_205">
+          <a href="https://patterns.sociocracy30.org/rounds.html">
+            <path d="M 1434 250 L 1546 250 C 1548.2091 250 1550 251.79086 1550 254 L 1550 316 C 1550 318.20914 1548.2091 320 1546 320 L 1434 320 C 1431.7909 320 1430 318.20914 1430 316 L 1430 254 C 1430 251.79086 1431.7909 250 1434 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1432 275)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="32.34326" y="16" xml:space="preserve">Rounds</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_204">
+          <a href="https://patterns.sociocracy30.org/facilitate-meetings.html">
+            <path d="M 1564 90 L 1676 90 C 1678.2091 90 1680 91.79086 1680 94 L 1680 156 C 1680 158.20914 1678.2091 160 1676 160 L 1564 160 C 1561.7909 160 1560 158.20914 1560 156 L 1560 94 C 1560 91.79086 1561.7909 90 1564 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1562 105)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.498047" y="16" xml:space="preserve">Facilitate</tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="27.249268" y="36" xml:space="preserve">Meetings</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_203">
+          <a href="https://patterns.sociocracy30.org/evaluate-meetings.html">
+            <path d="M 1434 90 L 1546 90 C 1548.2091 90 1550 91.79086 1550 94 L 1550 156 C 1550 158.20914 1548.2091 160 1546 160 L 1434 160 C 1431.7909 160 1430 158.20914 1430 156 L 1430 94 C 1430 91.79086 1431.7909 90 1434 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1432 105)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="29.724854" y="16" xml:space="preserve">Evaluate</tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="27.249268" y="36" xml:space="preserve">Meetings </tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_202">
+          <a href="https://patterns.sociocracy30.org/meeting-host.html">
+            <path d="M 1564 170 L 1676 170 C 1678.2091 170 1680 171.79086 1680 174 L 1680 236 C 1680 238.20914 1678.2091 240 1676 240 L 1564 240 C 1561.7909 240 1560 238.20914 1560 236 L 1560 174 C 1560 171.79086 1561.7909 170 1564 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1562 195)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="13" y="16" xml:space="preserve">Meeting Host</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_201">
+          <a href="https://patterns.sociocracy30.org/governance-backlog.html">
+            <path d="M 1304 170 L 1416 170 C 1418.2091 170 1420 171.79086 1420 174 L 1420 236 C 1420 238.20914 1418.2091 240 1416 240 L 1304 240 C 1301.7909 240 1300 238.20914 1300 236 L 1300 174 C 1300 171.79086 1301.7909 170 1304 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1302 185)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.204102" y="16" xml:space="preserve">Governance </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="32.119873" y="36" xml:space="preserve">Backlog</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_200">
+          <a href="https://patterns.sociocracy30.org/check-in.html">
+            <path d="M 1304 90 L 1416 90 C 1418.2091 90 1420 91.79086 1420 94 L 1420 156 C 1420 158.20914 1418.2091 160 1416 160 L 1304 160 C 1301.7909 160 1300 158.20914 1300 156 L 1300 94 C 1300 91.79086 1301.7909 90 1304 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1302 115)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="29.347656" y="16" xml:space="preserve">Check In</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_199">
+          <a href="https://patterns.sociocracy30.org/prepare-for-meetings.html">
+            <path d="M 1304 250 L 1416 250 C 1418.2091 250 1420 251.79086 1420 254 L 1420 316 C 1420 318.20914 1418.2091 320 1416 320 L 1304 320 C 1301.7909 320 1300 318.20914 1300 316 L 1300 254 C 1300 251.79086 1301.7909 250 1304 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1302 265)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="19.59546" y="16" xml:space="preserve">Prepare for </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="27.249268" y="36" xml:space="preserve">Meetings</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+      <g id="Group_308">
+        <g id="Graphic_197">
+          <a href="https://patterns.sociocracy30.org/describe-organizational-drivers.html">
+            <path d="M 724 90 L 836 90 C 838.2091 90 840 91.79086 840 94 L 840 156 C 840 158.20914 838.2091 160 836 160 L 724 160 C 721.7909 160 720 158.20914 720 156 L 720 94 C 720 91.79086 721.7909 90 724 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(722 95)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.336914" y="16" xml:space="preserve">Describe </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="9.209717" y="36" xml:space="preserve">Organizational </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="34.119385" y="56" xml:space="preserve">Drivers</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_196">
+          <a href="https://patterns.sociocracy30.org/respond-to-organizational-drivers.html">
+            <path d="M 724 250 L 836 250 C 838.2091 250 840 251.79086 840 254 L 840 316 C 840 318.20914 838.2091 320 836 320 L 724 320 C 721.7909 320 720 318.20914 720 316 L 720 254 C 720 251.79086 721.7909 250 724 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(722 255)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="19.331787" y="16" xml:space="preserve">Respond to </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="9.209717" y="36" xml:space="preserve">Organizational </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="34.119385" y="56" xml:space="preserve">Drivers</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_195">
+          <a href="https://patterns.sociocracy30.org/test-arguments-qualify-as-objections.html">
+            <path d="M 724 330 L 836 330 C 838.2091 330 840 331.79086 840 334 L 840 396 C 840 398.20914 838.2091 400 836 400 L 724 400 C 721.7909 400 720 398.20914 720 396 L 720 334 C 720 331.79086 721.7909 330 724 330 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(722 336.5)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="14" fill="#003776" x="2.9160156" y="15" xml:space="preserve">Test If Arguments </tspan>
+              <tspan font-family="Open Sans" font-size="14" fill="#003776" x="27.549316" y="34" xml:space="preserve">Qualify as </tspan>
+              <tspan font-family="Open Sans" font-size="14" fill="#003776" x="24.315918" y="53" xml:space="preserve">Objections</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_194">
+          <a href="https://patterns.sociocracy30.org/navigate-via-tension.html">
+            <path d="M 724 170 L 836 170 C 838.2091 170 840 171.79086 840 174 L 840 236 C 840 238.20914 838.2091 240 836 240 L 724 240 C 721.7909 240 720 238.20914 720 236 L 720 174 C 720 171.79086 721.7909 170 724 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(722 185)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.89624" y="16" xml:space="preserve">Navigate via </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="31.52295" y="36" xml:space="preserve">Tension</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_193">
+          <a href="https://patterns.sociocracy30.org/co-create-proposals.html">
+            <path d="M 464 90 L 576 90 C 578.20914 90 580 91.79086 580 94 L 580 156 C 580 158.20914 578.20914 160 576 160 L 464 160 C 461.79086 160 460 158.20914 460 156 L 460 94 C 460 91.79086 461.79086 90 464 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(462 105)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="24.239014" y="16" xml:space="preserve">Co-Create </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="24.784668" y="36" xml:space="preserve">Proposals</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_192">
+          <title>CDM</title>
+          <a href="https://patterns.sociocracy30.org/determine-requirement.html">
+            <path d="M 464 170 L 576 170 C 578.20914 170 580 171.79086 580 174 L 580 236 C 580 238.20914 578.20914 240 576 240 L 464 240 C 461.79086 240 460 238.20914 460 236 L 460 174 C 460 171.79086 461.79086 170 464 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(462 185)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="22.18457" y="16" xml:space="preserve">Determine </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="10.641602" y="36" xml:space="preserve">Requirements</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_191">
+          <a href="https://patterns.sociocracy30.org/resolve-objections.html">
+            <path d="M 464 330 L 576 330 C 578.20914 330 580 331.79086 580 334 L 580 396 C 580 398.20914 578.20914 400 576 400 L 464 400 C 461.79086 400 460 398.20914 460 396 L 460 334 C 460 331.79086 461.79086 330 464 330 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(462 345)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="32.284668" y="16" xml:space="preserve">Resolve </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="21.909912" y="36" xml:space="preserve">Objections</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_190">
+          <a href="https://patterns.sociocracy30.org/evaluate-and-evolve-policies.html">
+            <path d="M 594 170 L 706 170 C 708.2091 170 710 171.79086 710 174 L 710 236 C 710 238.20914 708.2091 240 706 240 L 594 240 C 591.79086 240 590 238.20914 590 236 L 590 174 C 590 171.79086 591.79086 170 594 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(592 185)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="14.915283" y="16" xml:space="preserve">Evaluate and </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="9.781006" y="36" xml:space="preserve">Evolve Policies</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_189">
+          <a href="https://patterns.sociocracy30.org/role-selection.html">
+            <path d="M 594 330 L 706 330 C 708.2091 330 710 331.79086 710 334 L 710 396 C 710 398.20914 708.2091 400 706 400 L 594 400 C 591.79086 400 590 398.20914 590 396 L 590 334 C 590 331.79086 591.79086 330 594 330 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(592 345)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="43.336914" y="16" xml:space="preserve">Role </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="27.395752" y="36" xml:space="preserve">Selection</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_188">
+          <a href="https://patterns.sociocracy30.org/proposal-forming.html">
+            <path d="M 464 250 L 576 250 C 578.20914 250 580 251.79086 580 254 L 580 316 C 580 318.20914 578.20914 320 576 320 L 464 320 C 461.79086 320 460 318.20914 460 316 L 460 254 C 460 251.79086 461.79086 250 464 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(462 265)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.27832" y="16" xml:space="preserve">Proposal </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="30.25952" y="36" xml:space="preserve">Forming</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_187">
+          <title>RDM</title>
+          <a href="https://patterns.sociocracy30.org/reasoned-decision-making.html">
+            <path d="M 594 250 L 706 250 C 708.2091 250 710 251.79086 710 254 L 710 316 C 710 318.20914 708.2091 320 706 320 L 594 320 C 591.79086 320 590 318.20914 590 316 L 590 254 C 590 251.79086 591.79086 250 594 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(592 265)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="24.56128" y="16" xml:space="preserve">Reasoned </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="2.7937012" y="36" xml:space="preserve">Decision-Making</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_186">
+          <title>sense-making</title>
+          <a href="https://patterns.sociocracy30.org/sense-making-and-decision-making.html">
+            <path d="M 465 30 L 835 30 C 837.7614 30 840 32.238576 840 35 L 840 75 C 840 77.76142 837.7614 80 835 80 L 465 80 C 462.2386 80 460 77.76142 460 75 L 460 35 C 460 32.238576 462.2386 30 465 30 Z" fill="#56b484" fill-opacity=".246192"/>
+            <text transform="translate(460 39)" fill="#346c50">
+              <tspan font-family="Open Sans" font-size="23" fill="#346c50" x="12.687744" y="25" xml:space="preserve">Sense-Making &amp; Decision-Making</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_185">
+          <title>CDM</title>
+          <a href="https://patterns.sociocracy30.org/consent-decision-making.html">
+            <path d="M 594 90 L 706 90 C 708.2091 90 710 91.79086 710 94 L 710 156 C 710 158.20914 708.2091 160 706 160 L 594 160 C 591.79086 160 590 158.20914 590 156 L 590 94 C 590 91.79086 591.79086 90 594 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(592 105)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="29.97754" y="16" xml:space="preserve">Consent</tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="2.7937012" y="36" xml:space="preserve">Decision-Making</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+      <g id="Group_307">
+        <g id="Graphic_173">
+          <a href="https://patterns.sociocracy30.org/enablers-of-co-creation.html">
+            <path d="M 45 30 L 415 30 C 417.7614 30 420 32.238576 420 35 L 420 75 C 420 77.76142 417.7614 80 415 80 L 45 80 C 42.238576 80 40 77.76142 40 75 L 40 35 C 40 32.238576 42.238576 30 45 30 Z" fill="#56b484" fill-opacity=".246192"/>
+            <text transform="translate(40 39)" fill="#346c50">
+              <tspan font-family="Open Sans" font-size="23" fill="#346c50" x="61.06299" y="25" xml:space="preserve">Enablers Of Co-Creation</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_172">
+          <a href="https://patterns.sociocracy30.org/artful-participation.html">
+            <path d="M 174 90 L 286 90 C 288.20914 90 290 91.79086 290 94 L 290 156 C 290 158.20914 288.20914 160 286 160 L 174 160 C 171.79086 160 170 158.20914 170 156 L 170 94 C 170 91.79086 171.79086 90 174 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(172 105)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="39.70044" y="16" xml:space="preserve">Artful </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="15.790527" y="36" xml:space="preserve">Participation</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_170">
+          <a href="https://patterns.sociocracy30.org/agree-on-values.html">
+            <path d="M 44 90 L 156 90 C 158.20914 90 160 91.79086 160 94 L 160 156 C 160 158.20914 158.20914 160 156 160 L 44 160 C 41.79086 160 40 158.20914 40 156 L 40 94 C 40 91.79086 41.79086 90 44 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(42 115)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="3.6799316" y="16" xml:space="preserve">Agree on Values</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_169">
+          <a href="https://patterns.sociocracy30.org/bylaws.html">
+            <path d="M 44 170 L 156 170 C 158.20914 170 160 171.79086 160 174 L 160 236 C 160 238.20914 158.20914 240 156 240 L 44 240 C 41.79086 240 40 238.20914 40 236 L 40 174 C 40 171.79086 41.79086 170 44 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(42 195)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="35.269287" y="16" xml:space="preserve">Bylaws</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_168">
+          <a href="https://patterns.sociocracy30.org/breaking-agreements.html">
+            <path d="M 304 90 L 416 90 C 418.20914 90 420 91.79086 420 94 L 420 156 C 420 158.20914 418.20914 160 416 160 L 304 160 C 301.79086 160 300 158.20914 300 156 L 300 94 C 300 91.79086 301.79086 90 304 90 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(302 105)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.618896" y="16" xml:space="preserve">Breaking </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.259033" y="36" xml:space="preserve">Agreements</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_167">
+          <a href="https://patterns.sociocracy30.org/support-role.html">
+            <path d="M 44 330 L 156 330 C 158.20914 330 160 331.79086 160 334 L 160 396 C 160 398.20914 158.20914 400 156 400 L 44 400 C 41.79086 400 40 398.20914 40 396 L 40 334 C 40 331.79086 41.79086 330 44 330 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(42 355)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="14.124268" y="16" xml:space="preserve">Support Role</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_166">
+          <title>involve those affected</title>
+          <a href="https://patterns.sociocracy30.org/involve-those-affected.html">
+            <path d="M 44 250 L 156 250 C 158.20914 250 160 251.79086 160 254 L 160 316 C 160 318.20914 158.20914 320 156 320 L 44 320 C 41.79086 320 40 318.20914 40 316 L 40 254 C 40 251.79086 41.79086 250 44 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(42 265)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="12.289551" y="16" xml:space="preserve">Involve Those </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="30.226562" y="36" xml:space="preserve">Affected</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_165">
+          <a href="https://patterns.sociocracy30.org/invest-in-ongoing-learning.html">
+            <path d="M 304 170 L 416 170 C 418.20914 170 420 171.79086 420 174 L 420 236 C 420 238.20914 418.20914 240 416 240 L 304 240 C 301.79086 240 300 238.20914 300 236 L 300 174 C 300 171.79086 301.79086 170 304 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(302 175)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="30.054443" y="16" xml:space="preserve">Invest in </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="29.486816" y="36" xml:space="preserve">Ongoing </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.67749" y="56" xml:space="preserve">Learning</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_164">
+          <a href="https://patterns.sociocracy30.org/open-salary.html">
+            <path d="M 174 250 L 286 250 C 288.20914 250 290 251.79086 290 254 L 290 316 C 290 318.20914 288.20914 320 286 320 L 174 320 C 171.79086 320 170 318.20914 170 316 L 170 254 C 170 251.79086 171.79086 250 174 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(172 275)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.226074" y="16" xml:space="preserve">Open Salary</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_163">
+          <a href="https://patterns.sociocracy30.org/share-costs-and-gains.html">
+            <path d="M 304 250 L 416 250 C 418.20914 250 420 251.79086 420 254 L 420 316 C 420 318.20914 418.20914 320 416 320 L 304 320 C 301.79086 320 300 318.20914 300 316 L 300 254 C 300 251.79086 301.79086 250 304 250 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(302 265)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.980469" y="16" xml:space="preserve">Share Costs </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="24.18042" y="36" xml:space="preserve">and Gains</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_162">
+          <a href="https://patterns.sociocracy30.org/financial-transparency.html">
+            <path d="M 174 170 L 286 170 C 288.20914 170 290 171.79086 290 174 L 290 236 C 290 238.20914 288.20914 240 286 240 L 174 240 C 171.79086 240 170 238.20914 170 236 L 170 174 C 170 171.79086 171.79086 170 174 170 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(172 185)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.791016" y="16" xml:space="preserve">Financial </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="12.359131" y="36" xml:space="preserve">Transparency</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+      <g id="Group_310">
+        <g id="Graphic_234">
+          <a href="https://patterns.sociocracy30.org/be-the-change.html">
+            <path d="M 1564 650 L 1676 650 C 1678.2091 650 1680 651.79086 1680 654 L 1680 716 C 1680 718.2091 1678.2091 720 1676 720 L 1564 720 C 1561.7909 720 1560 718.2091 1560 716 L 1560 654 C 1560 651.79086 1561.7909 650 1564 650 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1562 675)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="8.715332" y="16" xml:space="preserve">Be the Change</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_233">
+          <a href="https://patterns.sociocracy30.org/adapt-patterns-to-context.html">
+            <path d="M 1304 650 L 1416 650 C 1418.2091 650 1420 651.79086 1420 654 L 1420 716 C 1420 718.2091 1418.2091 720 1416 720 L 1304 720 C 1301.7909 720 1300 718.2091 1300 716 L 1300 654 C 1300 651.79086 1301.7909 650 1304 650 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1302 665)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="7.799805" y="16" xml:space="preserve">Adapt Patterns</tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="20.844238" y="36" xml:space="preserve"> to Context</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_231">
+          <a href="https://patterns.sociocracy30.org/invite-change.html">
+            <path d="M 1304 730 L 1416 730 C 1418.2091 730 1420 731.7909 1420 734 L 1420 796 C 1420 798.2091 1418.2091 800 1416 800 L 1304 800 C 1301.7909 800 1300 798.2091 1300 796 L 1300 734 C 1300 731.7909 1301.7909 730 1304 730 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1302 755)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="12.454346" y="16" xml:space="preserve">Invite Change</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_230">
+          <title>Rectangle</title>
+          <a href="https://patterns.sociocracy30.org/open-space-for-change.html">
+            <path d="M 1564 730 L 1676 730 C 1678.2091 730 1680 731.7909 1680 734 L 1680 796 C 1680 798.2091 1678.2091 800 1676 800 L 1564 800 C 1561.7909 800 1560 798.2091 1560 796 L 1560 734 C 1560 731.7909 1561.7909 730 1564 730 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1562 745)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.112549" y="16" xml:space="preserve">Open Space</tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="20.972412" y="36" xml:space="preserve">for Change</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_229">
+          <title>Title</title>
+          <a href="https://patterns.sociocracy30.org/bringing-in-s3.html">
+            <path d="M 1305 590 L 1675 590 C 1677.7614 590 1680 592.2386 1680 595 L 1680 635 C 1680 637.7614 1677.7614 640 1675 640 L 1305 640 C 1302.2386 640 1300 637.7614 1300 635 L 1300 595 C 1300 592.2386 1302.2386 590 1305 590 Z" fill="#56b484" fill-opacity=".246192"/>
+            <text transform="translate(1300 599)" fill="#346c50">
+              <tspan font-family="Open Sans" font-size="23" fill="#346c50" x="116.49097" y="25" xml:space="preserve">Bringing in S3</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_171">
+          <a href="https://patterns.sociocracy30.org/adopt-the-seven-principles.html">
+            <path d="M 1434 650 L 1546 650 C 1548.2091 650 1550 651.79086 1550 654 L 1550 716 C 1550 718.2091 1548.2091 720 1546 720 L 1434 720 C 1431.7909 720 1430 718.2091 1430 716 L 1430 654 C 1430 651.79086 1431.7909 650 1434 650 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1432 665)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="2.5300293" y="16" xml:space="preserve">Adopt the Seven </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="25.546387" y="36" xml:space="preserve">Principles</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_156">
+          <title>pull-system for org. change</title>
+          <a href="https://patterns.sociocracy30.org/create-a-pull-system-for-organizational-change.html">
+            <path d="M 1434 740 L 1546 740 C 1548.2091 740 1550 741.7909 1550 744 L 1550 806 C 1550 808.2091 1548.2091 810 1546 810 L 1434 810 C 1431.7909 810 1430 808.2091 1430 806 L 1430 744 C 1430 741.7909 1431.7909 740 1434 740 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1432 745)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="15.633057" y="16" xml:space="preserve">Create a Pull </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="5.9138184" y="36" xml:space="preserve">System for Org. </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="32.48242" y="56" xml:space="preserve">Change</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+      <g id="Group_298">
+        <g id="Graphic_160">
+          <title>develop strategy</title>
+          <a href="https://patterns.sociocracy30.org/clarify-and-develop-strategy.html">
+            <path d="M 1144 410 L 1256 410 C 1258.2091 410 1260 411.79086 1260 414 L 1260 476 C 1260 478.20914 1258.2091 480 1256 480 L 1144 480 C 1141.7909 480 1140 478.20914 1140 476 L 1140 414 C 1140 411.79086 1141.7909 410 1144 410 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1142 415)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="22.558105" y="16" xml:space="preserve">Clarify and </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="30.475586" y="36" xml:space="preserve">Develop</tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="30.51587" y="56" xml:space="preserve">Strategy</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_159">
+          <title>develop domains</title>
+          <a href="https://patterns.sociocracy30.org/clarify-and-develop-domains.html">
+            <path d="M 1014 410 L 1126 410 C 1128.2091 410 1130 411.79086 1130 414 L 1130 476 C 1130 478.20914 1128.2091 480 1126 480 L 1014 480 C 1011.7909 480 1010 478.20914 1010 476 L 1010 414 C 1010 411.79086 1011.7909 410 1014 410 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1012 415)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="22.558105" y="16" xml:space="preserve">Clarify and </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="30.475586" y="36" xml:space="preserve">Develop</tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.10254" y="56" xml:space="preserve">Domains</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_158">
+          <title>Open Systems</title>
+          <a href="https://patterns.sociocracy30.org/open-systems.html">
+            <path d="M 1014 570 L 1126 570 C 1128.2091 570 1130 571.79086 1130 574 L 1130 636 C 1130 638.20914 1128.2091 640 1126 640 L 1014 640 C 1011.7909 640 1010 638.20914 1010 636 L 1010 574 C 1010 571.79086 1011.7909 570 1014 570 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1012 595)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="9.550293" y="16" xml:space="preserve">Open Systems</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_157">
+          <title>driver mapping</title>
+          <a href="https://patterns.sociocracy30.org/requirements-mapping.html">
+            <path d="M 1144 570 L 1256 570 C 1258.2091 570 1260 571.79086 1260 574 L 1260 636 C 1260 638.20914 1258.2091 640 1256 640 L 1144 640 C 1141.7909 640 1140 638.20914 1140 636 L 1140 574 C 1140 571.79086 1141.7909 570 1144 570 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1142 585)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="10.641602" y="16" xml:space="preserve">Requirements </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.585938" y="36" xml:space="preserve">Mapping</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_155">
+          <title>align flow</title>
+          <a href="https://patterns.sociocracy30.org/align-flow.html">
+            <path d="M 884 410 L 996 410 C 998.2091 410 1e3 411.79086 1e3 414 L 1e3 476 C 1e3 478.20914 998.2091 480 996 480 L 884 480 C 881.7909 480 880 478.20914 880 476 L 880 414 C 880 411.79086 881.7909 410 884 410 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(882 435)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="24.535645" y="16" xml:space="preserve">Align Flow</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_154">
+          <title>title</title>
+          <a href="https://patterns.sociocracy30.org/evolving-organizations.html">
+            <path d="M 885 350 L 1255 350 C 1257.7614 350 1260 352.23858 1260 355 L 1260 395 C 1260 397.76142 1257.7614 400 1255 400 L 885 400 C 882.2386 400 880 397.76142 880 395 L 880 355 C 880 352.23858 882.2386 350 885 350 Z" fill="#56b484" fill-opacity=".246192"/>
+            <text transform="translate(880 359)" fill="#346c50">
+              <tspan font-family="Open Sans" font-size="23" fill="#346c50" x="68.42456" y="25" xml:space="preserve">Evolving Organizations</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_153">
+          <a href="https://patterns.sociocracy30.org/manage-the-whole-system.html">
+            <path d="M 884 570 L 996 570 C 998.2091 570 1e3 571.79086 1e3 574 L 1e3 636 C 1e3 638.20914 998.2091 640 996 640 L 884 640 C 881.7909 640 880 638.20914 880 636 L 880 574 C 880 571.79086 881.7909 570 884 570 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(882 585)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="18.119629" y="16" xml:space="preserve">Manage the </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="10.458496" y="36" xml:space="preserve">Whole System</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_152">
+          <a href="https://patterns.sociocracy30.org/collaborate-on-dependencies.html">
+            <path d="M 884 490 L 996 490 C 998.2091 490 1e3 491.79086 1e3 494 L 1e3 556 C 1e3 558.20914 998.2091 560 996 560 L 884 560 C 881.7909 560 880 558.20914 880 556 L 880 494 C 880 491.79086 881.7909 490 884 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(882 505)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="8.437012" y="16" xml:space="preserve">Collaborate on </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="9.711426" y="36" xml:space="preserve">Dependencies</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_151">
+          <a href="https://patterns.sociocracy30.org/enable-autonomy.html">
+            <path d="M 1014 490 L 1126 490 C 1128.2091 490 1130 491.79086 1130 494 L 1130 556 C 1130 558.20914 1128.2091 560 1126 560 L 1014 560 C 1011.7909 560 1010 558.20914 1010 556 L 1010 494 C 1010 491.79086 1011.7909 490 1014 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1012 505)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="35.18872" y="16" xml:space="preserve">Enable </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="23.286865" y="36" xml:space="preserve">Autonomy</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_150">
+          <a href="https://patterns.sociocracy30.org/design-adaptable-systems.html">
+            <path d="M 1144 490 L 1256 490 C 1258.2091 490 1260 491.79086 1260 494 L 1260 556 C 1260 558.20914 1258.2091 560 1256 560 L 1144 560 C 1141.7909 560 1140 558.20914 1140 556 L 1140 494 C 1140 491.79086 1141.7909 490 1144 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(1142 495)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="35.053223" y="16" xml:space="preserve">Design </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="23.836182" y="36" xml:space="preserve">Adaptable </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="30.233887" y="56" xml:space="preserve">Systems</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+      <g id="Group_311">
+        <g id="Graphic_243">
+          <a href="https://patterns.sociocracy30.org/principle-empiricism.html">
+            <path d="M 932.6667 810 L 1032.6667 810 C 1034.8758 810 1036.6667 811.7909 1036.6667 814 L 1036.6667 876 C 1036.6667 878.2091 1034.8758 880 1032.6667 880 L 932.6667 880 C 930.4575 880 928.6667 878.2091 928.6667 876 L 928.6667 814 C 928.6667 811.7909 930.4575 810 932.6667 810 Z" fill="#19a5ff" fill-opacity=".25"/>
+            <text transform="translate(930.6667 835.5)" fill="black">
+              <tspan font-family="Open Sans" font-size="14" fill="black" x="15.954102" y="15" xml:space="preserve">Empiricism</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_242">
+          <a href="https://patterns.sociocracy30.org/principle-equivalence.html">
+            <path d="M 1048.6667 810 L 1148.6667 810 C 1150.8758 810 1152.6667 811.7909 1152.6667 814 L 1152.6667 876 C 1152.6667 878.2091 1150.8758 880 1148.6667 880 L 1048.6667 880 C 1046.4575 880 1044.6667 878.2091 1044.6667 876 L 1044.6667 814 C 1044.6667 811.7909 1046.4575 810 1048.6667 810 Z" fill="#19a5ff" fill-opacity=".25"/>
+            <text transform="translate(1046.6667 835.5)" fill="black">
+              <tspan font-family="Open Sans" font-size="14" fill="black" x="13.09668" y="15" xml:space="preserve">Equivalence</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_238">
+          <a href="https://patterns.sociocracy30.org/principle-accountability.html">
+            <path d="M 464 810 L 564 810 C 566.20914 810 568 811.7909 568 814 L 568 876 C 568 878.2091 566.20914 880 564 880 L 464 880 C 461.79086 880 460 878.2091 460 876 L 460 814 C 460 811.7909 461.79086 810 464 810 Z" fill="#19a5ff" fill-opacity=".25"/>
+            <text transform="translate(462 835.5)" fill="black">
+              <tspan font-family="Open Sans" font-size="14" fill="black" x="6.1206055" y="15" xml:space="preserve">Accountability</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_236">
+          <a href="https://patterns.sociocracy30.org/principles.html">
+            <path d="M 465 750 L 1265 750 C 1267.7614 750 1270 752.2386 1270 755 L 1270 795 C 1270 797.7614 1267.7614 800 1265 800 L 465 800 C 462.2386 800 460 797.7614 460 795 L 460 755 C 460 752.2386 462.2386 750 465 750 Z" fill="#ff9300" fill-opacity=".25"/>
+            <text transform="translate(462 759)" fill="#525c7e">
+              <tspan font-family="Open Sans" font-size="23" fill="#525c7e" x="316.11548" y="25" xml:space="preserve">Seven Principles</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_277">
+          <a href="https://patterns.sociocracy30.org/principle-transparency.html">
+            <path d="M 1166 810 L 1266 810 C 1268.2091 810 1270 811.7909 1270 814 L 1270 876 C 1270 878.2091 1268.2091 880 1266 880 L 1166 880 C 1163.7909 880 1162 878.2091 1162 876 L 1162 814 C 1162 811.7909 1163.7909 810 1166 810 Z" fill="#19a5ff" fill-opacity=".25"/>
+            <text transform="translate(1164 835.5)" fill="black">
+              <tspan font-family="Open Sans" font-size="14" fill="black" x="7.617676" y="15" xml:space="preserve">Transparency</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_294">
+          <a href="https://patterns.sociocracy30.org/principle-consent.html">
+            <path d="M 581.4602 810 L 681.4602 810 C 683.6693 810 685.4602 811.7909 685.4602 814 L 685.4602 876 C 685.4602 878.2091 683.6693 880 681.4602 880 L 581.4602 880 C 579.25104 880 577.4602 878.2091 577.4602 876 L 577.4602 814 C 577.4602 811.7909 579.25104 810 581.4602 810 Z" fill="#19a5ff" fill-opacity=".25"/>
+            <text transform="translate(579.4602 835.5)" fill="black">
+              <tspan font-family="Open Sans" font-size="14" fill="black" x="25.02539" y="15" xml:space="preserve">Consent</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_295">
+          <a href="https://patterns.sociocracy30.org/principle-continuous-improvement.html">
+            <path d="M 698.6667 810 L 798.6667 810 C 800.8758 810 802.6667 811.7909 802.6667 814 L 802.6667 876 C 802.6667 878.2091 800.8758 880 798.6667 880 L 698.6667 880 C 696.4575 880 694.6667 878.2091 694.6667 876 L 694.6667 814 C 694.6667 811.7909 696.4575 810 698.6667 810 Z" fill="#19a5ff" fill-opacity=".25"/>
+            <text transform="translate(696.6667 826)" fill="black">
+              <tspan font-family="Open Sans" font-size="14" fill="black" x="14.361328" y="15" xml:space="preserve">Continuous </tspan>
+              <tspan font-family="Open Sans" font-size="14" fill="black" x="7.521973" y="34" xml:space="preserve">Improvement</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_297">
+          <a href="https://patterns.sociocracy30.org/principle-effectiveness.html">
+            <path d="M 815.3333 810 L 915.3333 810 C 917.5425 810 919.3333 811.7909 919.3333 814 L 919.3333 876 C 919.3333 878.2091 917.5425 880 915.3333 880 L 815.3333 880 C 813.1242 880 811.3333 878.2091 811.3333 876 L 811.3333 814 C 811.3333 811.7909 813.1242 810 815.3333 810 Z" fill="#19a5ff" fill-opacity=".25"/>
+            <text transform="translate(813.3333 835.5)" fill="black">
+              <tspan font-family="Open Sans" font-size="14" fill="black" x="9.521484" y="15" xml:space="preserve">Effectiveness</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+      <g id="Group_313">
+        <g id="Graphic_183">
+          <a href="https://patterns.sociocracy30.org/organizing-work.html">
+            <path d="M 465 430 L 835 430 C 837.7614 430 840 432.2386 840 435 L 840 475 C 840 477.7614 837.7614 480 835 480 L 465 480 C 462.2386 480 460 477.7614 460 475 L 460 435 C 460 432.2386 462.2386 430 465 430 Z" fill="#56b484" fill-opacity=".246192"/>
+            <text transform="translate(460 439)" fill="#346c50">
+              <tspan font-family="Open Sans" font-size="23" fill="#346c50" x="100.729" y="25" xml:space="preserve">Organizing Work</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_182">
+          <a href="https://patterns.sociocracy30.org/visualize-work.html">
+            <path d="M 724 650 L 836 650 C 838.2091 650 840 651.79086 840 654 L 840 716 C 840 718.2091 838.2091 720 836 720 L 724 720 C 721.7909 720 720 718.2091 720 716 L 720 654 C 720 651.79086 721.7909 650 724 650 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(722 675)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="9.539307" y="16" xml:space="preserve">Visualize Work</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_181">
+          <a href="https://patterns.sociocracy30.org/backlog.html">
+            <path d="M 464 490 L 576 490 C 578.20914 490 580 491.79086 580 494 L 580 556 C 580 558.20914 578.20914 560 576 560 L 464 560 C 461.79086 560 460 558.20914 460 556 L 460 494 C 460 491.79086 461.79086 490 464 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(462 515)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="32.119873" y="16" xml:space="preserve">Backlog</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_180">
+          <a href="https://patterns.sociocracy30.org/prioritize-backlogs.html">
+            <path d="M 464 650 L 576 650 C 578.20914 650 580 651.79086 580 654 L 580 716 C 580 718.2091 578.20914 720 576 720 L 464 720 C 461.79086 720 460 718.2091 460 716 L 460 654 C 460 651.79086 461.79086 650 464 650 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(462 665)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.20874" y="16" xml:space="preserve">Prioritize</tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.62622" y="36" xml:space="preserve">Backlogs</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_179">
+          <a href="https://patterns.sociocracy30.org/pull-system-for-work.html">
+            <path d="M 724 570 L 836 570 C 838.2091 570 840 571.79086 840 574 L 840 636 C 840 638.20914 838.2091 640 836 640 L 724 640 C 721.7909 640 720 638.20914 720 636 L 720 574 C 720 571.79086 721.7909 570 724 570 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(722 585)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="19.577148" y="16" xml:space="preserve">Pull System </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.856934" y="36" xml:space="preserve">for Work</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_178">
+          <a href="https://patterns.sociocracy30.org/coordinator.html">
+            <path d="M 724 490 L 836 490 C 838.2091 490 840 491.79086 840 494 L 840 556 C 840 558.20914 838.2091 560 836 560 L 724 560 C 721.7909 560 720 558.20914 720 556 L 720 494 C 720 491.79086 721.7909 490 724 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(722 515)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="17.25171" y="16" xml:space="preserve">Coordinator</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_176">
+          <a href="https://patterns.sociocracy30.org/deliver-value-incrementally.html">
+            <path d="M 464 570 L 576 570 C 578.20914 570 580 571.79086 580 574 L 580 636 C 580 638.20914 578.20914 640 576 640 L 464 640 C 461.79086 640 460 638.20914 460 636 L 460 574 C 460 571.79086 461.79086 570 464 570 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(462 585)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="14.234131" y="16" xml:space="preserve">Deliver Value </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="12.608154" y="36" xml:space="preserve">Incrementally</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_175">
+          <a href="https://patterns.sociocracy30.org/limit-work-in-progress.html">
+            <path d="M 594 570 L 706 570 C 708.2091 570 710 571.79086 710 574 L 710 636 C 710 638.20914 708.2091 640 706 640 L 594 640 C 591.79086 640 590 638.20914 590 636 L 590 574 C 590 571.79086 591.79086 570 594 570 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(592 585)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="22.04541" y="16" xml:space="preserve">Limit Work</tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="18.339355" y="36" xml:space="preserve"> in Progress</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_232">
+          <a href="https://patterns.sociocracy30.org/continuous-improvement-of-work-process.html">
+            <path d="M 594 490 L 706 490 C 708.2091 490 710 491.79086 710 494 L 710 556 C 710 558.20914 708.2091 560 706 560 L 594 560 C 591.79086 560 590 558.20914 590 556 L 590 494 C 590 491.79086 591.79086 490 594 490 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(592 495)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="19.156006" y="16" xml:space="preserve">Continuous </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="3.888672" y="36" xml:space="preserve">Improvement of </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="12.051514" y="56" xml:space="preserve">Work Process</tspan>
+            </text>
+          </a>
+        </g>
+        <g id="Graphic_304">
+          <a href="https://patterns.sociocracy30.org/time-box-activities.html">
+            <path d="M 594 650 L 706 650 C 708.2091 650 710 651.79086 710 654 L 710 716 C 710 718.2091 708.2091 720 706 720 L 594 720 C 591.79086 720 590 718.2091 590 716 L 590 654 C 590 651.79086 591.79086 650 594 650 Z" fill="#8190c2" fill-opacity=".160779"/>
+            <text transform="translate(592 665)" fill="#003776">
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="26.63037" y="16" xml:space="preserve">Time-box </tspan>
+              <tspan font-family="Open Sans" font-size="15" fill="#003776" x="28.772705" y="36" xml:space="preserve">Activities</tspan>
+            </text>
+          </a>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

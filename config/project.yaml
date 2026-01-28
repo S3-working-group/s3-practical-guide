@@ -76,6 +76,9 @@ presets:
         mode: html
       - source: content/website/_layouts/page.html
         destination: docs/_layouts/page.html
+      - source: img/pattern-map.svg
+        destination: docs/_includes/pattern-map.svg
+        mode: copy
       # other website config files
       - source: templates/website/_config.yml
         destination: docs/_config.yml

@@ -23,7 +23,7 @@
     <div id="mapOverlay" class="map-overlay d-none">
       <div class="map-backdrop"></div>
       <div class="map-panel">
-        {% include pattern-map.html %}
+        {% include pattern-map.svg %}
       </div>
     </div>
 
@@ -36,20 +36,6 @@
     {% include keyboard-nav.html %}
 
     <script>
-
-      function setAnnotationHref() {
-        document.getElementById("annotate-link").href = "https://via.hypothes.is/" + self.document.location.href;
-      }
-      function hideWhenAnnotating() {
-        if (typeof(wbinfo) !== "undefined") {
-          document.getElementById("annotate-span").style.visibility = 'hidden';
-        }
-      }
-      //setup annotations
-      function setupAnnotations() {
-        setAnnotationHref();
-        hideWhenAnnotating();
-      }
 
       $(function() { 
         // setup tooltips
@@ -85,7 +71,13 @@
         $('#mapOverlay').on('click', '.map-backdrop', function () {
           $('#mapOverlay').addClass('d-none');
         });
+        // make sure links target the whole page
+        $('.map-svg').on('load', function () {
+          const svg = this.contentDocument;
+          svg.querySelectorAll('a').forEach(a => a.setAttribute('target', '_parent'));
+        });
       });
+
 
   </script>
   </body>

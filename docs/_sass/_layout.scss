@@ -179,29 +179,44 @@ article.post {
     }
 }
 
-
 //
 // Pattern Map
 // --------------------------------------------------------------------------
 
-.map-overlay {
+.map-overlay{
   position: fixed;
   inset: 0;
-  z-index: 15050; /* > navbar */
+  z-index: 15050;
 }
-.map-backdrop {
+
+.map-backdrop{
   position: absolute;
   inset: 0;
   background: rgba(0,0,0,.6);
+  z-index: 0;
+  pointer-events: auto;   /* always clickable */
 }
-.map-panel {
+
+.map-panel{
   position: relative;
+  z-index: 1;
+  width: 90vw;
+  height: 90vh;
   margin: 5vh auto;
-  max-width: 90vw;
-  max-height: 90vh;
+  pointer-events: none;   /* panel itself eats nothing */
 }
-.map-panel img {
-  max-width: 100%;
-  height: auto;
+
+/* size the inline svg */
+.map-panel > svg{
   display: block;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;   /* default: not clickable */
+}
+
+/* ONLY links are interactive */
+.map-panel > svg a,
+.map-panel > svg a *{
+  pointer-events: auto;
+  cursor: pointer;
 }
