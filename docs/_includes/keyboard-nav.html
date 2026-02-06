@@ -1,4 +1,9 @@
 <script type="text/javascript">
+  <!-- Open Map -->
+  Mousetrap.bind('m', function() {
+    $('#mapOverlay').toggleClass('d-none');
+    return false;
+  });
   <!-- Go Map -->
   Mousetrap.bind('g m', function() {
     window.location.href = 'map.html';
