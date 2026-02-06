@@ -1,8 +1,4 @@
-// --------------------------
-// Illustration sizing system 
-// --------------------------
-
-// ---- Config (set once, then freeze)
+// ---- Config
 $fig-width-small: 50%;
 $fig-width-normal: 75%;
 $fig-width-full: 95%;
@@ -15,67 +11,103 @@ $fig-height-full: 65vh;
 $fig-both-max-width: 85%;
 $fig-both-max-height: 60vh;
 
-// ---- Base figure
 figure.fig {
   margin: 1.25rem 0;
   text-align: center;
 
-  > img {
-    display: block;
+  .zoom-container {
+    position: relative;
+    display: inline-block; // This is key: it shrinks to the size of the content
     margin: 0 auto;
-    width: auto;
-    height: auto;
+    line-height: 0;
 
-    // Safety net: never overflow column
-    max-width: 100%;
-  }
+    &:has(img.zoomed) {
+      z-index: 11001;
+    }
+    img.zoomify {
+      display: block;
+      margin: 0 auto;
+      width: auto;      /* Prevents the image from stretching to fill the container */
+      height: auto;     /* Maintains natural aspect ratio */
+      max-width: 100%;  /* Standard safety net */
+      
+      // Keep your zoomify styles here
+      cursor: zoom-in;
+      &.zoomed { z-index: 11002; cursor: zoom-out; border: none; }
+    }
 
-  > figcaption {
-    margin: 0.5rem auto 0;
-    font-size: 0.95em;
-    line-height: 1.35;
-
-    // Key: keep caption within the same visual box and centered
-    display: table;
-    // max-width: 100%;
-    text-align: center; // optional; use center if you prefer
+    .zoom-icon {
+      position: absolute;
+      bottom: 0px;
+      right: 0px;
+      width: 24px;
+      height: 24px;
+      
+      /* The "Rectangle" look */
+      background-color: white;
+      background-image: url("/img/zoom-in.svg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 14px; /* Adjust this to size the loupe inside the white box */
+      
+      border-radius: 4px;    /* Slight rounding for the rectangle */
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+      
+      pointer-events: none;
+      z-index: 10;
+      opacity: 0.9;
+      transition: opacity 0.2s ease;
+    }
+    
+    img.zoomed + .zoom-icon { display: none; }
   }
 }
 
+.zoomify-shadow {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  z-index: 11000; // must be above menu
+  background: rgba(0, 0, 0 , .3);
+  opacity: 0;
+}
+.zoomify-shadow.zoomed { 
+  opacity: 1;
+  cursor: pointer;
+  cursor: -webkit-zoom-out;
+  cursor: zoom-out;
+}
+
 // ---- limit = width
+// We apply the max-width to the container. 
+// If the image is SMALLER than the max-width, it stays its natural size.
+// If the image is LARGER, the container (and image) will shrink to this cap.
 figure.fig.fig--limit-width {
-  > img {
-    height: auto;
-  }
-
-  &.fig--scale-small  > img { max-width: $fig-width-small; }
-  &.fig--scale-small  > figcaption { max-width: $fig-width-small; }
-  &.fig--scale-normal > img { max-width: $fig-width-normal; }
-  &.fig--scale-normal > figcaption { max-width: $fig-width-normal; }
-  &.fig--scale-full   > img { max-width: $fig-width-full; }
-  &.fig--scale-full   > figcaption { max-width: $fig-width-full; }
-
+  &.fig--scale-small  { .zoom-container { max-width: $fig-width-small; } }
+  &.fig--scale-normal { .zoom-container { max-width: $fig-width-normal; } }
+  &.fig--scale-full   { .zoom-container { max-width: $fig-width-full; } }
 }
 
 // ---- limit = height
 figure.fig.fig--limit-height {
-  > img {
-    width: auto;
-  }
-
-  &.fig--scale-small  > img { max-height: $fig-height-small; }
-  &.fig--scale-normal > img { max-height: $fig-height-normal; }
-  &.fig--scale-full   > img { max-height: $fig-height-full; }
-
-  // Caption width should not follow the auto-shrinking image width (can get too narrow).
-  // Instead cap at container (or at the same "both" width cap) so it wraps nicely.
-  > figcaption { max-width: $fig-both-max-width; } // or 100% if you want wider captions
-
+  &.fig--scale-small  { .zoom-container { max-height: $fig-height-small; } }
+  &.fig--scale-normal { .zoom-container { max-height: $fig-height-normal; } }
+  &.fig--scale-full   { .zoom-container { max-height: $fig-height-full; } }
+  
+  // This ensures the image respects the container's max-height
+  .zoom-container img { max-height: inherit; width: auto; }
 }
 
-// ---- limit = both (default)
+// ---- limit = both
 figure.fig.fig--limit-both {
-  &.fig--scale-small  { > img, > figcaption { max-width: 50%; max-height: 30vh; } }
-  &.fig--scale-normal { > img, > figcaption { max-width: 75%; max-height: 50vh; } }
-  &.fig--scale-full   { > img, > figcaption { max-width: 95%; max-height: 65vh; } }
+  &.fig--scale-small  { .zoom-container { max-width: 50%; max-height: 30vh; } }
+  &.fig--scale-normal { .zoom-container { max-width: 75%; max-height: 50vh; } }
+  &.fig--scale-full   { .zoom-container { max-width: 95%; max-height: 65vh; } }
+  
+  .zoom-container img { max-width: 100%; max-height: inherit; }
 }
