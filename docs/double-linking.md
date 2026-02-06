@@ -16,6 +16,9 @@ Double linking enables equivalence between two teams and can be used to draw out
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/structural-patterns/double-link.png" alt="Double linking two circles" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/double-link.png" alt="Double linking two circles" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Double linking two circles</figcaption>
 </figure>

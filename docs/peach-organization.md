@@ -21,6 +21,9 @@ The center provides internal services to support the organization.
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/structural-patterns/peach-organization.png" alt="Peach Organization" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/peach-organization.png" alt="Peach Organization" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Peach Organization</figcaption>
 </figure>

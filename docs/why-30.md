@@ -27,7 +27,10 @@ It also helps avoid the perception of us misrepresenting the _Sociocratic Circle
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/framework/sociocracy-variants.png" alt="Three variants of sociocracy" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/sociocracy-variants.png" alt="Three variants of sociocracy" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Three variants of sociocracy</figcaption>
 </figure>
 

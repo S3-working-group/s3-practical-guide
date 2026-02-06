@@ -10,7 +10,10 @@ prev_page_url: "navigation.html"
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/csf/csf-light-structure.png" alt="Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/csf/csf-light-structure.png" alt="Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies</figcaption>
 </figure>
 

@@ -27,6 +27,9 @@ Chosen values are a policy that benefits from **regular review**.
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/framework/chosen-values.png" alt="Chosen values define constraints for collaboration" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/chosen-values.png" alt="Chosen values define constraints for collaboration" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Chosen values define constraints for collaboration</figcaption>
 </figure>

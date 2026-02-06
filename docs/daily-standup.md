@@ -20,6 +20,9 @@ The team gathers around a visible project management board/tool to:
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/planning-review-standup.png" alt="Daily standup is an essential meeting for self-organizing teams." class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/planning-review-standup.png" alt="Daily standup is an essential meeting for self-organizing teams." class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Daily standup is an essential meeting for self-organizing teams.</figcaption>
 </figure>

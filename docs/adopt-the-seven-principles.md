@@ -16,12 +16,18 @@ An organization's values need to embrace the Seven Principles.
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>The Seven Principles</figcaption>
 </figure>
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/framework/values-7principles.png" alt="An organization&#x27;s values need to embrace the Seven Principles" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/values-7principles.png" alt="An organization&#x27;s values need to embrace the Seven Principles" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>An organization's values need to embrace the Seven Principles</figcaption>
 </figure>

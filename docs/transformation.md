@@ -9,7 +9,10 @@ prev_page_url: "structure.html"
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/csf/csf-light-transformation.png" alt="Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/csf/csf-light-transformation.png" alt="Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models</figcaption>
 </figure>
 

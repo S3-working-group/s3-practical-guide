@@ -9,7 +9,10 @@ prev_page_url: "transformation.html"
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/csf/csf-light.png" alt="Ten Principles for Evolving Teams and Organizations" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/csf/csf-light.png" alt="Ten Principles for Evolving Teams and Organizations" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Ten Principles for Evolving Teams and Organizations</figcaption>
 </figure>
 

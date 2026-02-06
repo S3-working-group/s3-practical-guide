@@ -19,7 +19,10 @@ Reasoned Decision-Making lays out the process that groups take when applying rea
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/reasoned-decision-making.png" alt="Reasoned Decision-Making" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/reasoned-decision-making.png" alt="Reasoned Decision-Making" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Reasoned Decision-Making</figcaption>
 </figure>
 
@@ -54,7 +57,10 @@ Each of the three processes focuses on the investigation of a different subject:
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/policy/reasoned-decision-making-table.png" alt="Table: Mapping the steps of RDM to the other S3 decision-making processes" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/reasoned-decision-making-table.png" alt="Table: Mapping the steps of RDM to the other S3 decision-making processes" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Table: Mapping the steps of RDM to the other S3 decision-making processes</figcaption>
 </figure>
 

@@ -73,7 +73,10 @@ This process for testing if arguments qualify as objections, is a variation of t
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/test-arguments.png" alt="A process for testing if an argument qualifies as an objection" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/test-arguments.png" alt="A process for testing if an argument qualifies as an objection" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>A process for testing if an argument qualifies as an objection</figcaption>
 </figure>
 
@@ -135,12 +138,18 @@ The person who brought the original argument has the option to refine, rephrase 
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/policy/test-arguments-process.png" alt="Recursive application of testing arguments and investigating disagreements" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/test-arguments-process.png" alt="Recursive application of testing arguments and investigating disagreements" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Recursive application of testing arguments and investigating disagreements</figcaption>
 </figure>
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/policy/test-arguments-facilitation-guide.png" alt="Facilitator&#x27;s Guide: Test Arguments Qualify As Objections" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/test-arguments-facilitation-guide.png" alt="Facilitator&#x27;s Guide: Test Arguments Qualify As Objections" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Facilitator's Guide: Test Arguments Qualify As Objections</figcaption>
 </figure>

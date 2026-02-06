@@ -56,7 +56,10 @@ These are the steps to follow:
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/process/requirements-mapping.png" alt="Requirements Mapping: Process" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/requirements-mapping.png" alt="Requirements Mapping: Process" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Requirements Mapping: Process</figcaption>
 </figure>
 
@@ -92,7 +95,10 @@ _Consider the various actors and describe what is needed: what do they need in t
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/templates/requirement-card.png" alt="Requirements Mapping: A Requirement Card" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/templates/requirement-card.png" alt="Requirements Mapping: A Requirement Card" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Requirements Mapping: A Requirement Card</figcaption>
 </figure>
 
@@ -160,7 +166,10 @@ Regularly pause to share reports between the various domains. Note: Some domains
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/templates/domain-template.png" alt="Requirements Mapping: A template for domains" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/templates/domain-template.png" alt="Requirements Mapping: A template for domains" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Requirements Mapping: A template for domains</figcaption>
 </figure>
 

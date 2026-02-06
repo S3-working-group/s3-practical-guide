@@ -34,7 +34,10 @@ Artful participation:
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/illustrations/balance-autonomy-collaboration-alt.png" alt="Balance autonomy and collaboration through artful participation" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/balance-autonomy-collaboration-alt.png" alt="Balance autonomy and collaboration through artful participation" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Balance autonomy and collaboration through artful participation</figcaption>
 </figure>
 

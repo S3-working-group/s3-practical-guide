@@ -17,7 +17,10 @@ prev_page_url: "prioritize-backlogs.html"
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/workflow-and-value/simple-process.png" alt="Visualization of a simple work process" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/workflow-and-value/simple-process.png" alt="Visualization of a simple work process" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Visualization of a simple work process</figcaption>
 </figure>
 
@@ -34,6 +37,9 @@ prev_page_url: "prioritize-backlogs.html"
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/workflow-and-value/card.png" alt="A card representing a work item" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/workflow-and-value/card.png" alt="A card representing a work item" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>A card representing a work item</figcaption>
 </figure>

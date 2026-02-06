@@ -48,7 +48,10 @@ It will usually be clear whether a situation should be handled through governanc
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/governance-or-operations.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/governance-or-operations.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -106,7 +109,10 @@ When dealing with matters of governance, requirements are fulfilled through crea
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/governance-short.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/governance-short.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -173,7 +179,10 @@ Check your current governance processes to see if all those steps are included, 
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 

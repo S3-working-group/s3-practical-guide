@@ -29,6 +29,9 @@ As a governance facilitator, consider learning about and using the following pat
 
 
 <figure class="fig fig--limit-both fig--scale-small">
-    <img src="img/illustrations/facilitator.png" alt="The governance facilitator is typically a member of the team" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/facilitator.png" alt="The governance facilitator is typically a member of the team" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>The governance facilitator is typically a member of the team</figcaption>
 </figure>

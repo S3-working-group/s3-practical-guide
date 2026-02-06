@@ -18,6 +18,9 @@ Sit in a circle, begin each round with a different person, and change direction 
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/illustrations/rounds.png" alt="Rounds" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/rounds.png" alt="Rounds" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Rounds</figcaption>
 </figure>

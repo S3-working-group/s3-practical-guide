@@ -38,7 +38,10 @@ If you are new to using Consent Decision-Making, we recommend you strictly follo
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/consent-decision-making.png" alt="Consent Decision-Making" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/consent-decision-making.png" alt="Consent Decision-Making" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Consent Decision-Making</figcaption>
 </figure>
 

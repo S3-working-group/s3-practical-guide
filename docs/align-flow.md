@@ -23,6 +23,9 @@ When decision-making is conducted close to where value is created, and the flow 
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/workflow-and-value/align-flow.png" alt="Aligning the flow of information to support the flow of value" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/workflow-and-value/align-flow.png" alt="Aligning the flow of information to support the flow of value" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Aligning the flow of information to support the flow of value</figcaption>
 </figure>

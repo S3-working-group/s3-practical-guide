@@ -80,7 +80,10 @@ Even though several sections in this book are brief and may still be rough aroun
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/framework/history.png" alt="Influences and history of Sociocracy 3.0" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/history.png" alt="Influences and history of Sociocracy 3.0" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Influences and history of Sociocracy 3.0</figcaption>
 </figure>
 
@@ -132,7 +135,10 @@ It also helps avoid the perception of us misrepresenting the _Sociocratic Circle
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/framework/sociocracy-variants.png" alt="Three variants of sociocracy" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/sociocracy-variants.png" alt="Three variants of sociocracy" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Three variants of sociocracy</figcaption>
 </figure>
 
@@ -183,7 +189,10 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>The Seven Principles</figcaption>
 </figure>
 
@@ -605,7 +614,10 @@ One way to understand work in organizations is as _people making interventions t
 
 
 <figure class="fig fig--limit-both fig--scale-small">
-    <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -634,7 +646,10 @@ Clarifying both the organizational driver and the associated requirement makes i
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/purposeful-action-full.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/purposeful-action-full.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -642,7 +657,10 @@ There is also a **natural sequence** to this approach: A clear understanding of 
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/purposeful-action/understand-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/understand-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -706,7 +724,10 @@ Within an organization, each team, role, decision, and action serves a purpose �
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/nested-purpose.png" alt="Organizations are complex networks of interrelated purposes." class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/nested-purpose.png" alt="Organizations are complex networks of interrelated purposes." class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Organizations are complex networks of interrelated purposes.</figcaption>
 </figure>
 
@@ -718,7 +739,10 @@ Developing and maintaining coherence across this complex, dynamic network of int
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -744,7 +768,10 @@ In many situations, especially when things are new, uncertain, or complex, our u
 
 
 <figure class="fig fig--limit-both fig--scale-small">
-    <img src="img/purposeful-action/purposeful-action-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/purposeful-action-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -828,7 +855,10 @@ Related Patterns:
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/purposeful-action-reverse.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/purposeful-action-reverse.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -964,7 +994,10 @@ The distinction mirrors a broader pattern: each present-focused element (current
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/purposeful-action/driver-requirement-table.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/driver-requirement-table.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -975,7 +1008,10 @@ The model of purposeful action rests on the observation that work in organizatio
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -1048,7 +1084,10 @@ Following the model for purposeful action, there is a specific purpose (driver a
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/sub-interventions.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/sub-interventions.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -1159,7 +1198,10 @@ Most domains in an organization fall entirely within the overall domain of the o
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/illustrations/domains-in-organizations.png" alt="Domains may overlap or be fully contained within other domains." class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/domains-in-organizations.png" alt="Domains may overlap or be fully contained within other domains." class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Domains may overlap or be fully contained within other domains.</figcaption>
 </figure>
 
@@ -1297,7 +1339,10 @@ It will usually be clear whether a situation should be handled through governanc
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/governance-or-operations.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/governance-or-operations.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -1355,7 +1400,10 @@ When dealing with matters of governance, requirements are fulfilled through crea
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/governance-short.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/governance-short.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -1422,7 +1470,10 @@ Check your current governance processes to see if all those steps are included, 
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -1575,7 +1626,10 @@ If you are not familiar with the concepts of purpose, driver, requirement, and i
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -1677,7 +1731,10 @@ The process for **evaluating policies** typically benefits from a more structure
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -1719,14 +1776,20 @@ On other occasions, however, you'll come across drivers that are the responsibil
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/process/nvt.png" alt="Navigate via Tension" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/nvt.png" alt="Navigate via Tension" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Navigate via Tension</figcaption>
 </figure>
 
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/process/navigate-describe-respond-determine.png" alt="Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/navigate-describe-respond-determine.png" alt="Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement</figcaption>
 </figure>
 
@@ -1779,7 +1842,10 @@ Aim to create **a comprehensive but brief summary in two or three sentences**, s
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/process/describe-organizational-drivers.png" alt="Describe Organizational Drivers" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/describe-organizational-drivers.png" alt="Describe Organizational Drivers" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Describe Organizational Drivers</figcaption>
 </figure>
 
@@ -1931,7 +1997,10 @@ Often, the stakeholder is implicit, and sometimes it's only necessary to describ
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/process/determine-requirement.png" alt="Determine the requirement" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/determine-requirement.png" alt="Determine the requirement" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Determine the requirement</figcaption>
 </figure>
 
@@ -2063,7 +2132,10 @@ If you are new to using Consent Decision-Making, we recommend you strictly follo
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/consent-decision-making.png" alt="Consent Decision-Making" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/consent-decision-making.png" alt="Consent Decision-Making" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Consent Decision-Making</figcaption>
 </figure>
 
@@ -2284,7 +2356,10 @@ This process for testing if arguments qualify as objections, is a variation of t
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/test-arguments.png" alt="A process for testing if an argument qualifies as an objection" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/test-arguments.png" alt="A process for testing if an argument qualifies as an objection" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>A process for testing if an argument qualifies as an objection</figcaption>
 </figure>
 
@@ -2346,13 +2421,19 @@ The person who brought the original argument has the option to refine, rephrase 
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/policy/test-arguments-process.png" alt="Recursive application of testing arguments and investigating disagreements" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/test-arguments-process.png" alt="Recursive application of testing arguments and investigating disagreements" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Recursive application of testing arguments and investigating disagreements</figcaption>
 </figure>
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/policy/test-arguments-facilitation-guide.png" alt="Facilitator&#x27;s Guide: Test Arguments Qualify As Objections" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/test-arguments-facilitation-guide.png" alt="Facilitator&#x27;s Guide: Test Arguments Qualify As Objections" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Facilitator's Guide: Test Arguments Qualify As Objections</figcaption>
 </figure>
 
@@ -2401,7 +2482,10 @@ If there are no possible objections, proceed to step 6 (Celebrate), otherwise ta
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/resolve-objections.png" alt="Process for resolving an objection" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/resolve-objections.png" alt="Process for resolving an objection" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Process for resolving an objection</figcaption>
 </figure>
 
@@ -2468,7 +2552,10 @@ As you can see, the Resolve Objections pattern can be used recursively. Below yo
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/policy/resolve-objections-process.png" alt="Recursive application of the Resolve Objection pattern" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/resolve-objections-process.png" alt="Recursive application of the Resolve Objection pattern" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Recursive application of the Resolve Objection pattern</figcaption>
 </figure>
 
@@ -2514,7 +2601,10 @@ First, ensure the purpose is still relevant to fulfill (or retire and archive th
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/evaluate-policy.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/evaluate-policy.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -2567,7 +2657,10 @@ One way to co-create proposals is to use S3's _Proposal Forming_ pattern.
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/templates/proposal-template.png" alt="A template for proposals" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/templates/proposal-template.png" alt="A template for proposals" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>A template for proposals</figcaption>
 </figure>
 
@@ -2598,7 +2691,10 @@ When used by a group, it helps draw on the collective intelligence and diversity
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/policy/proposal-forming.png" alt="Proposal forming process" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/proposal-forming.png" alt="Proposal forming process" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Proposal forming process</figcaption>
 </figure>
 
@@ -2851,7 +2947,10 @@ Reasoned Decision-Making lays out the process that groups take when applying rea
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/reasoned-decision-making.png" alt="Reasoned Decision-Making" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/reasoned-decision-making.png" alt="Reasoned Decision-Making" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Reasoned Decision-Making</figcaption>
 </figure>
 
@@ -2886,7 +2985,10 @@ Each of the three processes focuses on the investigation of a different subject:
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/policy/reasoned-decision-making-table.png" alt="Table: Mapping the steps of RDM to the other S3 decision-making processes" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/reasoned-decision-making-table.png" alt="Table: Mapping the steps of RDM to the other S3 decision-making processes" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Table: Mapping the steps of RDM to the other S3 decision-making processes</figcaption>
 </figure>
 
@@ -2909,7 +3011,10 @@ A prerequisite to the selection process is a _clear description_ of the role's <
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/selection.png" alt="Role selection process" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/selection.png" alt="Role selection process" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Role selection process</figcaption>
 </figure>
 
@@ -3040,7 +3145,10 @@ All of the following elements are important to consider when clarifying a domain
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/templates/domain-description-template.png" alt="Template for a domain description" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/templates/domain-description-template.png" alt="Template for a domain description" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Template for a domain description</figcaption>
 </figure>
 
@@ -3591,7 +3699,10 @@ A strategy is a shared agreement between delegator(s) and delegatee(s) that is r
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/illustrations/domain-driver-strategy-exeriments.png" alt="Strategies are validated and refined through experimentation and learning." class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/domain-driver-strategy-exeriments.png" alt="Strategies are validated and refined through experimentation and learning." class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Strategies are validated and refined through experimentation and learning.</figcaption>
 </figure>
 
@@ -3620,7 +3731,10 @@ When decision-making is conducted close to where value is created, and the flow 
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/workflow-and-value/align-flow.png" alt="Aligning the flow of information to support the flow of value" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/workflow-and-value/align-flow.png" alt="Aligning the flow of information to support the flow of value" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Aligning the flow of information to support the flow of value</figcaption>
 </figure>
 
@@ -3682,7 +3796,10 @@ These are the steps to follow:
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/process/requirements-mapping.png" alt="Requirements Mapping: Process" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/requirements-mapping.png" alt="Requirements Mapping: Process" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Requirements Mapping: Process</figcaption>
 </figure>
 
@@ -3718,7 +3835,10 @@ _Consider the various actors and describe what is needed: what do they need in t
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/templates/requirement-card.png" alt="Requirements Mapping: A Requirement Card" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/templates/requirement-card.png" alt="Requirements Mapping: A Requirement Card" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Requirements Mapping: A Requirement Card</figcaption>
 </figure>
 
@@ -3786,7 +3906,10 @@ Regularly pause to share reports between the various domains. Note: Some domains
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/templates/domain-template.png" alt="Requirements Mapping: A template for domains" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/templates/domain-template.png" alt="Requirements Mapping: A template for domains" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Requirements Mapping: A template for domains</figcaption>
 </figure>
 
@@ -3863,7 +3986,10 @@ The role keeper — or team — leads the peer review by setting up the process,
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/process/peer-review.png" alt="Peer review process" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/peer-review.png" alt="Peer review process" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Peer review process</figcaption>
 </figure>
 
@@ -3880,7 +4006,10 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/process/development-process.png" alt="Continuous improvement of people&#x27;s ability to effectively keep roles or collaborate in teams" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/development-process.png" alt="Continuous improvement of people&#x27;s ability to effectively keep roles or collaborate in teams" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Continuous improvement of people's ability to effectively keep roles or collaborate in teams</figcaption>
 </figure>
 
@@ -3900,7 +4029,10 @@ A development plan (and any accompanying recommendations for changes to the desc
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/templates/development-plan-template.png" alt="A template for development plans" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/templates/development-plan-template.png" alt="A template for development plans" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>A template for development plans</figcaption>
 </figure>
 
@@ -3939,7 +4071,10 @@ Artful participation:
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/illustrations/balance-autonomy-collaboration-alt.png" alt="Balance autonomy and collaboration through artful participation" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/balance-autonomy-collaboration-alt.png" alt="Balance autonomy and collaboration through artful participation" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Balance autonomy and collaboration through artful participation</figcaption>
 </figure>
 
@@ -3979,7 +4114,10 @@ Chosen values are a policy that benefits from **regular review**.
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/framework/chosen-values.png" alt="Chosen values define constraints for collaboration" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/chosen-values.png" alt="Chosen values define constraints for collaboration" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Chosen values define constraints for collaboration</figcaption>
 </figure>
 
@@ -4050,7 +4188,10 @@ Decide how to handle remuneration for changing roles and _develop a strategy_ fo
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/process/opening-salaries.png" alt="Two ways of opening salaries" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/opening-salaries.png" alt="Two ways of opening salaries" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Two ways of opening salaries</figcaption>
 </figure>
 
@@ -4107,7 +4248,10 @@ Establishing circles enables greater autonomy and fosters co-responsibility for 
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/illustrations/from-managed-teams-to-circles.png" alt="From Managed Teams to Self-governing Circles" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/from-managed-teams-to-circles.png" alt="From Managed Teams to Self-governing Circles" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>From Managed Teams to Self-governing Circles</figcaption>
 </figure>
 
@@ -4135,7 +4279,10 @@ Together, a circle's members share the responsibility for setting objectives and
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/illustrations/circle.png" alt="All members of a circle are equally accountable for governance of the circle&#x27;s domain" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/circle.png" alt="All members of a circle are equally accountable for governance of the circle&#x27;s domain" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>All members of a circle are equally accountable for governance of the circle's domain</figcaption>
 </figure>
 
@@ -4181,7 +4328,10 @@ A role keeper may maintain a governance <a href="glossary.html#entry-backlog" cl
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/illustrations/roles.png" alt="People can take responsibility for more than one role" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/roles.png" alt="People can take responsibility for more than one role" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>People can take responsibility for more than one role</figcaption>
 </figure>
 
@@ -4195,7 +4345,10 @@ A team selects one of its members to represent their interests in the <a href="g
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/structural-patterns/link.png" alt="One circle linked to another circle" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/link.png" alt="One circle linked to another circle" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>One circle linked to another circle</figcaption>
 </figure>
 
@@ -4211,7 +4364,10 @@ Double linking enables equivalence between two teams and can be used to draw out
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/structural-patterns/double-link.png" alt="Double linking two circles" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/double-link.png" alt="Double linking two circles" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Double linking two circles</figcaption>
 </figure>
 
@@ -4240,7 +4396,10 @@ To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-t
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/structural-patterns/delegate-circle.png" alt="Delegate Circle" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/delegate-circle.png" alt="Delegate Circle" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Delegate Circle</figcaption>
 </figure>
 
@@ -4260,7 +4419,10 @@ A service circle can be populated by members of the <a href="glossary.html#entry
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/structural-patterns/service-circle.png" alt="Service Circle" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/service-circle.png" alt="Service Circle" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Service Circle</figcaption>
 </figure>
 
@@ -4284,7 +4446,10 @@ The delegator is accountable for conducting regular reviews to support effective
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/structural-patterns/open-team.png" alt="Open Team" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/open-team.png" alt="Open Team" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Open Team</figcaption>
 </figure>
 
@@ -4307,7 +4472,10 @@ In an organization that has adopted the principle of consent, team members can s
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/structural-patterns/helping-team.png" alt="Helping Team" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/helping-team.png" alt="Helping Team" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Helping Team</figcaption>
 </figure>
 
@@ -4413,7 +4581,10 @@ Share valuable adaptations with the S3 community.
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/process/adapt-pattern-to-context.png" alt="Phases of adapting patterns to a specific context" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/adapt-pattern-to-context.png" alt="Phases of adapting patterns to a specific context" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Phases of adapting patterns to a specific context</figcaption>
 </figure>
 
@@ -4454,13 +4625,19 @@ An organization's values need to embrace the Seven Principles.
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>The Seven Principles</figcaption>
 </figure>
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/framework/values-7principles.png" alt="An organization&#x27;s values need to embrace the Seven Principles" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/values-7principles.png" alt="An organization&#x27;s values need to embrace the Seven Principles" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>An organization's values need to embrace the Seven Principles</figcaption>
 </figure>
 
@@ -4484,14 +4661,20 @@ S3 promotes a hypothesis-driven approach to decision-making.
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/process/experiments.png" alt="Any policy or decision can be viewed as an experiment." class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/experiments.png" alt="Any policy or decision can be viewed as an experiment." class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Any policy or decision can be viewed as an experiment.</figcaption>
 </figure>
 
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/policy-lifecycle.png" alt="The Life-Cycle of a Policy" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/policy-lifecycle.png" alt="The Life-Cycle of a Policy" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>The Life-Cycle of a Policy</figcaption>
 </figure>
 
@@ -4648,7 +4831,10 @@ Depending on the scope and significance of the policy, consider including all of
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/templates/policy-template.png" alt="A template for recording policy" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/templates/policy-template.png" alt="A template for recording policy" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>A template for recording policy</figcaption>
 </figure>
 
@@ -4854,7 +5040,10 @@ The logbook keeper is accountable for maintaining a team's <a href="glossary.htm
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/retrospective.png" alt="Output of a retrospective" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/retrospective.png" alt="Output of a retrospective" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Output of a retrospective</figcaption>
 </figure>
 
@@ -4905,7 +5094,10 @@ A typical governance meeting includes the following phases:
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/governance-meeting.png" alt="Phases of a governance meeting" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/governance-meeting.png" alt="Phases of a governance meeting" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Phases of a governance meeting</figcaption>
 </figure>
 
@@ -4958,7 +5150,10 @@ The team gathers around a visible project management board/tool to:
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/planning-review-standup.png" alt="Daily standup is an essential meeting for self-organizing teams." class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/planning-review-standup.png" alt="Daily standup is an essential meeting for self-organizing teams." class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Daily standup is an essential meeting for self-organizing teams.</figcaption>
 </figure>
 
@@ -4976,7 +5171,10 @@ While the planning meeting is typically limited to team members, the review meet
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/planning-review.png" alt="Planning and review meetings" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/planning-review.png" alt="Planning and review meetings" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Planning and review meetings</figcaption>
 </figure>
 
@@ -5024,7 +5222,10 @@ Agenda items:
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/coordination-meeting.png" alt="Phases of a coordination meeting" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/coordination-meeting.png" alt="Phases of a coordination meeting" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Phases of a coordination meeting</figcaption>
 </figure>
 
@@ -5047,7 +5248,10 @@ Sit in a circle, begin each round with a different person, and change direction 
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/illustrations/rounds.png" alt="Rounds" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/rounds.png" alt="Rounds" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Rounds</figcaption>
 </figure>
 
@@ -5140,7 +5344,10 @@ Short formats you can use:
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/evaluate-interactions.png" alt="Evaluate meetings right before closing the meeting" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/evaluate-interactions.png" alt="Evaluate meetings right before closing the meeting" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Evaluate meetings right before closing the meeting</figcaption>
 </figure>
 
@@ -5203,7 +5410,10 @@ As a governance facilitator, consider learning about and using the following pat
 
 
 <figure class="fig fig--limit-both fig--scale-small">
-    <img src="img/illustrations/facilitator.png" alt="The governance facilitator is typically a member of the team" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/facilitator.png" alt="The governance facilitator is typically a member of the team" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>The governance facilitator is typically a member of the team</figcaption>
 </figure>
 
@@ -5314,7 +5524,10 @@ A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" dat
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/workflow-and-value/simple-process.png" alt="Visualization of a simple work process" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/workflow-and-value/simple-process.png" alt="Visualization of a simple work process" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Visualization of a simple work process</figcaption>
 </figure>
 
@@ -5331,7 +5544,10 @@ A prioritized <a href="glossary.html#entry-backlog" class="glossary-tooltip" dat
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/workflow-and-value/card.png" alt="A card representing a work item" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/workflow-and-value/card.png" alt="A card representing a work item" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>A card representing a work item</figcaption>
 </figure>
 
@@ -5389,7 +5605,10 @@ Establishing a process for the ongoing elimination of waste enables natural evol
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/workflow-and-value/drivers-value-waste.png" alt="Drivers, Value and Waste" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/workflow-and-value/drivers-value-waste.png" alt="Drivers, Value and Waste" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Drivers, Value and Waste</figcaption>
 </figure>
 
@@ -5475,14 +5694,18 @@ The center provides internal services to support the organization.
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/structural-patterns/peach-organization.png" alt="Peach Organization" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/peach-organization.png" alt="Peach Organization" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Peach Organization</figcaption>
 </figure>
 
 
 #### Double-Linked Hierarchy
 
-Delegate all authority for making governance decisions to circles, double-linked across all levels of the hierarchy, to transition from a traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence, and building engagement.
+<div class="card summary"><div class="card-body">Delegate all authority for making governance decisions to circles, double-linked across all levels of the hierarchy, to transition from a traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence, and building engagement.
+</div></div>
 
 1. On all levels of your organization, shift responsibility for governance decision-making from individuals to _circles_ by granting teams formal  authority for making certain governance decisions themselves.
 2. Each circle's members select one of their group to represent their interests and participate in the <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Governance: The sum of activities involved in setting objectives and making and evolving decisions (policies) that guide people toward achieving those objectives, for the entire organization or specific people within it.">governance</a> decision-making of the next higher circle, and vice versa.
@@ -5494,7 +5717,10 @@ A double-linked hierarchy:
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/structural-patterns/double-linked-hierarchy.png" alt="A double-linked hierarchy: not your typical hierarchy" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/double-linked-hierarchy.png" alt="A double-linked hierarchy: not your typical hierarchy" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>A double-linked hierarchy: not your typical hierarchy</figcaption>
 </figure>
 
@@ -5515,7 +5741,10 @@ A double-linked hierarchy:
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/structural-patterns/service-organization-text.png" alt="Service Organization" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/service-organization-text.png" alt="Service Organization" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Service Organization</figcaption>
 </figure>
 
@@ -5531,7 +5760,10 @@ If necessary, the pattern can be repeated to connect multiple fractal organizati
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/structural-patterns/fractal-organization.png" alt="Fractal Organization" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/fractal-organization.png" alt="Fractal Organization" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Fractal Organization</figcaption>
 </figure>
 
@@ -5572,7 +5804,10 @@ The second and third tier:
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/csf/csf-logo.png" alt="The Common Sense Framework" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/csf/csf-logo.png" alt="The Common Sense Framework" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>The Common Sense Framework</figcaption>
 </figure>
 
@@ -5633,7 +5868,10 @@ The **Common Sense Framework** (CSF) lays out the big picture of what to conside
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/csf/csf-light-orientation.png" alt="Two Principles for Orientation: Clarify Purpose — Develop Strategy" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/csf/csf-light-orientation.png" alt="Two Principles for Orientation: Clarify Purpose — Develop Strategy" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Two Principles for Orientation: Clarify Purpose — Develop Strategy</figcaption>
 </figure>
 
@@ -5667,7 +5905,10 @@ Essential Patterns to help you achieve this:
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/csf/csf-light-navigation.png" alt="Three Principles for Navigation: Focus on Value — Sense &amp; Respond — Run Experiments" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/csf/csf-light-navigation.png" alt="Three Principles for Navigation: Focus on Value — Sense &amp; Respond — Run Experiments" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Three Principles for Navigation: Focus on Value — Sense &amp; Respond — Run Experiments</figcaption>
 </figure>
 
@@ -5720,7 +5961,10 @@ Essential patterns to help you achieve this:
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/csf/csf-light-structure.png" alt="Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/csf/csf-light-structure.png" alt="Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Two Principles for Structure: Enable Autonomy — Collaborate on Dependencies</figcaption>
 </figure>
 
@@ -5762,7 +6006,10 @@ Essential patterns to help you achieve this:
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/csf/csf-light-transformation.png" alt="Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/csf/csf-light-transformation.png" alt="Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Three Principles for Transformation: Invest in Learning — Intentionally Develop Culture — Build Shared Mental Models</figcaption>
 </figure>
 
@@ -5811,7 +6058,10 @@ Essential patterns to help you achieve this:
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/csf/csf-light.png" alt="Ten Principles for Evolving Teams and Organizations" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/csf/csf-light.png" alt="Ten Principles for Evolving Teams and Organizations" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Ten Principles for Evolving Teams and Organizations</figcaption>
 </figure>
 
@@ -7030,7 +7280,10 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/james-liliana-bernhard.png" alt="James Priest, Liliana David, Bernhard Bockelbrink" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/james-liliana-bernhard.png" alt="James Priest, Liliana David, Bernhard Bockelbrink" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>James Priest, Liliana David, Bernhard Bockelbrink</figcaption>
 </figure>
 

@@ -22,6 +22,9 @@ Share valuable adaptations with the S3 community.
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/process/adapt-pattern-to-context.png" alt="Phases of adapting patterns to a specific context" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/adapt-pattern-to-context.png" alt="Phases of adapting patterns to a specific context" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Phases of adapting patterns to a specific context</figcaption>
 </figure>

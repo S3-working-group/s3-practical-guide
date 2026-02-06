@@ -16,7 +16,10 @@ If necessary, the pattern can be repeated to connect multiple fractal organizati
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/structural-patterns/fractal-organization.png" alt="Fractal Organization" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/fractal-organization.png" alt="Fractal Organization" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Fractal Organization</figcaption>
 </figure>
 

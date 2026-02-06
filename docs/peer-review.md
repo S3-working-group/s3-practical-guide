@@ -14,7 +14,10 @@ The role keeper — or team — leads the peer review by setting up the process,
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/process/peer-review.png" alt="Peer review process" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/peer-review.png" alt="Peer review process" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Peer review process</figcaption>
 </figure>
 
@@ -31,7 +34,10 @@ For both appreciations and improvement suggestions, ensure you consider the foll
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/process/development-process.png" alt="Continuous improvement of people&#x27;s ability to effectively keep roles or collaborate in teams" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/development-process.png" alt="Continuous improvement of people&#x27;s ability to effectively keep roles or collaborate in teams" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Continuous improvement of people's ability to effectively keep roles or collaborate in teams</figcaption>
 </figure>
 

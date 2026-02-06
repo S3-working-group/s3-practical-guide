@@ -14,6 +14,9 @@ A service circle can be populated by members of the <a href="glossary.html#entry
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/structural-patterns/service-circle.png" alt="Service Circle" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/service-circle.png" alt="Service Circle" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Service Circle</figcaption>
 </figure>

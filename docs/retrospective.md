@@ -17,7 +17,10 @@ prev_page_url: "meeting-formats.html"
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/retrospective.png" alt="Output of a retrospective" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/retrospective.png" alt="Output of a retrospective" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Output of a retrospective</figcaption>
 </figure>
 

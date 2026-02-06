@@ -19,6 +19,9 @@ prev_page_url: "double-linked-hierarchy.html"
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/structural-patterns/service-organization-text.png" alt="Service Organization" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/service-organization-text.png" alt="Service Organization" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Service Organization</figcaption>
 </figure>

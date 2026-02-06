@@ -113,7 +113,10 @@ All of the following elements are important to consider when clarifying a domain
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/templates/domain-description-template.png" alt="Template for a domain description" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/templates/domain-description-template.png" alt="Template for a domain description" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Template for a domain description</figcaption>
 </figure>
 

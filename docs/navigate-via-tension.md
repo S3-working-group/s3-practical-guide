@@ -42,14 +42,20 @@ On other occasions, however, you'll come across drivers that are the responsibil
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/process/nvt.png" alt="Navigate via Tension" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/nvt.png" alt="Navigate via Tension" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Navigate via Tension</figcaption>
 </figure>
 
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/process/navigate-describe-respond-determine.png" alt="Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/navigate-describe-respond-determine.png" alt="Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Navigate via Tension in the context of Describe Organizational Drivers, Respond To Organizational Drivers and Determine Requirement</figcaption>
 </figure>
 

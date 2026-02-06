@@ -14,6 +14,9 @@ A team selects one of its members to represent their interests in the <a href="g
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/structural-patterns/link.png" alt="One circle linked to another circle" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/link.png" alt="One circle linked to another circle" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>One circle linked to another circle</figcaption>
 </figure>

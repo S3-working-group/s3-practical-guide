@@ -19,7 +19,10 @@ One way to understand work in organizations is as _people making interventions t
 
 
 <figure class="fig fig--limit-both fig--scale-small">
-    <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -48,7 +51,10 @@ Clarifying both the organizational driver and the associated requirement makes i
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/purposeful-action-full.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/purposeful-action-full.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -56,7 +62,10 @@ There is also a **natural sequence** to this approach: A clear understanding of 
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/purposeful-action/understand-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/understand-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -120,7 +129,10 @@ Within an organization, each team, role, decision, and action serves a purpose â
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/nested-purpose.png" alt="Organizations are complex networks of interrelated purposes." class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/nested-purpose.png" alt="Organizations are complex networks of interrelated purposes." class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Organizations are complex networks of interrelated purposes.</figcaption>
 </figure>
 
@@ -132,7 +144,10 @@ Developing and maintaining coherence across this complex, dynamic network of int
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -158,7 +173,10 @@ In many situations, especially when things are new, uncertain, or complex, our u
 
 
 <figure class="fig fig--limit-both fig--scale-small">
-    <img src="img/purposeful-action/purposeful-action-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/purposeful-action-purpose.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -242,7 +260,10 @@ Related Patterns:
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/purposeful-action-reverse.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/purposeful-action-reverse.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -378,7 +399,10 @@ The distinction mirrors a broader pattern: each present-focused element (current
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/purposeful-action/driver-requirement-table.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/driver-requirement-table.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -389,7 +413,10 @@ The model of purposeful action rests on the observation that work in organizatio
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/purposeful-action-basic.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -462,7 +489,10 @@ Following the model for purposeful action, there is a specific purpose (driver a
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/sub-interventions.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/sub-interventions.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 

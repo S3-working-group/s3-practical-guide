@@ -57,7 +57,10 @@ Aim to create **a comprehensive but brief summary in two or three sentences**, s
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/process/describe-organizational-drivers.png" alt="Describe Organizational Drivers" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/describe-organizational-drivers.png" alt="Describe Organizational Drivers" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Describe Organizational Drivers</figcaption>
 </figure>
 

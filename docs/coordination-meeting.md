@@ -23,6 +23,9 @@ Agenda items:
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/coordination-meeting.png" alt="Phases of a coordination meeting" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/coordination-meeting.png" alt="Phases of a coordination meeting" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Phases of a coordination meeting</figcaption>
 </figure>

@@ -22,7 +22,10 @@ A prerequisite to the selection process is a [clear description](clarify-and-dev
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/policy/selection.png" alt="Role selection process" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/selection.png" alt="Role selection process" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Role selection process</figcaption>
 </figure>
 

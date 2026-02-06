@@ -22,6 +22,9 @@ A strategy is a shared agreement between delegator(s) and delegatee(s) that is r
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/illustrations/domain-driver-strategy-exeriments.png" alt="Strategies are validated and refined through experimentation and learning." class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/domain-driver-strategy-exeriments.png" alt="Strategies are validated and refined through experimentation and learning." class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Strategies are validated and refined through experimentation and learning.</figcaption>
 </figure>

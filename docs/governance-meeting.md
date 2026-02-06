@@ -41,7 +41,10 @@ A typical governance meeting includes the following phases:
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/governance-meeting.png" alt="Phases of a governance meeting" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/governance-meeting.png" alt="Phases of a governance meeting" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Phases of a governance meeting</figcaption>
 </figure>
 

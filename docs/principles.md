@@ -13,7 +13,10 @@ Practicing Sociocracy 3.0 helps people appreciate the essential value that these
 
 
 <figure class="fig fig--limit-height fig--scale-small">
-    <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/s3-principles-plain.png" alt="The Seven Principles" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>The Seven Principles</figcaption>
 </figure>
 

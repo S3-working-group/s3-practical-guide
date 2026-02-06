@@ -11,7 +11,10 @@ We sell consulting, learning facilitation, coaching and mentoring, including but
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/james-liliana-bernhard.png" alt="James Priest, Liliana David, Bernhard Bockelbrink" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/james-liliana-bernhard.png" alt="James Priest, Liliana David, Bernhard Bockelbrink" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>James Priest, Liliana David, Bernhard Bockelbrink</figcaption>
 </figure>
 

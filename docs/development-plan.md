@@ -18,6 +18,9 @@ A development plan (and any accompanying recommendations for changes to the desc
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/templates/development-plan-template.png" alt="A template for development plans" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/templates/development-plan-template.png" alt="A template for development plans" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>A template for development plans</figcaption>
 </figure>

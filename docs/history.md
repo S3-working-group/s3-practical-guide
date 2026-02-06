@@ -9,7 +9,10 @@ prev_page_url: "contents.html"
 
 
 <figure class="fig fig--limit-width fig--scale-full">
-    <img src="img/framework/history.png" alt="Influences and history of Sociocracy 3.0" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/framework/history.png" alt="Influences and history of Sociocracy 3.0" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Influences and history of Sociocracy 3.0</figcaption>
 </figure>
 

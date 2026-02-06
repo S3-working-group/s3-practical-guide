@@ -27,6 +27,9 @@ A role keeper may maintain a governance <a href="glossary.html#entry-backlog" cl
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/illustrations/roles.png" alt="People can take responsibility for more than one role" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/roles.png" alt="People can take responsibility for more than one role" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>People can take responsibility for more than one role</figcaption>
 </figure>

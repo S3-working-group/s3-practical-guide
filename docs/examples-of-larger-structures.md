@@ -13,7 +13,7 @@ prev_page_url: "organizational-structure.html"
   <dd><p>Deliver value in complex and competitive environments through <em>decentralization</em> (of resources and influence) and <em>direct interaction</em> between those creating value and the customers they serve.</p></dd>
 
   <dt><a href="double-linked-hierarchy.html">Double-Linked Hierarchy</a></dt>
-  <dd></dd>
+  <dd><p>Delegate all authority for making governance decisions to circles, double-linked across all levels of the hierarchy, to transition from a traditional hierarchy towards a structure more suitable for tapping collective intelligence, ensuring equivalence, and building engagement.</p></dd>
 
   <dt><a href="service-organization.html">Service Organization</a></dt>
   <dd><p>Multi-stakeholder collaboration and alignment towards a shared driver (or objective).</p></dd>

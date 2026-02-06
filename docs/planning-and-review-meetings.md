@@ -18,7 +18,10 @@ While the planning meeting is typically limited to team members, the review meet
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/planning-review.png" alt="Planning and review meetings" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/planning-review.png" alt="Planning and review meetings" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Planning and review meetings</figcaption>
 </figure>
 

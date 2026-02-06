@@ -14,7 +14,10 @@ To make <a href="glossary.html#entry-governance" class="glossary-tooltip" data-t
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/structural-patterns/delegate-circle.png" alt="Delegate Circle" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/structural-patterns/delegate-circle.png" alt="Delegate Circle" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Delegate Circle</figcaption>
 </figure>
 

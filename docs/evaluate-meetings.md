@@ -22,7 +22,10 @@ Short formats you can use:
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/meetings/evaluate-interactions.png" alt="Evaluate meetings right before closing the meeting" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/meetings/evaluate-interactions.png" alt="Evaluate meetings right before closing the meeting" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Evaluate meetings right before closing the meeting</figcaption>
 </figure>
 

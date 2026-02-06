@@ -16,7 +16,10 @@ Most domains in an organization fall entirely within the overall domain of the o
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/illustrations/domains-in-organizations.png" alt="Domains may overlap or be fully contained within other domains." class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/illustrations/domains-in-organizations.png" alt="Domains may overlap or be fully contained within other domains." class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Domains may overlap or be fully contained within other domains.</figcaption>
 </figure>
 

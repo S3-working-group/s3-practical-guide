@@ -32,7 +32,10 @@ When used by a group, it helps draw on the collective intelligence and diversity
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/policy/proposal-forming.png" alt="Proposal forming process" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/policy/proposal-forming.png" alt="Proposal forming process" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption>Proposal forming process</figcaption>
 </figure>
 

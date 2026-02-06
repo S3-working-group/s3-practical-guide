@@ -56,7 +56,10 @@ If you are not familiar with the concepts of purpose, driver, requirement, and i
 
 
 <figure class="fig fig--limit-width fig--scale-small">
-    <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/process/respond-to-org-drivers.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
 
@@ -158,6 +161,9 @@ The process for **evaluating policies** typically benefits from a more structure
 
 
 <figure class="fig fig--limit-both fig--scale-normal">
-    <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+    <div class="zoom-container">
+        <img src="img/purposeful-action/inspect-and-adapt-mono.png" alt="" class="zoomify" loading="lazy" decoding="async">
+        <div class="zoom-icon"></div>
+    </div>
     <figcaption></figcaption>
 </figure>
