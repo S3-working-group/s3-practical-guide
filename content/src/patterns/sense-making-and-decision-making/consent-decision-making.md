@@ -54,7 +54,7 @@ _Share the proposal with everyone._
 
 **Facilitator asks the author(s) of the proposal:** _Would you please present the proposal to everyone?_
 
-The author(s) of the proposal (when using [Proposal Forming](section:proposal-forming), the[tuners](glossary:tuners)) present it to the group, including details about who is responsible for what, a suggested review date or frequency, and any identified evaluation criteria. 
+The author(s) of the proposal (when using [Proposal Forming](section:proposal-forming), the [tuners](glossary:tuners)) present it to the group, including details about who is responsible for what, a suggested review date or frequency, and any identified evaluation criteria. 
 
 **Preparation:** Send out the proposal in advance of the meeting (whenever possible) so that people can familiarize themselves with the content, ask any clarifying questions, or even share improvement suggestions before the meeting. This saves taking up precious face-to-face meeting time for things that can be done outside of the meeting.
 
